@@ -1,0 +1,128 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8041164,story,,,1,0,greato,Portal – an esolang inspired by the video game namesake,https://github.com/greato/portal,,1405501189.0
+1,8041163,comment,8038923.0,8039256.0,1,0,72deluxe,,,"I used Informix 11 inside Cisco CM and it seemed alright, although their syntax for returning data from stored procedures seemed odd (they returned data by shoving it into variables and then calling return multiple times in a loop instead of just returning a &quot;set&quot; data type) but that could be my unfamiliarity with it.<p>Those SPs were pretty massive too, hundreds and hundreds of lines long, calling other hundred lines SPs.",1405501150.0
+2,8041162,comment,8040943.0,8041072.0,5,0,mmaldacker,,,It&,
+3,8041161,comment,8040777.0,8040777.0,2,0,cliveowen,,,The highest barrier of entry for Android programming isn&,
+4,8041159,comment,8038923.0,8039467.0,1,0,72deluxe,,,Sorry to correct you but IOS with a capital I is Cisco&,
+5,8041158,comment,8038923.0,8040286.0,1,0,72deluxe,,,"Yeah, but have you seen the &quot;race to the bottom&quot; manufacturers offering their own brand cornflakes? It&",
+6,8041157,comment,8037474.0,8037474.0,1,0,chatmasta,,,"A bit off topic, but seatgeek seems like a really impressive engineering organization. They pump out some seriously useful code and articles. Examples:<p><a href=""http://chairnerd.seatgeek.com/oauth-support-for-nginx-with-lua/"" rel=""nofollow"">http://chairnerd.seatgeek.com/oauth-support-for-nginx-with-l...</a><p><a href=""https://github.com/seatgeek/sixpack"" rel=""nofollow"">https://github.com/seatgeek/sixpack</a><p><a href=""https://github.com/seatgeek/fuzzywuzzy"" rel=""nofollow"">https://github.com/seatgeek/fuzzywuzzy</a><p><a href=""https://github.com/seatgeek/djjob"" rel=""nofollow"">https://github.com/seatgeek/djjob</a><p><a href=""https://github.com/seatgeek/soulmate"" rel=""nofollow"">https://github.com/seatgeek/soulmate</a><p><a href=""http://chairnerd.seatgeek.com/spatial-data-structures-for-better-map-interactions/"" rel=""nofollow"">http://chairnerd.seatgeek.com/spatial-data-structures-for-be...</a><p>That&",
+7,8041156,comment,8040943.0,8041104.0,3,0,noonespecial,,,Guess we&,
+8,8041155,comment,8040943.0,8041143.0,2,0,mmaldacker,,,"That is very true, but nobody is pushing through here. The trader clearly didn&",
+9,8041154,story,,,1,0,khc,Baseline and IonMonkey in Firefox 32,http://blog.mozilla.org/javascript/2014/07/15/ionmonkey-optimizing-away/,,1405500900.0
+10,8041153,comment,8040585.0,8040585.0,1,0,simonblack,,,Sometimes the lo-tech approach works the best.<p>Shades of the &,
+11,8041152,comment,8038923.0,8039247.0,1,0,72deluxe,,,"Do you really believe that Google was ready to take charge of the market? Many people have a Gmail account and a YouTube account, but do you see many people using their Docs offering instead of Microsoft Office?<p>Without trying to sound too harsh, the problem with Google is that they have a faddish focus, and don&",
+12,8041151,comment,8040524.0,8040907.0,2,0,hackerboos,,,Metacasts[1] was good for Ruby/Rails but the author is now focusing on Go.<p>Ruby Tapas[2] by Avdi Grimm is a good replacement - although it&,
+13,8041150,comment,8039911.0,8040047.0,1,0,danieldrehmer,,,"after that he gives more details on his design for a vtol supersonic aircraft, which is awesome",1405500763.0
+14,8041149,comment,8036648.0,8038282.0,3,0,makomk,,,"> Web browsers and desktop environments are especially bad<p>Most web browsers are actually pretty memory efficient these days. Unfortunately, the websites they&",
+15,8041148,comment,8040716.0,8041128.0,1,0,chatmasta,,,I&,
+16,8041147,comment,8040777.0,8040777.0,2,0,algorithms,,,"My question to other android developers and especially people in hiring positions:<p>Do you think such a certificate would be a deciding factor in the hiring process? (Especially for entry-level positions, but also generally)",1405500635.0
+17,8041146,comment,8020883.0,8020883.0,1,0,farhanpatel,,,Any plans of adding S3 support. Would be great for uploading a larger library. This paired with something like ArqBackup could auto upload your library to S3.,1405500630.0
+18,8041145,comment,8040943.0,8040994.0,4,0,mmaldacker,,,"The trader wanted to buy 20 000 shares at 17.38, that&",
+19,8041144,comment,8040448.0,8040561.0,11,0,netcan,,,"This is more of a tool for <i>thinking</i> about growth rate, startup capital and expenses in general than a model for calculating an estimate of any kind. For that, you need to make your own for your business.<p><i>&quot;A good growth rate during YC is 5-7% a week. If you can hit 10% a week you&",
+20,8041143,comment,8040943.0,8041059.0,2,0,prof_hobart,,,If you stood in front of all of those carts simultaneously and said &quot;I&,
+21,8041142,comment,8039583.0,8041073.0,2,0,dwd,,,"I would think it comes down to the number of candidates because you either number one box above the line or every box below.<p>With the number of candidates doubling last election, Tasmania was probably more like 90%.<p><a href=""http://blogs.abc.net.au/antonygreen/2013/08/record-number-of-candidates-to-contest-2013-election.html"" rel=""nofollow"">http://blogs.abc.net.au/antonygreen/2013/08/record-number-of...</a>",1405500545.0
+22,8041141,comment,8039569.0,8041053.0,1,0,klukstins,,,"Cool, will definitely do.",1405500528.0
+23,8041140,comment,8040777.0,8041054.0,1,0,algorithms,,,It&,
+24,8041138,comment,8038967.0,8040696.0,1,0,thret,,,"This is a good point, although I submit that the magnetic direction is irrelevant for their purpose.",1405500432.0
+25,8041137,comment,8034920.0,8038239.0,2,0,5555624,,,"Because they have enough signatures to put this on the ballot and present it to the voters.<p>When it came out earlier, it was because Debra Bowen, California Secretary of State, gave Draper the go-ahead to gather the necessary signatures to put this on the ballot. They had a deadline of this Friday, 18 July. Draper announced on Monday he had enough signatures and would be filing them on Tuesday.",1405500426.0
+26,8041136,comment,8040837.0,8041061.0,1,0,fernly,,,"This, kartograph.org, looks really useful for the mapmaker who can program. Very, very pretty examples! However, it still requires programming knowledge, Python to create an SVG map, and good HTML/CSS and basic JS to load and display one.<p>I&",
+27,8041135,comment,8041084.0,8041084.0,1,0,mooism2,,,Why does it need face recognition?<p>Why can&,
+28,8041134,story,,,2,0,pmcpinto,List of the Best Mac Apps,http://lifehacker.com/lifehacker-pack-for-mac-our-list-of-the-best-mac-apps-635303836,,1405500393.0
+29,8041133,comment,8036959.0,8037632.0,1,0,jibsen,,,"On that subject; say what you want about how clunky CMake is, but it&",
+30,8041132,comment,8040524.0,8040524.0,2,0,shire,,,is there something similar for PHP?,1405500353.0
+31,8041131,story,,,1,0,roypovar,3 Powerful Offline Referral Opportunities You’re Probably Missing Out On,http://roy.roypovarchik.com/2014/07/3-powerful-offline-referral/,,1405500331.0
+32,8041130,comment,8040369.0,8040369.0,2,0,jamesbrownuhh,,,&quot;singing up for DO was a total disaster.&quot;<p>&quot;Fix you workflow.&quot;<p>&quot;the sending in my ID the asking for another&quot;<p>&quot;still noting being able to sign up&quot;<p>&quot;There is now way&quot;<p>&quot;Maybee for a small blog&quot;<p>&quot;trying to compare to lindode&quot;<p>And they have the cheek to suggest that DO have &quot;a totally untrained offshore support center&quot;?,1405500252.0
+33,8041129,comment,8040569.0,8040902.0,2,0,padenot,,,"You can use {call,cache}grind for that, but sometimes it&",
+34,8041128,comment,8040716.0,8040716.0,1,0,xrjn,,,I&,
+35,8041127,comment,8038923.0,8039696.0,1,0,lnanek2,,,"Right now, if you are an enterprise who is going to give every employee or retail store a device for some reason, you often go Android since it is so much cheaper and can be customized more than slapping a sled with a bar code scanner and a battery on it. This helps make Apple more competitive in the B2B arena. Traditionally they have been good just at getting to consumers.",1405500086.0
+36,8041126,comment,8040540.0,8040950.0,2,0,agos,,,"The system is a bit more redundant now: there are now 32 satellites, and on average 9 are visibile from any point.",1405500056.0
+37,8041125,comment,8040170.0,8040741.0,1,0,mbq,,,"Or simply a link to the ML CRAN Task View: <a href=""http://cran.r-project.org/web/views/MachineLearning.html"" rel=""nofollow"">http://cran.r-project.org/web/views/MachineLearning.html</a>",1405500045.0
+38,8041123,comment,8040837.0,8040878.0,1,0,fernly,,,"Hmm. I could draw a line representing the boat ride from Flåm Norway around to Gudvangen, so success there. But it&",
+39,8041121,comment,8040540.0,8040950.0,2,0,timthorn,,,"There are multiple GNSS platforms - not just GPS & Galileo, but also GLONASS, Compass, IRNSS, and others. Some receivers are multi-system capable, such as:\n<a href=""http://www.u-blox.com/en/gps-chips/stand-alone-gps-chips/ubx-g7020-ctktka.html"" rel=""nofollow"">http://www.u-blox.com/en/gps-chips/stand-alone-gps-chips/ubx...</a>",1405500004.0
+40,8041120,comment,8040540.0,8040540.0,2,0,mer10z,,,"Does this mean that the people living on the space station age faster than people on earth, or does this only affect the atomic clocks?",1405499952.0
+41,8041119,story,,,2,2,digamber_kamat,Does it make sense to send all kids to schools in India?,http://akshar100.wordpress.com/2014/07/15/is-public-education-worth-it/,,1405499948.0
+42,8041118,comment,8040943.0,8041059.0,13,0,don_draper,,,"&quot;If you walk through a physical market where 8 apple carts are lined up, all selling apples for $1, buy every apple at cart ",
+43,8041117,comment,8040540.0,8040950.0,2,0,jupiter,,,"There is <a href=""http://en.wikipedia.org/wiki/GLONASS"" rel=""nofollow"">http://en.wikipedia.org/wiki/GLONASS</a>",1405499935.0
+44,8041115,comment,8040859.0,8041080.0,1,0,sgift,,,"> More realistically, DT is (perceived as) a premium provider<p>Okay, maybe my views about DT are really outdated, but ... premium provider? Who thinks about DT as a premium provider? The only thing I think about when I hear Telekom is &quot;incumbent who does everything to stifle competition&quot; and so do most people I know.",1405499885.0
+45,8041114,comment,8036686.0,8040167.0,5,0,smegel,,,> It&,
+46,8041113,comment,8038923.0,8039896.0,3,0,lnanek2,,,"> IBM will act as a giant sales arm, and apple would fulfill whatever contract IBM can land<p>It is OK to think that way re hardware. But it is backwards re software. IBM sold off almost all their hardware divisions (laptops, printers, storage) because they make their money on services. IBM is basically a consultancy nowadays. IBM is doing what they do here: selling software consulting services and solutions that run on Apple. Apple isn&",
+47,8041112,comment,8037560.0,8038651.0,2,0,dwd,,,Currently in the early stage of such a reorganisation.<p>About a year ago the development team was on a separate floor and communication breakdowns with business were endemic. Treating marketing like a customer didn&,
+48,8041111,comment,8040943.0,8040943.0,2,0,th3iedkid,,,what is market-pricing without arbitrage?,1405499846.0
+49,8041110,comment,8012680.0,8012680.0,2,0,codygman,,,"Also checkout the purescript book being created:<p><a href=""https://github.com/paf31/purescript-book/blob/master/chapters/1%20-%20Introduction.md"" rel=""nofollow"">https://github.com/paf31/purescript-book/blob/master/chapter...</a>",1405499818.0
+50,8041109,comment,8035735.0,8036912.0,1,0,teekert,,,I can&,
+51,8041108,story,,,1,1,tragic,Ask HN: Help me cram Java,,"Hi everyone,<p>I&",
+52,8041107,story,,,1,0,zerolinesofcode,IBM Design,http://www.ibm.com/design/,,1405499750.0
+53,8041106,comment,8040226.0,8041046.0,2,0,kijin,,,"Unfortunately, Tengwar is not an official part of Unicode. Ditto for Klingon.",1405499724.0
+54,8041105,comment,8020704.0,8031531.0,1,0,jackvalentine,,,"I thought that might be your reasoning, but it doesn&",
+55,8041104,comment,8040943.0,8041094.0,2,0,dzderic,,,"This &quot;solution&quot; will only make it harder for regular folks to execute orders, since HFTs will beat the randomness by shooting multiple orders through multiple order gateways.",1405499693.0
+56,8041103,comment,8040226.0,8040226.0,2,0,marcoms,,,Nice to see Material design in use on their sites for one of the first times!,1405499676.0
+57,8041102,comment,8038990.0,8039211.0,4,0,pjc50,,,There were people who lost accounts that were critical to their business because Google didn&,
+58,8041101,comment,8038990.0,8039789.0,1,0,vidarh,,,"You can turn off the image upload. In fact, I believe you&",
+59,8041100,comment,8040943.0,8041078.0,1,0,simplemath,,,Pretty sure he&,
+60,8041098,comment,8040943.0,8041059.0,5,0,DevX101,,,"If buyers were to time divide their order and time it so the request ended up at each exchange at the exact same millisecond, would this prevent others from reacting to the big trader?",1405499604.0
+61,8041097,comment,8040859.0,8041088.0,5,0,mkal_tsr,,,"Look at the jtrig section for shaping/honeypots,<p><a href=""https://firstlook.org/theintercept/document/2014/07/14/jtrig-tools-techniques/"" rel=""nofollow"">https://firstlook.org/theintercept/document/2014/07/14/jtrig...</a><p>... there&",
+62,8041096,comment,8040226.0,8040495.0,5,0,marcoms,,,"No technical reasons, but it would be unlikely for Apple or Microsoft to adopt a font made by Google, when their own alternatives exist, despite technical superiority. Android already uses Roboto, which has been heavily invested in for Android 4+ and now with Material design too. Of course, by Linux I&",
+63,8041095,comment,8040226.0,8040550.0,2,0,Osmium,,,Surely there are enough unicode code points for this not be a problem? Can you use the historical character + combining mark (which shows which &,
+64,8041094,comment,8040943.0,8041078.0,1,0,noonespecial,,,"Its a bit of a joke. Its a network thing, not a finance thing. What it does is adds a delay and more importantly, a bit more <i>random</i> delay to the time it takes the order to reach the exchanges server. Once you add in the non-determinism, HFT basically falls apart because you can&",
+65,8041093,comment,8040943.0,8041078.0,2,0,jackvalentine,,,"The command introduces a delay of between 100 and 10ms to every packet. Screwing up trades that rely on being the fastest.<p><a href=""http://www.linuxfoundation.org/collaborate/workgroups/networking/netem"" rel=""nofollow"">http://www.linuxfoundation.org/collaborate/workgroups/networ...</a>",1405499474.0
+66,8041092,story,,,2,0,sizzle,Coping With A Co-Worker's Body Odor Takes Tact,http://www.npr.org/blogs/health/2014/07/16/331798973/coping-with-a-co-workers-body-odor-takes-tact?sc=tw,,1405499457.0
+67,8041090,story,,,1,0,dsirijus,GoodUI Datastories,http://www.goodui.org,,1405499455.0
+68,8041089,comment,8038990.0,8040986.0,4,0,laumars,,,That doesn&,
+69,8041088,comment,8040859.0,8040936.0,3,0,hadoukenio,,,"For now, it looks like there&",
+70,8041087,story,,,1,0,amirmc,OCaml-Java is open sourced,http://www.ocamljava.org/,,1405499319.0
+71,8041086,comment,8040807.0,8040807.0,6,0,kenny_r,,,"In the output of line 85 there two punycoded[1] domain names: xn--g5t518j which is actually 微風 and xn--42cgk1gc8crdb1htg3d which is actually มอไซค์มือสอง.<p>As a result of the encoding, the domain names look junky while perhaps they aren&",
+72,8041085,comment,8040943.0,8040943.0,2,0,DevX101,,,Can someone explain what&,
+73,8041084,story,,,5,3,shunyunhu,Bistro: The Smart Feeder That Recognizes Your Cat's Face,https://www.indiegogo.com/projects/bistro-the-smart-feeder-that-recognizes-your-cat-s-face,,1405499278.0
+74,8041083,comment,8040524.0,8041009.0,2,0,riffraff,,,+1 I&,
+75,8041082,story,,,1,0,minaandrawos,"Life is not fair, so what?",http://www.minaandrawos.com/2014/07/15/life-is-not-fair-get-over-it/,,1405499271.0
+76,8041081,comment,8040943.0,8041072.0,6,0,noonespecial,,,I&,
+77,8041080,comment,8040859.0,8041036.0,2,0,UweSchmidt,,,"More realistically, DT is (perceived as) a premium provider and his will automatically expand Dropbox&",
+78,8041079,comment,8040109.0,8040768.0,5,0,kzrdude,,,"The problem is that the string story is on two sides of a barrier erected in Rust very much by intention: <i>To make memory allocation explicit, and to enable allocation-free operations as far as possible</i><p>This is why Rust will have you juggle String (a string with allocation) and &str (a &quot;string slice&quot;; a view into an allocation elsewhere) all the time.",1405499234.0
+79,8041078,comment,8040943.0,8041064.0,1,0,DevX101,,,what does this do? (non-finance guy here),1405499223.0
+80,8041077,comment,8031606.0,8040916.0,1,0,collyw,,,"OK, slightly ignorant question here, but SQL is kind of a standard for RDBMS&",
+81,8041075,comment,8038990.0,8040928.0,1,0,newaccountfool,,,So is the NSA.,1405499190.0
+82,8041074,comment,8036251.0,8040980.0,1,0,hrrsn,,,Google Code really needs a bit of an overhaul these days.,1405499139.0
+83,8041073,comment,8039583.0,8040411.0,1,0,taejo,,,Any speculation on way Tasmania votes below the line so much more than the mainland?,1405499061.0
+84,8041072,comment,8040943.0,8041059.0,3,0,simplemath,,,Except that what&,
+85,8041071,story,,,1,0,Charlesmigli,16 years old boy takes a selfie with Paul McCartney and Warren Buffet,https://twitter.com/WHITE_estkid/statuses/488520463002636288,,1405498924.0
+86,8041070,story,,,3,1,guynesher,Show HN: Beamly OnDemand,,About two months ago I participated in the DevLabLive hackathon and developed (along with a friend) a small Chrome extension that embed Beamly historical tweets (the relevant tweets that came out while the show was airing for the first time) into the most popular VOD platforms (in the uk).<p>I really enjoyed the hackathon and with the help of the beamly team we are finally able to officially release the plugin.<p>More information about the plugin can be found here:\nhttp://about.beamly.com/beamly-ondemand-plugin-bbc-iplayer-itv-player-4od/<p>And of course the code is up in Github:\nhttps://github.com/gnesher/beamly-chrome-plugin<p>Would love to hear your thoughts :),1405498864.0
+87,8041069,story,,,2,4,poseid,"Ask HN: Open-source hardware business models, what are the options?",,"Hi,<p>I am wondering what are the benefits/risks of making hardware products open-source. One question: How to make profit, when hardware is open-source?<p>a) Arduino is a nice example that open-source hardware can be profitable. Is this an exception (i.e. are there other open-source hardware companies that failed?)<p>b) What other examples of open-source hardware companies are there, and how do they differ from Arduino?<p>Thanks for sharing your thoughts!",1405498807.0
+88,8041067,comment,8039308.0,8040677.0,5,0,amarcus,,,That&,
+89,8041066,story,,,4,0,hjc89,Vagina selfie for 3D printers lands Japanese artist in trouble,http://www.theguardian.com/world/2014/jul/15/vagina-selfie-for-3d-printers-lands-japanese-artist-in-trouble,,1405498730.0
+90,8041064,comment,8040943.0,8040992.0,1,0,noonespecial,,,"Go to the router just entering the exchange, type:<p><pre><code>  tc qdisc change dev eth0 root netem delay 100ms 10ms\n</code></pre>\nProblem solved.",1405498717.0
+91,8041063,comment,8031840.0,8031840.0,1,0,vog,,,"<i>> I would love to see a world where the companies that own last-mile infrastructure are required to lease the lines to any ISP the end consumer wants; this would create a competitive market and mostly eliminate the problem</i><p>This is not enough. In Germany we already do have that situation, and the big leader (German Telekom, who own the vast majority of cables) just leases them for bad conditions. For example, their own customers got &quot;real&quot; flatrates while leasing competitors got only traffic-based contracts, so when they sell flatrates they have big trouble with traffic-intensive customers. (In the last year, the situation became more complicated, but that&",
+92,8041062,comment,8040109.0,8040469.0,3,0,broodbucket,,,I really appreciate you still updating Rust for Rubyists even though you&,
+93,8041061,comment,8040837.0,8040837.0,1,0,Lorenz-Kraft,,,"Hi, there is another nice library, but not google maps based:<p>There is also a nice ferry example ...\n<a href=""http://kartograph.org/showcase/italia/"" rel=""nofollow"">http://kartograph.org/showcase/italia/</a>",1405498630.0
+94,8041060,comment,8038003.0,8040436.0,3,0,anon4,,,That kind of game is part of S.G. Tatham&,
+95,8041059,comment,8040943.0,8040994.0,9,0,hft_throwaway,,,That&,
+96,8041058,comment,8035656.0,8035656.0,1,0,pcbo,,,Until date no company was able to tackle that issue. There&,
+97,8041057,comment,8038990.0,8040792.0,3,0,icebraining,,,Of course it&,
+98,8041056,comment,8040540.0,8040971.0,4,0,jcr,,,"Thanks for the info. I totally missed it.<p>Lecture Recordings:\n<a href=""http://www.astronomy.ohio-state.edu/~pogge/Ast162/Audio/"" rel=""nofollow"">http://www.astronomy.ohio-state.edu/~pogge/Ast162/Audio/</a><p>Lecture Notes:\n<a href=""http://www.astronomy.ohio-state.edu/~pogge/Ast162/index.html",
+99,8041055,comment,8040226.0,8041034.0,11,0,peteretep,,,"Sure, but, there are no Cornish glyphs. Cornish is entirely writeable with the same characters you write English with, so you get it for free",1405498427.0
+100,8041054,comment,8040777.0,8040777.0,2,0,adamors,,,> $150/month<p>> Free 2 week trial.,1405498425.0
+101,8041053,comment,8039569.0,8039569.0,1,0,philrea,,,"I am new to the valley and always enjoy meeting new people, shoot me an email when you get to town, I&",
+102,8041052,comment,8035656.0,8035801.0,1,0,pcbo,,,"nope, it doesn&",
+103,8041051,comment,8040859.0,8040859.0,2,0,domiono,,,"After Uber did the same thing a month ago with AT&T (<a href=""http://thenextweb.com/insider/2014/05/28/uber-partners-att-pre-install-app-new-android-phones/"" rel=""nofollow"">http://thenextweb.com/insider/2014/05/28/uber-partners-att-p...</a>), this seems like the marketing strategy that becomes unlocked after hitting a $10B market cap.",1405498318.0
+104,8041050,comment,8040226.0,8040625.0,0,0,mynameisvlad,,,A. I wouldn&,
+105,8041048,comment,8040859.0,8040996.0,0,0,Einstalbert,,,"Dropbox makes it easy for me to sync and share files (specifically funny meme images), I haven&",
+106,8041047,comment,8035735.0,8037199.0,2,0,smcl,,,This is common if you live abroad - registering with the foreign police.,1405498256.0
+107,8041046,comment,8040226.0,8040609.0,2,0,sandGorgon,,,"have an upvote if you file an enhancement request for Tengwar [1] at <a href=""https://code.google.com/p/noto/issues/list"" rel=""nofollow"">https://code.google.com/p/noto/issues/list</a> !!<p>[1] <a href=""http://www.omniglot.com/writing/tengwar.htm"" rel=""nofollow"">http://www.omniglot.com/writing/tengwar.htm</a>",1405498208.0
+108,8041045,comment,8040524.0,8041009.0,3,0,hayksaakian,,,The text casts are a great reference after the initial viewing.,1405498204.0
+109,8041044,comment,8038990.0,8039561.0,1,0,icebraining,,,Not that I&,
+110,8041043,comment,8040226.0,8040958.0,3,0,Fuxy,,,I&,
+111,8041042,comment,8040716.0,8041023.0,2,0,junto,,,Isn&,
+112,8041041,comment,8040922.0,8041018.0,2,0,kayman,,,"the stories are old, some from the 2000 dot com boom. But I find the content relevant and the mindset of the creators useful.",1405498133.0
+113,8041040,comment,8041037.0,8041037.0,1,0,nodata,,,Because they already sold the phone.,1405498104.0
+114,8041039,story,,,3,0,sinesha,Four-winged dinosaur found in China,http://www.theguardian.com/science/2014/jul/15/largest-four-winged-dinosaur-changyuraptor-yangi,,1405498100.0
+115,8041038,story,,,1,0,girishso,Show HN: Ruby client for Sparkfun's Phant,https://github.com/girishso/phant_rb,,1405498092.0
+116,8041037,story,,,1,1,RaSoJo,Why is Xiaomi so bad at Android updates?,http://www.techinasia.com/xiaomi-slow-with-android-updates/,,1405498038.0
+117,8041036,comment,8040859.0,8040859.0,3,0,sgift,,,"Really, Dropbox? DT? The most shitty telecom provider you could find? The pest of German internet access? The plague of providers? ... bah. At least it is only a pre-install program and not something like &quot;we use Telekom for all our services in Europe&quot;. I hope it stays that way.",1405498027.0
+118,8041035,story,,,5,0,gravis,Gemnasium is releasing in open-source its toolbelt cli written in go,https://github.com/gemnasium/toolbelt,,1405498012.0
+119,8041034,comment,8040226.0,8040574.0,3,0,harty65,,,I noticed the inclusion of Cornish. As of 2011 there were 557 people that claimed Cornish as their primary language.,1405497964.0
+120,8041033,comment,8036519.0,8037933.0,1,0,rplnt,,,"Yeah, it was sarcasm. I thought it wouldn&",
+121,8041032,comment,8036864.0,8036864.0,1,0,Tsiolkovsky,,,Looks awesome. Congrats and thanks to everyone working on this.,1405497936.0
+122,8041031,story,,,1,0,trpclmb,The best email display with this tip,https://mailbird.zendesk.com/entries/47087520-Fixing-issue-with-Mailbird-display,,1405497909.0
+123,8041030,story,,,1,0,chillax,Oracle Critical Patch Update Advisory – July 2014,http://www.oracle.com/technetwork/topics/security/cpujul2014-1972956.html,,1405497844.0
+124,8041028,comment,8039911.0,8040595.0,1,0,smanuel,,,"Tesla Model S beating M5... You serious?<p><a href=""http://www.zeperfs.com/en/duel3969-4700.htm"" rel=""nofollow"">http://www.zeperfs.com/en/duel3969-4700.htm</a>",1405497732.0
+125,8041027,comment,8040109.0,8041002.0,2,0,dbaupp,,,I just meant you don&,
+126,8041026,comment,8038923.0,8040177.0,1,0,yuhong,,,"I think it was done by IBM. As a side note, I think a lot of the memory consumption of 32-bit OS/2 comes from it.",1405497678.0

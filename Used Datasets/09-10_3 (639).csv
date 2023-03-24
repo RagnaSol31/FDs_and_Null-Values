@@ -1,0 +1,103 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9503908,comment,9503011.0,9503895.0,0,0,greendestiny,,,It&,
+1,9503907,comment,9493407.0,9497178.0,0,0,fit2rule,,,"Its a multi-million dollar industry.  Musicians are everywhere.  There are a lot more hobbyist synth players than &quot;professionals&quot;, although there seem to be a fair few of those too.",1430989124.0
+2,9503906,comment,9503146.0,9503146.0,0,0,allending,,,Thanks for the comments so far. We&,
+3,9503905,comment,9500088.0,9500921.0,0,0,mauricemir,,,IBM Type F or M - which r3minds me must build that Aurduio Base USB converter of my Type F,1430988995.0
+4,9503903,comment,9500088.0,9500881.0,0,0,kinleyd,,,I&,
+5,9503902,comment,9503722.0,9503722.0,0,0,caractacus,,,Less interesting to hear about the call from Twitter (hardly unexpected in the context) than about plans for the future. Given Twitter&,
+6,9503901,comment,9501904.0,9501904.0,0,0,davidw,,,You can actually stop and look at Ötzi in Bolzano/Bozen if you&,
+7,9503899,story,,,1,0,AdamTSaunders,"PiinPoint (YC W14) Is Hiring a Statistician in Waterloo, Canada",https://piinpoint.com/index/careers,,
+8,9503898,comment,9503844.0,9503844.0,0,0,adventured,,,Apple didn&,
+9,9503897,comment,9503143.0,9503833.0,0,0,tunesmith,,,What was the obvious countermeasure?,1430988757.0
+10,9503896,comment,9500745.0,9503141.0,0,0,easytiger,,,"Only governments can do that make making saving compelling. But they want people to spend so make saving poor value for money.<p>We did this in the UK, Wonga.com/samedaycash firms everywhere and the government had to legislate to stop them exploiting the poor.",1430988736.0
+11,9503895,comment,9503011.0,9503011.0,0,0,bottled_poe,,,It looks amazing - almost too good to be true. The low lighting in the video make me feel like there is some kind of trickery happening here. I don&,
+12,9503894,comment,9501892.0,9503767.0,0,0,awjr,,,Restaurant pricing. The &quot;posher&quot; end of the market go for whole numbers (e.g. £10) . Whereas the cheaper end focuses on charm pricing (e.g. £9.99).,1430988678.0
+13,9503893,comment,9499690.0,9503257.0,0,0,jonpress,,,Oops I forgot to add <sarcasm></sarcasm> tags around it. My bad.,1430988656.0
+14,9503892,comment,9501287.0,9503862.0,0,0,dijit,,,"Well, my machine has a i7 4930k, which has no on-board GPU, I use an nvidia K2000 for displaying video.<p>in the laptop even the old GMA500 drivers are enough for 2D render, if you&",
+15,9503890,story,,,4,3,doppp,"Also, the billion-dollar, one-person startup",http://also.roybahat.com/post/118275403241/one-person-billion-dollar-startup,,1430988596.0
+16,9503889,comment,9500301.0,9500301.0,0,0,mcmullen,,,Really interesting post; the Mac Mini rack looks insanely cool.<p>This has myself and a colleague wondering what Apple run in their data centres. Can anybody hazard a guess? Is it Apple hardware with OSX? Is it custom/third-party hardware running *nix? I seem to remember somebody mentioning Azure not too long ago.,1430988556.0
+17,9503888,story,,,2,0,adventured,Tesla's New Battery Doesn't Work That Well with Solar,http://www.bloomberg.com/news/articles/2015-05-06/tesla-s-new-battery-doesn-t-work-that-well-with-solar,,1430988548.0
+18,9503887,comment,9501772.0,9502623.0,0,0,Zuikaku,,,Take a look at either the Vortex Poker (POK3R as the current iteration) or the Atomic/Planck.,1430988496.0
+19,9503886,comment,9502049.0,9502882.0,0,0,joseraul,,,"I suspect that the average coder will find Python-style iterators much easier to read.<p><pre><code>    def fibo():\n        a, b = 1, 1\n        while True:\n            yield a\n            a, b = b, a + b</code></pre>",1430988483.0
+20,9503885,comment,9500301.0,9503045.0,0,0,pjmlp,,,"Once upon a time Apple did try to make their own UNIX, A/UX.",1430988453.0
+21,9503883,comment,9501780.0,9501780.0,0,0,vermooten,,,Wake up sheeple! Isn&,
+22,9503882,story,,,37,64,tacticiankerala,A command-line weather app built using Elixir,https://github.com/tacticiankerala/elixir-weather,,1430988379.0
+23,9503881,story,,,12,0,yla92,"Vincent Van Der Heyde to Richard Feynman, July 3, 1986 and Richard Feynman Reply",http://yla.svbtle.com/letter-of-rpf-1,,1430988334.0
+24,9503880,comment,9501059.0,9503765.0,0,0,olalonde,,,I don&,
+25,9503879,comment,9500301.0,9500887.0,0,0,MagerValp,,,"BSDPy, AutoNBI, and Imagr provides a bleeding edge OS X deployment solution that runs entirely on Linux. OS images can be generated with AutoDMG, and Munki will keep them configured and updated afterwards.<p>Pop into ",
+26,9503878,comment,9501287.0,9501287.0,0,0,UK-AL,,,I remember AMD being so good in the Pentium 4 era. Hopefully they get back to that level.,1430988237.0
+27,9503877,story,,,1,0,evjan,TypeScript and Meteor 1: Why,http://jacob-foster.azurewebsites.net/typescript-and-meteor-1-why/,,1430988183.0
+28,9503876,comment,9502049.0,9503619.0,0,0,tome,,,I would be interested to hear what the bad ones are.,1430988175.0
+29,9503874,comment,9503840.0,9503840.0,0,0,WillPostForFood,,,"<i>Moreover, those who are not superrich often live as if they are. Employees at large tech companies commute in free first-class buses...</i><p>Yup, that&",
+30,9503873,comment,9503079.0,9503079.0,0,0,mechazawa,,,"Rant[1] seems like a better way of writing texts like these though.<p>[1] <a href=""https://github.com/TheBerkin/Rant"" rel=""nofollow"">https://github.com/TheBerkin/Rant</a>",1430988018.0
+31,9503872,comment,9500161.0,9500161.0,0,0,bachback,,,I&,
+32,9503871,comment,9503478.0,9503841.0,0,0,Sarkie,,,Came here to say that!<p>And I just remembered the custom LOGO.SYS I used to have.<p>Oh the memories.,1430987948.0
+33,9503870,comment,9500088.0,9501352.0,0,0,spacemanmatt,,,I always say doing software beats <i>working</i> for a living.,1430987832.0
+34,9503869,comment,9502518.0,9502518.0,0,0,freedevbootcamp,,,Junior developers are hired because somebody has to do the shit work that nobody else wants to do.,1430987823.0
+35,9503868,comment,9501780.0,9501780.0,0,0,lotsofmangos,,,<i>matching the toughness of state-of-the-art carbon fibers such as Kevlar</i><p>I don&,
+36,9503866,comment,9503011.0,9503011.0,0,0,xwintermutex,,,"FYI, Ken Silverman [1] is involved in this project.<p>[1]: <a href=""http://en.wikipedia.org/wiki/Ken_Silverman"" rel=""nofollow"">http://en.wikipedia.org/wiki/Ken_Silverman</a> (he wrote the Build engine, which powers Duke Nukem 3D and other games)",1430987781.0
+37,9503864,comment,9502989.0,9502989.0,0,0,freedevbootcamp,,,I would take this question to reddit/r/netsec,1430987738.0
+38,9503863,comment,9500088.0,9500826.0,0,0,spacemanmatt,,,"Or, why we switched to the vocabulary of &quot;in production&quot; or &quot;shipping&quot;",1430987706.0
+39,9503862,comment,9501287.0,9503805.0,0,0,pjmlp,,,"It is not irrelevant, because AMD&",
+40,9503861,comment,9500301.0,9500948.0,0,0,mattlutze,,,> What if Apple decides to change the Mac Pro form factor for the next iteration?<p>It seems as though they&,
+41,9503859,comment,9499457.0,9502987.0,0,0,4ydx,,,Objectively &quot;BS&quot;?  What does that even mean?  You need to get a grip and stop your anger towards people who are feeling terrible.  If you don&,
+42,9503858,comment,9500301.0,9500301.0,0,0,freedevbootcamp,,,Great read. Nice website. Great Photos.,1430987385.0
+43,9503857,comment,9501703.0,9502592.0,0,0,marc13,,,wki,1430987372.0
+44,9503856,comment,9501112.0,9503836.0,0,0,cheald,,,Uber has &quot;asked forgiveness rather than asking permission&quot; - they&,
+45,9503855,comment,9500301.0,9502894.0,0,0,danielsamuels,,,Is 11 days of uptime supposed to be impressive?,1430987310.0
+46,9503854,comment,9503580.0,9503834.0,0,0,crazynoodlehead,,,This was helpful. Thank you! :),1430987276.0
+47,9503853,comment,9501892.0,9503767.0,0,0,thomasahle,,,"Well, tfa says it pretty clearly: When asked to estimate the real value of TVs priced at 4998.10, 5000 and 5012.56 the middle one was estimated nearly $500 lower than the others.<p>Same goes for houses and other situations where you&",
+48,9503852,comment,9503580.0,9503817.0,0,0,crazynoodlehead,,,"Did :) Eagerly waiting for the English descriptions, still!",1430987259.0
+49,9503851,comment,9501287.0,9503439.0,0,0,ryanjshaw,,,"I bought an HP MicroServer N40L (AMD Turion II Neo N40L dual core) two years back, and added in a low-profile AMD Radeon 6450. The combination is powerful enough to host a media server, play some older games and stream more modern Steam games from my Intel desktop, but low-power and cheap enough to make me very happy with my purchase.<p>The new generation MicroServers are Intel Celery pieces - more powerful but far more expensive (although I can&",
+50,9503850,comment,9501112.0,9503132.0,0,0,krrrh,,,I was just in Guangzhou where this is also the case; they have a non-profit/subsidized tier called &quot;People&,
+51,9503849,comment,9492556.0,9492668.0,0,0,maouida,,,I think oDesk already have a solution for this issue. When posting a job you can choose how much you are willing to pay:<p>- Entry Level: I am looking for freelancers with the lowest rates<p>- Intermediate Level: I am looking for a mix of experience and value<p>- Expert Level: I am willing to pay higher rates for the most experienced freelancers<p>You can simple target jobs which require Expert Level. You&,
+52,9503848,story,,,3,0,alexward1981,How the Internet is changing the face of politics,http://www.digitalfusionmag.com/2015/05/internet-changing-face-politics/,,1430987197.0
+53,9503847,comment,9501119.0,9502410.0,0,0,JulianMorrison,,,"So, Skynet, basically?",1430987175.0
+54,9503846,comment,9501112.0,9501112.0,0,0,olalonde,,,"I found it interesting that many customers were complaining about drivers with accents. I wonder if, would Uber implement per-driver pricing, those people would really pay a premium for drivers with no accent.",1430987058.0
+55,9503845,story,,,1,0,AlexDenisov,When you can omit nil-checks for 'self' in constructor,http://alexdenisov.github.io/blog/if-self-sanity/,,1430987050.0
+56,9503844,story,,,1,1,laurentsabbah,"Tesla didn’t invent home energy storage, has many competitors",http://venturebeat.com/2015/05/06/tesla-didnt-invent-home-energy-storage-has-many-competitors/,,1430987029.0
+57,9503842,comment,9500088.0,9500574.0,0,0,spacemanmatt,,,"Someone with 10 years of experience, unable to recognize the nuances one picks up by repeating those 10 years of experience with 10 years of context to make better sense of it.",1430986973.0
+58,9503841,comment,9503478.0,9503478.0,0,0,breakingcups,,,"Very cool! I got a real flash of nostalgia when the Win95 boot screen glitched for a second, just like it did on my old pc. Now that&",
+59,9503840,story,,,7,2,djug,The Shaky Moral Compass of Silicon Valley,http://www.nytimes.com/2015/05/07/style/the-shaky-moral-compass-of-silicon-valley.html,,1430986807.0
+60,9503839,story,,,4,0,msemenistyi,5 Things you should know about async/await in C,,,
+61,9503838,comment,9500301.0,9503323.0,0,0,x0054,,,"What tools is OS X lacking? From my experience most of the development and server tools are available natively on OS X. It lacks support for containers, but that would be a worthy addition, and I would say worth spending money and time on. The rest is already there for the most part. Developing further their server infrastructure would allow Apple to make a play for the corporate market. Any way, it&",
+62,9503837,comment,9500161.0,9503818.0,0,0,zimbrato,,,"&quot;I haven’t yet placed myself in a new critical role, and I’m confident that Stripe is being left in great hands&quot; i.e., I was fired or quit, and, things are bad.  Any other questions?",1430986759.0
+63,9503836,comment,9501112.0,9502593.0,0,0,fx85ms,,,Forgive me if I sound ignorant of America&,
+64,9503835,comment,9480759.0,9484965.0,0,0,tobylane,,,How did you get the Chromebook for that price? Hoe easy are the internal upgrades?,1430986710.0
+65,9503834,comment,9503580.0,9503804.0,0,0,Maakuth,,,"For a short primer: trendi = trend, hinta = price, laskee = decreases, nousee = increases. &quot;Kannattaako kauppa&quot; can be translated to &quot;Is trade profitable?&quot;. So the trend view shows in red where real estate prices are expected to fall in 2016 and in cyan where they are expected to rise.",1430986694.0
+66,9503833,comment,9503143.0,9503143.0,0,0,chroma,,,"I think this specific suit is valid, but it does raise questions about where the line should be drawn. With just a little creativity, it is <i>very</i> easy to build extremely dangerous weapons from off-the-shelf parts. I won&",
+67,9503832,story,,,71,17,rozza,Reactive Streams for the JVM hits 1.0.0,http://www.reactive-streams.org/announce-1.0.0,,1430986670.0
+68,9503830,comment,9502049.0,9503446.0,0,0,M8,,,"<i>&quot;The answer on this one depends on whether one is a proponent of statically typed languages or not, clearly an unresolved question&quot;</i> - I have yet to see a static-to-dynamic transpiler ;-).",1430986627.0
+69,9503828,comment,9500274.0,9502852.0,0,0,gabemart,,,"> You could allow contestants to buzz in as soon as possible, but have the system wait until Alex has finished reading the answer<p>I think one of the reasons Jeopardy! is so popular is that it makes the audience feel smart. I&",
+70,9503827,comment,9502015.0,9503568.0,0,0,heypiotr,,,"From my experience, this usually happens with the older/cheaper Android devices that use a combined BT+WiFi radio/chipset (Nexus 4, Galaxy S3 etc.)<p>Fortunately, the Android hardware is getting better and better, e.g. I&",
+71,9503826,comment,9502935.0,9502978.0,0,0,M8,,,That&,
+72,9503825,comment,9501703.0,9503680.0,0,0,pilsetnieks,,,It was the Nazi soldier community they were worried about.,1430986445.0
+73,9503824,comment,9498608.0,9498608.0,0,0,stevep98,,,Anybody know why they don&,
+74,9503823,story,,,1,0,flipchart,Why Do Hackers Love Namecheap and Hate Name.com?,https://www.agwa.name/blog/post/why_do_hackers_love_namecheap_and_hate_namecom,,1430986418.0
+75,9503822,comment,9501703.0,9503808.0,0,0,ekianjo,,,"> This however, has to be done in a controlled manner due to the toxicity of mercury, which is also why mercury apparently isn&",
+76,9503821,comment,9502015.0,9503522.0,0,0,DiabloD3,,,"Seems to be iOS only, unfortunately.",1430986371.0
+77,9503820,comment,9500274.0,9503069.0,0,0,jdoerrie,,,"Given that we stop after the first failure technically this should be a negative binomial distribution (<a href=""http://en.wikipedia.org/wiki/Negative_binomial_distribution"" rel=""nofollow"">http://en.wikipedia.org/wiki/Negative_binomial_distribution</a>) with p = 0.979 and r = 1. The mean is p / (1-p) = 46.62. Also there is a p ^ 75 = 0.204 chance that someone of same skill will achieve a better score.",1430986309.0
+78,9503819,comment,9499690.0,9499690.0,0,0,erikb,,,"Yeah, valuation is nothing. But there are numbers like cash flow, cash reserve, company book value, and even relations like earnings to cost, earnings to book value which can give a good inside about how strong your company is. These numbers are much smaller than valuation, but they give a more reliable picture. Don&",
+79,9503818,comment,9500161.0,9503794.0,0,0,danoprey,,,What are you on about?,1430986270.0
+80,9503817,comment,9503580.0,9503804.0,0,0,scellus,,,"Not yet, sorry. :) But see the Github repo and source code therein.",1430986128.0
+81,9503816,comment,9503011.0,9503011.0,0,0,misnome,,,I don&,
+82,9503815,comment,9501560.0,9502892.0,0,0,DiabloD3,,,"Possibly not bigger attack surface. lz4 is already used in a lot of mission/security critical areas, and they have audited many lz4 implementations for security and have found and fixed bugs.<p>For example, the Linux kernel can use LZ4, corporate VPN solutions like OpenVPN can use LZ4, and many other things can use or require LZ4.",1430986113.0
+83,9503814,comment,9503580.0,9503580.0,0,0,sz4kerto,,,"Similar one in Hungarian: <a href=""http://otthonterkep.hu/?s=elado&o=ertekesites2014&lat=47.2051615&lng=19.5053826&z=8"" rel=""nofollow"">http://otthonterkep.hu/?s=elado&o=ertekesites2014&lat=47.205...</a>",1430986105.0
+84,9503813,story,,,1,0,peterwallhead,No Stack Startups,http://blog.aweissman.com/2015/05/no-stack-startups.html?hn=3,,1430986055.0
+85,9503812,comment,9503580.0,9503776.0,0,0,scellus,,,"Price data is sparse, often from a small number of sales, and censored when number of sales is smaller than six. So the local price levels, and especially trends are not at all clear from the raw data.<p>The model has three-level geographical hierarchy from zip-code prefixes, and the local population density as a (hierarchical) covariate. There are also covariances for price level, trend and trend change, and residual model takes number of sales into account and adapts to outliers.<p>All this helps in getting a better idea of what really happens behind the more or less random individual sales.<p><a href=""http://louhos.github.io/figs/2015-05-07-asuntohintojen-muutokset/raw-vs-model.png"" rel=""nofollow"">http://louhos.github.io/figs/2015-05-07-asuntohintojen-muuto...</a>",1430986038.0
+86,9503811,comment,9502935.0,9502964.0,0,0,collyw,,,"I have a very empty github profile, because most of my work is in house. Plus personal projects have the potential to make some money, plus, it seems a bit of a security risk dumping everything, including settings files with passwords into github.",1430986030.0
+87,9503810,comment,9501112.0,9501112.0,0,0,bayesianhorse,,,"Driving people from A to B individually would be a &quot;perfect competition&quot; kind of situation without regulation. Some of the motivation behind regulating this market was that some taxi drivers just started robbing their customers.<p>Now Uber is doing away with the regulation, and it&",
+88,9503809,comment,9500301.0,9500301.0,0,0,rplnt,,,If this is for anything else than PR then good God...,1430985987.0
+89,9503808,comment,9501703.0,9502840.0,0,0,globuous,,,"I did not know you could dissolve gold in mercury, pretty cool. After a little research, I found out that the process can also be reversed (obviously, since it&",
+90,9503806,comment,9501560.0,9503593.0,0,0,DiabloD3,,,Your phone won&,
+91,9503805,comment,9501287.0,9503624.0,0,0,kijin,,,"He could be using an nvidia graphics card (or two, or three) for all we know, making the GPU comparison totally irrelevant.",1430985940.0
+92,9503804,comment,9503580.0,9503580.0,0,0,crazynoodlehead,,,Is there anyway we can view the information in English? Google translate is failing to translate it to English. I&,
+93,9503803,comment,9503143.0,9503143.0,0,0,trhway,,,"it seems to be well established practice in the US that ITAR takes precedence over the 1st in the well defined by ITAR cases - for example, due to ITAR, Elon Musk just can&",
+94,9503801,comment,9501560.0,9502853.0,0,0,DiabloD3,,,"Yes it does, but does it cost more than the CPU power used by gzip vs the memory access cost of lz4? I suspect the CPU cost is more by at least a magnitude (although I can&",
+95,9503800,comment,9501975.0,9503311.0,0,0,baddox,,,I wish I knew enough econ math to follow that. Is there an easy English explanation?,1430985774.0
+96,9503799,story,,,3,2,tempestn,Lunar Elevator: 12/31/2019,http://lunarelevator.com/liftport-home/lunar-elevator-3/,,1430985727.0
+97,9503798,comment,9500643.0,9503494.0,0,0,collyw,,,"Would you get into legal trouble for naming and shaming companies with that approach, as I have encountered a fair few of them these days.",1430985696.0
+98,9503797,comment,9503011.0,9503639.0,0,0,ealexhudson,,,"If you look at the images, they look very much like stacked planes. I&",
+99,9503796,comment,9501703.0,9501703.0,0,0,InclinedPlane,,,Here&,
+100,9503795,comment,9501892.0,9502551.0,0,0,mafuyu,,,"I think you need to look at it holistically and place yourself in the shoes of your audience. I imagine an example of a &quot;rational&quot; purchase to be something like searching for a good (eg. headphones) on Amazon and comparing prices between brands. A buyer will try to research and justify their purchase, and the cents may help push them over the edge and convince them that they&",
+101,9503794,comment,9500161.0,9500161.0,0,0,zimbrato,,,A no-name executive leaving a failing startup.  He knows well that the blood sea of insolvency is his responsibility.<p>He&,

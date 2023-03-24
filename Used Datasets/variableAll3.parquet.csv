@@ -1,0 +1,55 @@
+,Symbol,Name,Unit,Param. type,Value
+0,kDWT1,1st DWT coefficients,-,Constant parameter,10.69
+1,kDWT2,2nd DWT coefficients,-,Constant parameter,7024.0
+2,kFLD1,1st FLD coefficient,-,Constant parameter,1.28
+3,kFLD2,2nd FLD coefficient,-,Constant parameter,2376.0
+4,Dyear,Days in a year,day,Constant parameter,365.0
+5,Hday,Hours in a day,hour,Constant parameter,24.0
+6,Rrun,Running rate (operational days/year),-,Constant parameter,0.8
+7,kShip1,1st ship fuel coefficient,-,Constant parameter,9.9e-05
+8,kShip2,2nd ship fuel coefficient,-,Constant parameter,0.65
+9,CNM2km,Conversion coefficient (NM to km),-,Constant parameter,1.852
+10,rWPS,Fuel reduction rate of wind propulsion system,-,Constant parameter,0.05
+11,CeqLHV,Equivalent lower heating value coefficient,-,Constant parameter,
+12,kAux1,1st fuel coefficient of auxiliary machinery,-,Constant parameter,7.01
+13,kAux2,2nd fuel coefficients of auxiliary machinery,-,Constant parameter,8.68e-05
+14,rSPS,Fuel reduction rate of solar power system,-,Constant parameter,0.05
+15,Cco2,CO2 coefficient,-,Constant parameter,
+16,Cco2DF,CO2 coefficient of diesel fuel,-,Constant parameter,2.816
+17,rCCS,Fuel reduction rate of CCS,-,Constant parameter,0.85
+18,unitCostFuel,Unit cost of fuel,$/ton,Constant parameter,
+19,unitCostDF,Unit cost of diesel fuel,$/ton,Constant parameter,400.0
+20,kShipBasic1,1st coefficient for basic ship building,,Constant parameter,5101.0
+21,kShipBasic2,2nd coefficient for basic ship building,,Constant parameter,35900000.0
+22,dcostWPS,Additional cost by wind propulsion system,$,Constant parameter,0.03
+23,dcostSPS,Additional cost by solar power system,$,Constant parameter,0.1
+24,dcostCCS,Additional cost by CCS,$,Constant parameter,0.35
+25,kDem1,,,Constant parameter,0.612224477
+26,kDem2,,,Constant parameter,-2410.243165
+27,kDem3,,,Constant parameter,2372173.603
+28,kDem4,,,Constant parameter,6.076214383
+29,wDWT,Deadweight tonnage,ton,State variable,
+30,wFLD,Full load displacement,ton,State variable,
+31,d,Distance,NM,State variable,
+32,fShipORG,Original fuel consumption of ship (HFO-powered and no wind propulsion system),ton,State variable,
+33,fAuxORG,Original fuel consumption of auxiliary machinery (no solar power system),ton,State variable,
+34,gORG,Original CO2 emission (no CCS),ton,State variable,
+35,costFuelShipORG,Original fuel cost of ship,$,State variable,
+36,costFuelShip,Fuel cost of ship,$,State variable,
+37,dcostFuelShip,Additional fuel cost of ship,$,State variable,
+38,costFuelAuxORG,Original fuel cost of auxiliary machinery,$,State variable,
+39,costFuelAux,Fuel cost of auxiliary machinery,$,State variable,
+40,dcostFuelAux,Additional fuel cost of auxiliary machinery,$,State variable,
+41,dcostFuelAll,Total additional fuel cost,$,State variable,
+42,costShipBasicHFO,Basic cost for building HFO ship,$,State variable,
+43,costShipBasic,Basic cost for building ship,$,State variable,
+44,tOp,Operation duration,year,State variable,
+45,fShip,Fuel consumption of ship,ton,Output,
+46,fAux,Fuel consumption of auxiliary machinery,ton,Output,
+47,g,CO2 emission (including CO2 reduction by CCS),ton,Output,
+48,cta,Cargo transport amount,TEU*NM,Output,
+49,costFuelAll,Total fuel cost,$,Output,
+50,costShipAll,Total ship building cost,$,Output,
+51,dcostShipping,Additional shipping fee,$,Output,
+52,gTilde,CO2 emission per unit cargo transport amount,ton/(TEU*NM),Output,
+53,dcostShippingTilde,Additional shipping fee per unit cargo transport amount,$/(TEU*NM),Output,

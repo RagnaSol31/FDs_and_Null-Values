@@ -1,0 +1,61 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7957363,comment,7953616.0,7954682.0,2,0,xtracto,,,We have been using Git Flow in our team too. One advantage I se is that using git-flow specific hooks we add some metadata to every time a feature/ branch is finished. This metadata goes into an automatic Release notes file which is automatically added to the repo (as an amend of the flow&,
+1,7957362,story,,,4,0,peterkchen,Yo Server is Down,http://www.yoserverisdown.com/,,1403927872.0
+2,7957361,comment,7956585.0,7956585.0,1,0,giancarlostoro,,,"If all they have is location on a phone, that could also place other people in the area though. But I guess, that&",
+3,7957360,story,,,2,0,ayrx,PyCA's Cryptography library,https://cryptography.io/en/latest/,,1403927766.0
+4,7957358,comment,7956466.0,7957280.0,1,0,fpalmans,,,"Personally, I would make &quot;building units&quot; and &quot;mining gold&quot; a planet&",
+5,7957357,comment,7955917.0,7956570.0,15,0,moultano,,,"Even more importantly, there are many signals that sound identical to the human ear, yet are entirely different in waveform. (For instance, two sines shifted 90 degrees.) You can save space by representing all similar sounding waveforms as the same waveform. This might make for a giant delta when you subtract it from the original recording, even though nothing audible was lost.",1403927433.0
+6,7957356,comment,7956246.0,7957290.0,4,0,abecedarius,,,That one&,
+7,7957355,story,,,1,0,chiachun,Decades-Old Vulnerability Threatens 'Internet Of Things',http://www.darkreading.com/decades-old-vulnerability-threatens-internet-of-things/d/d-id/1278903,,1403927315.0
+8,7957354,comment,7954778.0,7957305.0,2,0,mythz,,,"> They derived WPFs design and API language, along with XAML. Its not like MILCORE was written in C",
+9,7957353,comment,7956627.0,7957158.0,1,0,Quiark,,,That&,
+10,7957352,comment,7949995.0,7952688.0,1,0,milroc,,,"<a href=""http://bost.ocks.org/mike/join/"" rel=""nofollow"">http://bost.ocks.org/mike/join/</a>",1403927166.0
+11,7957351,comment,7957137.0,7957137.0,1,0,hawkice,,,"Might be a subtext here. Consider that there are people (in the general thought-o-sphere, not in the article or on HN) saying that &",
+12,7957350,comment,7953616.0,7954482.0,1,0,curun1r,,,I think they made a mistake by making the &quot;gets configuration parameters from the environment&quot; specific to a UNIX/system environment. You can accomplish the same effect in a much more elegant manner using a tool like etcd or consul.<p>But the important part is really that the deployable unit pulls its configuration from the environment where it&,
+13,7957349,story,,,3,1,archgoon,Can I compute the mass of a coin based on the sound of its fall?,http://physics.stackexchange.com/questions/121879/can-i-compute-the-mass-of-a-coin-based-on-the-sound-of-its-fall,,1403926796.0
+14,7957348,comment,7954069.0,7956203.0,1,0,mahyarm,,,That&,
+15,7957347,comment,7956627.0,7957249.0,2,0,JacksonGariety,,,"SICP is still the bible, even through Python has become the &quot;practical&quot; language that&",
+16,7957346,comment,7956078.0,7957296.0,1,0,collinvandyck76,,,Because &,
+17,7957345,story,,,31,36,posharma,Google Dumps MapReduce in Favor of New Hyper-Scale Analytics System,http://www.datacenterknowledge.com/archives/2014/06/25/google-dumps-mapreduce-favor-new-hyper-scale-analytics-system/,,1403926537.0
+18,7957344,comment,7955237.0,7956408.0,1,0,jrockway,,,I&,
+19,7957343,comment,7957155.0,7957335.0,4,0,chunkstuntman,,,"Well, the general upside to googling for an answer is that often when someone is providing you with the numeric solution they are also describing their algorithm and implementation. Having it in plain text right on the local hard drive might be more tempting with fewer benefits.<p>Potential Solution: store the solutions file in an obfuscated format that is easy to decrypt",1403926469.0
+20,7957342,comment,7956356.0,7956535.0,1,0,jchrisa,,,"If you are in the middle of the ocean with a bunch of shipping containers, it&",
+21,7957341,comment,7956018.0,7956018.0,1,0,glenda,,,"One thing I try to do is read everything that is considered well written or canonical in some way.<p>These types of resources tend to be informative, easy to grasp and often inspiring. They are things like books/textbooks, blog posts, tutorials(most tutorials suck though).  They will usually reference other (even more canonical) resources so you shouldn&",
+22,7957340,story,,,1,0,arunoda,MeteorJS is not a black magic,http://meteorhacks.com/journey-into-meteors-reactivity.html?not-a-black-magic,,1403926301.0
+23,7957339,comment,7953577.0,7955563.0,2,0,hhandoko,,,"One thing missing from KendoUI for me is the TreeGrid. Last I checked (a few months ago), it&",
+24,7957338,story,,,1,0,pwg, Apparent correction to the speed of light in a gravitational potential ,http://iopscience.iop.org/1367-2630/16/6/065008/article,,1403926155.0
+25,7957336,comment,7956246.0,7956956.0,2,0,minikomi,,,"I like scheme to be honest, especially the racket style of preferring define over let. Combined with well chosen variable names, list comprehensions, pattern matching and optional square brackets, all but the trailing ))))) becomes not a problem.",1403926000.0
+26,7957335,comment,7957155.0,7957321.0,3,0,Pewqazz,,,"I considered this, and figured since the solutions are stored by the program anyways, it would make more sense to include the functionality rather than to omit it. Naming the option `--cheat` was an conscious decision to discourage a reliance on it. Then again, if someone really does want to view the solutions rather than work through the problems themselves, I suppose it&",
+27,7957334,comment,7956304.0,7956673.0,0,0,NedStarkkk,,,"I agree with you. Although Material is great, it doesn&",
+28,7957332,comment,7956627.0,7957287.0,4,0,thinkpad20,,,"The first time I learned programming it was Scheme, and I didn&",
+29,7957331,comment,7953346.0,7954694.0,1,0,channikhabra,,,"I am no expert of Python or Javascript, but here&",
+30,7957330,comment,7954266.0,7956257.0,0,0,jmathai,,,I&,
+31,7957329,comment,7957057.0,7957260.0,6,0,objclxt,,,"I certainly never really considered just how intertwined the gut and the brain are until I was diagnosed with IBS (or perhaps a better name, the &quot;we have no clue what&",
+32,7957328,comment,7956304.0,7956304.0,4,0,rdtsc,,,"I like it! I am not a designer, just a user of Android and this looks good. I just never liked or bought the complete flatness idea. Maybe I am too brainwashed by skeumorphic buttons shadows and whatnot. But we just don&",
+33,7957327,comment,7954944.0,7956939.0,3,0,mikeash,,,"Similarly amusing, INT_MIN / -1 will throw a &quot;division by zero&quot; on Intel CPUs, even though there isn&",
+34,7957326,comment,7954944.0,7957061.0,3,0,mikeash,,,"No, that&",
+35,7957325,comment,7956304.0,7956304.0,4,0,greggman,,,I don&,
+36,7957324,comment,7956627.0,7957317.0,5,0,thinkpad20,,,There are infinite loops in Haskell too. (And space leaks in python),1403925355.0
+37,7957323,comment,7954944.0,7956893.0,1,0,mikeash,,,It&,
+38,7957322,comment,7956304.0,7957225.0,2,0,mynameisvlad,,,They&,
+39,7957321,comment,7957155.0,7957155.0,3,0,chunkstuntman,,,Having a --cheat option seems like a poor decision. Having easy access to every solution (especially as it exists in a plain text file) harms the experience of struggling through a problem until the correct answer is reached.,1403925310.0
+40,7957320,comment,7956356.0,7956356.0,3,0,jacques_chester,,,I&,
+41,7957319,story,,,1,0,brownbat,Supreme Court Uses The Bizarre 'Looks Like A Cable Duck' Test To Outlaw Aereo,https://www.techdirt.com/articles/20140625/09340227683/supreme-court-uses-bizarre-looks-like-cable-duck-test-to-outlaw-aereo.shtml,,1403925212.0
+42,7957318,story,,,2,0,prahladyeri,9 Optimizations to make your Linux Desktop fly like a Rocket,http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/,,1403925176.0
+43,7957317,comment,7956627.0,7957158.0,1,0,username223,,,> Would they think Python was stupid or would they be grateful that all of a sudden they could use a for loop?<p>They would probably be at least as mystified by infinite loops as Python programmers are by space leaks.,1403925062.0
+44,7957316,comment,7954266.0,7956467.0,2,0,logicchains,,,"It depends on how you define free will. If you define it as being 100% the cause of an action, that&",
+45,7957315,comment,7942809.0,7956421.0,1,0,ahomescu1,,,That C isn&,
+46,7957314,comment,7955237.0,7956677.0,0,0,netcraft,,,"The major features in that list were introduced as part of lightroom 5 - the only other features to lightroom itself came in lightroom 5.2 and these are small enhancements and bug fixes.  All other changes are lightroom mobile, which while i&",
+47,7957313,comment,7956627.0,7957205.0,1,0,usea,,,"The wikipedia article [1] is a decent introduction. Functional programming is loosely-defined as a style of programming that involves using some subset of:<p>* Higher-order functions<p>* Pure functions / referential transparency<p>* Immutability<p>* A powerful type system<p>* A declarative style (expression-based)<p>(Some of the above concepts are closely related, and some people may feel there are other important ones I left out)<p>A functional programming <i>language</i> is loosely-defined as a language which makes programming in the above style possible, feasible, or easy.<p>[1] <a href=""http://en.wikipedia.org/wiki/Functional_programming"" rel=""nofollow"">http://en.wikipedia.org/wiki/Functional_programming</a>",1403924953.0
+48,7957312,comment,7956627.0,7957287.0,1,0,seanmcdirmid,,,"Who knows, everyone has their own opinion about it. Perhaps it was just too many parentheses for students to deal with.",1403924937.0
+49,7957311,comment,7956627.0,7957205.0,3,0,MichaelGG,,,"While a comment is probably not the right place for this, the essence IMO of FP is higher order functions (HOF). Being able to pass a function to another function, is key. And yes, even C can do this, it&",
+50,7957310,comment,7953443.0,7953826.0,5,0,mrb,,,"Financial sanctions? Buy a certificate from Namecheap and pay using Bitcoin (yes they officially accept it!) In Iran, you can obtain coins through <a href=""https://localbitcoins.com/country/IR"" rel=""nofollow"">https://localbitcoins.com/country/IR</a> or <a href=""http://www.coinava.com/"" rel=""nofollow"">http://www.coinava.com/</a><p>This is a very concrete example demonstrating how Bitcoin is resistant against censorship, sanctions, etc.",1403924890.0
+51,7957309,comment,7954944.0,7956329.0,5,0,mikeash,,,"&quot;Implementation defined&quot; means that the compiler can do whatever it feels like, but that it must choose something specific <i>and that this must be documented</i>, and any program that invokes implementation defined behavior is perfectly well formed. &quot;Undefined&quot; means that the compiler can do whatever it feels like and it can be completely inconsistent and documented nowhere, and any program which invokes it is ill-formed, and programs can be assumed not to invoke it.",1403924843.0
+52,7957308,comment,7956675.0,7956675.0,1,0,samspenc,,,"Not <i>too</i> bad, but a few things that I noticed were off (and to clarify: I&",
+53,7957307,comment,7957057.0,7957260.0,1,0,magoghm,,,Same here.,1403924634.0
+54,7957306,comment,7955740.0,7955740.0,1,0,alok-g,,,"Any idea of what tools, platforms and services will be available?",1403924577.0
+55,7957305,comment,7954778.0,7957256.0,2,0,seanmcdirmid,,,> How can WinRT be a derivative of WPF if it&,
+56,7957304,story,,,5,11,halfshark,How Risky Is That New Hire? The One Interview Question That Matters,https://medium.com/@asharfin/how-risky-is-that-new-hire-1a63db323787,,1403924559.0
+57,7957303,comment,7957019.0,7957019.0,2,0,dang,,,> During my chat with another few people I learned that there are people who downvote in group brigade fashion whatever they don&,
+58,7957302,story,,,3,0,rakkhi,The pitch forks are coming,http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html,,
+59,7957301,comment,7951082.0,7951082.0,1,0,swalsh,,,Here&,

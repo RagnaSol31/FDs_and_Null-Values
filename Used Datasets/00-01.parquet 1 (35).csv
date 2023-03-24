@@ -1,0 +1,54 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8059970,comment,8059969.0,8059969.0,1,0,baojieai,,,"The 18 repos are manually selected from &quot;100 Best GitHub: Deep Learning&quot; <a href=""http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/"" rel=""nofollow"">http://meta-guide.com/software-meta-guide/100-best-github-de...</a><p>Each project is visualized with a project card for easy browsing",1405850294.0
+1,8059969,story,,,6,2,baojieai,18 most active deep learning repos on GitHub,http://memect.co/sKWGNe2,,1405850252.0
+2,8059968,comment,8058363.0,8059218.0,1,0,hadoukenio,,,That&,
+3,8059967,comment,8059092.0,8059092.0,2,0,spingsprong,,,It crashes my browser.,1405850118.0
+4,8059965,comment,8058683.0,8059904.0,3,0,Aardwolf,,,"On a GIF, you can right click and &quot;save as&quot;. So a first step would be to have all browser makers allow this for video files too.",1405850095.0
+5,8059964,comment,8059929.0,8059929.0,1,0,EGKW,,,That&,
+6,8059963,comment,8059237.0,8059237.0,2,0,beefsack,,,For those who haven&,
+7,8059962,comment,8058579.0,8058579.0,3,0,chestnut-tree,,,This interactive infographic from the BBC gives you a global overview of average wages in different countries. You can type in your monthly salary to see how near or far you are to the average wage in your country.<p>It obviously comes with lots of caveats and tells you nothing about the quality of life in a particular country. It&,
+8,8059960,story,,,2,0,dsr12,Hashing a credit card number for use as a fingerprint,http://security.stackexchange.com/questions/63248/hashing-a-credit-card-number-for-use-as-a-fingerprint,,1405849799.0
+9,8059958,comment,8058363.0,8059218.0,1,0,Khaine,,,"Do you guys use anything to manage your encrypted DMGs (like knox <a href=""https://agilebits.com/knox"" rel=""nofollow"">https://agilebits.com/knox</a>)?",1405849678.0
+10,8059957,comment,8047984.0,8047984.0,1,0,gordonzhu,,,If you&,
+11,8059956,comment,8058724.0,8059935.0,1,0,dchest,,,Yours uses symmetric keys while miniLock is public-key crypto (crypto_box in NaCl terms).,1405849569.0
+12,8059955,comment,8059900.0,8059900.0,3,0,DanBC,,,"> He didn’t find a way of dividing programming sheep from non-programming goats<p>Obviously <a href=""http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/"" rel=""nofollow"">http://blog.codinghorror.com/separating-programming-sheep-fr...</a><p>> My physician put me on the then-standard treatment for\ndepression, an SSRI.<p>2014 is much better.  <a href=""http://www.nice.org.uk/guidance/CG90"" rel=""nofollow"">http://www.nice.org.uk/guidance/CG90</a><p>> [...] asked some statistician colleagues if they could help us recover more information from his data.<p>It&",
+13,8059954,comment,8059897.0,8059897.0,1,0,sfrechtling,,,I would guess that it is part of Yahoo&,
+14,8059953,comment,8059092.0,8059948.0,1,0,hitlin37,,,May be someone just put some screenshots.,1405849454.0
+15,8059952,comment,8058616.0,8058616.0,2,0,willvarfar,,,"If you liked this excellent overview, and you&",
+16,8059951,comment,8056681.0,8058359.0,1,0,dasil003,,,I don&,
+17,8059950,comment,8058724.0,8059922.0,2,0,zimbatm,,,> Enter it once on a compromised system and it&,
+18,8059949,comment,8058671.0,8059558.0,1,0,Someone,,,"The old town is the equivalent of Manhattan, <i>moved to the Middle Ages (or earlier)</i>. I don&",
+19,8059948,comment,8059092.0,8059092.0,1,0,hitlin37,,,On my ubuntu 12.04 with on-board intel graphics+ chrome browser.\nError: GLSL link error: for vertex shader: <fragment source>,1405849307.0
+20,8059946,story,,,2,0,networked,RogueBasin,http://www.roguebasin.com/index.php?title=Main_Page,,1405849103.0
+21,8059945,comment,8059283.0,8059603.0,1,0,nly,,,&quot;Error checking&quot; seems pointless when you&,
+22,8059944,comment,8059919.0,8059919.0,1,0,ejr,,,"You can run a community of sorts, but the feature list will be sparse. The only viable system sans-database that comes to mind is plain-text.<p>I&",
+23,8059943,comment,8058496.0,8058496.0,1,0,jhrobert,,,"There is some &quot;delegation&quot; implementation inside, ala &quot;liquid democracy&quot;. This is a nice mix of &quot;direct&quot; & &quot;representative&quot; democracy, a mix that I believe is very promising to avoid corruption with representatives and lack of participation with direct voting. See <a href=""http://en.wikipedia.org/wiki/Delegative_democracy"" rel=""nofollow"">http://en.wikipedia.org/wiki/Delegative_democracy</a>",1405848664.0
+24,8059942,comment,8059919.0,8059919.0,1,0,cleverjake,,,One of the main points of static sites is that they don&,
+25,8059941,comment,8058636.0,8059466.0,2,0,etrautmann,,,"The approach taken by Markram is quite different from what Jeremy is presenting here.  Markram is attempting to simulate large systems, and this work is controversial, largely because many people don&",
+26,8059940,comment,8059663.0,8059663.0,0,0,gordonzhu,,,1. Don&,
+27,8059939,comment,8057435.0,8059211.0,1,0,bodyfour,,,> They are entirely orthogonal<p>That&,
+28,8059938,story,,,1,0,20Signals,David’s Health Tech Newsletter: No. 17,http://lab.hemavu.com/2014/07/20/davids-health-tech-newsletter-no-17/,,1405848377.0
+29,8059936,story,,,3,0,pedro93,H3: The Fast HTTP header parser library in C,https://github.com/c9s/h3,,1405848282.0
+30,8059935,comment,8058724.0,8058724.0,1,0,viralpoetry,,,"Some times ago I created my own file encryption software using libsodium. It uses XSalsa20, hmacsha256, pbkdf. It hide password input on the terminal. It is really slow for large files (GBs)...<p><a href=""https://github.com/viralpoetry/VPcrypt"" rel=""nofollow"">https://github.com/viralpoetry/VPcrypt</a>",1405848169.0
+31,8059934,comment,8057223.0,8059192.0,1,0,dlitz,,,> ...Qhadaffi&,
+32,8059933,comment,8058849.0,8059826.0,4,0,hrktb,,,"The point on apple pushing thinness is often put forward as pure design decision, but I am more and more convinced the manufacturing costs might have at least an equal part.<p>Battery is the same on every model, and bumping the battery amount would force them to split the line in two models, which would need a separate fabrication line just for the bigger model, or have a cheap one with the same amount of battery, wich would significantly bump the entry model price.",1405848134.0
+33,8059932,comment,8059539.0,8059859.0,1,0,DanBC,,,Bedroom tax has been in force for people in private accommodation for many years.  The new bedroom tax only affects people in public housing.<p>The bedroom tax is stupid.  The aim is to make people move to smaller properties.  People need money to move - you need to pay any existing rent arrears; any utility arrears; you then need a deposit and a month&,
+34,8059931,story,,,2,0,rinesh,"See the Phasing, in a Visualization of Steve Reich's Piano Phase",http://createdigitalmusic.com/2014/06/see-phasing-visualization-steve-reichs-piano-phase/,,1405848041.0
+35,8059930,comment,8059107.0,8059653.0,10,0,stesch,,,It&,
+36,8059929,story,,,1,1,rinesh,Aural Fractals | Music from Chaos,http://auralfractals.net/,,1405848021.0
+37,8059928,story,,,4,0,rinesh,Generatedata.com,http://www.generatedata.com/?utm_medium=referral&utm_source=t.co,,1405847998.0
+38,8059927,comment,8058363.0,8059864.0,3,0,dchest,,,"See the bottom of the grand-grandparent comment <a href=""https://news.ycombinator.com/item?id=8059218"" rel=""nofollow"">https://news.ycombinator.com/item?id=8059218</a>",1405847980.0
+39,8059926,story,,,1,0,ejr,The Quest to Brew Beer With Space Yeast,http://www.wired.com/2014/07/ninkasi-space-beer-launch/,,1405847888.0
+40,8059925,comment,8058636.0,8059015.0,1,0,etrautmann,,,"some of their analyses are performed on raw voxels, but individual neurons for ablation experiments can be identified either manually or using video image processing to identify single neurons.  It is a hard problem and a number of people are working on improving it, but for many analyses it may not be strictly necessary as a preprocessing step.",1405847837.0
+41,8059923,comment,8059900.0,8059900.0,4,0,snori74,,,"Fascinating, and brutally honest.",1405847823.0
+42,8059922,comment,8058724.0,8058724.0,2,0,rgj,,,Relying on a passphrase only is not good enough. Enter it once on a compromised system and it&,
+43,8059921,comment,8059283.0,8059283.0,1,0,ejr,,,"This looks to be very good. One tiny, and I do mean tiny, wish is that the code follows BSD/KNF style. I know that&",
+44,8059920,comment,8058823.0,8058823.0,1,0,jsilence,,,What if you fold the universe in half a hundred times instead? Just sayin&,
+45,8059919,story,,,36,65,escapologybb,Ask HN: Is it possible to have forum type community running without a database?,,This question came about as I&,
+46,8059918,comment,8059237.0,8059714.0,3,0,raymondh,,,In the author&,
+47,8059917,comment,8057251.0,8058538.0,3,0,FredBaker,,,"Humming is the making of a low, steady continuous sound like that of a bee, as described in the dictionary.<p>In the IETF, we use this as a variety of voice vote. However, we don&",
+48,8059915,comment,8058496.0,8058757.0,1,0,jhrobert,,,OTOH corruption & fraud is much easier with anonymity.,1405847329.0
+49,8059914,comment,8059092.0,8059870.0,3,0,muyyatin,,,I&,
+50,8059912,comment,8055631.0,8058653.0,1,0,eru,,,There&,
+51,8059911,comment,8058404.0,8059175.0,3,0,hrktb,,,"I think it could be because of education programs, where available of course. I&",
+52,8059910,comment,8056978.0,8059248.0,1,0,dannypgh,,,I didn&,

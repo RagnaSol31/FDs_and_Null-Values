@@ -1,0 +1,109 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7557846,comment,7557551.0,7557551.0,4,0,olefoo,,,"The main cause of homelessness is a lack of political will to fix the issues. When Utah does a better job on a social issue than California or even Oregon, it&",
+1,7557845,comment,7557764.0,7557764.0,5,0,ggreer,,,"I use StartCom, and I revoked and re-keyed yesterday. In the revocation reason, I linked to the CVE. They waived the fee, citing &quot;exceptional circumstances.&quot; It could be that they&",
+2,7557844,comment,7556752.0,7557243.0,1,0,lern_too_spel,,,What is all this rewrite talk about? Just use NSS. Done.,1397023105.0
+3,7557843,comment,7557551.0,7557551.0,0,0,seism,,,"Well reasoned and researched, the author solidly frames the moral conundrum. There is no &quot;solution&quot;, obviously. To recognize that the homeless person and the successful entrepreneur are outliers on the same sliding scale, in their essence both disruptors of the status quo, is a step towards an adult perspective on the goals we pursue. I&",
+4,7557842,comment,7557530.0,7557628.0,2,0,bryanlarsen,,,80% more pixels is a lot.,1397023072.0
+5,7557841,comment,7557764.0,7557823.0,14,0,machrider,,,Mozilla comes to mind as an organization that could be trusted to do this.,1397022943.0
+6,7557840,comment,7557551.0,7557551.0,2,0,bifrost,,,"IMHO this article is pretty one sided.<p>In general, homelessness is terrible, there are very few people who will dispute that. What is in dispute is how to \ndeal with it. There are undoubtedly people who &quot;want&quot; to live on the street, and there are absolutely people who desperately do not want to be there.<p>I grew up in San Francisco, and while not completely immune to the plight of the homeless, I don&",
+7,7557839,comment,7557517.0,7557651.0,1,0,recursify,,,I&,
+8,7557838,story,,,1,0,yiedyie,Flaw found in encryption method,http://www.timesunion.com/news/article/Flaw-found-in-encryption-method-5387434.php,,1397022777.0
+9,7557837,comment,7556407.0,7557180.0,2,0,icebraining,,,"There are extensions to warn you about certificate changes even if the new is signed by a CA, so that&",
+10,7557836,comment,7557263.0,7557817.0,2,0,spike021,,,I believe that says &quot;More Options&quot; if I&,
+11,7557835,comment,7555824.0,7556196.0,1,0,malandrew,,,"No, in this case it actually is price gouging.<p>If there are 1000 hotels on the market for a certain weekend in month X. Those hotels will see people search for and book a room. Initially those rooms will go for a very low rate. As the date nears, demand will increase and the price of the remaining stock will rise, so that the few rooms that remain as the weekend nears are made available at really high prices.<p>However if there are 1000 rooms and the hotels know the specific weekend and the nature of the people that will require the use of those rooms and they proactively price all those rooms at very high rates prior to even experiencing the demand, that is price gouging.",1397022697.0
+12,7557834,comment,7557831.0,7557831.0,2,0,gargarplex,,,"Watch Episode: <a href=""https://www.youtube.com/watch?v=VvkmsI54ss4"" rel=""nofollow"">https://www.youtube.com/watch?v=VvkmsI54ss4</a><p>Thanks, HBO!",1397022683.0
+13,7557833,story,,,2,0,yiedyie,"Intel closes Costa Rica operation, cuts 1,500 jobs",http://www.reuters.com/article/2014/04/08/us-intel-costa-rica-idUSBREA371TJ20140408?feedType=RSS&feedName=businessNews,,1397022680.0
+14,7557832,comment,7555418.0,7555418.0,3,0,DanielKehoe,,,I&,
+15,7557831,story,,,3,2,gargarplex,"Um.. HBO's ""Silicon Valley""?  Amazing.",,Just sayin&,
+16,7557830,comment,7557634.0,7557664.0,2,0,greenyoda,,,<i>&quot;That&,
+17,7557828,comment,7555426.0,7557730.0,2,0,WalterBright,,,I&,
+18,7557827,comment,7556752.0,7557243.0,1,0,_pmf_,,,> Brand new implementation of ssl library<p>Which will take some years to reach the security level of the current OpenSSL implementation (if at all).,1397022546.0
+19,7557826,comment,7555012.0,7556666.0,2,0,yofred,,,Add Le Corbusier&,
+20,7557825,story,,,59,29,whadar,Add heartbeat extension bounds check,https://github.com/openssl/openssl/commit/731f431497f463f3a2a97236fe0187b11c44aead,,1397022518.0
+21,7557823,comment,7557764.0,7557764.0,14,0,rdl,,,"I wish someone could do a genuinely free SSL CA with &quot;reasonable&quot; procedures, just to disrupt the industry.  Charging $19 to 500/yr for something which is fundamentally non-rival (unlike, say, a domain name) with very minimal marginal cost is basically bullshit rent-seeking.<p>SSL certs are an utter commodity, and generally the CA system is a broken system, but we&",
+22,7557822,comment,7557517.0,7557682.0,1,0,nathanbarry,,,"So true. I thought about removing it for this post, but then figured not many people were going to read it anyway (I was wrong).",1397022477.0
+23,7557821,comment,7557570.0,7557570.0,3,0,beneater,,,I was in exactly this situation back in 1996. I moved back in with my parents and enrolled in a couple classes at the local community college. I guess the assumption was that I&,
+24,7557820,comment,7557551.0,7557551.0,8,0,aaron695,,,"> &quot;Homeless people in these stories, it is worth noting, are almost always referred to by their first names, while their tormentors, or benefactors, are afforded the dignity of a surname.&quot;<p>Unfortunately an incredibly moronic story on a serious issue.<p>What sort of asshole would put someone&",
+25,7557819,comment,7557517.0,7557814.0,1,0,nathanbarry,,,Nice! What did you spend your time doing over the summer/fall?,1397022400.0
+26,7557818,comment,7557517.0,7557652.0,7,0,nathanbarry,,,It&,
+27,7557817,comment,7557263.0,7557263.0,1,0,frik,,,The blurry photo shows that the new redesign features only two privacy settings:<p><pre><code>  * Public\n\n  * Friends\n</code></pre>\nBelow there is also some tiny blurry text that may stand for &quot;advanced&quot;.,1397022339.0
+28,7557816,comment,7557517.0,7557790.0,6,0,knodi123,,,I&,
+29,7557815,comment,7557517.0,7557771.0,1,0,nathanbarry,,,You&,
+30,7557814,comment,7557517.0,7557517.0,1,0,bparsons,,,I more or less did this last year. I didn&,
+31,7557813,comment,7557517.0,7557722.0,2,0,nathanbarry,,,I max out retirement accounts (plus a lot more) each year.,1397022194.0
+32,7557812,comment,7557764.0,7557764.0,10,0,pritambaral,,,"The title is misleading. StartCom is asking for its fee for revoking, that&",
+33,7557811,story,,,2,0,Flux7Labs,Exploring effects of parallelism in I/O operation on a single EC2 instance.,http://flux7.com/blogs/benchmarks/exploring-parallelism-in-io-operations/,,1397022173.0
+34,7557810,comment,7557551.0,7557551.0,1,0,victoro,,,The author took 23 paragraphs (with outlandish detours that equate technologists sleeping in cars and participating in CrossFit to &quot;fetishizing the homeless&quot; and trying to make a connection between that and libertarianism) to basically say that the tech community should get mad at institutions that lead to homelessness instead of the homeless individuals themselves.  No concrete advice was provided on how to improve said institutions except for a quick mention of how Salt Lake City and Phoenix have helped reduce homelessness by giving away homes -- of course the caveat that those places have far more affordable housing and far more units to actually give away was not at all mentioned even though ~22 paragraphs previously the author was talking about how expensive  1 bedroom apartments are in SF and other tech hubs.,1397022172.0
+35,7557809,story,,,2,0,camlinke,Apache Mahout to support Spark,http://gigaom.com/2014/03/27/apache-mahout-hadoops-original-machine-learning-project-is-moving-on-from-mapreduce/,,1397022153.0
+36,7557807,comment,7557517.0,7557663.0,1,0,nathanbarry,,,I don&,
+37,7557806,story,,,1,0,mufoot,Bluehost 70% off discount Coupon Code,https://www.youtube.com/watch?v=VB5NDX9ZvXk,,1397022082.0
+38,7557805,comment,7555426.0,7556160.0,2,0,rdc12,,,"Excuse my ignorance, but which book on GC is the famous GC book, I recently looked at a book on GC from the Uni library, and it was pretty awful.<p>Is there other books, papers, authors you would recommend related to compilers, optimisations, runtimes (vm or otherwise) and programming lanugauges?",1397022077.0
+39,7557804,story,,,2,0,coldtraveller,Heartbleed: What it is and what options exist to mitigate it,http://serverfault.com/q/587329/110996,,1397022038.0
+40,7557803,story,,,1,0,hashx,Design Patterns in Dynamic Languages [pdf] (1996),http://norvig.com/design-patterns/design-patterns.pdf,,1397022032.0
+41,7557802,story,,,1,0,taivare,The Failure Fetish in Silicon Valley ,http://nymag.com/daily/intelligencer/2014/03/silicon-valley-failure-fetish.html,,1397021988.0
+42,7557800,comment,7557089.0,7557305.0,1,0,dscrd,,,Isn&,
+43,7557799,comment,7557517.0,7557517.0,28,0,nathanbarry,,,"Wow, thanks for sharing my post. I&",
+44,7557798,comment,7557707.0,7557719.0,1,0,blacklicoris,,,"no, but jakevdp is a great blog, and er.. that is some relevant info i should incorporate so thanks!<p>but i remember just scanning, it had a dark background and had many plots of mcmc output - sort of looked like a splom plot.<p>thanks for that link though anyway<p>--anyone remember this",1397021212.0
+45,7557797,comment,7557517.0,7557517.0,3,0,callmeed,,,"Well, first off, if you have digital products like ebooks, it&",
+46,7557796,comment,7555628.0,7557592.0,4,0,zo1,,,Not to mention your blog engine/site is broken. Please fix the fact that we can&,
+47,7557795,story,,,1,0,thewarrior,GSF Explorer,http://en.wikipedia.org/wiki/GSF_Explorer,,1397021153.0
+48,7557794,comment,7557263.0,7557693.0,4,0,rodrodrod,,,What do you mean by &,
+49,7557793,comment,7557517.0,7557783.0,1,0,noobermin,,,"You know sir, as fun as Jackson problems are and as exciting modelling plasma sounds, I&",
+50,7557792,comment,7557089.0,7557766.0,5,0,johntyree,,,>Go doesn&,
+51,7557791,comment,7555945.0,7556718.0,2,0,xerophtye,,,Wow... the only comments are about the scrolling...,1397021091.0
+52,7557790,comment,7557517.0,7557517.0,3,0,guelo,,,I wonder if only working a few months a year is enough to keep your skills updated to the point where you can charge $100/hr at will.,1397021054.0
+53,7557789,comment,7557634.0,7557634.0,4,0,andymoe,,,I really don&,
+54,7557788,comment,7554921.0,7556507.0,1,0,ema,,,"The mill CPU [1] has a single address space and they plan to port linux to it.<p>[1] <a href=""http://millcomputing.com/"" rel=""nofollow"">http://millcomputing.com/</a>",1397021013.0
+55,7557787,comment,7557284.0,7557441.0,2,0,andrewchoi,,,In God we trust; all others bring data.,1397021006.0
+56,7557786,comment,7557517.0,7557517.0,1,0,lawnchair_larry,,,This isn&,
+57,7557785,comment,7555359.0,7556631.0,1,0,icoloma,,,"Has anyone compared Route53 with the new Google Cloud DNS? <a href=""https://developers.google.com/cloud-dns/"" rel=""nofollow"">https://developers.google.com/cloud-dns/</a><p>I&",
+58,7557783,comment,7557517.0,7557776.0,2,0,joelhooks,,,The world is still your oyster. :>,1397020929.0
+59,7557782,comment,7555628.0,7555628.0,3,0,EGreg,,,"Shameless plug some of you might like to read: <a href=""http://www.flipcode.com/tpractice/"" rel=""nofollow"">http://www.flipcode.com/tpractice/</a><p>(I used to be really into game programming when I was in my teens.)",1397020927.0
+60,7557781,comment,7555418.0,7555659.0,1,0,benwoodward,,,"I guess you can mix responsive layouts with variant templates anyway, right? Just place your responsive markup in a partial and reference it in.",1397020918.0
+61,7557780,comment,7557089.0,7557407.0,2,0,jevinskie,,,"> qhasm [4] is a portable assembly seemingly not focused on safety.<p>When you start to worry about compiler bugs, hand written macro assembly isn&",
+62,7557779,comment,7557089.0,7557342.0,2,0,sseveran,,,Package subtle implements functions that are often useful in cryptographic code but require careful thought to use correctly.,1397020809.0
+63,7557778,comment,7507753.0,7507753.0,1,0,vancedev,,,"SEEKING WORK. Local to Orange County, CA or Remote.<p>I specialize in iOS development and can help you with your iOS app.<p>Add a new feature, optimize performance, implement best practices, App Store compliance, UX consultation, any task large or small.<p>Happy to speak with you at vpham.dev[@]gmail[.]com",1397020695.0
+64,7557777,comment,7557597.0,7557597.0,2,0,gregsq,,,Why amazing? It&,
+65,7557776,comment,7557517.0,7557517.0,1,0,noobermin,,,I am often amazed by how much freedom a lot of people here have. I&,
+66,7557775,comment,7557551.0,7557702.0,3,0,recursive,,,How do you know?,1397020654.0
+67,7557774,story,,,2,0,T-A,Regulators line up to crack down on Bitcoin,http://www.marketwatch.com/story/regulators-line-up-to-crack-down-on-bitcoin-2014-04-09?pagenumber=1,,1397020646.0
+68,7557773,comment,7545284.0,7546501.0,1,0,gauravkm,,,This looks promising. Thanks for sharing.,1397020645.0
+69,7557772,comment,7557089.0,7557755.0,3,0,sseveran,,,They come from the C language allowing it.,1397020630.0
+70,7557771,comment,7557517.0,7557517.0,1,0,peter422,,,I&,
+71,7557770,comment,7556328.0,7557043.0,1,0,dragonwriter,,,> Part of the idea of Soylent is that it is cheaper than food. I&,
+72,7557769,comment,7557611.0,7557611.0,4,0,fraserharris,,,The author represents a socialist view of Canada that idealizes a period from &,
+73,7557768,comment,7555418.0,7556071.0,1,0,stiff,,,"I never understood why you would use YAML for storing settings. In fact, I observed that because of YAML devs are less likely to extract things into configuration settings, especially adding a setting seems to involve a manual server restart. I wrote a gem that&",
+74,7557767,comment,7556074.0,7557006.0,1,0,noobermin,,,Not sure why I was downrated. A rebuttal would be nice.,1397020462.0
+75,7557766,comment,7557089.0,7557523.0,6,0,wyager,,,>Go is probably better at this.<p>Why? Go doesn&,
+76,7557764,story,,,52,45,DiabloD3,StartCom charges for reissuing SSL certs due to Heartbleed,https://cv.exbit.io/emails/startssl_heartbeat.txt,,1397020378.0
+77,7557763,comment,7552760.0,7556552.0,1,0,div,,,"My girlfriend does everything on her iPhone 5c.<p>From the occasional glances, she&",
+78,7557762,comment,7557089.0,7557673.0,5,0,wyager,,,">How bad are timing/side-channel attacks, really?<p>Bad. They are <i>not</i> something to blow off. They may seem &quot;out there&quot;, but they are actually leveraged somewhat frequently. They are particularly dangerous in certain shared-hardware environments (e.g. VPS services like DigitalOceal, AWS, etc), and against physical devices that are supposed to resist data extraction (like smart cards).",1397020337.0
+79,7557761,story,,,1,0,tellarin,Nokia wins Chinese approval for Microsoft deal,http://www.reuters.com/article/2014/04/08/us-nokia-microsoft-china-idUSBREA370DH20140408,,1397020321.0
+80,7557760,comment,7557517.0,7557517.0,4,0,gavinpc,,,Nathan&,
+81,7557759,comment,7552964.0,7555853.0,3,0,malandrew,,,"Many wheels, possibly in the form of many small ball bearings on a rail should work. Many small cylinders instead of spherical bearings would be better.<p>Even better would be a highly conductive grease non-flammable grease.",1397020263.0
+82,7557758,story,,,21,4,chrissnell,"Theo de Raadt: ""[heartbleed] does not affect SSH at all""",http://undeadly.org/cgi?action=article&sid=20140408063423,,1397020234.0
+83,7557757,comment,7541413.0,7545296.0,1,0,mbleigh,,,I wasn&,
+84,7557755,comment,7557089.0,7557499.0,8,0,AnthonyMouse,,,> In C you could have made some &,
+85,7557754,comment,7556328.0,7557050.0,2,0,psychometry,,,I don&,
+86,7557753,comment,7555426.0,7555426.0,18,0,skrebbel,,,"Reading this article and the HN comments, I&",
+87,7557752,comment,7547080.0,7550464.0,1,0,jliptzin,,,"Well, that may be so, but try explaining that to a (probably) not so intelligent bad guy who will just continue torturing you. Maybe a good feature for a DMS system would be a fake shut off switch that appears to be convincing to an adversary.",1397020123.0
+88,7557751,comment,7557517.0,7557517.0,1,0,DLarsen,,,For me the overarching reminder is that of contentment.  It&,
+89,7557750,comment,7557611.0,7557687.0,3,0,chad_oliver,,,Why not? You&,
+90,7557749,story,,,1,0,jonshariat,Every EverQuest Loading Screen,http://everquest.allakhazam.com/gallery/loading.html,,1397020059.0
+91,7557748,comment,7552964.0,7552964.0,1,0,malandrew,,,Interestingly this story makes me wonder whether economic consequences even enter the picture when choosing to engage. I never would have imagined an admiral asking themselves &quot;Is this worth the cost of a $1.5 million missile?&quot; I reckon that it would be a binary decision based on threat alone. Are there any guidelines in the military where the commanding officer is instructed to perform any sort of cost benefits analysis when making the decision to engage a hostile?<p>Would a dramatically lowered cost greatly increase the likelihood that the navy will be more willing to act as an aggressor?,1397020019.0
+92,7557747,comment,7556752.0,7557484.0,13,0,tptacek,,,"Prior to TLS 1.2, all of the mainstream ciphersuites are bad.<p>The fact that you have to upgrade to TLS 1.2, which includes more than just new ciphersuites, somewhat counterfeits the idea that the ciphersuite mechanism provided much protection.<p>Ultimately, the protocol might have been just as well off by defining a single ciphersuite and accepting that a break in that ciphersuite would necessitate a protocol update.",1397020013.0
+93,7557746,comment,7557517.0,7557663.0,2,0,itengelhardt,,,"Nathan is no longer consulting, solely doing products. So for him there isn&",
+94,7557745,comment,7557517.0,7557704.0,1,0,whoismua,,,"Most likely.<p>During the 2008-2009 crisis, I read that even the super-rich had concerns about their future. The human mind is amazing with so many what-ifs. &quot;Enough,&quot; for me would mean at least $4-$5 Million and then living in many different and cheaper countries (or US states) to save money if the stock market is doing badly.",1397019985.0
+95,7557744,comment,7557517.0,7557517.0,3,0,joelhooks,,,"&quot;what about retirement&quot; is a common question.<p>I suppose a valid one if you are considering the &quot;work until 65 and then stop&quot; approach to life. Sounds really shitty to me. There is a concept of &quot;micro-retirements&quot; that I find incredibly appealing. Much like Nathan describes here. Putting in the work, and enjoying the dividends.<p>I&",
+96,7557743,comment,7557551.0,7557702.0,4,0,wudf,,,Look in the back seat,1397019941.0
+97,7557742,comment,7557284.0,7557713.0,8,0,integraton,,,"Essentially, but we need a phrase other than &quot;business sense&quot; to describe this kind of terrible behavior.",1397019910.0
+98,7557741,story,,,1,0,duvok,Ask HN: Blockchain innovation ideas,,Fred Wilson called out the next VC cycle as &quot;the blockchain cycle&quot; - http://avc.com/2014/04/the-mobile-downturn/<p>What are some innovative business ideas that utilize the blockchain? (other than cryptocurrency),1397019852.0
+99,7557740,comment,7555426.0,7557375.0,4,0,ScottBurson,,,You&,
+100,7557739,story,,,1,0,skaur,Twitter's photo-centric redesign ,http://venturebeat.com/2014/04/08/twitter-launches-photo-centric-redesign-rolling-out-over-the-next-few-weeks/,,1397019718.0
+101,7557738,comment,7548991.0,7548991.0,2,0,jaseemabid,,,"So now that NSA can steal private keys, all the logs they collected over the years can be decrypted?",1397019713.0
+102,7557737,comment,7557089.0,7557673.0,5,0,001spartan,,,When you&,
+103,7557736,comment,7555359.0,7556834.0,1,0,MichaelGG,,,>And it&,
+104,7557735,story,,,1,0,coldtraveller,AirBnB discusses their new terms and conditions,https://www.airbnb.com.au/home/tos-2014,,1397019666.0
+105,7557734,comment,7553942.0,7555744.0,1,0,catshirt,,,who said anything about reducing the filesize by a megabyte? i assumed the EXIF data was maybe a few kb.<p>not sure why i&,
+106,7557733,comment,7557611.0,7557703.0,3,0,flycaliguy,,,I wouldn&,
+107,7557732,comment,7557517.0,7557651.0,5,0,kazagistar,,,"At no point did it say you have to only earn enough to get you through to the next year. If &quot;enough&quot; is, say, half of your spendings in a year, then you can still pursue both goals.<p>Retirement, in many ways, seems like a really poor bargain. It seems better to enjoy your &quot;freedom&quot; when you are young and healthy. Youth is wasted on the young, wealth is wasted on the old.",1397019623.0

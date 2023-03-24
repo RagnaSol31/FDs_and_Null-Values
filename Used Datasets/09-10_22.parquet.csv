@@ -1,0 +1,63 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9013584,comment,9011222.0,9013173.0,0,0,MayanAstronaut,,,"True, it comparisons do a lot better with more features.<p>This paper looks to just show the major winning aspect of using CovNets as they do not need many features as the deep net learns its own representations of the training data. It more to show CovNets work on more then just vision.<p>But architeching the pooling layers IS adding complex to the simple input feature set. Therefore the comparison should be of only state of the art ML.",1423303121.0
+1,9013583,comment,9009988.0,9012729.0,0,0,geon,,,"The difference would be that at the time, there weren&",
+2,9013582,comment,9013211.0,9013334.0,0,0,dark_photon,,,"I think the point is that Chrome uses PPAPI for both Flash and EME.<p>Firefox also uses some kind of sandbox for plugins (like Flash) but yes, their planned sandbox for EME is stricter.",1423302994.0
+3,9013581,comment,9009282.0,9009494.0,0,0,spyder,,,"I agree that the future could be phones that can be docked to have full desktop environment. And I think it can happen soon with phones using the newer Intel Atom processors, because there are already tablets that can dual boot Android and full Windows 8.1 with good performance, and there are already a few phones with Intel CPU and new ones are announced. Also Microsoft said that Windows 10 will unify desktop with Windows Phone OS.",1423302947.0
+4,9013580,comment,9011783.0,9011783.0,0,0,shutupalready,,,"Was it really necessary to involve a smartphone at all?<p>> <i>color change [is] picked up by a set of photocells in the dongle, and the results are then sent to an app</i><p>The logic to discriminate a color change could have been handled by a 75-cent microcontroller. Add a cheap display or a couple LEDs to show the test result, plus a cheap AA battery, and you have a self-contained gadget for less cost than creating the smartphone interface.<p>Pregnancy tests and all sorts of sophisticated chemical test strips don&",
+5,9013579,comment,9011051.0,9013531.0,0,0,firethief,,,No it&,
+6,9013578,comment,9013261.0,9013503.0,0,0,dingaling,,,"> If people would care, learn about the issues and people, show up to local hearings, actually do things...<p>I went to a local hearing once, about a proposal for a leisure centre to be built on some grass pitches in our town.<p>At the meeting we were informed that we could not object to the proposal except on economic or environmental grounds. The effects on the living standards of local residents, and peoples&",
+7,9013577,story,,,46,5,vruiz,Mangos – An implementation in pure Go of the Scalable Protocols,https://github.com/gdamore/mangos,,1423302798.0
+8,9013576,comment,9011545.0,9011545.0,0,0,andreashansen,,,"How does this compare to, let&",
+9,9013575,comment,9011138.0,9012072.0,0,0,raverbashing,,,"Code is much more easily written than read, so there&",
+10,9013574,comment,9012027.0,9012027.0,0,0,chris_j,,,"Minor issue with the page: I think you meant &quot;poring over data&quot; (not &quot;pouring&quot;). [0]. Other than that, this looks interesting and I must check it out when I have more than my phone with me.<p>[0] <a href=""http://www.merriam-webster.com/top-ten-lists/top-10-commonly-confused-words-vol-1/pore-pour.html"" rel=""nofollow"">http://www.merriam-webster.com/top-ten-lists/top-10-commonly...</a>",1423302763.0
+11,9013571,story,,,43,17,iamjdg,Cold fusion E-Cat experiment ends explosively,http://www.wired.co.uk/news/archive/2015-02/06/cold-fusion-reactor,,1423302695.0
+12,9013570,story,,,129,36,signa11,Moreutils,http://joeyh.name/code/moreutils/,,1423302555.0
+13,9013568,comment,9013211.0,9013358.0,0,0,belorn,,,An interesting technical claim to sandbox a process in such a way that it has free access to display drivers and hardware modules (tpm&,
+14,9013567,comment,9011138.0,9013462.0,0,0,mirimir,,,That is interesting. I wonder if Enigmail would support NetPGP as an alternative.,1423302189.0
+15,9013566,comment,9013211.0,9013444.0,0,0,AnkhMorporkian,,,No user is being forced into using this. I haven&,
+16,9013565,comment,9011138.0,9013034.0,0,0,tobinfricke,,,Google&,
+17,9013564,comment,9011327.0,9011327.0,0,0,tudorizer,,,I&,
+18,9013563,comment,9013504.0,9013504.0,0,0,DanBC,,,"> When I say “things that I count,” it does actually mean that I’m somewhat cheating.<p>He doesn&",
+19,9013562,comment,9011138.0,9013480.0,0,0,mirimir,,,"In <<a href=""https://github.com/google/end-to-end>"" rel=""nofollow"">https://github.com/google/end-to-end></a> I see that &quot;End-To-End is a Chrome extension that helps you encrypt, decrypt, digital sign, and verify signed messages within the browser using OpenPGP.&quot;<p>That&",
+20,9013561,comment,9012996.0,9013289.0,0,0,SyneRyder,,,"While it could be coincidence, I think you&",
+21,9013560,comment,9012293.0,9013553.0,0,0,DanBC,,,He says he recently bought 500 for about a dollar each and that other places had quoted him between $2 to $4 per part.<p>That variability in pricing is already a bit scary but going from $2 to $11 is something you&,
+22,9013559,comment,9013211.0,9013211.0,0,0,ck2,,,The nice thing about youtube is it also encodes most videos in webm format so it still plays on XP with Firefox and some old phones<p>Other sites like vimeo only do mp4,1423301553.0
+23,9013558,story,,,1,0,kanakiyajay,30 Learnings from Attending IIT Powai E-cell Summit,http://blog.jaykanakiya.com/e-cell-summit-2015/,,1423301544.0
+24,9013557,comment,9009988.0,9011379.0,0,0,on_and_off,,,It is just an easy narrative trope to throw if you are a lazy journalist having to write an article.  \nBraid was a very successful indie game. Even if you don&,
+25,9013556,comment,9013180.0,9013180.0,0,0,S4M,,,There is something called quick_check.js [0] that looks similar to what you want. It&,
+26,9013555,comment,9013261.0,9013261.0,0,0,KwanEsq,,,">We are still, despite our shortcomings, the most successful experiment in self-government in history.<p>I&",
+27,9013554,comment,9011955.0,9013552.0,0,0,fapjacks,,,I actually looked but couldn&,
+28,9013553,comment,9012293.0,9012653.0,0,0,bsder,,,"And, to be fair, I&",
+29,9013552,comment,9011955.0,9013042.0,0,0,fnordsensei,,,Don&,
+30,9013551,comment,9012293.0,9012703.0,0,0,DanBC,,,One thing you can do is go to brokers. These people buy old stock from suppliers but also buy old stock from manufacturers who go out of business or who no longer meed the part.<p>The parts you get are espensive and don&,
+31,9013550,comment,9013261.0,9013495.0,0,0,anigbrowl,,,"This was basically why I posted it. I too worried about the lack of verifiability, or whether it might be someone writing &",
+32,9013549,comment,9013211.0,9013484.0,0,0,timonovici,,,> the companies that own the content would never be willing to relicense them for DRM-free streaming.<p>Don&,
+33,9013548,comment,9013211.0,9013457.0,0,0,jhasse,,,My wireless network is very slow in my bedroom. Also there&,
+34,9013547,comment,9013211.0,9013436.0,0,0,comex,,,"The JavaScript VM is also a type of sandbox, whose security in every browser is compromised on a depressingly regular schedule.  It&",
+35,9013546,story,,,38,46,clogston,Free Tax Software Is Bad,https://common-form.com/blog/free-tax-software-bad/,,1423300571.0
+36,9013545,story,,,1,0,edward,The light-speed world of high frequency trading,https://www.contributoria.com/issue/2015-02/5492b15e38cdedc144000003,,1423300536.0
+37,9013543,comment,9013211.0,9013436.0,0,0,vertex-four,,,"> running untrusted code in a sandbox is still running untrusted code on your machine<p>asm.js and various obfuscators allow websites to do this in the first place with closed-source code, with a far larger attack service than the EME sandbox. In not a lot of time from now, they quite reasonably could.",1423300485.0
+38,9013542,comment,9011041.0,9013529.0,0,0,ryan_j_naughton,,,Exactly. Craigslist isn&,
+39,9013541,comment,9012989.0,9012989.0,0,0,sova,,,Which languages do you know and would you be willing to learn Clojure ? =),1423300440.0
+40,9013540,comment,9013211.0,9013468.0,0,0,hrjet,,,And we are working on another (gngr) :),1423300382.0
+41,9013539,comment,8992467.0,8992467.0,0,0,yanchao727,,,"good post, never thought panda could do this",1423300366.0
+42,9013538,comment,9010944.0,9013234.0,0,0,seanmcdirmid,,,I used to eat at cheap xiaochi&,
+43,9013537,comment,9009706.0,9013195.0,0,0,seanmcdirmid,,,"If I understand correctly, the DOM is retained, and React brings abstracts it efficiently back to a immediate mode API with some state retention, which has benefits since things stay consistent automatically.<p>In contrast, a UI model like WPF uses (declarative) data binding to achieve something similar, but without as much flexibility and with more verbosity.<p>I&",
+44,9013536,comment,9013211.0,9013444.0,0,0,vertex-four,,,> as if the only issue with these was that they&,
+45,9013535,story,,,18,2,SpaceInvader,Applied Crypto Hardening [pdf],https://bettercrypto.org/static/applied-crypto-hardening.pdf,,1423300147.0
+46,9013534,comment,9011138.0,9012722.0,0,0,O____________O,,,"Yeah, I hope he sees a minimum of $500k - $1mil, which is about representative of what he&",
+47,9013533,comment,9012938.0,9012971.0,0,0,dinkumthinkum,,,I doubt anyone has 40 years of C++ .... But that&,
+48,9013532,comment,8980065.0,8980065.0,0,0,hamidr,,,"SEEKING WORK - Remote<p>C/C++/Qt/Boost, JS(ExpressJS, Mongoose,...), Java, PHP, Ruby, MySql, MongoDB, Redis<p>Rate: $20-$25<p>Resume: on request - hamidr.dev@gmail.com",1423299969.0
+49,9013531,comment,9011051.0,9013277.0,0,0,madaxe_again,,,Brighty.com?,1423299916.0
+50,9013530,comment,9012293.0,9012787.0,0,0,bsder,,,Unlikely.  If they are &quot;phasing out&quot; a product line to the point of it being gone in a couple months it means that they only have inventory and aren&,
+51,9013529,comment,9011041.0,9013138.0,0,0,tunesmith,,,"Something else could have caused both the STD increase and the appearance of a local craigslist presence.  Like, say, a certain critical mass of population density.",1423299828.0
+52,9013528,comment,9010944.0,9012828.0,0,0,SiVal,,,That&,
+53,9013527,comment,9012938.0,9012938.0,0,0,arisAlexis,,,I&,
+54,9013526,story,,,2,0,topaz2,So you wanted to be a computer programmer (2010),http://www.mcsweeneys.net/articles/column-5-so-you-wanted-to-be-a-computer-programmer%E2%80%A6,,1423299786.0
+55,9013525,story,,,1,0,bentanweihao,How to Build Streams in Elixir Easily with Stream.resource/3 Awesomeness,http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/,,1423299762.0
+56,9013524,comment,9011628.0,9013220.0,0,0,bsder,,,You have a <i>lot</i> of incorrect assumptions.<p>First wrong assumption: that one person can carry 100% if the IP with them.  That&,
+57,9013523,comment,9012938.0,9013072.0,0,0,dinkumthinkum,,,The other side to that is that there are plenty of younger developers that don&,
+58,9013522,comment,9013261.0,9013261.0,0,0,powera,,,I&,
+59,9013521,story,,,1,0,marfra0627,Octopus Deploy – A Culture Change,http://frankcode.net/2015/02/07/octopus-deploy-a-culture-change/,,1423299661.0
+60,9013520,story,,,1,0,DesaiAshu,Make School (YC W12) is hiring for marketing,https://www.makeschool.com/jobs/marketing,,1423299655.0
+61,9013519,story,,,1,0,wodow,Donkeys in the sky: build cargo drones and get rich,https://medium.com/message/build-cargo-drones-get-rich-9b858dffaba,,1423299653.0

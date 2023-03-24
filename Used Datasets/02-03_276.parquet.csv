@@ -1,0 +1,113 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9125876,comment,9123544.0,9124448.0,0,0,jeltz,,,Nice to hear that it works so well already. It is a very new feature which was sponsored by the company I work for only a couple of months ago. We are not even done migrating our database yet (we have to convert stored procedures and the queries in the application too).,1425178793.0
+1,9125874,comment,9124223.0,9124223.0,0,0,ziles88,,,Microsoft is really stepping it up. They&,
+2,9125873,comment,9125854.0,9125854.0,0,0,clonardo,,,"FLSA is an interestingly-outdated animal. Basically anyone in a white-collar job gets an &quot;executive&quot; exemption. See: anyone working in financial services.<p>Meanwhile, in areas like retail, workers&",
+3,9125872,comment,9125474.0,9125474.0,0,0,nacs,,,There&,
+4,9125871,comment,9125777.0,9125777.0,0,0,Physlet,,,I tried pressing CMD+B and CTRL+B and it didn&,
+5,9125870,comment,9125155.0,9125555.0,0,0,addicted44,,,They want people to develop their apps using C,
+6,9125869,comment,9123544.0,9125634.0,0,0,jeltz,,,Not sure what you refer to here. All pg_dump formats should work for restoring a database. The only flaw in pg_dump that I know of is the mess if you want to dump an entire cluster of databases but still have one file per database.,1425178582.0
+7,9125868,story,,,1,0,philDunphy,Appserver Is Pushing PHP Into A New Era – Powerful Open Source Infrastructure,http://www.superbcrew.com/appserver-io-the-most-powerful-open-source-php-infrastructure/,,1425178537.0
+8,9125867,comment,9124805.0,9125699.0,0,0,ant6n,,,"Ever since late Ds9, vulcans have become more and more angry and racist. ST:Enterprise was full of angry vulcans.",1425178509.0
+9,9125866,comment,9125155.0,9125555.0,0,0,masters3d,,,Swift may become the new Javascript if Apple plays their cards right.,1425178506.0
+10,9125865,story,,,160,99,luu,Most Down-Voted Stack Overflow Questions,http://data.stackexchange.com/stackoverflow/query/36660/most-down-voted-questions,,1425178491.0
+11,9125864,comment,9125785.0,9125785.0,0,0,bediger4000,,,"<i>That’s the cable industry, which invested to create the nation’s high-speed broadband platform and now is being punished for it.&quot;</i>  Oh, puh-leeze. The FCC has always generously subsidized phone company expansions, one way (tax breaks) or another (increased tariffs, a.k.a. bigger phone bills).  It&",
+12,9125863,comment,9124048.0,9125315.0,0,0,bryceadams,,,I&,
+13,9125862,story,,,5,0,_pius,Ways to think about market size,http://ben-evans.com/benedictevans/2015/2/28/market-size,,1425178404.0
+14,9125861,comment,9121467.0,9121467.0,0,0,wodenokoto,,,"I think there are many cool features of English. My favourite is how you can change any noun into a verb.<p>A stone, to stone someone.<p>If the reader/listener has never encountered a novel transformation she will tend to not accept it, but it is within the bounds of the language to do it with any noun.",1425178400.0
+15,9125860,comment,9124048.0,9125464.0,0,0,bryceadams,,,I&,
+16,9125859,story,,,1,0,dandandan,Tinder Plus will launch on Monday,http://techcrunch.com/2015/02/28/tinder-plus-will-launch-on-monday/,,1425178390.0
+17,9125858,comment,9125155.0,9125435.0,0,0,masters3d,,,That was the interesting thing for me when I found it on google. Internal? Pdf title in metadata &quot;SCPoster_RobinReview_v2_print&quot;,1425178387.0
+18,9125857,comment,9125193.0,9125193.0,0,0,boca,,,I don&,
+19,9125856,comment,9123822.0,9124686.0,0,0,hisyam,,,You might want to change your profile picture. That negative black & white photo looks unprofessional.,1425178348.0
+20,9125855,comment,9124048.0,9125669.0,0,0,bryceadams,,,"Yeah, sorry that wasn&",
+21,9125854,story,,,1,1,petethomas,Work Advice: More questions about whether employers’ demands are legal,http://www.washingtonpost.com/lifestyle/magazine/atwork-advice-more-questions-about-whether-employers-demands-are-legal/2015/02/19/2beabc02-ad60-11e4-9c91-e9d2f9fde644_story.html,,1425178325.0
+22,9125853,comment,9124944.0,9124944.0,0,0,paulsutter,,,TL/DR: Simulating a low noise environment is lot easier than finding one in the real world. And that&,
+23,9125852,comment,9125382.0,9125836.0,0,0,bobthecow,,,"Are you running Windows? If not, you&",
+24,9125851,comment,9125474.0,9125474.0,0,0,kyledrake,,,I use this. It&,
+25,9125850,comment,9124125.0,9124125.0,0,0,karthikv2k,,,"&quot;2. Use plain linear models for non-linear interaction&quot;\nIt should be noted that Linear models are only linear in the model parameters, while the features can be transformed using non-linear functions. This trick makes linear models very powerful. Also if you have big data (in millions/billions) then you are better off with linear models, as SVM is very difficult to \nscale.<p>In my experience (all in big data), I rarely seen people use SVM, usual choices are logistic regressions and tree based models. In some finance and insurance industries you are restricted to use only interpretable models, which linear models are.",1425178295.0
+26,9125849,comment,9125193.0,9125788.0,0,0,coldtea,,,><i>But the author here claims that &quot;H-1B is not about skills or skills gap&quot; and cites as evidence the fact that the vast majority of the approved applicants have only a Bachelor&,
+27,9125848,comment,9125193.0,9125788.0,0,0,shawnee_,,,There&,
+28,9125847,comment,9125480.0,9125480.0,0,0,IndianGuru,,,Organizer here. We definitely do require community help to build a submission mechanism. Anyone?,1425178218.0
+29,9125846,comment,9125155.0,9125665.0,0,0,pistle,,,"I would suggest that if you are loading up large storyboards in XCode, then you could be putting yourself in a bad position for a couple of reasons in iOS, let alone trying to make it all come back together using Xamarin.<p>Storyboards are a decent solutions for certain problems, but if your app ends up as one monolithic or a group of large storyboards, you are going to be structuring and defining things in ways that will have friction with some of your better practices in your C",
+30,9125845,comment,9124843.0,9125765.0,0,0,hkmurakami,,,There&,
+31,9125844,comment,9125155.0,9125471.0,0,0,masters3d,,,I think that may backfire as I can see more c,
+32,9125843,comment,9123948.0,9125241.0,0,0,wheaties,,,"Yesterday or not, Backbone works. Loads fast. And is dead simple to use.",1425178172.0
+33,9125842,comment,9124048.0,9124644.0,0,0,bryceadams,,,"Good point, will fix this up!",1425178162.0
+34,9125841,story,,,1,0,s5innovation,Using Paid Social Advertising for Lead Generation,http://studio5innovation.com/paid-social-advertising-lead-generation/,,1425178162.0
+35,9125840,comment,9124048.0,9125838.0,0,0,bryceadams,,,That&,
+36,9125839,comment,9125480.0,9125480.0,0,0,politician,,,"> Create a zip of your Go source code and send the zip file to gochallenge [at] joshsoftware.com by the 15th of the month (midnight IST, 11:30 AM PDT). No new solutions will be accepted after that.<p>Presumably, March 15?",1425178117.0
+37,9125838,comment,9124048.0,9124048.0,0,0,croisillon,,,So I tried a couple of countries and noticed an error at least for Austria: you display the number as +43 0676...<p>It won&,
+38,9125837,comment,9123822.0,9124738.0,0,0,jordanb,,,"> For developers and freelancers, it would be nice if we \n> can work with a business vocabulary. I think any \n> freelancer can whip up a page like nngroup.com and \n> present themselves as a consultant, or is there more \n> to it than just the surface?<p>> So essentially it&",
+39,9125836,comment,9125382.0,9125463.0,0,0,juliangregorian,,,PsySH has a tendency to crash on fatal errors. If Boris figured out how to recover gracefully that would be a huge point in its favor.,1425178017.0
+40,9125835,comment,9123569.0,9124959.0,0,0,throwaway2048,,,"Early atoms where unquestionable intentionally crippled. During the netbook era, by leaving out stuff like out of order execution, SSE functionality, no x86_64 bit extensions and forcing vendors to bundle crappy intel GPUs and limiting systems to 2 gigs of ram and XP only. I&",
+41,9125834,story,,,5,2,thret,"The Wellness Warrior, Jess Ainscough, Has Passed Away",http://scienceblogs.com/insolence/2015/02/27/the-wellness-warrior-jess-ainscough-has-passed-away/,,1425177955.0
+42,9125833,story,,,11,2,tosh,Transducers are coming (2014),http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming,,1425177906.0
+43,9125832,comment,9125474.0,9125773.0,0,0,sampo,,,"I like my panels vertical, and looks like [1] MATE has inherited this bug from Gnome 2, that window buttons go crazy if the panel is vertical, and there are more than 8 windows open. Gnome 2 never fixed this bug, and apparently is still exists in MATE, too.<p>Anyway, I think Xfce is better.<p>[1] <a href=""https://bugs.launchpad.net/linuxmint/+bug/1351825"" rel=""nofollow"">https://bugs.launchpad.net/linuxmint/+bug/1351825</a>",1425177905.0
+44,9125831,comment,9125193.0,9125788.0,0,0,Zigurd,,,"If you read the H1-B requirements, it&",
+45,9125830,comment,9124973.0,9124973.0,0,0,wodenokoto,,,Does that mean I can legally make digital copies of the infringing book?,1425177863.0
+46,9125829,story,,,6,3,theunamedguy,MS-DOS runs the US Army's food service management system,http://en.wikipedia.org/wiki/MS-DOS,,
+47,9125828,comment,9124805.0,9125400.0,0,0,juliangregorian,,,"It sounds great on its surface, but antidepressants have a common side effect of increased suicidal tendencies.",1425177835.0
+48,9125826,comment,9125193.0,9125788.0,0,0,jellicle,,,> Find me any company that doesn&,
+49,9125825,comment,9123702.0,9125686.0,0,0,Silhouette,,,<i>But I think you&,
+50,9125822,comment,9125653.0,9125653.0,0,0,sergiotapia,,,I use outlook.com - it&,
+51,9125821,comment,9125193.0,9125788.0,0,0,geebee,,,&quot;Find me any company that doesn&,
+52,9125820,comment,9125474.0,9125726.0,0,0,mkartic,,,I don&,
+53,9125818,comment,9124048.0,9125669.0,0,0,grecy,,,You can receive the texts when you are anywhere in the world.,1425177223.0
+54,9125816,story,,,101,102,ldayley,Beware the Pretty People,http://techcrunch.com/2015/02/28/beware-the-pretty-people/,,1425177152.0
+55,9125815,story,,,2,0,sofistcated,Analysis of OpenDoor's potential market impact,http://www.realpundit.com/home/2015/opendoor-raises-more-money-currently-buying-a-home-a-day-in-phoenix,,1425177147.0
+56,9125814,comment,9124530.0,9125547.0,0,0,detaro,,,What is &quot;scary dangerous&quot; about a switch in the kettle that isn&,
+57,9125813,comment,9123702.0,9125727.0,0,0,bane,,,"No, I mean, I actually searched for &quot;open house&quot; in quotes. (I tried the terms without quotes as well, but when that first set of results turned up useless I tried the quotes).<p>The results were literally what I describe, just a random sample of emails from the last few years. I keep using the search hoping I get something useful returned, and even when I do things like put in exact phrases I know are in the message, I get a random pile of junk back.<p>I should just learn my lesson and stop trying to be honest.",1425177112.0
+58,9125811,comment,9124843.0,9125771.0,0,0,eru,,,I like them---but perhaps I&,
+59,9125810,comment,9123822.0,9125273.0,0,0,nandreev,,,"A certain video comes to mind: <a href=""https://www.youtube.com/watch?v=jVkLVRt6c1U"" rel=""nofollow"">https://www.youtube.com/watch?v=jVkLVRt6c1U</a>",1425177004.0
+60,9125809,comment,9123577.0,9125387.0,0,0,Jach,,,OT FYI note: you can&,
+61,9125808,comment,9123571.0,9125515.0,0,0,eru,,,Just like they are still writing new COBOL.,1425176979.0
+62,9125804,comment,9123863.0,9125591.0,0,0,eru,,,Linus Torvald disagrees.  (His best argument for using C over C++ is to keep the people who prefer C++ over C at bay.),1425176836.0
+63,9125803,comment,9125474.0,9125726.0,0,0,Gracana,,,"If you use lvm snapshots (which are very well documented in the arch wiki), you can try horrible system-destroying changes and just roll back if you don&",
+64,9125802,comment,9125474.0,9125797.0,0,0,asher,,,Have you tried fluxbox?  Did XFCE offer something beyond fluxbox?,1425176795.0
+65,9125801,comment,9123298.0,9123298.0,0,0,cadalac,,,Aristotle,1425176762.0
+66,9125799,comment,9123577.0,9125691.0,0,0,Jach,,,"The same way they currently work in a system everyone gets burned by? The main benefits of the current system from my perspective are that fraud detection algorithms are really good now, in the cases of credit card fraud the CC companies usually just credit back the stolen amount to the customer (which unfortunately hurts sellers since buyer fraud is still common), and when events like $300m-$900m getting stolen from banks happen, the overall system generates so much profit that it mostly gets swept under the rug and the average person isn&",
+67,9125797,comment,9125474.0,9125474.0,0,0,unicornporn,,,I&,
+68,9125796,comment,9120690.0,9122432.0,0,0,nl,,,The definition of a crater has nothing to do with climate change.<p>I thought there was some &quot;interesting&quot; conspiracy theory thatI&,
+69,9125793,comment,9125480.0,9125775.0,0,0,mattetti,,,We don&,
+70,9125792,comment,9125155.0,9125687.0,0,0,liampronan,,,What are your reasons for preferring Xamarin? I&,
+71,9125791,comment,9124048.0,9124644.0,0,0,rnprince,,,I had exactly the same reaction as well.,1425176350.0
+72,9125790,comment,9125382.0,9125382.0,0,0,gourneau,,,"I have used <a href=""http://www.phpsh.org/"" rel=""nofollow"">http://www.phpsh.org/</a> for years.",1425176336.0
+73,9125789,comment,9125785.0,9125785.0,0,0,ethana,,,"non-paywall through google: <a href=""https://www.google.com/",
+74,9125787,comment,9125474.0,9125733.0,0,0,kelnos,,,A quick google shows an Xfce blog post from November stating that it <i>won&,
+75,9125786,story,,,1,0,adamnemecek,Ember.js RFC: Routeable Components,https://github.com/ef4/rfcs/blob/routeable-components/active/0000-routeable-components.md,,1425176228.0
+76,9125785,story,,,1,2,ethana,The Net Neutrality Crack-Up – WSJ,http://www.wsj.com/articles/holman-jenkins-the-net-neutrality-crack-up-1425080173,,1425176206.0
+77,9125784,comment,9123714.0,9124832.0,0,0,jzelinskie,,,"In my mind the big selling moment was the &quot;free weekend&quot; during alpha that occurred because of a bug with the auth servers. He just decided to make the game free until it was fixed. During that time, it got a decent amount of publicity on reddit and tons of people got hooked. Come time that the auth servers were fixed, everyone bought the game instantly.",1425176195.0
+78,9125783,comment,9125130.0,9125397.0,0,0,SocksCanClose,,,"perhaps this is what they are actually talking about -- creating their own cryptocurrency. how would they prevent people from across the world from creating Greek Bitcoin? perhaps this would crete (I almost corrected that typo, but I&",
+79,9125782,comment,9124805.0,9125442.0,0,0,vacri,,,I&,
+80,9125781,comment,9125130.0,9125732.0,0,0,CHY872,,,You don&,
+81,9125780,comment,9124792.0,9124792.0,0,0,Pro_bity,,,"Good article, although his use of the word &quot;chemicals&quot; as a negative is pretty silly. Particularly, in this sentence &quot;Fermentation and curdling involve hundreds of chemical reactions that produce a multitude of complex flavor compounds with a depth that can&",
+82,9125777,story,,,14,17,ahmadassaf,Add Chrome bookmarks like a boss,https://github.com/ahmadassaf/booklight,,1425176027.0
+83,9125776,comment,9125130.0,9125500.0,0,0,SocksCanClose,,,hmmm... seems to me your reasoning rests on the reasoning of Keynes?<p>what if Keynes is wrong?,1425176024.0
+84,9125775,comment,9125480.0,9125735.0,0,0,rxaxm,,,"<a href=""http://jobs.splice.com/"" rel=""nofollow"">http://jobs.splice.com/</a> has nothing listed for backend<p>where should i reach out?",1425175987.0
+85,9125774,comment,9124805.0,9125699.0,0,0,DLWormwood,,,"Actually, the fact that young Spock was an outcast was already established by the early &",
+86,9125773,comment,9125474.0,9125690.0,0,0,alxmdev,,,"I enjoyed Gnome 2 as well, back on Debian 5 and 6. Did you try MATE (<a href=""http://mate-desktop.org/"" rel=""nofollow"">http://mate-desktop.org/</a>)? It&",
+87,9125772,comment,9124944.0,9125389.0,0,0,bjornsing,,,120 W? I thought sunlight was more like 1 kW (but perhaps not much of it in 428-750 terahertz?).,1425175920.0
+88,9125771,comment,9124843.0,9125766.0,0,0,ekianjo,,,I&,
+89,9125769,comment,9124843.0,9125411.0,0,0,ekianjo,,,">  The owners are French, so I go there to touch-up my language skills, order a montainard<p>Just a small correction since you are into French, it&",
+90,9125768,comment,9125130.0,9125130.0,0,0,SocksCanClose,,,i actually think this is a good idea -- wouldn&,
+91,9125767,comment,9124805.0,9125699.0,0,0,sliverstorm,,,"Remember that Spock is half-human, and tends to be at his most compelling as a character when he is struggling with his two halves.",1425175848.0
+92,9125766,comment,9124843.0,9125411.0,0,0,eru,,,"The central European (Belgian, German, Dutch, Swiss, Czech, etc) also make amazing cakes and pastries.",1425175810.0
+93,9125765,comment,9124843.0,9124843.0,0,0,ekianjo,,,"I had heard that there were many Japanese folks working in Patisseries in France, but I was surprised to read that in that one it was mostly run by a full Japanese staff! What&",
+94,9125764,comment,9125538.0,9125538.0,0,0,geebee,,,"Wow, good article.<p>In a way (from a financial point of view), going to medical school is taking a bet.  If you end up in certain well paid specialties (dermatology, radiology, etc), you can have a remarkable salary without a bad work schedule.  Emergency medicine is also a good choice.  Problem is, you have to go through med school and run up that debt before you know if you&",
+95,9125763,comment,9123702.0,9124139.0,0,0,samuell,,,"I would recommend always using Ctrl+F when trying to search in a mail/page/document, in any software. Have ran over few places where that didn&",
+96,9125762,comment,9124792.0,9125503.0,0,0,refurb,,,Agreed.  Same with the comment about using &quot;chemicals&quot;.,1425175660.0
+97,9125761,comment,9123822.0,9124883.0,0,0,gurkendoktor,,,"> Give them quotes per project or part of project, not per day, or heaven forfend by the hour.<p>But if you do this, definitely have a strategy for when the project explodes, or when a client keeps asking for &quot;just one more little fix&quot; for months. I tend to summarise every new project (usually discussed over the phone) in an email, so that I can refer to what is and what isn&",
+98,9125760,comment,9124792.0,9125745.0,0,0,dllthomas,,,I&,
+99,9125759,comment,9125130.0,9125741.0,0,0,Retric,,,"<a href=""http://en.m.wikipedia.org/wiki/Amdahl%27s_law"" rel=""nofollow"">http://en.m.wikipedia.org/wiki/Amdahl%27s_law</a>  Making one input cheaper has limited benefits.  Sure all your digital entertainment  might get really cheap, but your still going to want heat, food, and a bed etc.<p>Anyway, &",
+100,9125758,comment,9125474.0,9125731.0,0,0,ekianjo,,,SteamOS is only made for Gaming though. You can go back to desktop mode but nothing&,
+101,9125757,story,,,2,0,shad42,DockerBoot: Boot your machine with a fig.yml and docker,https://github.com/samalba/dockerboot,,1425175601.0
+102,9125756,comment,9125474.0,9125731.0,0,0,rdtsc,,,"Remember <a href=""http://distrowatch.com/"" rel=""nofollow"">http://distrowatch.com/</a> was the place to go look at recent distros.<p>I used to be a distro geek, test all kinds of various ones, various window manager, twiddle driver settings and all.<p>Now just use Ubuntu for the last 7 years and like it. It just lets me get the work done.",1425175584.0
+103,9125755,comment,9125130.0,9125713.0,0,0,saraid216,,,"Is there a purpose to this comment, or are you just mining downvotes now?",1425175570.0
+104,9125754,comment,9123863.0,9125516.0,0,0,smegel,,,C&,
+105,9125753,comment,9124530.0,9125568.0,0,0,lfowles,,,"Recently moved into a house without a microwave, but we do have a toaster oven, so it evens out. I often wish I had a teeny tiny microwave to melt a stick of butter quickly though.",1425175494.0
+106,9125752,comment,9123336.0,9125355.0,0,0,toomuchtodo,,,"Would you not preauthorize the card again right before shipment? What if their card is no longer valid, closed, or is past their credit limit?",1425175453.0
+107,9125751,comment,9124530.0,9125596.0,0,0,lfowles,,,"All roads lead to Rome.<p>I assume this article was posted because it was mentioned in XKCD[0] , which also ends on the grape plasma tangent.<p>[0]: <a href=""https://what-if.xkcd.com/131/"" rel=""nofollow"">https://what-if.xkcd.com/131/</a>",1425175384.0
+108,9125750,comment,9124792.0,9125601.0,0,0,eropple,,,"YMMV, but I eat low-carb (I wouldn&",
+109,9125749,comment,9123702.0,9125083.0,0,0,Twirrim,,,I&,
+110,9125748,comment,9125474.0,9125733.0,0,0,e12e,,,Presumably. There&,
+111,9125746,story,,,1,0,ryanswapp,Build a Blog with Middleman and Host on GitHub Pages,http://swapp.sexy/2015/02/26/build-a-blog-with-middleman-and-host-on-github-pages/,,1425175216.0

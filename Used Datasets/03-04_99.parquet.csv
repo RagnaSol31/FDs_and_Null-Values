@@ -1,0 +1,111 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9568079,comment,9555472.0,9562955.0,0,0,SamReidHughes,,,I had looked at append&,
+1,9568078,story,,,1,0,tosh,A Tour of Go,https://tour.golang.org/welcome/1,,1432007951.0
+2,9568077,comment,9566353.0,9566353.0,0,0,amitabhsharma,,,"I learned it by playing a game called &quot;Typer Shark&quot; <a href=""http://www.gamehouse.com/download-games/typer-shark"" rel=""nofollow"">http://www.gamehouse.com/download-games/typer-shark</a>, while I could type before it also,it helped me get the speed and control that I no longer needed to look at the keyboard anymore.",1432007944.0
+3,9568076,comment,9565849.0,9567222.0,0,0,jimmcslim,,,"Have you folks considered partnerships with Synology, QNAP, etc? Syno have just embraced Docker in their latest OS version, although that is limited to their Intel-based NAS range. Sandstorm might have an opportunity to provide a platform for lower-end and high-end NAS to run web applications.<p>But I&",
+4,9568075,comment,9565891.0,9567203.0,0,0,angersock,,,The web <i>doesn&,
+5,9568074,comment,9566269.0,9566269.0,0,0,greenyoda,,,"Prior discussion: <a href=""https://news.ycombinator.com/item?id=9564387"" rel=""nofollow"">https://news.ycombinator.com/item?id=9564387</a>",1432007864.0
+6,9568073,comment,9568068.0,9568068.0,0,0,tosh,,,This is Google&,
+7,9568072,comment,9566596.0,9566649.0,0,0,michaelbuckbee,,,It&,
+8,9568071,comment,9566091.0,9566501.0,0,0,jboggan,,,I&,
+9,9568070,comment,9567290.0,9567966.0,0,0,tptacek,,,tcpdump and libpcap have different syntaxes? When did that start? tcpdump&,
+10,9568069,story,,,1,0,pepys,Bodleian manuscript shows Shakespearean theatre had unsuspected medieval roots,http://www.oxfordtoday.ox.ac.uk/news/2015-05-11-dramatic-discovery-bodleian,,1432007770.0
+11,9568068,story,,,1,1,tosh,Literata,https://www.flickr.com/photos/typetogether/sets/72157652433541065/,,1432007754.0
+12,9568067,comment,9567822.0,9568031.0,0,0,Rifu,,,"Seconding this approach. I generally do a bastardized pomodoro[1] approach where I split productive/non-productive time 50/10 minutes. This has the added bonus of really making you focus on the task at hand knowing you will be interrupted in 50 minutes[2]. If you find it impossible to be away from the internet for 50 minutes at a time, you could always start small and work your way from there (eg 10/5, 15/5, etc).<p>[1] <a href=""http://pomodorotechnique.com/"" rel=""nofollow"">http://pomodorotechnique.com/</a><p>[2] Of course we all know a lot of things take more than 50 minutes so adjust appropriately.",1432007737.0
+13,9568066,comment,9566064.0,9567765.0,0,0,andyidsinga,,,re (a) : is not just a communication problem.  a lot of solutions from previous generation are dramatically less easy than newer offerings. IMHO nosql and cloud compute offerings we&,
+14,9568065,comment,9567931.0,9567931.0,0,0,tosh,,,"Here are some examples I found: <a href=""https://www.flickr.com/photos/typetogether/sets/72157652433541065/"" rel=""nofollow"">https://www.flickr.com/photos/typetogether/sets/721576524335...</a>",1432007713.0
+15,9568064,comment,9565971.0,9567600.0,0,0,goatforce5,,,"Apparently iPods (as drives) were the sharing method of choice during Lord of the Rings production.<p><a href=""http://www.ilounge.com/index.php/news/comments/ipod-helped-to-make-lord-of-the-rings/"" rel=""nofollow"">http://www.ilounge.com/index.php/news/comments/ipod-helped-t...</a>",1432007711.0
+16,9568063,comment,9567656.0,9567656.0,0,0,biot,,,If I&,
+17,9568062,comment,9567656.0,9568016.0,0,0,viggity,,,"if you really need indexes, extract the fields from your json and keep them as additional columns in the table. Key value stores have always had problematic indexing on anything that wasn&",
+18,9568061,comment,9567731.0,9568037.0,0,0,jdswain,,,I think I&,
+19,9568060,comment,9567931.0,9567931.0,0,0,simplexion,,,This website is horrible. View an ugly ad with the real article bouncing on the side. Who comes up with this stuff?,1432007567.0
+20,9568059,comment,9567761.0,9567863.0,0,0,brongondwana,,,"0. That was an exciting day!  I still remember rebooting servers on my phone while my kids tried on new bathers.<p><a href=""http://blog.fastmail.com/2012/07/03/a-story-of-leaping-seconds/"" rel=""nofollow"">http://blog.fastmail.com/2012/07/03/a-story-of-leaping-secon...</a>",1432007563.0
+21,9568058,comment,9566897.0,9568051.0,0,0,michaelfeathers,,,Surely there&,
+22,9568057,comment,9565891.0,9567722.0,0,0,angersock,,,"Oh goody, so let&",
+23,9568056,comment,9568045.0,9568045.0,0,0,mjhea0,,,"clickable link - <a href=""http://remittr.com"" rel=""nofollow"">http://remittr.com</a>",1432007504.0
+24,9568055,story,,,1,0,jj09,Website with speech recognition for free,http://jj09.net/website-with-speech-recognition-for-free/,,1432007500.0
+25,9568054,comment,9564688.0,9566512.0,0,0,juliangamble,,,"You can see an answer to the problem here: <a href=""http://strasheela.sourceforge.net/strasheela/doc/ConstraintProgramming.html",
+26,9568053,story,,,2,0,daragh99,Why this software developer teaches mindfulness meditation,http://www.geekmindfitness.com/mindfulness/why-this-software-developer-teaches-mindfulness-meditation/,,1432007398.0
+27,9568052,comment,9566064.0,9567669.0,0,0,rdtsc,,,"> There is hope: Google went from a famous, NoSQL player to inventing an amazing, strong-consistency RDBMS (F1). Let&",
+28,9568051,comment,9566897.0,9567944.0,0,0,nitrogen,,,I would be worried about toxic gases released from the rock being absorbed by the meat.,1432007375.0
+29,9568050,story,,,45,24,RockyMcNuts,Man’s Claims of Hacking Plane Discredited by Law Enforcement,http://www.bloomberg.com/news/articles/2015-05-18/hacker-claims-of-plane-takeover-aren-t-credible-official-says,,1432007247.0
+30,9568049,comment,9568032.0,9568042.0,0,0,tlong,,,Downside to GA is that it doesn&,
+31,9568048,comment,9567638.0,9567840.0,0,0,Animats,,,"Phone hacking is bigger than ever now, but it&",
+32,9568047,story,,,1,1,willietran,Ask HN: When did you first come across Hacker News?,,It&,
+33,9568046,story,,,1,0,yanhangyhy,A simple sandbox based on docker for linux,https://github.com/hangyan/SnowBox,,1432007097.0
+34,9568045,story,,,1,3,hari-allamraju,Show HN: Remittr – clean intuitive fx prices,, http://remittr.com - my latest project to build a site that shows fx close prices in a clean interface. The main purpose is to help users plan their remittances at the best price. The site is still in active development and more features like buy and sell signals will be added,1432007073.0
+35,9568044,comment,9566064.0,9568002.0,0,0,andyidsinga,,,yep. see also : shared nothing architecture,1432007036.0
+36,9568043,comment,9566091.0,9567941.0,0,0,sanswork,,,">No not really. If you believe $1 of X will be more than $1 in the future, you buy it for $1, you don&",
+37,9568042,comment,9568032.0,9568032.0,0,0,danielfriedman,,,Google Analytics - definitely look in-depth at the amount of features available.,1432006909.0
+38,9568041,comment,9568032.0,9568032.0,0,0,tlong,,,"<a href=""https://www.kissmetrics.com/"" rel=""nofollow"">https://www.kissmetrics.com/</a>\n<a href=""https://mixpanel.com/"" rel=""nofollow"">https://mixpanel.com/</a><p>These are my favorites.  You could also go with something more like <a href=""http://www.hubspot.com/"" rel=""nofollow"">http://www.hubspot.com/</a> if you&",
+39,9568040,comment,9567176.0,9567878.0,0,0,sangnoir,,,"I am not a lawyer, forgive any inaccuracies. These are 2 instances of the same/similar license type - they remain 2 different licenses with different conditions that have to be met individually even if the code is merged.<p>The licenses are compatible. However, for the Go team (and downstream lib users) to satisfy Intel&",
+40,9568039,comment,9567213.0,9567768.0,0,0,deliminator,,,Clojure&,
+41,9568038,comment,9567353.0,9567353.0,0,0,danieltillett,,,The most important thing to focus on is yourself so you know exactly what you want when you interview people. Too many times I have been dragged in as an interviewer just to make up the numbers (bureaucratic game you have to play within universities) where the real interviewers (the people who actually are doing the hiring) had no idea what they were looking for. Most of the time it seemed to be a pointless exercise; we would chat to everyone and then the real interviewers would just choose the &quot;nicest” appearing candidate.,1432006830.0
+42,9568037,comment,9567731.0,9567731.0,0,0,disordinary,,,"I hope they expand throughout the pacific and come to New Zealand at some point, more competition and innovative features are what&",
+43,9568036,comment,9565154.0,9565154.0,0,0,Smeevy,,,There&,
+44,9568035,story,,,2,0,doctorshady,"It's Google and Facebook's web, we just surf in it",http://www.networkworld.com/article/2923151/data-center/its-google-and-facebooks-web-we-just-surf-in-it.html,,1432006807.0
+45,9568034,comment,9567761.0,9568000.0,0,0,TheLoneWolfling,,,"Well, there was this: <a href=""https://lkml.org/lkml/2012/7/1/203"" rel=""nofollow"">https://lkml.org/lkml/2012/7/1/203</a><p>It affected pretty much everything running (a recent version of) Linux.",1432006806.0
+46,9568033,comment,9565218.0,9565644.0,0,0,Terr_,,,"IMO <i>most</i> of your &quot;why&quot; ought to be code-comments, not commit-messages, because most of the time people say: &quot;Why is this code this way&quot; as opposed to &quot;Why did this specific transition occur in the past&quot;.",1432006777.0
+47,9568032,story,,,1,4,ywfoong,Data Analytics for Marketing,,what are some of the good softwares out there?,1432006744.0
+48,9568031,comment,9567822.0,9567822.0,0,0,gamechangr,,,I use egg timers for the beginning of the day. Sometimes I&,
+49,9568030,comment,9566913.0,9567866.0,0,0,nmrm2,,,Wow. I&,
+50,9568029,comment,9567656.0,9567656.0,0,0,drawkbox,,,Postgres became our goto RDMBS because of JSON support. It is really sad it has taken Microsoft this long to get JSON native database support. It makes using it for .NET projects more difficult than competitors or NoSQL databases. When clients pick .NET we always get a little annoyance every time we need to use JSON in the database which we solve with caching/redis/mongo/file io/compression depending on the situation.<p>JSON support has lagged in all areas of Microsoft development platforms.  They didn&,
+51,9568027,story,,,111,22,nbaksalyar,“Profession” (1957),http://www.inf.ufpr.br/renato/profession.html,,1432006630.0
+52,9568026,comment,9567731.0,9567948.0,0,0,greggman,,,They are also expensive. Usually $6 per transaction IIRC when I used to pay my rent.,1432006615.0
+53,9568025,comment,9565075.0,9565560.0,0,0,tom_hack,,,"yes, I&",
+54,9568024,comment,9567353.0,9567908.0,0,0,majormajor,,,It&,
+55,9568023,story,,,12,28,tlong,Ask HN: How the Hell Do I Market to Developers?,,I&,
+56,9568022,story,,,1,1,jonbaer,The Particle Zoo: Subatomic Particle Softies,http://www.particlezoo.net/,,1432006486.0
+57,9568021,comment,9566441.0,9567929.0,0,0,codychan,,,"<a href=""https://github.com/c02y/dotfiles/blob/master/fish/.config/fish/config.fish"" rel=""nofollow"">https://github.com/c02y/dotfiles/blob/master/fish/.config/fi...</a>",1432006486.0
+58,9568020,comment,9566064.0,9567372.0,0,0,Artemis2,,,I heard from a Googler that many of other companies&,
+59,9568019,comment,9567193.0,9567649.0,0,0,SamReidHughes,,,"> If the ship were not moving relative to the earth which was moving as a constant velocity away from the ship at near the speed of light<p>If the ship is not moving relative to the Earth, then the earth is not moving relative to the ship.  The trouble I have with your first explanation is that the ship and Earth are moving away from each other -- it&",
+60,9568018,story,,,2,0,wslh,In defense of insider trading,http://fee.org/freeman/detail/oliver-stone-meet-friedrich-hayek,,1432006400.0
+61,9568017,story,,,1,0,sydcanem,Mock data for software testing,http://www.mockaroo.com/,,1432006336.0
+62,9568016,comment,9567656.0,9567656.0,0,0,NDizzle,,,Leaving out JSON indexes seems like a tremendous oversight.,1432006256.0
+63,9568015,comment,9563658.0,9564599.0,0,0,danieltillett,,,"Wow your mortgage is low - mine is more than 10 times the size and I live in a flat! Australian housing is expensive especially where I live.<p>When I owned a house the maintenance cost was quite considerable. You can put it off for a while, but eventually it comes due. My guess is that it was around $750 a month plus I had council rates to pay on top of this which were another $250 a month.",1432006248.0
+64,9568014,comment,9565891.0,9566972.0,0,0,banachtarski,,,"Written both. Not sure why it needs to be deferred rendering specifically lol. A forward renderer (or a light deferred, or tiled deferred, or forward plus, etc) would easily prove the same point.<p>The precompiled logic thing is nonsense. This happens on the fly in games too. Shaders get compiled on the device, assets streamed in from disk or the network. Game behavior is typically scripted and patched, etc. Narrow selection of hardware? 10 years ago? Wrong. I work on a game engine that fully supports a 10 year old machine, and most state of the art engines can degrade to that level too.<p>Goofy image formats? Please. DXT1-6, BC1-7, crunched assets, raw DDS, etc. We deal with tons of different formats, lossy and otherwise. Texture arrays, cubemaps, etc too. Malformed XML documents are trivial with a good lexer and we need tons of validation too on our side. Many games patch themselves.<p>The game can scale to a mobile device believe or not. It just doesn&",
+65,9568013,comment,9561645.0,9561645.0,0,0,ckomlo,,,It&,
+66,9568011,comment,9567761.0,9567761.0,0,0,wslh,,,"What a coincidence, today I was talking with the people at Vornex who are in the niche area of simulated time for testing. It seems like a good opportunity to test this &quot;leap second&quot;.<p>[1] <a href=""http://www.vornexinc.com/"" rel=""nofollow"">http://www.vornexinc.com/</a>",1432005992.0
+67,9568010,story,,,5,0,markkat,The social aggregator is a terrible business model,https://hubski.com/pub?id=219234,,1432005956.0
+68,9568009,comment,9566500.0,9567862.0,0,0,takeda,,,"I suppose <a href=""http://www.postgres-xl.org/"" rel=""nofollow"">http://www.postgres-xl.org/</a> ?",1432005927.0
+69,9568008,story,,,1,0,_mtroy,Naming a Startup,http://michaelinbeta.com/naming-a-startup/,,1432005901.0
+70,9568007,comment,9566008.0,9567940.0,0,0,strmpnk,,,It&,
+71,9568006,comment,9567761.0,9568000.0,0,0,oh_sigh,,,"You could probably find a number of post mortems by googling around for the last leap second, which was June 30 2012 IIRC.",1432005771.0
+72,9568005,comment,9567761.0,9567973.0,0,0,oakwhiz,,,"I would imagine that some hardware RTCs would not support the :60 leap second value. In fact I cannot recall a single RTC that I have dealt with, that understands leap seconds.",1432005705.0
+73,9568004,story,,,98,34,zdw,$34 Smartphone Part II – Teardown,http://projectgus.com/2015/05/34-dollar-smartphone-part-ii-teardown/,,1432005686.0
+74,9568003,story,,,2,0,jonbaer,"Scratch Artificial, Is Intelligence an Existential Risk?",https://examachine.net/blog/scratch-artificial-is-intelligence-an-existential-risk/,,1432005683.0
+75,9568002,comment,9566064.0,9567669.0,0,0,jeswin,,,> The NoSQL movement didn&,
+76,9568001,comment,9566542.0,9567098.0,0,0,geoelectric,,,"Yeah, totally agree. That&",
+77,9568000,comment,9567761.0,9567761.0,0,0,maerF0x0,,,I&,
+78,9567999,comment,9566064.0,9567757.0,0,0,otterley,,,Linux has copy-on-write block devices that make it possible to efficiently layer container filesystems.  FreeBSD has no such thing as far as I know; the best you can do involves hard links (correct me if I&,
+79,9567997,story,,,1,0,jonbaer,New White House Technology Officer Poses a Brain Teaser,http://www.popsci.com/white-house-cto-asks-brainteaser,,1432005494.0
+80,9567996,story,,,1,0,dylanjermiah,Uber tests 30% fee in select cities,http://www.wsj.com/articles/uber-tests-30-fee-its-highest-yet-1431989126,,1432005491.0
+81,9567995,story,,,1,0,luu,Intentional hiring: how not to suck at hiring data scientists (or anyone else),https://medium.com/@uberpreeya/intentional-hiring-how-not-to-suck-at-hiring-data-scientists-or-anyone-else-4cf110f685b9,,1432005474.0
+82,9567994,story,,,1,0,kareemm,Security expert hacked into aircraft systems midflight thru entertainment system,https://www.thestar.com/news/world/2015/05/18/security-expert-claims-he-hacked-into-aircraft-systems-midflight-through-entertainment-system.html,,1432005401.0
+83,9567993,comment,9566091.0,9567751.0,0,0,javert,,,"Thanks for your thoughts.<p>If there is some advantage to devices having a few satoshis, it would be easy to just send them a few satoshis. (Or install a private key that lets them draw a few satoshis from an account you set up for that purpose.)<p>In other words, you don&",
+84,9567992,comment,9566441.0,9567716.0,0,0,ridiculous_fish,,,"Thanks for sharing this. The files in the *.d directories are bourne-syntax, and so fish can&",
+85,9567991,comment,9566064.0,9567669.0,0,0,otterley,,,"> NonStop Architecture scaled linearly to thousands of cores with strong-consistency, five 9&",
+86,9567990,comment,9562923.0,9564416.0,0,0,daxelrod,,,A lot of the VCSes that use the monorepo model allow fine grained permissions on various parts of the repo (this necessitates being able to restrictively fetch only part of the repo).,1432005298.0
+87,9567989,comment,9567731.0,9567731.0,0,0,spacestation,,,finally.\nI&,
+88,9567988,comment,9563253.0,9566229.0,0,0,im3w1l,,,I&,
+89,9567987,comment,9567761.0,9567946.0,0,0,archimedespi,,,"You are exactly correct. The aforementioned thread[0] on Serverfault mentioned timesmearing with `ntpd -x`, as per [1].\nIt&",
+90,9567986,comment,9566542.0,9567891.0,0,0,geoelectric,,,"I basically agree, but in many cases I know it&",
+91,9567985,comment,9566441.0,9567166.0,0,0,zaphar,,,I&,
+92,9567984,story,,,1,1,joeyespo,Simplify: move code into database functions,http://sivers.org/pg,,1432005104.0
+93,9567983,comment,9563578.0,9563578.0,0,0,carry_bit,,,Isn&,
+94,9567982,story,,,2,0,znpy,"Ratpack: for nontrivial, high performance, low resource usage, HTTP Java apps",http://ratpack.io/,,1432005045.0
+95,9567981,comment,9564036.0,9567197.0,0,0,swalsh,,,In the article it actually mentions that they already built the system to support it (they are modulating the pulse),1432004996.0
+96,9567979,comment,9566868.0,9567241.0,0,0,jeffcox,,,It&,
+97,9567978,comment,9567656.0,9567787.0,0,0,taspeotis,,,Well Entity Framework 7 is meant to have support for non-relational data sources [1] so ... at some point you probably won&,
+98,9567977,comment,9565218.0,9566216.0,0,0,methou,,,this line made my day:\n&,
+99,9567976,story,,,633,161,panarky,"Internet.org Is Not Neutral, Not Secure, and Not the Internet",https://www.eff.org/deeplinks/2015/05/internetorg-not-neutral-not-secure-and-not-internet,,1432004825.0
+100,9567975,comment,9567968.0,9567968.0,0,0,outericky,,,Selling to enterprise isn&,
+101,9567974,comment,9567715.0,9567937.0,0,0,kev6168,,,emotion and feeling! this is a wonderful angle to look at the ability of &quot;quickness in thinking&quot;. I always suspect there is more to the &,
+102,9567973,comment,9567761.0,9567905.0,0,0,meatmanek,,,"Time zones are offsets in UTC, which change over time (DST, political changes, etc).<p>UTC is an offset from TAI, which changes over time (leap seconds).<p>The time zone files already keep track of historical changes[1].<p>Conceptually, they&",
+103,9567970,comment,9567731.0,9567902.0,0,0,paulsutter,,,"> I do almost all of my shopping online, ... it&",
+104,9567969,story,,,1,0,pranade,Kimono (YC W14) is looking for a software engineer,https://www.kimonolabs.com/jobs,,1432004531.0
+105,9567968,story,,,5,4,manidoraisamy,Ask HN: How do you break inertia in enterprise sales?,,"If you are selling to enterprises, your biggest competition isn’t other startups or incumbent vendors. It’s inertia. Enterprise/SaaS salespeople find themselves in a constant battle against the target company’s urge to do nothing. [1]<p>What has worked for you in the past to break this inertia? Can you share your experience?<p>[1] http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/",1432004528.0
+106,9567967,comment,9567167.0,9567517.0,0,0,wenqin123,,,Thank you so much :),1432004514.0
+107,9567966,comment,9567290.0,9567290.0,0,0,est,,,"For me, the only problem is ss, tcpdump and pcap all have different syntax which is PITA to remember which is which.",1432004498.0
+108,9567965,comment,9566897.0,9567493.0,0,0,ciclista,,,"For an affordable yet great torch, try the Benzomatic TS8000, easily found at Home Depot, etc. for around $40.",1432004495.0
+109,9567964,comment,9565971.0,9567315.0,0,0,nitrogen,,,"Based on a Top Gear (RIP) interview with one of the actors, all of the dialog had to be rerecorded because the engines were so loud.  I wouldn&",

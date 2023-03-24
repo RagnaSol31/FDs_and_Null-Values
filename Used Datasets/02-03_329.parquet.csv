@@ -1,0 +1,125 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9072186,story,,,7,2,aliencoder,Texting is old school. Pexting looks cooler!,http://www.pext.me,,1424314770.0
+1,9072185,story,,,1,0,joeyespo,Redesigning MailChimp’s App Navigation,http://blog.mailchimp.com/redesigning-mailchimps-app-navigation/,,1424314752.0
+2,9072184,comment,9072060.0,9072135.0,0,0,0x0,,,That&,
+3,9072183,story,,,1,0,kentf,Show HN: Mixpanel app with 96% organic acquisition and a 54% conversion rate,http://mixr.ewakened.com/,,1424314727.0
+4,9072182,comment,9068709.0,9071284.0,0,0,kyllo,,,That&,
+5,9072181,comment,9071965.0,9071965.0,0,0,mgraczyk,,,I&,
+6,9072180,story,,,2,0,tzm,How Software Developers Use Twitter,http://blog.leif.me/2013/11/how-software-developers-use-twitter/,,1424314629.0
+7,9072179,comment,9072069.0,9072069.0,0,0,krschultz,,,"Nice graphic, but someone needs to update the valuation on Fab. I am sure they are not worth 1.3 billion anymore.",1424314624.0
+8,9072178,story,,,8,1,schoen,Surprise - America already has a cyber Manhattan Project,http://www.wired.com/2015/02/americas-cyber-espionage-project-isnt-defense-waging-war/,,1424314610.0
+9,9072177,story,,,2,0,percept,Interview: Gopher Andrew Gerrand,http://www.gophercon.in/blog/2015/02/17/andrew/,,1424314599.0
+10,9072176,comment,9071854.0,9072153.0,0,0,caipre,,,"Good suggestion, I&",
+11,9072175,comment,9071205.0,9071205.0,0,0,ForHackernews,,,"This guy beat Dark Souls with a drum controller: <a href=""https://www.youtube.com/watch?v=02my_zhX4Bs"" rel=""nofollow"">https://www.youtube.com/watch?v=02my_zhX4Bs</a>",1424314480.0
+12,9072174,story,,,1,0,sachingupta006,Practo Raises 30M Series B from Sequoia and Matrix,https://blog.practo.com/announcing-30m-series-b-funding/,,1424314396.0
+13,9072173,comment,9069634.0,9071975.0,0,0,Retra,,,"On my google page right now, I see &quot;gmail images [squares] [bell] [plus]&quot; I don&",
+14,9072172,comment,9070696.0,9072062.0,0,0,Sanddancer,,,"Yes, nt 3.51 was pretty cool back in the day, however, your snark is a lot less interesting than the article, which went over quite a lot of things MS not only found, but wrote workarounds for when possible, so Win95 would work with crappy programs. Furthermore, Windows 8 does not have the 16 bit subsystem in the vast majority of systems shipped. None of the 64 bit versions of the operating systems ship with 16-bit Windows on Windows, and the 32 bit version is pretty much only shipped if you have very specific needs.",1424314280.0
+15,9072171,comment,9070696.0,9070696.0,0,0,Grazester,,,"I actually have found memories of Windows 95, Service release 2.5 of course.\nYes programs crashed here and there but it wasn&",
+16,9072170,story,,,5,2,harold,Mark Cuban Says Net Neutrality Will Fuck Everything Up,http://recode.net/2015/02/18/billionaire-mark-cuban-says-net-neutrality-will-fuck-everything-up/,,1424314278.0
+17,9072169,comment,9070496.0,9072143.0,0,0,bzbarsky,,,"None have tried to replace all of it that I know of.<p>People have tried to replace things like text editing (with canvas-based editors), CSS layout of the DOM (with various JS solutions involving absolute positioning), native MathML support (MathJax; this one has of necessity done better than most, because of so many browsers not having native MathML support).  There are a bunch of things out there that attempt to replace or augment the built-in form controls, with varying degrees of success.",1424314207.0
+18,9072168,comment,9071921.0,9072158.0,0,0,eamsen,,,"These are separated teams.<p>Cloud services: <a href=""https://wiki.mozilla.org/CloudServices"" rel=""nofollow"">https://wiki.mozilla.org/CloudServices</a><p>Content services (tiles): <a href=""https://wiki.mozilla.org/Content_services"" rel=""nofollow"">https://wiki.mozilla.org/Content_services</a>",1424314206.0
+19,9072167,comment,9070488.0,9071722.0,0,0,datashovel,,,I definitely agree that there are alot of things out there these days.  It&,
+20,9072166,story,,,5,0,rxaxm,Golang style defer statements in C with Clang blocks,https://github.com/asubiotto/cdefer,,1424314157.0
+21,9072164,comment,9072064.0,9072064.0,0,0,melling,,,Swift.<p>I&,
+22,9072162,comment,9071081.0,9072046.0,0,0,diminoten,,,"Actually, tptacek isn&",
+23,9072160,comment,9070140.0,9070605.0,0,0,m1aw,,,"Just out of curiosity how is the ink usage, could it run for longer then a without replacing the pen or refiling the ink?<p>EDIT: Just saw the super interesting comment bellow linking to a reddit thread where it calculates the theoretical values of ink usage.",1424313942.0
+24,9072159,comment,9071965.0,9071965.0,0,0,XYEaQMZJvS,,,That sun cracks me up almost every time.,1424313846.0
+25,9072158,comment,9071921.0,9071921.0,0,0,walterbell,,,"<i>> today we combined our group focused on cloud services with the group focused on our Firefox desktop</i><p>What are some examples of Mozilla products created by the &quot;cloud services&quot; group that will now be taking ownership of the browser?   E.g. Persona, Sync, ..?<p>Is the cloud services team separated from the advertising (tiles) team?",1424313822.0
+26,9072157,comment,9066431.0,9068567.0,0,0,analog31,,,"Aha, I didn&",
+27,9072156,comment,9071205.0,9072089.0,0,0,hurin,,,It&,
+28,9072155,comment,9071081.0,9072008.0,0,0,Canada,,,"You are right, it does use that if available. It grabs a bunch of other system state as well, depending on the situation.",1424313754.0
+29,9072154,story,,,2,0,rdudekul,Fifty quick ideas to improve user stories,https://atlas.mindmup.com/mindmup/fifty_quick_ideas_to_improve_user_stories/index.html,,1424313744.0
+30,9072153,comment,9071854.0,9071869.0,0,0,0x0,,,"Very cool, have you tried running it against popular open source projects like wordpress or symfony?",1424313729.0
+31,9072151,comment,9070496.0,9071064.0,0,0,seanmcdirmid,,,"Shared memory multi threading will still be a big barrier to porting over many native applications, like games. Unless asm.js fixes that?",1424313712.0
+32,9072150,comment,9069634.0,9071938.0,0,0,rtpg,,,"A good middlee between minimal and &quot;realness&quot; is material design, which plays off of what you are saying (the ease of the brain undrstanding layers and depth).<p>The amount of effort for good minimal design and good &quot;classical&quot; design is probably the same for people well versed in either. But in either case you still need to learn about it to make it look ok. Shoddy things have always looked shoddy, no matter how many gradients you slap on it.",1424313687.0
+33,9072149,comment,9068705.0,9071658.0,0,0,_delirium,,,Interestingly that&,
+34,9072148,story,,,2,1,capcolors,Show HN: lilModal – customizable vanilla JavaScript modal with no dependencies,http://jacksonbrsrd.github.io/lilModal/,,1424313630.0
+35,9072147,comment,9072035.0,9072035.0,0,0,codygman,,,"Also, if you can post some code examples where you &quot;feel you are missing something&quot; I (or others) might be able to provide the functional examples.",1424313623.0
+36,9072146,comment,9071205.0,9072089.0,0,0,Retra,,,"They may not have succeeded, but they did build an infrastructure that could probably handle a true success.",1424313618.0
+37,9072144,comment,9072139.0,9072139.0,0,0,bkreezel,,,Learned a bit of NodeJS/npm today. Wanted to do a quick project to serve a personal want.<p>Constructive advice would be appreciated.,1424313599.0
+38,9072143,comment,9070496.0,9072117.0,0,0,adamnemecek,,,Which framework has tried to replace the DOM?,1424313585.0
+39,9072142,comment,9071189.0,9071442.0,0,0,toomuchtodo,,,Yes.,1424313571.0
+40,9072141,comment,9070110.0,9071913.0,0,0,chaostheory,,,What&,
+41,9072140,comment,9059837.0,9059837.0,0,0,digitalurn,,,"This is cool, but it doesn&",
+42,9072139,story,,,2,1,bkreezel,Show HN: Atom Text Configuration Manager,https://github.com/BKreisel/atom-config,,1424313516.0
+43,9072138,comment,9068705.0,9072021.0,0,0,mikeyouse,,,"FYI, Your top two links fail since they&",
+44,9072137,story,,,2,0,agbonghama,Removing Git Commit History with BFG Repo-Cleaner,http://w3guy.com/remove-git-commit-history/,,1424313253.0
+45,9072135,comment,9072060.0,9072060.0,0,0,Mithaldu,,,"Forum link where Lenovo employees confirm the issue:<p><a href=""https://forums.lenovo.com/t5/Security-Malware/Potentially-Unwanted-Program-Superfish-VisualDiscovery/m-p/1860408/"" rel=""nofollow"">https://forums.lenovo.com/t5/Security-Malware/Potentially-Un...</a><p>And here&",
+46,9072134,comment,9070488.0,9070488.0,0,0,nichochar,,,This is basically me. How beautifully described aha,1424313140.0
+47,9072132,comment,9070110.0,9071924.0,0,0,dilap,,,It&,
+48,9072131,comment,9070488.0,9070488.0,0,0,bitwize,,,Periodic reality checks. What&,
+49,9072130,comment,9070319.0,9071211.0,0,0,throwaway88594,,,"Two of the best air-rail connections are Narita and Schiphol.<p>The transitions are so seamless that you can disembark and accidently end up on the train platform without even trying.<p>Two of the worst are in the USA: Honolulu and SFO.<p>Honolulu has the ideal topology for a light rail (straight line from airport to Waikiki), but won&",
+50,9072129,comment,9071921.0,9072102.0,0,0,eamsen,,,"The Mozilla Foundation publishes an annual report[1] on that, which includes statements on its subsidiary, the Mozilla Corporation.<p>[1] <a href=""https://www.mozilla.org/en-US/foundation/annualreport/2013/"" rel=""nofollow"">https://www.mozilla.org/en-US/foundation/annualreport/2013/</a>",1424312961.0
+51,9072128,comment,9068334.0,9070206.0,0,0,task_queue,,,"It is the case the grandparent is referencing with IE bundling in Windows. It reapplies the antitrust laws to monopolies selling bits.\nIf Google is found to have a monopoly in market X and uses that control to gain control of market Y by forcing out competitors without really competing, that is the type of monopoly that&",
+52,9072127,comment,9071921.0,9072102.0,0,0,phaemon,,,"Try: <a href=""https://www.mozilla.org/en-US/foundation/documents/"" rel=""nofollow"">https://www.mozilla.org/en-US/foundation/documents/</a><p>It has their financial statements.",1424312942.0
+53,9072126,comment,9071921.0,9072102.0,0,0,meritt,,,"<a href=""https://www.mozilla.org/en-US/foundation/annualreport/2013/faq/"" rel=""nofollow"">https://www.mozilla.org/en-US/foundation/annualreport/2013/f...</a><p>> How does Mozilla generate revenue?<p>> The majority of Mozilla’s revenue is generated from search and commerce functionality included in our Firefox product through all major search partners including Google, Bing, Yahoo, Yandex, Amazon, eBay and others. Mozilla’s reported revenues also include very important individual and corporate donations and grants, as well as other forms of income from our investable assets.",1424312928.0
+54,9072125,comment,9072060.0,9072060.0,0,0,0x0,,,Why would Microsoft even allow Lenovo to license OEM Windows if they treat customers to an Out-Of-The-Box experience like this? No wonder macs are popping up everywhere I go...,1424312905.0
+55,9072124,story,,,2,0,lazyeye,Pre-industrial workers had a shorter workweek than today's (1992),http://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html,,1424312902.0
+56,9072122,comment,9070140.0,9070140.0,0,0,hofstee,,,I feel like I&,
+57,9072121,story,,,1,0,chrisdotcode,"U.S. Marshals to auction off 50,000 Bitcoins forfeited by Silk Road founder",https://twitter.com/CNBCnow/status/568097715307094017,,1424312862.0
+58,9072120,story,,,4,0,MilnerRoute,Miami cops enter false data into Waze app as revenge for revealing locations,http://www.androidauthority.com/police-report-false-data-to-waze-587089/,,1424312858.0
+59,9072119,comment,9071439.0,9071439.0,0,0,OmarIsmail,,,Congrats Anisa!,1424312811.0
+60,9072118,comment,9068705.0,9068705.0,0,0,danbmil99,,,I don&,
+61,9072117,comment,9070496.0,9071903.0,0,0,bzbarsky,,,"Yes, they already are.  That framework is called the DOM.  People keep complaining about it and trying to come up with replacement frameworks that end up slower and less capable...<p>The DOM definitely has its problems, mind you.  Investing some time in designing a proper replacement for it is worth it, as long as people understand going in that the project might well fail.",1424312759.0
+62,9072116,comment,9070496.0,9071999.0,0,0,tree_of_item,,,I can&,
+63,9072115,comment,9069846.0,9071739.0,0,0,Retric,,,"Some people have extremely poor night vision, but for most people a single candle in a small to mid sized room provides plenty of light to get around.  With some effort you can even read by a single candle. Further, on a clear night you can probably walk around with just starlight.<p>So, generally night time was less dark than you might think.  Though, in comparison city&",
+64,9072114,story,,,1,0,hmshwt,Ask HN: Which are some of the successful startups who operated in stealth mode?,,And what advantages they gained by doing so?\nIn which kind of business landscape would you choose to operate in stealth mode?,1424312715.0
+65,9072113,comment,9070110.0,9071979.0,0,0,shouldbeworking,,,"gah...I lost my appetite. central obesity is no joke <a href=""http://en.wikipedia.org/wiki/Abdominal_obesity"" rel=""nofollow"">http://en.wikipedia.org/wiki/Abdominal_obesity</a>",1424312694.0
+66,9072112,comment,9071921.0,9072109.0,0,0,state,,,It&,
+67,9072111,comment,9070488.0,9070488.0,0,0,greenlig,,,"Steven Pressfield talks about this in The War of Art - <a href=""http://www.amazon.com/The-War-Art-Through-Creative/dp/1936891026"" rel=""nofollow"">http://www.amazon.com/The-War-Art-Through-Creative/dp/193689...</a> - referring to it as &quot;resistance&quot;. It&",
+68,9072110,comment,9070496.0,9071947.0,0,0,azakai,,,"> Since this is basically Windows, Mac OS X, and Linux, your native applications are going to work just fine on those platforms.<p>But, you need people to download and install your app in that case. The reason major game companies are investing in asm.js ports, even though their engines work great natively, is because the web is a very good distribution platform. That&",
+69,9072109,comment,9071921.0,9072102.0,0,0,LawoftheHarvest,,,I was thinking the same thing today. I agree.,1424312626.0
+70,9072108,comment,9071081.0,9072025.0,0,0,diminoten,,,This is just sensationalism.<p>&quot;<Popular product> shouldn&,
+71,9072107,comment,9070488.0,9070488.0,0,0,derwildemomo,,,"Sounds all to familiar. I discussed and still discuss this problem with my peers offline a lot, and thought about creating (haha, new project there) a platform where people with this exact problem can pair up and in a way play supervisor for someone else.<p>The point is that my procrastination immediately stops if i make a commitment to someone else: if i promise a friend to deliver xy, I do. Social pressure seems to be working for me better than the will to suceed.<p>so, a platform where you can define your goals and have someone else check on your goals regularly, asking why it didn&",
+72,9072106,story,,,1,0,FailMore,Writer's Block,http://joshsummers.co.uk/2015/02/18/Writers-Block-Side-Effects-Going-Viral/,,1424312574.0
+73,9072105,comment,9071263.0,9071618.0,0,0,bbarn,,,"Only at a critical mass.  Below that, enough civil cooperation from others following said unjust laws buries the voice, and hides the effort.",1424312572.0
+74,9072104,comment,9070496.0,9071999.0,0,0,bzbarsky,,,That&,
+75,9072103,comment,9069634.0,9069634.0,0,0,nazgulnarsil,,,Let&,
+76,9072102,comment,9071921.0,9071921.0,0,0,state,,,"I wish there was a page on mozilla.org with the title, &",
+77,9072101,comment,9070110.0,9071924.0,0,0,redmattred,,,phil on philz,1424312489.0
+78,9072100,comment,9069634.0,9071975.0,0,0,ThomPete,,,Exactly!<p>With regards to the flat trend it&,
+79,9072099,story,,,26,5,samsnelling,Lenovo Pre-Instaling Adware/spam – Superfish – Powerd by VisualSearch,https://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series/Lenovo-Pre-instaling-adware-spam-Superfish-powerd-by/m-p/1863174,,
+80,9072098,comment,9070110.0,9072082.0,0,0,jasonjei,,,I don&,
+81,9072097,comment,9072035.0,9072035.0,0,0,codygman,,,"You can use forM. As for why for loops are imperative or if they are... Not sure. A few thoughts come to mind:<p>For loops dont return a value, whereas forM and even forM_ both return values. They are normal functions rather than just control structures.",1424312397.0
+82,9072096,comment,9070110.0,9071924.0,0,0,state,,,"I agree, but I also think Starbucks tastes pretty bad. Philz  seems to have a well defined market, and their customers seem really devoted. Perhaps they&",
+83,9072095,comment,9072035.0,9072035.0,0,0,formalsystem,,,Would you expect to see a for loop in a mathematical equation? You&,
+84,9072094,comment,9072035.0,9072035.0,0,0,brudgers,,,"Recursion is looping. Some iterative loops can be expressed recursively - these are the ones that can be tail call optimized. <i>SICP</i> has a good explanation:<p><a href=""https://mitpress.mit.edu/sicp/full-text/sicp/book/node15.html"" rel=""nofollow"">https://mitpress.mit.edu/sicp/full-text/sicp/book/node15.htm...</a><p>The advantage of using recursive definitions for loops is that it avoids modifying places in favor of returning values. Rich Hickey gives a good talk on the subject in <i>The Value of Values</i>:<p><a href=""http://www.infoq.com/presentations/Value-Values"" rel=""nofollow"">http://www.infoq.com/presentations/Value-Values</a>",1424312322.0
+85,9072093,comment,9070406.0,9071905.0,0,0,longinoa,,,"Its not a proxy, it requires that you build hooks into your http engine (OkHttp/HttpUrlConnection) to forward events to the NetworkEventReporter interface.",1424312279.0
+86,9072091,comment,9070496.0,9071876.0,0,0,bzbarsky,,,"You can see breakdowns for various subtests on awfy.  Of possible interest are <a href=""http://arewefastyet.com/",
+87,9072089,comment,9071205.0,9071856.0,0,0,xom,,,"They tried, but I&",
+88,9072088,comment,9071108.0,9071108.0,0,0,nkurz,,,I&,
+89,9072087,comment,9068709.0,9071747.0,0,0,niaher,,,"Very useful list and I kind of like the idea of having &quot;tech lead&quot; be a project-based role, rather than your job description. It will definitely force more accountability.",1424312074.0
+90,9072085,story,,,1,0,gregmuender,"User Story: Meet Donnie Wang, the Superstar That Startups Dream Of",https://www.whttl.com/content/2015/02/18/user-story-donnie-wang-the-superstar-that-startups-dream-of/,,1424311997.0
+91,9072084,story,,,1,0,kazak,Web Development Tips: A to Z,http://mattsparks.com/web-development-tips-z/,,1424311988.0
+92,9072083,comment,9070406.0,9071953.0,0,0,longinoa,,,"The biggest difference is you dont need to add debug code deploy, you just connect.<p>For things like the network traffic it is really hard to see request/response for a particular thing.<p>For the dumpers - those are basically a main method inside your program that you can run whenever. Its a nice way to change (or dump) state of the program, similar to adb shell dumpsys, but also allows a richer interface for changing state.",1424311965.0
+93,9072082,comment,9070110.0,9071868.0,0,0,mulligan,,,What is that you see as unwelcoming about Blue Bottle?,1424311956.0
+94,9072080,comment,9070110.0,9072061.0,0,0,jasonjei,,,Yeah--I think it&,
+95,9072078,story,,,1,0,dmmalam,Idris – A Language with Dependent Types,http://www.idris-lang.org/,,1424311929.0
+96,9072076,comment,9071205.0,9071205.0,0,0,zrail,,,I&,
+97,9072075,comment,9071081.0,9071970.0,0,0,quesera,,,"If your disk is mounted when your computer is stolen or confiscated, your data is accessible.<p>If your adversaries want your data, FDE will help them and not you. If you have secrets that would put you in danger if revealed, you would now be danger.<p>The alternative is file-level encryption. The only accessible files at any given time are the ones you&",
+98,9072074,comment,9071081.0,9072050.0,0,0,diminoten,,,What&,
+99,9072073,comment,9068964.0,9069431.0,0,0,SvenBergstrom,,,"The post mentions iOS a few times. \nYou might be accidentally mistaking a platform for a language target - Haxe generates C++ (which can be used for iOS). That C++ is usable anywhere with any compiler toolchain. The backend (hxcpp) comes with a bunch of toolchains already set up, and builds against the iOS toolchain for you without a problem (armv6,armv7,armv7s,arm64 and simulator i386, x86_64). It also includes a few more obscure ones like WindowsRT, Blackberry, Tizen and so on.<p>(It&",
+100,9072072,comment,9070406.0,9071774.0,0,0,longinoa,,,As others have mentioned we are working on getting a hierarchy viewer built now.,1424311819.0
+101,9072071,comment,9070110.0,9071979.0,0,0,ojbyrne,,,Pretty sure Starbucks shows the calory count for their drinks right on the board with the prices.,1424311818.0
+102,9072070,comment,9071263.0,9071778.0,0,0,baddox,,,"> Democracy survived the Supreme Court upholding internment of US citizens of Japanese descent, and it will survive this.<p>In what sense is that democracy surviving? I suppose it is, given that Japanese Americans were a minority of Americans.",1424311768.0
+103,9072069,story,,,131,72,kjhughes,The Billion Dollar Startup Club,http://graphics.wsj.com/billion-dollar-club/,,
+104,9072068,comment,9071439.0,9072017.0,0,0,Anisa_Mirza,,,"hey there, would be happy to chat and show you a bit more of our solution. One thing to clarify: our solution isn&",
+105,9072067,story,,,3,0,shawndumas,Vi and Vim Stack Exchange,http://vi.stackexchange.com/,,1424311707.0
+106,9072066,story,,,1,0,of,Marlon Moonglow's Animator,http://4gods.strangled.net/~nik/mma/,,1424311681.0
+107,9072063,comment,9067552.0,9067552.0,0,0,hexasoft,,,This is an online contest open to public to win US$500 and other prizes.,1424311580.0
+108,9072062,comment,9070696.0,9070696.0,0,0,Animats,,,"The proper way, in 1996, to insure that your program would not run under Windows 95, was to make it run under Windows NT 3.51, which was available and stable at the time. Under NT, you could use OpenGL, NTFS, security features, and TCP/IP networking (that was an add-on called &quot;Plus!&quot; in Win95) which consumer-grade Win95 didn&",
+109,9072061,comment,9070110.0,9071979.0,0,0,Tiktaalik,,,Ok I&,
+110,9072060,story,,,29,3,meandave,Lenovo Pre-installed malware,http://www.myce.com/news/lenovo-laptops-come-with-preinstalled-advertisement-injecting-adware-74290/,,1424311501.0
+111,9072058,comment,9064676.0,9068781.0,0,0,modfodder,,,"If women had been in power for all of history and used that power to keep men subjugated, yes, I would appreciate calling an office full of women a titfest.  History and context matter, unless you are part of the &quot;men&",
+112,9072057,comment,9071439.0,9071603.0,0,0,Anisa_Mirza,,,thanks!,1424311467.0
+113,9072056,story,,,6,0,jamesgpearce,React.js Conf Round-up 2015,http://facebook.github.io/react/blog/2015/02/18/react-conf-roundup-2015.html,,1424311457.0
+114,9072055,comment,9071439.0,9071599.0,0,0,Anisa_Mirza,,,"coincidentally, our most disgruntled clients come from civiCRM. That&",
+115,9072054,story,,,2,0,joubert,The Mozilla VR Team,http://mozvr.com,,1424311427.0
+116,9072053,comment,9070496.0,9071947.0,0,0,corysama,,,"These are real concerns.  Asm.js is not a perfect solution.  I am not Alon Zakai, but I&",
+117,9072052,comment,9070488.0,9070488.0,0,0,empressplay,,,The author&,
+118,9072051,comment,9071355.0,9071355.0,0,0,pteredactyl,,,Pakistan is in Northern Europe?,1424311386.0
+119,9072050,comment,9071081.0,9072049.0,0,0,tptacek,,,It didn&,
+120,9072049,comment,9071081.0,9072039.0,0,0,diminoten,,,"As I said earlier, what do you think the function of this comment is?<p>Of course you&",
+121,9072048,comment,9066379.0,9068562.0,0,0,cperciva,,,HTTP/1.1 is only complicated if you want to support all of the optional features.,1424311238.0
+122,9072047,comment,9068154.0,9070921.0,0,0,neeraga,,,"Yes, It is $29 for 10,000 subscribers + $1 per 10,000 email sent via Amazon SES.<p>Here is a simple calculation. If you send 5 broadcasts to all your audience of 10,000 people.<p>It would be \n$29 + $5 = $34<p>Here $29 is a recurring cost and $5 is a variable cost depending upon number of emails sent any month. Amazon SES charges $1 per 10,000 emails through them.",1424311233.0
+123,9072046,comment,9071081.0,9071884.0,0,0,sillysaurus3,,,"The money was raised to audit TrueCrypt before the developers abandoned it. The money must go toward that audit. The fact that the TrueCrypt devs abandoned the project changes what we should expect from it. Specifically, we should expect that moving forward, it&",

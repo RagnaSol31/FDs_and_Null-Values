@@ -1,0 +1,120 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10238293,comment,10236668.0,10237245.0,0,0,mdpopescu,,,"I think US citizens are supposed to pay taxes on all income, no matter where it was obtained (and even if they already paid local taxes, unless there are specific agreements). Of course, I am not a lawyer and definitely not an US one :)",1442570304.0
+1,10238292,comment,10237663.0,10238192.0,0,0,louisrochal,,,Articles beginning with &quot;scientists&quot;,1442570253.0
+2,10238291,comment,10237345.0,10237345.0,0,0,humanrebar,,,I expected questions on the scientific method or something. Wouldn&,
+3,10238290,comment,10237697.0,10238144.0,0,0,rplnt,,,"Having visited NL, my card was practically useless. Any other country no problem, but Netherlands? So I don&",
+4,10238289,comment,10237805.0,10237996.0,0,0,buffoon,,,Heavy Windows server user here. We have 100+ windows server 2008 R2 and 2012 R2 machines in production and a massive .Net/C,
+5,10238288,comment,10237195.0,10237647.0,0,0,lewiseason,,,Why should that cause any issues? I run 32-bit applications (built against a 32-bit libc) on my 64-bit machine (with 64-bit kernel) all the time.,1442570172.0
+6,10238287,comment,10238201.0,10238201.0,0,0,laxentasken,,,"For those who dont know, there is software for this so you dont have to buy glasses:\nAndroid: <a href=""https://play.google.com/store/apps/details?id=com.urbandroid.lux&hl=en"" rel=""nofollow"">https://play.google.com/store/apps/details?id=com.urbandroid...</a><p>Win/Linux/Mac: <a href=""https://justgetflux.com/"" rel=""nofollow"">https://justgetflux.com/</a>",1442570052.0
+7,10238285,comment,10237805.0,10238266.0,0,0,zamalek,,,Add Sharepoint (Microsoft&,
+8,10238283,story,,,1,0,phodo,iPad Mini 4 Teardown,https://www.ifixit.com/Teardown/iPad+Mini+4+Teardown/48891,,1442569928.0
+9,10238282,story,,,1,0,phodo,Microsoft to spend $75 mln to boost computer science in schools,http://www.usatoday.com/story/tech/2015/09/16/microsoft-70-million-investment-computer-science-underrepresented-women-minorities-satya-nadella-brad-smith-education/32519869/,,1442569892.0
+10,10238281,comment,10238132.0,10238132.0,0,0,noelwelsh,,,Neither side made their expectations clear at the beginning. I can&,
+11,10238280,comment,10231737.0,10237899.0,0,0,stephenr,,,"> I find it really hard to communicate with you because before we even start this discussion you seems already tagged the entire ad industry as an &quot;evil empire&quot; who try to steal your personal information all the time.<p>If it looks like a duck, walks like a duck, quacks like a duck, its a fucking duck. The Ad industry doesn&",
+12,10238279,comment,10237636.0,10237935.0,0,0,bazzargh,,,"One I saw happen: avoid merge conflicts by having each developer maintain their own fork of trunk, or better still, multiple forks. Copy and paste is easier than merge anyway. Automate builds for all these, and provide a way to release any of them, without recording which you used. Never, ever tag. You want to delete branches too? Sure, why not. Of course this makes it hard to track dependencies, so be sure to check in the binaries of the projects you depend on into your project, especially if those were built on your own machine from source you haven&",
+13,10238277,comment,10238132.0,10238213.0,0,0,pimentel,,,It &quot;falls&quot; but with good publicity because of the team. After that it&,
+14,10238275,comment,10238132.0,10238132.0,0,0,brador,,,"I love the corporate passive-aggressive replies from all involved.  Wonderful.<p>Not legal advice: I would wait it out, see if the business is a success, then sue the hell out of the guy ala Winklevoss@Facebook.  Better than a shit-tier 0.4% equity stake any day.",1442569733.0
+15,10238273,comment,10236871.0,10238146.0,0,0,brohee,,,Banks aren&,
+16,10238272,comment,10237636.0,10237872.0,0,0,OJFord,,,"<p><pre><code>    > Do people still print out source code for better reading?\n</code></pre>\nCan be required, academically. (Where &quot;better reading&quot; means &quot;how someone&",
+17,10238271,story,,,1,0,return_0e,'Pebble Phone' hidden in HTML code,https://getpebble.com/pebble_phone,,1442569642.0
+18,10238270,comment,10237805.0,10237996.0,0,0,tonyedgecombe,,,If you look at recent financial statements from Microsoft their server revenue is still growing at a reasonable rate.,1442569626.0
+19,10238269,comment,10235734.0,10237741.0,0,0,notahacker,,,"We also have a different approach to private land though; within reason you can walk all over private agricultural land, and there are often rights of way through other private land which might otherwise block a walking route.",1442569547.0
+20,10238268,comment,10237697.0,10237697.0,0,0,watchdogtimer,,,"Braintree offers &quot;advanced fraud protection&quot; if you pass device information along with the transaction request [1].  Has anyone tried using this, and if so, is it effective at stopping this problem?<p>[1] <a href=""https://articles.braintreepayments.com/guides/fraud-tools/overview",
+21,10238267,comment,10237805.0,10237805.0,0,0,kickingvegas,,,So wondering how NT kernel + Interix only would of fared.,1442569534.0
+22,10238266,comment,10237805.0,10237996.0,0,0,signal11,,,"imho, if Active Directory/ADAM ran on Linux demand for Windows Server would drop considerably. However Windows Server is also used to deliver Citrix-style remote desktops (using App Virtualization[1]) and that would be harder to replace. Also, SQL Server and Exchange use plenty of Windows-specific OS features -- it wouldn&",
+23,10238265,comment,10236916.0,10236916.0,0,0,tempestn,,,"Cool, nice to see.  I&",
+24,10238264,story,,,1,0,tomkwok,"Building a PC, Part VIII: Iterating",http://blog.codinghorror.com/building-a-pc-part-viii-iterating/,,1442569479.0
+25,10238263,comment,10236057.0,10237317.0,0,0,chippy,,,"Wikipedia comes in many languages, so ultimately they require the mapping system to display labels based on the language of the user.<p>This can be complicated - imagine a wiki page about Paris France, translated into 40 or so languages each with their own high performant, cached map served from the same system. Wikimedia maps will be beyond awesome in a few years!",1442569464.0
+26,10238262,comment,10237697.0,10238144.0,0,0,Reason077,,,"iDEAL is fine for transactions between a Dutch client and a Dutch merchant. Other countries also have similar, local payment solutions which bypass credit card processors (e.g. POLi in Australia and New Zealand)<p>But it does nothing for a business like Candy Japan which sells to a global audience. The advantage of credit cards is that they are one payment system that works pretty much everywhere, worldwide.<p>Also, you should realise that, as a customer, you typically don&",
+27,10238261,comment,10238132.0,10238132.0,0,0,CamatHN,,,A handshake agreement (not written down) can definitely hold up in court so be careful in not giving any claim you are owed through your claiming of money as it could represent your giving up your potential equity as well.<p>Doesn&,
+28,10238260,comment,10234809.0,10237472.0,0,0,renox,,,In one of his latest video he show how it is going to work for array access: by default it&,
+29,10238258,comment,10236668.0,10237049.0,0,0,dovereconomics,,,Some EM companies issue bonds in international markets not using their national currency,1442569246.0
+30,10238257,comment,10237805.0,10237805.0,0,0,tkubacki,,,now someone suing MS for patent infringement for using Linux - would make me giggle,1442569232.0
+31,10238256,comment,10236916.0,10238244.0,0,0,tempestn,,,"Taken literally, yes, but I&",
+32,10238255,comment,10237977.0,10237977.0,0,0,shultays,,,"I semicompleted a game in NES in C, and even I was hitting walls constantly when it comes program size or performance. I have my doubts for python.<p>Here is the library I used.\n<a href=""http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm"" rel=""nofollow"">http://shiru.untergrund.net/articles/programming_nes_games_i...</a>\nIt is pretty simple but you will need some about how NES works.",1442569183.0
+33,10238254,comment,10236668.0,10237020.0,0,0,kaffeemitsahne,,,"Somewhat similarly, many Dutch people don&",
+34,10238253,comment,10231737.0,10233878.0,0,0,choppaface,,,"Huh, did you really run iOS9 ad blocking on a Motorola Defy?  I definitely believe Apple&",
+35,10238252,comment,10237805.0,10238104.0,0,0,buffoon,,,There is no .Net here AFAIK and if there was it&,
+36,10238251,comment,10226607.0,10229246.0,0,0,chrismcb,,,"From a statics point of view, there are no terrorists. But let&",
+37,10238250,comment,10237977.0,10238234.0,0,0,PostOnce,,,"Yes, lamentable, but we all know the fun part is writing the code, not the docs, and obviously this was a for-fun project.<p>Maybe someone else can document it if the creator doesn&",
+38,10238249,comment,10236871.0,10237844.0,0,0,michaelt,,,I&,
+39,10238248,comment,10235554.0,10237355.0,0,0,tmgcd,,,"Not anti-China, it is anti-The Communist Party of China.\nThe Communist Party of China is evil.<p>Xi Jinping: &quot;We love peace&quot; ,But his CPC&",
+40,10238247,comment,10238039.0,10238039.0,0,0,Klasiaster,,,But still software running on top of it might not be secure and proven. And as well the hardware is another area for attacks and failures.,1442568973.0
+41,10238246,comment,10238132.0,10238213.0,0,0,raverbashing,,,Yes<p>The text begins with a &,
+42,10238245,comment,10234458.0,10237666.0,0,0,jasiek,,,"There is strong competition in that sector, hence the prices.",1442568931.0
+43,10238244,comment,10236916.0,10236916.0,0,0,madaxe_again,,,"&quot;did lose weight, though they experienced no changes in body composition, such as body mass index&quot;<p>They got shorter from using standing desks? Only way you can lose weight but not change your BMI...",1442568901.0
+44,10238243,comment,10226607.0,10228066.0,0,0,chrismcb,,,It would still be fairly easily to smuggle a bomb through security. But it would be even easier to smuggle it in through one of the other entry points into the airport. Or just build a bomb with stuff found on the inside.,1442568814.0
+45,10238242,story,,,29,3,kyzouik,Sensmove – open-sourced smart insole system,https://github.com/alex3165/sensmove,,1442568783.0
+46,10238241,comment,10228326.0,10237928.0,0,0,yummyfajitas,,,"If a physical trait causes people around someone to feel fear, alarm and distress, then that person actually is threatening and it&",
+47,10238240,comment,10226607.0,10227999.0,0,0,chrismcb,,,&quot;Please dump that liquid we think is an explosive into the trash can containing other liquids we suspect are explosives. The trash can that everyone is standing near.&quot;,1442568691.0
+48,10238238,comment,10238039.0,10238039.0,0,0,achille,,,Note that the SEL4 kernel is only a small portion of this project. They&,
+49,10238237,comment,10237195.0,10238212.0,0,0,csirac2,,,"I agree, and I do (if I end up actually keeping a piece of software running).<p>It&",
+50,10238236,comment,10237697.0,10237999.0,0,0,djm_,,,"Do you have an RSS feed or a link to where that post may show up? Thanks, highly interested!",1442568621.0
+51,10238234,comment,10237977.0,10237977.0,0,0,trymas,,,"<a href=""https://github.com/gutomaia/pyNES/wiki"" rel=""nofollow"">https://github.com/gutomaia/pyNES/wiki</a><p>Non existant docs.<p>IMHO one of the first steps of starting a project is to write a README.<p>Though, at least there are few examples: <a href=""https://github.com/gutomaia/pyNES/tree/0.1.x/pynes/examples"" rel=""nofollow"">https://github.com/gutomaia/pyNES/tree/0.1.x/pynes/examples</a>",1442568588.0
+52,10238233,comment,10234287.0,10237229.0,0,0,zmmmmm,,,I suppose that&,
+53,10238232,comment,10232577.0,10233750.0,0,0,JupiterMoon,,,"Multiple problems with that statistic. (1) you quote England and Wales, what about Scotland and Northern Ireland? (2) The police in the UK do not generally carry firearms and most people that die in/at the hands of the police do not get shot in the UK.",1442568573.0
+54,10238231,story,,,5,0,dbrgn,First Swiss Python Conference: Call for Proposals Is Open,http://www.python-summit.ch/pages/call-for-proposals.html,,1442568562.0
+55,10238230,story,,,6,2,d_a_robson,Is another human living inside you?,http://www.bbc.com/future/story/20150917-is-another-human-living-inside-you,,1442568560.0
+56,10238229,story,,,3,1,druml,XcodeGhost Sample Analysis,https://translate.google.co.uk/translate?hl=en&sl=zh-CN&u=http://drops.wooyun.org/news/8864&prev=search,,1442568549.0
+57,10238228,comment,10238176.0,10238176.0,0,0,SixSigma,,,"As the joke goes :<p>Hey baby, I have the name of that famous Welsh railway station tattooed on my cock ..... Rhyl",1442568535.0
+58,10238226,comment,10226607.0,10227033.0,0,0,chrismcb,,,"How small of a chance are talking about? 1 in a hundred? 1in a billion? 1 in a billion billion? The backpack the clock was in can do more harm, yet it wasn&",
+59,10238225,comment,10237195.0,10238185.0,0,0,eevee,,,"I hope you can imagine why I might not want to reinstall the OS and have to redeploy half a dozen other things, just so this particular one gets easier.",1442568468.0
+60,10238224,comment,10237651.0,10237651.0,0,0,AdrianRossouw,,,didn&,
+61,10238223,story,,,1,0,doque,Dropbox 2015 Campus Cup,https://www.dropbox.com/campuscup,,1442568411.0
+62,10238222,comment,10232577.0,10232577.0,0,0,JupiterMoon,,,I was &,
+63,10238221,comment,10234809.0,10238188.0,0,0,rtpg,,,I&,
+64,10238220,story,,,2,0,zflairz,Yet Another iOS Adblocker App – By Dolphin Browser,,It&,
+65,10238219,comment,10237977.0,10237977.0,0,0,m_eiman,,,"I think is an amazingly absurd project, in a good way :)",1442568327.0
+66,10238218,comment,10236210.0,10236641.0,0,0,StavrosK,,,They don&,
+67,10238217,comment,10237636.0,10238123.0,0,0,mherrmann,,,Same here ;-),1442568255.0
+68,10238215,comment,10236432.0,10237629.0,0,0,renox,,,I live in Paris suburb and Autolib isn&,
+69,10238214,comment,10234287.0,10235022.0,0,0,emilburzo,,,Does this work if I am in the EU?,1442568199.0
+70,10238213,comment,10238132.0,10238132.0,0,0,DiabloD3,,,"Okay, so, as far as I can tell, if the team just quits on him, doesn&",
+71,10238212,comment,10237195.0,10237775.0,0,0,justincormack,,,Fix the insecurities upstream or dont use the software. Else upgrades will be a nightmare too.,1442568141.0
+72,10238211,story,,,2,0,mariuz,Free PDF reader for the web browser,http://blogs.fsfe.org/polina/2015/09/10/free-pdf-reader-for-the-web-browser/,,1442568116.0
+73,10238210,comment,10235382.0,10237462.0,0,0,mahouse,,,&quot;subcontracted to &,
+74,10238209,comment,10238039.0,10238039.0,0,0,sanxiyn,,,"The primary paper to read is &quot;Comprehensive formal verification of an OS microkernel&quot; (2014).<p><a href=""http://dl.acm.org/citation.cfm?id=2560537"" rel=""nofollow"">http://dl.acm.org/citation.cfm?id=2560537</a>",1442568084.0
+75,10238208,comment,10236668.0,10237965.0,0,0,eru,,,"Yes, that&",
+76,10238207,comment,10237262.0,10238125.0,0,0,pilif,,,The problem with<p><i>> should accept non-conformant input as long as the meaning is clear</i><p>on that article is that the definition of &quot;clear&quot; is somewhat murky. Let&,
+77,10238206,story,,,2,0,somberi,Is your Boss irrelevant?,http://www.theatlantic.com/magazine/archive/2015/10/are-bosses-necessary/403216/?single_page=true,,1442568028.0
+78,10238205,comment,10237195.0,10237195.0,0,0,KhalPanda,,,I quite like Node BB...,1442568011.0
+79,10238204,comment,10237195.0,10237576.0,0,0,justincormack,,,But AUR scripts are limited to Arch and so pretty much a minority interest. Dockerfiles run pretty much anywhere.,1442568009.0
+80,10238202,comment,10237697.0,10238127.0,0,0,djm_,,,Would it be possible to give us a better ETA on when something is likely to be implemented?<p>I was thinking of using recurly and this has put me off somewhat.,1442567933.0
+81,10238201,story,,,1,1,pol0nium,Ask HN: Are blue-light blocking glasses effective?,,"Hi there,<p>Are those glasses really effective or is it just commercial bullsh*t?<p>Thanks.",1442567918.0
+82,10238199,comment,10237697.0,10237954.0,0,0,joosters,,,"To avoid the credit card fraud, they&",
+83,10238198,comment,10237195.0,10238179.0,0,0,justincormack,,,"Docker largely doesnt support 64 bit as the docker hub doesnt yet, and even if it did there are no prebuilt images for 32 bit, so you would not be able to install any software. This is unlikely to change as no one is going to build 32 bit images for all software given that x86 32 bit is extremely rare (guessing under 1% of installs perhaps less)",1442567860.0
+84,10238197,comment,10236668.0,10238175.0,0,0,StavrosK,,,Yes. It&,
+85,10238196,comment,10234458.0,10237666.0,0,0,slowmotiony,,,I&,
+86,10238195,comment,10237252.0,10237252.0,0,0,ranty,,,It&,
+87,10238193,story,,,1,0,bjpirt,"BBC micro:bit delayed until 2016, predictably",http://www.wired.co.uk/news/archive/2015-09/18/bbc-micro-bit-delayed,,1442567795.0
+88,10238192,comment,10237663.0,10237663.0,0,0,yummybear,,,I&,
+89,10238191,story,,,1,0,osivertsson,The Curious Case of 42.0.20.80 (2012),https://blog.cyberwar.nl/2012/12/the-curious-case-of-42-0-20-80/,,1442567787.0
+90,10238190,story,,,11,0,fmavituna,"Chinese iOS devs download Xcode from 3rd-party,spyware was added in compile time",https://www.reddit.com/r/netsec/comments/3lefc6/chinese_ios_devs_download_xcode_from_3rdparty/,,1442567764.0
+91,10238189,story,,,2,0,bparanj,Problem Solving Techniques for Developers,https://www.rubyplus.com/articles/2611,,1442567757.0
+92,10238188,comment,10234809.0,10234809.0,0,0,tempodox,,,"I wish the temporal delta between buzz generation and game release were smaller.  By the time the game will be released, I will have forgotten all about it.",1442567755.0
+93,10238187,comment,10238039.0,10238180.0,0,0,amirmc,,,"They also have <a href=""http://sel4.com"" rel=""nofollow"">http://sel4.com</a> -- why wouldn&",
+94,10238186,comment,10237195.0,10238043.0,0,0,justincormack,,,"Its a cloud server, just install a new one, copy your data over and you are done. It is not a long term investment.",1442567713.0
+95,10238185,comment,10237195.0,10238063.0,0,0,justincormack,,,"32 bit x86 setups are very rare now under Linux, and you are really on your own - people no longer test with them and some software no longer supports 32 bit (eg Docker; I gather it will go multi architecture soon but I doubt much stuff will be built or tested on 32 bit x86 anyway). As your hardware can run 64 bit you have no reason to run 32 bit.",1442567631.0
+96,10238184,comment,10237697.0,10237765.0,0,0,elsjaako,,,"> My ideal credit card would be on where the physical card has e-paper on it with a 6-digit PIN that changes periodically, like 2-factor auth, and that PIN could be required for purchases to be authenticated. The new smart-chip cards don&",
+97,10238183,comment,10236871.0,10238008.0,0,0,PuffinBlue,,,"Lloyds appears to have an identical config:<p><a href=""https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2Fonline.lloydsbank.co.uk%2Fpersonal%2Flogon%2Flogin.jsp"" rel=""nofollow"">https://www.ssllabs.com/ssltest/analyze.html?d=https%3A%2F%2...</a>",1442567582.0
+98,10238182,story,,,1,0,peaceison,Shark Bait,http://shortstories.co.in/shark-bait/,,1442567574.0
+99,10238181,comment,10237636.0,10238017.0,0,0,geekingfrog,,,Does readable MUMPS even exist?,1442567571.0
+100,10238180,comment,10238039.0,10238039.0,0,0,doe88,,,"Not sure about the <i>unhackable</i> claims part but it seems at least to be an interesting project. This is a formally verified L4 derived micro-kernel, its code is open-source (GPL2, BSD).<p>Homepage: <a href=""https://sel4.systems/"" rel=""nofollow"">https://sel4.systems/</a><p>Github: <a href=""https://github.com/seL4/seL4"" rel=""nofollow"">https://github.com/seL4/seL4</a><p>Related course (already posted on HN i think but can&",
+101,10238179,comment,10237195.0,10238157.0,0,0,eevee,,,"You lost me right around the point where you compared x86 vs x86_64 to a toaster and a teapot.<p>Nothing about Ruby forum software necessitates a 64-bit kernel.  (Which I have, incidentally.)  According to Docker, nothing about Docker necessitates a 64-bit kernel either!  It&",
+102,10238177,comment,10238176.0,10238176.0,0,0,lun4r,,,it&,
+103,10238176,story,,,1,2,BerislavLopac,The longest single word .com domain name,http://www.llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.com/,,1442567356.0
+104,10238175,comment,10236668.0,10238107.0,0,0,varjag,,,You have your salary denominated in dollars even though your national currency is Euro?,1442567286.0
+105,10238172,comment,10236057.0,10236532.0,0,0,oneeyedpigeon,,,"Also, zoom isn&",
+106,10238170,comment,10238039.0,10238039.0,0,0,thoastbrot,,,&quot;a prank&quot;? Crashing a car is a prank?,1442567160.0
+107,10238169,story,,,8,8,d3vc47,Google should be building a global paywall solution to connect them all,https://medium.com/@b44rd/why-google-should-be-building-a-global-paywall-solution-to-connect-them-all-cd6948da8cd7,,1442567144.0
+108,10238168,story,,,1,0,syldor,Roomba Vacuum Cleaner Now Sees and Maps a Home,http://www.technologyreview.com/news/541326/the-roomba-now-sees-and-maps-a-home/,,1442567052.0
+109,10238167,comment,10235554.0,10237926.0,0,0,sharetea,,,"<a href=""http://www.wsj.com/articles/wsj-survey-chinas-growth-statements-make-u-s-economists-skeptical-1441980001"" rel=""nofollow"">http://www.wsj.com/articles/wsj-survey-chinas-growth-stateme...</a><p>&quot;More than 96% of respondents to the latest Wall Street Journal survey of 64 economists–not all of whom answered every question–said China’s gross-domestic-product estimates don’t accurately reflect the state of the world’s second-biggest economy.<p>“Official data are manufactured to fit the government’s narrative,” said Stephen Stanley, chief economist at Amherst Pierpont Securities.&quot;",1442567008.0
+110,10238166,comment,10236057.0,10236057.0,0,0,estefan,,,The colour scheme is far more legible than open street map. I wish they&,
+111,10238165,comment,10235688.0,10238120.0,0,0,gokr,,,"Smalltalk is quite lispish in many ways (closures, most stuff is an expression, simplicity etc). Rebol fascinates me - and I have only scratched its surface. For more on Rebol you should look at www.red-lang.org. Especially the stuff around the Parser DSL, like:<p><a href=""http://www.red-lang.org/2013/11/041-introducing-parse.html"" rel=""nofollow"">http://www.red-lang.org/2013/11/041-introducing-parse.html</a><p>Red is in fact very impressive and definitely the &quot;modern Rebol&quot;.",1442566974.0
+112,10238164,story,,,23,31,lemming,Refold – Cardboard standing/sitting desks,http://www.refold.co/,,1442566940.0
+113,10238163,story,,,1,0,dsarle,'Don't do it for the money' advice is simply wrong,http://arcticstartup.com/article/dont-do-it-for-the-money-advice-is-bullshit,,1442566910.0
+114,10238162,story,,,7,0,markorussiver,Show HN: Connecting you to discussions with scientific and global visionaries,http://www.guaana.com,,1442566881.0
+115,10238161,comment,10237022.0,10237022.0,0,0,ionised,,,I thought they already did?,1442566867.0
+116,10238160,comment,10237262.0,10237816.0,0,0,gohrt,,,"The Wikipedia translation disagrees. Add your information to the page, please.",1442566860.0
+117,10238159,comment,10236871.0,10237844.0,0,0,wereHamster,,,"People who are still using Windows XP are irresponsible. <a href=""https://www.microsoft.com/en-us/WindowsForBusiness/end-of-xp-support"" rel=""nofollow"">https://www.microsoft.com/en-us/WindowsForBusiness/end-of-xp...</a>",1442566859.0
+118,10238157,comment,10237195.0,10238063.0,0,0,briandear,,,Just because it doesn&,

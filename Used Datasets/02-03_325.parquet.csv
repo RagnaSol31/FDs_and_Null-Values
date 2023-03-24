@@ -1,0 +1,125 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8933168,comment,8930020.0,8933117.0,0,0,chroma,,,"For manufacturers, the profit margins on illegal drugs are <i>absurd</i>. A lab in Mexico can make meth for $500/kg. Once that meth is in the US, it can sell for $60,000/kg.[1] In other words, manufacturers can lose 90% of their product and still make tons of money.<p>Unless the DEA intercepts practically every drug drone sent across the border, people are going to keep at it. The money&",
+1,8933167,comment,8932973.0,8932973.0,0,0,guelo,,,What can you expect from a country that still has a functioning monarchy. There&,
+2,8933166,comment,8931827.0,8931827.0,0,0,methou,,,"A Chinese here, I&",
+3,8933165,comment,8931735.0,8931735.0,0,0,derekp7,,,"I like the idea of having a separate decryption device.  OS reads encrypted data from hard disk, sends it over an encrypted link to your cell phone, which partially decrypts the data block (using one pass phrase), and sends it back over the encrypted link to the laptop.  OS driver then finishes decrypting that block using a second key before passing it to your program.  Writing back data just requires a public key, so write operations don&",
+4,8933164,story,,,4,0,Max_Horstmann,The Honey Pot: A Lesson in Creativity and Diversity (1993),http://www.insulators.info/articles/ppl.htm,,1421981685.0
+5,8933163,story,,,1,0,martin_,MacID: Unlock your Mac with just your fingerprint,http://macid.co/,,1421981653.0
+6,8933162,comment,8930020.0,8932259.0,0,0,MichaelGG,,,"Use a weather balloon or rocket or something and go high on the Mexican side. Then head over and essentially become a guided bomb. Even with a 1:5 glide you could get many (50km?) km over and fall directly to the pickup site. A toy version of an ICBM.<p>A quick search shows people doing the same thing for fun, so this must be used or not have enough payload capacity to make it more profitable than other methods. Perhaps the risk and cost is all about the pickup and 2kg is just as much work to get as 200.<p>I suppose if the craft had a real detachable payload, it&",
+7,8933161,comment,8931261.0,8931261.0,0,0,rflrob,,,"I could rationalize the message ratio as sort of a self-fulfilling prophecy. If she sent many messages, she was probably already interested in him for some reason, and so would be more likely to rate him highly at the end.<p>As a methodological point, I would also have taken the log of all the ratios, especially when doing a linear regression. A ratio of .01 looks like .00001 to a linear regression, but they are quite different. Of course, if the dynamic range is relatively small (probably within 2 fold either direction) maybe it wouldn&",
+8,8933160,story,,,5,1,zxcvvcxz,Stanford Grad Gets $2.1M to Make a More Elite Tinder,http://www.businessinsider.com.au/the-league-raises-21-million-2015-1,,1421981633.0
+9,8933159,comment,8930752.0,8932742.0,0,0,thoman23,,,"Thank you!  I will never understand this push towards &quot;isomorphism&quot;.  Why do you <i>want</i> to use more javascript?  I use javascript because I have to, not because I want to.  I love being able to work in the language of my choice on the server.<p>Furthermore, I&",
+10,8933158,comment,8932998.0,8932998.0,0,0,tree_of_item,,,"No, and if you were awake long enough to hear about the HoloLens you&",
+11,8933157,comment,8932129.0,8932129.0,0,0,city41,,,"This is excellent, basically &quot;go to definition&quot; implemented in HTML. I&",
+12,8933156,comment,8929906.0,8932383.0,0,0,derekp7,,,"This same narrative also played out during the Hans Reiser arrest/trial.  Even after his conviction (due in no small part to his own testimony), people were still defending him -- up until he revealed the location of the body in return for a reduced sentence.",1421981374.0
+13,8933155,comment,8929906.0,8933110.0,0,0,srdev,,,That is not likely at all.  There is literally no evidence supporting that.  It is simply an explanation that allows Ross&,
+14,8933154,comment,8931827.0,8931827.0,0,0,bombless,,,"I live in China.\nWe have a department named 工信部, it blocks a site by polluting the DNS and point the domain name to random foreign IP.\nI think this explains what happened here.",1421981326.0
+15,8933153,comment,8931827.0,8932912.0,0,0,meowface,,,My company&,
+16,8933152,comment,8930979.0,8930979.0,0,0,ant6n,,,I wonder how far they&,
+17,8933151,story,,,2,0,doppp,Q: How will Quora make money? A: Advertising,http://venturebeat.com/2015/01/22/q-how-will-quora-make-money-a-advertising/,,1421981295.0
+18,8933150,comment,8931564.0,8932701.0,0,0,accurrent,,,Its pretty hard to observe as the luminisence is ridiculously low.,1421981173.0
+19,8933149,story,,,5,0,analogyMan,Bootstrapping vs. Billionaires: Content No Suck Part 1 – Narrative Arc,http://www.net-results.com/blogs/bootstrapping-vs-billionaires/content-no-suck-part-one/,,1421981121.0
+20,8933148,comment,8932696.0,8932768.0,0,0,rokhayakebe,,,"Sometimes I wished all articles were written as:<p>Facts: Box, online storage co, CEO A. Levy, IPO set for xx/xx/20xx, previously raised $175M in x rounds, looking to raise $175M at PO, shares priced at $14, Underwriter is JPM.<p>Opinion: Blah Blah Blah",1421981085.0
+21,8933147,comment,8929040.0,8929550.0,0,0,travisoliphant,,,"Yes, LLVM is a great approach for doing code-gen from arbitrary specialized VMs.  And the Python interface to it makes it easy to experiment.   We no longer use llvmpy for Numba (we use a simpler interface llvmlite) and so llvmpy could use a maintainer.",1421981043.0
+22,8933146,story,,,1,0,JohnHammersley,WriteLaTeX is continued Overleaf,https://www.overleaf.com/blog/190-writelatex-is-continued-overleaf,,1421981021.0
+23,8933145,comment,8932037.0,8933056.0,0,0,bufordsharkley,,,I couldn&,
+24,8933144,comment,8931518.0,8933001.0,0,0,throwawaykf05,,,I&,
+25,8933143,story,,,1,0,Impossible,MGL.COFFEE (Mini Game Programming Library in CoffeeScript),https://github.com/abagames/mgl.coffee,,1421980933.0
+26,8933142,comment,8929040.0,8929207.0,0,0,travisoliphant,,,"The numba code-base implements quite a bit of this.  We actually moved away from the AST approach and went back to the byte-code approach because the AST approach quickly becomes unwieldy as the number of Visitors that you apply grows.   Compile times are also slower.<p>The author is definitely helping people learn about LLVM and how it can be used with Python --- which is great, because this is exactly what Numba is: <a href=""http://numba.pydata.org"" rel=""nofollow"">http://numba.pydata.org</a>.   But, please don&",
+27,8933140,comment,8930825.0,8932672.0,0,0,dsacco,,,"For your example, this happens to be relatively simple. The design is boolean - &quot;Let the corporate network be accessible to the outside world? Y/N&quot; <i>and</i> this is almost universal to implement because network access works the same way almost everywhere. What you&",
+28,8933139,comment,8932095.0,8933006.0,0,0,elwell,,,"<a href=""https://news.ycombinator.com/classic"" rel=""nofollow"">https://news.ycombinator.com/classic</a>",1421980891.0
+29,8933138,comment,8921320.0,8922133.0,0,0,cageface,,,<i>Yet none of this is backed up by evidence that the benefits of functional programming lead to better software.</i><p>Amen. I&,
+30,8933137,comment,8929813.0,8929813.0,0,0,catman01,,,Kittens will always improve conversion rates.,1421980849.0
+31,8933136,comment,8931880.0,8931880.0,0,0,joegosse,,,"From the paper\n<a href=""http://scitation.aip.org/content/aip/journal/jap/117/3/10.1063/1.4905616"" rel=""nofollow"">http://scitation.aip.org/content/aip/journal/jap/117/3/10.10...</a>\nit appears they have modeled the pattern after the lotus leaf\n<a href=""http://en.wikipedia.org/wiki/Lotus_effect"" rel=""nofollow"">http://en.wikipedia.org/wiki/Lotus_effect</a>",1421980847.0
+32,8933135,comment,8925737.0,8928076.0,0,0,jaywunder,,,"I have a friend that does lua, and he really likes it. What do you mean by &quot;fat removed&quot;?",1421980839.0
+33,8933134,comment,8931984.0,8932520.0,0,0,recursive,,,I think it&,
+34,8933133,comment,8931880.0,8932836.0,0,0,inthewoods,,,I just love that this website happens to have someone in this field to help us all understand this. Thank you for your comment!,1421980828.0
+35,8933132,comment,8930825.0,8931267.0,0,0,karmacondon,,,"To follow on to your YouTube analogy, does anyone know of a place where someone can make a playlist of podcast (or radio) excerpts? To me a one hour commitment to a podcast seems daunting, especially if it hasn&",
+36,8933131,comment,8931827.0,8931827.0,0,0,noonespecial,,,Not particularly feasible but it would be awesome to simply proxy all of the requests to their intended destination.,1421980813.0
+37,8933130,comment,8929040.0,8929040.0,0,0,travisoliphant,,,"This is a great tutorial about first-generation Numba.   The author learned a lot about LLVM and llvmpy while working with several of our devs.   If you are interested in the &quot;Further work&quot; in his article, come join the Numba project.",1421980757.0
+38,8933129,comment,8932950.0,8932950.0,0,0,sighsighsigh,,,"The title is very misleading, as the taxi commission voted to eliminate itself.  It isn&",
+39,8933128,comment,8932037.0,8932182.0,0,0,Splendor,,,Thanks for building a great resource.,1421980677.0
+40,8933127,comment,8931221.0,8932444.0,0,0,FeeTinesAMady,,,"To downvoters: the truth hurts, doesn&",
+41,8933126,comment,8932095.0,8932684.0,0,0,ubernostrum,,,"Ryanair, too. They will fly you to $MAJOR_CITY* for just €0.50†!<p>* Where we actually mean &quot;a smaller airport 150km away from that city and you&",
+42,8933125,comment,8932950.0,8932950.0,0,0,a2tech,,,Good for them! I&,
+43,8933124,comment,8929314.0,8929314.0,0,0,SeoxyS,,,"My attempt at a basic smart algorithm. Not so easy...<p><a href=""https://gist.github.com/kballenegger/e275a99d50de2ee07f97"" rel=""nofollow"">https://gist.github.com/kballenegger/e275a99d50de2ee07f97</a>",1421980528.0
+44,8933123,story,,,2,0,guiambros,Journalist Barrett Brown Sentenced to 63 Months Releases Post-Sentence Statement,http://www.sparrowmedia.net/2015/01/barrett-brown-sentenced-to-5-years-issues-official-statement/,,1421980520.0
+45,8933122,story,,,2,0,bwross,Show HN: Ht.js: Where HyperText Meets JavaScript,https://github.com/bwross/ht.js,,1421980507.0
+46,8933121,comment,8930296.0,8931744.0,0,0,foobarian,,,A lpMUD I used to play is still up and running 25 years later.  At this point though it&,
+47,8933120,comment,8930020.0,8931592.0,0,0,FLUX-YOU,,,"Taking a page from Bane, just get a bigger drone to grab it.",1421980483.0
+48,8933119,story,,,1,0,prostoalex,VCs Are Ripe for Smart Alternatives to Fund App Growth,http://techcrunch.com/2015/01/22/why-vcs-are-ripe-for-smart-alternatives-to-fund-growth/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29,,1421980445.0
+49,8933118,comment,8930825.0,8930825.0,0,0,actuary,,,It&,
+50,8933117,comment,8930020.0,8932589.0,0,0,DrFunke,,,The DEA&,
+51,8933116,story,,,1,0,the_economist,BuildZoom is hiring engineer number 5,,"BuildZoom is Hiring Engineer Number Five<p>BuildZoom is looking for a talented engineer to help us build tools for the home improvement and construction industries.<p>We have developed a huge dataset that nobody has ever had access to before: 70 million building permits (and growing) and licensing information for nearly every licensed contractor in the United States. We are using these data to do things like:<p>Identify the best (and worst) contractors are based on work history and other signals\nAnalyze publicly traded builders to forecast next quarter’s revenues (this actually works!)\nLet people see who built their favorite homes, restaurants, and offices, and the remodeling history of their own home<p>To learn more about some of the things you’d be working on, check out these links:<p>http://www.buildzoom.com/newsfeed/san-francisco-ca (beta) -- map of remodeling projects in SF\nhttp://www.buildzoom.com/charts (beta) -- analysis of remodeling projects around U.S.\nhttp://blog.buildzoom.com/san-francisco-remodeling-activity<p>BuildZoom is built in Ruby on Rails, but we are open to applicants without Rails experience as well as to incorporating new technologies into our stack.<p>We have around 27,500 daily users.<p>We are still a small team. The office environment is fun, productive, and generally a great place to learn and work. We just moved into a new office at 1st street and Folsom in San Francisco. Here’s a little video of our new home: https://www.youtube.com/watch?v=HgaYLiw6bvo<p>BuildZoom has raised $4M from great investors including Formation 8 (Joe Lonsdale), Darren Bechtel, Sam Altman, and Y Combinator.<p>Email david@buildzoom.com to apply. Thanks!",1421980408.0
+52,8933115,comment,8930296.0,8931313.0,0,0,djur,,,I don&,
+53,8933114,comment,8930020.0,8932651.0,0,0,darkmighty,,,"This perhaps? <a href=""http://en.wikipedia.org/wiki/IAI_Heron-1"" rel=""nofollow"">http://en.wikipedia.org/wiki/IAI_Heron-1</a>",1421980388.0
+54,8933113,comment,8931261.0,8931261.0,0,0,beachstartup,,,"<a href=""http://jezebel.com/5902718/creepy-finance-guy-with-spreadsheet-of-matchcom-prospects-says-he-was-just-trying-to-be-organized"" rel=""nofollow"">http://jezebel.com/5902718/creepy-finance-guy-with-spreadshe...</a><p>if this guy&",
+55,8933112,comment,8930296.0,8931878.0,0,0,foobarian,,,"I played Zork not because I wanted to, but because it&",
+56,8933111,comment,8932919.0,8932919.0,0,0,natch,,,"Really cool to see this covered, and to see they are working on this.<p>And wow, what an amazingly short, harshly edited down video for such a potentially complex and interesting topic.<p>I wish NASA would tailor these things for people who are interested enough to want more detail.",1421980330.0
+57,8933110,comment,8929906.0,8932774.0,0,0,FeeTinesAMady,,,It&,
+58,8933109,comment,8932095.0,8932866.0,0,0,melling,,,There&,
+59,8933108,comment,8929876.0,8930805.0,0,0,juanpabloaj,,,"fiatjaf, now the generated setup.py file will import the requirements from the requirements.txt file<p><a href=""http://i.imgur.com/TTw7Ctn.gif"" rel=""nofollow"">http://i.imgur.com/TTw7Ctn.gif</a>",1421980284.0
+60,8933106,story,,,8,4,Frijol,"A Web Developer's Guide to Communication Protocols (SPI, I2C, UART, GPIO)",http://blog.technical.io/post/108840925797/a-web-developers-guide-to-communication-protocols,,1421980262.0
+61,8933105,comment,8931880.0,8931880.0,0,0,s0rce,,,"Worst title ever, this is not a new metal any more than printed paper is new paper.",1421980204.0
+62,8933104,story,,,3,0,foundersgrid,50 Resources to Help You Optimize Your Startup for Remote Working,http://foundersgrid.com/remote,,1421980196.0
+63,8933103,comment,8931735.0,8932730.0,0,0,Plough_Jogger,,,Carrying a beacon in your pocket seems like a really impractical solution if you own a smartphone.,1421980168.0
+64,8933102,comment,8932095.0,8932469.0,0,0,bengali3,,,"Yes, only marketing improvements here.",1421980156.0
+65,8933101,comment,8931880.0,8932923.0,0,0,zenocon,,,I was wondering what would happen if you turned on a firehose and just slammed it for a good length of time...how durable it would be?  If they&,
+66,8933100,comment,8929314.0,8931462.0,0,0,sntran,,,v1. Not the same version as that HN article.,1421980039.0
+67,8933098,comment,8930296.0,8931736.0,0,0,vacri,,,That&,
+68,8933097,comment,8932095.0,8932680.0,0,0,brentm,,,Uber from lower Manhattan to JFK is ~$60. Most of the time it won&,
+69,8933096,comment,8925059.0,8932550.0,0,0,SafariDevelop,,,"> Oh for goodness sake...<p>If you are using this expression to express frustration, exasperation, annoyance[1] - say so explicitly, I&",
+70,8933095,comment,8929314.0,8933082.0,0,0,tokenizerrr,,,I don&,
+71,8933094,comment,8930020.0,8930767.0,0,0,girvo,,,Why land though? When you&,
+72,8933093,comment,8931984.0,8933058.0,0,0,willsentance,,,"I always recommend this: <a href=""http://nvie.com/posts/a-successful-git-branching-model/"" rel=""nofollow"">http://nvie.com/posts/a-successful-git-branching-model/</a><p>Not exactly a &",
+73,8933092,comment,8931261.0,8932934.0,0,0,ginny2357,,,That was very accommodating of her.,1421979842.0
+74,8933091,comment,8931221.0,8932604.0,0,0,csandreasen,,,"Two points: 1) the parallel construction headlines were not from the Snowden disclosures, they were from documents independently obtained by Reuters[1].  2) This is what the original article actually had to say about NSA involvement in parallel construction (emphasis mine):<p>&quot;Today, the SOD offers at least three services to federal, state and local law enforcement agents: coordinating international investigations such as the Bout case; <i>distributing tips from overseas NSA intercepts</i>, informants, foreign law enforcement partners and domestic wiretaps; and circulating tips from a massive database known as DICE.&quot;<p>...<p>&quot;Wiretap tips forwarded by the SOD usually <i>come from foreign governments, U.S. intelligence agencies or court-authorized domestic phone recordings. Because warrantless eavesdropping on Americans is illegal, tips from intelligence agencies are generally not forwarded to the SOD until a caller&",
+75,8933090,comment,8930020.0,8931643.0,0,0,girvo,,,In Australia it&,
+76,8933089,comment,8931672.0,8933060.0,0,0,palidanx,,,Ok site is back up!  Sorry about that!,1421979734.0
+77,8933088,comment,8929906.0,8933064.0,0,0,krapp,,,I&,
+78,8933086,comment,8928612.0,8929298.0,0,0,frankzinger,,,My apologies; talk of &,
+79,8933085,comment,8931880.0,8931880.0,0,0,silvio,,,This will work really well. Some leaves use this same mechanism to &,
+80,8933084,comment,8930122.0,8931959.0,0,0,paulhebert,,,"For individual apps and sites, you&",
+81,8933083,comment,8930020.0,8932566.0,0,0,ObviousScience,,,Fly back?<p>You&,
+82,8933082,comment,8929314.0,8929314.0,0,0,function_seven,,,"Need help on this. I tried registering a handler for the up_button_pressed and down_button_pressed events, but the handler doesn&",
+83,8933081,story,,,40,48,softdev12,Pinterest’s Problem: Getting Men to Commit,http://www.wsj.com/articles/pinterests-problem-getting-men-to-commit-1421944331,,1421979408.0
+84,8933080,comment,8931261.0,8933069.0,0,0,hurin,,,I wasn&,
+85,8933078,comment,8931880.0,8931880.0,0,0,Jailbird,,,"Since reading Dune, I have been waiting for mankind to get around to making this.  It was just a matter of time.",1421979364.0
+86,8933077,comment,8932095.0,8932095.0,0,0,jessaustin,,,I was imagining a zipline...,1421979355.0
+87,8933076,story,,,1,0,kposehn,"Box raises $175M after IPO tops targets, company valued at $1.67B",http://m.bizjournals.com/sanjose/news/2015/01/22/box-raises-175-million-after-ipo-tops-targets.html?ana=twt&r=full,,1421979329.0
+88,8933075,comment,8930825.0,8931732.0,0,0,sparkzilla,,,Barely mentioned,1421979247.0
+89,8933074,comment,8929906.0,8929906.0,0,0,alelefant,,,"In his diary regarding selling out of (illegal) mushrooms he writes: &quot;...but at least now I was all digital, no physical risk anymore.&quot;<p>Given the revelations from the last few years, how many of you would agree that carrying out an illegal plan like this is safer online?",1421979213.0
+90,8933073,comment,8932037.0,8932037.0,0,0,radhouane,,,"It is very similar in concept to <a href=""http://coderscrowd.com"" rel=""nofollow"">http://coderscrowd.com</a>. Good job",1421979162.0
+91,8933072,story,,,6,0,johnjlocke,How to reverse engineer your competition in 10 minutes,http://mattreport.com/reverse-engineer-competition-10-minutes/,,1421979148.0
+92,8933071,comment,8931827.0,8933023.0,0,0,Narkov,,,"Yeah, the actual search bit.<p>Serving a static file is pretty simple at 40-50 req/sec but searching an entire index of the Internet @ 40-50 req/sec is harder.",1421979145.0
+93,8933070,comment,8916103.0,8916958.0,0,0,zobzu,,,"well, firefox seems set to use a process for UI and a process for all tabs (such as in nightly right now), the consumption is still far lower.",1421979116.0
+94,8933069,comment,8931261.0,8932789.0,0,0,girvo,,,Did you read her conclusion? It&,
+95,8933068,comment,8925737.0,8925737.0,0,0,krapp,,,I&,
+96,8933066,comment,8931984.0,8932620.0,0,0,Igglyboo,,,"None of those changes will be lost or overwritten. So, no where?",1421979068.0
+97,8933065,story,,,2,0,jonbaer,Analytics even Bruins fans can understand,http://iguana.cs.toronto.edu/,,1421979056.0
+98,8933064,comment,8929906.0,8932383.0,0,0,deciplex,,,"DPR definitely broke the law, there&",
+99,8933063,comment,8925121.0,8926321.0,0,0,adevine,,,"I can buy the regulatory measures in certain areas, which is why I mentioned the highway. I find it very difficult to believe that these kind of regulations would be adhered to, 100% of the time, in the chaos of a busy urban center.",1421979005.0
+100,8933062,comment,8929755.0,8929755.0,0,0,PhantomGremlin,,,The article has an absolutely astonishing clam if it&,
+101,8933061,comment,8931261.0,8932861.0,0,0,girvo,,,Dating is just meeting people of your preferred gender (for possible romance) -- it doesn&,
+102,8933060,comment,8931672.0,8933054.0,0,0,palidanx,,,Yikes!  Sorry I&,
+103,8933059,comment,8930122.0,8931924.0,0,0,paulhebert,,,I&,
+104,8933058,comment,8931984.0,8932389.0,0,0,greggman,,,"My favorite &quot;how it works&quot; article is The Git Parable<p><a href=""http://tom.preston-werner.com/2009/05/19/the-git-parable.html"" rel=""nofollow"">http://tom.preston-werner.com/2009/05/19/the-git-parable.htm...</a>",1421978785.0
+105,8933057,comment,8932696.0,8932797.0,0,0,kondro,,,"Definitely Enterprise. Box has pretty fine-grained permission/sharing management, including when/how these shares expire (as an example).",1421978778.0
+106,8933056,comment,8932037.0,8932037.0,0,0,jonalmeida,,,That&,
+107,8933055,comment,8932095.0,8932941.0,0,0,downandout,,,Is that bad though? I&,
+108,8933054,comment,8931672.0,8931672.0,0,0,rdvrk,,,"Nice idea! Your server crashed before I could test the site fully, but I did find a tiny css bug: <a href=""http://imgur.com/kSliFCL"" rel=""nofollow"">http://imgur.com/kSliFCL</a> (Chrome 40.0.2214.85 beta (64-bit), OS X Yosemite)",1421978689.0
+109,8933053,comment,8921655.0,8922215.0,0,0,darkmighty,,,"Fantastic, thank you",1421978674.0
+110,8933052,comment,8932095.0,8932616.0,0,0,efuquen,,,Man would love a Tesla to pick me when randomly using Uber one day.,1421978662.0
+111,8933051,comment,8925737.0,8925737.0,0,0,chrisbennet,,,I really love C,
+112,8933049,story,,,2,0,ryan_j_naughton,Microsoft HoloLens – Transform your world with holograms,https://www.youtube.com/watch?v=aThCr0PsyuA,,1421978650.0
+113,8933048,story,,,1,0,innovate,Drugs Our Brains Are Addicted To: Caffeine,http://www.deluxemind.com/2015/01/23/drugs-our-brains-are-addicted-to-caffeine/,,1421978646.0
+114,8933047,comment,8909110.0,8909110.0,0,0,aksophist,,,Where is the line item for &quot;prevents downgrade of HTTPS connections to vulnerable protocols&quot;?,1421978645.0
+115,8933046,comment,8931261.0,8932782.0,0,0,minimaxir,,,"Two additional notes:<p>1) R includes the F-test output that accounts for multiple variables in the regression: in this case, P = 0.089, which is a problem.<p>2) For variable/model selection, R&",
+116,8933045,comment,8931984.0,8931984.0,0,0,filearts,,,This is a collossal effort and a huge community service. Thank you for being so thorough in documenting your work. Even if others don&,
+117,8933044,comment,8932681.0,8932862.0,0,0,dang,,,Thanks. Title changed from &quot;Polar researchers 4 meters from drilling down into unknown world&quot;.,1421978597.0
+118,8933043,comment,8929400.0,8932925.0,0,0,shalmanese,,,"/r/outside was like this, then some asshole discovered that ramming together two heavy elements really hard was massively OP and ruined the game for everyone.",1421978572.0
+119,8933042,comment,8931735.0,8932712.0,0,0,jasonl99,,,"How about a lanyard that has a magnetic connector (like Apple charging ports).  So it just a small amount of force to disconnect, but easy to stick back together if you forget it was there when you got up to visit the rest room.<p>Another thought, what about a little coin-sized watch battery device that does bluetooth low-energy.  Press a button it locks your computer (or triple click wipes something, etc).",1421978549.0
+120,8933041,comment,8932095.0,8932860.0,0,0,15thandwhatever,,,"I thought it was pretty clear on their site that they offered the &quot;security transfer&quot; only at certain terminals, for certain airlines. For instance, if you were flying Continental out of Newark, it was great to come in via USH and not have to deal with infrequent flyers at security.",1421978541.0
+121,8933040,comment,8932731.0,8932731.0,0,0,kidlogic,,,"zapier, github",1421978447.0
+122,8933039,comment,8932696.0,8932857.0,0,0,dang,,,"Thanks, we&",
+123,8933038,comment,8931564.0,8932807.0,0,0,new299,,,"yep, I find it interesting that on a relatively small budget (hobbyist level) you can reproduce an experiment which exhibits unexplained physical phenomena.<p>It gives me some home that there&",

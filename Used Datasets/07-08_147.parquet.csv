@@ -1,0 +1,125 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8497131,comment,8493849.0,8495346.0,0,0,simias,,,> Destroying other people&,
+1,8497130,comment,8496581.0,8496721.0,0,0,slavik81,,,"That has been tried before. Results were... poor.<p><a href=""http://www.catb.org/~esr/jargon/html/D/DWIM.html"" rel=""nofollow"">http://www.catb.org/~esr/jargon/html/D/DWIM.html</a>",1414051169.0
+2,8497129,comment,8496581.0,8497061.0,0,0,aangjie,,,Second that. That&,
+3,8497128,comment,8493179.0,8495645.0,0,0,jldugger,,,"> Besides, what can the gal who owns 10% of Google do that the guy who owns 1% can&",
+4,8497127,comment,8493619.0,8497098.0,0,0,veidr,,,"Indeed, you did.<p>I <i>read</i> my email whenever I want. I spend time manually moving/filing/archiving my email about once a year.",1414051093.0
+5,8497126,comment,8492815.0,8494340.0,0,0,cthalupa,,,Fairly sure he&,
+6,8497124,comment,8496797.0,8497111.0,0,0,th3iedkid,,,I used to be employed by a bank that gave me a such a system with TPM and secure BIOS with fingerprint reader.It was a dell one if i remember and used to take quite a lot of time with even simple things like booting.It was a specific project!,1414051057.0
+7,8497123,comment,8493817.0,8496589.0,0,0,InAnEmergency,,,"Have to amend my statement...if the attacker can intercept the SMS in real time, then it is an effective attack:<p>1. Attacker knows victim&",
+8,8497122,comment,8497080.0,8497080.0,0,0,dragonbonheur,,,"If there is only one big brain, &quot;WE&quot; won&",
+9,8497121,comment,8494778.0,8496902.0,0,0,kenver,,,I was fortunate enough to go there as a tourist about a year before everything started getting blown up.<p>It was a beautiful place with some of the most amazing heritage anywhere in the world.  It&,
+10,8497120,story,,,1,0,RodionGork,Free Certificates at CodeAbbey,http://www.codeabbey.com/index/certificate,,1414051025.0
+11,8497119,comment,8495067.0,8496102.0,0,0,sampo,,,"Some people can also pick up accents without knowing the languages: <a href=""http://www.youtube.com/watch?v=ybcvlxivscw"" rel=""nofollow"">http://www.youtube.com/watch?v=ybcvlxivscw</a>",1414051013.0
+12,8497118,story,,,6,0,dkarapetyan,Category theory foundations – Steve Awodey,http://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb,,1414051005.0
+13,8497117,comment,8493555.0,8494336.0,0,0,quaiks,,,"Integer array. Applying the next rule, How many jumps are necessary for getting out of the array? Return -1 if never gets out.<p>A[K] = M -> jump to -> A[K+M] = L<p>I don&",
+14,8497116,comment,8496797.0,8496797.0,0,0,adamlett,,,"In the case of Touch ID, please consider that in order to circumvent it, you not only have to be able to fool the Touch ID sensor, <i>you also have to have physical access to the device</i>.",1414050976.0
+15,8497115,comment,8496003.0,8496530.0,0,0,andor,,,"AFAIK &quot;OpenJDK&quot; is only the codebase, and much like &quot;Chromium&quot; there are no official binaries of &quot;OpenJDK&quot;. Building, packaging and distribution of that code is up to other parties. For example, Linux distributions use IcedTea to build OpenJDK packages.",1414050923.0
+16,8497114,story,,,4,0,kidsil,Show HN: AgriCatch – Data aggregation on Django,https://github.com/AZdv/agricatch,,1414050881.0
+17,8497113,comment,8496797.0,8496797.0,0,0,M4v3R,,,This article is from 2013. While things didn&,
+18,8497112,comment,8492815.0,8493418.0,0,0,Confusion,,,"However, that effect does not extend to many kinds of gifts. Which is why I receive some stuffed animal or similar every 10th donation (I politely refuse them, not to add to the waste in the world).<p>People with rare blood could be gifted things like emergency taxi rides without adverse consequences and it&",
+19,8497111,comment,8496797.0,8497086.0,0,0,DanBC,,,Some lenovo thinkpads come with fingerprint readers and trsuted computing modules and more secure BIOS -- they pushed the security of that quite hard.,1414050765.0
+20,8497110,comment,8490340.0,8490340.0,0,0,ehurrell,,,"Things like this seem like touchstone topics for startups, HBO&",
+21,8497109,comment,8495067.0,8496559.0,0,0,lingoberry,,,Where is your data on Chinese not being &quot;that&quot; hard? According to US Military studies it&,
+22,8497108,comment,8496202.0,8496952.0,0,0,iribe,,,There are multiple fronts. There are the microsoft/apple fronts where they use every opportunity to not provide google search results. Then there&,
+23,8497107,comment,8496504.0,8496704.0,0,0,jarcane,,,This. I think I&,
+24,8497106,comment,8496133.0,8496133.0,0,0,VeejayRampay,,,"I envy PHP people for the buckets of money thrown at making their language better, faster, stronger and well-tooled.",1414050674.0
+25,8497105,story,,,1,0,omerkhan,How Wistia Turned Video Hosting into a Profitable SaaS Business,http://www.conversionaid.com/podcast/chris-savage-wistia/,,1414050672.0
+26,8497104,comment,8496581.0,8497042.0,0,0,Argorak,,,"YMMV, but I don&",
+27,8497103,story,,,1,0,marcusschuler,Bret Taylor of Quip Interview,https://www.youtube.com/watch?v=fLOIvy2YoTQ,,1414050642.0
+28,8497102,comment,8492395.0,8496886.0,0,0,peteridah,,,"Thanks shykes for chiming in on this. We use docker heavily for our applications in production (and all other envs), and would absolutely like to extend that to our Postgres DBs. Are there any examples you can point us to with a pattern for Postgres HA clusters with docker? Thanks.",1414050620.0
+29,8497101,story,,,2,0,Shofo,"Performance test showing Sync is faster than Google Drive, OneDrive and Dropbox",http://venturebeat.com/2014/10/22/bittorrent-performance-test-shows-how-much-faster-sync-is-compared-to-google-drive-onedrive-and-dropbox/,,1414050600.0
+30,8497100,comment,8496504.0,8496901.0,0,0,jarcane,,,Current versions of Java more or less default to allowing nothing to work anyway.,1414050527.0
+31,8497099,comment,8496797.0,8497086.0,0,0,chavesn,,,Exactly. It&,
+32,8497098,comment,8493619.0,8495628.0,0,0,pearjuice,,,You read your email once a year? Did I miss something?,1414050511.0
+33,8497097,comment,8493555.0,8494517.0,0,0,quaiks,,,"Arrays.binarySearch(...) And for a more in deep knowledge, Google. This is what I expect from a Java programmer.<p>Hash tables... Hashtable vs HashMap? Classic one.",1414050489.0
+34,8497096,comment,8493797.0,8496226.0,0,0,rentnorove,,,"I share your frustration. All it does it install a framework in the root of the project, then add a build script that calls `<executable> <some ID> <some other ID>`. Boths IDs are available on the website, so you can set up crashlytics without using their stupid toolbar.<p>The framework&",
+35,8497095,comment,8493849.0,8496855.0,0,0,sigterm,,,Really? I can understand people might want to cheap out for personal projects. But there&,
+36,8497094,comment,8493849.0,8494450.0,0,0,zem,,,and one can only hope that sony et al manage their supply chain by switching to a different chip entirely,1414050412.0
+37,8497093,comment,8492876.0,8492876.0,0,0,fsiefken,,,"Around 2009 somebody came up with the idea of marrying Inform7 games with multiplayer, he called it Guncho. I am not entirely sure how this differs from regular MUD playing but I can imagine it&",
+38,8497092,comment,8496581.0,8497022.0,0,0,pjmlp,,,"Yes you are quite right.<p>The image must always exist, either a real one like Smalltalk, or a virtual one like in your examples.<p>I think it is more of an issue for those that have decided to live outside an IDE though, as they usually have good support for such live sessions.<p>For example, Netbeans support for JavaScript and JRuby is quite good.",1414050378.0
+39,8497091,comment,8493849.0,8494266.0,0,0,Tomte,,,I wish German civil law had something like your discovery process.<p>Over here the claimant probably would not be able to peek into the defendant&,
+40,8497090,story,,,4,0,flying_whale,AMA with a former Blackbird pilot,http://www.reddit.com/r/IAmA/comments/2k06jn/iama_former_sr71_pilot_and_squadron_commander_ama/,,1414050370.0
+41,8497089,comment,8496071.0,8497030.0,0,0,michaelgrafl,,,"Excuse me for being off-topic and awkward. But whenever I read something like<p><i>They just hung there suspended, like raisins in a jello mold, waiting for something to come along and digest them.</i><p>I pause and take a look at who wrote this.<p>And almost always it was written by that Pinboard guy.",1414050326.0
+42,8497088,story,,,1,0,trisoft,Why use big data visualization?,http://tri-soft.net/details?page=news&id=4,,1414050307.0
+43,8497087,comment,8495108.0,8495108.0,0,0,zerr,,,"JS has visibility, but eventually, what js apps you use regularly? For me, it is none.",1414050287.0
+44,8497086,comment,8496797.0,8496797.0,0,0,CyberMonk,,,I don&,
+45,8497085,comment,8496202.0,8496952.0,0,0,adventured,,,"What share of the global market for smartphones does Apple + Microsoft currently possess?<p>Most of the rest of the growth in smartphones - the next two billion users - will come from poorer countries where relatively few of the people can afford iPhones. That means that market share for search will, as of today, go to Google via Android.<p>Apple and Microsoft pose zero threat to Google&",
+46,8497083,comment,8496202.0,8496999.0,0,0,x0x0,,,"Using display as a proxy for brand, even assuming display is entirely brand, Google made ~$3B from display ads in 2013, vs $58B in total.  Even if you were right, they have a very long way to go.",1414050206.0
+47,8497082,comment,8495031.0,8495827.0,0,0,1stranger,,,Then order something else.,1414050177.0
+48,8497081,comment,8493619.0,8496117.0,0,0,ozh,,,"Interesting review. It almost sounds odd that someone likes the new &quot;Compose&quot; in a Google product...<p>If you can spare an invite, I&",
+49,8497080,story,,,1,7,itry,What if we all become one big brain?,,"Thinking about privacy, today it ocurred to me, that this concept might get completely abandoned in the future. What would happen, if we all become one big brain, where everybody has full access to everybody elses information? Apart from feeling weird at first, would there be any serious downsides?",1414050166.0
+50,8497078,comment,8494254.0,8494964.0,0,0,findjashua,,,that&,
+51,8497077,comment,8495067.0,8496709.0,0,0,VeejayRampay,,,"This has nothing to do with white privilege. I am a rather white English-speaking Frenchman, I&",
+52,8497076,comment,8493555.0,8494106.0,0,0,quaiks,,,Good answer. I need a week for getting all my low-level tools sharpened for this kind of job. But I don&,
+53,8497075,story,,,1,0,inchevd,“Work is not Love” – free sticker supporting startupers,http://workisnotlove.com/,,1414049984.0
+54,8497074,comment,8493849.0,8495696.0,0,0,cnvogel,,,"Yes, this would be smart.<p>Probably just putting a message with priority &quot;Error&quot; in the windows event log would be enough to warn computer-literate users.",1414049959.0
+55,8497073,story,,,5,1,matteisn,Submit Your Halloween Hacks to Win Great Prizes from Electric Imp and Hackster.io,http://www.hackster.io/challenges/imp-halloween?ref=ychackernews,,1414049939.0
+56,8497072,comment,8493817.0,8494690.0,0,0,sgk284,,,"Just have the login form submit a token that is associated with the SMS token so you can verify the person sitting in front of the login form is the person who also got the SMS code. Similar to common CSRF protection techniques.<p>For example, the SMS contains a short token. The login form has a (non-visible) 128-bit random guid. When the form is submitted, both tokens are sent to the server and the server verifies that they are both correct.<p>It doesn&",
+57,8497071,comment,8488898.0,8490279.0,0,0,cJ0th,,,And the wonderful thing is that you can use pandoc to turn your markdown files into word documents or pdfs if your audience requires that.,1414049882.0
+58,8497070,story,,,2,0,WestCoastJustin,Instagram Albums,https://www.youtube.com/watch?v=7Uy9IV-Qx6U,,1414049871.0
+59,8497069,comment,8495067.0,8495296.0,0,0,kidlj,,,No jokes. People just appreciated his Chinese speech.,1414049786.0
+60,8497068,comment,8496202.0,8496850.0,0,0,pedalpete,,,I would suggest that rarely is the &,
+61,8497067,story,,,7,1,Garbage,"Eve, the successor of light table",http://incidentalcomplexity.com/2014/10/16/retrospective/,,1414049763.0
+62,8497066,comment,8493849.0,8494943.0,0,0,Kliment,,,"Well, the core issue is that there isn&",
+63,8497065,comment,8495067.0,8496709.0,0,0,alexjeffrey,,,white privilege? don&,
+64,8497064,comment,8488808.0,8493528.0,0,0,zerr,,,I think it&,
+65,8497063,comment,8495786.0,8496689.0,0,0,hoprocker,,,"Great rundown, thanks for that. CNC machines are also popular at hacker spaces; check one out in a metro area near you (Noisebridge in SF, Ace Monster Toys in Oakland, Madagascar Institute in Brooklyn to name a few).<p>I like your description of TechShop, and imho it&",
+66,8497062,story,,,3,0,dragonbonheur,Scientists find how metabolic processes could have appeared spontaneously,http://www.newscientist.com/article/dn25471-spark-of-life-metabolism-appears-in-lab-without-cells.html?cmpid=RSS%7CNSNS%7C2012-GLOBAL%7Conline-news,,
+67,8497061,comment,8496581.0,8496799.0,0,0,ajuc,,,When I code in Python I always have ipython console handy to try snippets of code and to autocomplete methods and fields.,1414049605.0
+68,8497059,comment,8496581.0,8496581.0,0,0,ChrisAntaki,,,"> Sometimes I wasted hours and hours just becaue there is one charactor difference. I hate it.<p>Haha, humans are much more able to parse meaning, despite a character being off here or there. Well, you&",
+69,8497058,comment,8493797.0,8496826.0,0,0,avighnay,,,"VMWare vFabric too (but discontinued last month) - <a href=""http://www.vmware.com/products/vfabric/overview"" rel=""nofollow"">http://www.vmware.com/products/vfabric/overview</a>",1414049519.0
+70,8497057,story,,,1,0,wr1472,Kiruna: the town being moved 3km east so it doesn't fall into a mine,http://www.theguardian.com/artanddesign/architecture-design-blog/2014/oct/22/kiruna-sweden-town-moved-east-iron-ore-mine,,1414049491.0
+71,8497056,comment,8496581.0,8496581.0,0,0,skatenerd,,,Who&,
+72,8497054,story,,,8,3,morenoh149,Blind signatures for untraceable payments (1998) [pdf],http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF,,1414049342.0
+73,8497053,comment,8495067.0,8496709.0,0,0,golemotron,,,> You won&,
+74,8497052,comment,8496581.0,8496924.0,0,0,collyw,,,"Really? \nI used Aptana, which includes the Pydev plugin. I notice everyone seems to give PyCharm lots of love, and have been tempted to try it. Autocomplete is one of the features I rely on heavily.",1414049309.0
+75,8497051,comment,8493849.0,8495295.0,0,0,sigterm,,,Whoever is in charge of sourcing for life-critical application and let the sketchy part slip in should be held responsible for it.<p>>the parts aren&,
+76,8497050,comment,8496003.0,8496690.0,0,0,izacus,,,Are the webupd8 repositories for Oracle JDK are too problematic from security standpoint?,1414049254.0
+77,8497049,comment,8492815.0,8493306.0,0,0,xerophyte12932,,,"As I understand, the original is not clear on whether:\n1) Any one who seeks to use his blood, must first ask his permission.\n2) Donating his blood automatically makes it available to whoever needs it.<p>I think your rewording still leaves that ambiguity, somewhat (though it does seem better), because i keep reading that as:<p>> he <i>must</i> allow it to be used..<p>Perhaps it would have been best to right it to break it down into two sentences.<p><pre><code>    He can donate blood for himself.\n    If someone needs it, they have to ask for his permission.\n</code></pre>\nor<p><pre><code>    He can donate blood for himself,\n    but then this makes it accessible to whoever is in need of it.</code></pre>",1414049181.0
+78,8497048,comment,8495067.0,8495067.0,0,0,Pierrrrrrre,,,"I was expecting something very impressive when I started the video, annnnnnd... nope. The interviewer speaks to him like he&",
+79,8497047,comment,8495836.0,8497039.0,0,0,chobo,,,That&,
+80,8497046,comment,8495836.0,8497039.0,0,0,coding4all,,,Did you read the article? That&,
+81,8497044,story,,,3,2,kokey,Ask HN: Multi paywall services?,,"I suspect this is probably hard to pull off, but is anyone aware of any efforts to offer access to several paywalled newspapers with a single subscription?  Something roughly along the model that cable companies use, where you have one monthly subscription and that gives you access to a number of article reads across e.g. WSJ, FT, NYT and a couple of others.  Most people discover links to articles on multiple news sites through social networks (and things like Google News) but subscription packages with all these publications if you are only reading a certain amount of articles from each is beyond what most consumers would find reasonable.  I think covering this gap will actually be good for the publications.",1414049035.0
+82,8497043,comment,8492815.0,8495310.0,0,0,zem,,,don&,
+83,8497042,comment,8496581.0,8496922.0,0,0,emsy,,,I have experienced some problems with this kind of autocomplete in a JS project.<p>-Two methods shouldn&,
+84,8497041,comment,8496071.0,8496743.0,0,0,oblio,,,"From the friendly article: <a href=""http://ourincrediblejourney.tumblr.com/"" rel=""nofollow"">http://ourincrediblejourney.tumblr.com/</a>",1414048917.0
+85,8497037,comment,8496202.0,8496840.0,0,0,wyclif,,,<i>kids these days don&,
+86,8497036,comment,8493849.0,8495780.0,0,0,azernik,,,"Bureaucratically, it probably <i>isn&",
+87,8497035,comment,8495786.0,8496807.0,0,0,jwr,,,"About a year ago I evaluated Cubify (Geomagic, Alibre, they seem to change names quite often).<p>It was very, very promising, right until the moment I started doing a real design in it. I hit so many bugs and problems, that I couldn&",
+88,8497034,comment,8494778.0,8496307.0,0,0,kiiski,,,It&,
+89,8497033,comment,8493619.0,8493619.0,0,0,NicoJuicy,,,I&,
+90,8497032,story,,,2,0,ancatrusca,Java Sleight of Hand,http://www.infoq.com/articles/Java-Sleight-of-Hand?utm_source=hacker&utm_medium=link&utm_campaign=java_article_sleight,,1414048691.0
+91,8497031,comment,8495067.0,8496936.0,0,0,sumedh,,,Implying that business leaders don&,
+92,8497030,comment,8496071.0,8496071.0,0,0,idlewords,,,"I worked on Upcoming briefly as a contractor in 2006, and it was a strange thing to witness. At the time Yahoo was acquiring a bunch of small sites but seemed to have no idea what to do with them.  They just hung there suspended, like raisins in a jello mold, waiting for something to come along and digest them.<p>Eventually Yahoo solved the dillema by wrapping these projects in successive layers of management, like a bureaucratic oyster reacting to some irritant it doesn&",
+93,8497029,comment,8496202.0,8496460.0,0,0,rudimental,,,I wish AMZN rankings couldn&,
+94,8497028,comment,8491882.0,8492194.0,0,0,NicoJuicy,,,"According to <a href=""http://www.itu.int/ITU-D/treg/broadband/BB_MDG_Romania_BBCOM.pdf"" rel=""nofollow"">http://www.itu.int/ITU-D/treg/broadband/BB_MDG_Romania_BBCOM...</a> , there was only a broadband penetration rate of 5,5% . Perhaps some of the Vice article are lies, but probably not all of them.. As bittorrent doesn&",
+95,8497027,comment,8495067.0,8496993.0,0,0,csa,,,"<a href=""http://www.govtilr.org/Skills/ILRscale2.htm"" rel=""nofollow"">http://www.govtilr.org/Skills/ILRscale2.htm</a>",1414048564.0
+96,8497026,comment,8497019.0,8497019.0,0,0,mlla,,,"Link to the article without paywall:<p><a href=""http://www.euro2day.gr/ftcom_en/article-ft-en/1267094/deepmind-unveils-broad-alliance-with-university-of.html"" rel=""nofollow"">http://www.euro2day.gr/ftcom_en/article-ft-en/1267094/deepmi...</a><p>Other way to read the article directly on Financial Times is to search for it on Google and then access it via results.",1414048564.0
+97,8497024,comment,8493849.0,8493849.0,0,0,voltagex_,,,If anyone&,
+98,8497023,comment,8495632.0,8496441.0,0,0,saraid216,,,"> And how else are you going to arrange four blocks, other than what is already done in Tetris?<p>Heh. Reading that actually gave me idea. Like this:<p><pre><code>  X X\n     \n  X X\n</code></pre>\nOkay, someone else come up with a falling-block game where the blocks have spaces in between them. :P",1414048457.0
+99,8497022,comment,8496581.0,8496997.0,0,0,derefr,,,"It works great if either A. The IDE lives <i>inside</i> the same live image the project being developed is loaded in; or B. there exists some sort of network/RPC-exposed &quot;code server&quot; running within the live image, which you can ask to do these sorts of completions.<p>Of non-Smalltalk languages, the only one I can think of with anything like that is Erlang. You could easily enough build a code server in Ruby, but you&",
+100,8497021,comment,8492876.0,8492876.0,0,0,ctrijueque,,,"Lately, I&",
+101,8497019,story,,,3,1,mlla,DeepMind unveils broad alliance with University of Oxford (paywall),http://www.ft.com/cms/s/0/8f21d982-59fe-11e4-8771-00144feab7de.html,,1414048360.0
+102,8497018,comment,8495067.0,8495221.0,0,0,LunaSea,,,No it&,
+103,8497017,comment,8494778.0,8496902.0,0,0,omegaworks,,,">The  destructiveness of modern technology is erasing it all in one fell swoop.<p>The destructiveness of global political, territorial and resource disputes endemic to the area is erasing it all again.<p><a href=""https://www.youtube.com/watch?v=gh41Wxez9PE"" rel=""nofollow"">https://www.youtube.com/watch?v=gh41Wxez9PE</a>",1414048226.0
+104,8497016,comment,8487115.0,8488011.0,0,0,cerberusss,,,I do understand what they&,
+105,8497015,comment,8495419.0,8496309.0,0,0,frozenport,,,Yeah but the pipes are still cold!,1414048131.0
+106,8497014,comment,8496581.0,8496581.0,0,0,whizzkid,,,"How about implementing this in a way that it starts guessing method names while typing a method?<p>In this case, you would solve the error while typing it.<p>A simple dropdown with suggestion(s) would be great in Sublime Text.",1414048123.0
+107,8497012,comment,8493849.0,8494756.0,0,0,jrockway,,,Technically the counterfeit devices should have never been allowed into the country.  So it should be interesting how this plays out.,1414048066.0
+108,8497011,comment,8496581.0,8496928.0,0,0,derefr,,,No: tests don&,
+109,8497010,story,,,1,0,mariusbalaj,Climby Kitten,http://climbykitten.com,,1414047971.0
+110,8497009,comment,8494778.0,8496557.0,0,0,frozenport,,,Don&,
+111,8497008,story,,,1,0,nathankot,Show HN: OS X tiling window manager plugin for mjolnir,https://github.com/nathankot/mjolnir.tiling,,1414047969.0
+112,8497007,comment,8493849.0,8494927.0,0,0,_pmf_,,,> because breaking other people&,
+113,8497006,comment,8496581.0,8496871.0,0,0,pjmlp,,,"Netbeans JavaScript support is quite good, and was originally based on JRuby support.",1414047961.0
+114,8497005,comment,8495067.0,8496669.0,0,0,new299,,,"Agreed, private lessons on a daily basis can help you improve very quickly in my experience, you don&",
+115,8497003,comment,8496581.0,8496910.0,0,0,skrebbel,,,"I like this approach, and I think that we&",
+116,8497002,comment,8495067.0,8496438.0,0,0,stangeek,,,This is such a ridiculous comment...,1414047833.0
+117,8497001,comment,8495067.0,8496521.0,0,0,jy1,,,Jack Ma was also an english teacher,1414047828.0
+118,8497000,story,,,1,0,cwhy,Gender Stereotyping Serves Important Purpose,http://www.straitstimes.com/premium/forum-letters/story/gender-stereotyping-serves-important-purpose-20141023,,1414047801.0
+119,8496999,comment,8496202.0,8496466.0,0,0,temuze,,,> Google&,
+120,8496998,comment,8493559.0,8493559.0,0,0,gbertb,,,"Check out udemy, they&",
+121,8496997,comment,8496581.0,8496910.0,0,0,pjmlp,,,"Funny that you mention Smalltalk, because of its image model, completion usually works quite well.<p>I remember using it on my Smalltalk days at the university in 1996.",1414047706.0
+122,8496996,comment,8495067.0,8496949.0,0,0,westiseast,,,"Yes and no - achieving real fluency after a certain age is very very hard, near impossible. Writing chinese by hand is exceptionally difficult too. Typing characters using pinyin inputs is significantly easier. Speaking in simple conversations like Mark has is really not that hard - again, not to undermine him specifically, but rather to dispel the idea that this is some superhuman achievement. he&",
+123,8496995,comment,8495067.0,8496648.0,0,0,stangeek,,,...which is probably very telling about the general open mindness of American CEOs of $200bn companies ;),1414047602.0

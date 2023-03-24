@@ -1,0 +1,130 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7403297,comment,7393133.0,7396384.0,1,0,gregf,,,"My mistake then, thanks for correcting me.",1394852357.0
+1,7403296,comment,7398721.0,7400881.0,1,0,zaroth,,,"Github downtime (and subsequent postmortems) are a regular feature of the HN front page. The postmortems have come to command their own audience, similar to the CloudFlare reports.<p>It&",
+2,7403295,comment,7401055.0,7402871.0,3,0,b3b0p,,,"Exactly, I supported the movie and I am glad I did, but I would not have done the amount I did had I known that the digital copy was going to be this Ultra Violet version. I would have pledged less or possibly pledged more to get the Blu-ray.<p>In the back of my mind I feared that the digital copy would be Ultra Violet. It was a gamble and understand it was a risk, that I ended up losing. I would buy the iTunes or Blu-ray now, but I don&",
+3,7403294,comment,7402571.0,7403170.0,2,0,marcosdumay,,,">> A righteous operating system should be a programming language.<p>>Like we had with some early PCs where you essentially had a BASIC interpreter for an OS?<p>I think that line has some relation to the graphical programming language at the beginning. If so, no, it&",
+4,7403293,comment,7401055.0,7402062.0,2,0,tinalumfoil,,,">You can either try to increase the riskOfGettingCaught or decrease the legal price.<p>Below $0.000001? Assuming everyone in the world buys that movie, it would only make $7000.",1394852316.0
+5,7403292,comment,7403129.0,7403129.0,1,0,greenyoda,,,"Prior discussion:<p><a href=""https://news.ycombinator.com/item?id=7401999"" rel=""nofollow"">https://news.ycombinator.com/item?id=7401999</a>",1394852303.0
+6,7403291,comment,7398245.0,7402007.0,1,0,dnautics,,,"Sorry, but your criticism is equally valid for basically any sort of legal propaganda, for example the Declaration of Independence.  Moreover, I don&",
+7,7403289,comment,7401468.0,7401468.0,2,0,futurist,,,Bill Gates is an old fuddyduddy with too many friends in high places to ever side with Snowden. His answer isn&,
+8,7403288,comment,7402571.0,7402907.0,3,0,chaz,,,"<a href=""http://dspace.mit.edu/handle/1721.1/6080"" rel=""nofollow"">http://dspace.mit.edu/handle/1721.1/6080</a>",1394852218.0
+9,7403287,comment,7402809.0,7403026.0,3,0,jarjoura,,,Microsoft should join the LLVM group and just port any MSVC extension not supported in clang over already. :-),1394852184.0
+10,7403286,comment,7401055.0,7402659.0,1,0,jhansen858,,,This is the comment I came here for. Thank you.,1394852161.0
+11,7403285,comment,7402809.0,7403209.0,3,0,bjz_,,,"Hopefully Rust will take a chunk out of this market, but I agree that folks don&",
+12,7403284,comment,7401140.0,7402031.0,3,0,pazimzadeh,,,"Eh, the close button is hard to reach at the top and the gesture that is &quot;back&quot; in other apps is &quot;like.&quot;",1394852100.0
+13,7403283,comment,7401564.0,7401564.0,2,0,philosophus,,,"&quot;becoming the go-to technology in Enterprise[y]&quot;<p>Hmm, I work for a company that processes insurance claims. That&",
+14,7403282,comment,7401029.0,7401029.0,1,0,tinalumfoil,,,"TL;DR: Elon Musk disagrees with the decision and viciously attacks Chris Christie , Auto Dealers, the State of NJ and compares their reasoning to the mafia. He also encourages you to buy a tesla car before the laws take into effect. Tesla will continue to lobby and possibly sue for a change.",1394852062.0
+15,7403280,comment,7402480.0,7402480.0,2,0,waylonrobert,,,Par for the course for John C. Dvorak. He&,
+16,7403279,comment,7390488.0,7390488.0,2,0,tehwebguy,,,"Yeah, but that&",
+17,7403278,comment,7402571.0,7403118.0,1,0,marcosdumay,,,"Well, if that&",
+18,7403277,story,,,1,0,nagriar,Open Source Multiplayer Flappy Bird – Fork and Improve,https://github.com/Codingbean/Wings,,1394851937.0
+19,7403276,comment,7401803.0,7402795.0,2,0,billsix,,,"I thought the unix quote on simple vs correct is regarding things like &quot;what should the kernel do when a process is processing a system call like read/write and needs to handle a signal.  should it return an error of type EAGAIN, or somehow completely shield the user-space program of this condition?&quot;.<p><a href=""http://www.jwz.org/doc/worse-is-better.html"" rel=""nofollow"">http://www.jwz.org/doc/worse-is-better.html</a><p>> This may have been true in an era when every site had to roll a homegrown solution for pert-near everything that didn&",
+20,7403275,comment,7402809.0,7403064.0,3,0,bjz_,,,"The big issue is that C++ FFIs are notoriously hard to implement. Often C wrappers are the only way to go (Rust has an excellent C FFI). As far as I know, I think D is one of the best out there regarding C++ compatibility, but it is still lacking.",1394851924.0
+21,7403274,comment,7401803.0,7402521.0,1,0,jamiesonbecker,,,"I agree.<p>It does in fact make me smile a little bit when the puppet installation script is longer than the script to do whatever it is that needs to be done to install the app itself. :)<p>Over time, it may make sense to move to a more deterministic solution, but to start there (IMO) is often a case of premature optimization.",1394851917.0
+22,7403273,comment,7402809.0,7403052.0,2,0,gamegoblin,,,I do find it odd that there isn&,
+23,7403272,comment,7402809.0,7403209.0,4,0,greatsuccess,,,Im sorry your too much of a pussy to just write C.,1394851904.0
+24,7403271,comment,7398970.0,7402124.0,2,0,dnautics,,,"That preceded the public face of the Mt. Gox situation, which is what the original comment refers to.<p>There are always small speculative bubbles here and there, it happened exactly like that 6, and 12 months prior.  It&",
+25,7403270,comment,7401029.0,7403112.0,23,0,revelation,,,"Conventional gas cars produce massive negative externalities that, if not accounted for (by charging any of the parties indirectly or directly involved in producing them), lead to market inefficiencies. The very nature of externalities makes it that they are very difficult to accurately measure, but rest assured, whatever extra cost new CAFE standards bring is not merely a drop in the bucket for the damage already produced and unremedied.<p>So here the government is ensuring a more efficient and free market, not doing any &quot;paternalistic meddling&quot;.",1394851831.0
+26,7403269,comment,7402415.0,7402640.0,2,0,reubenmorais,,,Note that they&,
+27,7403268,comment,7401029.0,7403112.0,4,0,gaadd33,,,Aren&,
+28,7403266,comment,7401055.0,7401055.0,1,0,ghx,,,"Kinda random, but I associate the word &quot;popcorn&quot; with time, because when I was a kid growing up in the Bay Area, we always dialed POP-CORN (767-2676) to get the current time. Probably just a coincidence?",1394851791.0
+29,7403265,comment,7402809.0,7403241.0,1,0,stingraycharles,,,Yeah but that is a but similar as BOOST_FOREACH before c++11 -- it just isn&,
+30,7403264,comment,7401803.0,7402795.0,0,0,jamiesonbecker,,,"Simple is almost always Correct.<p>Conversely, complex is almost always incorrect.",1394851754.0
+31,7403263,comment,7402809.0,7402809.0,4,0,platform,,,C++ is still missing optional Reflection/Introspection. With that feature it could easily replace majority of todays typed languages (with exception of language such has Haskell or Rust).\nReason is that reflextion allows to close a &,
+32,7403262,story,,,15,8,dpweb,Littlest database that could,http://run-node.com/littlest-database-that-could/,,1394851685.0
+33,7403261,comment,7401029.0,7401253.0,2,0,lutorm,,,Like the Economist wrote about George W Bush: &quot;Being pro-business is not the same thing as being pro-market&quot;.,1394851665.0
+34,7403260,comment,7399673.0,7400341.0,1,0,snowwrestler,,,"If after extensive research the worst you can say is that &quot;results are still inconclusive,&quot; it is hardly a &quot;beginner web mistake&quot; on par with bad navigation.<p>I think the reason you included modal forms in your article is the same reason people are posting in this thread about them: you personally don&",
+35,7403259,story,,,1,0,luisedtr,The iPad is Leading Personalized Learning to the Forefront,http://26gems.io/blog/bring-your-own-device-ipad-world/,,1394851655.0
+36,7403258,comment,7401664.0,7401664.0,2,0,tzs,,,I&,
+37,7403257,story,,,18,14,jmgrosen,Judge Refuses to Alter Pandora’s Payments to Songwriters,http://www.nytimes.com/2014/03/15/business/media/judge-refuses-to-alter-pandoras-payments-to-songwriters.html,,1394851617.0
+38,7403256,story,,,1,0,r0h1n,Google Under Fire for Data-Mining Student Email Messages,http://mobile.edweek.org/c.jsp?DISPATCHED=true&cid=25983841&item=http%3A%2F%2Fwww.edweek.org%2Few%2Farticles%2F2014%2F03%2F13%2F26google.h33.html,,1394851615.0
+39,7403255,comment,7401803.0,7402792.0,7,0,jamiesonbecker,,,"If using a cloud, another often overlooked option is to just tear down and replace the instance rather than try to update/correct its configuration. In that case, a shell script or Userdata script will be more than enough and represents a single source of truth for how a server will be built (never upgraded).",1394851612.0
+40,7403254,comment,7398970.0,7401845.0,1,0,dnautics,,,It&,
+41,7403253,comment,7395408.0,7397601.0,1,0,gcr,,,"Notmuch is sublime. I used Sup and it was wonderful, but I switched to Notmuch after sup stopped getting maintained. It seems like it&",
+42,7403252,story,,,2,0,ImpressiveWebs,Accessing localhost From Anywhere,http://www.sitepoint.com/accessing-localhost-from-anywhere/,,1394851460.0
+43,7403251,comment,7401833.0,7401833.0,3,0,zobzu,,,"I command this VP for also actually saying &quot;it dead jim&quot; when it is - unlike the &quot;its going to community-mode&quot;. I think its a much nicer, transparent communication from mozilla and exactly what i expect from mozilla, too. Props!",1394851409.0
+44,7403250,comment,7401803.0,7403119.0,3,0,joevandyk,,,"you gotta setup the ssh user, modify/install ssh keys, install python if it&",
+45,7403248,story,,,1,2,fleclerc,Ask HN: Which CDN do you recommend for my application?,,"Hi,<p>I have a website project that would need the use of a good - yet affordable - CDN. My project is about storing, viewing and sharing videos. My needs are the following:<p>- multi TB of data storage (in the long run as content is uploaded by users)<p>- Analytics<p>- API (manipulate the site library, upload, etc... and access to analytics)<p>I did a quick search and found Limelight Network that covers all my needs and then some - they have an explicit solution for video distribution, but pricing is not available and I expect they are on the expensive side of things.<p>Do you know a CDN that fits the bill?<p>If you are using a CDN right now I would like to read about your experience.<p>Thanks!",1394851320.0
+46,7403247,comment,7401833.0,7402006.0,4,0,zobzu,,,"im using ff metro ui in ff nightly and its like IE except its firefox. too bad its going away, its pretty good.",1394851294.0
+47,7403246,comment,7401029.0,7403093.0,3,0,bane,,,That&,
+48,7403245,comment,7402809.0,7403209.0,1,0,to3m,,,:(,1394851229.0
+49,7403243,comment,7399780.0,7399780.0,2,0,thyrsus,,,My son&,
+50,7403242,comment,7402458.0,7402550.0,2,0,alexnking,,,"Exactly - I could have believed one back office app even, but cross platform? Yeah right...",1394851162.0
+51,7403241,comment,7402809.0,7403046.0,5,0,kps,,,Boost has a macro that&,
+52,7403240,comment,7401055.0,7401055.0,2,0,baxter001,,,"A nice wrapper around something like btcat: <a href=""http://jordic.com/btcat/btcat"" rel=""nofollow"">http://jordic.com/btcat/btcat</a> is all that&",
+53,7403239,comment,7401670.0,7403169.0,1,0,stcredzero,,,"Well, if your expectation is to just turn the iPad into a laptop, it&",
+54,7403237,story,,,1,0,whyenot,"Bitcoiners, Police Yourselves",http://techcrunch.com/2014/03/14/bitcoiners-police-yourselves/,,1394851017.0
+55,7403236,comment,7401055.0,7401959.0,1,0,lucb1e,,,"I think it was their choice, the way they go about it. They&",
+56,7403235,comment,7400436.0,7402154.0,1,0,mikeash,,,"They use a different subdomain, but both the official login page and user docs are served from a *.google.com hostname. I&",
+57,7403234,comment,7401055.0,7402957.0,2,0,lucb1e,,,"In the Netherlands I believe any tool that is only used for illegal purposes is in itself illegal. For example hacking tools that are not meant for penetration testing would be illegal. Whether this would apply to applications providing copyright infringement on a huge scale, I don&",
+58,7403233,comment,7401780.0,7402665.0,2,0,Kequc,,,"> I have transferred over so many domains with absolutely no issues. Unlock, get your transfer code, give it to the next registrar and done.<p>It took me close to 6 months to transfer domains from there the last time I tried. Throughout the entire back and fourth, shit getting switched. Waiting periods, back and fourth emails and everything else I found it amazing that any of that was legal.<p>In retrospect I could have likely transferred my domains away from them faster if I&",
+59,7403232,comment,7401029.0,7401519.0,1,0,haberman,,,What is amazing to me about your comment is that you have harsh words for Musk without any defense whatsoever of why the law is just.<p>What is &quot;immature&quot; about calling out a stupid and corrupt law?,1394850692.0
+60,7403230,comment,7401780.0,7401780.0,1,0,decentrality,,,I&,
+61,7403229,comment,7397657.0,7402269.0,1,0,c_c_c,,,I&,
+62,7403228,comment,7401140.0,7402745.0,1,0,nandemo,,,"Remember, on HN &quot;I and my friends don&",
+63,7403227,comment,7401055.0,7401350.0,2,0,lucb1e,,,I haven&,
+64,7403226,comment,7401011.0,7401888.0,2,0,yetfeo,,,"It might not be a goal for Mozilla for it to be a production browser but it does seem to be for other people working on it and this is affecting what is being worked on:<p><a href=""https://groups.google.com/d/msg/mozilla.dev.servo/-dmlVwMknJk/BstzMVX5VR4J"" rel=""nofollow"">https://groups.google.com/d/msg/mozilla.dev.servo/-dmlVwMknJ...</a>",1394850505.0
+65,7403225,comment,7402399.0,7402399.0,13,0,dmourati,,,"I worked as a lawyer in Chicago in the late 1990s and represented a client who was on the FBI top ten most wanted list. His name is Nate Hill. He was a Chicago drug dealer.<p>He fled to Africa and was running a coffee business as a front. US Marshals flew to Africa, found him, kidnapped him, and put him on a flight back to O&",
+66,7403224,comment,7402809.0,7402809.0,3,0,puppetmaster3,,,"I here by announce, that C++ next version will be called D! More links here: <a href=""http://dlang.org"" rel=""nofollow"">http://dlang.org</a>",1394850462.0
+67,7403223,comment,7402964.0,7402964.0,1,0,willcate,,,"LiveCode is much better, cross-platform, supports mobile and is free for non-commercial development.",1394850453.0
+68,7403222,comment,7401670.0,7403193.0,1,0,stcredzero,,,"You can leave off the VM, as it&",
+69,7403221,comment,7398308.0,7398471.0,2,0,cdi,,,">One easy way to get kernel lockups is to use fglrx.<p>Yup. Changed my GPU to nvidia, no more core lockups.",1394850376.0
+70,7403220,comment,7402620.0,7403168.0,1,0,ThePhysicist,,,I think you wouldn&,
+71,7403219,story,,,1,0,greatsuccess,Anomalies: Why Flight 370 and your keys are *hard* to find.,,"Human beings are not wired to understand &quot;anomalies&quot;, things that don&",
+72,7403218,comment,7402415.0,7402984.0,1,0,jesbickhart,,,You make it sound like this is the only opportunity for disruption yet fail to bring a point to the table to back up this claim.  Piracy is a violation of copyrighted content plain and simple.  It is illegal.  We will find another way.,1394850243.0
+73,7403217,comment,7401803.0,7401803.0,2,0,artellectual,,,This is simply brilliant! I&,
+74,7403216,comment,7402741.0,7402741.0,3,0,peetle,,,Check out the js console to see output of the compiled s-expression as you modify the nodes.,1394850189.0
+75,7403214,comment,7401055.0,7401460.0,3,0,lucb1e,,,"> I could see a company like Netflix buying them out<p>Really? I think Netflix would &quot;suddenly&quot; have each and every contract broken and no content can be watched on Netflix services ever again.<p>Well, with the exception of anything that runs on Popcorn, of course.",1394850180.0
+76,7403213,comment,7402399.0,7402874.0,1,0,baddox,,,"Even with the necessary knowledge, competence levels vary.",1394850120.0
+77,7403212,comment,7402415.0,7403132.0,2,0,jesbickhart,,,This is exactly what I am talking about haha.  Nabster was the  precursor to iTunes.  iTunes disrupted everything legally.,1394850086.0
+78,7403211,comment,7402571.0,7403095.0,1,0,nzp,,,"Finding a paradigm better than language, i.e. an abstract symbolic system, would be a such a revolutionary turning point in the ... um, everything that I think programming would at that point seem just silly.  What would that even mean?  We would become some sort of gods.  Mathematics as we know it would certainly become irrelevant.  I&",
+79,7403209,comment,7402809.0,7403074.0,14,0,banachtarski,,,"Do you play games? Do you play console games, or desktop games? Do these games support 3D rendering? Soft shadows? Physically based lights? Pathfinding of crowds of people or units? Literally hundreds of thousands of projectiles? Networked replication? Leverage all the cores of your desktop/device/console while doing the above? Support unique or specialized data structures? Execute a runtime that <i>CAN&",
+80,7403208,story,,,2,0,evo_9,Atomic Car Revisited: Thorium Could Power A Vehicle for 100 Years? – Yahoo Autos,http://autos.yahoo.com/news/atomic-car-revisited-thorium-could-power-vehicle-100-140052713.html,,1394850019.0
+81,7403207,comment,7402415.0,7402834.0,1,0,jesbickhart,,,Actually they have every intention of doing just that.  Look at the decline in movie ticket sales year by year over the last 4.  Emerging distribution platforms like Netflix and Hulu get lots of attention from production companies because they aren&,
+82,7403206,comment,7401780.0,7403076.0,2,0,decentrality,,,"I have had several domains purchased out from under me if I added them to my cart. If they go into my cart, I know I better buy them within 90 minutes or they become search suggestions, or who knows what. Makes me want to keep my ideas to myself until I&",
+83,7403205,comment,7398721.0,7402951.0,3,0,ams6110,,,We&,
+84,7403204,comment,7401780.0,7402190.0,4,0,booruguru,,,> GoDaddy is the perfect example of a company killing it with the mainstream while getting (often unjustified) hate inside the tech community.<p>Either you&,
+85,7403203,comment,7401833.0,7402960.0,2,0,yohui,,,"> <i>The restriction is only in place for Windows RT apps, of which Microsoft has a rather negligible marketshare of the tablet market.</i><p>The restriction against using browser engines other than IE&",
+86,7403202,comment,7402578.0,7402671.0,1,0,ugk,,,second,1394849932.0
+87,7403200,comment,7398308.0,7400621.0,1,0,donniezazen,,,"If AltGr is right Alt, it does print a bunch of stuff. On my system, SysRq is under PrtSc. Does that mean I have to do Fn+PrtSc to get SysRq or just PrtSc is enough.",1394849899.0
+88,7403199,comment,7402399.0,7403021.0,1,0,TrainedMonkey,,,Depends on a car.,1394849857.0
+89,7403198,story,,,43,53,tokenadult,Language Study: What is a foreign language worth?,http://www.economist.com/blogs/prospero/2014/03/language-study,,1394849854.0
+90,7403197,comment,7401029.0,7401517.0,4,0,ElComradio,,,Let&,
+91,7403196,comment,7399861.0,7402158.0,1,0,saraid216,,,"I love that people can even link to the law, but still have demonstrably no idea what it is.",1394849766.0
+92,7403195,comment,7401833.0,7402684.0,1,0,banachtarski,,,"Well yea and nobody would want that. The touch interface necessarily limits the amount of functionality you can bolt in without excessive UI overloading.<p>> Frankly, I would say IE on metro is already better than any of them.<p>Care to qualify this? Chrome on ios for example is fantastic.",1394849719.0
+93,7403194,comment,7401055.0,7402704.0,1,0,lucb1e,,,Challenge accepted. Will try to find a DVD with some of that stuff tomorrow (it&,
+94,7403193,comment,7401670.0,7402307.0,1,0,YokoZar,,,I&,
+95,7403192,comment,7399861.0,7401135.0,1,0,saraid216,,,They&,
+96,7403191,comment,7402571.0,7403015.0,7,0,cscheid,,,"> functions are functions in the algebraic sense<p>This is a minor nit, but there are effects in pure Haskell functions, namely partiality and non-termination. (In other words, the sense in which &quot;functions are functions&quot; is actually a deep question)<p>There&",
+97,7403189,comment,7401055.0,7402062.0,1,0,lucb1e,,,> Right now &,
+98,7403188,comment,7402809.0,7403074.0,4,0,epi8,,,"Not everyone works in webdev. Some people do embedded development, and use a reasonable subset of C++.",1394849618.0
+99,7403187,comment,7402809.0,7402955.0,2,0,banachtarski,,,"Wait, I&",
+100,7403186,comment,7398308.0,7400222.0,2,0,noselasd,,,You&,
+101,7403185,comment,7399671.0,7401684.0,2,0,warfangle,,,> H1B visas should not have citizenship tied to the employer<p>Absolutely agree with you. That they are reeks of indentured servitude.,1394849556.0
+102,7403184,comment,7402399.0,7403029.0,2,0,rhizome,,,I&,
+103,7403183,comment,7403180.0,7403180.0,1,0,001sky,,,"Original article for reference> <a href=""http://www.vanityfair.com/society/2014/04/sergey-brin-amanda-rosenberg-affair"" rel=""nofollow"">http://www.vanityfair.com/society/2014/04/sergey-brin-amanda...</a>",1394849506.0
+104,7403182,comment,7401055.0,7401055.0,3,0,usaphp,,,I don&,
+105,7403180,story,,,2,1,001sky,Vanity Fair Report: Google Glass Broke Up Founder Sergey Brin's Marriage,http://www.nbcbayarea.com/blogs/press-here/Google-Glass-Broke-Up-Founder-Sergey-Brins-Marriage-250217621.html,,1394849430.0
+106,7403179,story,,,1,0,anigbrowl,Nobody just sold $100 billion of US Treasuries,http://www.seattlepi.com/technology/businessinsider/article/Nobody-Just-Sold-100-Billion-Of-US-Treasuries-5318866.php,,1394849425.0
+107,7403178,story,,,2,0,nicosh,Cohort Analysis: A (practical) Q&A,http://christophjanz.blogspot.de/2014/03/cohort-analysis-practical-q-guest-post.html,,1394849346.0
+108,7403177,comment,7399477.0,7399477.0,1,0,dthan,,,fgfgfg,1394849329.0
+109,7403176,story,,,2,0,mrkeevan,Lost in Spayce,http://www.usatoday.com/story/tech/personal/2014/03/11/harvard-social-network-spayce/6299307/,,1394849319.0
+110,7403175,comment,7399477.0,7399963.0,1,0,dthan,,,fdfdfd,1394849314.0
+111,7403174,comment,7399671.0,7399671.0,1,0,warfangle,,,"If/when he gets in office he should put the bills he sponsors, cosponsors etc up on github as diffs to the main corpus of US law.",1394849278.0
+112,7403173,comment,7400135.0,7401886.0,1,0,jey,,,I bet it intentionally lowballs so you&,
+113,7403171,comment,7401055.0,7402861.0,2,0,kamjam,,,Before iTunes there was Napster. Without Napster I very much doubt iTunes would ever have evolved. Maybe Popcorn Time is the first step to getting a truly decent movie application that people can purchase through?,1394849215.0
+114,7403170,comment,7402571.0,7402571.0,8,0,nzp,,,"Interesting article, but I think that the basic premise, that it&",
+115,7403169,comment,7401670.0,7402244.0,3,0,nirnira,,,I tried using iPads with keyboard covers. Having to constantly switch between tapping the screen and typing was a dealbreaker for me. There&,
+116,7403168,comment,7402620.0,7402620.0,3,0,lawl,,,I&,
+117,7403167,comment,7402480.0,7402480.0,3,0,emersonrsantos,,,John C. Dvorak complaining about Microsoft? Don&,
+118,7403165,comment,7401029.0,7403111.0,2,0,stcredzero,,,I&,
+119,7403164,comment,7400874.0,7400874.0,1,0,jey,,,Wow. Running a company primarily on Chat and Team makes too much sense. I&,
+120,7403163,comment,7402993.0,7402993.0,1,0,jaredsohn,,,"More people use e-mail, once people have signed up there&",
+121,7403162,comment,7402571.0,7403150.0,3,0,quotemstr,,,Lisp is also a language isolate. The first EVAL was written by hand in assembly.,1394849005.0
+122,7403161,comment,7402809.0,7403087.0,2,0,Filligree,,,Rust?,1394848889.0
+123,7403160,comment,7401803.0,7402327.0,1,0,oftenwrong,,,Which CM system?,1394848872.0
+124,7403159,comment,7399014.0,7402387.0,2,0,stonith,,,"There are many films and books about the Holocaust, I don&",
+125,7403158,comment,7401780.0,7402600.0,3,0,mctx,,,They probably just can&,
+126,7403157,comment,7401055.0,7403009.0,2,0,adsr,,,On the contrary I think that&,
+127,7403156,comment,7401803.0,7402863.0,1,0,phaer,,,"I have not started a system from scratch for a few month, but as far as I remember, ansible depends only on python and ssh.",1394848806.0
+128,7403155,comment,7397165.0,7397481.0,1,0,lumpysnake,,,Amen to the more technical part.,1394848801.0

@@ -1,0 +1,106 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10481514,comment,10480972.0,10481245.0,0,0,uhhyeahdude,,,"<i>tl;dr, because it looks like I rambled: I agree, here are some possible underlying causes, people have different perceptions of the material world, people respond poorly to certain types of criticism, and the aging population suffers from this x10000. I am a poor editor, but I mean well.</i><p>I&",
+1,10481513,comment,10480383.0,10481136.0,0,0,akg_67,,,"Have you looked into Lending Club and Prosper Marketplace peer to peer lending platforms? The retail investors on these platforms are having good success in assessing and managing risk with consumer lending. There is no reason that the same will not happen with equity crowdfunding.<p>Equity crowdfunding platforms will be responsible for due diligence and standardizing the equity offerings instead of the individually negotiated deals and preferential deals to different investor groups that is the norm right now.<p>I run crowd-lending analytics and automation platform, PeerCube <a href=""https://www.peercube.com"" rel=""nofollow"">https://www.peercube.com</a>, for retail lenders on Lending Club and Prosper. I also consult and advise hedge funds and institutional investors on the same platforms. In my experience, retail investors appear to be much more vigilant, perform much more due diligence and selective than the institutional investors. This is primarily due to &quot;own money&quot; versus &quot;other people&",
+2,10481510,comment,10480557.0,10480557.0,0,0,gibbitz,,,Who&,
+3,10481509,comment,10478940.0,10480336.0,0,0,Terr_,,,Ultimately everything&,
+4,10481508,comment,10475087.0,10478779.0,0,0,TheCoelacanth,,,"The article says that the vote only concerned the salaries of the six directors who are not employed by Facebook in some other capacity, so Zuckerberg wasn&",
+5,10481507,story,,,162,26,striking,Bayesian ranking of items with up and downvotes or 5 star ratings,http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html,,1446256528.0
+6,10481506,comment,10478940.0,10481242.0,0,0,jschwartzi,,,He also wasn&,
+7,10481505,comment,10479340.0,10479340.0,0,0,transfire,,,Now open source AmigaOS 4 and we will be getting somewhere.,1446256371.0
+8,10481504,comment,10480383.0,10481354.0,0,0,nbadg,,,"That really depends on your perspective. I personally think that using wealth as a proxy for... well, really for anything other than wealth, but in this context risk assessment capability and fiscal planning ability, is terrible public policy. If you&",
+9,10481503,comment,10478558.0,10480170.0,0,0,ced,,,"Have you tried Julia? Optimized Fortran (esp. on specialized hardware) would still beat it no question, but IMO Julia is a better value proposition for Fortran/C programmers than it is for Python/Matlab programmers at the moment.",1446256357.0
+10,10481501,story,,,3,0,tdurden,Scientists design full-scale architecture for quantum computer in silicon,http://phys.org/news/2015-10-scientists-full-scale-architecture-quantum-silicon.html,,1446256264.0
+11,10481500,comment,10478558.0,10481372.0,0,0,hawkice,,,"Honestly, I have spoken to and worked with some of these engineers, and if they&",
+12,10481499,comment,10474206.0,10477224.0,0,0,geofft,,,Apps have direct access to the entire kernel system call interface. They don&,
+13,10481498,comment,10479620.0,10479620.0,0,0,Omnipresent,,,off topic. I am a step behind the OP. I am trying to get into the role that the OP describes he is in for the last 3 years. What would be some ways to move into big data and BI other than quitting my current job that doesn&,
+14,10481497,comment,10478248.0,10478248.0,0,0,theoh,,,"<a href=""http://writing.upenn.edu/~afilreis/88/wcw-machine.html"" rel=""nofollow"">http://writing.upenn.edu/~afilreis/88/wcw-machine.html</a><p>William Carlos Williams<p>On poems as machines made out of words<p>&quot;To make two bold statements: There&",
+15,10481496,story,,,7,0,diegopoza,Introduction to JSON Web Tokens,http://jwt.io/introduction/,,1446256051.0
+16,10481495,comment,10476942.0,10476942.0,0,0,hex13,,,autocompletion is buggy:\nI wrote:<p>var fs = require(&,
+17,10481494,comment,10474206.0,10476163.0,0,0,geofft,,,So my current VPS is a non-virtual Kimsufi box for which I&,
+18,10481493,comment,10480986.0,10481321.0,0,0,calinet6,,,"Ha ha, very funny (California native here, been living in Boston for 8 years—it&",
+19,10481492,comment,10480390.0,10480911.0,0,0,ced,,,"How does that provide value?<p>I have no personal experience in this, but I&",
+20,10481491,comment,10481437.0,10481437.0,0,0,Amir6,,,Great project! Is this going to be a web app or android app?,1446255954.0
+21,10481490,comment,10481121.0,10481487.0,0,0,derefr,,,You actually can be prescribed Methamphetamine HCl—under the trade-name &quot;Desoxyn&quot;—as a last resort if the regular amphetamines aren&,
+22,10481489,comment,10477721.0,10480191.0,0,0,erikpukinskis,,,"It will essentially be a war between stupidity, profiteering, computer science nerds installing cryptographically secure jails, and people in the chat trying to make persuasive arguments that yes, in fact, this is the correct command to move on to the next step.<p>Hopefully people learn some tactics which might be applied in similar situations in their own lives.",1446255847.0
+23,10481487,comment,10481121.0,10481409.0,0,0,brookside,,,not exactly - they are amphetamine tablets.,1446255774.0
+24,10481486,comment,10471722.0,10474318.0,0,0,1123581321,,,"For further northwest, Gail Borden in Elgin and the Schaumburg library (forget the name, but it&",
+25,10481485,comment,10480702.0,10480702.0,0,0,WildUtah,,,"28 USC §1400 (b), the patent venue statute is designed to prevent places like East Texas from running national tech policy and to protect small companies from predation by troll megacorps.<p>&quot;Any civil action for patent infringement may be brought in the judicial district where the defendant resides, or where the defendant has committed acts of infringement and has a regular and established place of business.&quot;<p>The CAFC (the patent appeals court) judicially abolished the statute in its VE Holdings decision so that patent lawyers would get richer and more powerful. That&",
+26,10481483,story,,,7,20,lumenwrites,Ask HN: Can you share your blog? What is your best article?,,"Hi! I would like to read blogs written by people from HN. Can you share your blog, and the best stuff you have written?",1446255617.0
+27,10481482,story,,,3,0,kposehn,Inside the CIA Red Cell,http://foreignpolicy.com/2015/10/30/inside-the-cia-red-cell-micah-zenko-red-team-intelligence/?utm_content=buffer4f09e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer,,1446255591.0
+28,10481481,comment,10477870.0,10480507.0,0,0,selimthegrim,,,"Hi there, Mike! Care to expound on any solutions to make Tech more industry oriented? Are there things you&",
+29,10481480,comment,10479620.0,10481031.0,0,0,ugenetics,,,"That is correct. English is not my first language.<p>Just curious, since you found out from my writing style what particular sentence stood out as odd to you.<p>Do you know any resources to assimilate to American English in verbal and written cases ?",1446255580.0
+30,10481479,comment,10481316.0,10481462.0,0,0,gballan,,,Thanks! Appreciate the support.,1446255510.0
+31,10481478,comment,10478859.0,10479960.0,0,0,jschwartzi,,,I can&,
+32,10481477,comment,10476696.0,10481113.0,0,0,leohutson,,,"I agree that to do it properly requires driver and hardware support.<p>However, it&",
+33,10481476,comment,10478823.0,10481061.0,0,0,gnaritas,,,"Of course, that&",
+34,10481475,comment,10481121.0,10481409.0,0,0,EGreg,,,What does that make psychiatrists?,1446255420.0
+35,10481474,comment,10475691.0,10475691.0,0,0,fallinghawks,,,"I recommend _Eagle Dreams_ by Stephen Bodio. Bodio, an American author of books on hunting, fishing, and falconry, documented his fulfillment of a lifelong dream to visit Mongolia, live with the eagle hunters, and hunt with them.<p><a href=""http://www.amazon.com/Eagle-Dreams-Searching-Legends-Mongolia/dp/1629144797"" rel=""nofollow"">http://www.amazon.com/Eagle-Dreams-Searching-Legends-Mongoli...</a><p>Steve&",
+36,10481473,comment,10479927.0,10481086.0,0,0,Retric,,,"That gets into the fixed pie fallicy, if I buy your house and you buy my house we can have an economic transaction where both sides benifit and no resources are lost.<p>In the watch example it&",
+37,10481472,comment,10476081.0,10479702.0,0,0,eridius,,,"> Actually since they know your IP address ,it&",
+38,10481471,story,,,2,0,dumindunuwan,Horror background noise generator for Halloween,http://horrorli.fps.hu/,,1446255296.0
+39,10481470,story,,,1,0,curtis,TBM Bertha repair update,https://www.youtube.com/watch?v=SzazO7jj9cA,,1446255271.0
+40,10481469,story,,,1,0,ThePhysicist,Ice-Nine,https://en.wikipedia.org/wiki/Ice-nine,,1446255251.0
+41,10481468,comment,10478859.0,10479883.0,0,0,eridius,,,Yeah that&,
+42,10481467,comment,10476490.0,10480238.0,0,0,eridius,,,I just need to find the time!,1446255227.0
+43,10481466,comment,10478970.0,10481209.0,0,0,Sfi81,,,"Sure... but Tarsnap is basically Colin, serving a very niche clientele and unlikely to be worth a few billions. Almost every tool discussed in the article is targeting mass market where such considerations become important at some point.",1446255163.0
+44,10481465,comment,10480383.0,10481393.0,0,0,zrail,,,"People are terrible at assessing risk, especially when it&",
+45,10481464,comment,10478940.0,10478940.0,0,0,MichaelGG,,,Why was he in such a prison? Other white collar offenders seem to end up in much nicer facilities. &quot;Similar to a Holiday Inn&quot; is how I&,
+46,10481463,comment,10476490.0,10480611.0,0,0,codygman,,,"> I can be more specific if needed.<p>Please do! Can you give some specific examples, preferably in order of those with the most effect on performance.",1446255149.0
+47,10481462,comment,10481316.0,10481316.0,0,0,sotojuan,,,This is absolutely awesome.,1446255118.0
+48,10481461,comment,10478558.0,10481372.0,0,0,netheril96,,,Automated resume scanner would do that.,1446255086.0
+49,10481460,comment,10477485.0,10481122.0,0,0,Jedd,,,"<p><pre><code>  > Indeed, Windows 10 is &quot;Windows as a Service&quot;\n</code></pre>\nNot quite sure precisely what you&",
+50,10481459,comment,10481316.0,10481451.0,0,0,mvclark,,,Developed a demo scripting tool ourselves.  We plan to make it available for anyone to script their blab demos.<p>Here&,
+51,10481458,comment,10478859.0,10481325.0,0,0,blackguardx,,,"Yes, people realize that. Usually people must conform to societal norms which require one to do things at a certain time, which may not be synced with the natural time.",1446254928.0
+52,10481457,comment,10472538.0,10473272.0,0,0,pbreit,,,"Well, Gobble&",
+53,10481456,comment,10479904.0,10481115.0,0,0,domador,,,"Yes, the long, narrow font Wired now uses for headlines is hard to read and pretty ugly.  At least it&",
+54,10481455,story,,,1,0,dean,HTML5 on the Rise: No Longer Ahead of Its Time,http://techcrunch.com/2015/10/28/html5-on-the-rise-no-longer-ahead-of-its-time/,,1446254886.0
+55,10481454,comment,10478970.0,10480674.0,0,0,paulddraper,,,What if something if really good at being a website?,1446254779.0
+56,10481453,comment,10481436.0,10481436.0,0,0,greenyoda,,,"<a href=""https://news.ycombinator.com/item?id=10479409"" rel=""nofollow"">https://news.ycombinator.com/item?id=10479409</a>",1446254778.0
+57,10481452,comment,10478859.0,10478859.0,0,0,ScottBurson,,,It&,
+58,10481451,comment,10481316.0,10481316.0,0,0,capex,,,Great work! what did you use to record the demos?,1446254729.0
+59,10481450,comment,10478745.0,10479450.0,0,0,Terr_,,,"Right, a (public) API is actually a <i>product</i>, just one that happens to be consumed by programmers. Starting one means implicitly committing to support the people who use it and grow it in a backwards-compatible manner even when your internal data representation goes in another direction.",1446254702.0
+60,10481449,comment,10480390.0,10481392.0,0,0,BWStearns,,,A previous post suggested that some challenges would be reasonably solved by replicating a local implementation of the order book.,1446254635.0
+61,10481448,comment,10481121.0,10481121.0,0,0,whyIndeed,,,"The rationalization, should one have trouble inventing imaginative justifications out of thin air, is that they&",
+62,10481447,comment,10478940.0,10481242.0,0,0,yarou,,,"Members of the Roman Imperial Legion were known to engage in serial rapes and murders in the lands they occupied.<p>There is a calling for this type of skill set, and the exact role is that of a soldier. As there haven&",
+63,10481446,comment,10479904.0,10481307.0,0,0,mschuster91,,,Once you have a list (which you already have if you&,
+64,10481445,comment,10480390.0,10481246.0,0,0,BWStearns,,,> And what other languages would you support?<p>It seems like it&,
+65,10481444,comment,10480390.0,10481259.0,0,0,gnaritas,,,"You cannot really separate the two. If you support electronic trading, no matter what artificial restrictions you put on speed, the first person to get his order in will win, they will always compete on latency.",1446254469.0
+66,10481443,story,,,1,0,doppp,Singapore’s Coolest Startup?,https://govinsider.asia/digital-gov/singapores-coolest-startup/,,1446254438.0
+67,10481442,comment,10480383.0,10481136.0,0,0,datashovel,,,I don&,
+68,10481441,comment,10478970.0,10481421.0,0,0,marssaxman,,,I&,
+69,10481440,comment,10478558.0,10478558.0,0,0,jamesmcn,,,Given that the Voyager probes are pushing the absolute edge of humanity&,
+70,10481439,comment,10477562.0,10478981.0,0,0,reagency,,,"Jaywalking law, including its ridiculous name , was pushed through by the auto lobby in a power grab for auto manufacturers.",1446254229.0
+71,10481438,comment,10477485.0,10477485.0,0,0,CyberDildonics,,,Thank god.  I don&,
+72,10481437,story,,,1,1,thatLondonBloke,"Weekend Hack project, Instagram+Tinder",https://github.com/edwinbosire/TinderGram,,1446254174.0
+73,10481435,comment,10480383.0,10481412.0,0,0,jsprogrammer,,,"It is an interesting point, but it does contradict your prior claim.<p>One problem I see is that an investor may actually be dealing with a lottery-like game without knowing. That is, a particular investment may have actual, calculable odds (would depend on the business model) that are as worse as the lottery model, but are, however, unknown (or even unknowable) to an investor.",1446254127.0
+74,10481434,comment,10478158.0,10481361.0,0,0,sqlacid,,,I&,
+75,10481433,comment,10481240.0,10481240.0,0,0,alsetmusic,,,"After landing a highly prestigious position at a company with a great reputation, I spent the first months thinking that every person I spoke to, worked with, or passed on my way to lunch knew I didn&",
+76,10481432,comment,10480383.0,10481416.0,0,0,drumdance,,,The SEC exists mainly to force companies to disclose relevant information about the business in a timely manner. Will this change help or hinder that?,1446253970.0
+77,10481431,comment,10477485.0,10480298.0,0,0,simoncion,,,"> This can occasionally be an issue for people unaware of the update schedule - I agree.<p>> A small learning curve of &quot;reset before turning off for the night on Tuesdays&quot; alleviates that problem...<p>No. The problem remains. This just time-shifts the problem.<p>In recent memory, I&",
+78,10481430,comment,10480390.0,10481239.0,0,0,kasey_junk,,,"Because hacker news is a tiny community in the larger tech world & insular besides?<p>Also Patrick has shown skill at marketing to the folks he wants to market to, so why not outsource it?",1446253932.0
+79,10481429,comment,10477562.0,10479604.0,0,0,dschiptsov,,,This is the basis of irony - to find the way out of Indian traffic deadlock one has to have something more than a a* search algorithm.),1446253839.0
+80,10481428,comment,10479340.0,10479611.0,0,0,mappu,,,"A github monoculture is equally worrying, though.",1446253836.0
+81,10481427,comment,10480383.0,10481342.0,0,0,7Figures2Commas,,,"> The main problem I have with the &quot;old rules&quot; of investing is that wealth is used as a proxy for sophistication.<p>I think there are strong arguments for revisiting the accredited investor criteria, but you&",
+82,10481426,comment,10478940.0,10481211.0,0,0,AnkhMorporkian,,,"I absolutely agree with the idea that prisons would do almost anything within their power to prevent recidivism if their funding was tied to it, but I just strongly disagree with the idea that they&",
+83,10481425,comment,10480390.0,10480911.0,0,0,hkmurakami,,,"Cliff Asness on how HFT has benefited retail investors.<p><i>How HFT has changed the allocation of the pie between various market professionals is hard to say. But there has been one unambiguous winner, the retail investors who trade for themselves. Their small orders are a perfect match for today&",
+84,10481424,comment,10477965.0,10477965.0,0,0,MichaelGG,,,Isn&,
+85,10481423,comment,10447890.0,10475710.0,0,0,mannykannot,,,"I came back to edit this (but I am too late) because I think I am being unnecessarily confrontational. Here is how I would reply today:<p>I get your point that scientists sometimes do things that can be described as philosophy in the broad sense, but generally, I do not think they would be able to do that if they had been educated in academic philosophy. I believe Bohr himself falls into this category. It would be more accurate to say that philosophy is dependent on science in these matters.<p>I also get the point that scientists use the scientific method that was developed by people who can be called philosophers, but they developed science through doing it, and that is not a dependent relationship even if you call what they did philosophy.<p>With regard to examples, I am sticking with my position that they are the only argument that really counts (which is why I suggested it to pierrec), but I don’t think there are none: for example, I think Daniel Dennett has made many valuable contributions to cognitive science, and made a number of trenchant observations with regard to the expectations of computational neurologists.",1446253755.0
+86,10481422,comment,10474161.0,10475767.0,0,0,throwitup,,,"I realized that National Socialism, the iconoclastic world-view of Adolf Hitler, was the doctrine of scientific, racial idealism, actually, a new &",
+87,10481421,comment,10478970.0,10481371.0,0,0,drumdance,,,"Wat. You want to go back to pre-1995, the Netscape IPO?",1446253708.0
+88,10481420,comment,10480383.0,10481393.0,0,0,jsprogrammer,,,"Exactly, the post reads as investor-class propaganda.<p>At the moment, the only logical explanation I can think of for posting such a piece is that you wish to reduce competition for equity by limiting the number of participants in the market. If you can limit the supply of cash, those with the cash can make many demands on those without. tptacek advocates for a limited supply of cash, carefully metered out by the cash-class, so as to preserve their position at the spigot (don&",
+89,10481419,comment,10480972.0,10481245.0,0,0,escherplex,,,If by &,
+90,10481418,story,,,3,0,fitzwatermellow,Provisions: cryptographic proof-of-solvency with strong privacy guarantees,https://freedom-to-tinker.com/blog/jbonneau/provisions-how-bitcoin-exchanges-can-prove-their-solvency/,,1446253670.0
+91,10481417,comment,10481316.0,10481338.0,0,0,mvclark,,,"Thanks very much!  Please let us know if you have any questions or feedback.  We have several new blab examples to share, too.<p>Martin and Gary - Blabr developers",1446253652.0
+92,10481416,comment,10480383.0,10481136.0,0,0,forrestthewoods,,,* Don&,
+93,10481415,comment,10478304.0,10481072.0,0,0,timclemans206,,,The dispatchers I observe use it focused on their primary screens and if something highlighted they saw out of the corner of their eye.,1446253608.0
+94,10481414,comment,10478248.0,10478248.0,0,0,dschiptsov,,,"It has very similar recursive process of clarification, refinement and simplification with the base case on what author thinks is &",
+95,10481413,story,,,2,0,oxplot,Imdb2json,https://github.com/oxplot/imdb2json,,1446253571.0
+96,10481412,comment,10480383.0,10481387.0,0,0,david927,,,"Yes, literally, that&",
+97,10481411,comment,10477870.0,10479940.0,0,0,jldugger,,,> Here&,
+98,10481410,comment,10480390.0,10480909.0,0,0,jon-wood,,,I adore that you&,
+99,10481409,comment,10481121.0,10481121.0,0,0,MichaelGG,,,"&quot;one count of conspiracy to distribute and possess with intent to distribute methamphetamine.&quot;<p>Should add &quot;without a license&quot;, because pharma companies sell millions of dollars of methamphetamine tablets a year.",1446253430.0
+100,10481408,story,,,2,0,vmorgulis,Hoist: a C++ library to debug across executions with “codeplaces”,http://hoist.hostilefork.com/,,1446253427.0
+101,10481407,comment,10477562.0,10478992.0,0,0,lotu,,,The robotic cars have faster reflexes but they aren&,
+102,10481406,comment,10478940.0,10480582.0,0,0,gherkin0,,,"> I vote if he commits any crime, he be sent to solitary confinement till he&",
+103,10481405,comment,10480390.0,10480390.0,0,0,EFruit,,,I&,
+104,10481404,comment,10478745.0,10481326.0,0,0,angersock,,,Thanks for getting JSON into a SHALL. :)<p>It&,

@@ -1,0 +1,84 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8123952,comment,8121737.0,8122540.0,12,0,userbinator,,,The fact that people think you shouldn&,
+1,8123951,comment,8123450.0,8123695.0,1,0,Igglyboo,,,I think the main thing is that even if you literally don&,
+2,8123950,comment,8119655.0,8122473.0,0,0,judk,,,> A world in which we import all our food from South America is almost certainly going to be one with higher GDP than one in which we subsidize farming in the U.S.<p>This isn&,
+3,8123949,comment,8123853.0,8123853.0,2,0,noonespecial,,,This seems to a positive function that religion provides for a lot of people. The ability to say &quot;I&,
+4,8123948,comment,8122995.0,8122995.0,0,0,joeevans,,,"Correction:<p>Virtual reality goggles and the Birdly apparatus made them think they could fly.<p>The copious references to Oculus make me think the Facebook PR team have swung into action, to try to bolster waning interest in Oculus after the disastrous sellout to Facebook.<p>I&",
+5,8123947,story,,,2,0,dan335,Dominus – Multiplayer browser strategy game made with Meteor. Game4 just started,http://dominusgame.net/,,
+6,8123946,comment,8123581.0,8123865.0,1,0,Retric,,,"I have seen plenty of useful code far worse than sorting such an array.  IMO, someone missing the &",
+7,8123945,comment,8123910.0,8123910.0,1,0,aresant,,,Makes perfect sense as a tertiary revenue model given the success of doge and bitcoin tipping.,1406951774.0
+8,8123944,comment,8123820.0,8123820.0,1,0,nartz,,,"Start by finding something you want to code. Then think about it for a few days, and let the pressure build up. Then one day, instead of turning on the tv or going to HN, remove distractions and commit to 10 minutes of coding with no distractions. If you&",
+9,8123943,comment,8121737.0,8122491.0,2,0,wffurr,,,You are justifying closed-source tools by using a closed-source tool to debug your closed-source tools?,1406951669.0
+10,8123942,comment,8123581.0,8123865.0,2,0,angersock,,,"Solution is just to have two indices into it leapfrogging as they find the next biggest one, right, and sum at the end if they&",
+11,8123941,story,,,1,0,bra-ket,The Life of a Typeahead Query,https://facebook.com/notes/facebook-engineering/the-life-of-a-typeahead-query/389105248919,,1406951568.0
+12,8123940,comment,8119655.0,8122286.0,1,0,judk,,,That description does not match what I see with &quot;reorganizations&quot; of bankrupt companies.<p>And assets being lootedby lawyers doesn&,
+13,8123939,comment,8123450.0,8123889.0,1,0,canistr,,,Been using gspread for a couple of months.  Love it.,1406951474.0
+14,8123938,comment,8117468.0,8118311.0,1,0,anurag,,,(I work on risk at Stripe.) Most of that list is bank legalese we&,
+15,8123937,comment,8114547.0,8121432.0,1,0,philwelch,,,A death sentence isn&,
+16,8123936,comment,8119655.0,8122336.0,2,0,judk,,,Also worth noting that big companies get unfair benefit of not paying VAT on internally created and consumed value. Greeks solve this problem by just not paying tax ;-),1406951352.0
+17,8123935,story,,,54,28,markmassie,Key Lime Pi,http://www.keylimepi.net,,1406951304.0
+18,8123934,comment,8123520.0,8123885.0,3,0,Karunamon,,,"Christ, it&",
+19,8123933,comment,8119655.0,8122292.0,1,0,judk,,,"Inefficient makework is a horrible form of welfare. The formerly employed should create new products/services to sell, or use their free time to organize and agitate for something like  guaranteed basic income paid by the wealth concentrators.",1406951250.0
+20,8123932,story,,,5,1,cdmckay,How to: DIY Startup Explainer Video for Under $300 (That Still Looks Pro),http://www.startupchile.org/how-to-diy-startup-explainer-video-for-under-300-that-still-looks-pro/,,1406951237.0
+21,8123931,comment,8120973.0,8122514.0,2,0,userbinator,,,"But what exactly is a &quot;link&quot;? If I write e.g. a piece of software that enables combining and running arbitrary code from any library, GPL or otherwise (think of something like rundll32 on Windows), and use that instead, via parameters that the user somehow has to supply in order to get the right libraries and symbols, does that also become GPL? I can thus use any GPL (or otherwise) library in the same way that Xcode uses GCC.<p>This and other &quot;how long is a piece of string&quot; type of issues is why I think licensing is overall a horrible ridiculous convoluted mess.",1406951187.0
+22,8123930,comment,8123450.0,8123919.0,2,0,ejr,,,"Thanks for writing this. Do you have plans to extend this to any locally stored spreadsheets? Ex: Excel, Calc (Libre and Open Office) and so on. I imagine even XML based documents would still present some vendor quirks to overcome.",1406951181.0
+23,8123929,comment,8123880.0,8123880.0,2,0,pags,,,I&,
+24,8123928,comment,8123512.0,8123512.0,4,0,alberth,,,A comparison of Linux & DragonflyBSD to FreeBSD [1]<p>I&,
+25,8123927,comment,8120085.0,8120085.0,1,0,abustamam,,,"Location: Sacramento, CA\n  Remote: Yes\n  Willing to relocate: Yes\n  Technologies: Rails, Git, HTML/CSS, troubleshooting, Node.js/NPM, Python, MATLAB, Javascript/jQuery, Heroku, AWS\n  Resume: upon request\n  Email: rasheed.bustamam@gmail.com",1406951064.0
+26,8123926,comment,8123436.0,8123814.0,2,0,eximius,,,mainly the finances. also you&,
+27,8123925,comment,8118696.0,8121009.0,2,0,evincarofautumn,,,"I am really interested to know why I would want such a thing. In years of programming, I have never needed a heterogeneous collection <i>except</i> in a dynamically typed language where I can’t express more precise types. My values are always related by some set of operations I want to perform on them.<p>In C++, for example, I might have a “vector<unique_ptr<GameObject>>” containing instances of various subclasses of “GameObject” such as “Player” or “Enemy”. “GameObject” has some virtual member functions such as “update()” and “render()”.<p>In Haskell I can do exactly the same thing with a “GameObject” type class containing the “update” and “render” methods, and implement “GameObject” for my “Player” and “Enemy” types.<p>In Python I do a dynamic check on every value in the collection, on every iteration, to see if “update” and “render” are present and callable. It just seems wasteful because you know that information ahead of time—a non–game object should never end up in that collection, so why waste brain power and computing power considering the possibility?<p>There must be some advantage I’m not seeing here.",1406950972.0
+28,8123924,comment,8123207.0,8123849.0,3,0,api,,,It&,
+29,8123922,comment,8123581.0,8123581.0,2,0,autarch,,,FizzBuzz is a reasonable way to find people who can&,
+30,8123921,comment,8084359.0,8084806.0,1,0,oafitupa,,,Why would I want to use any pc in the world? That makes no sense unless your work doesn&,
+31,8123920,comment,8123581.0,8123865.0,2,0,Blackthorn,,,I&,
+32,8123919,comment,8123450.0,8123450.0,22,0,Widdershin,,,"Hey folks, I&",
+33,8123918,comment,8123319.0,8123886.0,3,0,fiatmoney,,,"Why would they need to flush the water?  If they did, and it&",
+34,8123917,comment,8122979.0,8123660.0,1,0,perrylaj,,,The only way I see native making a comeback is if this Net Neutrality issue gets in the way.  Even in &,
+35,8123916,comment,8084359.0,8086273.0,1,0,oafitupa,,,"I asked why would you want to do it remotely, and you basically answered &quot;I do it remotely&quot;.",1406950555.0
+36,8123915,comment,8122979.0,8122981.0,3,0,perrylaj,,,"I do like Google+, but am not a regular user.  Might use it more if it had more activity since I like the way it encourages networking around ideas more than networking around who I already know.  I&",
+37,8123914,story,,,5,3,gbachik,Show HN: Instant Targeted Youtube Playlist – Try Searching A Band,http://neverendingvideos.com,,1406950400.0
+38,8123913,comment,8122419.0,8123318.0,1,0,Blackthorn,,,"Unfortunately, I do not. Even though I personally learned on one of the big boys, I&",
+39,8123912,comment,8122979.0,8123274.0,1,0,jmathai,,,That Everpix data was fascinating. They had one of the best products on the market. I felt if anyone was going to make it in the consumer space for a paid photo service it was going to be Everpix. You can never tell how the internals of a startup are looking.,1406950315.0
+40,8123911,comment,8117469.0,8120001.0,1,0,Spooky23,,,Beef used to be more expensive as compared to chicken. It&,
+41,8123909,comment,8120070.0,8120070.0,1,0,anne_marsan,,,"Atomic Object - Senior Developer - Detroit, MI (atomicobject.com)<p>The Right Fit\nWe don&",
+42,8123908,comment,8122979.0,8123206.0,1,0,jmathai,,,I&,
+43,8123907,comment,8123036.0,8123036.0,2,0,jaunkst,,,"The tetris song has been permently engraved in my mind since childhood. The only one out of place is the Nokia phone sounds,  we all know they will still exist long after humanity&",
+44,8123906,story,,,68,34,aaronbrethorst,"Reanimating Bertha, a Mechanical Behemoth Slumbering Under Seattle",http://www.nytimes.com/2014/08/02/us/reanimating-bertha-the-mechanical-behemoth-stuck-under-seattle.html,,1406950079.0
+45,8123905,comment,8122138.0,8123421.0,2,0,foobarqux,,,Why don&,
+46,8123904,comment,8123152.0,8123804.0,1,0,dredmorbius,,,Chromium w/ ScriptSafe installed:  no text until I allow the primary domain&,
+47,8123903,comment,8122955.0,8123153.0,1,0,waps,,,I would argue that traffic law provides the answer. If you can&,
+48,8123902,comment,8120975.0,8123056.0,1,0,pyre,,,Those fans want to see cross-overs. They want to see Spiderman on The Avengers. They want to see the Hulk duke it out with Wolverine.<p>The likelihood of this happening when multiple studios control the characters in question is slim to none.,1406949939.0
+49,8123901,comment,8122138.0,8123702.0,1,0,foobarqux,,,"Specialist medicine beats finance in many ways, particularly lifestyle. (Autonomy, work hours, vacation).<p>I don&",
+50,8123899,story,,,4,0,eliajf,Apple Doesn't Have To Do Jack S***,http://eliainsider.com/2014/08/01/apple-doesnt-have-to-do-jack-shit/,,1406949745.0
+51,8123898,story,,,2,1,dredmorbius,New Report: Snowden Revelations Hurt U.S. Companies,http://blogs.wsj.com/digits/2014/07/30/new-report-snowden-revelations-hurt-u-s-companies/,,1406949742.0
+52,8123897,comment,8121632.0,8121632.0,3,0,Johnythree,,,"Any device which modulates the surrounding radio waves has the possibility of causing radio interference, so it will need licensing and type approval. And something which generates wideband crud will never be approved.<p>This thing is not passive. It is receiving, modulating, and re-transmitting broadband signals.<p>The &quot;rusty bolt&quot; form of radio interference is one of the most common that interference investigators have to deal with.",1406949725.0
+53,8123896,comment,8123820.0,8123820.0,1,0,bemmu,,,Make just some tiny edit or write one line of code. Tell yourself that you&,
+54,8123895,comment,8114879.0,8114879.0,2,0,Renaud,,,"A related story, the amazing Dr. Temple Grandin[1] whose life was documented in a BBC Horizon documentary a few years ago: &quot;The woman who thinks like a cow&quot;[2].<p>[1]:<a href=""http://en.wikipedia.org/wiki/Temple_Grandin"" rel=""nofollow"">http://en.wikipedia.org/wiki/Temple_Grandin</a><p>[2]:<a href=""https://www.youtube.com/watch?v=A6aClN6VsTE"" rel=""nofollow"">https://www.youtube.com/watch?v=A6aClN6VsTE</a>",1406949686.0
+55,8123894,comment,8120004.0,8123718.0,1,0,joezydeco,,,Target has occasionally floated a barge off of Manhattan to let the locals shop during the holidays.  More of a P/R thing than a profit center.,1406949571.0
+56,8123892,comment,8122995.0,8123603.0,1,0,TD-Linux,,,"Sadly, the license of the library used to talk to the Oculus Rift (libOVR) is also under very restrictive terms - you can&",
+57,8123891,comment,8120973.0,8122701.0,3,0,Danieru,,,"True, in the case of both the Wii and WiiU they are mostly higher clocked Gamecubes. This is why Dolphin started as a Gamecube emulator and added Wii support. About a year ago I talked with one of the Dolphin developers and he anticipate extending to the WiiU once we have the CPU headroom.",1406949509.0
+58,8123890,comment,8123730.0,8123730.0,0,0,exratione,,,"Too right. We live in a world of suicidal barbarians [0] walking in lockstep to suffer and die on the same schedule as their parents, yet so afraid of being old that they will not think of it, even to do something about it. Ask the man in the street if he wants people not to suffer, not to grow old, and he will likely reject the concept. [1]<p>Scientists are telling the world quite openly, and have been for more than a decade, that we can treat aging. We can work to slow it [2], to reverse it [3], to control it through medicine in just the same way as we have controlled infectious disease in the past. All it takes is support and money. But unlike cancer research, people just don&",
+59,8123889,comment,8123450.0,8123450.0,4,0,timf,,,"This is a good library for interacting with Google spreadsheets, I&",
+60,8123888,comment,8121632.0,8123266.0,2,0,marcosscriven,,,"I recall as a kid my mind being blown when I realised you could get enough energy out of &quot;thin air&quot; to drive a little earphone, with nothing more than a length of wire, a finished toilet paper tube, and a crystal/diode.",1406949249.0
+61,8123887,comment,8123520.0,8123861.0,3,0,TD-Linux,,,"Right, they switched over to Persona, which is far better. Unfortunately the old hashes were still left in the DB.",1406949235.0
+62,8123886,comment,8123319.0,8123640.0,1,0,paulyg,,,They are also glazing over the fact that the system uses millions of gallons of water per year.,1406949150.0
+63,8123884,comment,8123240.0,8123240.0,2,0,analog31,,,Nice write-up. Thanks!<p>I wonder if the algorithm can adapt to recordings where the tempo isn&,
+64,8123883,comment,8121632.0,8123541.0,1,0,diziet,,,I wonder if we shall sooner or later have locators~,1406949128.0
+65,8123881,comment,8100601.0,8100601.0,1,0,ginnyd,,,"Hello, Ginny here, I&",
+66,8123880,story,,,19,26,callmeed,Ask HN: Does Node dominate at new startups?,,"I had a long conversation with an engineering manager at a public tech company. He told me, basically, <i>&quot;Ruby is dying. Most new, funded startups in SF/SV are building in NodeJS if it&",
+67,8123879,comment,8119358.0,8121426.0,1,0,meowface,,,"Your interpretation is not right. Al Qaeda is not all orchestrated by one mastermind, but it is a consortium of related Islamist extremist groups. It&",
+68,8123878,comment,8114879.0,8122886.0,3,0,perrylaj,,,Whether autism is a &,
+69,8123877,comment,8122979.0,8122979.0,31,0,Andrenid,,,I&,
+70,8123876,story,,,76,18,ykl,Shadertoy adds procedural GPU-generated music in the browser,https://www.shadertoy.com/view/ldXXDj,,1406948993.0
+71,8123875,story,,,5,1,puyask,Send an anonymous text message to your friends,http://duckducksheep.com/?hn,,1406948977.0
+72,8123874,comment,8119655.0,8119655.0,1,0,thomasmarriott,,,Scale is underrated. Cumulative advantage.,1406948959.0
+73,8123872,comment,8117100.0,8118738.0,1,0,analog31,,,I&,
+74,8123871,comment,8115817.0,8119084.0,1,0,JungleGymSam,,,I did a really poor job of explaining myself. Really poor.<p>I meant the master password. Mitro&,
+75,8123870,comment,8122979.0,8123097.0,3,0,abraham,,,Maybe for your use case. The only thing I do with photos (other than back them up online) is share them with other people.,1406948844.0
+76,8123869,story,,,2,0,applecore,"Links Shared by the Top 1,000 Investors on AngelList",http://nuzzel.com/abrams/angellist,,1406948804.0
+77,8123868,comment,8117100.0,8121940.0,1,0,analog31,,,I suppose that&,
+78,8123867,comment,8120085.0,8120085.0,1,0,stephhippo,,,"Location: Cleveland, OH\nRemote: Yes\nWilling to relocate: Yes\nTechnologies: Ruby on Rails, Cucumber, MySQL, HTML/CSS, git, Jenkins\nResume: upon request\nEmail: stephaniehippo@gmail.com<p>Interested in full-stack dev or continuing in QA for a data sensitive company. Prefer the healthcare tech sector, but willing to listen to other companies who believe their work is impactful.",1406948780.0
+79,8123866,comment,8121737.0,8121805.0,1,0,overgard,,,I don&,
+80,8123865,comment,8123581.0,8123581.0,1,0,tempestn,,,"I tend to ask what I think is a rather simpler question in most interviews: find the sum of the two largest (most positive) numbers in an array of arbitrary integers. Consider the efficiency of your solution for very large arrays.<p>It is amazing how many seemingly knowledgeable, intelligent people cannot do this. And the vast majority of those who do, do it by sorting the array, efficiency be damned.<p>Actually, I&",
+81,8123864,comment,8121547.0,8121547.0,2,0,brudgers,,,I recently picked up <i>Poetry of the First World War: an Anthology</i>.<p>I don&,
+82,8123861,comment,8123520.0,8123817.0,1,0,meowface,,,Not to mention it&,

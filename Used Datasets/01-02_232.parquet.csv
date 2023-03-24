@@ -1,0 +1,95 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10635487,story,,,19,15,lanyusea,DJI to launch crop-spraying drone in effort to expand into farming sector,http://www.wsj.com/articles/chinese-drone-maker-plows-into-agriculture-1448573490,,1448589557.0
+1,10635486,story,,,1,0,chei0aiV,Sources: We were pressured to weaken the mobile security in the 80's,http://www.aftenposten.no/nyheter/uriks/Sources-We-were-pressured-to-weaken-the-mobile-security-in-the-80s-7413285.html,,1448589504.0
+2,10635485,story,,,86,38,vskarine,The Canadian who wants to dethrone Facebook,http://www.theglobeandmail.com/report-on-business/rob-magazine/the-canadian-who-wants-to-dethrone-facebook/article27455324/,,1448589499.0
+3,10635484,comment,10633032.0,10633390.0,0,0,JunkDNA,,,"One place where I ran into this was when I was building  an ETL framework in Scala. The scenario was that I wanted to be able to move data from one database system to another and not have the end user of the DSL have to care about the types. The use case was essentially that you should be able to show up to an arbitrary database, run a query, and then pump that output somewhere else (e.g. another DB, flat file, transformation function, etc...)<p>I went around in circles and ultimately concluded no amount of type inference or other things in Scala&",
+4,10635483,story,,,1,0,Jerry2,'Material universe' yields surprising new particle,http://phys.org/news/2015-11-material-universe-yields-particle.html,,1448589432.0
+5,10635481,comment,10635212.0,10635297.0,0,0,random_rr,,,Maybe they work with Androids or enjoy coding for Androids or don&,
+6,10635480,comment,10633599.0,10633599.0,0,0,hudell,,,Any app that shows me a notification that isn&,
+7,10635479,comment,10633576.0,10635231.0,0,0,shard,,,You mean like blink the Morse code for &quot;torture&quot; like what Jeremiah Denton did? That would be classic.,1448589128.0
+8,10635478,comment,10632809.0,10634301.0,0,0,dweekly,,,Yes indeed! If you&,
+9,10635477,comment,10634241.0,10635207.0,0,0,Pyxl101,,,"Yes but what if you store it after removing the oxygen? And just the oxygen. It might last a lot longer. Then put it back at the end and taste it.<p>Industrial companies have a lot of resources and techniques available to them that the typical person making juice in their home does not. For example, what if they pasteurize the juice? Then it might also last longer, etc.<p>Some people react negatively to these sorts of scientific techniques out of what seems to be the naturalistic fallacy, a sort of (mistaken) belief that &quot;natural things&quot; (whatever that means) are intrinsically better.",1448589062.0
+10,10635475,comment,10633411.0,10635061.0,0,0,RDeckard,,,What about Ukrainians?,1448588989.0
+11,10635474,story,,,1,0,pthreads,The Physics of the Macy’s Thanksgiving Day Parade Balloons,http://www.wired.com/2015/11/the-physics-of-the-giant-macys-thanksgiving-day-parade-balloons/,,1448588924.0
+12,10635473,comment,10633411.0,10635167.0,0,0,RDeckard,,,"Probably because it works, they have been using it in the past, and there is no reason to move off of it.",1448588914.0
+13,10635472,comment,10634053.0,10635230.0,0,0,sk5t,,,"A suit is all about fit, and it&",
+14,10635471,comment,10620238.0,10627415.0,0,0,err4nt,,,I do a lot of testing on mobile and this hasn&,
+15,10635470,comment,10635212.0,10635354.0,0,0,mynameisvlad,,,Cineplex in Canada does trivia through phones before the movie starts. You connect to their wifi network and answer the questions in their app and the winner gets some sort of prize at the end. They show the leaderboard and such in between questions.,1448588868.0
+16,10635469,comment,10634241.0,10635179.0,0,0,rdtsc,,,>  But I&,
+17,10635468,comment,10633576.0,10635224.0,0,0,forrestthewoods,,,Most people are pretty dumb so what most people think isn&,
+18,10635467,comment,10634241.0,10635042.0,0,0,wahnfrieden,,,"For me, it just doesn&",
+19,10635466,comment,10634835.0,10634835.0,0,0,sago,,,"I think it is utterly disgusting what the media do to manufacture outrage. They ought to apologise unreservedly. But what can we do about it? A lot! We, as consumers with power, ought to boycott any of them that don&",
+20,10635465,comment,10634418.0,10634971.0,0,0,wstrange,,,"I think that CM tools are complimentary to Docker (TV did not kill radio..), but at least some of your points do have emerging solutions.<p>For example, ssh keys:  Kubernetes has a concept of &quot;secret volumes&quot; that are used to distribute secrets. i.e. don&",
+21,10635464,comment,10632504.0,10635262.0,0,0,pvaldes,,,The spanish common word for the animal is &,
+22,10635463,story,,,21,17,dnetesn,Are Domestic and Wild Salmon Still the Same Species?,http://nautil.us/issue/30/identity/is-farmed-salmon-really-salmon,,1448588628.0
+23,10635462,comment,10634625.0,10635426.0,0,0,TheOtherHobbes,,,I&,
+24,10635461,story,,,1,0,striking,Stalkers and Abuse,http://garry.tv/2015/11/10/stalkers-and-abuse-part-1/,,1448588516.0
+25,10635460,story,,,1,0,koopajah,Get Builds Mobile Apps and Handles Deliveries for Local Shops,http://techcrunch.com/2015/11/26/get-builds-mobile-apps-and-handles-deliveries-for-local-shops/,,1448588501.0
+26,10635459,comment,10634241.0,10634937.0,0,0,pyre,,,> If you&,
+27,10635458,story,,,4,0,namidark,Understanding ElasticSearch Performance,https://joshrendek.com/2015/11/understanding-elasticsearch-performance/,,1448588344.0
+28,10635457,comment,10634774.0,10635232.0,0,0,tomcam,,,"I worked with Tim Paterson (creator of MS-DOS) when I worked on the Visual Basic team at Microsoft. When he worked on code generation he just read hex dumps, not disassembly, because it was faster for him.",1448588320.0
+29,10635456,comment,10634625.0,10635426.0,0,0,vegabook,,,hmmm. I thought I&,
+30,10635454,comment,10630674.0,10635425.0,0,0,andrei512,,,Thank you! But I&,
+31,10635453,comment,10633599.0,10633599.0,0,0,MistahKoala,,,Lay user here. I feel a rare sense of violation whenever I find an unexpected push notification on my Android device. Perhaps it&,
+32,10635452,comment,10635322.0,10635322.0,0,0,iokevins,,,"So-called gold aerogel: 98 parts air, two parts gold and milk protein fibrils. A novel drying technique, using carbon dioxide, produces the homogeneous gold structure. Advantages: lighter weight, smaller material requirement, and porous structure.",1448588232.0
+33,10635451,story,,,14,0,amitry,How Hypernetes Brings Multi-Tenancy to Microservice Architectures,http://thenewstack.io/hypernetes-brings-multi-tenancy-microservices/,,1448588152.0
+34,10635450,comment,10635237.0,10635237.0,0,0,HiLo,,,"OK, so, it actually says:<p>&quot;Basel-based BIS&",
+35,10635449,comment,10634241.0,10635253.0,0,0,branchless,,,Berlin has low rent compared to most cities. I think they also introduced rent caps.,1448588063.0
+36,10635448,comment,10632462.0,10635171.0,0,0,Canada,,,There&,
+37,10635447,comment,10634835.0,10634835.0,0,0,chatman,,,Noam Chomsky&,
+38,10635446,comment,10633220.0,10633220.0,0,0,orionblastar,,,"The problem is this, he is trying to solve problems with the same thinking that went to build Microsoft and make him a billionaire. These problems have to be solved with a different type of thinking than the ones that caused rivals to Microsoft to go out of business and cause people to lose their jobs and go into poverty.<p>Public education has a problem where most students are poor and suffer emotional and psychological issues that make it hard to study and focus on work. Many have broken homes and dysfunctional families. You can&",
+39,10635445,comment,10634241.0,10635246.0,0,0,andybak,,,Ph&,
+40,10635444,story,,,5,0,adventured,Glenn Greenwald: Why the CIA Is Smearing Edward Snowden After the Paris Attacks,http://www.latimes.com/opinion/op-ed/la-oe-1126-greenwald-snowden-paris-encryption-20151126-story.html,,1448587857.0
+41,10635443,comment,10634241.0,10634241.0,0,0,Pxtl,,,"Frustrating that we either give up on natural foods or on the economies of scale and industrialization.<p>With two incomes and 3 kids, my family has no time for homemade organic fermented (!?) Lemonade.",1448587776.0
+42,10635442,comment,10630996.0,10631490.0,0,0,CaptSpify,,,I know I&,
+43,10635441,comment,10630207.0,10630207.0,0,0,jacquesm,,,I absolutely love Jason&,
+44,10635440,comment,10633017.0,10634325.0,0,0,coderdude,,,You can go fabless for a few million. The cost barrier isn&,
+45,10635439,comment,10631668.0,10635219.0,0,0,ac2u,,,It&,
+46,10635437,comment,10634053.0,10634599.0,0,0,lostcolony,,,"The US has B Corporations - <a href=""https://en.wikipedia.org/wiki/Benefit_corporation"" rel=""nofollow"">https://en.wikipedia.org/wiki/Benefit_corporation</a><p>Probably the most famous company running as a B corp at present would be <a href=""http://www.bcorporation.net/community/ben-and-jerrys"" rel=""nofollow"">http://www.bcorporation.net/community/ben-and-jerrys</a>",1448587546.0
+47,10635436,comment,10634241.0,10634241.0,0,0,Pxtl,,,So is the frozen concentrate better or worse?,1448587540.0
+48,10635435,story,,,4,0,sohkamyung,Steven Bellovin: Why I Wrote “Thinking Security”,https://www.cs.columbia.edu/~smb/blog/2015-11/2015-11-24.html,,1448587416.0
+49,10635434,comment,10632809.0,10632809.0,0,0,Overtonwindow,,,I am the Director of Government Relations for a hospital. I enjoy it very much. My favorite job was being a stay-at-home dad.,1448587404.0
+50,10635433,comment,10635292.0,10635292.0,0,0,gjmulhol,,,Set a performance goal. Don&,
+51,10635431,comment,10634918.0,10635327.0,0,0,brudgers,,,"Not directly a solution, but there is GNU Forth for Android.<p><a href=""https://play.google.com/store/apps/details?id=gnu.gforth&hl=e"" rel=""nofollow"">https://play.google.com/store/apps/details?id=gnu.gforth&hl=...</a>",1448587337.0
+52,10635430,comment,10631668.0,10634410.0,0,0,simonswain,,,"I set mine up with a camera to do timelapse.<p><a href=""https://simonswain.com/day"" rel=""nofollow"">https://simonswain.com/day</a>",1448587280.0
+53,10635429,comment,10634625.0,10634625.0,0,0,HiLo,,,"So before too much talk about the normal blockchain hype starts going, I think this is something that would actually be a phenomenal disruptive change:<p><a href=""https://bitcoinmagazine.com/articles/fedcoin-rising-1424312468"" rel=""nofollow"">https://bitcoinmagazine.com/articles/fedcoin-rising-14243124...</a><p>Allowing the central banks to not be constrained by the ZLB would allow significantly better economic recoveries and would allow the economy to grow despite our poor (or total lack of) fiscal spending.",1448587275.0
+54,10635428,comment,10634053.0,10634332.0,0,0,fnordfnordfnord,,,MTailor or M-Tailor? Looks like y&,
+55,10635427,comment,10633105.0,10634808.0,0,0,karanrajpal,,,The difference is that you can directly choose a specific app to share stuff with. Thanks for trying!,1448587173.0
+56,10635426,comment,10634625.0,10635350.0,0,0,HiLo,,,Somebody&,
+57,10635425,comment,10630674.0,10630674.0,0,0,lifeisstillgood,,,I am wary of the &quot;gosh look how cheap we can hire developers in $latest_broken_country_with_maths_education&quot;<p>Managing teams across distance and cultures is <i>hard</i> and requires commitment - commitment that seems to vanish when hard things happen - remember when hiring programmers in Ukraine was a no-brainer?  How many development teams got pink-slipped and how many got airlifted out with their families? Which one is showing the commitment ?<p>I applaud andrei512 for his entrepreneurial edge and desire to bring some of the world&,
+58,10635424,comment,10635292.0,10635292.0,0,0,throwaway_ghj,,,"Nike+ app. Use the built in coach (training programme). Half-marathon training, thoroughly recommended.<p>Don&",
+59,10635423,story,,,14,1,espeed,"Details on Gremlin's new ""Quantum Walks"" graph algorithm [pdf]",http://arxiv.org/abs/1511.06278,,1448587054.0
+60,10635422,comment,10634835.0,10634835.0,0,0,Maarten88,,,"Another angle to this is that there are agencies, who manipulate media and stir up controversies like these just to get attention for their clients&",
+61,10635421,comment,10632504.0,10634609.0,0,0,briHass,,,"Interesting cite, because Dr. McDougall would be a perfect example of someone who lets his dogmatism influence his research. Even from Wikipedia:<p>&quot;Reviewing McDougall&",
+62,10635420,story,,,20,6,kylefarwell,Show HN: Tokumei – Anonymous microblogging,http://tokumei.co/,,1448586910.0
+63,10635419,comment,10635212.0,10635297.0,0,0,throwaway_ghj,,,Yeah but then you&,
+64,10635417,comment,10634418.0,10635310.0,0,0,jamesblonde,,,"Agreed. I like to use Chef Solo, orchestrated by Karamel, to spin up stateful services (like databases, Hadoop, etc).<p>I think the big win if we get there will be using Docker to provide images and portability, chef (or puppet) for configuration, and something like Karamel to orchestrate and provide concise cluster definitions with GitHub as the artifact server.",1448586826.0
+65,10635416,comment,10635098.0,10635098.0,0,0,tnecniv,,,"I think that Slack and IRC occupy separate spaces. One is optimal for random strangers on the internet, meeting, talking, and departing ad hoc. The other is designed for collaborative teams with a low turnover rate.<p>I&",
+66,10635415,story,,,1,0,oleavr,How to trace and modify closed-source code,https://www.youtube.com/watch?v=3lo1Y2oKkE4,,1448586776.0
+67,10635414,comment,10634625.0,10635374.0,0,0,HiLo,,,Can you explain why?,1448586763.0
+68,10635413,comment,10634835.0,10634835.0,0,0,danso,,,I can&,
+69,10635412,comment,10635291.0,10635345.0,0,0,dev-ious,,,web backend,1448586658.0
+70,10635411,story,,,2,0,neilellis,A Complete Guide to Flexbox – CSS-Tricks,https://css-tricks.com/snippets/css/a-guide-to-flexbox/,,1448586633.0
+71,10635410,comment,10632856.0,10633321.0,0,0,ekimekim,,,I don&,
+72,10635409,story,,,8,0,EvanAnderson,Western Union Plan 55 Switching System (1957) [pdf],http://www.animats.com/nagle/aetheric/Plan55description.pdf,,1448586619.0
+73,10635408,comment,10635300.0,10635300.0,0,0,pzone,,,"So, anyone here crazy enough to try this?",1448586616.0
+74,10635407,comment,10634774.0,10635046.0,0,0,13of40,,,One of my favorite backwaters of technology is the work they did in the 50&,
+75,10635406,comment,10633576.0,10634656.0,0,0,zanny,,,Considering Disney is at the helm of the copyright disaster train and are producing more blockbuster films each year than in their entire history (and now they have Star Wars coming out next month) I would say a <i>lot</i> of people don&,
+76,10635405,comment,10634053.0,10634263.0,0,0,elbows,,,I bought a suit from indochino.com this year and was really happy with it. They are made to measure and start around $500. I don&,
+77,10635404,story,,,2,0,gillis,Apple Pay Launches in Canada,http://www.apple.com/ca/apple-pay/,,1448586511.0
+78,10635403,comment,10631953.0,10635157.0,0,0,mtdewcmu,,,>> &quot;Microdebt&quot; clearly does not solve poverty. This idea has always had its critics. It is distasteful at best to be a money lender to the poorest strata of humanity. Common wisdom tells us as much.<p>But payday-loan places have been an absolute gift to the poor here in the US...,1448586478.0
+79,10635402,comment,10610106.0,10635335.0,0,0,sytse,,,Thanks in advance for taking notes and posting to the issue tracker!,1448586407.0
+80,10635400,comment,10634241.0,10635123.0,0,0,im2w1l,,,Where I&,
+81,10635399,comment,10633599.0,10633599.0,0,0,dnautics,,,"Android push notifications have always been a sacred space and I uninstall apps that violate it, except, Amazon, Pandora, twitter, and airbitz, which provide services I really need.",1448586372.0
+82,10635398,comment,10630674.0,10635285.0,0,0,LukeB_UK,,,"As a Brit, that&",
+83,10635397,comment,10635212.0,10635354.0,0,0,ricardobeat,,,"I built exactly that at one of my previous jobs. Quite fun. Lived for a few sessions, but failed to be commercialized.",1448586349.0
+84,10635396,comment,10631008.0,10634980.0,0,0,JoshTriplett,,,"Fair Complex to downtown Portland, with a bus on either end.",1448586348.0
+85,10635394,comment,10632961.0,10634196.0,0,0,jlg23,,,> each airline has its own rules<p>exactly - &quot;has rules&quot;. Very few actually enforce them. And while I don&,
+86,10635393,comment,10631513.0,10634695.0,0,0,JoshTriplett,,,"Not every program that reads from stdin, just every program that wants stdin from a &quot;cooked&quot; TTY.  Many programs can just perform raw reads.",1448586271.0
+87,10635392,comment,10632809.0,10634169.0,0,0,markism,,,I&,
+88,10635391,comment,10635155.0,10635155.0,0,0,therobot24,,,"the council woman proposing it has literally no idea how bad she sounds:<p>>> In a statement Wednesday, Martinez said: &quot;If you aren’t soliciting, you have no reason to worry about finding one of these letters in your mailbox. But if you are, these letters will discourage you from returning. Soliciting for sex in our neighborhoods is not OK.&quot;<p>No reason to worry? Vis-a-vi &quot;nothing to hide&quot; so it&",
+89,10635389,comment,10631668.0,10634912.0,0,0,Tsagadai,,,Been running OpenElec on mine for years now. Works great and does 1080p output without transcoding or anything like that.,1448586159.0
+90,10635388,comment,10634241.0,10635298.0,0,0,MrTonyD,,,Martinelli&,
+91,10635387,comment,10618212.0,10635211.0,0,0,ramtatatam,,,And that&,
+92,10635386,comment,10620290.0,10632977.0,0,0,oh_sigh,,,That&,
+93,10635385,comment,10634241.0,10634241.0,0,0,jakejake,,,"Regardless of how you feel about additives, healthiness of juice or whatever, you should at least want your food labels to be honest and accurate. To me that&",

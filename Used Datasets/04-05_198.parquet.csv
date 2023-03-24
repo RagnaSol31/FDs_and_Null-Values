@@ -1,0 +1,128 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6461002,comment,6460915.0,6460915.0,10,0,phaus,,,"Every year since I joined the military in 2003, the government has pretended that they weren&",
+1,6461001,comment,6457988.0,6459990.0,16,0,kalid,,,"Thank you for saying this. Logical arguments, especially around fuzzy notions like the feel of a controller, are useful for <i>prioritizing</i> the hypotheses we test. But not for deciding on them.<p>Given 15 different controller designs, use logic to figure out what order you test them/build them. But at the end, it comes down to the feel.",1380344351.0
+2,6461000,comment,6460425.0,6460425.0,1,0,hayksaakian,,,> mysql_escape_string vs. (sigh ) mysql_real_escape_string<p>ouch,1380344341.0
+3,6460999,comment,6460761.0,6460761.0,6,0,TallboyOne,,,All I can say is... I don&,
+4,6460998,comment,6460560.0,6460994.0,1,0,laureny,,,> I don&,
+5,6460997,comment,6460425.0,6460787.0,1,0,xkiwi,,,Another hard example: A start up wants the cutting edge tech so they use hphp. The company ran out of money before it finish complied.,1380344188.0
+6,6460996,story,,,1,0,jervisfm,From Nothing to Nirvana in Minutes: Cloud Backend for your Android Application,http://bradabrams.com/2013/05/google-io-2013-session-overview-from-nothing-to-nirvana-in-minutes-cloud-backend-for-your-android-application-building-geek-serendipity/,,1380344095.0
+7,6460995,comment,6459164.0,6460849.0,1,0,wfunction,,,That&,
+8,6460994,comment,6460560.0,6460560.0,3,0,ams6110,,,Every once in a while you meet someone who&,
+9,6460993,comment,6460425.0,6460770.0,3,0,justinhj,,,"PHP may have a bunch of ways to shoot yourself in the foot, but you get a new foot back right away. IMHO the oddities in PHP rarely hit you, and when they do you&",
+10,6460992,comment,6457170.0,6460957.0,1,0,zeckalpha,,,"You said <i>especially</i> in academia. I just meant that OOP is fad-like, too.",1380343906.0
+11,6460991,comment,6460764.0,6460984.0,1,0,iamshs,,,That is why something like lavabit is important for India.,1380343874.0
+12,6460990,comment,6460895.0,6460895.0,3,0,throwaway420,,,Lack of contrast is a design trend that&,
+13,6460989,comment,6456724.0,6457089.0,1,0,givehimagun,,,I really wish there was an openssl cookbook that upgraded openssl to 1.0.1 on centos.  Seems like something someone can automate.,1380343788.0
+14,6460988,comment,6460764.0,6460934.0,13,0,noonespecial,,,Your comment is good. &quot;Apu Fuck-knuckles&quot; is not. You should change it while you can still edit. It completely occludes your otherwise decent comment.,1380343784.0
+15,6460987,comment,6460425.0,6460626.0,9,0,skore,,,I&,
+16,6460986,comment,6460425.0,6460739.0,5,0,jdjb,,,The linked article explicitly states that the author has found (albeit anecdotally) that good engineers are very very productive in PHP. I&,
+17,6460985,comment,6460764.0,6460981.0,2,0,iamshs,,,Which means interception and time limits.,1380343711.0
+18,6460984,comment,6460764.0,6460947.0,7,0,r0h1n,,,"Yahoo! and Google ids are very widely used across the full spectrum of government and bureaucracy in India, in large parts because the official email offered by government body NIC is horribly unusable.<p>Take a look at the email ids for officials, including cabinet ministers, in India&",
+19,6460983,comment,6460915.0,6460915.0,4,0,hnriot,,,Maybe we can all use the internet without the NSA watching during the shutdown too.,1380343688.0
+20,6460982,story,,,4,0,selmnoo,Rage of the Privileged,http://krugman.blogs.nytimes.com/2013/09/26/rage-of-the-privileged/?_r=1&,,1380343671.0
+21,6460981,comment,6460764.0,6460947.0,3,0,ginko,,,> Ah. How are they gonna transmit data?<p>If there only were some sort of non-electronic version of email.,1380343648.0
+22,6460980,comment,6457772.0,6460692.0,-1,0,synthhead,,,spam,1380343622.0
+23,6460978,comment,6460764.0,6460934.0,6,0,kamakazizuru,,,Wow - you&,
+24,6460977,comment,6455391.0,6457324.0,1,0,pbreit,,,Sending you something you don&,
+25,6460976,comment,6457988.0,6457988.0,1,0,tuananh,,,"IMHO, controllers will not work well enough for FPS for a foreseeable future.<p>Trying to play sniper with a controller is just hopeless.",1380343576.0
+26,6460975,comment,6460895.0,6460895.0,3,0,Turing_Machine,,,(disclaimer: not a designer)<p>My theory is that they&,
+27,6460974,comment,6456193.0,6460680.0,1,0,wpietri,,,"If I understand your question rightly, yes. Looking at the Github history, we did actually have 6 branches over the life of the project. All were extended technical experiments of one sort or another like trying out a new templating approach. 2/6 were merged. But all normal coding was pushed to master with no branching (beyond a local checkout and local commits, which are a sort of branching, but none of those lasted longer than a day). There, any checkin triggered tests, and any build that passed the test was pushed live.<p>If you want others to see the benefit, I&",
+28,6460973,comment,6460425.0,6460425.0,1,0,samuellevy,,,"Before this turns into a recanting of the points in the &quot;PHP is a double-clawed hammer&quot; post again, I would like to remind people that PHP still has a place in the business world that nno other language has stepped up to fill.<p><a href=""http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html"" rel=""nofollow"">http://blog.samuellevy.com/post/41-php-is-the-right-tool-for...</a><p>Please stop complaining about how horrible PHP is if you don&",
+29,6460972,comment,6460425.0,6460425.0,1,0,samuellevy,,,"Before this turns into a recanting of the points in the &quot;PHP is a double-clawed hammer&quot; post again, I would like to remind people that PHP still has a place in the business world that nno other language has stepped up to fill.<p><a href=""http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html"" rel=""nofollow"">http://blog.samuellevy.com/post/41-php-is-the-right-tool-for...</a><p>Please stop complaining about how horrible PHP is if you don&",
+30,6460971,comment,6460425.0,6460962.0,1,0,jtreminio,,,"I am completely against create actual files to make mocks.<p>I use PHPUnit, the de facto standard for testing php code.<p>To create a proper mock in it, you use getMockBuilder()",1380343495.0
+31,6460970,comment,6459119.0,6460955.0,2,0,100k,,,"Yes, we have a number of ecommerce customers. And we have mobile SDKs for iOS and Android and a mobile web-optimized search experience: <a href=""https://swiftype.com/mobile"" rel=""nofollow"">https://swiftype.com/mobile</a>",1380343488.0
+32,6460969,comment,6459126.0,6459126.0,11,0,gfodor,,,"Congrats on launching. I built a similar idea and found it to not be profitable:<p><a href=""http://babygra.ms"" rel=""nofollow"">http://babygra.ms</a><p>If you figure out how to make this profitable, when you consider printing costs and marketing costs, please share! Long story short, I found you have to give people one for free, and this kills your margins. Send me an e-mail if you want an Excel spreadsheet that proves this :)<p>I posted some details here:<p><a href=""https://t.co/w2r59Ah6LN"" rel=""nofollow"">https://t.co/w2r59Ah6LN</a>",1380343474.0
+33,6460968,comment,6455391.0,6457681.0,1,0,pbreit,,,100%.<p>They send an email every month prompting members to visit the site to select a pair of shoes or skip.,1380343462.0
+34,6460967,comment,6457988.0,6460437.0,2,0,jamesgeck0,,,Trackballs really aren&,
+35,6460965,comment,6457988.0,6459905.0,3,0,slantyyz,,,"Might work for some people, but I&",
+36,6460964,comment,6456762.0,6457651.0,1,0,user24,,,Insightful!,1380343301.0
+37,6460963,comment,6460764.0,6460764.0,5,0,asah,,,"head explodes: this announced the same day as a paper showing how to use an iphone accelerometer to reverse engineer keystrokes.<p><a href=""https://news.ycombinator.com/item?id=6456360"" rel=""nofollow"">https://news.ycombinator.com/item?id=6456360</a>",1380343267.0
+38,6460962,comment,6460425.0,6460814.0,1,0,wanderr,,,Perhaps I&,
+39,6460961,comment,6458056.0,6458056.0,1,0,rgbrgb,,,Has anyone used the real-time rocket stuff?,1380343231.0
+40,6460960,comment,6459769.0,6460433.0,6,0,tikhonj,,,I know of two modes for OCaml: TypeRex[1] and Merlin[2]. I&,
+41,6460959,comment,6460425.0,6460425.0,5,0,gfodor,,,I feel like the reason you don&,
+42,6460958,comment,6460616.0,6460700.0,2,0,superails,,,Not for senior devs in my experience.<p>I initially got a number of recruiters. I think they scrape the ruby/rails-users mailing lists and send out spam. I&,
+43,6460957,comment,6457170.0,6460892.0,1,0,seanmcdirmid,,,I don&,
+44,6460956,comment,6457391.0,6460941.0,1,0,olegp,,,I couldn&,
+45,6460955,comment,6459119.0,6459119.0,2,0,2pasc,,,Is Swiftype suited for ecommerce? (i.e. product search)?\nDo you have something for mobile apps?,1380343077.0
+46,6460954,comment,6460608.0,6460926.0,2,0,pjmlp,,,Living in USA I assume.,1380343031.0
+47,6460953,comment,6457772.0,6460946.0,1,0,dllthomas,,,"Sure; reasonable, just unclear.",1380342896.0
+48,6460952,comment,6460764.0,6460934.0,2,0,Apocryphon,,,"The Russians are doing this, too.\n<a href=""http://www.theguardian.com/world/2013/jul/11/russia-reverts-paper-nsa-leaks"" rel=""nofollow"">http://www.theguardian.com/world/2013/jul/11/russia-reverts-...</a>",1380342852.0
+49,6460951,story,,,1,0,rohitarondekar,Simple Computing,http://housenull.tumblr.com/post/62481446506/simple-computing,,1380342794.0
+50,6460950,comment,6460608.0,6460929.0,1,0,dllthomas,,,"Well, if I buy a tablet of roughly that form factor, I&",
+51,6460949,comment,6460835.0,6460835.0,3,0,vukmir,,,"I like this guy.<p>P.S. I wanted to write a more elaborate comment, but it all boils  down to the sentence above.",1380342742.0
+52,6460948,comment,6456360.0,6458391.0,2,0,VladRussian2,,,"sounds like one can be tracked even without GPS, just by integrating accelerometer data and even one fixed point of reference may be not necessary as the pattern of movements can, in many cases, be uniquely aligned with the pattern of streets/etc...",1380342729.0
+53,6460947,comment,6460764.0,6460764.0,9,0,iamshs,,,"Ah. How are they gonna transmit data? What a temporary solution to a permanent problem, using a technology that must have been cracked a century ago. Btw why would you go outside to discuss private matters? Wow. Now instead of playing into one agency&",
+54,6460946,comment,6457772.0,6460031.0,1,0,smosher,,,That&,
+55,6460945,comment,6460608.0,6460884.0,1,0,arrrg,,,"Ah! Cool, didn&",
+56,6460944,comment,6456360.0,6456487.0,1,0,marshray,,,"No, in the real world adversaries have been perfecting (i.e., &",
+57,6460943,comment,6460608.0,6460914.0,1,0,YOSPOS,,,They&,
+58,6460942,comment,6454443.0,6454443.0,1,0,pjmlp,,,"Congratulations!<p>When will we be able to compile Rust using a standard LLVM instalation, instead of compiling LLVM with it?<p>My poor netbook takes almost 3 hours to compile it. :(",1380342645.0
+59,6460941,comment,6457391.0,6459872.0,2,0,rcsorensen,,,"You should take a strong look at <a href=""http://github.com/airbnb/rendr"" rel=""nofollow"">http://github.com/airbnb/rendr</a> . I&",
+60,6460940,story,,,4,1,georgecmu,FedEx Kinkos Won't Print Our Christmas Card,http://www.cringely.com/2009/12/15/fedex-kinkos-wont-print-our-christmas-card/,,1380342641.0
+61,6460939,comment,6460101.0,6460750.0,6,0,mrcsparker,,,"If you have time, please continue.",1380342625.0
+62,6460938,story,,,2,0,staunch,Netflix's Open Connect Appliance Hardware,https://signup.netflix.com/openconnect/hardware,,1380342582.0
+63,6460937,comment,6460608.0,6460924.0,1,0,YOSPOS,,,"The flood of lower end devices always made this a matter of when. What matters to developers is what to develop for first, and that will remain iOS for a myriad of reasons. Apple will be leading in this one measure once they release new iPads. In other important measures that developers consider, like how much iPads are used compared to the rest, it&",
+64,6460936,story,,,1,0,hotblonde,If you had a bad day this should brighten it,http://youtu.be/012kcmvCAAo,very very funny,1380342550.0
+65,6460935,comment,6454313.0,6460631.0,2,0,tolarewaju3,,,"Wow. Good Feedback again. I guess we narrowed our target to students for a couple of reasons. First, we pleased a lot of students with this there are a set of services we could offer specifically to students. We just felt that narrowing the market would help us focus better.<p>But, your absolutely right. Replace class and we have something that applies to everyone.",1380342530.0
+66,6460934,comment,6460764.0,6460764.0,-4,0,Daniel_Newby,,,"Wow. Apu Fuck-knuckles is so incompetent that he deserves to be taken for a ride by every intel agency in the world. (Typewriter sounds are more easily surveilled and decoded into letters than a well-shielded computer. A given typewriter is trivially traceable to a particular office and even individual. Typing paper is somewhat easy to trace. Typewriters requires use of photocopiers, which are a centralized easily-surveilled point of weakness. And going outdoors is what you do when you are so horrifically out of touch and worthless that you have never seen a parabolic microphone on a football pitch. Somewhere an NSA field agent just had a spygasm.)",1380342509.0
+67,6460933,comment,6460766.0,6460792.0,4,0,biggfoot,,,You&,
+68,6460932,comment,6460425.0,6460679.0,3,0,leokun,,,I have no problems deploying a django app with gunicorn. It&,
+69,6460931,comment,6460101.0,6460750.0,3,0,rbanffy,,,I learned C on a PC/XT running QNX. It was <i>that</i> small.,1380342411.0
+70,6460930,comment,6460608.0,6460891.0,2,0,zmmmmm,,,I think you&,
+71,6460929,comment,6460608.0,6460724.0,1,0,abdophoto,,,I&,
+72,6460928,comment,6460608.0,6460859.0,0,0,enraged_camel,,,">>and I agree with you that the iOS experience is better than the Android one, although I don&",
+73,6460927,comment,6460425.0,6460900.0,5,0,ryanSrich,,,I couldn&,
+74,6460926,comment,6460608.0,6460608.0,2,0,alexeisadeski3,,,These statistics are hard to square with the fact that I&,
+75,6460925,comment,6459769.0,6459769.0,1,0,leefrank,,,my friend&,
+76,6460924,comment,6460608.0,6460852.0,2,0,zmmmmm,,,> You&,
+77,6460923,comment,6456360.0,6458463.0,1,0,marshray,,,How about we just not buy products with a microphone or accelerometer that doesn&,
+78,6460922,story,,,1,0,DanielRibeiro,Municipal Code of San Francisco on GitHub,https://github.com/SFMOCI/openlaw,,1380342067.0
+79,6460921,comment,6457868.0,6457868.0,3,0,useful,,,"I use APL daily because our production codebase is based on it and we are (thankfully) phasing it out. Imo, it&",
+80,6460920,comment,6454443.0,6460383.0,2,0,dbaupp,,,"(Also, TWiR: <a href=""http://cmr.github.io/blog/categories/this-week-in-rust/"" rel=""nofollow"">http://cmr.github.io/blog/categories/this-week-in-rust/</a>)",1380341972.0
+81,6460919,comment,6457525.0,6458501.0,1,0,pjmlp,,,Really? I use Linux distributions since 1995 and IBM was shortly thereafter already supporting it.,1380341971.0
+82,6460918,comment,6457988.0,6457988.0,1,0,machbio,,,I just want to say ^:)^ to steam,1380341936.0
+83,6460917,comment,6457801.0,6457801.0,1,0,olegp,,,"This is good stuff and I can totally relate to this based on our experience at <a href=""https://starthq.com"" rel=""nofollow"">https://starthq.com</a> so far - we&",
+84,6460916,comment,6460425.0,6460900.0,4,0,ams6110,,,"I actually feel the same way about &quot;classic&quot; ASP. Yeah, it wasn&",
+85,6460915,story,,,13,6,Suraj-Sun,US troops won't get paid during shutdown: Pentagon,http://news.yahoo.com/us-troops-wont-paid-during-shutdown-pentagon-190746122.html,,1380341769.0
+86,6460914,comment,6460608.0,6460852.0,1,0,AnthonyMouse,,,Notice that the post I was originally responding to was questioning why this information was useful. The answer is that some people rely on data in preference to speculative assumptions.<p>>These numbers are kind of useless when Apple is weeks away from refreshing their iPad line-up.<p>These numbers are the latest numbers. If you think they&,
+87,6460913,comment,6460425.0,6460626.0,5,0,TazeTSchnitzel,,,"8 is sane here. The + operator adds numbers. It converts the string to a number implicitly in the process. it takes &quot;0x4zz5&quot; and tries to parse as much as possible. Since &quot;z&quot; is not a valid hexadecimal digit, it stops at z, and reads it as 0x4.<p>Of course, it is better to manually convert.",1380341746.0
+88,6460912,comment,6460425.0,6460787.0,19,0,kmavm,,,"Video of the talk is not up yet, and it&",
+89,6460911,comment,6457988.0,6460897.0,1,0,w1ntermute,,,"Based on screenshots, it seems like it, but it&",
+90,6460910,comment,6460425.0,6460896.0,8,0,workhere-io,,,"Maybe I should have expressed myself more clearly: The comment I replied to seemed to indicate that PHP must be bad since Facebook had a need to change it. My point was that, given the fact that Facebook has way more users than other sites and mostly serves non-cacheable pages, their needs are different than the needs of 99.9999% of other sites in the world, so the fact that they were forced to change PHP doesn&",
+91,6460909,comment,6460425.0,6460666.0,3,0,prostoalex,,,"Abstract classes in Python are kinda bolted on\n<a href=""http://docs.python.org/2/library/abc.html"" rel=""nofollow"">http://docs.python.org/2/library/abc.html</a><p>They&",
+92,6460908,comment,6457170.0,6460033.0,1,0,pjmlp,,,"Of course not, all the code and data that go into the processor needs to go through the <i>processor</i> cache first.<p>My OP comment has an example of a JVM that doesn&",
+93,6460907,comment,6460101.0,6460750.0,9,0,luckydude,,,Going to bed but I hope some of the other nerdy OS guys chime in.  I suspect they feel the same.<p>What would be interesting is not a post about how GNU is going to do what has already been done but instead how they are going to do something that hasn&,
+94,6460906,comment,6460126.0,6460811.0,1,0,abbazabba,,,"HA.<p>Yes, but hey if someone&",
+95,6460905,comment,6460761.0,6460761.0,3,0,jfasi,,,"It warms my heart to see hints that the tide might be turning on patent trolls. While this precise effort might not yield results, it&",
+96,6460904,comment,6460608.0,6460793.0,2,0,kattuviriyan,,,They didn&,
+97,6460903,comment,6455269.0,6460426.0,2,0,Sir_Cmpwn,,,It&,
+98,6460902,comment,6460425.0,6460731.0,2,0,TazeTSchnitzel,,,"Ooh, yes. While PHP&",
+99,6460901,story,,,2,0,gms,A Nightly Dinner Out That's Like Therapy,http://www.nytimes.com/2013/09/29/nyregion/a-nightly-dinner-out-thats-like-therapy.html,,1380341316.0
+100,6460900,comment,6460425.0,6460425.0,9,0,samuellevy,,,"Before this turns into a recanting of the points in the &quot;PHP is a double-clawed hammer&quot; post again, I would like to remind people that PHP still has a place in the business world that nno other language has stepped up to fill.<p><a href=""http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html"" rel=""nofollow"">http://blog.samuellevy.com/post/41-php-is-the-right-tool-for...</a><p>Please stop complaining about how horrible PHP is if you don&",
+101,6460899,story,,,1,0,rzimmerman,Kal is no longer illiterate,http://blog.rzimmerman.me/kal-is-no-longer-illiterate/,,1380341298.0
+102,6460898,comment,6457331.0,6457736.0,4,0,wiredfool,,,It&,
+103,6460897,comment,6457988.0,6460834.0,3,0,ics,,,Was it SmoothMouse[0]? We likely have different needs but I&,
+104,6460896,comment,6460425.0,6460872.0,2,0,hyperpape,,,They&,
+105,6460895,story,,,8,10,tomrod,Ask HN Designers: Why the trend of low-contrast site design?,,Howdy HN! I&,
+106,6460894,comment,6460425.0,6460549.0,1,0,ihsw,,,"Indeed, there&",
+107,6460892,comment,6457170.0,6459935.0,1,0,zeckalpha,,,And vice versa.,1380341187.0
+108,6460891,comment,6460608.0,6460608.0,2,0,eonil,,,Overtakes in number. Wow that&,
+109,6460890,comment,6460697.0,6460697.0,1,0,nutanc,,,"Just wondering, do they atleast send an email reminder mentioning that you have to select your pair for the month?<p>That should give an indication to some people to cancel their subscription.",1380341114.0
+110,6460889,comment,6459769.0,6460762.0,1,0,seanmcdirmid,,,That might work...but does it work in practice (i.e. do you have an example where this is being used?).<p>I&,
+111,6460888,comment,6458497.0,6458928.0,1,0,AgentME,,,">SQL Injection is something every web application should do. This is a completely separate issue from CSRF (cross site request forgery), but they conflate the two as if they&",
+112,6460887,comment,6453281.0,6453281.0,1,0,tomrod,,,Looks to be a useful tool. My only beef is that I can barely read the low-contrast text on white background.,1380340959.0
+113,6460886,comment,6459010.0,6460771.0,1,0,dllthomas,,,"Separately, politicians speak to multiple ideologies and represent multiple constituencies, and pointing to the actions of a politician as clearly establishing the views of a particular ideology (unless that ideology is defined in reference to the politician - &quot;Maoism&quot; or whatnot) is likely to steer you wrong.",1380340955.0
+114,6460885,comment,6456193.0,6458588.0,1,0,sanderjd,,,I think I wasn&,
+115,6460884,comment,6460608.0,6460803.0,1,0,Steko,,,Minor tangent but Apple did release a specific number of ipod touches when they hit the 100 million mark last year.,1380340944.0
+116,6460883,comment,6460425.0,6460425.0,5,0,shire,,,Idk about you guys but I love PHP. After using new technology for Web Development PHP makes me feel nostalgic. I really enjoy PHP&,
+117,6460882,comment,6460605.0,6460605.0,1,0,teamonkey,,,There was a fascinating BBC Radio documentary on numbers stations called &,
+118,6460881,comment,6460738.0,6460738.0,1,0,aroch,,,"Oh FFS, not the bullshit again; it&",
+119,6460880,comment,6459029.0,6460845.0,-1,0,drjesusphd,,,So that&,
+120,6460879,comment,6457331.0,6457331.0,1,0,nickhalfasleep,,,Anybody know when 64-bit arm processors might be released as a blade or mini-server to work with?,1380340865.0
+121,6460878,comment,6457772.0,6460042.0,1,0,smosher,,,Right. I suppose I took it for granted that brains are big ol&,
+122,6460877,comment,6460101.0,6460352.0,5,0,pekk,,,"particularly another poorly-documented, monolithic, over-marketed JS app framework",1380340856.0
+123,6460876,comment,6457988.0,6459582.0,1,0,nilkn,,,I don&,
+124,6460875,story,,,1,0,rquantz,This is only a test,http://www.nytimes.com/2013/09/29/books/review/reign-of-error-by-diane-ravitch.html,,1380340837.0
+125,6460874,comment,6460608.0,6460724.0,4,0,Steko,,,"&quot;If so, this might be a situation where an under-served market allowed an agile opponent to bust into a market firmly held by a single dominant incumbent!&quot;<p>This is silly.  The reason Android sells more tablets, globally, is the same reason Android sells many more phones:   Apple doesn&",
+126,6460873,comment,6460425.0,6460846.0,2,0,prostoalex,,,They&,

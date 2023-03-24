@@ -1,0 +1,134 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9125520,comment,9123948.0,9125241.0,0,0,pvorb,,,"Probably not in modern web companies, but there are still COBOL stacks around.",1425167945.0
+1,9125519,story,,,1,0,fuckitsubmit,JSON text sequences,https://www.rfc-editor.org/info/rfc7464,,1425167930.0
+2,9125518,comment,9123630.0,9125396.0,0,0,vilhelm_s,,,I&,
+3,9125517,comment,9124843.0,9124843.0,0,0,nkg,,,"Pâtisserie is beautiful and also very difficult. Disciplined and talented young people willing to start working at 4am are hard to find, even in France. \nThat&",
+4,9125516,comment,9123863.0,9123863.0,0,0,bitwize,,,"Just use C++. The lack of semantically aware, <i>type safe</i> templates is one of the deficiencies of C that motivated the development of C++.<p>C++ is a <i>strictly more powerful language</i> than C. Play to its strengths rather than abusing C&",
+5,9125515,comment,9123571.0,9124863.0,0,0,Jimmy,,,"Even if new applications stopped being written in C++ today, the amount of legacy code written in C++ would ensure that there would be jobs for C++ programmers for many decades to come.  But of course, people will almost certainly still be writing new C++ code 10 years from now.",1425167849.0
+6,9125514,comment,9124125.0,9124125.0,0,0,mdbco,,,"<i>&quot;Statistical modeling is a lot like engineering.&quot;</i><p>I can certainly see why this is a good comparison, because it&",
+7,9125513,story,,,3,2,Morticai,Underwear Startups Have Investors Hot and Bothered,http://techcrunch.com/2015/02/25/underwear-startups-have-investors-hot-and-bothered/?ncid=rss&cps=gravity_1462_-7220147108821270012,,1425167828.0
+8,9125512,comment,9124125.0,9125232.0,0,0,chengtao,,,"Great question and my main point is less about up sampling the rare cases but more about the default loss function used in the model training might not directly align with the final business metric (which is the metric practitioners should care more about). As a result, it&",
+9,9125511,comment,9125076.0,9125076.0,0,0,cw0,,,The join button is completely broken in Chrome beta.,1425167786.0
+10,9125510,comment,9125130.0,9125385.0,0,0,oafitupa,,,In many countries it&,
+11,9125508,comment,9121227.0,9122020.0,0,0,alphonse23,,,"that might be a pretty accurate assessment of Carlo -- from reading his tweets, it sounds like he was juggling multiple realities -- I knew him actually -- I really wish he waiting long enough for someone to talk him out of it...",1425167649.0
+12,9125507,comment,9124227.0,9124740.0,0,0,benologist,,,I thought this too.  It might be interesting to look at how many people changed the starting date to Monday instead of the default of tomorrow / Sunday.,1425167630.0
+13,9125506,comment,9125076.0,9125499.0,0,0,freddier,,,We&,
+14,9125505,comment,9124530.0,9124530.0,0,0,dbbolton,,,"My microwave has a feature that when you press the &quot;Start&quot; button without entering a time, it just runs for 30 seconds on high.<p>One time I hit the start button and it started running based on the value of the clock (e.g. it was 4:23pm and the oven kicked on and counted down from 4 minutes and 23 seconds).<p>I suppose it could have been a weird coincidence, but my partner is very strict about leaving &quot;unused time&quot; on the microwave and obsessively hits the Clear button. Plus it seems unlikely that there would be that much unused time left (it&",
+15,9125504,comment,9125076.0,9125498.0,0,0,freddier,,,"AAAAAAAaaoook, yeah, we can fix that. It seems we have more weird issues in our FAQ besides that. Thank you wyclif, we&",
+16,9125503,comment,9124792.0,9124792.0,0,0,rwolf,,,"For anyone (like me) who raised an eyebrow at the &quot;trans fats are highly toxic&quot; bit, wiki helpfully mentions some recent (2013) FDA guidance on the matter: <a href=""http://en.wikipedia.org/wiki/Trans_fat"" rel=""nofollow"">http://en.wikipedia.org/wiki/Trans_fat</a>",1425167507.0
+17,9125502,comment,9125130.0,9125428.0,0,0,oafitupa,,,"Except they would have to also create their own mining industry to secure it, or enemy countries could easily attack it.",1425167506.0
+18,9125501,comment,9123948.0,9125356.0,0,0,yonasb,,,"Full disclosure: Keen is a promoted service on StackShare, StackShare is a customer of Keen.<p>We use Keen IO for all our user metrics. Specifically their CommonWeb library <a href=""https://github.com/keen/common-web"" rel=""nofollow"">https://github.com/keen/common-web</a>, which automatically tracks clicks, pageviews, form submits and a few other actions. Keen has been great for us, particularly because we don&",
+19,9125500,comment,9125130.0,9125397.0,0,0,leereeves,,,"Much of the appeal of Bitcoin is the limited supply. But from a Keynesian government point of view, that&",
+20,9125499,comment,9125076.0,9125380.0,0,0,chrisabrams,,,Please please do a RethinkDB class :),1425167418.0
+21,9125498,comment,9125076.0,9125380.0,0,0,wyclif,,,"Just a heads up re: English in the FAQ. You want to use &quot;paid&quot; not &quot;payed.&quot; <a href=""https://courses.platzi.com/frequently-asked-questions/",
+22,9125497,comment,9125130.0,9125469.0,0,0,oafitupa,,,You can&,
+23,9125496,story,,,1,0,michaeldwan,Ex-Nasa engineer: How cars could think like spaceships,http://www.bbc.com/autos/story/20150224-ex-nasa-engineer-how-cars-could-think-like-spaceships,,1425167382.0
+24,9125495,comment,9125382.0,9125479.0,0,0,zerocrates,,,PHP&,
+25,9125492,comment,9123702.0,9124994.0,0,0,WalterBright,,,"Yeah, I already wrote my own compiler, editor, games, language, etc. How far do I have to go with this? :-)",1425167250.0
+26,9125491,comment,9123630.0,9125223.0,0,0,korethr,,,"A reason (probably one of the main ones, IMO) people post Xiph links is because they contain very well reasoned arguments, backed up evidence (i.e the math of how digital audio works, or in the case of the the video linked in the parent, actual meassurement). When seeing arguments on why 16-bit/44.1kHz is insufficient, I more often see faualty reasoning and a lack of evidence to support the arguments being made.<p>You are correct in that human hearing is highly sensitive in the 300-3kHz band, and that sensitivities to minute timing and phase differences between the ears helps us accurately localize sound with only two ears. But I fail to see how that is relevant to whether or not 16-bit/44.kHz digital audio being enough to reproduce sound without audible distortion.<p>Are you aware of some evidence that shows how 16-bit/44.1Khz is insufficent? I would be very interested to see it.",1425167234.0
+27,9125490,comment,9124805.0,9125439.0,0,0,TeMPOraL,,,"That was exactly the episode I was subtly referencing in my comment. BTW. after watching it, I thought that the way the data was collected in that episode is a writer&",
+28,9125489,comment,9124232.0,9125336.0,0,0,Frondo,,,"I have often, especially in the comment sections for regional newspapers, seen the claim that yes, the government should step away from food safety.<p>The food producer&",
+29,9125488,comment,9124792.0,9124792.0,0,0,beloch,,,Only some margarines contain trans fats and soy is not without its own health risks.,1425167174.0
+30,9125486,story,,,2,0,lettergram,Show HN: An Alternative (and Improved) Selenium Factory,https://github.com/lettergram/Selenium-Factory,,1425167124.0
+31,9125485,comment,9124227.0,9124227.0,0,0,kenko,,,I don&,
+32,9125484,comment,9123865.0,9124489.0,0,0,j_m_b,,,"You are 100% spot on with this comment. In this day and age of click-bait titles and buzzfeed articles, it is unfortunately becoming more and more prevalent.",1425167109.0
+33,9125483,comment,9123630.0,9125452.0,0,0,frou_dh,,,"You -> dublinben -> you -> me is a very coherent thread.<p>But yes, it&",
+34,9125482,story,,,2,0,TeMPOraL,DNA Evidence Can Be Faked,http://www.forensicmag.com/news/2015/02/dna-evidence-can-be-faked,,1425166990.0
+35,9125481,comment,9122714.0,9122714.0,0,0,anonbanker,,,This is the best advertisement Mega could ever receive.<p>it&,
+36,9125480,story,,,143,35,mattetti,First Go challenge – binary decoding,http://golang-challenge.com/go-challenge1/,,1425166961.0
+37,9125479,comment,9125382.0,9125382.0,0,0,McGlockenshire,,,"What advantage does this have over the built in REPL you can find with php -a (assuming readline instead of libedit)?  They fixed fatal behavior a few versions ago, which was my last gripe with it.",1425166935.0
+38,9125478,comment,9125130.0,9125473.0,0,0,leereeves,,,Taxes.,1425166843.0
+39,9125477,comment,9123574.0,9123574.0,0,0,mikhailt,,,They&,
+40,9125476,story,,,5,0,CultState,Petrocurrency mercantilism: why and how central banks fight each other,http://cultstate.com/?p=131,,1425166796.0
+41,9125475,comment,9125130.0,9125344.0,0,0,entrop13,,,digital/analog really makes no difference for fiat currencies. What matters is the way their managed and peoples belief that they will continue to hold value for the long term. I doubt any states will go digital for awhile due to purely cultural/psychological reasons.<p>Humans like physical objects even if they&,
+42,9125474,story,,,274,108,AhtiK,Xfce 4.12 released,http://www.xfce.org/about/news/?post=1425081600,,1425166760.0
+43,9125473,comment,9125130.0,9125369.0,0,0,Frondo,,,What threat of violence are you describing?,1425166755.0
+44,9125472,comment,9125076.0,9125446.0,0,0,freddier,,,"Just sign up at Platzi: <a href=""https://courses.platzi.com/"" rel=""nofollow"">https://courses.platzi.com/</a>",1425166699.0
+45,9125471,comment,9125155.0,9125435.0,0,0,thejew,,,"They are trying to get you to use Xamarin. See here: <a href=""https://twitter.com/masters3d/status/571785335702626304"" rel=""nofollow"">https://twitter.com/masters3d/status/571785335702626304</a>",1425166650.0
+46,9125470,comment,9125076.0,9125218.0,0,0,Raphael,,,Why are they bothering to teach a class on it before writing the documentation?,1425166643.0
+47,9125469,comment,9125130.0,9125344.0,0,0,thephyber,,,"For a currency to take off, there must be a large market that requires you to use the currency (such as paying taxes to the IRS). This creates a base market which can be used as a springboard for wider adoption. BitCoin managed to take off because, IMHO, the novelty of the &quot;cryptocurrency&quot; and some of the problems it solved.<p>For a fiat currency to work, there must be faith in the currency and the governing bodies that support it.\n The US dollar used to be tied to the price of gold and silver, then later entirely to gold, then it was turned fiat in the Nixon years.[1]<p>BitCoin, in particular, does not allow a central bank to &quot;print&quot; currency (which is a tool used to control the inflation rate). Without the ability for a central bank to regulate the creation of a fiat currency, there would eventually be an erosion of faith in the currency. Alternatively, a digital currency could be tied to a gold silver / other commodity standard, but then it&",
+48,9125467,comment,9124530.0,9125375.0,0,0,snarkulosity,,,I&,
+49,9125466,story,,,22,4,moreati,"Harry Potter and the Methods of Rationality, Chapter 113: Final Exam",http://hpmor.com/chapter/113,,1425166613.0
+50,9125465,story,,,1,0,mrb,New 28nm Bitcoin ASIC delivers 0.2 joules-per-gigahash,http://www.coindesk.com/bitfury-launches-new-28nm-bitcoin-mining-asic/,,1425166607.0
+51,9125464,comment,9124048.0,9124048.0,0,0,zhovner,,,You can get the same with Google Voice.,1425166584.0
+52,9125463,comment,9125382.0,9125382.0,0,0,fishnchips,,,How does it differ from HHVM REPL or PsySH? I&,
+53,9125462,comment,9124944.0,9125169.0,0,0,wmf,,,100 MHz is a lot. It&,
+54,9125461,comment,9113976.0,9123494.0,0,0,innguest,,,Do you disagree that most people want a government? I think not.<p>Do you disagree that most of those people want a government because they want government to intervene on social and economic issues?<p>Do you disagree that most of those people want a government because &quot;otherwise we&,
+55,9125460,comment,9124125.0,9124125.0,0,0,ma2rten,,,"<i>Returning to fraud detection, high order interaction features like &quot;billing address = shipping address and transaction amount < $50&quot; are required for good model performance.</i><p>I agree, that non-linear models are often able to beat linear ones, but if you have limited amounts of data feature engineering will always beat clever algorithms.",1425166529.0
+56,9125459,comment,9123571.0,9124333.0,0,0,tezka,,,no it&,
+57,9125458,story,,,1,0,rbrownsuse,Why should anyone be interested in openSUSE?,https://sysrich.co.uk/?p=347,,1425166458.0
+58,9125457,comment,9123706.0,9124557.0,0,0,scosman,,,"Both NCF and JPAKE require a communication channel between devices. Neither fit the bill if the goal is user friendly, accessible from anywhere, and backup in case of loss (what they are proposing).<p>Extreme key-stretching (w seed) mostly mitigates weak passphrases (I mean extreme stretching, 60s+ of CPU time for each guess). Even a 6 char password would take 100k years of CPU time to brute force. I&",
+59,9125456,comment,9124530.0,9125388.0,0,0,anigbrowl,,,"I have a toaster oven for that, but since I cook 6 days out of the week unless I&",
+60,9125454,comment,9125325.0,9125325.0,0,0,philsnow,,,"Link has an extra space or %20 appended to it, can anybody fix that?",1425166360.0
+61,9125452,comment,9123630.0,9125363.0,0,0,jkot,,,"I think we are two different threads. Signa11 already has good headphones, even amp and DA. Question is what headphones, DA and amp is best for upgrade. I am sorry, I just disagree that mac book pro is the answer.",1425166317.0
+62,9125451,comment,9123571.0,9125374.0,0,0,adrusi,,,Because c++&,
+63,9125450,story,,,3,0,petethomas,Are we alone? Do we want to know?,http://www.washingtonpost.com/national/health-science/the-latest-debate-about-space-aliens-should-we-say-hello-or-keep-quiet/2015/02/28/43aa4a52-bcf5-11e4-bdfa-b8e8f594e6ee_story.html,,1425166310.0
+64,9125449,comment,9125155.0,9125435.0,0,0,rubyfan,,,Because Swift is perceived as cool and C,
+65,9125448,comment,9125130.0,9125421.0,0,0,entrop13,,,those arn&,
+66,9125447,story,,,1,0,adamnemecek,Maximum Overkill Two – From Format String Vulnerability to Remote Code Execution,https://barrebas.github.io/blog/2015/02/22/maximum-overkill-two-from-format-string-vulnerability-to-remote-code-execution/,,1425166210.0
+67,9125446,comment,9125076.0,9125380.0,0,0,joshuahornby,,,The react series is definitely something I am interested in. Do you have a newsletter I can sign up for?,1425166196.0
+68,9125445,comment,9123019.0,9123303.0,0,0,nicklovescode,,,It&,
+69,9125444,comment,9125053.0,9125099.0,0,0,Serene,,,"it was submitted two years ago:<p><a href=""https://news.ycombinator.com/item?id=5572765"" rel=""nofollow"">https://news.ycombinator.com/item?id=5572765</a><p>and yesterday too:<p><a href=""https://news.ycombinator.com/item?id=9122788"" rel=""nofollow"">https://news.ycombinator.com/item?id=9122788</a>",1425166173.0
+70,9125443,story,,,1,0,TextAlerts,Mobile Text Alerts – send out mass text messages,https://mobile-text-alerts.com/,,1425166129.0
+71,9125442,comment,9124805.0,9125274.0,0,0,josephlord,,,Atheism is not a doctrine any more than not believing in Santa Claus or the tooth fairy is a doctrine. It is possible that there are doctrines within atheism but atheism itself is not one.<p>I&,
+72,9125441,comment,9124125.0,9125403.0,0,0,ma2rten,,,"You can use correlation or the coefficients of a linear model iff the features on the same scale. Another method is to train a model leaving out each feature once, then you see how much accuracy drops.",1425166063.0
+73,9125440,comment,9124232.0,9124736.0,0,0,acdha,,,"> All else is not equal, so it is reasonable assign a high probability to spy agency involvement.<p>This requires determined effort to ignore the level of sophistication on evidence in the same reports of nation-state level attacks which you cite. Everyone who&",
+74,9125439,comment,9124805.0,9125354.0,0,0,ht_th,,,"You might be interested in the 15th episode (of the 4th series) of <i>Person of Interest</i>, &quot;Q & A&quot; (Aired at February 17, 2015), in which depressed and addicted people were targeted with special adds to drive profit up. I won&",
+75,9125438,comment,9124125.0,9125328.0,0,0,mdbco,,,Point ,
+76,9125437,comment,9123571.0,9125374.0,0,0,coliveira,,,"The problem is that unlike the CLR, static compilers have no idea about the common case. This technique works only when you have some information about how the different code paths are being used.",1425165996.0
+77,9125436,comment,9124944.0,9125169.0,0,0,ArkyBeagle,,,It&,
+78,9125435,comment,9125155.0,9125155.0,0,0,ianhedoesit,,,I can&,
+79,9125434,comment,9124048.0,9124500.0,0,0,danpalmer,,,"Yeah, might be good to explain the reasoning. Coming from the UK, I&",
+80,9125433,comment,9124530.0,9124530.0,0,0,anonetal,,,"xkcd had a nice what-if on this recently (<a href=""http://what-if.xkcd.com/131/"" rel=""nofollow"">http://what-if.xkcd.com/131/</a>). He points to the way ice and water react to microwave radiation as one of the main culprits for uneven heating (of frozen stuff).",1425165935.0
+81,9125432,comment,9125155.0,9125155.0,0,0,thejew,,,Swift has internal now.,1425165844.0
+82,9125431,comment,9125426.0,9125426.0,0,0,musgravepeter,,,"Actually laughed out loud at this.<p><a href=""http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog"" rel=""nofollow"">http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_y...</a>",1425165838.0
+83,9125430,comment,9124530.0,9124530.0,0,0,aioprisan,,,Can&,
+84,9125428,comment,9125130.0,9125369.0,0,0,kiba,,,Nothing prevent nation-states from adopting their own altcoin and altering the supply as they like.,1425165796.0
+85,9125427,comment,9124944.0,9125269.0,0,0,ArkyBeagle,,,Argpfhh! I didn&,
+86,9125426,story,,,8,3,musgravepeter,"Remember when, on the internet, no one knew who you were?",http://www.kaamranhafeez.com/product/remember-internet-nobody-knew-new-yorker-cartoon/,,1425165755.0
+87,9125425,comment,9123948.0,9123948.0,0,0,m3sh,,,"I wish it was not doing like search on technology. You choose &quot;C&quot; and everything with letter &quot;C&quot; comes, *sigh.",1425165712.0
+88,9125424,comment,9123662.0,9124136.0,0,0,cafard,,,"In this case, I think the LA Times is giving the Staples Center team enough rope and pointing out a handy beam and chair.",1425165697.0
+89,9125423,comment,9125325.0,9125391.0,0,0,comrh,,,"Pretty clever comment, made me think if this is the exact same thing as human stress eating.",1425165688.0
+90,9125422,story,,,1,0,wslh,Can You Treat Depression with Tryptophan?,http://asserttrue.blogspot.com/2015/02/can-you-treat-depression-with-tryptophan.html?m=1,,1425165653.0
+91,9125421,comment,9125130.0,9125369.0,0,0,megoah,,,"This is the same reason that no government allows or encourages the large-scale ownership of property, land, minerals, gold, or anything else.<p>Except that they do.  All the time.<p>Because governments are not evil machines that only want to steal your money.  That&",
+92,9125420,comment,9124227.0,9124227.0,0,0,SpaceInvader,,,"The idea is not bad, set of topics is interesting and seems to be enjoyable. I do reading everyday during my lunch break so I look forward to this.",1425165538.0
+93,9125419,comment,9123702.0,9125276.0,0,0,1wd,,,"Thanks for the &quot;Insert, HTML&quot; trick. (Though I fear I might not remember that. I would never have expected or even tried that.)<p>URL in statusbar: Sadly no, not in the editor. Do you?",1425165527.0
+94,9125418,comment,9125076.0,9125166.0,0,0,freddier,,,It&,
+95,9125416,comment,9123336.0,9123996.0,0,0,chrowe,,,Hey - CEO of Paddle.com here. Really sorry one of our sales guys was a little overzealous :( we&,
+96,9125415,comment,9123869.0,9125039.0,0,0,cafard,,,"The curious thing about chariot warfare is that nobody seems to have a very clear idea of the tactics. The book <i>The Coming of the Greeks</i> offers a picture of the spread of Indo-European languages through a military elite that has mastered chariot tactics, but can&",
+97,9125414,comment,9083849.0,9096867.0,0,0,dylankpowers,,,Hi! If you haven&,
+98,9125413,comment,9125076.0,9125166.0,0,0,yazaddaruvala,,,"It think this answers it:<p><a href=""https://courses.platzi.com/frequently-asked-questions/",
+99,9125412,comment,9124232.0,9125337.0,0,0,noblethrasher,,,"If I know what the state machine/protocol looks like, I can have a better idea about how much stuff should be present.<p>For example, if the vendor claims that the product is limited to a regular grammar (a “plus” for security), but the implementation contains extra stuff in the data section, then an audit can flag it since a finite state machine should (theoretically) only need code.",1425165329.0
+100,9125411,comment,9124843.0,9124843.0,0,0,bootload,,,"<i>&quot;Like living in Paris, there is satisfaction in the very idea of pâtisserie: so romantic!&quot;</i><p>Where I live, I have a local Pâtisserie. My own observations: each piece of food is the result of precision; hard work; tradition; and the best locally sourced ingredients. The owners are French, so I go there to touch-up my language skills, order a montainard, café, half a dozen croissant for later and sit down.<p>The produce in the shop window, mirrors the seasons.<p>The article nails the daily grind of production. If you look at the photographs, [0] you will see each item is identical, neatly presented and fresh. The selection is seasonal because most of the ingredients are home grown. I marvel at how locals ask for, &",
+101,9125410,comment,9124805.0,9125274.0,0,0,proveanegative,,,"This kind of thing tends to happen to historical terms. Groups that trace their lineage from group X call themselves X, especially if the name has positive associations. This happened with, to use a somewhat controversial example, the term &quot;liberal&quot; in the US but, curiously, not in Europe. In computing you could say that this happened, and continues to happen, with the term &quot;hacker&quot; (&quot;growth hackers&quot; are a recent example).",1425165284.0
+102,9125409,comment,9123336.0,9123336.0,0,0,chrowe,,,"Hey, I&",
+103,9125408,comment,9125155.0,9125155.0,0,0,alkonaut,,,"If you find the &quot;classes&quot; section makes no sense, it&",
+104,9125407,comment,9122275.0,9122612.0,0,0,thomasfoster96,,,Curated probably wouldn&,
+105,9125406,comment,9124176.0,9125370.0,0,0,idunning,,,I don&,
+106,9125405,comment,9122275.0,9123408.0,0,0,thomasfoster96,,,Yes and postruptive for when the company runs out of ideas.,1425165085.0
+107,9125404,comment,9112250.0,9116469.0,0,0,EdwardDiego,,,I&,
+108,9125403,comment,9124125.0,9125328.0,0,0,idunning,,,"Some techniques, e.g. random forest, give variable importance indicators for free. If you can test it out, give it a go - don&",
+109,9125402,story,,,1,0,neworder,Free Improv,https://abandoneddepot.wordpress.com/2015/02/28/free-improv/,,1425165024.0
+110,9125401,comment,9124125.0,9125366.0,0,0,idunning,,,"If you are disciplined, and separate data into training and testing sets, you can try as many models as you want without fear of overfitting. Indeed, optimizing over the parameters of a model on the training set is essential (pruning parameters in a tree, regularization weights, etc.) and can be thought of as training  large number of models.<p>If you aren&",
+111,9125400,comment,9124805.0,9125354.0,0,0,icebraining,,,I don&,
+112,9125399,comment,9124530.0,9125376.0,0,0,officialjunk,,,dry heat-sensitive paper won&,
+113,9125398,comment,9125076.0,9125237.0,0,0,jonesetc,,,Free isn&,
+114,9125397,comment,9125130.0,9125384.0,0,0,s_q_b,,,><i>The article is pointing out that governments like to increase the money supply every year and Bitcoin doesn&,
+115,9125396,comment,9123630.0,9125349.0,0,0,auxym,,,"Interesting, didn&",
+116,9125395,story,,,2,0,Selfcommit,No More Voice Plans,http://www.selfcommit.com/2015/02/no-more-voice-plans.html,,1425164903.0
+117,9125393,comment,9125212.0,9125212.0,0,0,greenyoda,,,"Prior discussion:<p><a href=""https://news.ycombinator.com/item?id=9119364"" rel=""nofollow"">https://news.ycombinator.com/item?id=9119364</a>",1425164820.0
+118,9125392,comment,9124530.0,9125375.0,0,0,ianlevesque,,,Or boil in our Keurig machines.,1425164754.0
+119,9125391,comment,9125325.0,9125325.0,0,0,kylek,,,Human-induced stress makes me eat more too :/,1425164748.0
+120,9125390,comment,9124650.0,9125028.0,0,0,Mz,,,<i>Those who cannot learn from history are doomed to repeat it.</i><p>-- George Santayana<p><i>The unexamined life is not worth living.</i><p>-- Socrates<p>I&,
+121,9125389,comment,9124944.0,9125338.0,0,0,SigmundA,,,Yet you walk around outside in 428-750 terahertz radiation at 120 watts per square meter without ill effect (mostly).,1425164710.0
+122,9125388,comment,9124530.0,9125375.0,0,0,ebiester,,,"So, when heating up leftovers, you have to clean up an extra pot. That is what the microwave does for me. (That said, I also love my kettle.)",1425164699.0
+123,9125387,comment,9123577.0,9125313.0,0,0,keslag,,,"You mean like the shit-show that railways, telephones, and the internet as it stands right now are?<p>edit: In addition to down voting me zaroth, would you mind including examples of how common carrier doesn&",
+124,9125385,comment,9125130.0,9125369.0,0,0,anigbrowl,,,"By that logic, private ownership of gold should be forbidden. That did happen once, during the Great Depression, but that policy was abandoned in the 1960s and nobody has made any attempt to reinstate it since.<p><a href=""http://en.wikipedia.org/wiki/Gold_Reserve_Act"" rel=""nofollow"">http://en.wikipedia.org/wiki/Gold_Reserve_Act</a>",1425164611.0
+125,9125384,comment,9125130.0,9125344.0,0,0,leereeves,,,The article is pointing out that governments like to increase the money supply every year and Bitcoin doesn&,
+126,9125383,comment,9123577.0,9125281.0,0,0,MBCook,,,"> VISA, MasterCard and SWIFT have damaged their own brands...<p>Do you honestly think anyone outside HN and other very tech heavy crowds knows about this? Do you think they&",
+127,9125382,story,,,53,30,tejasmanohar,Boris – A tiny REPL for PHP,https://github.com/d11wtq/boris,,1425164554.0
+128,9125381,story,,,2,0,DiabloD3,The Man Who Crafted the Patriot Act Now Supports Your Right to Encrypt Data,http://motherboard.vice.com/read/the-man-who-crafted-the-patriot-act-now-supports-your-right-to-encrypt-data,,1425164550.0
+129,9125380,comment,9125076.0,9125335.0,0,0,freddier,,,We had a live class with Sam Altman two weeks ago. And Gitlab and Sails.js this week. We&,
+130,9125379,story,,,1,0,DiabloD3,“What the Hell Is That?” a History of Weird Planetary Features,http://motherboard.vice.com/read/what-the-hell-is-that-a-history-of-weird-planetary-features,,1425164502.0
+131,9125378,comment,9124232.0,9125272.0,0,0,noblethrasher,,,"Since IP4 and TCP each have a “length field”, they&",
+132,9125377,comment,9123702.0,9125323.0,0,0,e15ctr0n,,,>  not prioritising an address that exactly matches what I&,

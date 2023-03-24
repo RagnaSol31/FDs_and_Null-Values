@@ -1,0 +1,129 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10364173,comment,10361943.0,10364021.0,0,0,analog31,,,"Yes. I had a nice steak in a Pyrex brand dish, in the oven. It was around 1986. When I took it out, I set it down on a cold electric stove burner. Kaboom.",1444442340.0
+1,10364172,comment,10364026.0,10364026.0,0,0,ddingus,,,Feeling anxious over the prospect of having to figure out just what I&,
+2,10364171,comment,10356933.0,10359220.0,0,0,spacemanmatt,,,Maybe your associate can fix referers next,1444442319.0
+3,10364170,comment,10364168.0,10364168.0,0,0,mappingbabeljc,,,Disclaimer: I wrote the article. I feel the HN community may find some of the business numbers for DigitalOcean and Backblaze interesting.,1444442282.0
+4,10364169,comment,10364010.0,10364079.0,0,0,RyJones,,,"One of our data providers at MSN gave us this binary blob, which we had a decoder to run over and produce a text file, which we then transformed in something regular, did a diff, and updated the table we needed to update via SQL.<p>We begged and begged for XML support. Many releases on, they trumpeted XML support! Huzzah! The XML had a header and one huge CDATA block of the Base64 encoded blob they usually sent.<p>Thanks!",1444442266.0
+5,10364168,story,,,2,1,mappingbabeljc,DigitalOcean on-track to reach $100m ARR by end of year,http://www.bloomberg.com/news/articles/2015-10-08/cloud-computing-finally-gets-some-startups,,1444442266.0
+6,10364166,comment,10363500.0,10363694.0,0,0,edc117,,,"Make some noise with your politicians, educate your neighbors, start alerting others.  US here and I&",
+7,10364165,comment,10364010.0,10364116.0,0,0,brobinson,,,"Good article on the dangers and time-wasters of MySQL: <a href=""http://grimoire.ca/mysql/choose-something-else"" rel=""nofollow"">http://grimoire.ca/mysql/choose-something-else</a>",1444442088.0
+8,10364164,comment,10363933.0,10363933.0,0,0,mentat,,,Luckily AWS already has CloudFormation is their closing? There&,
+9,10364162,comment,10358153.0,10360098.0,0,0,sriku,,,I didn&,
+10,10364161,comment,10364050.0,10364050.0,0,0,hugh4,,,Not a bad idea. Personally I&,
+11,10364160,comment,10356933.0,10361188.0,0,0,spacemanmatt,,,I run a multiuser shell system for hosting tmux/ssh/irc type usage. It&,
+12,10364159,comment,10362897.0,10363353.0,0,0,cpeterso,,,Won&,
+13,10364158,comment,10364010.0,10364010.0,0,0,hanlec,,,> Some technology is designed for massive scale and some is not. You may have to layer a little scale magic on top.<p>This is as wrong as saying that everyone needs to scale day one.,1444441911.0
+14,10364157,comment,10360285.0,10364085.0,0,0,kazinator,,,"ccache hashes the preprocessed input to gcc, hashes it, and pulls out a previously compiled object file if possible. You can use it together with distcc to farm out jobs to other machines; whether you pick their caches or yours depends on the order of ccache and distcc on the command line.",1444441888.0
+15,10364156,comment,10360430.0,10363753.0,0,0,brudgers,,,I agree that those are products which to varying degrees compete with parts of AutoDesk&,
+16,10364155,comment,10359077.0,10361009.0,0,0,plonh,,,That&,
+17,10364154,comment,10364010.0,10364010.0,0,0,oneJob,,,"Please do not use MySQL,,, unless you&",
+18,10364153,story,,,5,0,kavehs4,How Insurance Companies Profit from “Wearables”,https://www.sherbit.io/the-insurance-industry-and-the-quantified-self/,,1444441753.0
+19,10364152,story,,,70,54,snewman,London Police ‘Super Recognizer’ Walks Beat with a Facebook of the Mind,http://www.nytimes.com/2015/10/10/world/europe/london-police-super-recognizer-walks-beat-with-a-facebook-of-the-mind.html,,1444441651.0
+20,10364151,comment,10363977.0,10364036.0,0,0,eitally,,,"Model Clauses/Contracts (<a href=""https://www.dataprotection.ie/docs/Model-Contracts/38.htm"" rel=""nofollow"">https://www.dataprotection.ie/docs/Model-Contracts/38.htm</a>) are an alternative method of satisfying EU data protection requirements in dealing with overseas data transfers.  Amazon, like Google and many other multinational technology companies, have adopted these in years past.<p>What this posting means is that <i></i>* from Amazon&",
+21,10364150,comment,10364010.0,10364010.0,0,0,cdelsolar,,,I understand what you&,
+22,10364149,comment,10363500.0,10364003.0,0,0,bandrami,,,I don&,
+23,10364148,comment,10360285.0,10363135.0,0,0,vesrah,,,What physical defeat device is VW using? (There isn&,
+24,10364147,comment,10361943.0,10364021.0,0,0,wycx,,,"If you want resistance to thermal shock, go and get some old Corning Ware from a thrift store. Corning Ware can go directly from the freezer to the oven without damage.",1444441521.0
+25,10364145,comment,10359491.0,10359491.0,0,0,oneJob,,,I would just like to add my voice to the cacophony of others shouting into this particular echo chamber: Peace out Lastpass,1444441511.0
+26,10364144,story,,,2,1,doppp,How a bunch of government space geeks at NASA won the internet,http://qz.com/420267/how-a-bunch-of-government-space-geeks-at-nasa-won-the-internet/,,1444441462.0
+27,10364143,comment,10356933.0,10362764.0,0,0,spacemanmatt,,,It wasn&,
+28,10364142,comment,10363500.0,10363856.0,0,0,yarrel,,,> You never have to use somebody else&,
+29,10364141,comment,10363107.0,10363834.0,0,0,wmf,,,An FPGA dev kit probably costs more than a NIC and is harder to program.,1444441340.0
+30,10364140,story,,,1,0,mhb,Reports of Human Waste in San Francisco Map,https://willyem.cartodb.com/viz/156b1e0c-5b45-11e5-9351-0e018d66dc29/public_map,,1444441335.0
+31,10364138,comment,10362141.0,10362916.0,0,0,spenczar5,,,"At the end of the day, it&",
+32,10364137,comment,10359077.0,10363222.0,0,0,plonh,,,"Then &quot;handshake&quot; bit is rose colored view of the past. Scams were incredibly common in the past.  Real estate, diamond and gold jewelry, and even the original &quot;snake oil&quot; and patent medicines, and all the classic &quot;confidence man&quot; scams.",1444441300.0
+33,10364136,comment,10363480.0,10363480.0,0,0,archimedespi,,,I had massive problems getting 3d up and running. I&,
+34,10364135,comment,10360733.0,10360733.0,0,0,cubano,,,It seems to me that opinion shaping on Twitter has been using this effect for at least the past year.,1444441244.0
+35,10364134,story,,,8,0,Flopsy,Recruiter Hall of Shame,http://milk.com/home/danfuzz/resume/bad-eggs.html,,1444441227.0
+36,10364133,comment,10362094.0,10364097.0,0,0,marcosdumay,,,"Access to natural resources.<p>How do you expect the non-rich to get land area, energy and materials to produce anything at all?",1444441204.0
+37,10364132,comment,10364081.0,10364081.0,0,0,hugh4,,,Is the standard Uber Black really a Mercedes S-Class now? What happened to the Town Cars?<p>I&,
+38,10364131,comment,10364010.0,10364116.0,0,0,philliphaydon,,,I don&,
+39,10364130,comment,10360285.0,10362705.0,0,0,baobabaobab,,,"At least in my corner of the industry (commercial) , we&",
+40,10364129,comment,10362141.0,10363180.0,0,0,spenczar5,,,"They can do better - they explicitly list in another part of the handbook what every employee receives (<a href=""https://github.com/clef/handbook/blob/master/Employment%20Policies/Salary%20and%20Equity%20Compensation.md"" rel=""nofollow"">https://github.com/clef/handbook/blob/master/Employment%20Po...</a>):<p>> Every employee will be offered 41,963 Clef stock options (~.9% of outstanding shares, including the option pool these are drawn from). As mentioned above, they can also choose to reduce their salary by $5k/year in exchange for 4,663 more options (totalling ~1% of outstanding shares).<p>This is a genuinely impressive commitment to transparency.",1444441151.0
+41,10364128,comment,10363480.0,10363967.0,0,0,Gankro,,,"Piston is pretty quirky, honestly. The window builder is pretty vanilla, but the event-processing-for-loop stuff is super quirky.<p><i>The `e` that is yielded by iterating the window is the window itself WHAT</i><p>Especially because the examples use stuff that is basically impossible to find in the docs (even though the docs are auto-generated from the source!). The modularity makes it really hard to tell how anything works, what anything is, or what functionality anything has.",1444441143.0
+42,10364127,story,,,7,0,iamnewhere,Ask HN: How to build a product org?,,I&,
+43,10364126,comment,10359077.0,10363769.0,0,0,plonh,,,Why would you intentionally harass victims like that?,1444441063.0
+44,10364125,comment,10363500.0,10363953.0,0,0,EdSharkey,,,"I personally draw a distinction between the gigantic-sized stuff the US federal government does (military and wars, fiscal and monetary policy, taxes, transfer payment programs) and the medium-sized stuff (HUD, EPA, FCC, etc.)<p>The medium sized stuff can be steered by the adminstration in power.  The people you elect can exert influence in those areas, I mean.<p>But the huge stuff is out of their control.  The military especially is very interesting to me because no war just happens spontaneously.  It&",
+45,10364124,comment,10363977.0,10364046.0,0,0,tetrep,,,">my understanding is that AWS itself does not migrate, replicate, or otherwise transfer data out of its EU regions.<p>Not at all correct, the article is quite explicit that transfer out of EU regions is allowed:<p>&quot;This is possible because AWS has already obtained approval from EU data protection authorities (known as the Article 29 Working Party) of the AWS Data Processing Addendum and Model Clauses to enable transfer of personal data outside Europe, including to the US with our EU-approved Data Processing Addendum and Model Clauses. AWS customers can continue to run their global operations using AWS in full compliance with the EU Data Protection Directive (Directive 95/46/EC). The AWS Data Processing Addendum is available to all AWS customers who are processing personal data.&quot;",1444441004.0
+46,10364122,comment,10358432.0,10359328.0,0,0,etrautmann,,,"Very cool example.  Clear and compelling use case, well-engineered simple solution, obvious market and benefit to the world.",1444440952.0
+47,10364120,comment,10362094.0,10364111.0,0,0,yummyfajitas,,,"Yes, we&",
+48,10364119,comment,10364010.0,10364010.0,0,0,baldfat,,,Relational Databases still rule the roost for almost every possible problem minus a handful of instances.<p>Personally I would go the Fork of MariaDB or my prefer DB of Postgres.,1444440889.0
+49,10364118,comment,10362094.0,10364106.0,0,0,yummyfajitas,,,I&,
+50,10364117,comment,10362094.0,10363975.0,0,0,function_seven,,,> How will those non-rich people buy consumer goods if they have no money?<p>How will those rich people sell consumer goods if the poor don&,
+51,10364116,comment,10364010.0,10364010.0,0,0,dpratt,,,"I agree, I&",
+52,10364115,comment,10362141.0,10362141.0,0,0,throwawaymaroon,,,"Guide to your equity: you should assume your equity is worthless just out of the nature of startup risk.<p>Even if it ends up being worth something, you should assume that your employer will do everything they legally can to dilute or otherwise devalue your financial reward from equity.<p>Getting employee equity will always be, at best, a few crumbs from the loaf you&",
+53,10364114,comment,10361915.0,10363870.0,0,0,Rexxar,,,"They are not trying to do statistics, they are just exhibiting a counter-example to a commonly accepted &quot;truth&quot;.\nIf everybody thinks swan are white, you just have to show one black swan to prove than the theory &quot;all swans are white&quot; is false.",1444440810.0
+54,10364113,comment,10363500.0,10364109.0,0,0,walterbell,,,"Those pre-TPP cases are nothing compared to the future combined scope of TPP (Pacific), TTIP (Europe) and RCEP (China, Korea, India, and other Asian countries).<p>Never say there is nothing you can do.  Tell other people about ISDS.  Share the videos [1][2][3][4].<p>Jon Oliver&",
+55,10364112,comment,10363737.0,10364089.0,0,0,nacs,,,A better way to filter those out algorithmically would be to simply look at the thumbs-up vs thumbs-down ratio.<p>The ones with misleading titles/thumbnails often have far more down-votes than up-votes yet YouTube continues to show those as the highest recommended/relevant (I guess Google prefers click-throughs over user-satisfaction).,1444440674.0
+56,10364111,comment,10362094.0,10364097.0,0,0,DonaldFisk,,,They don&,
+57,10364110,comment,10364081.0,10364081.0,0,0,detaro,,,Interesting URL slug... someone changed the title to the published one to late in the process?,1444440638.0
+58,10364109,comment,10363500.0,10364003.0,0,0,yrro,,,This is incredible. Reading the details of the cases listed on that site makes me feel sick. And there is absolutely nothing I can do about it.,1444440607.0
+59,10364107,comment,10363480.0,10363480.0,0,0,stevebmark,,,Are any of the games actually hosted online? Seems like a big missed opportunity if not.,1444440562.0
+60,10364106,comment,10362094.0,10364097.0,0,0,wstrange,,,"Law enforcement, retained by the wealthy to shield them from the unpleasantness of the masses.",1444440559.0
+61,10364105,comment,10360613.0,10360613.0,0,0,dlapiduz,,,"If you are interested in contributing to cloud.gov check out all our open source repos: <a href=""https://docs.cloud.gov/ops/repos/"" rel=""nofollow"">https://docs.cloud.gov/ops/repos/</a>",1444440525.0
+62,10364104,story,,,6,0,wbhart,Julia v0.4.0 Release Notes,https://github.com/JuliaLang/julia/blob/release-0.4/NEWS.md,,1444440513.0
+63,10364103,story,,,2,0,danso,The Federal Prisoners About to Be Released,https://www.themarshallproject.org/2015/10/09/meet-the-federal-prisoners-about-to-be-released,,1444440491.0
+64,10364102,comment,10361094.0,10364055.0,0,0,nickff,,,"From what I read, they were never even sure of what the centripetal acceleration (G-force) actually was, because of the uncertainty of the measurements.  Either way, I suppose you could call this research, but I have always categorized this as a proof of concept of a potential research method.<p>It should also be noted that NASA has had trouble with tethers in the past, due to vibrations along the wire(s) and orbital mechanics related issues.",1444440484.0
+65,10364101,comment,10361674.0,10363205.0,0,0,geofft,,,Aren&,
+66,10364100,comment,10336530.0,10351417.0,0,0,hazzajay,,,"Wow, that&",
+67,10364099,comment,10363933.0,10363933.0,0,0,lwander,,,"[Terraform](<a href=""https://terraform.io/"" rel=""nofollow"">https://terraform.io/</a>) is a great tool for representing infrastructure as code, plus, it&",
+68,10364098,story,,,1,0,dumindunuwan,Elon Musk and Y Combinator President on Thinking for the Future,https://www.youtube.com/watch?v=SqEo107j-uw,,1444440378.0
+69,10364097,comment,10362094.0,10363975.0,0,0,yummyfajitas,,,"Money is irrelevant. The question is actually, &quot;how will these non-rich people obtain consumer goods if they produce nothing of value to trade for them&quot;.<p>That&",
+70,10364096,story,,,1,0,dgudkov,BlackBerry is gearing up to launch its first-ever Android device,http://arstechnica.com/gadgets/2015/10/blackberry-ceo-wont-commit-to-bb10-devices-hints-at-leaving-handset-market/,,1444440333.0
+71,10364095,comment,10363737.0,10363928.0,0,0,nacs,,,"Most of those are just manually selected thumbnails by the uploader. After uploading, YT gives you 3-5 thumbnails you can choose from.<p>Also, partnered accounts are allowed to upload custom thumbnails (which can be any image, not necessarily even a screenshot from the video).",1444440321.0
+72,10364094,comment,10362094.0,10364051.0,0,0,function_seven,,,"Well, yeah. If jobs are cut in half, and the immigrants steal the other half, then were are you?<p>(I&",
+73,10364093,comment,10362094.0,10363888.0,0,0,tedks,,,">While I agree with many of your points, and certainly there are many people who get exploited. But overall, if employers and employees are agreeing to mutual employment terms without coercion, then by definition it is not exploitation.<p>Right. Employers and employees agree to mutual employment terms without coercion. That is the world we live in. Also, consumers make rational choices to maximize their happiness, advertising exists to inform people of products and give them more information to rationally make decisions, and competition between rival corporations drives down prices and makes everything better for consumers. Employees can negotiate better wages because if they don&",
+74,10364092,comment,10359710.0,10363973.0,0,0,ThrustVectoring,,,I think we&,
+75,10364091,comment,10361094.0,10363410.0,0,0,Steko,,,> And this desire won&,
+76,10364090,comment,10363088.0,10363088.0,0,0,sebastianconcpt,,,"And there is no reason not to make it load a modern image too: \n<a href=""https://bertfreudenberg.github.io/SqueakJS/"" rel=""nofollow"">https://bertfreudenberg.github.io/SqueakJS/</a>",1444440160.0
+77,10364089,comment,10363737.0,10363928.0,0,0,pupulon9,,,Is there a way YouTube could alter the &quot;view count&quot; to only include views where 100% of the video has been watched? May help cut down on videos with misleading thumbnails and/or titles.,1444440126.0
+78,10364087,comment,10362094.0,10363798.0,0,0,littletimmy,,,"I disagree. When labor is truly obsolete, I think there will be a concerted effort to reduce the world&",
+79,10364086,comment,10363500.0,10363873.0,0,0,ddingus,,,>>>I&,
+80,10364085,comment,10360285.0,10363802.0,0,0,function_seven,,,Imagine a compiler that recognizes when you&,
+81,10364084,comment,10363500.0,10364039.0,0,0,vezzy-fnord,,,"See Jon Gnarr, who started an openly satirical joke political party in Iceland called the Best Party, but actually ended up winning the mayoral post of Reykjavik. At which point the Best Party became a serious effort.<p>Nation state fully intact. Donald Trump is far less dramatic and just another cookie cutter populist.",1444439994.0
+82,10364083,story,,,3,0,confiscate,Dell Files IPO for Cybersecurity Unit,http://techcrunch.com/2015/10/09/dell-files-ipo-for-cybersecurity-unit/,,1444439993.0
+83,10364082,comment,10359710.0,10359710.0,0,0,amadeusw,,,This is great! I&,
+84,10364081,story,,,3,2,confiscate,SF Nerds Can Now Impress Dates with UberSELECT,http://techcrunch.com/2015/10/09/shallow/,,
+85,10364080,comment,10359225.0,10363025.0,0,0,dikdik,,,"I like hearing him speak, I like the &",
+86,10364079,comment,10364010.0,10364010.0,0,0,inanutshellus,,,A couple years ago I built a very robust and intricate virtual inventory system for integrating with third-party vendors. I created two accessible endpoints: one highly customizeable webservice endpoint (I&,
+87,10364078,comment,10359491.0,10362457.0,0,0,clinta,,,I also love pass. My problem now though is what to recommend to family and friends. I&,
+88,10364077,story,,,2,0,dmor,"Reflecting on Raising Mattermark’s Series A, One Year Later",http://mattermark.com/reflecting-on-raising-mattermarks-series-a-one-year-later/,,1444439924.0
+89,10364076,comment,10364010.0,10364058.0,0,0,capkutay,,,Maybe they&,
+90,10364075,story,,,2,0,confiscate,Open Bionics Creates Disney-Inspired Bionic Hands for Amputee Kids,http://techcrunch.com/2015/10/09/open-bionics-creates-disney-inspired-bionic-hands-for-amputee-kids/,,1444439886.0
+91,10364074,comment,10362141.0,10363326.0,0,0,dmor,,,Don&,
+92,10364073,story,,,2,0,confiscate,What Car Dealers (Still) Think About Elon Musk and Company,http://techcrunch.com/2015/10/09/what-car-dealers-still-think-about-elon-musk-and-company/,,1444439851.0
+93,10364072,comment,10363500.0,10364057.0,0,0,striking,,,"So Sanders gets less attention and is campaigning based on the facts rather than his personality.<p>But although he tends to vote the same as many other Democrats, he is very dangerous to moneyed interests in politics. No one&",
+94,10364071,comment,10362141.0,10363330.0,0,0,dmor,,,"Oh yeah, usually i just send a spreadsheet. Even the stock options aren&",
+95,10364070,comment,10360285.0,10363135.0,0,0,function_seven,,,"The term &quot;defeat device&quot; refers to any mechanism, physical or otherwise, designed to defeat emmissions controls. It&",
+96,10364069,comment,10362140.0,10362140.0,0,0,toomuchtodo,,,"Yes, because I believe the economy can be a more &quot;fair&quot; place, and that everyone should have a minimum quality of life (voting for Bernie Sanders in 2016).",1444439778.0
+97,10364068,comment,10363500.0,10363935.0,0,0,WaltPurvis,,,Recording TV shows with a VCR was not and is not illegal in the United States. In what jurisdictions is it (nominally) illegal?,1444439714.0
+98,10364067,comment,10359614.0,10363710.0,0,0,mvid,,,How would one go about it? A hosted database access layer that follows these rules behind the scenes?,1444439709.0
+99,10364066,comment,10356416.0,10361696.0,0,0,eranation,,,Mostly anomaly detection.,1444439627.0
+100,10364065,comment,10361997.0,10363812.0,0,0,mhb,,,His new book is also great.,1444439594.0
+101,10364064,comment,10358597.0,10363951.0,0,0,solofounder1,,,"I follow your thinking.  The ad networks could begin transforming their content in subtle ways which the eye cannot detect but which could throw off simple pattern matching thereby forcing the blocker client to employ an algorithmic approach.<p>see <a href=""https://en.wikipedia.org/wiki/BPCS-Steganography"" rel=""nofollow"">https://en.wikipedia.org/wiki/BPCS-Steganography</a><p>The networks would be able to utilize many cores in parallel to mutate the content, but the blocker client would have to run it&",
+102,10364063,comment,10363500.0,10364039.0,0,0,striking,,,It means people are so tired of listening to self-interested politicians toe the party line that they&,
+103,10364062,comment,10361094.0,10361624.0,0,0,pp19dd,,,"To answer your question, I found this credited in a regurgitated PR from some lazy news aggregator. Their site was 800 words that said next to nothing, crediting the rich PDF.  The referenced document offered so much more than the site that I got mesmerized by it, and hence the link.  Think they had some very talented (albeit print) designers work on this, so no other forms.<p>I mean look at the last page. It&",
+104,10364060,comment,10360613.0,10360921.0,0,0,jdavis703,,,The thing you&,
+105,10364059,comment,10360795.0,10361946.0,0,0,Tloewald,,,Apple&,
+106,10364058,comment,10364010.0,10364010.0,0,0,CurtMonash,,,"Oddly, Pinterest is a flagship user of HBase.",1444439406.0
+107,10364057,comment,10363500.0,10364053.0,0,0,NhanH,,,"No they are not:<p><a href=""http://fivethirtyeight.com/features/stop-comparing-donald-trump-and-bernie-sanders/"" rel=""nofollow"">http://fivethirtyeight.com/features/stop-comparing-donald-tr...</a><p>Notably ",
+108,10364056,story,,,97,17,juanrossi,How We Partitioned Airbnb’s Main Database in Two Weeks,http://nerds.airbnb.com/how-we-partitioned-airbnbs-main-db/,,1444439395.0
+109,10364055,comment,10361094.0,10362558.0,0,0,baobabaobab,,,"NASA actually did a tethered artificial gravity experiment during Gemini with the target docking vehicle. They got it working, although they only spun it up to like .01g.",1444439388.0
+110,10364054,comment,10362452.0,10363896.0,0,0,baudehlo,,,The system is great. Only reason I have had to dislike it is that they would forward messages out of order. I think that might be fixed now after I told them to look into lamport clocks. It caused some problems with forwarding to Intercom.,1444439377.0
+111,10364053,comment,10363500.0,10364035.0,0,0,striking,,,Or Bernie Sanders.<p>They&,
+112,10364051,comment,10362094.0,10363912.0,0,0,InclinedPlane,,,All the more hilarious in the context of the &quot;immigrants are stealing our jobs&quot; narrative that has always been popular.,1444439289.0
+113,10364050,story,,,3,1,bootload,Do College Admissions by Lottery,http://www.nytimes.com/roomfordebate/2015/03/31/how-to-improve-the-college-admissions-process/do-college-admissions-by-lottery,,1444439289.0
+114,10364047,comment,10359225.0,10363372.0,0,0,dikdik,,,"We have also had ZERO democratic debates. Many people, especially the older generation that still gets most of their news from tv, haven&",
+115,10364045,comment,10360430.0,10360430.0,0,0,grogenaut,,,Looks like none of autodesk&,
+116,10364044,story,,,1,0,artag,YourMechanic (YC W12) is looking for full stack engineers and Data Scientists,https://www.yourmechanic.com/careers,,1444439135.0
+117,10364043,comment,10363500.0,10364035.0,0,0,NhanH,,,"Yep, I don&",
+118,10364042,comment,10362831.0,10362831.0,0,0,nacs,,,Attempting to register on the site&,
+119,10364041,comment,10358448.0,10362728.0,0,0,meric,,,Apologies in advance for a religious post. I think it&,
+120,10364040,comment,10360733.0,10363797.0,0,0,nhaehnle,,,Twitter is another example of consciously making use of this.,1444439054.0
+121,10364039,comment,10363500.0,10363962.0,0,0,insanity55,,,go on...,1444439002.0
+122,10364038,story,,,12,1,swills,Duel of Two Libraries: Cairo and Skia,http://www.slideshare.net/SamsungOSG/duel-of-two-libraries-cairo-skia,,1444438903.0
+123,10364037,comment,10358276.0,10363547.0,0,0,contravert,,,"Okay, I briefly scanned through your comments as you suggested, and you have nothing to support your claims except stereotypes. You even admit you don&",
+124,10364036,comment,10363977.0,10363977.0,0,0,anonymousDan,,,Can anyone explain in layman&,
+125,10364035,comment,10363500.0,10363938.0,0,0,iamadam,,,The nation state is dead <i>unless</i> Donald Trump manages to pull off a victory.,1444438869.0
+126,10364034,story,,,2,0,walterclifford,VMware Packages Containers for the Enterprise,https://redmondmag.com/articles/2015/10/01/vmware-packages-containers.aspx,,1444438862.0
+127,10364033,comment,10363737.0,10363737.0,0,0,Nyetan,,,Seeing this run through an equivalent of the deep dream visualizer could be really interesting -- what _are_ people looking for in thumbnails? I&,

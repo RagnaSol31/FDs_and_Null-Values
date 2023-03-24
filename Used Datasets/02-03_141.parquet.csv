@@ -1,0 +1,127 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10246429,story,,,19,4,spenczar5,"The Good, the Bad, and the Ugly: The Unix Legacy [pdf] (2001)",http://herpolhode.com/rob/ugly.pdf,,1442717970.0
+1,10246428,story,,,7,4,bhartzer,This Dad Wrote a Check to His Kid’s School Using Common Core Math,http://www.buzzfeed.com/morganshanahan/this-dad-wrote-a-check-to-his-kids-school-in-common-core-mat?bffbparents&utm_term=4ldqphs,,
+2,10246427,comment,10245416.0,10245416.0,0,0,Roadgazer,,,"This type of devices can be potentially used in the areas with poor ventilation, like in between the mountains. Poor ventilation (lack of the winds) leads to the situation when all smog stays there, and just smog from the cars is enough to create breathing problems. Years before, at some European resorts, buses were forbidden due to this reason, only electrical trolleys allowed.",1442717919.0
+3,10246426,story,,,2,0,cardamomo,Apple to shut down transit app HopStop next month,http://www.macworld.com/article/2983820/mapping/apple-shutting-down-transit-app-hopstop-in-october.html,,1442717910.0
+4,10246425,comment,10245673.0,10246123.0,0,0,EdwardDiego,,,"Well, once a Stream has been consumed, you can&",
+5,10246424,comment,10240001.0,10242015.0,0,0,plonh,,,The vast majority of consumers won&,
+6,10246423,comment,10243011.0,10245376.0,0,0,rcthompson,,,NaN doesn&,
+7,10246422,comment,10245673.0,10246297.0,0,0,davnicwil,,,"> If someone passes in a final FooBar to a method, and you mutate the FooBar during the method for any reason, then after the method is done the object remains mutated.<p>Fair enough, but if FooBar is your class there&",
+8,10246420,comment,10245102.0,10246323.0,0,0,wooster,,,"The stagecoach roads of the American West? (Often un-deeded right-of-ways through private lands, many now home to paved roads.)",1442717812.0
+9,10246418,comment,10240001.0,10242366.0,0,0,brc,,,I think he means to have the car collect it&,
+10,10246417,comment,10245673.0,10246309.0,0,0,jacques_chester,,,> <i>A modern Spring application will have precisely an application context XML file with one line per &quot;bean&quot; eg:</i><p>I prefer my Spring applications to look like this:<p><pre><code>    @SpringBootApplication\n    public class Application { ... }</code></pre>,1442717782.0
+11,10246416,comment,10245673.0,10245833.0,0,0,EdwardDiego,,,What would you use instead of an IDE? Learning Intellij is a lot easier than learning Vim or Emacs.,1442717761.0
+12,10246415,story,,,4,0,madhephaestus,BowlerStudio generates walking robots you can 3d print out,http://neuronrobotics.com/,,1442717743.0
+13,10246414,comment,10245673.0,10246217.0,0,0,EdwardDiego,,,"If you have required parameters in a Builder, you&",
+14,10246413,comment,10243794.0,10243794.0,0,0,IgorPartola,,,"Well, now I need to recalibrate my monitors, except this time I will know what I am doing. Thanks for the great article.",1442717712.0
+15,10246412,comment,10245673.0,10246025.0,0,0,Pyxl101,,,"The other replies kind of hit on this, but I&",
+16,10246411,comment,10245960.0,10246328.0,0,0,andrewliebchen,,,"Yeah, that yellow text in a blue background has aged so well. At least there won&",
+17,10246410,comment,10245673.0,10246060.0,0,0,jacques_chester,,,Spring is on Java 7 for the 4.x series.<p>Spring 5 will take Java 8 as the baseline.,1442717681.0
+18,10246409,comment,10245836.0,10246394.0,0,0,wmf,,,"Archiving data to 35mm motion picture film has been done, including putting the source code to the decoding software on the leader of the film.",1442717664.0
+19,10246408,comment,10240001.0,10244176.0,0,0,plonh,,,Capital punishment is a deterrent against rational actors.,1442717623.0
+20,10246407,story,,,3,0,adib,HTTPS alone is not enough to secure your back end,http://cutecoder.org/programming/server-ready-ios-9-el-capitan/,,1442717611.0
+21,10246405,comment,10245102.0,10246305.0,0,0,nickv,,,Yes... China is about as unregulated w.r.t. to industry as you can get.  Have you ever seen the air quality in Beijing?  Do you remember the air quality in LA in the 80s before stricter CARB standards?  (Or are you too young to?),1442717563.0
+22,10246404,comment,10245673.0,10245880.0,0,0,EdwardDiego,,,> Spring binding<p>Not sure what in particular you&,
+23,10246402,comment,10240001.0,10241134.0,0,0,brc,,,"To me the tests have to be real measurements rather than a proxy.<p>Having a special test makes the test easy to pass.<p>If the test was instead to have sampled data from x,000 cars, gathered at service intervals fit within certain bands, then that would require actually engineering most cars to return within the set range across a wide range of use types.<p>Smaller niche manufacturers could just pass a simpler test to encourage market entrants.  200 slightly worse cars is nothing against 200,000 intentionally bad cars.<p>The regulations need to target what is trying to be achieved rather than simplified proxies.",1442717498.0
+24,10246401,story,,,18,2,qCOVET,Harvard is a 'hedge fund with a university attached to it',http://www.businessinsider.com/why-harvard-should-be-taxed-2015-9,,1442717390.0
+25,10246400,comment,10245673.0,10245673.0,0,0,jacques_chester,,,I&,
+26,10246399,comment,10246322.0,10246322.0,0,0,greenyoda,,,I don&,
+27,10246398,comment,10245102.0,10246384.0,0,0,Moshe_Silnorin,,,"The machine learning people I know have been very unimpressed with it. From the little I understand, it cannot run the style of neural network that have been breaking records.",1442717310.0
+28,10246397,comment,10245156.0,10245636.0,0,0,reality_czech,,,I&,
+29,10246396,comment,10245836.0,10246394.0,0,0,chronomex,,,"Tyvek, perhaps?  I&",
+30,10246395,comment,10244739.0,10244739.0,0,0,nickv,,,I&,
+31,10246394,comment,10245836.0,10245836.0,0,0,ant6n,,,So I&,
+32,10246392,comment,10244771.0,10245188.0,0,0,lgas,,,It&,
+33,10246391,comment,10246322.0,10246322.0,0,0,0x400614,,,> I&,
+34,10246390,comment,10245033.0,10245033.0,0,0,Roadgazer,,,"I understand this thing is aimed to create super power perception within tech novice ppl when some command line is learned, but, seriously, this new fashion of claiming that if you wrote couple lines of code means you are software guru now, is absurd.",1442717041.0
+35,10246389,comment,10245033.0,10246327.0,0,0,atbattag,,,Suggesting kill first before kill -9 seems like a good idea. Like you said kill is an important tool. Like you said this is for beginners so its up to you how much more detail to go into with the command.,1442717040.0
+36,10246388,comment,10245102.0,10245102.0,0,0,BinaryIdiot,,,Interesting; I wonder if they&,
+37,10246387,comment,10245960.0,10246328.0,0,0,curiousjorge,,,secure as hell too when you are just serving html files.,1442717015.0
+38,10246386,comment,10240001.0,10243719.0,0,0,brc,,,"A lot of jurisdictions in Europe are rethinking their diesel prioritisation a precisely because of particulate and Nox emissions.<p>In the case of Volkswagen, the TSi engines are a much better buy than the TDi engines.  Better power delivery, clean running and nearly as good fuel economy.",1442716923.0
+39,10246385,story,,,3,0,anishkothari,Entrepreneurship Lessons from Family Businesses,http://www.nytimes.com/interactive/2015/09/19/business/smallbusiness/entrepreneurship-lessons-family-business.html?_r=0,,1442716866.0
+40,10246384,comment,10245102.0,10245982.0,0,0,BinaryIdiot,,,"While that makes sense on paper, in practice do those chips provide better support for networked, autonomous activities? I haven&",
+41,10246383,comment,10245102.0,10246206.0,0,0,azernik,,,"Of course there is. They are common goods: <a href=""https://en.wikipedia.org/wiki/Common_good_(economics)"" rel=""nofollow"">https://en.wikipedia.org/wiki/Common_good_(economics)</a>",1442716785.0
+42,10246382,comment,10245102.0,10246082.0,0,0,epistasis,,,"Your brevity and weird use of quotation marks makes your comment somewhat ambiguous, and I can come up with a few interpretations: 1) that the government should not have the power to enable or disable this new business model, or 2) that it&",
+43,10246381,comment,10240001.0,10243152.0,0,0,brc,,,Naturally aspirated means the engine breathes air at regular atmospheric pressure - ie is not turbo or supercharged.<p>The type of fuel delivery has nothing to do with whether it is naturally aspirated or not.  A NA engine can have fuel injection and a supercharged engine can have a carburettor.,1442716721.0
+44,10246380,comment,10245102.0,10246290.0,0,0,bsbechtel,,,Actually that&,
+45,10246379,comment,10245836.0,10245836.0,0,0,curiousjorge,,,"this has some pretty powerful applications for example for politics or mass dissemination of paper based digital files for the public to quickly consume.<p>Imagine, if students could start posting free textbook pdf files just by handing out a piece of paper which you could scan, or maybe with a phone one day, and instantly receive the file.<p>Why not QR code? QR code needs connectivity while this solution would just require you to get your hands on the paper.",1442716717.0
+46,10246378,comment,10245102.0,10246305.0,0,0,azernik,,,"When it comes to economic rules, China went from a centrally-controlled economy to a shockingly unregulated (by Western standards) market economy. If you want to speak up against the government you&",
+47,10246377,comment,10246042.0,10246299.0,0,0,pmiller2,,,"No, I&",
+48,10246376,comment,10245960.0,10246328.0,0,0,cbd1984,,,The animated GIFs are an especially nice touch.,1442716618.0
+49,10246375,comment,10246042.0,10246042.0,0,0,Roadgazer,,,"Complexity of tech is growing, and complexity level difference  gap in stem  skills is growing as well. Thus its always a race between the need and skills availability, rather than total number of workers. But yeah,The real story is that employers want to pay workers less.",1442716598.0
+50,10246374,comment,10244950.0,10244950.0,0,0,spenczar5,,,Bootstrapping deserves to be much better known. The fact that it works is miraculous.,1442716551.0
+51,10246373,comment,10245673.0,10246240.0,0,0,nobleach,,,You have won at the internet. I&,
+52,10246372,comment,10237697.0,10240246.0,0,0,toomuchtodo,,,"Merchants in the US are now legally allowed to charge a surcharge for credit card transactions, regardless of their merchant agreement.",1442716496.0
+53,10246371,comment,10245928.0,10245928.0,0,0,dthal,,,I&,
+54,10246370,story,,,1,0,DevOpsDotCom,"CrowdChat on 9/22-DevOps: Code,Culture,Community with IBMInterConnect",https://crowdchat.net/ibminterconnect2016,,1442716438.0
+55,10246369,comment,10245673.0,10246311.0,0,0,nobleach,,,Java as a language is totally fine! It has everything one might need. The culture totally sucks. Oracle leads the march toward what is the &quot;standard&quot;. Jersey is a great leap out of this.,1442716432.0
+56,10246368,comment,10245928.0,10246085.0,0,0,mentat,,,Back in the day I got quite decent at using that to take notes in class. Was an interesting tool.,1442716423.0
+57,10246367,comment,10237697.0,10241592.0,0,0,toomuchtodo,,,...which leads to higher prices charged to consumers. Credit cards and their benefits exact a roughly 3% surcharge on ecommerce in the aggregate.,1442716402.0
+58,10246366,comment,10243105.0,10245638.0,0,0,ethbro,,,> The best defense is a good foreign policy that avoids conflict in the first place.<p>Like some kind of hypothetical agreement with Iran?,1442716384.0
+59,10246365,comment,10244353.0,10245373.0,0,0,lee,,,"This comment is slightly grayed, meaning it has some number of downvotes to it. But it doesn&",
+60,10246364,comment,10245928.0,10246340.0,0,0,akovaski,,,I think this just recognizes your gestures (i.e. it does not recognize shapes you draw). I added an example of a clockwise triangle (using the site&,
+61,10246363,comment,10245156.0,10246242.0,0,0,bsder,,,Fixed-precision is fine.  Until your quantum isn&,
+62,10246362,comment,10244950.0,10245817.0,0,0,texthompson,,,I&,
+63,10246361,comment,10243011.0,10243773.0,0,0,cbd1984,,,"> It is valid ISO C, if it isn&",
+64,10246360,comment,10245928.0,10246209.0,0,0,sgentle,,,Very cool. It&,
+65,10246359,story,,,1,0,voltagex_,Reproducible Builds (2014) [video],https://media.ccc.de/browse/congress/2014/31c3_-_6240_-_en_-_saal_g_-_201412271400_-_reproducible_builds_-_mike_perry_-_seth_schoen_-_hans_steiner.html,,1442716123.0
+66,10246358,comment,10246356.0,10246356.0,0,0,unfasten,,,"Also available a 169 MB scanned PDF: <a href=""http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19970009949_1997011911.pdf"" rel=""nofollow"">http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/1997000...</a><p>This is a history of Saturn rockets commissioned by NASA (and thereby in the public domain)",1442716119.0
+67,10246357,comment,10246131.0,10246325.0,0,0,newjersey,,,Any solution that does not involve Epic or Cerner would be a good start.,1442716104.0
+68,10246356,story,,,7,3,unfasten,Stages to Saturn: A Technological History of the Apollo/Saturn Launch Vehicles,http://history.nasa.gov/SP-4206/sp4206.htm,,1442716087.0
+69,10246355,comment,10244353.0,10244666.0,0,0,lee,,,"The only problem with this is that ad blocking is kind of indiscriminate.  There are obviously obnoxious ads out there, those that use popups, use audio, video, or dialog boxes that block out the main content.<p>But on the other hand, there are non-intrusive ads that are text or simple image based ones. Those ads get hit in the cross-fire of ad-blocking.<p>Most of the sites that are producing content charge nothing from the user except for in the form of advertising. That&",
+70,10246354,comment,10245960.0,10246328.0,0,0,0x400614,,,"And the Browsers back button works flawlessly, wow.",1442716045.0
+71,10246353,comment,10245102.0,10246323.0,0,0,jMyles,,,I acknowledge that absence of government hasn&,
+72,10246352,comment,10245542.0,10245542.0,0,0,steveklabnik,,,We&,
+73,10246351,story,,,2,0,zackify,Show HN: Meme Generating Slackbot from Photos of You,https://github.com/zackify/slackify,,1442715950.0
+74,10246350,comment,10244398.0,10244398.0,0,0,rdlecler1,,,These networks ought to be robust to minor changes in W. It&,
+75,10246349,comment,10245928.0,10246275.0,0,0,doomrobo,,,"The arrow has to be made by starting the head on the left side, drawing back to the center, and ending on the right",1442715888.0
+76,10246348,story,,,5,0,squeakynick,How to determine if four points will make a square,http://datagenetics.com/blog/september42015/index.html,,1442715882.0
+77,10246347,comment,10245960.0,10246328.0,0,0,miander,,,They say you don&,
+78,10246346,comment,10236668.0,10245781.0,0,0,irixusr,,,"The most decorated soldier in american history is Smedley Butler. Two medals of honor. He wrote a book, &quot;war is a racket&quot; where he comes to the conclusion that his entire career was to further the interests of big money and elites.<p>We peons don&",
+79,10246345,comment,10244532.0,10244532.0,0,0,Roadgazer,,,Helping startups and investors to get connected and close the deal is very valuable by itself. Though it should be real help to matter to both. And it&,
+80,10246344,comment,10245928.0,10246275.0,0,0,QuercusMax,,,Same here. It seems like it&,
+81,10246343,comment,10245033.0,10245033.0,0,0,sciencesama,,,Commandline.fu is a good source too,1442715682.0
+82,10246342,comment,10225049.0,10234239.0,0,0,voltagex_,,,"Wow, I didn&",
+83,10246341,comment,10245416.0,10246248.0,0,0,ars,,,It&,
+84,10246340,comment,10245928.0,10245928.0,0,0,daurnimator,,,Drawing anything with a clockwise motion I got a caret.,1442715634.0
+85,10246339,comment,10245183.0,10245522.0,0,0,labster,,,"In California chaparral, both area and rate of burning far exceed the natural levels.  I suspect that the plan for the entire Los Padres ecosystem would be full suppression of wildfire, except perhaps in the most remote areas.  Alamo Mountain has off-road vehicle trails, so I suspect it already has increased fire risk.<p><pre><code>   &quot;Although chaparral is adapted to periodic wildfire,\n   there is substantial evidence that fires are burning at\n   unprecedented frequencies, and this repeated burning\n   (at intervals closer than 15–20 years apart) exceeds\n   many species’ resilience&quot;</code></pre>\nftp://www.geology.sdsu.edu/pub/IEMM/CSS/Other%20papers/SyphardEtAl2007.pdf",1442715625.0
+86,10246338,comment,10245102.0,10246241.0,0,0,mch82,,,"Actually, the constitution is written so that things are legal by default. All rights not explicitly granted to the national government go to the states or to the people. Edit: in the United States.",1442715620.0
+87,10246337,story,,,7,0,smacktoward,U.S. And China Seek Arms Deal for Cyberspace,http://www.nytimes.com/2015/09/20/world/asia/us-and-china-seek-arms-deal-for-cyberspace.html?_r=0,,1442715586.0
+88,10246336,comment,10244950.0,10246232.0,0,0,saboot,,,"I second this, also for teaching yourself there is a solutions manual available which is great for doing the exercises with.",1442715562.0
+89,10246335,comment,10245673.0,10246207.0,0,0,adevine,,,"Yeah, Optionals came from other languages, not originally Java.<p>IMO the problem with Optionals is that they&",
+90,10246334,comment,10245033.0,10246218.0,0,0,wildlogic,,,"I prefer my own garden from the ground up, but I still eat McDonalds!",1442715537.0
+91,10246333,comment,10245490.0,10246258.0,0,0,__s,,,"<a href=""https://github.com/ludamad/boarders"" rel=""nofollow"">https://github.com/ludamad/boarders</a> was a start on trying to implement off of the Zillions of Games format",1442715481.0
+92,10246332,comment,10246042.0,10246042.0,0,0,squozzer,,,"We should not kid ourselves.\nThe STEM shortage is a cynical fabrication.\nIt is essentially war conducted with political, economic, and propaganda weapons. Against us.\nKeep that in mind when you decide to do something about it.",1442715468.0
+93,10246331,comment,10245416.0,10246321.0,0,0,tadfisher,,,"Not only that, but will the net effect be positive if this device is powered by, say, a coal-burning electrical plant?",1442715453.0
+94,10246330,comment,10245033.0,10246089.0,0,0,mhartl,,,"<i>What has the world come to where the command line is something foreign to a software developer?</i><p>What in the world are you talking about? The whole point of this tutorial is to teach command-line basics as a first step toward <i>becoming</i> a software developer. From the tutorial:<p><i>Many programming tutorials either gloss over the command line or assume you already know it. But understanding the basics of the command line is absolutely essential to becoming a skilled developer. Indeed, if you look at the desktop of an experienced computer programmer, even on a system with a polished graphical user interface like Macintosh OS X, you are likely to find a large number of “terminal windows”, each containing a series of commands at a command line (Figure 1). Proficiency at the command line is also useful for anyone who needs to work with developers, such as product managers, project managers, and designers. Making this valuable skill accessible to as broad an audience as possible is the goal of Learn Enough™ Command Line to Be Dangerous.</i>",1442715414.0
+95,10246328,comment,10245960.0,10245960.0,0,0,RDeckard,,,"Love the 1996-era website design. Loads instantly, no ads, no non-sense.",1442715334.0
+96,10246327,comment,10245033.0,10246159.0,0,0,mhartl,,,So would it be reasonable to recommend <i>kill $pid</i> as a first step and <i>kill -9 $pid</i> if that doesn&,
+97,10246326,comment,10245836.0,10245836.0,0,0,mholt,,,Has anyone actually used this? I&,
+98,10246325,comment,10246131.0,10246131.0,0,0,pkaye,,,I think there can be lots of efficiency improvements that can be done at a hospital through IT innovations. Basically better interconnection and automation of system and services.,1442714969.0
+99,10246324,comment,10244353.0,10244684.0,0,0,user_666,,,"Very much so, yes.",1442714952.0
+100,10246323,comment,10245102.0,10246286.0,0,0,rayiner,,,"Name one anarchist civilization that has created sophisticated road networks, even in antiquity?<p>Road construction is the archetypal government activity. You go back to 3000 BC and look at ancient Egypt&",
+101,10246322,story,,,2,4,classicsnoot,Ask HN: Do you have stories about Luddite authority overreaction?,,I write for my University newspaper and i am doing a piece on Ahmed Mohamed and Zero Tolerance culture. I&,
+102,10246321,comment,10245416.0,10245416.0,0,0,arghbleargh,,,"When this kind of device is being used outside, does it actually have a noticeable impact on the air quality? Purifying enough air to fill Madison Square Garden sounds impressive, but it&",
+103,10246320,comment,10240001.0,10244110.0,0,0,brc,,,"Well, that&",
+104,10246319,story,,,1,0,cryptoz,"Ben Evans: Platforms, distribution and audience",http://ben-evans.com/benedictevans/2015/9/14/distribution-and-audience,,1442714866.0
+105,10246316,comment,10245673.0,10245788.0,0,0,rbolkey,,,Have to agree here. The article&,
+106,10246315,comment,10242678.0,10245865.0,0,0,mentos,,,"Yea, are we just living in an enormous three dimensional grid or are there true vacuums in space?",1442714841.0
+107,10246314,comment,10245836.0,10245836.0,0,0,pkaye,,,"Reminds me of this <a href=""https://en.wikipedia.org/wiki/Cauzin_Softstrip"" rel=""nofollow"">https://en.wikipedia.org/wiki/Cauzin_Softstrip</a>.<p>Magazines would print out their source code and you could scan it in. Of course I had no money to buy such an expensive machine so was relegated to mind numbing typing and the inevitable typos that came with it.",1442714831.0
+108,10246313,comment,10240001.0,10244586.0,0,0,brc,,,"Exactly - in my car with people talking and radio on, you won&",
+109,10246312,comment,10240001.0,10242066.0,0,0,brc,,,Loud Harleys frustrate and annoy me.  Most owners seem to remove the factory pipes and fit the loudest ones possible.<p>It&,
+110,10246311,comment,10245673.0,10246045.0,0,0,habosa,,,That&,
+111,10246310,story,,,23,0,giancarlostoro,"Valve hits a Linux landmark – 1,500 games on Steam",http://arstechnica.com/gaming/2015/09/valve-hits-a-linux-landmark-1500-games-available-on-steam/,,1442714660.0
+112,10246309,comment,10245673.0,10245673.0,0,0,cletus,,,I mostly agree with this list but some things I have issues with.<p>The biggest is DI. Having witnessed what a tangled mess large Guice codebases can become where you really have no idea what is providing what I have to say that Spring here gets a bad rap from the all-XML days and (IMHO) it is actually the cleanest and easiest to work with.<p>The author mischaracterizes Spring too:<p>> It has a either code-based wiring or XML configuration-based wiring.<p>Actually Spring can use a mix of XML code configuration and auto-wiring.<p>A modern Spring application will have precisely an application context XML file with one line per &quot;bean&quot; eg:<p><pre><code>    <bean class=&quot;com.foo.SomeClass&quot; />\n</code></pre>\nand that&,
+113,10246308,comment,10244532.0,10244532.0,0,0,rmason,,,The article is click bait.  These days if you&,
+114,10246307,comment,10246042.0,10246244.0,0,0,xienze,,,> They give talks at conferences[1] and write blog posts saying there&,
+115,10246306,comment,10245673.0,10245774.0,0,0,mabbo,,,The benefits of streams isn&,
+116,10246305,comment,10245102.0,10246290.0,0,0,jMyles,,,Just so I understand: You are holding up <i>China</i> as a refuge from totalitarian tendencies?,1442714582.0
+117,10246304,comment,10244619.0,10245390.0,0,0,Asbostos,,,"The author is being a bit prejudiced by saying her severe examples are somehow not acceptable while more high functioning ones are. Most people are unable to care for themselves. We depend on others to help provide food and water for us, accommodation, etc. Most of us won&",
+118,10246303,comment,10245673.0,10246217.0,0,0,habosa,,,"If you have this problem, the library you&",
+119,10246302,comment,10246042.0,10246190.0,0,0,mkozlows,,,"It may well be accurate to say that employers are reluctant to raise wages for developers, and that in the absence of that reluctance, salaries would be much higher.<p>But to claim that devs are basically the same as exploited migrant agricultural labor is absurd to the point of offensiveness.",1442714539.0
+120,10246301,comment,10244353.0,10245068.0,0,0,manigandham,,,Ad industry is definitely not getting &quot;phased out&quot;.,1442714524.0
+121,10246300,comment,10244353.0,10244599.0,0,0,manigandham,,,Business models aren&,
+122,10246299,comment,10246042.0,10246142.0,0,0,srinivasan,,,"> if there were a real shortage, wages would be expected to grow. This is because employers would compete over a small number of workers, and they would need to raise wages to attract those workers.<p>This is the crux of the article&",
+123,10246298,comment,10238132.0,10241555.0,0,0,eric_bullington,,,"(Sorry for late response.)<p>No, for this to work, you&",
+124,10246297,comment,10245673.0,10246213.0,0,0,mabbo,,,"tl;dr: final parameters != immutable and safety, and they look like they ought to.<p>A lot of people write &quot;final&quot; in front of every. single. declaration. And they do that because someone once told them that was good. But then you remember that Java is a language which all non-primitive types are passed by reference, so your &",
+125,10246296,comment,10246042.0,10246099.0,0,0,greggman,,,what about biotech?,1442714400.0

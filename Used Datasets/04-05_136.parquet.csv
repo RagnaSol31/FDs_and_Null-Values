@@ -1,0 +1,100 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10101561,comment,10101469.0,10101545.0,0,0,xiaq,,,"If you control virtually every aspect of media in a country, I don&",
+1,10101559,comment,10100342.0,10100342.0,0,0,brador,,,"The idea of unpaid overtime for salaried employees is you do the overtime then take the hours off later in the week,  so work 3 extra hours monday, take thursday morning off.<p>If you&",
+2,10101558,comment,10101469.0,10101499.0,0,0,escape_goat,,,It&,
+3,10101557,comment,10099945.0,10101248.0,0,0,mistermann,,,"Actually, not going up 10% a year in Canada pretty much could be considered a collapse!<p>>  I&",
+4,10101556,comment,10093152.0,10094425.0,0,0,mdaniel,,,"As a piece of unsolicited UX feedback, if you chose a different word for one of &quot;cleared&quot;/&quot;cleaned&quot; it would make those two radically different actions stand out from one another in the list. I do see that &quot;cleared&quot; is accompanied by a score, so it&",
+5,10101555,comment,10101209.0,10101435.0,0,0,cjbarber,,,What sort of price range out of curiosity,1440219362.0
+6,10101554,comment,10095819.0,10097666.0,0,0,caf,,,I was responding mainly to the assertion about the trivial amount of extra circuitry required.  The cacheline-crossing case means that it&,
+7,10101553,story,,,1,0,greattypo,Build Great Products for Schools as a PM at Clever (YC S12),,"The market for educational software is a mess.  It’s hard for developers to get their products into schools, it’s hard for teachers to use them, and school districts have no idea how effective those products are.<p>At Clever, we’re working to change all that.  We provide schools with a free API and single sign-on solution that makes using educational apps a breeze.  We’ve grown fast: after three years, we’re moving data for a quarter of all K-12 students in America (19M kids), and 42,000 schools are using us to manage their education apps.  Our goals are much bigger than that, though.  We want to be two things:<p>-a single place where schools can easily manage and analyze all the software they’re using, and<p>-a single identity that students can use to see everything they’ve learned across multiple apps.<p>We’re currently a team of 80 people (33 engineers) based on downtown SF.  Right now we’re looking for a stellar product manager: someone who can see around corners, bulldoze through obstacles, and marshal engineering support to build products that schools and students love.<p>Check us out at <a href=""https://clever.com/about/jobs",
+8,10101552,comment,10101469.0,10101501.0,0,0,xiaq,,,Maybe they are going to block or attack GitHub again until GitHub takes down all clones of it.,1440219334.0
+9,10101551,comment,10098998.0,10100820.0,0,0,YZF,,,Not sure when that came historically but I remember the diag instruction that was used to talk to the &quot;hypervisor&quot;.  E.g. diag 8 was used to issue CP commands from your program.  That&,
+10,10101550,comment,10101229.0,10101476.0,0,0,dang,,,Thank you. Praise for simplicity is high praise.,1440219281.0
+11,10101549,comment,10101469.0,10101527.0,0,0,TrevorJ,,,"I think there are more than a few countries where this sort of thing could <i>easily</i> happen. Tech talks get canceled at the behest of the powers that be with some regularity, I don&",
+12,10101548,comment,10097460.0,10101083.0,0,0,emileifrem,,,I can&,
+13,10101547,comment,10097221.0,10099912.0,0,0,justincormack,,,FreeBSD now does merges from github so they can accept pull requests.,1440219155.0
+14,10101546,comment,10101519.0,10101519.0,0,0,kozkozkoz,,,Would love to answer any questions about the process...,1440219079.0
+15,10101545,comment,10101469.0,10101469.0,0,0,smilekzs,,,"From Wikipedia:<p>> The Streisand effect is the phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicizing the information more widely, usually facilitated by the Internet.",1440219018.0
+16,10101544,story,,,1,0,kareemm,The perils of “Growth Mindset” education,http://www.salon.com/2015/08/16/the_education_fad_thats_hurting_our_kids_what_you_need_to_know_about_growth_mindset_theory_and_the_harmful_lessons_it_imparts/,,1440218981.0
+17,10101543,comment,10101216.0,10101216.0,0,0,a3n,,,Lead Software Developer.,1440218961.0
+18,10101542,comment,10099240.0,10101529.0,0,0,brighteyes,,,So you&,
+19,10101541,story,,,2,0,tsax,Falcon Heavy,http://www.spacex.com/falcon-heavy,,1440218904.0
+20,10101540,comment,10100910.0,10100910.0,0,0,joeblau,,,I&,
+21,10101539,comment,10098998.0,10100568.0,0,0,YZF,,,Did you have a full screen terminal?<p>There were disk letters:\nTEST PASCAL A<p>A0 (invisible in read only mode)<p>Those were the days.  VM/CMS ... I spent many long nights as a teen hacking on series 370 mainframes.<p>XEDIT had a lot going for it.  On full screen terminals a lot of the interaction was local so basically zero latency.  The keyboards on these things were basically the best keyboards ever made.  Prefix commands.  The ultimate in programmability/customization via EXEC/EXEC2/Rexx .  Email applications were written using XEDIT as a base.  Being able to tab into the prefix command and operate on a bunch of lines (cc anyone?) made a lot of common operations very easy.<p>Very different than vi or emacs that were designed for character oriented devices.  XEDIT was designed for those full screen terminals and had a unique feel to it.  It was very hard for me to switch to other editors...,1440218805.0
+22,10101538,comment,10098482.0,10099862.0,0,0,jesstaa,,,It&,
+23,10101537,comment,10100932.0,10101301.0,0,0,jweir,,,Watching the video one of the approaches that is interesting is only straight lines are allowed.  The visual languages I have come across (Max/MSP and VVVV) allow diagonal lines.<p>I would reckon the strictness of the straight line has positive side effects – or avoids a class of negative side effects.,1440218669.0
+24,10101536,comment,10095730.0,10095730.0,0,0,semerda,,,Very insightful! Especially this:<p>> Sometimes people who have never experienced a rapidly growing tech startup believe that you build by creating more and more things.<p>Yes we all heard it before. But it astounds me how many startups just don&,
+25,10101535,comment,10101469.0,10101505.0,0,0,meric,,,What are you taking about? Does not work. Cannot access the code.,1440218589.0
+26,10101534,comment,10101469.0,10101500.0,0,0,hglman,,,Shadowsocks for iOS\nNotice: This version is deprecated. Please wait for iOS 9&,
+27,10101533,comment,10100932.0,10101233.0,0,0,darkmighty,,,"1) I think although LabView is quite useful, it&",
+28,10101532,comment,10099304.0,10099645.0,0,0,pron,,,> Why condemn Smalltalk for its idealistic vision when a lot of functional languages that are so trending are just as idealistic?<p>They&,
+29,10101531,comment,10100932.0,10101429.0,0,0,jweir,,,"And VVVV <a href=""http://vvvv.org"" rel=""nofollow"">http://vvvv.org</a><p>> vvvv is a hybrid visual/textual live-programming environment for easy prototyping and development. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.",1440218495.0
+30,10101530,story,,,1,0,datashovel,Gian Giudice: Why our universe might exist on a knife-edge [video],https://www.youtube.com/watch?v=b8z6HfSq7l8,,1440218467.0
+31,10101529,comment,10099240.0,10101522.0,0,0,mook,,,> People would quickly ask &quot;what is the long-term plan here?&quot; and you can&,
+32,10101528,comment,10101526.0,10101526.0,0,0,slxh,,,it&,
+33,10101527,comment,10101469.0,10101494.0,0,0,escape_goat,,,"Perhaps I am misunderstanding your use of English, because it is difficult to see how this is not a facetious question.<p>There are relatively few countries in which the government both could and would interfere with someone&",
+34,10101526,story,,,1,1,slxh,Google integrates Twitter into its desktop search results,http://thenextweb.com/google/2015/08/21/google-integrates-twitter-into-its-desktop-search-results/,,1440218359.0
+35,10101525,comment,10097630.0,10097797.0,0,0,scottjad,,,"Firefox could support WebExtension, and hence be as easy as Chrome, without deprecating XUL addons.",1440218323.0
+36,10101524,comment,10101421.0,10101421.0,0,0,zer00eyz,,,"Lets just assume you can LIVE WITHOUT the 20k in pay.<p>If you stay in your current job and put that same 20k into the  stock market for the next 4 years (80k total) and then do 10% gains for the next ten years... you come out to 200k in your pocket.<p>If the founder your talking to was asking you for 80k would you give it to him? Go ahead get out your checkbook and write him a check for 80 grand right now. See how thats going to make you feel, take a good long hard look at it. Ask yourself what its going to take to GIVE HIM that check, what would he have to tell you or show you or do for you.<p>That cash out of your pocket is REAL, its tangible. The options, don&",
+37,10101523,comment,10099945.0,10100679.0,0,0,crdoconnor,,,There&,
+38,10101522,comment,10099240.0,10101477.0,0,0,brighteyes,,,"I agree a more organized PR approach might be more effective, but it would be impossible to keep a secret like that when you&",
+39,10101521,comment,10101209.0,10101209.0,0,0,BillFranklin,,,"My colleague Ed made a cheat sheet for SaaS metrics [pdf] <a href=""https://chartmogul.attach.io/NkqgtF8H"" rel=""nofollow"">https://chartmogul.attach.io/NkqgtF8H</a>",1440218182.0
+40,10101520,comment,10100932.0,10101210.0,0,0,blup,,,"Grasshopper (Rhino) is quite successful for architecture and 3D modeling, but its also tied to the engine. Also see  <a href=""https://news.ycombinator.com/item?id=7274674"" rel=""nofollow"">https://news.ycombinator.com/item?id=7274674</a> for an exhaustive list.",1440218173.0
+41,10101519,story,,,2,1,kozkozkoz,How my app reached 200k downloads and got into Techstars,http://www.gethooksapp.com/blog/how_we_got_into_techstars.html,,1440218169.0
+42,10101518,comment,10101469.0,10101503.0,0,0,Rangi42,,,I downloaded the source code on principle. It&,
+43,10101517,comment,10101469.0,10101505.0,0,0,mullingitover,,,I don&,
+44,10101516,comment,10091974.0,10097281.0,0,0,pron,,,It&,
+45,10101514,comment,10100834.0,10101490.0,0,0,bkjelden,,,Wouldn&,
+46,10101513,comment,10100910.0,10101129.0,0,0,calebm,,,That is awesome.,1440218004.0
+47,10101511,story,,,3,0,mastermojo,The Power of Power Cycling,http://growthalytics.com/troubleshooting/programming/2015/08/21/the-power-of-power-cycling/,,1440217933.0
+48,10101510,story,,,1,0,Akuma99,5 tools for the ultimate toilet reading experience,https://medium.com/@IamAdamJowett/5-tools-for-the-ultimate-toilet-reading-experience-2d85484ac9d0,,1440217902.0
+49,10101509,comment,10099945.0,10100248.0,0,0,crdoconnor,,,>The current drop in prices seems to mostly be a price war between the Saudis and new producers in the US. It&,
+50,10101508,comment,10098561.0,10100772.0,0,0,npalli,,,Pretty standard usage in online marketplaces that connect buyers and sellers and take a commission/cut on the transaction. The first official use was probably in the ebay IPO prospectus from 17 years ago (they call it gross merchandise sales which is the same concept). So I wouldn&,
+51,10101507,comment,10101209.0,10101440.0,0,0,7Figures2Commas,,,This company&,
+52,10101505,comment,10101469.0,10101469.0,0,0,Rangi42,,,This wasn&,
+53,10101504,comment,10101469.0,10101494.0,0,0,brobinson,,,Maybe China?  There&,
+54,10101503,comment,10101469.0,10101469.0,0,0,vladmiller,,,And there are more than 500 forks. I&,
+55,10101501,comment,10101469.0,10101469.0,0,0,smaili,,,"While I understand what the gov is trying to do, who&",
+56,10101500,comment,10101469.0,10101469.0,0,0,MarkPNeyer,,,what was this?,1440217659.0
+57,10101499,comment,10101469.0,10101469.0,0,0,brobinson,,,"Main site for the software:  <a href=""https://shadowvpn.org"" rel=""nofollow"">https://shadowvpn.org</a><p>Were the repos mirrored anywhere, or would that present a risk to the original author?",1440217658.0
+58,10101498,comment,10098482.0,10099604.0,0,0,pekk,,,That type declaration is easily as unreadable as any &quot;pointer to function returning pointer&quot; declaration in C.,1440217614.0
+59,10101497,comment,10096716.0,10096716.0,0,0,brianjking,,,"Yes, this seems to be a pretty popular issue. Star the issue and submit a bug report at the Google Code repo&",
+60,10101496,comment,10101469.0,10101494.0,0,0,copperx,,,Mexico.,1440217512.0
+61,10101495,comment,10097542.0,10097542.0,0,0,tempestn,,,"The pictures of the flares are really something when you consider how incredibly bright the sun is normally.<p>This one sentence irked me a bit though: &quot;We don’t have a great way of forecasting solar flares, and they hit the Earth too quickly for NOAA to provide airline companies with advance notice (it takes about eight minutes for sunlight to reach us).&quot;<p>Those are two true statements, but they aren&",
+62,10101494,comment,10101469.0,10101488.0,0,0,teej,,,Not being facetious here - what country do you live in that you think the government can&,
+63,10101493,comment,10099240.0,10100346.0,0,0,mook,,,">  The problem these days is established extensions that get legitimately sold or their access data hacked, and malware rolled out to the users.<p>Published extensions on addons.mozilla.org (i.e. the built-in extension distribution channel) already go through a review for every update.  Someone from Mozilla _already_ has to take a look.<p>Of course, the addon review queue is currently ~ 10 weeks (according to their blog, from Aug 12).  Relative to the 6 week Firefox release cycle, it&",
+64,10101492,comment,10100834.0,10101426.0,0,0,janesvilleseo,,,I simply think it&,
+65,10101491,comment,10101209.0,10101209.0,0,0,barely_stubbell,,,This is Entrepreneurship 101,1440217332.0
+66,10101490,comment,10100834.0,10101426.0,0,0,strathmeyer,,,"If they worked their employees less, the jobs would be more desirable, and they&",
+67,10101489,comment,10096990.0,10099442.0,0,0,ironchef,,,"&quot;I am not saying the numbers you provide are inaccurate, but they reflect the data of a special interest group who is trying to raise money.&quot; - That&",
+68,10101488,comment,10101469.0,10101469.0,0,0,realfuncode,,,“Two days ago the police came to me and wanted me to stop working on this. Today they asked me to delete all the code from GitHub. I have no choice but to obey.<p>I hope one day I&,
+69,10101487,comment,10097208.0,10100960.0,0,0,mortenjorck,,,"Wow. I always thought of Tim and Eric as more of a funhouse mirror to low-budget 90s video production, but that... That genuinely looks like a Tim and Eric sketch. The measuredly frantic pacing, the incongruous juxtaposition of composited video, the creepy smiles, are all part of their playbook.",1440217200.0
+70,10101486,comment,10101209.0,10101209.0,0,0,t23,,,great response to sama&,
+71,10101485,comment,10099945.0,10100902.0,0,0,crdoconnor,,,It&,
+72,10101483,comment,10101478.0,10101478.0,0,0,Jake232,,,&quot;I don&,
+73,10101482,comment,10099325.0,10099325.0,0,0,onedev,,,Evernote + it&,
+74,10101481,comment,10101480.0,10101480.0,0,0,rnovak,,,"Hello All,<p>I&",
+75,10101480,story,,,1,1,rnovak,Show HN: ImageBrowser.app – An animated image browser for OS X,https://www.robert-novak.com/index.php/products/,,1440217043.0
+76,10101479,comment,10101229.0,10101276.0,0,0,ymse,,,Did you have Javascript disabled? Upvoting with JS enabled generates an additional GET request for an image with the same href as the vote button.<p>Perhaps part of their security minded hacker detection system. ;),1440217032.0
+77,10101478,story,,,1,5,penguinlinux,Ask HN: What should I do about job offer?,,What do you do when you get a great job offer with a hot startup but your company&,
+78,10101477,comment,10099240.0,10099903.0,0,0,mook,,,"> There is no way to avoid an announcement about an intention to change the API, before stating the API in full. Yes, it caused uncertainty, and that&",
+79,10101476,comment,10101229.0,10101296.0,0,0,spydum,,,"I really admire you guys for keeping it simple. I have seen too many outages due to piss poor &quot;high availability&quot; design, which would have simply been avoided by not trying to be highly available! Damn, we really need a catchy term/phrase for that (besides ironic)",1440216972.0
+80,10101475,comment,10090520.0,10092001.0,0,0,jtheory,,,I think you&,
+81,10101474,story,,,1,0,miralabs,Laso Schaller's Insane 59 Meter Cliff Jump,https://www.youtube.com/watch?v=j5uXL4w90yU,,1440216918.0
+82,10101473,comment,10099602.0,10099602.0,0,0,acpmasquerade,,,Hackpad is wonderful. We use it as a quick tool to discuss our ideas. It&,
+83,10101472,comment,10099945.0,10100813.0,0,0,crdoconnor,,,>This is why the idea that the free market will solve global warming doesn&,
+84,10101471,comment,10099945.0,10100975.0,0,0,a8da6b0c91d,,,American producers are bankrupt. The fields are worth pennies on the dollar. Wake up. It&,
+85,10101470,comment,10097296.0,10100627.0,0,0,Sanddancer,,,It&,
+86,10101469,story,,,1543,526,realfuncode,“Two days ago the police came to me and wanted me to stop working on this”,https://github.com/shadowsocks/shadowsocks-iOS/issues/124,,
+87,10101468,story,,,55,4,dhawalhs,How Coursera Cracked the Chinese Market,http://techcrunch.com/2015/08/21/how-coursera-cracked-the-chinese-market/,,1440216776.0
+88,10101466,comment,10101229.0,10101407.0,0,0,zer00eyz,,,"Pshaw... Push on Friday, Patch on Saturday, Pray on Sunday that no one calls me to fix anything else!",1440216686.0
+89,10101465,comment,10101209.0,10101446.0,0,0,webmasterraj,,,"Cutting burn rate is notoriously hard to do. Startups are built on dreams, and every single one of them has a longer list of things it wants to do than the capability to do them. Accepting that the status quo has changed means founders have to cut expectations of themselves and what they hoped to achieve in 6/12/18 months. Instead of cutting burn, many will start the hamster wheel of trying to raise money, even at unfavorable terms, and realize the reality only too late.<p>Short answer: burn rates will continue to be high until too late into the down cycle. So current levels matter, a lot.",1440216623.0
+90,10101463,comment,10099240.0,10099882.0,0,0,mook,,,It is.  And it&,
+91,10101462,comment,10101360.0,10101360.0,0,0,jburwell,,,"There are good points to consider on this site.  However, I can find individual(s) taking credit for it.  It&",
+92,10101461,comment,10098561.0,10101074.0,0,0,sumanthvepa,,,"You would be right, if the goods sold were purchased by the retailer and then resold. In that situation, you would have revenue and CoGS. However, often retails do not own the goods they sell. In that situation the price paid for the widget is not the revenue of the retailer. It counts as the GMV, and the revenue is the portion that goes to the retailer.",1440216413.0
+93,10101460,comment,10101421.0,10101421.0,0,0,smt88,,,"The equity is very likely to be worth nothing in the long-run. Even if it does become liquid at some point, that&",
+94,10101459,comment,10099945.0,10100991.0,0,0,a8da6b0c91d,,,"This is temporary. The fracking operations are in the process of going belly up, but pumping like mad in the meantime.",1440216205.0
+95,10101458,comment,10099602.0,10099602.0,0,0,ilaksh,,,Interesting still based on the original Etherpad rather than Etherpad-lite which is actually based on Node.js and works much better.<p>Etherpad-lite has a lot of interesting plugins.,1440216196.0
+96,10101457,story,,,7,0,luu,Proofing Spirits with a Homemade Electrobalance,http://qqrs.github.io/blog/2015/08/21/proofing-spirits-with-homemade-electrobalance/,,1440216157.0
+97,10101456,comment,10101421.0,10101436.0,0,0,kjksf,,,It&,
+98,10101455,comment,10100834.0,10100834.0,0,0,mmagin,,,&quot;They may be the byproduct of systems and institutions that have taken on lives of their own and serve no one’s interests. That can happen if some industries have simply become giant make-work projects that trap everyone within them.&quot;,1440216090.0

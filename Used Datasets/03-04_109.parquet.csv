@@ -1,0 +1,128 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7650390,comment,7649524.0,7649930.0,1,0,maak,,,"Really? An implied freedom in the US? I agreed with your initial post, but this one is ridiculous.",1398484796.0
+1,7650389,comment,7648893.0,7650146.0,2,0,wyager,,,I didn&,
+2,7650387,story,,,1,0,_matthewpalmer,The Downsides of Storyboards and Interface Builder [Short],http://matthewpalmer.net/blog/2014/04/26/the-downsides-of-storyboards-and-interface-builder-ios-development/,,1398484731.0
+3,7650386,comment,7647958.0,7649282.0,1,0,ericcumbee,,,Probably not going to happen since the ultimate goal is return to launch site.,1398484685.0
+4,7650385,comment,7649782.0,7650205.0,5,0,dfc,,,"<p><pre><code>  > Not unusually, I popped off before reading the post.\n</code></pre>\nDoes &quot;popped off&quot; mean that you did not read the linked article and merely used the title as a cue for a freeform writing exercise? And this is not an unusual thing for you to do while browsing HN?",1398484664.0
+5,7650384,comment,7648237.0,7648902.0,1,0,eridius,,,"Git does have support for &quot;shallow&quot; clones, that don&",
+6,7650383,story,,,7,2,Doubleguitars,'I Think Google's Pretty Dangerous and Thuggish. I’ve Always Said That.',http://www.modernluxury.com/san-francisco/story/i-think-googles-pretty-dangerous-and-thuggish-ive-always-said,,1398484579.0
+7,7650382,story,,,1,0,bane,DC and Virginia Have the Fastest Internet in the US,http://inthecapital.streetwise.co/2014/04/25/dc-virginia-fastest-internet/,,1398484563.0
+8,7650381,comment,7649782.0,7650348.0,1,0,literalusername,,,"By &quot;irony&quot;, I&",
+9,7650380,comment,7649678.0,7649678.0,0,0,puppetmaster3,,, I&,
+10,7650379,comment,7647958.0,7649117.0,1,0,seanjensengrey,,,"Yeah, that chart is painful. Talking about absolute dollars with no basis is not productive.",1398484450.0
+11,7650378,comment,7649025.0,7649025.0,0,0,panzi,,,So giving a 404 for unknown get parameters should fix this for your own site? A way for Facebook to detect such a thing would be to hash the images and when two images have the same hash and only differ by some get parameter it could remember that it can ignore that parameter.,1398484445.0
+12,7650376,comment,7649063.0,7649286.0,1,0,fortyseven,,,I just had to install a USB WiFi stick for someone last week... Windows didn&,
+13,7650374,story,,,2,0,chashaz,Router Intrusion ,https://irenicus09.wordpress.com/2014/04/26/router-intrusion/,,1398484311.0
+14,7650371,comment,7649026.0,7649482.0,2,0,brewdad,,,This works for smaller jets. Every larger plane I&,
+15,7650370,comment,7649782.0,7649782.0,2,0,thrownaway2424,,,Is the font absolutely gigantic for any one else? I get 3 lines per screen on mobile chrome.,1398484205.0
+16,7650369,story,,,2,0,frankydp,Apple to replace iPhone 5 on buttons for free,http://www.cnet.com/news/apple-offers-to-replace-faulty-iphone-5-on-off-buttons-for-free/,,1398484131.0
+17,7650368,comment,7647599.0,7649565.0,1,0,fmoralesc,,,That&,
+18,7650367,comment,7650256.0,7650256.0,1,0,ibstudios,,,Associate the name with something you know. I make a mental note and associate right after the person says their name. The problem is that you aren&,
+19,7650366,comment,7649325.0,7649792.0,1,0,gee_totes,,,"My own anecdotal evidence shows no effect. Also, nice username.",1398484038.0
+20,7650365,story,,,1,0,blinkyblinky,High Altitude Balloon Project,https://plus.google.com/103943178476036266159/posts/N6PF2r8cdAY,We need help retrieving the balloon and we would greatly appreciate if anybody could help.,1398484023.0
+21,7650364,story,,,64,28,raiyu,DigitalOcean droplet console rewritten in Go,https://www.digitalocean.com/company/blog/new-super-fast-droplet-console-thanks-golang/,,1398484022.0
+22,7650363,story,,,1,0,_RPM, Requirements for Internet Hosts – Communication Layers,https://tools.ietf.org/html/rfc1122,,
+23,7650362,comment,7650256.0,7650256.0,1,0,doubt_me,,,Pay attention.<p>If you have to try to pay attention your not doing it right,1398483989.0
+24,7650361,comment,7647571.0,7649615.0,1,0,hemancuso,,,"The math on the first &quot;dead&quot; post only works out to 1PB per rack. Unless there is somehow a way to jam 90disks into 4U. The backblaze and supermicro 45 disk 4U chassis suggest that would be pretty tough. Besides, there is still a good bit of rack left at 24U of JBOD plus 3 servers and TOR.",1398483944.0
+25,7650360,story,,,1,0,ISL,Robot Orders a Scone in Mountain View (2011),https://www.youtube.com/watch?feature=player_embedded&v=mz4FshiMu3U,,1398483940.0
+26,7650359,comment,7649063.0,7650057.0,2,0,duskwuff,,,Or use the less-buggy FTDI drivers that are provided by Apple in Mac OS X 10.9. The vendor drivers are no longer needed.,1398483889.0
+27,7650358,comment,7650256.0,7650256.0,1,0,kevando,,,1) Set a goal and remember at least that. 3 people for example. \n2) Repeat their names in conversation to show reinforce the memory and show you are capable of remembering names\n3) Dont be shy about asking someone their name again. We all forget. Can&,
+28,7650357,story,,,1,0,georgecalm,Gofor: Drones on Demand Concept [video],http://www.youtube.com/watch?v=KhIh2zqycW4,,1398483872.0
+29,7650356,comment,7649524.0,7650028.0,3,0,username223,,,"> They pay for the toilets too, but that doesn&",
+30,7650355,comment,7641588.0,7644231.0,1,0,judk,,,Reddit doesn&,
+31,7650353,story,,,6,0,curtis,Meet the Cuckoo Mafia,http://blogs.discovermagazine.com/inkfish/2014/04/25/meet-the-cuckoo-mafia/,,
+32,7650352,story,,,3,0,rrtwo,"Google to end forced G+ integration, drastically cut division resources",http://arstechnica.com/gadgets/2014/04/report-google-to-end-forced-g-integration-drastically-cut-division-resources/?kw=100k_pvs&search=100k_pvs,,1398483791.0
+33,7650351,comment,7649782.0,7650080.0,2,0,sp332,,,Have you tried watching the show Royal Pains? It was hard for me to get through an episode because everyone was just incredibly awkward all the time. I don&,
+34,7650350,story,,,2,0,luu,Debugging,http://www.cs.bell-labs.com/cm/cs/pearls/sec0510.html,,1398483784.0
+35,7650349,comment,7649026.0,7649608.0,1,0,kylec,,,"Completely agree. It makes no sense to me that you have to pay to check your luggage, while carry-ons are free. It definitely should be the other way around.",1398483768.0
+36,7650348,comment,7649782.0,7649782.0,3,0,leephillips,,,"I have to admit I only made it about half way through this, by which time it seemed to me that the authors had little more grasp of the concept of irony than Alanis Morissette.<p>Irony is neither cynicism nor snark. It is an indispensable aspect of most forms of written expression; it is almost impossible to write a successful work of opinion or fiction of any length without mastering this classical tool of rhetoric.<p>Where would Shakespeare be without irony? And what of the ancient Greeks? It&",
+37,7650347,comment,7647607.0,7649941.0,1,0,steveklabnik,,,"I know next to nothing about Hong Kong, but I would have safety concerns while doing this. Is that just not an issue?",1398483759.0
+38,7650346,comment,7649325.0,7649671.0,1,0,cdelsolar,,,huh?,1398483753.0
+39,7650345,comment,7647571.0,7650219.0,1,0,cjensen,,,That&,
+40,7650344,comment,7649026.0,7650277.0,4,0,eckzow,,,Or press &quot;brightness -&quot; until they turn off...,1398483636.0
+41,7650343,comment,7647209.0,7647209.0,1,0,rpedela,,,"On Ubuntu 12.04 with latest Firefox, clicking signup locks up Firefox and subsequently locks up the system. Eventually I am able to launch a terminal and kill the Firefox process. Using latest Chrome, everything works fine.",1398483623.0
+42,7650342,comment,7650266.0,7650266.0,3,0,pedalpete,,,I&,
+43,7650341,comment,7649678.0,7650025.0,1,0,superuser2,,,"If this system is implemented correctly, a successful authentication is a guaranteed 1:1 match to a specific human being in the real world.<p>It would solve SPAM, for one thing - SPAM is any message not signed by a real-world identity. If a real-world identity <i>does</i> send junk mail, you block them. They can&",
+44,7650340,comment,7649815.0,7650125.0,2,0,pcurve,,,"&quot;They are also less likely to distinguish gender by Chinese and to a lesser extent Indian names, so we could probably discount gender bias at that point.&quot;<p>The study made sure that Indian and Chinese names used had 95-100% successful gender ID rate.  See Page 55-60.",1398483597.0
+45,7650339,comment,7649063.0,7650323.0,4,0,mindslight,,,"Yes, but RJ45 and cat5 don&",
+46,7650338,comment,7646985.0,7647964.0,3,0,steveklabnik,,,"I have also found very similar things with my writing; one of my books is on GitHub, one is in a private repo, and a third is with a publisher. Merging pull requests is _waaaay_ easier than reading through emails or forum postings and fixing it yourself.",1398483587.0
+47,7650337,comment,7649782.0,7649782.0,1,0,austrapolith,,,&quot;But David Foster Wallace predicted a hopeful turn. He could see a new wave of artistic rebels who &,
+48,7650336,comment,7649063.0,7650127.0,2,0,byuu,,,"I was able to build a serial bridge between an SNES and a PC on a simple breadboard with stock parts: <a href=""http://i.imgur.com/sPKGvl.jpg"" rel=""nofollow"">http://i.imgur.com/sPKGvl.jpg</a>  (the output is from a Teensy that is running as a USB<>serial device, so the PC sees it as /dev/ttyUSB0 ... the input and passthru connect DB9 to the controller port on the console, and the switch allows the original controller to work in place of the comm board.)<p>The Teensy driver code was around 10KB, and the PC code that opens /dev/ttyUSB0 was around 15KB.<p>Have been trying for over a year to implement a true USB version so that we can take advantage of the full bandwidth capability of the system, which is 2.68MB/s, which only USB high speed can do, and it&",
+49,7650335,comment,7650047.0,7650136.0,1,0,mglfkda,,,"As far as I know, most high schools in the United States end in mid-June, not mid-May.",1398483492.0
+50,7650334,comment,7649782.0,7650149.0,2,0,InclinedPlane,,,"There is beauty, and depth, and wonder in our Universe. It doesn&",
+51,7650333,comment,7649782.0,7650254.0,2,0,vidarh,,,I don&,
+52,7650332,comment,7650256.0,7650256.0,4,0,coffeecodecouch,,,Most of the time you don&,
+53,7650330,comment,7649922.0,7650328.0,1,0,lotp,,,Everyone has been raving about it. Just raised $42 million today too.,1398483398.0
+54,7650329,comment,7647571.0,7650274.0,4,0,grogers,,,"IIRC there was a similar rumor that S3 reduced redundancy storage was just cheaper rates for the exact same service. Not sure if that is true, but certainly meets the minimum viable product.<p>Glacier as S3 with sleeps seems to be a pretty reasonable extrapolation of that same idea. Plus, the sleeps are long enough that if and when they build it for real, it could be economically viable.<p>That said, if the quoted 0.3 cents is true, it should be viable as it is by just stuffing way more density in a rack and keeping them powered down most of the time... Though that rack would probably weigh tons, so you&",
+55,7650328,comment,7649922.0,7649922.0,1,0,hashtag,,,Haven&,
+56,7650327,comment,7649325.0,7649325.0,3,0,lanks,,,Rod Drury CEO/Founder of Xero has a speech impediment... that doesn&,
+57,7650326,comment,7650256.0,7650256.0,2,0,hashtag,,,Not sure if this works for everyone but I try to say their name out loud at least once or twice when they introduce themselves then if it&,
+58,7650325,comment,7648803.0,7649793.0,1,0,DonGateley,,,My thought too except I can&,
+59,7650324,comment,7649855.0,7649855.0,1,0,hyperion2010,,,If you move the page under my mouse I am going to hate your website and never come back. If your UI elements distort or displace content then you immediately and glaringly break the first rule of UI design: good UIs should not be noticed.,1398483295.0
+60,7650323,comment,7649063.0,7650303.0,4,0,ISL,,,"Ethernet is transformer-isolated [1]. If you just need to break a DC ground loop, a CAT-5 connection will do it.<p>If you look at the Tripp-Lite&",
+61,7650322,comment,7649782.0,7650288.0,5,0,vidarh,,,"Depends on what definition of nihilism you use. I would agree with the first couple of lines from Wikipedia:<p>> Nihilism (/ˈnaɪ.ɨlɪzəm/ or /ˈniː.ɨlɪzəm/; from the Latin nihil, nothing) is a philosophical doctrine that suggests the negation of one or more putatively meaningful aspects of life. Most commonly, nihilism is presented in the form of existential nihilism, which argues that life is without objective meaning, purpose, or intrinsic value.<p>But this does not mean I don&",
+62,7650321,comment,7650241.0,7650241.0,6,0,TheBiv,,,"I tried to view on mobile and the page is unreadable. OP, if you are the creator of the site, please consider having some sort of mobile optimized page! (Even if it is just an info page)",1398483265.0
+63,7650320,comment,7650256.0,7650256.0,1,0,fsk,,,"When I start a new job, I take notes on everyone&",
+64,7650319,story,,,2,0,ph0rque,When Your Mother Says She’s Fat,https://medium.com/human-parts/bf5111e68cc1,,1398483219.0
+65,7650318,comment,7648277.0,7649886.0,0,0,judk,,,Number of Western nations in Asia: 0,1398483168.0
+66,7650317,comment,7643902.0,7645935.0,1,0,aba_sababa,,,Really? I find that most Berliners speak wonderful English.,1398483160.0
+67,7650316,comment,7648408.0,7650210.0,1,0,krick,,,"Oh God. I wonder if that wonderful theory of his was invented before or after his enlightenment. Well, at least it&",
+68,7650315,comment,7650241.0,7650241.0,9,0,benwerd,,,"I get this. Yes, you could use the GitHub issues board; no problem. But the issues there are not inviting, and it&",
+69,7650314,comment,7649782.0,7649782.0,2,0,joefkelley,,,"For a great counter-argument, see:\n<a href=""http://gawker.com/on-smarm-1476594977"" rel=""nofollow"">http://gawker.com/on-smarm-1476594977</a>",1398483077.0
+70,7650313,comment,7649782.0,7650289.0,2,0,steveklabnik,,,"Vocabulary is so hard. :/<p>Yes, you&",
+71,7650312,comment,7649325.0,7650090.0,2,0,osmnshkh,,,I&,
+72,7650311,comment,7648378.0,7648378.0,1,0,idunning,,,Can anyone describe the improvements to Beamer support?,1398483024.0
+73,7650310,comment,7650256.0,7650256.0,0,0,jesusmichael,,,I dont,1398482984.0
+74,7650309,comment,7650266.0,7650266.0,3,0,jesusmichael,,,What is the the use of funds?  Your profitable so what do you need money for... Where&,
+75,7650308,comment,7647276.0,7649209.0,2,0,bzbarsky,,,"Which part of the C standard would forbid type punning a uint32 to a float32?  <a href=""http://www.open-std.org/jtc1/sc22/wg14/www/docs/dr_283.htm"" rel=""nofollow"">http://www.open-std.org/jtc1/sc22/wg14/www/docs/dr_283.htm</a> suggests that C89 explicitly allowed this, C99 at first glance did not, and was errata&",
+76,7650307,comment,7649063.0,7649646.0,4,0,secabeen,,,That&,
+77,7650306,comment,7649524.0,7650074.0,2,0,joshmn,,,You mean the website-in-an-app-looking-frame right?,1398482697.0
+78,7650305,comment,7649026.0,7650056.0,5,0,judk,,,That sounds incredibly crash-prone. I prefer to fly in one-piece airplanes.,1398482691.0
+79,7650304,comment,7647571.0,7647571.0,1,0,nroose,,,I&,
+80,7650303,comment,7649063.0,7650027.0,3,0,mindslight,,,I don&,
+81,7650302,comment,7649855.0,7649855.0,1,0,kcbanner,,,"Huh, all of these are fairly jarring and don&",
+82,7650301,comment,7649855.0,7649855.0,2,0,plicense,,,I love the work you typmanus peoplr do. Simply awesome :),1398482638.0
+83,7650300,comment,7650174.0,7650270.0,5,0,mistursinistur,,,Nope. Any really large government data is not text -- it&,
+84,7650299,comment,7639599.0,7644078.0,2,0,kristopolous,,,"computer lib is now in reprint. <a href=""http://hyperland.com/LibPage"" rel=""nofollow"">http://hyperland.com/LibPage</a>",1398482572.0
+85,7650298,comment,7649782.0,7649782.0,2,0,jccalhoun,,,These kids these days! Why back in my day...!,1398482552.0
+86,7650297,comment,7647599.0,7648396.0,2,0,spatten,,,"50 pages? Ship it already!<p>Seriously, though, if you think it&",
+87,7650295,comment,7647276.0,7647276.0,1,0,pohl,,,<i>3) Go has turned out to be a nice general purpose language and the compiler won’t be an outsize influence on the language design.</i><p>In what sort of ways does self-hosting early influence a language design? Were they hoping to avoid something in particular by delaying self-hosting?,1398482475.0
+88,7650294,comment,7639599.0,7644991.0,1,0,kristopolous,,,nothing on the mailing list yet.  If I don&,
+89,7650292,comment,7649026.0,7649248.0,2,0,mattm,,,I also do this.  I&,
+90,7650291,comment,7650241.0,7650241.0,2,0,catshirt,,,"the benefit of open sourcing my code is that other people can use it or contribute to it. why would i ever want to open source my task queue?<p>if this is a valid use case, how does this really differ from something like Github issues or a public Trello board?<p>comparing <a href=""https://waffle.io/waffleio/waffle.io"" rel=""nofollow"">https://waffle.io/waffleio/waffle.io</a> to <a href=""https://trello.com/b/nC8QJJoZ/trello-development"" rel=""nofollow"">https://trello.com/b/nC8QJJoZ/trello-development</a> i&",
+91,7650290,comment,7647276.0,7647276.0,1,0,rdc12,,,"&quot;Note: There’s a book written about converting goto code to code without goto in general, but this is a sledgehammer and not necessary here.&quot;<p>Anyone have any idea what the title of that book is?",1398482412.0
+92,7650289,comment,7649782.0,7650222.0,3,0,defen,,,"As always with these discussions, I think it comes down to what you mean by &quot;nihilist&quot;.  He certainly thought that the end of traditional Christian values was a good thing, which is why many people call him a nihilist. That&",
+93,7650288,comment,7649782.0,7650149.0,2,0,dragonwriter,,,I&,
+94,7650287,comment,7650241.0,7650241.0,4,0,rpedela,,,"I am also confused what this is. I think it is a dashboard of tasks for a GitHub project. If so, why not just use GitHub issues directly for the task list?",1398482300.0
+95,7650286,comment,7649063.0,7649498.0,3,0,jdboyd,,,"When PCI replaced ISA (which was prior to USB taking off), dealing with IRQs and DMAs was a thing of the past, making that a poor reason to say USB is superior.",1398482239.0
+96,7650285,comment,7649782.0,7650109.0,2,0,austrapolith,,,FWIW I think that the younger generation is realizing they shouldn&,
+97,7650284,comment,7643788.0,7643986.0,1,0,halostatue,,,I&,
+98,7650283,comment,7650174.0,7650270.0,2,0,coherentpony,,,">I wonder if most of the primary sources this is intended to target (i.e. govt) ...<p>The second sentence on their website appears to state otherwise: &quot;As a team we have a bias towards supporting scientific + research data use cases.&quot;<p>Edit:  Well, on further reading they do go on to say, &quot;What we&",
+99,7650282,comment,7650241.0,7650241.0,32,0,holyjaw,,,I would urge you to take another look at the flow of your landing page. I have literally no clue what your product does even after reading the infographic at the top of the page a few times.<p>- GitHub users want a way to help out on open source projects<p>- waffle.io places a dynamic badge in your GitHub README file for all to see where they can help<p>- Clicking that badge takes anyone to your public waffle.io board \nwhere users can view and edit tasks.<p>What?,1398482191.0
+100,7650281,comment,7649815.0,7650064.0,1,0,blahzay,,,Same thing I&,
+101,7650280,comment,7649524.0,7649524.0,1,0,bowmanb,,,We use Flowdock. We&,
+102,7650279,comment,7648237.0,7648874.0,3,0,jonknee,,,Facebook has never been defined by its code. They have had source leak before and no one has cared--it&,
+103,7650278,comment,7649815.0,7650190.0,1,0,pervycreeper,,,"Women tend to choose professions with better work-life balance more often than men. Not sure this holds for minorities (the stereotype is actually that immigrants work extra hard, but I have no specific data).<p>The author of the article likely believes that women and minorities are united by facing oppression or discrimination, and consequently groups them together as a single category. This cavalier approach to analysis also enables them to appropriate the oppression of certain groups for the others.",1398482075.0
+104,7650277,comment,7649026.0,7650249.0,1,0,judk,,,"Whenever I fly, the TVs auto on to show ads, sadetyt video, and more ads. The only solution I found is to physically destroy the offending devices.",1398482049.0
+105,7650276,comment,7649782.0,7650254.0,6,0,dragonwriter,,,"Actually, both the &quot;Nobody knows but Jesus&quot; and &quot;Nobody knows my sorrow&quot; versions are traditional, long-standing versions (and I can&",
+106,7650274,comment,7647571.0,7647571.0,8,0,veidr,,,"Although Glacier is interesting and I use it every day for some of my backups (a few TB of ongoing backups via Arq).<p>But I have always assumed it was just -- like the mysteriously/inappropriately killed comments from jeffers_hanging on this thread claim -- just S3 with hard delays enforced by software.<p>If you are already doing S3 for the entire world at exabyte scale, and you have petabytes of excess capacity and a bunch of aging, lower-performance infrastructure sitting around... do you really need to fuck with risky new optical disk formats?<p>It seems to me that you could just start with selling slowed-down rebranded S3, and then iterate on it.",1398482020.0
+107,7650273,comment,7650174.0,7650195.0,2,0,coherentpony,,,"Yeah, they&",
+108,7650272,comment,7648237.0,7648950.0,1,0,ulisesrmzroche,,,That&,
+109,7650270,comment,7650174.0,7650264.0,1,0,platz,,,It might not be optimal; however I wonder if most of the primary sources this is intended to target (i.e. govt) prefers to use textual data?,1398481959.0
+110,7650269,comment,7648605.0,7648605.0,1,0,owenversteeg,,,"I agree with this, but I have to say that my favorite piece of writing on the subject still has to be Lea Verou&",
+111,7650268,comment,7649524.0,7650163.0,1,0,jsmeaton,,,"Thanks for doing this, please keep us updated if you get a response that you can share.<p>Our team has just switched back to HipChat as we have more and more remote workers. I&",
+112,7650267,comment,7649782.0,7650121.0,4,0,DonGateley,,,You beat me to the punch.  Purdy&,
+113,7650265,comment,7649524.0,7649939.0,1,0,mindslight,,,"I generally just cross out such legal vomit upon reading it, to reject any implied assent for down the road, but mainly to keep my own head straight.",1398481821.0
+114,7650264,comment,7650174.0,7650174.0,10,0,coherentpony,,,I don&,
+115,7650263,comment,7648237.0,7648631.0,2,0,ulisesrmzroche,,,"No, it doesn&",
+116,7650262,comment,7649815.0,7650201.0,1,0,Balgair,,,Really?!,1398481761.0
+117,7650261,comment,7649815.0,7649815.0,3,0,alexeisadeski3,,,"How many American women receive selective service notification?<p><a href=""https://www.sss.gov/"" rel=""nofollow"">https://www.sss.gov/</a>",1398481743.0
+118,7650260,comment,7649524.0,7650069.0,1,0,hundt,,,"This is not an example of a unilateral agreement because:<p>- Dropbox allows you to opt out of the commitment to arbitration.<p>- If you agree to always arbitrate then the exception for intellectual property disputes applies to both parties, not just Dropbox.",1398481705.0
+119,7650259,comment,7649815.0,7650235.0,1,0,analog31,,,"I suspect elder / disabled care may be an issue for minorities too, of both sexes, if they come from economically disadvantaged backgrounds.",1398481665.0
+120,7650258,comment,7648237.0,7648947.0,1,0,ulisesrmzroche,,,You&,
+121,7650257,comment,7649025.0,7649913.0,5,0,md224,,,Are you saying this is a bad thing? Personally I think it&,
+122,7650256,story,,,13,19,nahcub,Ask HN: How do you remember names?,,I just went to a conference and it was bad. I forgot the names of people I met not more than 15 minutes later. I felt terrible that I didn&,
+123,7650255,comment,7647571.0,7648474.0,2,0,vidarh,,,It&,
+124,7650254,comment,7649782.0,7650149.0,4,0,philosophus,,,"Yes, did you notice that Salon edited &quot;Nobody Knows the Trouble I’ve Seen?&quot;<p>Salon&",
+125,7650253,comment,7648741.0,7648741.0,3,0,sciurus,,,"Here are the debian packages for most of the tools mentioned in the presentation.<p><pre><code>    dnsutils: dig, nslookup\n    udns-utils: dnsget, rblcheck\n    adns-tools: adnsheloex, adnshost, adnslogres, adnsresfilter\n    avahi-utils: avahi-browse, avahi-browse-domains\n    mdns-scan: mdns-scan\n    ldnsutils: drill, ldns-mx, ldns-chaos, ldns-walk, ldns-verify\n    dns-browse: dns_browse, dns_tree\n    fpdns: fpdns\n    echoping: echoping\n    dnstop: dnstop\n    dnssec-tools: dnspktflow, mapper, donuts\n    dnstracer: dnstracer\n    dnswalk: dnswalk\n    unbound-host: unbound-host</code></pre>",1398481352.0
+126,7650252,comment,7649782.0,7650171.0,4,0,toupeira,,,"Like it or not, religion (or more correctly, spirituality) is a big part of being human, especially when expressed as art. I think ever since the Age of Enlightenment we&",

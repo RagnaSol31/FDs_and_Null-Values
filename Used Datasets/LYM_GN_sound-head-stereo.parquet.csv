@@ -1,0 +1,72 @@
+,RANK,0,1,2,3,4,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,VERBATIM,audio in device,audio out device,audio device verbose output,beat count,beats per minute,,,
+1,TYPE,int,int,int,int,int,,,
+2,ID,AudioInputDevice,AudioOutputDevice,VerboseDeviceOutput,BeatsPerSequence,BeatsPerMinute,,,
+3,initial_values,,,,,,,,
+4,,-1,-1,0,4,60,,,
+5,/initial_values,,,,,,,,
+6,udp_local_server,1,,,,,,,
+7,VERBATIM,,,,,,,,
+8,TYPE,string,int,string,bool,int,bool,bool,bool
+9,ID,id,local_port,receive_format,UDP_message_trace,input_message_stack_depth,OSC_duplicate_removal,OSC_endian_reversal,OSC_endian_reversal
+10,server,udp_PD_receive,1978,Plain,0,300,1,1,1
+11,/udp_local_server,,,,,,,,
+12,udp_remote_client,2,,,,,,,
+13,VERBATIM,,,,,,,,
+14,TYPE,string,string,int,string,bool,int,bool,bool
+15,ID,id,remote_ip,local_port,send_format,UDP_message_trace,input_message_stack_depth,OSC_endian_reversal,OSC_endian_reversal
+16,client,udp_PD_send,127.0.0.1,1979,Plain,0,300,1,1
+17,client,udp_Porphyrograph_send,192.168.0.2,1978,Plain,0,300,1,1
+18,/udp_remote_client,,,,,,,,
+19,short_samples,21,,,,,,,
+20,VERBATIM,index,file,,,,,,
+21,,0,./SoundData/soundYN-GN-data/samples-LA/GN_dumpdrum_EQ2.wav,,,,,,
+22,,1,./SoundData/soundYN-GN-data/samples-LA/tromme-transformer.wav,,,,,,
+23,,2,./SoundData/soundYN-GN-data/samples-LA/GN_knas_11.wav,,,,,,
+24,,3,./SoundData/soundYN-GN-data/samples-LA/GN_knit_15.wav,,,,,,
+25,,4,./SoundData/soundYN-GN-data/samples-LA/GN_knag_9.wav,,,,,,
+26,,5,./SoundData/soundYN-GN-data/samples-LA/GN_ghost_11.wav,,,,,,
+27,,6,./SoundData/soundYN-GN-data/samples-LA/GN_brand_9.wav,,,,,,
+28,,7,./SoundData/soundYN-GN-data/samples-LA/GN_legebil_16.wav,,,,,,
+29,,8,./SoundData/soundYN-GN-data/samples-LA/GN_bling1.wav,,,,,,
+30,,9,./SoundData/soundYN-GN-data/samples-LA/GN_bling2.wav,,,,,,
+31,,10,./SoundData/soundYN-GN-data/samples-LA/GN_babai_cello.wav,,,,,,
+32,,11,./SoundData/soundYN-GN-data/samples-LA/GN_babai_rytme.wav,,,,,,
+33,,12,./SoundData/soundYN-GN-data/samples-LA/GN_FemPath_cello2.wav,,,,,,
+34,,13,./SoundData/soundYN-GN-data/samples-LA/GN_bitcrush_stortromme.wav,,,,,,
+35,,14,./SoundData/soundYN-GN-data/samples-LA/GN_babai_synth_pling.wav,,,,,,
+36,,15,./SoundData/soundYN-GN-data/samples-LA/GN_babai_heman.wav,,,,,,
+37,,16,./SoundData/soundYN-GN-data/samples-LA/GN_Fem_klik_synthv2.wav,,,,,,
+38,,17,./SoundData/soundYN-GN-data/samples-LA/GN_cubase_instr_pling.wav,,,,,,
+39,,18,./SoundData/soundYN-GN-data/samples-LA/GN_iye_bassdrum.wav,,,,,,
+40,,19,./SoundData/soundYN-GN-data/samples-LA/GN_iye_tiktakdrum.wav,,,,,,
+41,,20,./SoundData/soundYN-GN-data/samples-LA/empty.wav,,,,,,
+42,/short_samples,,,,,,,,
+43,long_samples,1,,,,,,,
+44,VERBATIM,index,file,,,,,,
+45,,0,./SoundData/soundYN-GN-data/samples-LA/GN_btFull12_EQ.wav,,,,,,
+46,/long_samples,,,,,,,,
+47,sequences,20,,,,,,,
+48,VERBATIM,index,size,ID,buffer ,,,,
+49,,0,4,dumpstortromme,"0, 0, 0, 0","1, 1, 1, 1","1, 0.8, 1, 0.8",-1,1
+50,,1,4,bitcrush_stortromme,"13, 13, 13, 13","1, 1, 1, 1","2, 1.5, 2, 1.5",-1,1
+51,,2,3,snareP3de,"1, 1, 1","2, 1, 1","0, 1, 0",-1,1
+52,,3,1,bling1,8,8,1,-1,1
+53,,4,1,bling2,9,8,1,-1,1
+54,,5,1,iyebassdrum,18,8,2,-1,1
+55,,6,1,iyetiktak,19,8,1,-1,1
+56,,7,1,femPath_cello,12,16,1.3,-1,1
+57,,8,1,femPath_klik_synth,16,16,2,-1,1
+58,,9,2,pling,"17, 17","2.5, 13.5","0, 1",-1,1
+59,,10,1,babai_synthpling,14,16,1.5,-1,1
+60,,11,1,babai_heman,15,16,1.3,-1,1
+61,,12,1,babai_cello,10,16,2,-1,1
+62,,13,1,babai_rytme,11,16,2,-1,1
+63,,14,1,knas,2,20,3,-1,1
+64,,15,1,knit,3,28,3,-1,1
+65,,16,1,knag,4,16,2.5,-1,1
+66,,17,1,ghost,5,21,3,-1,1
+67,,18,1,brand,6,17,3,-1,1
+68,,19,1,legebil,7,35,2.5,-1,1
+69,/sequences,,,,,,,,
+70,/head,,,,,,,,

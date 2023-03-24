@@ -1,0 +1,136 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9755655,comment,9755365.0,9755365.0,0,0,bluejekyll,,,Can we get over all this native JavaScript junk and finally move to either platform independent llvm bytecode (wasm as I understand it) or just use the damn jvm? There&,
+1,9755654,comment,9752948.0,9752948.0,0,0,zxcvcxz,,,"Apple should keep the free trial, but pay revenue only to artists who aren&",
+2,9755653,comment,9755131.0,9755468.0,0,0,MathsOX,,,"Well, for IB I can&",
+3,9755652,comment,9755289.0,9755289.0,0,0,woah,,,"Interestingly enough, the only people who have a hard time with callbacks are those who have been coding synchronous code for a long time. Anyway though, with async/await, the callback days are coming to an end. Other than that, the article is just complaining that express and mongo are too low level. Seems almost better to teach people low level stuff first.",1434934714.0
+4,9755651,comment,9751858.0,9754746.0,0,0,jansenvt,,,VERY well said,1434934706.0
+5,9755650,story,,,1,0,hackerews,Expert Distributed Systems Engineer Needed at Blockspring,https://jobs.lever.co/blockspring/c425991f-62ed-4ea8-8f95-c20d3acab5cd,,1434934703.0
+6,9755649,story,,,93,47,vpj,Skunk Works Reveals Compact Fusion Reactor Details (2014),http://aviationweek.com/technology/skunk-works-reveals-compact-fusion-reactor-details,,1434934610.0
+7,9755648,comment,9755365.0,9755645.0,0,0,iopq,,,Some people want a statically-typed language for larger apps. Tooling support can be made a lot better for statically-typed languages because it&,
+8,9755647,comment,9746506.0,9748313.0,0,0,nmbr,,,"Hope and life are indeed flowing here in Seattle. For some into bank accounts, for others into dump trucks. Thrilling isn&",
+9,9755646,story,,,1,0,ScottWRobinson,Futures for Crystal language,https://github.com/dhruvrajvanshi/crystal-futures,,1434934543.0
+10,9755645,comment,9755365.0,9755589.0,0,0,woah,,,"I never really have understood this kind of sentiment. There are a huge number of people who like js, to the point that it is used in a bunch of places that are not the browser. In terms of dynamic scripting languages, it&",
+11,9755644,comment,9753730.0,9755563.0,0,0,DannyBee,,,"Sure.<p>If you want a good survey of the world of optimal register allocation/scheduling, someone just wrote one.<p><a href=""http://arxiv.org/pdf/1409.7628.pdf"" rel=""nofollow"">http://arxiv.org/pdf/1409.7628.pdf</a><p>It&",
+12,9755643,story,,,3,0,baweaver,Intro to Spark,http://baweaver.com/blog/2015/06/21/intro-to-spark/,,1434934369.0
+13,9755642,comment,9754919.0,9755516.0,0,0,MatthiasWandel,,,It wasn&,
+14,9755641,comment,9754703.0,9755119.0,0,0,omphalos,,,I think there&,
+15,9755640,comment,9751758.0,9752261.0,0,0,peteretep,,,"<p><pre><code>    > An example of &quot;innocent intermittence&quot; recently came up\n    > at my current employer: there was a test that invoked a\n    > web service twice, verifying idempotence. It then\n    > asserted the responses were identical. \n</code></pre>\nThis is not innocent intermittence, this is a bad test. No-one should get in <i>trouble</i> for it, but I would certainly expect senior developers to get involved to find out:<p>Why is idempotence being tested for on the response side rather than on the execution end? If the call is truly idempotent, then a changing date-stamp means that the test has captured the information envelope as well as the data payload, and is testing that, which is sloppy - you&",
+16,9755638,comment,9754538.0,9754538.0,0,0,bitwize,,,Don&,
+17,9755637,story,,,41,49,mjohn,Airbnb and Uber’s sharing economy is one route to dotcommunism,http://www.theguardian.com/commentisfree/2015/jun/21/airbnb-uber-sharing-economy-dotcommunism-economy,,1434934274.0
+18,9755636,comment,9754919.0,9755554.0,0,0,MatthiasWandel,,,"You could go to more numbers.  Though it gets awkward to dial, and cumulative precision become an issue.",1434934229.0
+19,9755635,comment,9754919.0,9755371.0,0,0,JshWright,,,"No questions, just a thanks for making your videos. You&",
+20,9755634,comment,9754626.0,9755595.0,0,0,berkeleytrue,,,They where only using slack for two months and hit the limit (of almost 9000).,1434934160.0
+21,9755633,comment,9751989.0,9755473.0,0,0,dhd415,,,I&,
+22,9755632,comment,9755279.0,9755279.0,0,0,davidbanham,,,I try not to make a habit of reading reviews written by people who have not actually read the thing they&,
+23,9755631,comment,9752948.0,9754276.0,0,0,dzhiurgis,,,Personally I do not perceive software as SaaS if it is not browser based. That&,
+24,9755630,comment,9754919.0,9755480.0,0,0,Programmatic,,,"I was pretty impressed with the circular saw lap joint, myself.",1434934107.0
+25,9755629,comment,9755489.0,9755489.0,0,0,aaronem,,,Sixteen out of a hundred thousand? That&,
+26,9755628,comment,9753366.0,9754980.0,0,0,CyberDildonics,,,So you think scripting languages that have no type constraints will somehow advance to the point of being the same as writing native code?<p>Or.. do you think that maybe you know only scripting and dynamic languages and you want to believe that at some point a solution will come to you instead you having to learn programming at a lower level?<p>I&,
+27,9755627,comment,9754919.0,9755554.0,0,0,acjohnson55,,,"It seems like you could, but it would make the opening process more complicated, because you&",
+28,9755626,comment,9752948.0,9754077.0,0,0,ScottWhigham,,,You&,
+29,9755625,comment,9751312.0,9751578.0,0,0,StillBored,,,"This changed with V8, IIRC the PC can only be updated on branch or an exception...",1434934053.0
+30,9755624,comment,9755366.0,9755588.0,0,0,sampl,,,Also a pinboard user--it&,
+31,9755623,comment,9751858.0,9753985.0,0,0,ljk,,,thanks for the reply<p>> <i>I don&,
+32,9755622,comment,9755279.0,9755279.0,0,0,tptacek,,,"<i>In the case of this magazine, it&",
+33,9755621,story,,,2,0,jhchen,Libscore: View the growth of open source libraries,http://libscore.com/,,
+34,9755620,story,,,2,2,zachshefska,I Don’t Understand LinkedIn,http://shefska.com/i-dont-understand-linkedin/,,1434934016.0
+35,9755619,comment,9755131.0,9755131.0,0,0,kazagistar,,,Is it not intellectual work? Sleep deprivation really wrecks my ability to think clearly.,1434934010.0
+36,9755618,comment,9753354.0,9753354.0,0,0,madscienst13,,,"<a href=""http://www.americaherald.com"" rel=""nofollow"">http://www.americaherald.com</a> is another site like that. I would have never known it existed, until someone randomly emailed my wife and let her know that the site was using a picture of her taken off of a university website and saying she was a journalist working for them. It was actually kind of creepy.<p>I was surprised that a site like this could make it into Google News results.",1434933980.0
+37,9755617,comment,9753730.0,9755389.0,0,0,sanjoy_das,,,"Another interesting data point is libFirm: <a href=""http://pp.ipd.kit.edu/firm/"" rel=""nofollow"">http://pp.ipd.kit.edu/firm/</a> which regalloc&",
+38,9755616,comment,9755517.0,9755517.0,0,0,tjr,,,t,1434933952.0
+39,9755615,comment,9754626.0,9755374.0,0,0,pki,,,From my experience I haven&,
+40,9755614,story,,,1,0,jonathanehrlich,Reed Hastings startup story: Netflix ,http://techcrunch.com/2015/06/21/reed-hastings-offers-sage-startup-advice-in-this-video-from-foundation-capital/,,1434933868.0
+41,9755613,story,,,8,0,bane,Demoscene – The Art of the Algorithms (2012),https://www.youtube.com/watch?v=iRkZcTg1JWU,,1434933815.0
+42,9755612,comment,9754919.0,9754919.0,0,0,bhudman,,,I try to visit his site every Friday. I like his no nonsense videos.,1434933723.0
+43,9755611,comment,9754136.0,9754515.0,0,0,tptacek,,,I actually don&,
+44,9755610,comment,9752238.0,9752238.0,0,0,ezy,,,Didn&,
+45,9755609,comment,9754919.0,9754919.0,0,0,owly,,,Very cool!,1434933623.0
+46,9755608,comment,9753602.0,9755533.0,0,0,spotman,,,"I agree with you in spirit, but it&",
+47,9755607,comment,9754626.0,9754626.0,0,0,JustSomeNobody,,,After reading this I have but one request; please stop teaching people to code.<p>Your solution to a problem you have with some software is to suggest they simple throw engineers at it is sadly pathetic.,1434933512.0
+48,9755606,comment,9753366.0,9755208.0,0,0,CyberDildonics,,,He is obviously talking about engine programming.  For tools and back ends game studios will use whatever.,1434933475.0
+49,9755605,comment,9753368.0,9754489.0,0,0,tunesmith,,,I think you&,
+50,9755604,story,,,3,0,pscsbs,"Hackers ground 1,400 LOT passengers at Warsaw airport",http://www.abc.net.au/news/2015-06-22/hackers-ground-1400-passengers-at-warsaw-airport/6562718,,1434933461.0
+51,9755603,comment,9754872.0,9755444.0,0,0,rdsnsca,,,Read it again... he only gets paid if the photo is used by the media outlet specified in the contract.,1434933457.0
+52,9755602,comment,9751858.0,9753901.0,0,0,ljk,,,Thanks for the reply<p>> <i>we&,
+53,9755517,story,,,3,7,dang,nil,,,1434933444.0
+54,9755601,comment,9747073.0,9753609.0,0,0,gy3b,,,"Note it is now <a href=""http://designernews.co"" rel=""nofollow"">http://designernews.co</a> but your url will redirect",1434933441.0
+55,9755600,comment,9752948.0,9755557.0,0,0,WalterBright,,,"Marketing and promotion is just as costly, if not more costly, than it ever was. I know too many wonderful open source projects that failed and left their author bitter because they thought that merely creating a great program was good enough.<p>The &quot;build it and they will come&quot; is a stupid Hollywood fantasy. Even the Beatles went nowhere until they hooked up with promoter George Martin.",1434933360.0
+56,9755599,comment,9751858.0,9753023.0,0,0,grrowl,,,"> If you hire someone to do 9-5 job and you expect them to do more than that, it&",
+57,9755598,comment,9752487.0,9753581.0,0,0,danieltillett,,,I have to say I am guilty of this. I don’t spend any time mentoring anyone and I probably should.<p>On the positive side I don’t both going to listen to any of the so-called experts.,1434933310.0
+58,9755597,comment,9754626.0,9755308.0,0,0,timv,,,"While I agree that they had totally unrealistic expectations (and you forgot to highlight the <i>5 service integrations</i> bit that he also complained about later), slack does also advertise &quot;no limit on users&quot; when they do in fact have a limit.<p><a href=""http://i.imgur.com/kNTkFGT.png"" rel=""nofollow"">http://i.imgur.com/kNTkFGT.png</a><p>&quot;Small teams&quot; and &quot;no limit on users&quot; aren&",
+59,9755596,comment,9750396.0,9752679.0,0,0,e12e,,,"Thank you for the reminder -- I had found that at some point, the forgot about it. For other&",
+60,9755595,comment,9754626.0,9755168.0,0,0,xpaulbettsx,,,> So we have no alternative but to switch.<p>It seems unlikely that all 5000 people are actively using their Slack account - if you started automatically deactivating accounts that haven&,
+61,9755594,comment,9753366.0,9755116.0,0,0,uxcn,,,And C compilers can generate specializations if everything is in the same translation unit.  What I was trying to point out is that less abstract doesn&,
+62,9755593,comment,9750396.0,9753364.0,0,0,e12e,,,Re 2) I think that&,
+63,9755592,comment,9753366.0,9755238.0,0,0,CyberDildonics,,,You can always sort portions of it and then merge those portions.  In that case it might actually make sense to use packets on dense memory in a linked list. You could put the packet with the highest high value ahead of the other and merge middle out.,1434933099.0
+64,9755591,comment,9755279.0,9755279.0,0,0,JustSomeNobody,,,<i>sigh</i><p>It is 28000 words. It can&,
+65,9755590,comment,9753949.0,9753949.0,0,0,vinchuco,,,"Expected something chess-related [1]. This appears to be a different type of game with many players and different understandings of the rules.<p>[1] 1.B4 Opening <a href=""https://www.youtube.com/watch?v=o9jaaKUWwBI"" rel=""nofollow"">https://www.youtube.com/watch?v=o9jaaKUWwBI</a>",1434933078.0
+66,9755589,comment,9755365.0,9755576.0,0,0,halosghost,,,I don&,
+67,9755588,comment,9755366.0,9755366.0,0,0,voltagex_,,,I&,
+68,9755587,comment,9754626.0,9754837.0,0,0,zak_mc_kracken,,,"irc supports pretty much nothing besides text. With Slack, you can format, highlight code, upload pictures and documents, it supports Google Docs out of the box, there are plugins for Trello, git, and who knows what else. And it works flawlessly on all mobile OS (good luck getting a decent irc client running on iOS).<p>irc is a dinosaur compared to what recent team communication software like Slack and Hipchat can do.",1434933052.0
+69,9755586,comment,9752974.0,9754875.0,0,0,danieltillett,,,He may well be allergic to something in their feathers. While I am not a huge fan of hot dogs and what goes into them I suspect that even the worst manufacturers draw the line at letting feathers into the vat.,1434932993.0
+70,9755585,comment,9754872.0,9755546.0,0,0,jasode,,,"No, they are not.  (Unless the concert venue is on city-owned land such as a public park.)<p>Grocery stores, shopping malls, and hotel lobbies & conference rooms are not public places either.<p>The confusion about &quot;public&quot; stems from casual usage vs legal usage.<p>casual:  <i>&quot;I can&",
+71,9755584,comment,9755289.0,9755342.0,0,0,bigiain,,,&quot;I wouldn&,
+72,9755583,comment,9754919.0,9754919.0,0,0,agumonkey,,,All these rotating pieces reminded me of Sussman&,
+73,9755582,comment,9754136.0,9755578.0,0,0,tptacek,,,"I think I sent the wrong message with the Intercal comparison.<p>My point was that the logic that brings you to &quot;you need Javascript if you specialize in Javascript security&quot; works for any language, including Intercal.<p>It was not that Javascript is a language as dumb as Intercal.<p>If I had to make a list of 3 languages to know for security people, Javascript would <i>probably</i> be my ",
+74,9755581,story,,,2,0,franciscop,in Spain Nuclear Spillage fines are cheaper than Solar Energy fines,http://planetsave.com/2015/06/18/in-spain-solar-energy-storage-is-worse-than-nuclear-spillage/,,1434932834.0
+75,9755580,comment,9754136.0,9755553.0,0,0,tptacek,,,"Sure. But the premise of the question is, what language (singular) should someone pick up to do &quot;security for companies&quot; (I read from that: appsec). I cheated by giving 2; formally, the right answer to this question was simply &quot;Python OR Ruby&quot;.",1434932748.0
+76,9755579,comment,9754626.0,9755153.0,0,0,plorkyeran,,,They even explicitly list the fact that Gitter uses Node.js as one of the advantage of them. I really hope they aren&,
+77,9755578,comment,9754136.0,9755520.0,0,0,javajosh,,,"JavaScript is the most deployed interpreter in the world, and therefore almost certainly handling the greatest amount of independent data in the world. So whether or not you think it&",
+78,9755577,comment,9755289.0,9755289.0,0,0,bigiain,,,"&quot;But seriously, does anyone really think that a beginner should learn NoSQL before learning SQL?&quot;<p>Hmmmm - back in the day, I learned to use hashes, tied hashes, and BerkleyDB way before learning to use SQL and SQL libraries.",1434932736.0
+79,9755576,comment,9755365.0,9755365.0,0,0,girvo,,,"The idea of LLJS is quite interesting, similar in ways to asm.js (in fact there was a fork that can compile to it!) but easily human readable and writable. It seems to be a dead project however; I came across it a few weeks ago and it seems abandoned, unfortunately. With wasm, hopefully we&",
+80,9755575,comment,9751989.0,9752949.0,0,0,myhf,,,It&,
+81,9755573,story,,,3,0,wslh,How many files can I put in a directory?,http://stackoverflow.com/questions/466521/how-many-files-can-i-put-in-a-directory,,1434932595.0
+82,9755572,comment,9754797.0,9755529.0,0,0,danieltillett,,,"You are allowed to be as out of the box as you like, but you have to generate results which if very hard to do if you take risks.<p>Even once you have tenure you are still forced to still play it safe since if you don’t generate the results you don’t get grants and if you don’t bring in the money your university will find ways to get rid of you. Welcome to your new lab - yes we know it was the old broom closet, but you must understand that since you don’t have any grants right now we need to give your lab to research x who has just brought in a $3 million grant.",1434932579.0
+83,9755571,comment,9752974.0,9755550.0,0,0,bane,,,Yeah that&,
+84,9755570,comment,9755279.0,9755279.0,0,0,noir_lord,,,"Perhaps or perhaps in an introductory guide they decided not to muddy the waters any more than necessary in the interests of brevity (as post mentions, 28,000 is seriously pushing it as a word count for a long form article).",1434932558.0
+85,9755569,story,,,1,0,elmar,Brain–Brain Interface Allows Humans to Control Cockroaches with Their Minds,http://www.iflscience.com/brain/brain-brain-interface-allows-humans-control-cockroaches-their-minds,,1434932482.0
+86,9755568,comment,9750808.0,9752176.0,0,0,SomeCallMeTim,,,>It sounds like you&,
+87,9755567,comment,9754797.0,9754797.0,0,0,kevin_thibedeau,,,This would really work better implemented in an FPGA. You could construct a circuit that exhaustively searches for all repeats within a maximum distance rather than just checking a relatively small number of random sequences.,1434932404.0
+88,9755566,comment,9754626.0,9755214.0,0,0,plorkyeran,,,"A single IRC server can trivially handle 8500 users in total, but most ircds would explode horribly on 8500 users in a single channel. There&",
+89,9755565,comment,9752974.0,9755323.0,0,0,eropple,,,I have Hue lights in my house and can&,
+90,9755564,comment,9755365.0,9755365.0,0,0,bobajeff,,,They actually made a version that generated asm.js. Unfortunately that was before asm.js was stable and they haven&,
+91,9755563,comment,9753730.0,9755389.0,0,0,jfb,,,"Thank you for this, it was fascinating.",1434932322.0
+92,9755562,comment,9754121.0,9755209.0,0,0,antaviana,,,"AFAIK, Mojang didn&",
+93,9755561,comment,9754797.0,9755506.0,0,0,danieltillett,,,We certainly undervalue replication (or refutation) in the pursuit of novelty.<p>What is more of a problem is that scientists are being pushed by the system to get their results out as fast as possible so they are not doing the hard work of carefully checking their own work before publication. The incentive is to publish if an experiment works once or twice and hand-wave away the other dozen times it didn’t. Combine that with the enormous pressure PostDocs and PhD students are under to generate results it is amazing anything of value comes out of the lab these days.,1434932265.0
+94,9755560,comment,9754626.0,9754626.0,0,0,nodesocket,,,"A perfect illustration of the &quot;entitled developer complex&quot;. Failure to properly research Slack, a bad use-case, complain about pricing, then publicly bash.<p>I&",
+95,9755559,comment,9754538.0,9755301.0,0,0,morgante,,,There&,
+96,9755558,comment,9754136.0,9754136.0,0,0,sekasi,,,I believe comments here that programming isn&,
+97,9755557,comment,9752948.0,9755198.0,0,0,jfoster,,,"They also had some quite significant costs involved in making you realise that their software existed, though.",1434932156.0
+98,9755556,comment,9754326.0,9755545.0,0,0,vmorgulis,,,I asked because I have a &quot;Get flashplayer&quot; icon on boxcar2d.com. I&,
+99,9755555,comment,9750808.0,9752175.0,0,0,SomeCallMeTim,,,"OK, that&",
+100,9755554,comment,9754919.0,9755371.0,0,0,11thEarlOfMar,,,Very fun. Is there any reason the basic design can&,
+101,9755553,comment,9754136.0,9755520.0,0,0,wslh,,,I don&,
+102,9755552,comment,9754626.0,9755374.0,0,0,voltagex_,,,"I wonder if this is an argument against IRC, or just against EFNet.",1434932036.0
+103,9755551,story,,,8,1,Irish,Support the slaughter and get rid of those annoying Mosquitoes,https://www.kickstarter.com/projects/autonomiclabs/zapstats-the-worlds-smartest-bug-zapper,,1434932009.0
+104,9755550,comment,9752974.0,9755474.0,0,0,jimminy,,,I&,
+105,9755549,comment,9752974.0,9754910.0,0,0,vsync,,,"Heachaches caused by fluorescent lights are an entirely separate issue, considering they produce flickery light at odd color temperatures with weird peaks across the spectrum.  Never mind that lots of establishments have things way too bright, and probably failing sockets causing extra fluctuations as well.  I don&",
+106,9755548,comment,9754797.0,9755275.0,0,0,mitchty,,,I work for a supercomputer company. There is almost no way you&,
+107,9755547,comment,9754538.0,9755297.0,0,0,bigger_cheese,,,It all seems a bit wishy-washy to me. I was born in 1985 I turned 30 this year. I have enough trouble identifying with my sister (who is six years younger than me) let alone someone I have 15 years on.,1434931882.0
+108,9755546,comment,9754872.0,9755479.0,0,0,seanflyon,,,Are concert venues public places?,1434931877.0
+109,9755545,comment,9754326.0,9755152.0,0,0,tofof,,,"From that very page: &quot;Loosely based on BoxCar2D, but written from scratch, only using the same physics engine&quot;",1434931856.0
+110,9755544,comment,9752487.0,9753479.0,0,0,danieltillett,,,I actually think we don’t need to change that much as we have nearly all the things in place for creating a great startup environment. Since it is a bit long for just a post here I think will make it a blog post on personal website.<p>I had forgotten that the ASIN patent was even on the Nucleics website. It was being used for an old SEO experiment. I have fixed it up so at least you can read it now :),1434931846.0
+111,9755543,comment,9755365.0,9755540.0,0,0,halosghost,,,"I suppose, but my point is that what the OP posted appears to be completely unrelated to wasm…",1434931807.0
+112,9755542,comment,9754872.0,9755220.0,0,0,TheOtherHobbes,,,In what sense is getting paid for copies of a creative product any more of a free ride than app builders getting paid for downloads or web app builders getting paid for adsense impressions?,1434931803.0
+113,9755541,comment,9752974.0,9754484.0,0,0,plorkyeran,,,I never thought I could be happy about hearing loss as I got older until I realized that I could no longer hear CRTs. A muted TV in a quiet room was incredibly annoying for me.,1434931802.0
+114,9755540,comment,9755365.0,9755535.0,0,0,girvo,,,"<i>> more like an IR</i><p>Actually, it&",
+115,9755539,comment,9752948.0,9753042.0,0,0,thanatropism,,,"> very hands-on with her image<p>As compared with whom? Ariana Grande? Metallica? Madonna? Jello Biafra? Efrim Menuck? Nicki Minaj?<p>Sure, she&",
+116,9755538,comment,9752974.0,9754816.0,0,0,albedoa,,,I&,
+117,9755537,comment,9753447.0,9753447.0,0,0,reach_kapil,,,provide an example to see how would it work. even better add a video,1434931679.0
+118,9755536,comment,9752948.0,9754920.0,0,0,girvo,,,"<i>> There is nothing to gain for the creators of music in getting more people to use Apple streaming service instead of Spotify or Google</i><p>Are you sure? Because Apple are promising to pay higher royalties. That sure seems like not nothing to me. Now, I pass no judgement on whether the financial calculus works out for 3 months of free usage, but to be honest saying there&",
+119,9755535,comment,9755365.0,9755365.0,0,0,halosghost,,,"This appears to be about a language that compiles to js (asm.js it seems?), not wasm (WebAssembly) which is mean to be more like an IR (think of llvm ir) but for the web. Am I misunderstanding something?",1434931653.0
+120,9755534,comment,9755267.0,9755267.0,0,0,AceJohnny2,,,"Tangetially, this website, Norman Yarvin&",
+121,9755533,comment,9753602.0,9754662.0,0,0,jeltz,,,"Well, the shopping carts do not contain data which must be correct so your example does not contradict Pamar.",1434931553.0
+122,9755532,comment,9753537.0,9753537.0,0,0,daurnimator,,,If you don&,
+123,9755530,comment,9751582.0,9751861.0,0,0,riemannzeta,,,Your question effectively answers my question.,1434931494.0
+124,9755529,comment,9754797.0,9755506.0,0,0,SapphireSun,,,I think you have the opposite opinion of most of the researchers I know. They go nuts that you can&,
+125,9755528,comment,9752948.0,9754774.0,0,0,girvo,,,"$1.29? Luxury!<p>Seriously though, here in Australia the regular price for a track is $2.19 -- which is absolutely ludicrous to be honest. As of today, that&",
+126,9755527,comment,9742331.0,9751947.0,0,0,lugg,,,Just don&,
+127,9755526,comment,9754919.0,9755371.0,0,0,jacquesm,,,Did you do any writing on woodworking safety?,1434931441.0
+128,9755525,comment,9753338.0,9753338.0,0,0,daurnimator,,,Great to see follow-ups like this.<p>I was involved in the old PSP homebrew scene; good to see people keeping it alive for more than just playing ripped games.,1434931437.0
+129,9755524,comment,9754872.0,9755250.0,0,0,jstandard,,,"You mentioned a ratio, can you explain the basis to compare &quot;effort&quot; of a software engineer vs a photographer?",1434931432.0
+130,9755523,comment,9755237.0,9755367.0,0,0,DrScump,,,"Yet again, both sources exhibit the same problem.  <i>They are cooking the data.</i><p>I&",
+131,9755522,story,,,3,0,ComputerGuru,"New York slams Verizon, calls city-wide FiOS rollout “an egregious failure”",http://www.theverge.com/2015/6/20/8818515/new-york-city-slams-verizon-fios-rollout,,1434931310.0
+132,9755521,comment,9747073.0,9747073.0,0,0,vmorgulis,,,"LtU and /r/programming.<p><a href=""http://lambda-the-ultimate.org/"" rel=""nofollow"">http://lambda-the-ultimate.org/</a><p><a href=""https://www.reddit.com/r/programming/"" rel=""nofollow"">https://www.reddit.com/r/programming/</a><p>I do my best to avoid controversies (generate or feed).<p>HN is the coolest and safest place I know. I tried other sites but they are more violent. Too much struggles.<p>Peace!",1434931262.0
+133,9755520,comment,9754136.0,9755501.0,0,0,tptacek,,,"Ruby or Python is more important than strong JavaScript, and everyone who knows Ruby or Python has at least weak JavaScript. If you specialize in JavaScript security, you need it, but you can say the same thing about Intercal.",1434931227.0
+134,9755519,story,,,52,15,SpaceInvader,Polish aeroplanes grounded by computer hack,http://www.bbc.com/news/world-europe-33219276,,1434931221.0

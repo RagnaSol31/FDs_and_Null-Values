@@ -1,0 +1,128 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9055243,comment,9050009.0,9054248.0,0,0,pselbert,,,Don&,
+1,9055242,comment,9055177.0,9055234.0,0,0,geori,,,"This also solves the peak load problem, since you can pay for power at night and run off of your giant Tesla battery in the garage during the day.",1424059099.0
+2,9055241,comment,9054846.0,9055163.0,0,0,Udo,,,"<i>> For example, I believe that conciousness can transcend to anything.</i><p>That&",
+3,9055240,comment,9053286.0,9054606.0,0,0,Animats,,,"Multiple processes in Python at scale mean really clunky interprocess communication, lots of copies of everything the interpreter loaded, and lots of cache misses.",1424059044.0
+4,9055239,story,,,7,5,hoodoof,Ask HN: What are the main reasons why so many systems get hacked?,,,1424058974.0
+5,9055238,comment,9053255.0,9053881.0,0,0,phinkle,,,"As a Texan who moved to New York City for the summer I really missed Southern hospitality (and Tex-Mex). When I came back to Texas the Southern hospitality did feel fake until I got used to it again. Although some of it probably is fake, I think most of it is genuine. Just like when I moved to NY it seemed like everybody was a depressed workaholic, when in reality that they are probably as you say trying &quot;to minimize their impact on other people&quot;. Likewise I&",
+6,9055237,story,,,1,0,jstreebin,EasyPost (YC S13) hiring back-end devs,https://www.easypost.com/jobs,,1424058928.0
+7,9055236,comment,9052919.0,9055129.0,0,0,leetrout,,,Well you don&,
+8,9055235,comment,9052925.0,9054149.0,0,0,dang,,,> are you an idiot? Do you even understand<p>This comment breaks the HN guidelines. We&,
+9,9055234,comment,9055177.0,9055177.0,0,0,mullingitover,,,"> Well, that battery might cost more than the entire house. And for what purpose? So I can disconnect from the electric grid for a week, and then reconnect again when the battery has run out? Or to power it with expensive solar panels?<p>I can&",
+10,9055233,comment,9054846.0,9054846.0,0,0,hartator,,,I think I am the only one who think humans will never manage to build something that complex.<p>Come on: (1) We still have to use humans for motion capture in order to make 3d realistic. (2) We still haven&,
+11,9055232,comment,9054452.0,9054964.0,0,0,joshstrange,,,I personally don&,
+12,9055231,comment,9049917.0,9052798.0,0,0,lappa,,,>The paper you referenced from early 2014 isn&,
+13,9055230,comment,9054846.0,9055163.0,0,0,me_myself_and_I,,,I pretty much reached this same conclusion :S\nI&,
+14,9055229,comment,9054795.0,9054795.0,0,0,hoodoof,,,Why?  Why do systems like this get hacked?,1424058691.0
+15,9055228,comment,9054846.0,9054846.0,0,0,tessierashpool,,,protip: if you substitute &quot;in a computer simulation&quot; with &quot;inside some dude&,
+16,9055227,story,,,6,1,keyle,Project Euler in Nim,http://benjam.info/blog/posts/2015-02-15-nim-euler/,,1424058639.0
+17,9055226,comment,9054854.0,9054854.0,0,0,dang,,,"<a href=""https://news.ycombinator.com/item?id=8441055"" rel=""nofollow"">https://news.ycombinator.com/item?id=8441055</a>",1424058590.0
+18,9055225,story,,,53,12,jlag34,HeartForth: An Emoji-Based Stack Language,http://neilk.net/blog/2015/02/14/heartforth/,,1424058384.0
+19,9055224,comment,9053255.0,9054068.0,0,0,wavefunction,,,You should talk to more Americans.  It&,
+20,9055223,comment,9054795.0,9055127.0,0,0,ewencp,,,"For apt repositories, you might be interested in <a href=""http://www.aptly.info/"" rel=""nofollow"">http://www.aptly.info/</a>, especially if you want to host it on S3 as it integrates very well. As others have mentioned reprepo isn&",
+21,9055222,story,,,2,0,lukas,Pale Blue Dot,http://en.wikipedia.org/wiki/Pale_Blue_Dot,,1424058353.0
+22,9055221,comment,9055157.0,9055157.0,0,0,cat9,,,"The traditional response if you firmly believe a stock is undervalued by a factor of > 8.6 is to buy as much of it as your finances will bear, then sit on it. It would be interesting to see whether the author does so.<p>There&",
+23,9055220,story,,,1,0,rpm4321,Pale Blue Dot + 25 Years,http://www.slate.com/blogs/bad_astronomy/2015/02/15/pale_blue_dot_25_years_later.html,,1424058289.0
+24,9055219,comment,9053694.0,9053694.0,0,0,pekk,,,This looks like Ruby. Why not just use Ruby?,1424058217.0
+25,9055218,comment,9055206.0,9055206.0,0,0,patio11,,,Not much.  Use an LTS version of a distribution which you understand well.  You&,
+26,9055217,comment,9054846.0,9055192.0,0,0,odie88,,,"Just because I was curious: Chia Pet mod for The Sims 1 with over 15k downloads <a href=""http://www.thesimsresource.com/downloads/7806"" rel=""nofollow"">http://www.thesimsresource.com/downloads/7806</a>",1424058192.0
+27,9055216,comment,9052727.0,9054804.0,0,0,sharemywin,,,You can probably charge like $60/hr for the architect time.,1424058162.0
+28,9055215,comment,9053286.0,9055010.0,0,0,thrownaway2424,,,"OK, but it sounds like the main problem there is local disk access, which is the great satan anyway.  You an generate a machine-hosing writeout workload using only one thread on Linux, because Linux loves to starve readers if it can write instead.<p>I think the unstated second dimension of your comment is that most operating system distributions come out of the installer with absolutely the wrong parameters for running many threads.  I think the default thread stack size is 2MB still, and the socket buffers are all huge, and there are limits on how many processes you can have that make people think those limits are meaningful, when they&",
+29,9055214,comment,9055157.0,9055157.0,0,0,Gustomaximus,,,The key point I didn&,
+30,9055213,comment,9054846.0,9055175.0,0,0,r3bl,,,"Lets be honest, we all admire those servers running a couple of years without ever rebooting. Maybe our universe is inside one of them? :)",1424058076.0
+31,9055212,comment,9054846.0,9055119.0,0,0,Alterlife,,,I don&,
+32,9055211,comment,9054795.0,9055056.0,0,0,slashnull,,,"Mh, this is intriguing, anybody knows what&",
+33,9055209,comment,9054846.0,9055175.0,0,0,jimmaswell,,,"<a href=""http://www.pbfcomics.com/111/"" rel=""nofollow"">http://www.pbfcomics.com/111/</a>",1424057926.0
+34,9055208,comment,9053149.0,9053149.0,0,0,stragulus,,,This reminds me of the dial-in server I built in our student home back in &,
+35,9055207,comment,9050436.0,9052473.0,0,0,contingencies,,,"Agreed, there&",
+36,9055206,story,,,38,33,hoodoof,Ask HN: Hacking concerns: does it make a difference which OS I run my SAAS on?,,So I&,
+37,9055205,comment,9052919.0,9055137.0,0,0,eropple,,,<i>>  Venture capitalists and self funded R&D want rosy market projections.</i><p>I want people to not die because somebody &quot;moved fast and broke something.&quot;,1424057825.0
+38,9055204,comment,9052560.0,9052560.0,0,0,alexeyza,,,Thank you Manuel (and all the contributors) for creating and working on mOnOwall! It was a great project.,1424057821.0
+39,9055202,comment,9054795.0,9055050.0,0,0,dmix,,,"Also HIDS, such as OSSEC could detect tampering of the operating system. Such as a rootkit installing a module or modifying a bin.",1424057743.0
+40,9055201,comment,9054858.0,9054858.0,0,0,tzm,,,Thanks for sharing.  Here&,
+41,9055199,comment,9052925.0,9054894.0,0,0,kalleboo,,,"They did do a 5 day unpowered retention test <a href=""http://techreport.com/review/25681/the-ssd-endurance-experiment-testing-data-retention-at-300tb"" rel=""nofollow"">http://techreport.com/review/25681/the-ssd-endurance-experim...</a>",1424057705.0
+42,9055198,comment,9053693.0,9054881.0,0,0,dasil003,,,Don&,
+43,9055196,comment,9054846.0,9055182.0,0,0,logn,,,Say there are 100 universes. Suppose each universe has 1 in 100 chance of making simulations and if they do they make 100. Your chances then of living in a simulation are ~50%. It&,
+44,9055195,comment,9054274.0,9055072.0,0,0,ars,,,You should have told him &quot;I expected you to say that&quot; and let infinite recursion reign free. :),1424057629.0
+45,9055194,story,,,2,0,nileshtrivedi,Open Source Future of Algorithmic Trading,https://www.quantconnect.com/blog/open-source-future-algorithmic-trading/,,1424057624.0
+46,9055193,story,,,2,0,mbrubeck,Sentinelese people,https://en.wikipedia.org/wiki/Sentinelese_people,,1424057617.0
+47,9055192,comment,9054846.0,9054846.0,0,0,uptown,,,"I doubt anybody would bother programming Chia Pets in a simulation, so I&",
+48,9055191,comment,9054846.0,9055163.0,0,0,vikiomega9,,,"Or that the biological imperative that we share is common across all animals. The fact that drugs were found by said animal implies trial and error. But then again, what constitutes a drug? In a world where drugs that induce sensation of the level of say cocaine were absent, some other milder drug would apply as a suitable substitute to relieving stress.<p>But really, I can&",
+49,9055190,comment,9053255.0,9054933.0,0,0,busterarm,,,Just wait.  They&,
+50,9055189,story,,,161,42,doppp,Google Maps 2D Driving Simulator,http://framesynthesis.com/drivingsimulator/maps/,,1424057566.0
+51,9055188,comment,9053555.0,9053555.0,0,0,abecedarius,,,The Javascript-for-comparison would help the case better if it didn&,
+52,9055187,story,,,2,0,lovapp,New Dating App Promises to Help You Find Love Faster,http://www.hypepotamus.com/companies/lov-app/,,1424057531.0
+53,9055186,comment,9052880.0,9054281.0,0,0,melling,,,"Nah, you&",
+54,9055185,comment,9053621.0,9054433.0,0,0,EpicEng,,,&quot;If it ain&,
+55,9055184,comment,9052409.0,9054396.0,0,0,foldr,,,">For the philosopher physics is a bridge to reality,<p>The claim that physics plays that special role within philosophy is itself a philosophical claim. If you want to justify it you&",
+56,9055183,comment,9054795.0,9055172.0,0,0,eikenberry,,,Point taken.,1424057458.0
+57,9055182,comment,9054846.0,9055173.0,0,0,throwaway420,,,> If there are infinitely many universes then I think it would make it less likely we&,
+58,9055181,comment,9052925.0,9054050.0,0,0,tracker1,,,"Not so sure about that, two out of the three SSDs I first used where Intel&",
+59,9055180,comment,9054274.0,9054274.0,0,0,excalq,,,"Related to that is Tetration, which can be expressed with complex numbers resulting in some beautiful fractal graphs: <a href=""https://en.wikipedia.org/wiki/Tetration",
+60,9055179,comment,9054846.0,9054846.0,0,0,tjradcliffe,,,"No: <a href=""http://www.tjradcliffe.com/?p=1220"" rel=""nofollow"">http://www.tjradcliffe.com/?p=1220</a><p>Or if we are, the universe simulating us has completely different physics from the one we live in, which have to be fully specified before the &quot;argument&quot; becomes remotely plausible.",1424057317.0
+61,9055178,comment,9054335.0,9055143.0,0,0,hiddencost,,,"Sure. I work in ML, in industry. Singular value decomposition and related methods are huge. Understanding basis vectors.  Most of the notation I use every day.  The intuitive understanding of linear algebra  and ability to read papers that rely on it. a lot of ML relies on understanding data as points in high dimensional space.<p>a lot of the stuff you&",
+62,9055177,story,,,51,66,simonebrunozzi,Apple will Not buy Tesla for $75b in 18 months,http://brunozzi.com/2015/02/16/apple-will-not-buy-tesla-for-75-billion-dollars-in-18-months/,,1424057305.0
+63,9055176,comment,9054846.0,9055163.0,0,0,element11,,,"I really like this comment. There is a deepness in our lives that everyone can feel, a love that transcends everything. Such a thing can&",
+64,9055175,comment,9054846.0,9055119.0,0,0,miduil,,,"Yes, but reboot the computer - updates are available.\n:)",1424057283.0
+65,9055174,comment,9053496.0,9054419.0,0,0,reitzensteinm,,,"Vaporware is a pretty harsh way to describe it. If everything went perfectly for the Mill team, they&",
+66,9055173,comment,9054846.0,9054846.0,0,0,logn,,,We could be living in a multi-verse world. That&,
+67,9055172,comment,9054795.0,9055165.0,0,0,tdicola,,,"Yeah the problem is getting to that point.  Check out the docs on setting up an apt repo: <a href=""https://wiki.debian.org/HowToSetupADebianRepository"" rel=""nofollow"">https://wiki.debian.org/HowToSetupADebianRepository</a>  Good luck figuring out the easy way of using reprepro and S3 from that page.",1424057219.0
+68,9055171,comment,9054335.0,9054779.0,0,0,gms7777,,,"Linear algebra comes up all the time in advanced courses. Certainly in graphics, but also if you do any machine learning, optimization, probabilistic algorithms, any sort of scientific computation. I never took a linear algebra course, convincing myself that I could just pick it up as I went along and getting into grad level computer science courses was ultimately a rather painful experience because of this. If I were you, I&",
+69,9055170,comment,9054274.0,9054274.0,0,0,to3m,,,Interesting that they feel the need to specify which problem this number is an upper bound for...,1424057199.0
+70,9055168,comment,9054795.0,9055127.0,0,0,ckuehl,,,"You should check out reprepro [1]. The configuration is really easy compared to other solutions [2], and once you&",
+71,9055167,comment,9052409.0,9054460.0,0,0,foldr,,,Have you read any bad papers about quantum mechanics by philosophers? You&,
+72,9055166,comment,9054795.0,9055104.0,0,0,carterschonwald,,,"I&quot;m pretty sure most banks are using RHEL or the like, rather than Debian. At least for production environments, something about about enterprise support contracts and the like.",1424057026.0
+73,9055165,comment,9054795.0,9055127.0,0,0,eikenberry,,,"You can host a dep/apt repo as a static list of files in S3. Did that myself before using reprepro to generate it, then pushed it up to S3. Nothing fancy, but it worked fine. Not sure where you got the idea is was more complicated.<p>I&",
+74,9055164,comment,9054335.0,9054979.0,0,0,hiddencost,,,"Sounds like your college sucked, but that doesn&",
+75,9055163,comment,9054846.0,9054846.0,0,0,curiously,,,Well I don&,
+76,9055162,story,,,2,0,aaron695,How the first brain-altering wearable is being tested,http://www.dailydot.com/technology/thync-brain-altering-early-data/,,1424056958.0
+77,9055161,comment,9054335.0,9054937.0,0,0,gwulf,,,"Good find! The goal was to wrap the feature engineer scripts up with a front end, so design was an after thought.",1424056940.0
+78,9055160,comment,9054274.0,9054766.0,0,0,thret,,,Now I&,
+79,9055159,comment,9054503.0,9054503.0,0,0,segphault,,,I build a bunch of small web apps with a pretty diverse range of stacks. I like Dokku because it lets me deploy the apps in a uniform way regardless of what I use to build each one.<p>It&,
+80,9055158,comment,9052880.0,9054026.0,0,0,Houshalter,,,"All we need to worry about is the brain. We could just grow headless clones and do brain transplants to fix everything else.<p>And soon after that we will be able to replace the brain too. Whether uploading to a computer, or adding so many artificial neurons, only a small part of you is still biological.",1424056925.0
+81,9055157,story,,,18,12,shahocean,The NYTimes could be worth $19bn instead of $2bn,http://www.mondaynote.com/2015/02/15/the-nytimes-could-be-worth-19bn-instead-of-2bn/,,1424056924.0
+82,9055156,story,,,1,0,brandonlipman,How to Establish Yourself as a Recognized Thought-Leader on Twitter in 3 Months,https://medium.com/@tkornblit/how-to-establish-yourself-as-a-recognized-thought-leader-on-twitter-in-3-months-dc46c8d9c73,,1424056920.0
+83,9055155,story,,,1,0,crypt0ninja,Carbanak Ring Steals $1B from Banks,http://threatpost.com/carbanak-ring-steals-1-billion-from-banks/111054,,1424056915.0
+84,9055154,story,,,1,0,zy1t,Narrative Legos with Ken Levine – GDC 2014,http://www.youtube.com/watch?v=58FWUkA8y2Q,,1424056864.0
+85,9055153,comment,9053255.0,9053255.0,0,0,smilefreak,,,"I think that a smile should never be forced, for two reasons.<p>1. I want to find people who are genuinely passionate about what they do.<p>2. If people are truly unhappy not being o.k with that, and not faking it may bring attention to a problem they or society faces. This may help highlight, and could lead to solutions. Do not go silent.",1424056848.0
+86,9055152,comment,9051645.0,9054385.0,0,0,acjohnson55,,,I&,
+87,9055151,comment,9054795.0,9055104.0,0,0,intortus,,,That&,
+88,9055150,comment,9052880.0,9054891.0,0,0,ggamecrazy,,,"Perhaps they are both linked, perhaps it&",
+89,9055149,comment,9053555.0,9055079.0,0,0,developer-mike,,,Thanks! These are great resources for some cool programs and I will be sure to submit!,1424056747.0
+90,9055148,comment,9055122.0,9055122.0,0,0,otoburb,,,">Unlike the stock market, the bond market doesn’t have a centralized system where traders can plainly see the fees involved in the trade. This means traders have to ask each bank, one by one, either by phone or electronically, what they are willing to sell a Treasury bond for.<p>Mind. Blown. I always just vaguely figured that something as large as fixed income / debt markets, which look to be at least twice as large as equity markets[1], would have massive incentives for fintech to innovate much earlier.<p>[1] <a href=""http://finance.zacks.com/bond-market-size-vs-stock-market-size-5863.html"" rel=""nofollow"">http://finance.zacks.com/bond-market-size-vs-stock-market-si...</a>",1424056717.0
+91,9055147,comment,9053255.0,9053800.0,0,0,meric,,,By bang do you mean &quot;gun&quot;?,1424056714.0
+92,9055146,story,,,11,1,brandonlipman,Hoping Google’s Lab Is a Rainmaker,http://www.nytimes.com/2015/02/16/business/google-aims-for-sky-but-investors-start-to-clamor-for-profits.html?ref=business,,1424056701.0
+93,9055145,comment,9054795.0,9055056.0,0,0,nilved,,,"Less type safety, more internet safety!",1424056649.0
+94,9055143,comment,9054335.0,9054979.0,0,0,karmacondon,,,"Seconded. Same for discrete mathematics and differential equations. Interesting to learn about, but pretty much worthless as soon as you set foot off of campus. I&",
+95,9055142,comment,9052953.0,9052953.0,0,0,dnohr,,,"Hi, I&",
+96,9055141,comment,9053286.0,9054737.0,0,0,randlet,,,I was wondering what you do when say record 1001 gets deleted...your second query will only return 9 rows.<p>It&,
+97,9055140,comment,9053286.0,9054612.0,0,0,PythonicAlpha,,,">  Large software is typically built from many heterogeneous components.<p>That is just one of the reasons, why software is getting more and more unreliable (not the asynchronous implementation). Software stacks are getting more and more complex and implementors loose track of the complexity.<p>Throwing dirt on software with clear and less complex implementations, is not going to make things better.<p>Of course I would not argue, that asynchronous implementation is for any software and in particular with today&",
+98,9055139,comment,9053830.0,9053830.0,0,0,aaronlevin,,,"Armin Ronacher wrote about this back in 2013. [My Favorite Database is the Network](<a href=""http://lucumr.pocoo.org/2013/11/17/my-favorite-database/"" rel=""nofollow"">http://lucumr.pocoo.org/2013/11/17/my-favorite-database/</a>)",1424056552.0
+99,9055138,story,,,6,0,tomsyouruncle,Students used to take drugs to get high. Now they take them to get higher grades,http://www.theguardian.com/society/2015/feb/15/students-smart-drugs-higher-grades-adderall-modafinil,,1424056522.0
+100,9055137,comment,9052919.0,9054660.0,0,0,SlipperySlope,,,"Venture capitalists and self funded R&D want rosy market projections.<p>Sadly, based on sentiment from USA residents, like yours I suppose, I predict the USA is going to lead with military applications only for UAVs.",1424056458.0
+101,9055136,story,,,2,0,prostoalex,The Buildings of Tomorrow,http://www.wsj.com/articles/the-buildings-of-tomorrow-1423857128,,1424056430.0
+102,9055135,comment,9052727.0,9054448.0,0,0,ryandrake,,,"In this case, I&",
+103,9055134,comment,9054290.0,9054984.0,0,0,GuiA,,,The Death And Life of Great American Cities might overlap with and be a good starting point for what you&,
+104,9055133,comment,9054290.0,9054290.0,0,0,drewda,,,"Or, if you&",
+105,9055132,comment,9052925.0,9053809.0,0,0,Rapzid,,,Same.  RAM chasing them up too.  Almost never had a network card failure.,1424056300.0
+106,9055131,comment,9053830.0,9053830.0,0,0,ratsbane,,,These things can be useful fraud-detection signals.  If you don&,
+107,9055130,comment,9053830.0,9054947.0,0,0,jimktrains2,,,"if you check <a href=""http://en.wikipedia.org/wiki/Base64"" rel=""nofollow"">http://en.wikipedia.org/wiki/Base64</a> there are actually RFC-standard alphabets that use . and - because they&",
+108,9055129,comment,9052919.0,9053393.0,0,0,cornellwright,,,What about property owner permission? I feel like that&,
+109,9055128,comment,9052560.0,9054829.0,0,0,otoburb,,,"If one of the active pfSense developers is asking this question[1], then Manuel Kasper&",
+110,9055127,comment,9054795.0,9054795.0,0,0,tdicola,,,I&,
+111,9055126,comment,9052727.0,9053788.0,0,0,Swannie,,,Getting a job in the City requires you have a job in the City.<p>There are two normal routes into the City if you don&,
+112,9055125,comment,9053830.0,9053830.0,0,0,engendered,,,"While encryption is obviously a tool every developer should be using, this seems a little hand-wavy and built against a rather contrived strawman. It is a little info-mercially -- you fuss, you muss...<p>Is a table and a couple of columns actually difficult? Is this, or has this <i>ever</i> been, a problem for anyone? When did we enter the &quot;post-database&quot; world?<p>This all makes plenty of sense if you buy the strawman, otherwise it seems like some pretty strong over-reaching.",1424056201.0
+113,9055124,comment,9053286.0,9055015.0,0,0,laurencerowe,,,"Postgres lets you synchronize snapshots across connections so that they all see the same data (though subsequent changes are not visible to the other transactions unless you export another snapshot.)\n<a href=""http://www.postgresql.org/docs/9.4/static/functions-admin.html",
+114,9055123,comment,9054711.0,9054711.0,0,0,JoeAltmaier,,,Not quite right. Maybe &quot;I like my Pine&quot; or &quot;I&,
+115,9055122,story,,,64,32,prostoalex,Direct Match (YC W15) Aims to Make Bond Trading as Easy as Stock Trading,http://techcrunch.com/2015/02/15/yc-startup-direct-match-aims-to-make-bond-trading-as-easy-as-stock-trading/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29,,1424056136.0
+116,9055121,story,,,8,0,dean,Why I Self-Funded My Startup and So Should You,http://yongfook.com/10-reasons-why-i-self-funded-my-startup-and-so-should-you.html,,1424056114.0
+117,9055120,comment,9054503.0,9054631.0,0,0,logn,,,This is a valid survey response.,1424055914.0
+118,9055119,comment,9054846.0,9054846.0,0,0,aceperry,,,Maybe I am.<p><i>Don&,
+119,9055118,comment,9054795.0,9055056.0,0,0,jimmcslim,,,It has been... coerced.,1424055834.0
+120,9055117,comment,9052880.0,9054161.0,0,0,Houshalter,,,People made similar arguments about the smallpox vaccine and just about every significant technology.,1424055753.0
+121,9055116,comment,9054846.0,9054846.0,0,0,cnp,,,"Author of this book as well:  <a href=""http://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies"" rel=""nofollow"">http://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dange...</a>",1424055747.0
+122,9055115,story,,,5,0,gjreda,Web scraping 201: How to find the API used by client-side webapps,http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/,,1424055728.0
+123,9055114,comment,9054846.0,9054846.0,0,0,briholt,,,"So, in summary either (1) no, we don&",
+124,9055113,comment,9052727.0,9053762.0,0,0,Swannie,,,"Many of the large SV companies place many bets.<p>You could walk into Cisco, VMware, EMC, Pivotal, etc. etc. and find yourself working with close to cutting edge tools, hard problems, etc - BUT have a stable salary, perks, training courses, huge amount of corporate resources to lean on and learn with.",1424055631.0
+125,9055112,comment,9052173.0,9055040.0,0,0,zAy0LfpBZLC8mAC,,,"I would suggest that there might be things that we will never figure out, but for which we will never know that we will never figure them out.<p>Also, belief is not a choice, by definition. Belief comes from being convinced. You cannot choose to be convinced, either you are or you are not, change only comes due to new information or new ideas, but never due to a deliberate decision to be convinced of something else. You can decide to pretend a different belief, but you cannot decide your actual belief.",1424055622.0
+126,9055111,story,,,34,6,petethomas,FAA proposes rules for drone use; Obama issues curbs on surveillance,http://www.washingtonpost.com/world/national-security/faa-releases-proposed-rules-for-domestic-drone-use/2015/02/15/6787bdce-b51b-11e4-a200-c008a01a6692_story.html,,1424055611.0

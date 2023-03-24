@@ -1,0 +1,131 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9072330,comment,9071213.0,9071857.0,0,0,RickS,,,"How I hoped this worked when I heard about it: Take photo of poster next to a credit card, it extrapolates the size based on the card, and automatically configures the frame dimensions to fit, so I don&",
+1,9072329,story,,,1,0,nikatwork,Your users are drunk (2013),http://www.thecleverest.com/the-user-is-drunk/,,1424318333.0
+2,9072328,comment,9070496.0,9071096.0,0,0,fryguy,,,I still feel like the better alternative to asm.js&,
+3,9072327,comment,9064676.0,9072058.0,0,0,totony,,,I don&,
+4,9072326,comment,9071921.0,9072158.0,0,0,gcb0,,,"it is all the annoying services. Like sync.<p>and you can bet anyone coming from one group will, even without noticing, push that group forward in his decisions.<p>So expect some Gplus like moves from firefox in the near future.",1424318090.0
+5,9072325,comment,9072069.0,9072069.0,0,0,bhaumik,,,That&,
+6,9072324,comment,9069634.0,9071917.0,0,0,nikatwork,,,"I have done A/B design testing on ~10 mid-tier &quot;consumer products&quot; eCommerce sites, and giant firetruck-red 3D bevelled &quot;Buy Now&quot; buttons converted insanely better than minimal ones.<p>Personally, I want clearly-labelled tactile buttons that <i>make</i> me want to push them. Flat UI is more brutalist than humanist.",1424318053.0
+7,9072323,story,,,4,1,suchow,BuzzFeed's first substantive list: seven things they ought to teach in school,http://www.buzzfeed.com/jordans481f1d992/seven-things-they-ought-to-teach-in-school-147t9,,1424318044.0
+8,9072322,comment,9072069.0,9072273.0,0,0,necubi,,,"There are definitely companies missing (I have personal knowledge of a few). In particular, it will underreport for profitable B2B companies that haven&",
+9,9072321,story,,,2,0,sgerber,"Courses, videos and coaching to get organized and grow your business",https://emyth.com,,1424318004.0
+10,9072320,comment,9070140.0,9070140.0,0,0,mtb2718,,,My take on this concept from undergrad [1]. It&,
+11,9072319,comment,9071965.0,9072293.0,0,0,fleshweasel,,,"I have seen a few monad tutorials and found this series far more comprehensible than others-- it starts with the real-world monads many programmers use unknowingly and works back to the definition.\n<a href=""http://ericlippert.com/2013/02/21/monads-part-one/"" rel=""nofollow"">http://ericlippert.com/2013/02/21/monads-part-one/</a>",1424317948.0
+12,9072318,comment,9071965.0,9072293.0,0,0,Retra,,,I recommend this to anybody who wants to learn about Haskell&,
+13,9072317,story,,,5,3,unchabon,Ask HN: How to move from developer to support role?,,I&,
+14,9072316,comment,9071263.0,9071776.0,0,0,kefka,,,"freedom123 You have been hellbanned.<p><pre><code>     1. People cannot respond to you.\n     2. Your posts normally do not show up, unless we choose an option of &quot;showdead&quot;.\n     3. Everything sent to you is as a normal user. There is no indication that anything is wrong.\n</code></pre>\nThat is what a hellbanning is. Or here: <a href=""http://en.wikipedia.org/wiki/Hellbanning"" rel=""nofollow"">http://en.wikipedia.org/wiki/Hellbanning</a>",1424317858.0
+15,9072314,comment,9072069.0,9072179.0,0,0,curiously,,,I suspect some of the other companies listed on their will follow suit...,1424317695.0
+16,9072313,comment,9070140.0,9072197.0,0,0,Killswitch,,,Someone hacked together something and is sharing it. It&,
+17,9072312,comment,9072275.0,9072275.0,0,0,anonnomad,,,"for such a small project I would:<p>* charge by hour (ballpark 70-150$/h). Give an estimate on how long it should take and maybe add a max budget.<p>* ask for 30-50% upfront. Only start working once the money arrived, this is fairly important, so you are not emotionally invested in the work you&",
+18,9072311,comment,9071965.0,9072181.0,0,0,nescoiquid,,,Word.<p>There&,
+19,9072310,comment,9070140.0,9072208.0,0,0,cflyingdutchman,,,It&,
+20,9072309,comment,9071965.0,9072293.0,0,0,danem,,,"There was quite a long discussion about this on the Haskell subreddit this past week[1], and indeed this topic seems to always be something newcomers get caught up with.<p>My advice is to  use the language until you gain an intuition for them. Despite being rather simple, I found it was difficult to fully appreciate them without a decent amount of exposure. Really though, monads aren&",
+21,9072308,comment,9068709.0,9071747.0,0,0,Hominem,,,As a &quot;tech lead&quot; I think this is a great list of expectations. I don&,
+22,9072307,comment,9069031.0,9071963.0,0,0,alxmdev,,,"Thanks for linking to that video, it was fun to watch. I&",
+23,9072306,comment,9069846.0,9069846.0,0,0,suprgeek,,,"Rampant Corruption, Gross Negligence, Terrible planning,....\nyou name a dysfunction and the Indian Electricity distribution system has it.<p>A sample statistic - a while back there was a study on Transmission & Distribution losses in the Power grid.<p>US -  6-7% T&D Loss<p>India - <i>25-30%</i> (conservative)<p>Just think about that - 30% of power generated in India NEVER reaches the intended consumer. A lot of it gets lost due to poor connectors, some of it is stolen, some of it is &quot;diverted&quot; by cronies of the officials.",1424317534.0
+24,9072305,comment,9070540.0,9071976.0,0,0,azakai,,,"FFI calls are just like normal calls: they need a coercion on them.<p><pre><code>    i = ffiFunc() | 0; // returns an int\n    d = +ffiFunc();    // returns a double\n</code></pre>\nThis is identical for FFI and non-FFI calls. A difference though is that asm functions have specific types (an asm function returns either nothing, an int, or a double). But an FFI is just any old JS function. So you could not write the above 2 lines <i>together</i> with an asm function, only an FFI can get an int one time and a double another time from the same function.",1424317486.0
+25,9072304,comment,9072069.0,9072273.0,0,0,misiti3780,,,we work is not a tech company,1424317484.0
+26,9072303,comment,9071965.0,9072159.0,0,0,TazeTSchnitzel,,,I still can&,
+27,9072302,comment,9067355.0,9068369.0,0,0,aaronchall,,,"&quot;There is also no example of a successful free market economy, because no such thing exists.&quot;<p>That&",
+28,9072301,comment,9069295.0,9071994.0,0,0,diminoten,,,>  That feature is not called &quot;full disk&quot; anywhere I can see. &quot;System Encryption&quot; or something.<p>See above citation.,1424317333.0
+29,9072300,comment,9070575.0,9071607.0,0,0,joe_the_user,,,"No,<p>I guess amateur researcher would be the best term.<p>Occasionally I find mathoverflow useful but you can find some annoying attitudes there are also.",1424317309.0
+30,9072299,comment,9071965.0,9072293.0,0,0,TazeTSchnitzel,,,"Well, Learn You a Haskell&",
+31,9072298,comment,9072069.0,9072273.0,0,0,pkaye,,,The word &quot;tech&quot; has lost all its meaning now... basically if you do anything online your are considered a tech company.,1424317291.0
+32,9072296,comment,9072069.0,9072273.0,0,0,fekberg,,,"> Note: This chart only includes companies that are privately held, have raised money in the past four years and have at least one venture-capital firm as an investor.",1424317190.0
+33,9072295,comment,9068709.0,9071984.0,0,0,dack,,,"Ideally, people are paid what they are worth - so that would imply there would be instances where people had the same title, but vastly different pay. The challenge always seems to be how to reliably determine who is really having more impact and who is positioning themselves to look like they are.",1424317183.0
+34,9072294,comment,9068685.0,9070644.0,0,0,deadfoxygrandpa,,,You might be better served by waiting a little while. The Http library is going to get totally revamped soon by the new Promises API.,1424317134.0
+35,9072293,comment,9071965.0,9071965.0,0,0,clark-kent,,,"What is a good online reference to learn about &quot;Monads&quot; for beginners? Someone posted a reference here on HN sometime ago but I lost it.<p>Edit:\nThe book was enjoyable and a delight to read, but I started struggling to keep up from Chapter 8. as it went into Monoids and Monads, I feel like I need to read other tutorials before coming back to it.",1424317119.0
+36,9072292,comment,9069846.0,9069846.0,0,0,NaOH,,,"The fall semester of my senior year of college was spent on a three-month wilderness course. This was done in the southwestern United States. Over 90-plus days we slept outside, carrying all our supplies. The course was split into four sections, and, as an example of the break from normal amenities, only between sections was there a chance for a shower.<p>After that course, my spring semester was spent in Indonesia, in a part considered third world. Despite being in the tropics, there was no air conditioning. A shower meant pouring a hand bucket of cold water over myself.<p>I could go on about the comforts given up during this year, one which I consider among my fondest. And I’ll admit there was an adjustment upon returning to standard American living afterward.<p>Truth is, as great as that year was, and as distinct as it was from my usual American-style living, I can’t imagine what the people described in the article experience. As much as I enjoyed my time, I knew the conveniences I’d sacrificed were only temporarily absent. On top of that, the health risks these people have no choice but to accept are above and beyond what I physically risked.<p>Worst, I think, is that these people probably have little reason for hope.<p>It’s all so unfathomable to me—their circumstances, the slow rate of improvements, the amazing ways people endure under immense hardship.",1424317055.0
+37,9072291,comment,9071605.0,9071729.0,0,0,bradleyjoyce,,,Thanks! It&,
+38,9072290,story,,,13,0,jpatokal,Guantanamo detainee David Hicks wins appeal against terrorism conviction,http://www.abc.net.au/news/2015-02-19/david-hicks-wins-appeal-against-terrorism-conviction/6144340,,1424316963.0
+39,9072289,comment,9071111.0,9071114.0,0,0,fsk,,,"First, this is a solved problem.<p><a href=""http://en.wikipedia.org/wiki/Mastermind_%28board_game%29"" rel=""nofollow"">http://en.wikipedia.org/wiki/Mastermind_%28board_game%29</a><p>tl;dr answer: Check every possible move.  For each possible move, each possible response partitions the remaining guesses.  Find the move that, with the worst possible response, has the fewest possible remaining guesses.  That is an almost-optimal greedy algorithm.<p>Second, as a senior candidate I now pass on pre-interview screening tests and assignments.  I&",
+40,9072288,comment,9068705.0,9072118.0,0,0,jerf,,,"I remember browsing this site before Unicode was even a vague plan. The march of charsets has not been kind to the site. But if you use that as an excuse to sneer and pass over it, you will be missing out on a true unsung gem. At least, if you like math. This is the sort of site that the web was created for in the first place.<p>I recommend &quot;Reflections on Relativity&quot; if you need a concrete starting place. Here on HN over the years I have wished it would be published at various times, but I am now happy to say I have a physical copy, despite having read it online at least three times before. It was worth it just to see it typeset properly.",1424316942.0
+41,9072287,comment,9072223.0,9072223.0,0,0,ild,,,"I am afraid people on this will have disagreement with me, but as Searle pointed out, whole brain emulation is just an emulation and most likely won&",
+42,9072286,comment,9072035.0,9072035.0,0,0,andrewchambers,,,Checkout the clojure loop form.,1424316760.0
+43,9072285,story,,,1,0,nreece,HTTP Archive – Trends,http://httparchive.org/trends.php,,1424316759.0
+44,9072284,comment,9070496.0,9070865.0,0,0,angersock,,,"My bet is on Chakra, once open-sourced, becoming the JS backend for Node enterprise.",1424316748.0
+45,9072283,story,,,2,0,icefox,Show HN: Stopped procrastinating and finished this little toy,http://milliondollardefrag.com/,,1424316737.0
+46,9072282,comment,9071921.0,9072248.0,0,0,scrollaway,,,"> Longtime user -- I was on the Netscape 4.3, then 7.1, Kmeleon project, then Phoenix, then Firdbird, then Firefox? I cant keep up.<p>You named 5 things that happened in the span of 3 years over 12 years ago, and one that has been around for a decade. I&",
+47,9072281,comment,9070496.0,9070496.0,0,0,itsbits,,,"Would be cool to see TypeScript compile to asm.js, would open up some cool optimizations for hybrid development.<p>Seems like there was some discussion[1].<p>[1] <a href=""http://typescript.codeplex.com/discussions/438243"" rel=""nofollow"">http://typescript.codeplex.com/discussions/438243</a>",1424316631.0
+48,9072280,comment,9071965.0,9072247.0,0,0,SamReidHughes,,,I&,
+49,9072279,comment,9069846.0,9069846.0,0,0,mytochar,,,"In the article, it talks about how they do everything by hand, literally by hand, not using any tools.<p>Why don&",
+50,9072278,comment,9071921.0,9072255.0,0,0,ironsides,,,IBM and GE are all the proof we need that &,
+51,9072277,comment,9071213.0,9071857.0,0,0,sytse,,,Congrats on the launch! How do you manufacture the frames?,1424316509.0
+52,9072276,comment,9070834.0,9072227.0,0,0,zem,,,it&,
+53,9072275,story,,,6,2,gwsm,Ask HN: Newbie freelancer. What do I do with this opportunity?,,I just had a potential opportunity fall into my lap and I&,
+54,9072274,comment,9070488.0,9070488.0,0,0,jedanbik,,,This is a problem that a Project Manager solves.,1424316488.0
+55,9072273,comment,9072069.0,9072069.0,0,0,dkhenry,,,"So is that the total list ? Is it possible that there is a company valued over 1b that they could have missed. I am seeing lots tech companies, but not much non tech companies.",1424316483.0
+56,9072272,comment,9071965.0,9072247.0,0,0,rpglover64,,,"If you like math (I mean stuff like set theory and abstract algebra, not arithmetic and high-school math), then Haskell is wonderful. I find programming in it to be more enjoyable than in any other language. It will also make you think differently, which is a useful feature if you&",
+57,9072271,comment,9071921.0,9072102.0,0,0,ironsides,,,"Valid. Its nice to know where the money flows from. At the same time, I could care less how they make the money and more about &",
+58,9072270,story,,,1,0,martey,Homeward,https://stories.californiasunday.com/2015-03-01/homeward,,1424316433.0
+59,9072269,comment,9071965.0,9072247.0,0,0,akurilin,,,"What does &quot;lack of applications&quot; mean? As in, not that many apps are written in it, or that it&",
+60,9072268,comment,9071263.0,9072244.0,0,0,dublinben,,,Don&,
+61,9072267,comment,9071921.0,9072230.0,0,0,scrollaway,,,"&quot;achieved positive growth&quot; is pretty self-explanatory. &quot;dramatically reset the global search strategy&quot; is a bit weirder but they are (most likely) talking about their search deal with Google which they terminated in favour of Yahoo! and yes, that is a pretty dramatic reset.<p>If you don&",
+62,9072266,comment,9045297.0,9045297.0,0,0,UncleTed,,,teds,1424316373.0
+63,9072265,comment,9062088.0,9067748.0,0,0,typedweb,,,"<a href=""http://www.unlambda.com/download/genera/snap4.tar.gz"" rel=""nofollow"">http://www.unlambda.com/download/genera/snap4.tar.gz</a><p>Here&",
+64,9072264,comment,9065030.0,9066306.0,0,0,sixQuarks,,,"I swear by them.  Before, I couldn&",
+65,9072263,story,,,1,0,tyoung,PlanGrid (YC W12) Is Hiring Mobile/Back End/Web/Data Science Hackers,http://www.plangrid.com/en/jobs,,1424316294.0
+66,9072262,comment,9071965.0,9072159.0,0,0,loosescrews,,,"My favorite is:<p>&quot;If we think of a list as a monster, here&",
+67,9072261,comment,9072035.0,9072035.0,0,0,angersock,,,"So, it&",
+68,9072260,comment,9069846.0,9071739.0,0,0,bane,,,It&,
+69,9072259,story,,,1,0,thanatosmin,The aging of science is cutting into the age range of maximally creative PIs,http://ameyer.me/science/2015/02/18/interesting-age.html,,1424316262.0
+70,9072258,comment,9071921.0,9072225.0,0,0,ironsides,,,"Dont forget maps, reviews, and a social network.",1424316237.0
+71,9072257,comment,9072099.0,9072099.0,0,0,mark_l_watson,,,"I think that some Lenova laptops are available directly from Microsoft as signature editions, that is, with no crapware. I recently bought an HP signature edition laptop and it was great to have nothing but Windows on it.",1424316227.0
+72,9072256,comment,9072186.0,9072240.0,0,0,aliencoder,,,"It finds the best image for your message. Message with images, way more expressive than plain text. Quite fun to use.",1424316211.0
+73,9072255,comment,9071921.0,9072230.0,0,0,falconic,,,My guess is they&,
+74,9072254,comment,9072253.0,9072253.0,0,0,ennuihenry,,,"referring URL: <a href=""http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDsQqQIwAA&url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fcoding-boot-camp-opens-high-tech-doors-1424304763&ei=K1TlVJDmLYLAggSXv4PgCA&usg=AFQjCNGy_jNyj2acMDYXHVbiNGoO7z3XZQ&bvm=bv.85970519,d.eXY"" rel=""nofollow"">http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd...</a>",1424316160.0
+75,9072253,story,,,1,1,ennuihenry,Coding ‘Boot Camp’ Opens High-Tech Doors,http://www.wsj.com/articles/coding-boot-camp-opens-high-tech-doors-1424304763,,1424316131.0
+76,9072252,comment,9070496.0,9072169.0,0,0,adamnemecek,,,That&,
+77,9072251,comment,9070696.0,9072171.0,0,0,chipsy,,,It&,
+78,9072250,comment,9067452.0,9068708.0,0,0,Immortalin,,,"I really feel that this is a good time to advertise the website I am creating. Basically, it&",
+79,9072249,story,,,13,0,shahocean,The Pentagon is building an app store for cyberoperations,http://passcode.csmonitor.com/planx,,1424316078.0
+80,9072248,comment,9071921.0,9072230.0,0,0,ironsides,,,"Agreed. Longtime user -- I was on the Netscape 4.3, then 7.1, Kmeleon project, then Phoenix, then Firdbird, then Firefox? I cant keep up.<p>With that being said, Mozilla has been (in my mind) the pro consumer, pro internet org to challenge the establishment. So far, its worked wonders -- we have a diverse ecosystem, new burning edge interfaces and plugin market places to boot. The partnership with the Tor project gave me hope. However..reading that PR blurb/intro made me want to pluck out my eyeballs. Where is the heart? The direction? The challenge?<p>Mozilla -- Its time you returned to your roots. Find the spark that set you free and fan the flames.",1424316075.0
+81,9072246,comment,9071965.0,9072159.0,0,0,NiceOneBrah,,,"My favorite illustration is the monoidal pirate ship:<p><a href=""http://s3.amazonaws.com/lyah/pirateship.png"" rel=""nofollow"">http://s3.amazonaws.com/lyah/pirateship.png</a>",1424315983.0
+82,9072245,comment,9070593.0,9070593.0,0,0,userbinator,,,"In addition to writing RE2, Russ Cox has a set of very readable articles on implementing efficient regular expressions here: <a href=""http://swtch.com/~rsc/regexp/"" rel=""nofollow"">http://swtch.com/~rsc/regexp/</a>",1424315925.0
+83,9072244,comment,9071263.0,9071263.0,0,0,JumpCrisscross,,,"Aside from donating to the EFF, how can I help?",1424315902.0
+84,9072242,comment,9070593.0,9070593.0,0,0,dsymonds,,,Obligatory comment about how if you can&,
+85,9072241,comment,9071081.0,9072233.0,0,0,diminoten,,,That&,
+86,9072240,comment,9072186.0,9072186.0,0,0,striking,,,So Instagram Direct Message meets MemeGenerator.net. What&,
+87,9072238,comment,9071189.0,9071218.0,0,0,seekingcharlie,,,You don&,
+88,9072237,comment,9071854.0,9071854.0,0,0,allan_s,,,Shameless plug but currently there&,
+89,9072236,comment,9070696.0,9072062.0,0,0,0x0,,,Pretty sure tcpip was included (but not installed by default) in win95 from day 1; plus! only added internet explorer.,1424315692.0
+90,9072235,comment,9070488.0,9070776.0,0,0,crucini,,,Sounds like me.  What I&,
+91,9072234,comment,9069031.0,9069031.0,0,0,jongraehl,,,I guess we&,
+92,9072233,comment,9071081.0,9072108.0,0,0,Dylan16807,,,You&,
+93,9072232,comment,9071081.0,9072219.0,0,0,diminoten,,,"You were seriously watching all of our interactions over the course of the past 6 hours, with enough detail so as to be able to diff individual comments over the entire time period?<p>Well, I guess that&",
+94,9072231,comment,9071189.0,9071189.0,0,0,seekingcharlie,,,I have a US bank account & use OzForex (you can use USForex as a US citizen). I&,
+95,9072230,comment,9071921.0,9071921.0,0,0,userbinator,,,&quot;Moving Forward&quot;<p>&quot;achieved positive growth again and dramatically reset our global search strategy&quot;<p>Did anyone else find those phrases to be a bit too much corporatese for Mozilla?,1424315612.0
+96,9072228,comment,9069108.0,9071706.0,0,0,gus_massa,,,"From the Wikipedia article, it&",
+97,9072227,comment,9070834.0,9070834.0,0,0,tetron,,,"This looks more or less like a reskinned Standard ML.  Which is cool, because SML is awesome :-)",1424315558.0
+98,9072226,comment,9069602.0,9071130.0,0,0,sebringj,,,"absolutely agree on that one, I&",
+99,9072225,comment,9071921.0,9072204.0,0,0,techonup,,,"And, you know, buy a video service and make some glasses too. All in the name of not doing evil, right?",1424315495.0
+100,9072223,story,,,5,1,shawndumas,If software acts like a brain–will we treat it like one?,http://arstechnica.com/science/2015/02/if-software-looks-like-a-brain-and-acts-like-a-brain-will-we-treat-it-like-one/,,1424315489.0
+101,9072222,comment,9071921.0,9072129.0,0,0,k__,,,Seems like Mozilla is more of an investment company than a software corp.,1424315481.0
+102,9072221,story,,,2,0,MilnerRoute,Cookie Monster wants to take over your browser,http://www.engadget.com/2015/02/13/cookie-monster-omnomnom-thief/,,1424315476.0
+103,9072220,story,,,5,0,djpizzo,How Drake Disrupted Kanye,https://medium.com/cuepoint/how-drake-disrupted-kanye-ebbfb9b17f91,,1424315468.0
+104,9072219,comment,9071081.0,9071884.0,0,0,SamReidHughes,,,"> Thomas changed his comments about 50 times between when we were replying to one another and now, so in all likelihood what I&",
+105,9072218,story,,,38,9,thefreeman,Asciinema – Record and share your terminal sessions,https://asciinema.org/,,1424315427.0
+106,9072217,comment,9066762.0,9071467.0,0,0,bane,,,I think a lot of it stems from the general suckiness of having to fire people and our desire to try to minimize harm to others. But sometimes trying to take the approach we think has the most empathy in it ends up being the worst approach.<p>I&,
+107,9072216,comment,9070488.0,9071636.0,0,0,swayvil,,,Good story.<p>Re anger : Have you met the internet? He is 14 years old and hates everything except tentacle-porn.,1424315396.0
+108,9072214,story,,,2,1,testrun,The Apple Watch Doesn’t Have to Do Anything Special to Be Huge,http://www.wired.com/2015/02/apple-watch-doesnt-anything-special-huge/,,1424315330.0
+109,9072212,story,,,2,0,Dove,Who Was That One Guy in That One Movie [Short Fiction],http://howardtayler.com/2015/02/who-was-that-one-guy-in-that-one-movie/,,1424315308.0
+110,9072211,comment,9071081.0,9072004.0,0,0,jszymborski,,,"right, I would have rather written &quot;their opacity&quot;, rather than &quot;their lack of opacity&quot;.",1424315284.0
+111,9072210,comment,9048110.0,9049026.0,0,0,bootload,,,<i>&quot;... didn&,
+112,9072209,story,,,3,0,koolhead17,"Linux Kernel Development Speeds Up, Attracts Newbies",http://thenewstack.io/linux-kernel-development-speeds-attracts-newbies/,,1424315261.0
+113,9072208,comment,9070140.0,9072197.0,0,0,nerdy,,,While it has cute aspects it&,
+114,9072207,comment,9059235.0,9062173.0,0,0,bootload,,,"thx @ydant, never heard this before. Very nice way to describe the process.",1424315230.0
+115,9072206,comment,9070488.0,9072107.0,0,0,alesa,,,I would be really interested in this!,1424315223.0
+116,9072205,comment,9072099.0,9072099.0,0,0,voltagex_,,,The story isn&,
+117,9072204,comment,9071921.0,9072102.0,0,0,Thiz,,,"I believe Mozilla should start an advertising network and offer cloud services like webmail, docs, blogs, photos, etc so people create an everlasting bond with their properties while maintaining the open web motto they are already known and praised for.<p>An extra couple billion dollars a year wouldn&",
+118,9072202,comment,9071439.0,9071439.0,0,0,dalerus,,,"I run an agency that works exclusively with NGOs (marketing, design, development). This is an interesting solution, but I am curious about if you offer an API? The link in the site footer doesn&",
+119,9072200,comment,9063884.0,9069682.0,0,0,ehvatum,,,Folks don&,
+120,9072199,comment,9071263.0,9072070.0,0,0,rayiner,,,The idea that it&,
+121,9072198,story,,,1,0,koolhead17,Puppet Labs CEO Luke Kanies Says There Is No Future with Fewer Servers,http://thenewstack.io/tns-makers-puppet-labs-ceo-luke-kanies-says-no-future-fewer-servers/,,1424315132.0
+122,9072197,comment,9070140.0,9070140.0,0,0,cflyingdutchman,,,"<a href=""https://news.ycombinator.com/newswelcome.html"" rel=""nofollow"">https://news.ycombinator.com/newswelcome.html</a>\n&quot;The worst thing to post or upvote is something that&",
+123,9072196,story,,,1,0,Impossible,Killjoys demand end to Valentine's Day,http://www.japantoday.com/smartphone/view/national/killjoys-demand-end-to-valentines-day,,1424315046.0
+124,9072195,story,,,3,0,rocky1138,Minecraft Server on Microsoft Azure Marketplace,http://azure.microsoft.com/en-us/marketplace/partners/Microsoft/MinecraftServer/,,1424315021.0
+125,9072194,comment,9067060.0,9069928.0,0,0,callumprentice,,,"Strange - as far as I know, that version of Chrome supports WebGL. Do other WebGL apps work ok?",1424315005.0
+126,9072193,comment,9071263.0,9072070.0,0,0,pyre,,,"The government has apologized, and society widely recognizes that as something that was wrong, and shouldn&",
+127,9072192,story,,,2,0,koolhead17,Twitter’s Aurora and How It Relates to Google’s Borg,http://thenewstack.io/twitters-aurora-relates-googles-borg-part-1/,,1424314940.0
+128,9072191,comment,9070496.0,9072116.0,0,0,bzbarsky,,,No idea why you couldn&,
+129,9072189,story,,,12,1,ForHackernews,President Obama Speaks with Kara Swisher,http://recode.net/2015/02/15/white-house-red-chair-obama-meets-swisher/,,1424314828.0

@@ -1,0 +1,85 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6228405,story,,,1,0,Codeson,Why Is It Building So Long?,http://www.gamedev.net/page/resources/_/technical/general-programming/why-is-it-building-so-long-r3202,,1376722769.0
+1,6228403,story,,,3,0,npalli,Is Elon Musk's Hyperloop a pipe dream?,http://www.newyorker.com/online/blogs/currency/2013/08/elon-musk-hyperloop.html,,1376722691.0
+2,6228402,comment,6226964.0,6228240.0,2,0,jordanthoms,,,"Dyno idling is documented, and it only happens to web dynos, when there is only one running. <a href=""https://devcenter.heroku.com/articles/dynos",
+3,6228401,comment,6226964.0,6226964.0,1,0,yapsody,,,"Good plans. Nice to see 10,000 free emails offering.",1376722614.0
+4,6228400,comment,6226545.0,6228315.0,1,0,lutusp,,,> The insult here--&quot;groupie-purchases&quot;--suggests you understand Buffett&,
+5,6228399,comment,6227603.0,6227603.0,1,0,cheald,,,One reason is that JSON doesn&,
+6,6228398,story,,,1,0,RaviUdi13,"Google goes down for 5 minutes, web traffic takes a dive",http://economictimes.indiatimes.com/tech/internet/google-goes-down-for-5-minutes-web-traffic-takes-a-dive/articleshow/21875239.cms,,1376722414.0
+7,6228397,comment,6228297.0,6228297.0,9,0,prezjordan,,,"Right, but now your functions are very tightly coupled to each other. The indentation might be nicer, but functionally it&",
+8,6228396,comment,6222337.0,6227109.0,1,0,glenra,,,The Isaacson bio got quite a lot of stuff wrong - both personal and technical stuff. If you haven&,
+9,6228395,comment,6226373.0,6226373.0,3,0,wildmXranat,,,"Like others have already mentioned, I&",
+10,6228394,comment,6222306.0,6222776.0,1,0,aa0,,,You&,
+11,6228393,comment,6193148.0,6198865.0,1,0,rob05c,,,I use i3. It&,
+12,6228392,story,,,10,0,blearyeyed,Reshaping New York during Bloomberg's tenure,http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/,,1376722274.0
+13,6228391,comment,6227603.0,6228171.0,1,0,cheald,,,"Sure it does.<p><pre><code>    {\n      type: &quot;tag&quot;,\n      tag: &quot;p&quot;,\n      children: [\n        {type: &quot;text&quot;, content: &quot;This is a statement with &quot;},\n        {type: &quot;tag&quot;, tag: &quot;strong&quot;, children: [\n          {type: &quot;text&quot;, content: &quot;bold text&quot;}\n        ]}\n      ]\n    }\n</code></pre>\nThat also rather explains why we don&",
+14,6228390,story,,,1,3,thesorrow,Ask HN: Do you use emacs org-mode?,,I discovered org-mode a few weeks ago and already love it. I was wondering if it&,
+15,6228389,comment,6226545.0,6228344.0,1,0,jacques_chester,,,"I think if people just chill out and accept that the strong form is a model that allows us to sketch out a lower bound of possible outcomes, everyone will be better off.<p>Throwing a model away because it isn&",
+16,6228388,comment,6226373.0,6227219.0,2,0,grey-area,,,Thanks for all the pointers - you should make a top level comment with everything you know on this. To someone from outside the field of curation this is really heartening - to see museums moving toward open data and open access to digital reproductions.,1376722041.0
+17,6228387,comment,6222726.0,6224872.0,1,0,jacques_chester,,,It doesn&,
+18,6228386,story,,,1,0,lelf,Ulam Spiral,http://en.wikipedia.org/wiki/Ulam_spiral,,1376721970.0
+19,6228385,comment,6226964.0,6226964.0,1,0,ebin,,,Why use a service like this in the first place when you can simply send out mail via a VPS?,1376721842.0
+20,6228384,comment,6198744.0,6198744.0,1,0,puredemo,,,no .ly?,1376721821.0
+21,6228383,comment,6226964.0,6226964.0,1,0,pbreit,,,If you&,
+22,6228382,comment,6227743.0,6227743.0,1,0,waratuman,,,My guess is that this was just an easier story to sell because they can just approve accredited investors and not have to deal with those who are not due to regulations. They may have planned to make it open to everyone but had to step the plan back a bit.,1376721659.0
+23,6228381,comment,6228297.0,6228297.0,4,0,rob05c,,,"I have a project in Go which is pretty heavily functional. Over time, I&",
+24,6228380,comment,6226458.0,6226458.0,2,0,InclinedPlane,,,"Antarctica is also the size of Europe. So what? What does geographical size have to do with anything? Kazakhstan is the 9th largest country in the world. What does it mean?<p>It means that geographically, Kazakhstan is the 9th largest country in the world. And not much else.",1376721640.0
+25,6228379,comment,6225745.0,6228236.0,2,0,mateuszf,,,Probably it won&,
+26,6228378,comment,6228000.0,6228290.0,4,0,if_by_whisky,,,Of course you have no idea where your digital documents from the 1980&,
+27,6228377,comment,6226607.0,6226607.0,1,0,macco,,,Looks very nice.<p>Makes me wonder about the genius of the coposer - very insightful.,1376721452.0
+28,6228376,comment,6226458.0,6226458.0,4,0,raverbashing,,,"Africa is big. The Sahara desert is also big.<p>But this whole &quot;true size&quot; is true in measure, but I&",
+29,6228375,comment,6225951.0,6228350.0,1,0,foobarbazqux,,,"This is an awesome writeup, thanks for sharing!",1376721361.0
+30,6228374,comment,6224977.0,6228255.0,1,0,gcb0,,,"They were not secret as you and other point out.<p>It was only classified internaly as secret, probably to get funding without filling reports.<p>Everyone knew where the damn base was. But officially there was a lot of money being assigned to keep it &",
+31,6228373,story,,,174,107,jlgreco,Wikileaks Releases New 'Insurance' Files,https://www.facebook.com/wikileaks/posts/561645433870573,,1376721093.0
+32,6228372,comment,6225565.0,6227088.0,1,0,fusiongyro,,,That&,
+33,6228371,comment,6228114.0,6228114.0,1,0,bluthru,,,"Why not just have the dateline static? Why make the user hover for it to show? (Does it appear on touch devices?)<p>Why does the top-right svbtle menu start as a dot? Why not just keep it in its expanded state?<p>The scrollbar on OS X appears white, despite there being a white background. I don&",
+34,6228370,comment,6227517.0,6228289.0,1,0,ics,,,Because spokes and rims work better for different things.,1376721053.0
+35,6228369,comment,6227517.0,6227517.0,1,0,jashkenas,,,"Beautiful work. The `for parallel` notation is a really interesting way of writing it.<p>It seems like a number of folks in this thread have expressed interest in your process -- both of designing the feature set, and of gradually bootstrapping it away from CoffeeScript to become self-hosting. I&",
+36,6228368,comment,6225951.0,6227023.0,4,0,tzs,,,> It&,
+37,6228367,comment,6228000.0,6228099.0,1,0,solistice,,,Doesn&,
+38,6228366,comment,6228114.0,6228114.0,1,0,gkoberger,,,It seems like the actual blogs weren&,
+39,6228365,comment,6228114.0,6228114.0,4,0,ryangilbert,,,Not a fan.,1376720966.0
+40,6228364,comment,6223543.0,6223543.0,1,0,acrich,,,I wouldn&,
+41,6228363,story,,,2,0,linux_devil,Social Media Behavior Hacked ,http://beevolve.com/social-media-audience/,,1376720937.0
+42,6228362,comment,6227288.0,6227934.0,1,0,marianne_navada,,,Love the idea. I found myself spending an hour at a target aisle rereading the reviews I compiled for a DSLR.,1376720928.0
+43,6228361,comment,6228000.0,6228205.0,1,0,solistice,,,"Technically you only have to adjust the size of the inlet and handle the rest in software. Since the paper would be comming down vertically, you can do mechanical centering akin to that used in industrial processes.",1376720856.0
+44,6228360,story,,,1,0,pratikpoddar,Challenging Original Puzzle - Walking Ant Problem,http://pratikpoddarcse.blogspot.com/2013/08/walking-ant-problem-part-2.html,,1376720823.0
+45,6228359,comment,6226458.0,6227968.0,2,0,shadylane,,,"Well, technically the bottom 15 degrees aren&",
+46,6228358,comment,6228000.0,6228203.0,4,0,davidw,,,"This link is obligatory when speaking of the evils of printers: <a href=""http://theoatmeal.com/comics/printers"" rel=""nofollow"">http://theoatmeal.com/comics/printers</a>",1376720772.0
+47,6228357,comment,6225713.0,6225713.0,1,0,Myrmornis,,,I don&,
+48,6228356,comment,6227517.0,6227653.0,1,0,jeswin,,,"You should spend more time just reading HN, before commenting. Your makes no sense on _hacker_ news.",1376720618.0
+49,6228355,comment,6221077.0,6227521.0,1,0,eli_gottlieb,,,Care to elaborate?  I can&,
+50,6228354,comment,6217536.0,6219907.0,1,0,noeltock,,,This is unfortunately true for a number of EU countries. Stripe/ Paymill alleviate a fair amount of this.,1376720498.0
+51,6228353,comment,6228000.0,6228000.0,3,0,markkanof,,,So based on this design concept I have to assume that they expect this printer to run on either batteries or wireless power of some sort. I don&,
+52,6228352,comment,6221077.0,6222858.0,1,0,eli_gottlieb,,,"I think you should read up on &quot;lights out&quot; manufacturing.<p>Also, you are imprecise to say that &quot;people&quot; are the source of wealth.  If we go with your claim, <i>labor</i> is the source of wealth, in which case capitalism is indeed systematized exploitation and theft from the true source of all wealth: workers.",1376720480.0
+53,6228351,comment,6211029.0,6216592.0,1,0,ChikkaChiChi,,,Because there has been so much air-to-air combat in the past 40 years?,1376720455.0
+54,6228350,comment,6225951.0,6226837.0,22,0,tzs,,,> It&,
+55,6228349,comment,6226545.0,6228029.0,4,0,jholman,,,"This appears to have turned into a pissing match, and I was unable to contact you (your website&",
+56,6228348,comment,6226545.0,6228173.0,1,0,elliptic,,,It is difficult to imagine what sort of evidence will convince you.  All sorts of behavior is possible under all sorts of unrealistic models.<p>I&,
+57,6228347,comment,6227080.0,6228142.0,1,0,johns,,,No immediate plans other than making sure it&,
+58,6228346,comment,6228297.0,6228297.0,1,0,aa0,,,"An operation queue where dependencies can be set is also very relevant. For example, if you have to do 2 different json requests, followed by a render - but they are mutually exclusive, you can do a 2->1 dependency. If they do depend on each other&",
+59,6228345,comment,6226373.0,6227772.0,3,0,iooi,,,Do you mind sharing what tool you use to scrape?,1376720022.0
+60,6228344,comment,6226545.0,6228191.0,1,0,robotcookies,,,That&,
+61,6228343,comment,6226373.0,6226373.0,7,0,josephcooney,,,I found the one simply entitled &,
+62,6228342,comment,6228297.0,6228297.0,3,0,a__remie,,,"Nesting is not the problem, you see what you&",
+63,6228341,story,,,2,0,Brajeshwar,"Getty makes 4,600 pieces of art freely available to download",http://www.theverge.com/2013/8/13/4618542/getty-museums-open-content-project-4600-pieces-of-art-freely-available,,1376719988.0
+64,6228340,comment,6224009.0,6225193.0,1,0,solistice,,,I agree that there&,
+65,6228339,comment,6227743.0,6228163.0,1,0,tlrobinson,,,That&,
+66,6228338,comment,6221077.0,6226885.0,1,0,eli_gottlieb,,,"The problem with your theories being, of course, that property is theft in the first place.",1376719923.0
+67,6228337,story,,,8,1,marknadal,Missile Command: Pause a YouTube Video and type 1980,,,1376719845.0
+68,6228336,comment,6225104.0,6227477.0,1,0,jacalulu,,,"Size is definitely something we are incredibly conscious of. This device will be 40mm x 40m x 17mm, but we are always working on trying to get it to be smaller. We want this device to look great, and we are approaching it as if it almost were a fashion statement, or at least an accessory that a senior will wear.",1376719712.0
+69,6228335,comment,6228114.0,6228114.0,2,0,bherms,,,"Not a big fan... The movement of all &quot;navigation&quot; to the right feels unnatural and my eyes keep trying to shift focus to the right (away from the content).  Poorly done, IMO, for these usability issues.",1376719706.0
+70,6228334,story,,,1,0,ghsswa,"TANRI TEYD : TANRI YAPILAN GNAHLARI, KTLKLER AFFETMEZ",http://www.google.com/moderator/,,
+71,6228333,comment,6227517.0,6227746.0,1,0,mbrock,,,What do you mean by &quot;actually fix?&quot;,1376719681.0
+72,6228332,comment,6226373.0,6226373.0,5,0,ghubbard,,,They&,
+73,6228331,comment,6225104.0,6227259.0,1,0,jacalulu,,,The option to expand into other markets is something that we are always considering. We&,
+74,6228330,comment,6225273.0,6226378.0,1,0,natch,,,"Yes an underlying tag thesaurus would be good. Or tag synonyms as leepowers called (I think) the same idea above.<p>Just to state here a metric for what the end goal is, whatever method is used would ideally provide the same or a pretty similar hit list for any searches for different synonyms with the same meaning.",1376719569.0
+75,6228329,comment,6228297.0,6228297.0,2,0,wingspan,,,"I never thought of using nested functions like that. It does make the code much more readable, and using 100% JS is a big win. Not as pretty as yield/await, but much more debuggable and compatible.",1376719567.0
+76,6228328,comment,6226545.0,6228089.0,2,0,jacques_chester,,,The EMH doesn&,
+77,6228326,comment,6228000.0,6228168.0,2,0,el_benhameen,,,"This is definitely cool, but it strikes me as a solution looking for a problem. Mobile printers that print out a sheet much faster than this are available at pretty low cost. I&",
+78,6228324,comment,6226607.0,6226869.0,1,0,jay-anderson,,,Some of Sibelius&,
+79,6228323,comment,6225273.0,6227272.0,1,0,natch,,,That would be a great solution here imho.,1376719386.0
+80,6228322,comment,6225104.0,6225672.0,1,0,jacalulu,,,"Thanks for the feedback and input, you bring up some great points. We are currently working on a few ideas to make this device more senior friendly by adding features that would make it more than an alert pendant for them. We feel that the best way to get it right is to actually run a pilot program and get real user feedback. Right now we are focusing on solving a pain point, which for our target user is the fear of falling outside while alone. Once we have perfected this, we will be playing around with a few ideas during our pilot program. You can expect to see some new iterations and ideas emerge down the road that we are hoping will make this more than a simple help pendant.<p>As for selling to nursing homes, the stats might seem like a reassuring thing, but you might also be missing the underlying story. We have spoken with several retirement homes, and they have told us multiple stories about how staff (not necessarily at their home) have wanted to stop residents from leaving the grounds because they are worried that if something happens they won&",
+81,6228321,comment,6228000.0,6228203.0,1,0,hrktb,,,"I am slowly and slowly trying to go almost paperless, I hear you. And because We can now get rid of almost every boring administrative use of paper, the really intersting uses tend to stick out, and you start to print things you really wanted to.<p>Like printing papercraft parts, big photos of anything you like, personalized trump sets, kids stories you read at bedtime. Honestly there&",
+82,6228320,comment,6228262.0,6228262.0,1,0,kylemaxwell,,,Bill Gates is retired.,1376719255.0
+83,6228319,comment,6226607.0,6226607.0,2,0,owyn,,,"Check out <a href=""http://vexflow.com"" rel=""nofollow"">http://vexflow.com</a> It&",

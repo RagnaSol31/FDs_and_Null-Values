@@ -1,0 +1,106 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7936623,comment,7935872.0,7935872.0,7,0,beloch,,,"1. Apprentice in a good trade and you can earn more than the average professor.  Seriously, my plumber makes more than than the prof who taught me quantum physics.<p>2. If you&",
+1,7936622,comment,7930664.0,7930664.0,1,0,leoh,,,How long did this take to write? How large is your team?,1403596791.0
+2,7936621,story,,,1,0,lelf,Git Koans,http://gitkoans.tumblr.com/,,1403596676.0
+3,7936619,comment,7936300.0,7936520.0,5,0,ghayes,,,My primary concern is my house becoming part of Google&,
+4,7936618,comment,7930430.0,7934459.0,1,0,CmonDev,,,City pays only a fraction of what the analysts/traders/etc. get.,1403596612.0
+5,7936617,comment,7935729.0,7935729.0,1,0,Isofarro,,,"Seems like a normal case of jet lag. 6000 miles east, +9 hour time difference between San Francisco and Cannes. When the sleep wall hits, it hits hard.",1403596547.0
+6,7936616,story,,,1,0,d3v3r0,Should web page look the same in all browsers?,http://alexsblog.org/2014/06/24/should-web-page-look-the-same-in-all-browsers/,,1403596450.0
+7,7936615,comment,7919394.0,7924213.0,1,0,NameNickHN,,, > This time around I can apply all these lessons learned.<p>Good luck. :-),1403596437.0
+8,7936614,comment,7933740.0,7935832.0,5,0,kalleboo,,,> It&,
+9,7936613,comment,7935530.0,7936535.0,1,0,dagw,,,"Somehow I get the feeling that this is primarily targeting people who, for whatever reason, don&",
+10,7936612,comment,7933091.0,7933739.0,2,0,arrrg,,,"After measuring daily for about two months with such a scale (in the mornings after going to the toilet and before drinking anything, so I assume my hydration should be somewhat consistent) I see a clear downward trend (in line with my weight loss), but the actual values that are measured don’t seem to be very exact, probably about ±3% around the imaginary trend line.<p>Those measurements seem to be good for finding a trend, but not for finding the absolute value.",1403596383.0
+11,7936611,comment,7935872.0,7936143.0,5,0,jalanb,,,">  there are simply many other market forces (... a good football team ...)<p>Not being an American, may I just take a slight space to admit that Mind == Blown",1403596372.0
+12,7936610,comment,7935121.0,7936409.0,2,0,farva,,,You&,
+13,7936609,comment,7935530.0,7935530.0,3,0,bainsfather,,,I use the betfair &,
+14,7936608,comment,7933045.0,7935469.0,1,0,Encosia,,,Troubles. Bothers. Unnerves.,1403596268.0
+15,7936607,story,,,4,1,marcomonteiro,Nest Developer Program,https://developer.nest.com,,1403596257.0
+16,7936606,comment,7934548.0,7935787.0,2,0,wtetzner,,,The problem is that other people&,
+17,7936605,comment,7934548.0,7936562.0,1,0,loup-vaillant,,,"> <i>I need something that […] has interoperability with decades worth of C, C++ and Fortran code.</i><p>Assuming you meant more than having a good FFI…<p>When I judge the suitability of a language for a task <i>in the abstract</i>, I systematically ignore 2 very important factors: legacy code, and skill availability.  I do as if everyone know every language, and we start from a mostly blank slate.<p>If I didn&",
+18,7936604,story,,,2,0,Flenser,Announcing Faster Transfers | Simple,https://www.simple.com/blog/faster-ach-transfer-times,,1403596167.0
+19,7936603,comment,7935138.0,7935138.0,2,0,jalfresi,,,"I have some constructive criticism for the author, please take this in the manner that it is intended :)<p>1) Nothing I see here is restful at all. Please consider changing your documentation to specifically mention consuming JSON Web APIs rather than REST, because its simply misleading.<p>2) Personally I LOATH chained function/method calls. As per your example:<p>api.Res(&quot;users&quot;, resp).Id(1).Get()<p>What happens if the argument passed to api.Res is not &quot;users&quot;? Or &quot;users&quot; is incorrect? Or if Id 1 doesnt exist? Or you cant use the HTTP method Get on the selected resource? Or if I want to use a HTTP method you haven&",
+20,7936602,comment,7936300.0,7936521.0,5,0,AVTizzle,,,You&,
+21,7936601,comment,7936557.0,7936557.0,9,0,wunki,,,"And here is the announcement from Yehuda Katz:<p><a href=""https://mail.mozilla.org/pipermail/rust-dev/2014-June/010569.html"" rel=""nofollow"">https://mail.mozilla.org/pipermail/rust-dev/2014-June/010569...</a>",1403596052.0
+22,7936600,story,,,1,0,JarekS,Parallax.js,http://matthew.wagerfield.com/parallax/,,1403595994.0
+23,7936599,comment,7936300.0,7936521.0,13,0,amrrs,,,And co-founder of Nest is ex-Apple guy. Now you know from where the growth comes.,1403595940.0
+24,7936598,comment,7933870.0,7936582.0,3,0,pdkl95,,,"<p><pre><code>   > So it is now possible to give Google\n                                   ^^^^^^\n</code></pre>\nI believe you misspelled &quot;NSA&quot;?<p>Jokes (sorta?) aside, this betrays a serious failure in the way many people use network services such as those in your list - they often lack a <i>second source</i>. Since when did it become ok to have only one supplier for your mission-critical needs?",1403595910.0
+25,7936597,comment,7930430.0,7932402.0,0,0,x0x0,,,"Do note that I mentioned 6 companies in which I have personal knowledge, while this article only mentions 42 floors (ie I presented 500% more actual examples than the author).  Even if you where to believe all 7 companies the author has worked at -- counting the mugs on the about page -- are such bad startups, we still have nearly equal datasets.  And that&",
+26,7936596,story,,,7,4,AVTizzle,Ask HN: Choosing 5 Android handsets for QA purposes: Which 5?,,"Hey HN - if you were developing an Android app and had the opportunity to pick 5 Android handsets for QA purposes, which 5 would you choose?<p>I suppose you&",
+27,7936595,story,,,1,0,etiam,Don’t shoot the demonstrators,https://www.lightbluetouchpaper.org/2014/06/23/dont-shoot-the-demonstrators/,,1403595750.0
+28,7936594,comment,7934548.0,7935909.0,3,0,59nadir,,,> It is still the dominant language for large-scale low-level systems.<p>He didn&,
+29,7936593,comment,7929116.0,7934119.0,1,0,chatmasta,,,What&,
+30,7936592,comment,7936487.0,7936487.0,3,0,ColinWright,,,"Extensive discussion: <a href=""https://news.ycombinator.com/item?id=7924441"" rel=""nofollow"">https://news.ycombinator.com/item?id=7924441</a>",1403595613.0
+31,7936591,comment,7933155.0,7936224.0,4,0,amirmc,,,We don&,
+32,7936590,comment,7936300.0,7936300.0,1,0,sumukh1,,,The demo video may have revealed a little bit about Nest&,
+33,7936589,story,,,2,0,ColinWright,Study finds different vocabulary words are known to only men or women.,http://www.slate.com/blogs/business_insider/2014/06/23/center_for_reading_research_study_finds_different_vocabulary_words_are_known.html,,1403595531.0
+34,7936588,comment,7936300.0,7936420.0,1,0,marcomonteiro,,,"Hey Vibhu, Marco on the Apps Team at Nest.",1403595472.0
+35,7936587,comment,7934548.0,7935490.0,1,0,stinos,,,"<i>when we find &quot;y&quot; deep in a function</i><p>There should be no such thing as <i>deep in a function</i>, or at least not as deep as you mean (i.e. so deep that you can&",
+36,7936586,comment,7933870.0,7934563.0,1,0,pdkl95,,,"This, like their experiment at hiding URLs in the browser, smells like an attempt at muddying the concept of &quot;domain&quot;.<p>People need to be educated about this new literacy. Instead, we have the people in the best position to do that education possibly trying to maintain ignorance. <i>sigh</i>",1403595436.0
+37,7936585,comment,7936384.0,7936384.0,2,0,mmaunder,,,The only reason you have C99 on your server is because you&,
+38,7936583,comment,7933740.0,7935590.0,1,0,dnautics,,,<i>especially</i> if you&,
+39,7936582,comment,7933870.0,7933870.0,16,0,chatmasta,,,"So it is now possible to give Google, who is solely responsible for a high percentage of your site&",
+40,7936581,comment,7936489.0,7936489.0,1,0,anigbrowl,,,This is a much more interesting article than the clickbaity angle would suggest.,1403595336.0
+41,7936580,comment,7933045.0,7933045.0,1,0,things,,,Can this be removed easily?\nIt looks like it would be a beacon for vandalism unless you spent your time in secure parking.,1403595335.0
+42,7936579,story,,,6,1,buster,"Cargo, Rust's Package Manager, reaches alpha",http://crates.io/,,1403595326.0
+43,7936578,comment,7933045.0,7936068.0,1,0,ericd,,,Given what I&,
+44,7936577,comment,7934548.0,7935446.0,2,0,kgabis,,,"It was released years ago: <a href=""http://www.amazon.com/dp/0131103628"" rel=""nofollow"">http://www.amazon.com/dp/0131103628</a>",1403595309.0
+45,7936576,comment,7936300.0,7936300.0,1,0,runj__,,,Really cool seeing a kickstarted project (LIFX) working better with others than Philips (Hue). It&,
+46,7936575,comment,7932642.0,7936345.0,1,0,kidmenot,,,"+1, I would love to take a look at an example or two, as this sounds very interesting.",1403595261.0
+47,7936574,story,,,2,0,aram,List of boilerplate projects in many programming languages,https://github.com/topsitemakers/boilerplate-library,,1403595249.0
+48,7936573,comment,7933155.0,7933155.0,2,0,Fede_V,,,Thanks for being so raw and honest about this - even the less glamorous parts.  It isn&,
+49,7936572,story,,,1,0,yashness,Repository of Beautiful Quotes,http://quott.in,Subscribe to get daily new quote to inbox !,1403595175.0
+50,7936571,comment,7922028.0,7924594.0,1,0,dnautics,,,that&,
+51,7936570,comment,7935730.0,7935730.0,1,0,Zash,,,"Bah, no IPv6 :(",1403595059.0
+52,7936569,comment,7929598.0,7931994.0,1,0,vdaniuk,,,Isn&,
+53,7936568,comment,7932752.0,7932752.0,1,0,bonsai,,,"I can highly recommend books written by Nicholas Zakas.<p><a href=""http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/"" rel=""nofollow"">http://www.amazon.com/Professional-JavaScript-Developers-Nic...</a><p>There is one shorter book that he wrote recently:\n<a href=""https://leanpub.com/oopinjavascript"" rel=""nofollow"">https://leanpub.com/oopinjavascript</a>",1403595017.0
+54,7936567,comment,7933386.0,7933846.0,1,0,ownagefool,,,"When the object of the game is to win, you can pretty much determine the better team by result.  You might not always agree with how they achieve it, but you can&",
+55,7936566,comment,7936187.0,7936187.0,2,0,ejain,,,"Neat, but they sure are protective of &quot;their&quot; data: The API does not allow access to historic data, and you are not allowed to retain data (even in aggregate) going back more than 10 days.",1403594969.0
+56,7936565,comment,7933870.0,7935022.0,2,0,bakareika,,,"Some Google Apps users got banned (allegedly for TOU violation, but no one cared to even tell wtf was wrong), a number of emails weren&",
+57,7936564,story,,,3,0,Dunnorandom,"Dear Adobe: Support Haxe, save your Tools",http://www.fortressofdoors.com/dear-adobe-support-haxe-save-your-tools/,,1403594912.0
+58,7936563,comment,7936384.0,7936384.0,1,0,pogue,,,"I think the trouble is now, if this was just released, is that you can easily google for c99.php and find vulnerable servers with this file hosted on it, from pre-existing backdoors/phishing hosts, or what have you, and this allows anyone and everyone to use it, not just the original person who placed the backdoor.  Which, I suppose, kind of enhances the problem exponentially.<p>As far as I&",
+59,7936562,comment,7934548.0,7935069.0,9,0,captainmuon,,,"Scientific computing. For my work (in particle physics) I need something that is fast, has interoperability with decades worth of C, C++ and Fortran code, runs preferable close-to-metal, and has minimal overhead. Also, it has to be something physicists (not computer scientists) can/want to work with.<p>There are a lot of great libraries for Python, and it&",
+60,7936561,comment,7934978.0,7934978.0,1,0,Vomzor,,,"Scanadu, if they can make their vision of a tricorder a reality.",1403594771.0
+61,7936560,comment,7933870.0,7933993.0,0,0,pdkl95,,,"If they do decide to staff the support for <i>this</i> service, instead of their usual &quot;bot or FAQ/help-page only&quot; annoyance... how long until all their OTHER services figure out that this is how you contact a human at Google? Youtube, in particular, comes to mind.",1403594757.0
+62,7936559,comment,7936184.0,7936551.0,1,0,blockspring,,,That&,
+63,7936558,comment,7933386.0,7933950.0,1,0,ownagefool,,,"Not so much Chess, poker would be more apt.  We then veer into the territory of deciding what is and isn&",
+64,7936557,story,,,195,123,wunki,"Cargo, Rust's Package Manager",http://crates.io,,1403594588.0
+65,7936556,comment,7935872.0,7936286.0,1,0,majc2,,,...we will know if they know the material or not?<p>I don&,
+66,7936555,comment,7932642.0,7935673.0,3,0,pmontra,,,For any project worth talking about Sinatra is too skinny. Basically you have to hack your routing in about the same way you do with Node&,
+67,7936554,story,,,2,2,romerro,"100% Revenue Share for your App, Game or Blog.",http://sulvo.com,,1403594463.0
+68,7936552,comment,7935872.0,7936341.0,2,0,Crito,,,"While I was at university, I had a total of 18 months of 40-hours/week internships/co-ops.  Those were at intern rates, but even so a year and a half of working took care of about $40k of expenses.  I continued to work for some of those companies while I was in class, which covered the rest.<p>It&",
+69,7936551,comment,7936184.0,7936483.0,1,0,Blahah,,,"I also think this would be nice - allowing in-place data editing and copy/paste would be great. It lowers the barrier to trying out the product, which will ultimately engage more people. I actually browsed away from the plot page when I realised I had to upload data to use it (even if I could download the sample data and re-upload it).",1403594240.0
+70,7936550,story,,,2,0,wickd,Samsung's response to a customer whose phone caught fire only made things worse,http://asko.io/samsungs-response-to-a-customer-whose-phone-caught-fire-only-made-things-worse/,,1403594233.0
+71,7936549,story,,,1,0,techieinafrica,Age of the Social Media Director is upon us,http://www.iafrikan.com/2014/03/23/social-media-director/,,1403594188.0
+72,7936548,comment,7933155.0,7934370.0,5,0,_pmf_,,,> &quot;... but it&,
+73,7936547,comment,7936300.0,7936524.0,7,0,cbeach,,,Given Google&,
+74,7936546,comment,7930430.0,7930556.0,1,0,gaius,,,This guy is very much not a good ad for either YC or &quot;Tuck&quot; (which I assume is a famous business skool in the US).,1403594060.0
+75,7936544,comment,7934198.0,7934667.0,1,0,infruset,,,"Ok, I had not seen this.",1403593997.0
+76,7936543,comment,7935530.0,7936288.0,4,0,laichzeit0,,,It might be illegal in your shitty country but not mine.,1403593969.0
+77,7936542,comment,7933155.0,7933155.0,1,0,hakcermani,,,"You have achieved so much at such a young age. Your whole life is ahead of you. I am 50+ and working on my first startup, with hopes that I will make it someday !\nGlad you shared your story. See this link - so many stories here, some very close to home for you. (<a href=""http://www.fastcompany.com/3029883/bottom-line/11-famous-entrepreneurs-share-how-they-overcame-their-biggest-failure"" rel=""nofollow"">http://www.fastcompany.com/3029883/bottom-line/11-famous-ent...</a>). Take a break, clear your head, and come up with the next big thing.",1403593950.0
+78,7936541,comment,7933091.0,7935064.0,2,0,charlieflowers,,,"Well, you probably had the Amiga 1000, as I did. We jumped in early and suffered for it. They shitcanned the 1000, and it cost you a ballerina.<p>Somehow you overcame the bitterness and turned it into a positive.",1403593921.0
+79,7936540,comment,7936384.0,7936452.0,0,0,tomkwok,,,>> &quot;a can or worms&quot;<p>There&,
+80,7936539,comment,7935729.0,7935953.0,2,0,jmromer,,,The thing about being fashionably late is you have to be fashionable about it. Meyer apparently disclosed to someone that she was late because she had &quot;fallen asleep.&quot; She wasn&,
+81,7936538,comment,7933155.0,7934007.0,1,0,gdewilde,,,I couldn&,
+82,7936536,comment,7935739.0,7936440.0,4,0,codezero,,,The creator of this could probably use some more constructive feedback than &quot;don&,
+83,7936535,comment,7935530.0,7935530.0,0,0,globalpanic,,,offering poor odds on England beating Costa Rica right now.  I can get better elsewhere.,1403593711.0
+84,7936534,comment,7934548.0,7935373.0,4,0,Arnt,,,That&,
+85,7936533,comment,7936300.0,7936513.0,1,0,sosborn,,,That&,
+86,7936531,comment,7936300.0,7936504.0,0,0,gravity13,,,"Yeah, but mine&",
+87,7936530,comment,7936300.0,7936445.0,1,0,r00fus,,,"For summer, we&",
+88,7936529,comment,7936403.0,7936403.0,7,0,modernerd,,,"The top 10 list itself is here: <a href=""https://www.owasp.org/index.php/Top_10_2013-Top_10"" rel=""nofollow"">https://www.owasp.org/index.php/Top_10_2013-Top_10</a>",1403593541.0
+89,7936528,comment,7936300.0,7936465.0,2,0,nardi,,,> money is more renewable than energy<p>This is a nonsensical view of the concepts of value and money.,1403593540.0
+90,7936526,comment,7936300.0,7936428.0,3,0,aisenik,,,"Putting HomeKit behind MFi is a barrier, but hardly one that should put Nest off the platform. The majority of their installed user base uses iOS. I kind of expected my Nests to last me 10+ years, but now I&",
+91,7936525,comment,7936489.0,7936489.0,1,0,natch,,,But they don&,
+92,7936524,comment,7936300.0,7936300.0,8,0,jpalomaki,,,"It gets pretty interesting when you connect all the pieces Google now has.<p>You car has build in Android device. Your home is monitored and controlled with Nest devices. On your wrist you carry Android wearable. Google Glass tracks what you see. For online activities you use Google products (Chrome, Gmail, Calendar). You consume your media via Android table or Chromecast.<p>Google knows about your your car. It knows how you are doing, how much and when you exercise, when and how you sleep (vital signals via wearables). It could know who you are meeting with or what products you are browsing at grocery store or what you are reading from news paper (Google Glass). It knows and controls your home. It knows about your planned trips, about stuff you have ordered online (Gmail, Calendar).<p>One major area that is lacking is nutrition, monitoring what and how much I eat. Google Glass might help here (or products like Vessyl).<p>Interesting to see what they can make out of this.",1403593395.0
+93,7936522,comment,7936300.0,7936490.0,3,0,yitchelle,,,That is an interest way of distributing loading of the peak heating requirements. Does Nest have a ability to interact with the other Nest in the neighborhood? Or is it all controlled from a central server?,1403593364.0
+94,7936521,comment,7936300.0,7936456.0,7,0,cbeach,,,"Of course they look good. They were designed by the Nest team, not by Google&",
+95,7936520,comment,7936300.0,7936300.0,14,0,warcode,,,If its &quot;Your data. Your privacy. You’re in control.&quot;.<p>Why won&,
+96,7936519,comment,7930917.0,7932503.0,1,0,tracksmer,,,"You claim they shipped a version without the stuff people loved, but Speed Dial was one of the most popular features in the old Opera. Speed Dial is one of the features that define Opera.<p>Seems you don&",
+97,7936518,comment,7936056.0,7936255.0,2,0,mtdewcmu,,,Something that works in PHP&,
+98,7936517,comment,7936384.0,7936495.0,2,0,kijin,,,It&,
+99,7936516,comment,7935872.0,7936050.0,1,0,nmrm,,,"For me, the social aspect of college was about a lot more than forming a &quot;professional network&quot;.<p>I learned a lot and grew as a person interacting with people outside of my area who will probably never (directly) provide me with a competitive advantage in the job marketplace. However, I know what I don&",
+100,7936515,story,,,1,0,DiabloD3,"Mercedes, tell the thermostat I'll be late",http://www.cnet.com/news/mercedes-tell-the-thermostat-ill-be-late/,,1403593268.0
+101,7936514,comment,7933155.0,7935055.0,1,0,bluesix,,,"For many of us, we just can&",
+102,7936513,comment,7936300.0,7936462.0,0,0,gravity13,,,Because home automation is not ubiquitous yet.,1403593259.0
+103,7936512,comment,7933576.0,7933576.0,4,0,zurn,,,> At 225 MHz an average 30.5 FPS with some rare 20-25 FPS are achieved when running &,
+104,7936511,comment,7936184.0,7936506.0,1,0,blockspring,,,Hey thanks frenchhacker. We made some modifications to gridster for the dashboards. It&,

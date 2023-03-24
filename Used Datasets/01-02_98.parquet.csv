@@ -1,0 +1,102 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9591710,comment,9590312.0,9590312.0,0,0,audleman,,,Oh my 8-bit God. That was atrocious...\n...\n...\nbut I also liked it,1432346358.0
+1,9591709,comment,9590082.0,9590568.0,0,0,moonchrome,,,>Rust has the ability to provide ergonomic fork-join parallelism at the library level<p>I&,
+2,9591708,comment,9590694.0,9591510.0,0,0,WalterBright,,,"Read the book &quot;The Millionaire Next Door&quot;. It is entire possible, and in fact commonplace, to become wealthy by quite ordinary and predictable means.<p>It isn&",
+3,9591707,comment,9590672.0,9591458.0,0,0,madez,,,"That is not true.<p>I work for a company where firing is kind of a no-go, at least at the the level of engineers. You&",
+4,9591706,comment,9588901.0,9588901.0,0,0,qthrul,,,"Take a look at <a href=""http://exitround.com"" rel=""nofollow"">http://exitround.com</a>",1432346288.0
+5,9591705,comment,9590828.0,9590828.0,0,0,santaclaus,,,"If anyone knows of some good pulled pork in NYC let me know! You can get some pretty good Texas brisket, but the vinegar style Carolina BBQ has been a bit disappointing. I&",
+6,9591704,comment,9585115.0,9587765.0,0,0,Watabou,,,Oh nice tip on the Incognito mode ;). I wonder if Safari has a flag like that too.,1432346206.0
+7,9591703,story,,,10,5,sanosuke,Ask HN: Which functional programming book?,,"Programming in Haskell, Graham Hutton.<p>Functional programming in Scala, Bjarnason.<p>Discrete Mathematics and Functional Programming, VanDrunen.<p>What would be your recommendation?",1432346167.0
+8,9591702,comment,9584325.0,9586579.0,0,0,stefs,,,"well, i don&",
+9,9591701,comment,9589852.0,9590707.0,0,0,TheLoneWolfling,,,"Also, breakers are more difficult for DC.<p>But yes, DC does have its advantages. Power through wires scaling with r^2 versus r, no RMS losses, no phase issues, no capacitance losses.",1432346116.0
+10,9591700,comment,9588589.0,9591358.0,0,0,bane,,,"Yeah, I can see that. Perl6 has gone through some rather painful VM stories trying to get to production. I&",
+11,9591699,comment,9591124.0,9591630.0,0,0,toomuchtodo,,,What would be most helpful in defeating ISIS? Equipment? More manpower? Logistical support?,1432346058.0
+12,9591697,comment,9591619.0,9591619.0,0,0,somidscr21,,,There&,
+13,9591696,comment,9591124.0,9591689.0,0,0,toomuchtodo,,,I think you took the comment the wrong way. It wasn&,
+14,9591694,comment,9588128.0,9589577.0,0,0,nigelk,,,It&,
+15,9591693,comment,9591124.0,9591124.0,0,0,cV6WB,,,I visited Palmyra in 2009 - it is truly an amazing place.<p>Politics aside this would be a devastating cultural loss for all of humanity.,1432345608.0
+16,9591692,comment,9590694.0,9591583.0,0,0,lutorm,,,"What I took away from the MMM approach was that the fundamental idea is <i>not</i> to always ask whether things are &quot;worth&quot; spending money on, but rather that by freeing yourself from desire, you are richer in many ways. The financial one is sort of trivial: you will keep more and need less money. The more interesting, philosophical side has to do with what it means to be rich. If you define it as &quot;the ability to do whatever you want&quot;, then you really can be as rich as you want just by playing mind tricks on yourself. It sounds kind of like Buddhism to me.",1432345595.0
+17,9591691,comment,9588901.0,9588901.0,0,0,hamhamed,,,I&,
+18,9591690,comment,9588175.0,9591558.0,0,0,userbinator,,,"From a brief glance at the surrounding code, this is part of the context switcher, which has to do stack switching. Also interesting to note that the whole function, swtch(), is only 71 lines. The entire kernel is less than 10kLOC.<p>I agree that understanding this type of code would be very difficult if you&",
+19,9591689,comment,9591124.0,9591599.0,0,0,puddlejumper,,,"I checked out your profile and it is apparent you are a smart guy.  However, as a former Marine Science Technician in the USCG, your comment is not only insulting, but has no basis in reality.  Marine Environmental Response actions are incredibly difficult, complex, and dangerous.  I would recommend reading the Deepwater Horizon ISPR to get a sense of how challenging this incident was, what was learned, and maybe get a perspective of how serious this kind of mission is to the men and women of the Coast Guard.",1432345509.0
+20,9591688,comment,9590694.0,9591662.0,0,0,branchless,,,Yes but it&,
+21,9591687,comment,9587635.0,9587635.0,0,0,ubldit,,,Thank you all for the feedback and also the entertainment. Here&,
+22,9591686,comment,9590694.0,9590694.0,0,0,bcheung,,,I love the fact that you guys are using that spreadsheet.,1432345469.0
+23,9591685,story,,,6,0,ehPReth,SSL Labs: Increased Penalty When TLS 1.2 Is Not Supported,https://community.qualys.com/blogs/securitylabs/2015/05/22/ssl-labs-increased-penalty-when-tls-12-is-not-supported,,1432345467.0
+24,9591684,comment,9590828.0,9591520.0,0,0,joshu,,,"I seem to recall that burning propane generates a lot of water, which is detrimental to barbecue.",1432345450.0
+25,9591683,comment,9588901.0,9588901.0,0,0,dennisgorelik,,,Why buy another company (as opposing to focusing on your existing business)?,1432345370.0
+26,9591682,comment,9588901.0,9590570.0,0,0,dennisgorelik,,,Could you give an example of such unwanted attention?,1432345338.0
+27,9591681,comment,9584325.0,9586848.0,0,0,stefs,,,it&,
+28,9591680,comment,9590694.0,9591228.0,0,0,Havoc,,,>I suspect that having a nudger around who cares enough to do that kind of nudging is what really matters.<p>That too. I&,
+29,9591679,comment,9588175.0,9591474.0,0,0,emaste,,,"FreeBSD has supported a git mirror for years, although the primary VCS (the &quot;source of truth&quot;) is still Subversion.  A number of downstream consumers of FreeBSD use the git mirror though, and we have brought in patches from submitted pull requests.",1432345300.0
+30,9591678,comment,9591124.0,9591423.0,0,0,seivan,,,"Maliki and the Shia put some insane pressure, sure.\nBut you&",
+31,9591676,comment,9588901.0,9591595.0,0,0,bluedevil2k,,,It&,
+32,9591675,comment,9591059.0,9591059.0,0,0,PhantomGremlin,,,"Written by Richard Stallman.<p>He makes many good points, but also says:<p><pre><code>   I developed the GNU operating system,\n   which is often called Linux\n</code></pre>\nWow. He just can&",
+33,9591674,comment,9591124.0,9591630.0,0,0,seivan,,,"My father have friends working in the IDP camps. There are plenty of Kurdish doctors from Sweden going there, doing abortions on 9 year olds. Some don&",
+34,9591673,comment,9584325.0,9586457.0,0,0,stefs,,,"neal stephensons anathem is a novel addressing this (among other things): practically, is the brain at least partially a quantum computer.",1432345043.0
+35,9591672,comment,9590379.0,9591346.0,0,0,platz,,,"he appears to be referring to the <a href=""http://en.wikipedia.org/wiki/Liskov_substitution_principle"" rel=""nofollow"">http://en.wikipedia.org/wiki/Liskov_substitution_principle</a> .  Generally type systems don&",
+36,9591671,comment,9590542.0,9591643.0,0,0,jessicarichman,,,"We got IRB approval before we recruited patients or collected any samples. As planned, and is typical of many studies, we waited until after fundraising to start the IRB process.<p>We have had IRB approval now for over 2 years.<p>Happy to answer any questions you have about this.",1432345020.0
+37,9591669,comment,9587627.0,9587627.0,0,0,lisowski,,,This is awesome! I&,
+38,9591668,comment,9577481.0,9586356.0,0,0,chetanahuja,,,"<i>&quot;Wait, I think you and I are having very different conversations.&quot;</i><p>So it would seem.<p><i>&quot;It&",
+39,9591667,comment,9590694.0,9591345.0,0,0,zrail,,,"Ramit Sethi[1] focuses almost exclusively on increasing income. He thinks the &quot;latte factor&quot; is bullshit, since you can just bring in more money.<p>Personally, I think that increasing income and reducing expenses are two sides of the same coin. You&",
+40,9591666,comment,9588128.0,9589870.0,0,0,seivan,,,"I never saw it that way, but it does kinda make sense. Thanks for putting it down!",1432344896.0
+41,9591665,comment,9590694.0,9591192.0,0,0,Havoc,,,wow I really massacred that sentence...sorry guys. It was supposed to read:<p>>these types of experiments aimed at pushing kids in a certain beneficial direction ---interest me---,1432344744.0
+42,9591664,comment,9591512.0,9591517.0,0,0,detaro,,,AFAIK letsencrypt won&,
+43,9591663,comment,9591406.0,9591573.0,0,0,aquark,,,One other thing to think about would be intangibles the startups can offer vs open source:<p>* how good are you at self-motivating\n* what chance is there of being mentored at the start up?\n* will the CEO provide a good reference later one: a human reference likely beats pointing out the open source contributions in many jobs in the future<p>If you are going to work for free anyway on open source then make sure you have the dedication to actually do it.<p>Being more directly accountable to someone may be a benefit.<p>Good luck ... it&,
+44,9591662,comment,9590694.0,9591614.0,0,0,tsotha,,,"If your argument is the government should be far less involved in housing and stop monkeying with the currency so much, then I&",
+45,9591661,comment,9589215.0,9589215.0,0,0,krapp,,,I&,
+46,9591660,story,,,2,0,Teknixx,Some Linux Iptables Examples,http://teknixx.com/some-linux-iptables-examples/,,1432344632.0
+47,9591659,comment,9583619.0,9584077.0,0,0,wsha,,,"I have been looking into both of these technologies recently.<p>Attic has the most attractive feature set of the backup management tools I have looked at (deduplication and compression, support for remote repos, built in encryption, ability to mount repo as a FUSE file system), with the main downsides being that it is fairly new (and so just doesn&",
+48,9591658,story,,,2,0,benburwell,How the new diverse Emoji work – Unicode Standard,http://www.unicode.org/reports/tr51/,,
+49,9591657,comment,9589534.0,9589534.0,0,0,yessql,,,"This library is really useful, especially in updating sets of nested data.",1432344473.0
+50,9591656,comment,9587627.0,9590767.0,0,0,marvy,,,Are UIs and documents so different?,1432344466.0
+51,9591655,comment,9582997.0,9588713.0,0,0,lewisl9029,,,Yes it&,
+52,9591654,comment,9591139.0,9591139.0,0,0,node-bayarea,,,"That stat is coming from slice.com. They only have a small user base, so I don&",
+53,9591653,comment,9591057.0,9591057.0,0,0,liyanage,,,I started reading the O&,
+54,9591652,comment,9588589.0,9588870.0,0,0,bane,,,"After spending some time with Python, I think one of the secrets to Perl&",
+55,9591651,comment,9588589.0,9589162.0,0,0,DougWebb,,,"Having developed in Perl for many years, on a project that required fairly high performance, I learned that the key to getting good performance out of Perl code is to use it idiomatically.<p>Perl has a <i>lot</i> of built-in functions, keywords, and operators. It&",
+56,9591650,story,,,122,17,DiabloD3,Report on FBI’s Use of Patriot Act Highlights Need for Intelligence Reform,https://www.eff.org/deeplinks/2015/05/oversight-report-fbis-use-patriot-act-highlights-need-intelligence-reform-crucial,,1432344338.0
+57,9591649,comment,9590379.0,9591551.0,0,0,jerf,,,You&,
+58,9591648,comment,9546553.0,9547036.0,0,0,zedadex,,,"Incidentally, what do you think about dynamic favicons [1]? They&",
+59,9591647,comment,9586582.0,9591389.0,0,0,tormeh,,,I said it was impressive and I meant it.,1432344238.0
+60,9591646,comment,9590379.0,9591346.0,0,0,overgard,,,I can&,
+61,9591644,comment,9588128.0,9591436.0,0,0,gusmd,,,Sorry for that. I don&,
+62,9591643,comment,9590542.0,9590542.0,0,0,Fomite,,,And uBiome wonders why people were a little upset about their initial failing to get IRB approval...,1432344155.0
+63,9591642,story,,,37,3,jcurbo,Attack of the week: Logjam,http://blog.cryptographyengineering.com/2015/05/attack-of-week-logjam.html,,1432344122.0
+64,9591641,comment,9588848.0,9591247.0,0,0,kleer001,,,"Fair enough, lol. The only reason I call it breast beating is because it&",
+65,9591640,comment,9590008.0,9590008.0,0,0,mark_l_watson,,,I don&,
+66,9591639,comment,9588128.0,9588128.0,0,0,Nemant,,,Search for &quot;Amazon&quot; gives me 87 different companies,1432343958.0
+67,9591638,comment,9590672.0,9591397.0,0,0,SamReidHughes,,,"> People talk and things come out and shit happens, but deliberately going behind someone&",
+68,9591637,comment,9591348.0,9591584.0,0,0,cosysowen,,,Anyone got a VLC stream?,1432343810.0
+69,9591636,comment,9588825.0,9590045.0,0,0,toomuchtodo,,,"Huh, I was thinking someone could buy up a ton of cheap usb sticks, load this on there, have it autorun, and then have the payload sent to a server over HTTPS in AWS (who is going to block HTTPS traffic to AWS? everyone runs out of there) that would catch it and notify the attacker via webhook.<p>Then go sprinkle them around the SFBA.",1432343783.0
+70,9591635,comment,9591057.0,9591215.0,0,0,kqr2,,,"If you like the article, the author Tim Wescott went on to write an entire book on applied control theory for embedded systems:<p><a href=""http://smile.amazon.com/Applied-Control-Embedded-Systems-Technology/dp/0750678399"" rel=""nofollow"">http://smile.amazon.com/Applied-Control-Embedded-Systems-Tec...</a>",1432343692.0
+71,9591634,comment,9590699.0,9590699.0,0,0,allworknoplay,,,"This is amazing, thanks for posting. For so much of history it feels like cultures were entirely isolated, and this presents some great evidence of remarkable early cross-polination.",1432343676.0
+72,9591633,comment,9590694.0,9591416.0,0,0,jacalata,,,"Did you tell him you charge 3x as much? If so, how did the conversation go after that?",1432343649.0
+73,9591632,comment,9588175.0,9590889.0,0,0,cnst,,,"It has the sensors framework from 2007, too. :-)",1432343595.0
+74,9591631,comment,9589736.0,9591548.0,0,0,greggyb,,,Not missing anything. Please see above; I am amused at the naive interpretation of two excerpted sentences. I am not ignorant of matters financial.,1432343529.0
+75,9591630,comment,9591124.0,9591124.0,0,0,fapjacks,,,"I have been considering going back to help the Kurds fight ISIS for some time now. I want to say stories like this highlight the urgency of the situation, but in the face of all the murder happening in areas controlled by the dark army of Mordor, it would make me appear to have the wrong priorities. ISIS needs to be destroyed.",1432343514.0
+76,9591629,comment,9589276.0,9591125.0,0,0,toomuchtodo,,,"<a href=""https://news.ycombinator.com/item?id=8936701"" rel=""nofollow"">https://news.ycombinator.com/item?id=8936701</a><p><a href=""https://github.com/libreboard/libreboard"" rel=""nofollow"">https://github.com/libreboard/libreboard</a><p><a href=""https://github.com/libreboard/libreboard/issues/92"" rel=""nofollow"">https://github.com/libreboard/libreboard/issues/92</a>",1432343510.0
+77,9591628,comment,9590379.0,9591110.0,0,0,brudgers,,,"Once Carly Rae Jepson began speaking out about database partitioning, surely it was only a matter of time.",1432343507.0
+78,9591627,story,,,160,6,henneska,d-Threeact: Making d3 and React the Best of Friends,http://blog.siftscience.com/blog/2015/making-d3-react-the-best-of-friends,,1432343458.0
+79,9591626,comment,9589215.0,9589215.0,0,0,posabs,,,"I am working on inker, redefining how we code & deliver transactional email<p><a href=""http://inker.position-absolute.com/"" rel=""nofollow"">http://inker.position-absolute.com/</a>",1432343418.0
+80,9591625,comment,9590672.0,9590672.0,0,0,geggam,,,You work to get paid. If you are well enough off you don&,
+81,9591624,comment,9588845.0,9590984.0,0,0,coldtea,,,That &quot;if an X&quot; implies ANY X.,1432343219.0
+82,9591623,comment,9590694.0,9591241.0,0,0,JakeAl,,,I am reminded of the book The 7 Habits of Highly Effective People. I recommend it to everyone who has not read it.,1432343124.0
+83,9591622,story,,,3,0,mada299,Unlocking the Secrets of Mobile Growth with the Lead Growth Engineer Pinterest,https://medium.com/@AustinHay/unlocking-the-secrets-of-mobile-growth-881322e71ad0,,1432343108.0
+84,9591621,comment,9591124.0,9591547.0,0,0,Steko,,,As long as we&,
+85,9591620,comment,9590694.0,9591516.0,0,0,branchless,,,"Yes, but we&",
+86,9591619,story,,,2,3,babu_xervmon,Show HN: Business Collaboration for Small Business,https://www.b2bsphere.com,,1432343068.0
+87,9591618,comment,9591132.0,9591246.0,0,0,fizx,,,It&,
+88,9591617,comment,9588547.0,9590635.0,0,0,PhantomGremlin,,,"The Boeing 787 Dreamliner does this.\n<a href=""https://en.wikipedia.org/wiki/Bleed_air",
+89,9591616,comment,9588396.0,9591500.0,0,0,AlexNeoNomad,,,Please public your tutorial anywhere for now.,1432343028.0
+90,9591615,story,,,1,0,arnieswap,Developer Brings Netflix to Steam OS: Linux Wrap,http://www.linuxveda.com/2015/05/22/steam-os-developers-got-netflix-working-linux-wrap/,,1432343025.0
+91,9591614,comment,9590694.0,9591446.0,0,0,branchless,,,Where do you think all the money comes from due to the huge rise in housing costs between now and 1990? It comes from the next generation paying more of their labour for the same house someone had to work far less for 20 years back.<p>And this is because banks have financialised housing. Prices are set by available credit.<p>We all have no choice in a world where land is financialised. You can&,
+92,9591613,comment,9588845.0,9590340.0,0,0,coldtea,,,><i>The confusion doesn&,
+93,9591612,story,,,1,0,arnieswap,Fedora 22 will arrive on time,http://www.linuxveda.com/2015/05/22/fedora-22-will-arrive-time/,,1432342978.0
+94,9591609,comment,9588901.0,9588901.0,0,0,digvan,,,I am selling my fashion e-commerce website and app. Check my app at leposha.com,1432342933.0
+95,9591608,comment,9588901.0,9588901.0,0,0,ukaner,,,Love this thread. I&,
+96,9591607,comment,9590379.0,9591456.0,0,0,asQuirreL,,,"AFAICT Swift does the sensible thing to maintain backwards compatibility with ObjC: When Swift code calls Swift code, the dispatch is static (a jump, and some stack fiddling, when you&",
+97,9591606,comment,9588128.0,9590914.0,0,0,cm2012,,,"Not 10x higher, though. Also cost of living is now always matched by median income. For instance, in NYC the median household income is 50k - the same as the rest of the nation.",1432342907.0
+98,9591605,comment,9590694.0,9591313.0,0,0,matb33,,,I should clarify he does have a bank account (with his own Interac card) but no way to access it online. This is with TD Canada Trust. I don&,
+99,9591604,comment,9591572.0,9591572.0,0,0,alprckr,,,awesome,1432342865.0
+100,9591603,comment,9588845.0,9590088.0,0,0,coldtea,,,Actually the way they mean it is simple:<p>IF even THEN blue.<p>To show that the rule holds then you need to check:<p>8 (it&,

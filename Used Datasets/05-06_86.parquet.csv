@@ -1,0 +1,108 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7727935,comment,7727474.0,7727773.0,5,0,codezero,,,"I worked at Quora, and I wish Adam would speak about this publicly. His reasons for this are very solid and he articulates them in a very convincing way. Maybe now that Quora has joined YC, he may speak more about it publicly since it&",
+1,7727934,comment,7727474.0,7727889.0,1,0,codezero,,,A lot of IMDB&,
+2,7727933,comment,7727833.0,7727886.0,3,0,amorphid,,,frisky.limo<p>I thought about buying it for a moment.,1399787884.0
+3,7727932,story,,,1,0,srikar,Time-lapse animation of (nearly) all gamma-ray bursts ever discovered,http://astro.berkeley.edu/~ishivvers/grbs.html,,1399787883.0
+4,7727931,comment,7726115.0,7726115.0,4,0,deathanatos,,,"> Anyway, I have this Sparcstation ELC which I bought for my personal use in a moment of stupidity. It has a 760MB hard disk and 16MB of memory. I figured that 16MB ought to be enough, and indeed, pstat reports that on a typical day, running Ecch Windows, a few Emacses, xterms, and the occasional xload or xclock, I run 12 to\n13MB of memory usage, tops.<p>> But I didn’t come here today to talk about why 2 emacses and a window system should take five times the total memory of the late AIKS-10. No, today I came to talk about the virtual memory system.<p>> Why is it that when I walk away from my trusty jerkstation for a while and come back, I touch the mouse and all of a sudden, whirr, rattle, rattle, whirr, all my processes get swapped back into memory?<p>> I mean, why did they get paged out in the first place? It’s not like the system needed that memory—for chrissake, it still has 3 or 4 MB free!<p>That&",
+5,7727930,story,,,1,0,LaundroMat,Show HN: TweetMyRatings – a hobby project,http://www.tweetmyratings.com/,,1399787864.0
+6,7727929,comment,7727833.0,7727905.0,1,0,thejosh,,,Arms race. Get in early so others don&,
+7,7727928,comment,7727683.0,7727683.0,1,0,ternaryoperator,,,This list says little that&,
+8,7727927,comment,7727428.0,7727568.0,3,0,s-macke,,,Don&,
+9,7727926,comment,7726159.0,7727037.0,0,0,ternaryoperator,,,And let&,
+10,7727925,comment,7727811.0,7727811.0,2,0,beedogs,,,The Sherman Antitrust Act used to be a thing in the US.<p>What happened?,1399787711.0
+11,7727924,comment,7721285.0,7724716.0,1,0,Jedd,,,Good point.  Done.  :),1399787695.0
+12,7727923,comment,7725315.0,7725315.0,1,0,tomek_zemla,,,Why is it better...?,1399787692.0
+13,7727922,comment,7727827.0,7727827.0,1,0,collint,,,Wisdom is knowing which approach to take.<p>Intelligence is being able to apply the given approach.<p>edit: Unless the approach is &,
+14,7727920,comment,7726923.0,7727694.0,1,0,mindslight,,,"Yes, people take care with dangerous/messy things. Is any possible source of danger to be considered a problem to be eliminated? If that&",
+15,7727919,comment,7727833.0,7727890.0,1,0,TylerJay,,,I think pirate.watch is the best of them.  Could either be a streaming site or a site monitoring piracy.,1399787588.0
+16,7727917,comment,7726923.0,7726923.0,1,0,yuhong,,,"As a side note, the cost of the lawsuits (relative to the benefits) is one of the reasons why I don&",
+17,7727916,comment,7727833.0,7727833.0,4,0,ethana,,,<p><pre><code>  slippery.contractors</code></pre>,1399787386.0
+18,7727915,comment,7727833.0,7727905.0,1,0,tuananh,,,They did it just to be safe.,1399787325.0
+19,7727914,comment,7725732.0,7727519.0,1,0,trendoid,,,"You should probably read this first as a starting point:\n<a href=""http://www.newstatesman.com/2014/04/challenge-islam"" rel=""nofollow"">http://www.newstatesman.com/2014/04/challenge-islam</a>",1399787308.0
+20,7727913,comment,7727596.0,7727794.0,1,0,seanmcdirmid,,,"Lenovo...king of the low margin low growth PC market. The end is nigh for the Americans? When they start making real yuan, let&",
+21,7727912,comment,7726786.0,7727104.0,2,0,mindcrime,,,"As another 40 year old who has always lived in the US, that exactly jibes with my experience as well.  As far as I can tell, the expression is common in written English, but almost unheard of in spoken English.<p>Now that I&",
+22,7727911,comment,7727413.0,7727902.0,1,0,ayhoung,,,thanks Alex! We&,
+23,7727910,comment,7726496.0,7726496.0,0,0,unexistance,,,"... and this article is apparently less important to HN-ers :D<p>anyway, this adds more to my belief that our current / future IT &",
+24,7727909,comment,7722652.0,7723774.0,1,0,judk,,,An statically typed JS environments with type inference and laziness?,1399787078.0
+25,7727908,comment,7727413.0,7727714.0,0,0,jschmi93,,,Are you guys planning to open source any of this? I&,
+26,7727907,comment,7727413.0,7727878.0,1,0,mac-r,,,"you are killing it. animations are so smooth. and it doesnt eat my battery like other apps I used before.<p>since you know this stuff really well, could you recommend some good articles about ibeacon? what did you use to build your app?<p>oh, and by the way. do you have an api? I&",
+27,7727906,comment,7727597.0,7727795.0,1,0,null_ptr,,,I found that I reasoned everyday things in a more organized and structured manner once I really got into programming. I think it&,
+28,7727905,comment,7727833.0,7727855.0,1,0,NameNickHN,,,"I guess they will be very soon. Why else have Google, Amazon and Microsoft applied for that many TLDs? It&",
+29,7727904,comment,7726870.0,7726870.0,1,0,ugtastic,,,In response to Sean&,
+30,7727903,comment,7722652.0,7723952.0,2,0,judk,,,How do I port closure-heavy prototype-based objects from JS to Haskell? This isn&,
+31,7727902,comment,7727413.0,7727724.0,1,0,Alex_The_Chan,,,"I try to keep track of new contacts I meet in a google doc with info like name, where I met them, what they appeared to be (manager, secretary, etc), what they looked like... Way too much work and it&",
+32,7727901,story,,,1,0,ugtastic,Meetups are Easy – UGtastic,http://www.ugtastic.com/meetups-easy/,,1399786951.0
+33,7727900,comment,7727833.0,7727870.0,1,0,dfritsch,,,tit.directory also seems to be available.,1399786928.0
+34,7727899,comment,7727833.0,7727833.0,13,0,victorvation,,,"I know doge is tired at this point, but such.education still made me chuckle.",1399786871.0
+35,7727898,comment,7726923.0,7727687.0,3,0,mindslight,,,"As will any boiling water, yet that&",
+36,7727897,comment,7726615.0,7727124.0,2,0,saurik,,,If they billed by the byte instead of by some nebulous concept of connectivity then it wouldn&,
+37,7727896,comment,7722652.0,7727771.0,2,0,judk,,,Generics aren&,
+38,7727893,comment,7722652.0,7725210.0,2,0,judk,,,"E) you do get a dilemma if you add two elements in a sorted structure , lexically in two different files, where two different Ord instances arr in scope, respectively. this function-is-instance problem is dual to OO&",
+39,7727892,comment,7726786.0,7727094.0,2,0,wpietri,,,It&,
+40,7727891,comment,7726615.0,7726880.0,2,0,saurik,,,That&,
+41,7727890,comment,7727833.0,7727856.0,4,0,danieldk,,,"Lots of pirate names are still available:<p><a href=""https://www.gandi.net/domain/buy/result/"" rel=""nofollow"">https://www.gandi.net/domain/buy/result/</a><p>E.g.: pirate.bar, pirate.academy, and pirate.dating.",1399786641.0
+42,7727889,comment,7727474.0,7727474.0,3,0,icpmacdo,,,"Anyone have a dataset of Every movie to come out between 1950 and 2013 I need cast, year released and title?",1399786539.0
+43,7727888,comment,7726615.0,7726615.0,2,0,guelo,,,"We need a revolt to protect the internet. Washington is overrun by money but if people raise enough of a ruckus they do somewhat listen, c.f SOPA. If net neutrality is too big of a leap for the so-called &quot;libertarian&quot;, anti regulation crowd than we need to break up Comcast, AT&T, Verizon, etc. so we can have some actual last-mile competition.",1399786491.0
+44,7727887,comment,7726923.0,7727787.0,2,0,rictic,,,That&,
+45,7727886,comment,7727833.0,7727833.0,4,0,Ryanmf,,,"<p><pre><code>  shitty.enterprises\n  butt.construction\n  wank.academy\n  bum.careers\n</code></pre>\nSo this might be my new favorite website. (also, Andrew WK oughtta register party.institute)",1399786457.0
+46,7727885,comment,7726786.0,7727237.0,3,0,wpietri,,,"Ooh, honeypot credit cards. If there is any law enforcement officer out there who would like to use me as a honeypot, get in touch. I get a half-dozen calls a week like this.",1399786454.0
+47,7727884,comment,7727833.0,7727833.0,2,0,memonkey,,,Just a few:<p>balls.uno\nsexy.education\ncrooked.plumbing\nsuch.construction\nfart.diamonds,1399786448.0
+48,7727883,comment,7726615.0,7727744.0,2,0,saurik,,,"A video has a minimum viable rate (past which point it will no longer be real time), while a web page only sort of does. A video is a sustained download, while a web page is relatively instantaneous. If a thousand people are clicking links and browsing web pages even fairly quickly, they will likely not notice each other&",
+49,7727882,comment,7727413.0,7727724.0,1,0,marcochiang,,,I&,
+50,7727881,comment,7726786.0,7727318.0,2,0,wpietri,,,"It could well be that those 20 calls were from different companies using the same identity. Or it could be a company feeding the calls to different criminals. The FTC keeps going after the people behind these things, but they are woefully outmatched:<p><a href=""http://www.ftc.gov/news-events/press-releases/2012/11/ftc-leads-joint-law-enforcement-effort-against-companies"" rel=""nofollow"">http://www.ftc.gov/news-events/press-releases/2012/11/ftc-le...</a>",1399786406.0
+51,7727880,comment,7727261.0,7727261.0,2,0,greenyoda,,,<i>&quot;I want to do some real work and build something. I don&,
+52,7727879,comment,7727596.0,7727794.0,3,0,rgbrenner,,,Facebook is a 10 year old company. Lenovo is a 30 year old company. Might want to give Facebook a little more time before making comparisons.,1399786312.0
+53,7727878,comment,7727413.0,7727871.0,1,0,ayhoung,,,thanks! yeah i&,
+54,7727877,comment,7727474.0,7727474.0,2,0,ceolol,,,"Any free and good datasets for business and POI addresses world-wide?  Preferably, with geo coding...",1399786274.0
+55,7727876,comment,7726115.0,7727673.0,2,0,mti,,,"Most of the midrange and high-end models at the time did support over 64 MB of RAM (the Centris 650/Quadra 800 supported 136 MB, the Quadra 950 supported 256 MB, etc.). In fact, even the 1987 Macintosh II could be pushed to 68 MB (or 128 MB with a ROM upgrade).",1399786231.0
+56,7727875,comment,7726615.0,7727232.0,2,0,guelo,,,"Plus, there&",
+57,7727873,comment,7727016.0,7727016.0,2,0,innover,,,"A friend of mine is recently writing C++ web framework similar to Python Flask.<p>It has many interesting features like compile-time routing URL parameter checking, easy and fast (probably fastest among C++ json libs) json implementation by taking full advantage of C++11.\nIf interested, take look of following code and repository:<p><a href=""https://github.com/ipkn/crow/blob/master/example.cpp"" rel=""nofollow"">https://github.com/ipkn/crow/blob/master/example.cpp</a>",1399786157.0
+58,7727872,comment,7726828.0,7727648.0,3,0,RKoster,,,"Humble Bundle is basically a publisher with a web storefront. They leverage other distribution channels, and critically, have what&",
+59,7727871,comment,7727413.0,7727724.0,1,0,mac-r,,,"Actually, I find loopd to be the most useful application of iBeacon I&",
+60,7727870,comment,7727833.0,7727856.0,4,0,sebastianavina,,,and tit.management,1399786058.0
+61,7727869,comment,7727473.0,7727847.0,2,0,hamburglar,,,"Fine, bootstrapping jokers are my favorite kind of jokers.  No offense intended.  My point is it&",
+62,7727868,comment,7716333.0,7718317.0,1,0,zobzu,,,KDE4 has much improved since 4.0 regardless. much.,1399785995.0
+63,7727866,story,,,3,0,rosser,AT&T claims common carrier rules would ruin the whole Internet,http://arstechnica.com/tech-policy/2014/05/att-claims-common-carrier-rules-would-ruin-the-whole-internet/,,1399785985.0
+64,7727865,comment,7727413.0,7727714.0,0,0,victor106,,,Can you give some pointers on how you developed this app?,1399785981.0
+65,7727864,comment,7727833.0,7727833.0,2,0,kaeruct,,,useless.domains,1399785968.0
+66,7727863,story,,,1,0,argonaut,The Wealthfront Single-Stock Diversification Service,https://www.wealthfront.com/twitter,,1399785899.0
+67,7727862,comment,7727833.0,7727833.0,1,0,zobzu,,,squatting.soon,1399785834.0
+68,7727861,comment,7727510.0,7727657.0,1,0,nscheffey,,,Whitespace is not necessarily useless.,1399785764.0
+69,7727860,comment,7727052.0,7727539.0,1,0,jessriedel,,,"Well, I&",
+70,7727859,comment,7727833.0,7727833.0,0,0,ForFreedom,,,"Whoever this guy is, he had money to throw on these names. These new GTLDs are a waste",1399785719.0
+71,7727858,comment,7726923.0,7727822.0,5,0,DanBC,,,> \nWhat McDonald&,
+72,7727857,comment,7727833.0,7727833.0,2,0,aharris66,,,A much better implementation than my own crappy.domains. I assume they are generated from a list. Would be nice to be able to pick the TLD you want to generate domains for.,1399785654.0
+73,7727856,comment,7727833.0,7727833.0,1,0,mulligan,,,pirate.ceo happens to be available,1399785637.0
+74,7727855,comment,7727833.0,7727833.0,4,0,jchendy,,,Are any serious websites using the new TLDs?,1399785593.0
+75,7727854,comment,7727350.0,7727350.0,3,0,jessxkcd,,,Wonderfully written post. Reminds me of Dylan&,
+76,7727853,comment,7711284.0,7711284.0,1,0,notduncansmith,,,"I created <a href=""http://dogehold.com/"" rel=""nofollow"">http://dogehold.com/</a> out of interest in crypto and the lack of a good escrow system for Dogecoin.  However, after the first few transactions I realized I wasn&",
+77,7727852,comment,7726316.0,7727628.0,1,0,Retric,,,"There <i>mostly</i> male, but often with significant female secondary sexual characteristics and sterility.  This is of-course ignoring Mosaic people which have two set&",
+78,7727851,comment,7727261.0,7727261.0,1,0,TezzellEnt,,,Are you currently located in the Bay Area? Here there are things known as &quot;Hacker Hostels&quot; where you basically pay for room and board to be surrounded by other people in a similar situation.<p>I&,
+79,7727850,comment,7727327.0,7727387.0,1,0,ChiChou,,,It does not improve my search experience of save any time.,1399785483.0
+80,7727849,comment,7727218.0,7727664.0,3,0,jdleesmiller,,,"Some LaTeX incantations are required, but we do support Chinese. Here&",
+81,7727848,comment,7727710.0,7727825.0,4,0,hol,,,Me too. I love it when a non-trivial concept like that can be effortlessly explained with a good diagram.,1399785443.0
+82,7727847,comment,7727473.0,7727686.0,1,0,skrebbel,,,"> <i>jokers who got enough funding to make it happen</i><p>While I agree with the general gist of your comment, GitHub was entirely self-funded up until about a year ago or so. they didn&",
+83,7727846,story,,,4,4,PizzeriaGuy,Ask HN: Simple and easy solution for a Pizza place?,,"Hello HN.<p>I was a developer at some point in my life. Many things have happened since then, and today I have a gourmet pizza restaurant (not a franchise). I&",
+84,7727845,comment,7727597.0,7727796.0,1,0,joshvm,,,The easiest way to teach kids how to program is via Lego Mindstorms.  I don&,
+85,7727844,comment,7727261.0,7727407.0,4,0,scobar,,,"If you find yourself saying, &quot;Someone should make a ...&quot; and research concludes that a sufficient solution doesn&",
+86,7727843,comment,7727596.0,7727596.0,4,0,austinz,,,Fascinating story. Lenovo&,
+87,7727842,story,,,1,0,dasmithii,ShowHN: Building an OS... From Scratch,http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf,,1399785185.0
+88,7727840,comment,7727473.0,7727677.0,1,0,bricestacey,,,"In short, no, unless you think people replacing broken hardware or patching bugs in your software can be automated.<p>Your question is too vague. Github is up enough that I don&",
+89,7727839,comment,7727473.0,7727498.0,12,0,skrebbel,,,Yeah maybe we should switch to a distributed VCS so that we don&,
+90,7727838,comment,7727720.0,7727720.0,1,0,sbierwagen,,,Old white guy doesn&,
+91,7727837,story,,,1,0,rectangletangle,Python 3 Monkeypatch Context Manager,https://gist.github.com/rectangletangle/0a0d5a2e84dd3178d348,,1399785092.0
+92,7727836,comment,7727473.0,7727818.0,1,0,skrebbel,,,"> <i>Generally, you don&",
+93,7727835,comment,7726923.0,7727735.0,1,0,stuki,,,"Rather, tort reform, or more accurately some sort of limitations of what one can drag the civil courts system into, boils down to looking at who wrote the Bill of Rights, and making an estimate as to whether it is reasonable to believe they intended them to be used to obtain hundreds of thousands of dollars for spilling coffee on oneself. Or, more pointedly, hundreds of thousands in legal fees by lawyers.<p>Did we really have cases like this, back when the Bills&",
+94,7727834,comment,7727071.0,7727588.0,1,0,swift,,,Could you describe the visualizations you&,
+95,7727833,story,,,111,67,dkasper,Dumb.domains,http://dumb.domains,,1399784924.0
+96,7727832,comment,7726923.0,7727637.0,0,0,saryant,,,"Texas has some of the <i>best</i> doctors in the world and an innovative healthcare community: <a href=""http://en.wikipedia.org/wiki/Texas_Medical_Center"" rel=""nofollow"">http://en.wikipedia.org/wiki/Texas_Medical_Center</a><p>> The Texas Medical Center is the largest medical center in the world with one of the highest densities of clinical facilities for patient care, basic science, and translational research. Located in Greater Houston, the center contains 54 medicine-related institutions, including 21 hospitals and eight specialty institutions, eight academic and research institutions, three medical schools, six nursing schools, and schools of dentistry, public health, pharmacy, and other health-related practices. All 54 institutions are not-for-profit. The center exceeds one thousand acres (or 1.562 square mile) in size. [...] The Center is where one of the first and largest air ambulance services was created and where one of the first successful inter-institutional transplant programs was developed. More heart surgeries are performed in Texas Medical Center than anywhere else in the world.<p>(Ironically, the TMC came about through a tax dodge)",1399784895.0
+97,7727831,comment,7727413.0,7727632.0,3,0,bsaul,,,There is something called &quot;made for children&quot; on the app store. It&,
+98,7727830,story,,,1,0,ksaitor,Parameterized Jenkins build for rollback purposes.,http://blog.ramanshalupau.com/parameterized-jenkins-build-for-rollback-purposes,,1399784875.0
+99,7727829,comment,7727428.0,7727815.0,1,0,gdubs,,,"Yea, it&",
+100,7727828,comment,7727358.0,7727706.0,1,0,rmason,,,I think you&,
+101,7727827,story,,,8,2,brandonhsiao,Is It Worth Being Wise? (2007),http://paulgraham.com/wisdom.html,,1399784739.0
+102,7727825,comment,7727710.0,7727710.0,21,0,quotient,,,I&,
+103,7727824,comment,7727355.0,7727786.0,2,0,stiff,,,"This is often given as the reason in the textbooks, but it actually is a sloppy argument, for there is no reason to presuppose sums of independent variables (they do not have to be drawn from the same distribution in some variants of the CLT) are so ubiquitous in nature. A more convincing reason is given by:<p><a href=""http://en.wikipedia.org/wiki/Maximum_entropy_probability_distribution"" rel=""nofollow"">http://en.wikipedia.org/wiki/Maximum_entropy_probability_dis...</a>",1399784589.0
+104,7727823,comment,7727597.0,7727597.0,2,0,mdorazio,,,"This is an interesting approach that seems like a good complement to Robot Turtles.  Whereas Robot Turtles takes a more open-ended &quot;create your program and go&quot; approach, Code Monkey Planet is focused on strategic use of more complex control structures.<p>I&",
+105,7727822,comment,7726923.0,7727721.0,1,0,stuki,,,And as she didn&,
+106,7727821,comment,7726828.0,7727598.0,4,0,ausjke,,,"My kids rarely play games, but I have seen too many kids doing that these days, obsessively.<p>one reason there are less boys in college than girls, guess what, games. I actually read this somewhere.<p>My piano teacher, whose two kids are still at home playing games, at their 20s.<p>You don&",

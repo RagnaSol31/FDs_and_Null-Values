@@ -1,0 +1,4 @@
+,reference,album,artist,title,genre,isrc,beats_per_minute,year,path
+0,REF_1,Lincity,Pronobozo,Lincity,,,,,/usr/share/games/lincity-ng/music/default/01 - pronobozo - lincity.ogg
+1,REF_2,Lincity,Robert van Herk,City Blues,,,123.0,,/usr/share/games/lincity-ng/music/default/02 - Robert van Herk - City Blues.ogg
+2,REF_3,Lincity,Robert van Herk,Architectural Contemplations,,,,1990.0,/usr/share/games/lincity-ng/music/default/03 - Robert van Herk - Architectural Contemplations.ogg

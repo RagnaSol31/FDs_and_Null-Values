@@ -1,0 +1,126 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8051289,comment,8050818.0,8051199.0,3,0,andrewchambers,,,In my opinion it&,
+1,8051288,comment,8046849.0,8051209.0,1,0,lumpypua,,,Why do you think pyramid is better?,1405648748.0
+2,8051287,story,,,1,0,fur0n,Piet Mondrian’s Trafalgar Square in Excel,http://patrickt.tumblr.com/post/46008765778/trafalgar-square-in-excel,,1405648747.0
+3,8051286,comment,8051183.0,8051183.0,4,0,tonetheman,,,"holy hell why are tutorials like this always in haskell. While I am sure there are a lot of people using Haskell, there is a whole lot more people in Java or python.",1405648709.0
+4,8051285,comment,8050106.0,8050509.0,1,0,benrapscallion,,,"CRISPR, some day: <a href=""http://en.wikipedia.org/wiki/CRISPR"" rel=""nofollow"">http://en.wikipedia.org/wiki/CRISPR</a>",1405648709.0
+5,8051284,comment,8025761.0,8026618.0,1,0,hueving,,,"&quot;if people were paying 25% of their paychecks for food, would they make better choices?&quot;<p>No. They will still choose the cheapest/most-convenient.",1405648688.0
+6,8051283,story,,,41,15,paulferrett,Designers: Don't cover what I'm looking at,http://paulferrett.com/2014/please-stop-covering-what-im-looking-at/,,1405648627.0
+7,8051282,comment,8048997.0,8051245.0,2,0,gergles,,,You don&,
+8,8051281,story,,,1,0,paikia,Show HN: InkCase Plus – Plus: E Ink screen for Android phone,https://www.kickstarter.com/projects/378232716/inkcase-plus-e-ink-screen-for-android-phone?ref=popular,,1405648590.0
+9,8051280,comment,8051078.0,8051244.0,2,0,byoung2,,,I&,
+10,8051279,story,,,1,0,jonphillips06,Keyboard Maestro macros,http://mattgemmell.com/keyboard-maestro-macros/,,1405648481.0
+11,8051278,comment,8049890.0,8050522.0,1,0,ghayes,,,"I largely feel we should be building companies that do this naturally.  If you are making a site where you share photos, bake this concept into your model.  Show that it can be non-intrusive for businesses and effectively implemented.",1405648379.0
+12,8051277,comment,8050144.0,8050799.0,2,0,idibidiart,,,makes sense to me,1405648335.0
+13,8051275,comment,8051022.0,8051022.0,2,0,nikcub,,,could a mod edit back to the original title please? this post is a lot more interesting than what the title here suggests.,1405648308.0
+14,8051274,comment,8050144.0,8051094.0,2,0,yazaddaruvala,,,"<a href=""https://github.com/react-bootstrap/react-bootstrap"" rel=""nofollow"">https://github.com/react-bootstrap/react-bootstrap</a>?",1405648304.0
+15,8051273,comment,8047406.0,8051221.0,2,0,eropple,,,"The French certainly did, you&",
+16,8051272,comment,8048925.0,8050894.0,1,0,jimktrains2,,,It&,
+17,8051271,story,,,39,26,HarveyLee96,The Children of Silicon Valley,http://www.nybooks.com/blogs/nyrblog/2014/jul/17/children-silicon-valley/,,1405648174.0
+18,8051270,comment,8051078.0,8051179.0,1,0,hexleo,,,I don&,
+19,8051269,comment,8049180.0,8049739.0,5,0,binarycrusader,,,To add to tptacek&,
+20,8051268,comment,8050715.0,8050987.0,1,0,userbinator,,,"There needs to be an easy way to search for existing logos by image similarity... the USPTO has an extensive categorisation method for trademarks ( <a href=""http://tess2.uspto.gov/tmdb/dscm/index.htm"" rel=""nofollow"">http://tess2.uspto.gov/tmdb/dscm/index.htm</a> ) but what&",
+21,8051267,comment,8050761.0,8051111.0,1,0,rabbyte,,,Good point. I would hope that part would be automated so that if a person isn&,
+22,8051266,comment,8024449.0,8029973.0,1,0,hueving,,,"No, we just don&",
+23,8051264,comment,8050405.0,8051230.0,3,0,tlarkworthy,,,"its easy to construct a Sudoku that only has a few numbers in it, and such you have to try filling it in many times before discovering a contradiction. Puzzle authors know this is not fun so the ones used for entertainment avoid being pathological.",1405648052.0
+24,8051263,comment,8050405.0,8051230.0,4,0,matchu,,,The solver doesn&,
+25,8051262,comment,8050405.0,8051238.0,3,0,Strilanc,,,"Probably referring to the definition, not the difficulty.",1405647954.0
+26,8051261,comment,8051078.0,8051078.0,3,0,cjbarber,,,"Zero, and it feels great.<p>I abide by the inbox zero philosophy from GTD.<p>To be clear, I don&",
+27,8051260,comment,8036783.0,8038662.0,1,0,bravo22,,,BLE + WiFi in some nodes; BLE in all the really low power ones that need to give you data -- like motion sensor.,1405647822.0
+28,8051258,comment,8030317.0,8040197.0,1,0,marssaxman,,,"Well, why are movies horizontally oriented? Why is the screen rectangular at all, and not square? Why were wide-screen movies such a big deal when they came out? Obviously it&",
+29,8051257,comment,8051250.0,8051250.0,1,0,tortoises,,,Here&,
+30,8051254,comment,8050405.0,8051230.0,2,0,rach3,,,NP-hard does not mean unsolvable. I don&,
+31,8051253,comment,8051183.0,8051183.0,7,0,platz,,,"Slight nit with title:  Monad Transformers can be used to model exceptions, but are more general - really they are a way to compose monads on a per-type basis (because all monads do not compose together automatically &quot;for free&quot; like functions or Functors).<p>Also there are non-transformer ways to handle errors in Haskell, see: <a href=""http://blog.ezyang.com/2011/08/8-ways-to-report-errors-in-haskell-revisited/"" rel=""nofollow"">http://blog.ezyang.com/2011/08/8-ways-to-report-errors-in-ha...</a>",1405647726.0
+32,8051252,comment,8051078.0,8051180.0,1,0,mrmondo,,,"Totally agree, I don&",
+33,8051251,comment,8050065.0,8050883.0,2,0,mdturnerphys,,,"Hanford (Washington state) tours: <a href=""http://www.ligo-wa.caltech.edu/informal.html"" rel=""nofollow"">http://www.ligo-wa.caltech.edu/informal.html</a><p>Livingston (Louisiana) tours: <a href=""http://www.ligo-la.caltech.edu/SEC.html"" rel=""nofollow"">http://www.ligo-la.caltech.edu/SEC.html</a>",1405647701.0
+34,8051250,story,,,1,1,tortoises,Hexadecimal-clock,http://experiments.spikepadley.com/hexadecimal-clock/,,1405647685.0
+35,8051248,comment,8051078.0,8051078.0,2,0,byoung2,,,"My gmail account has 36,358, with 6745 unread.  I am using 5.5GB of storage space for gmail alone.  I think gmail created this problem by giving me virtually unlimited space.  Now there is little incentive to delete old emails. I just wish the search was better.",1405647626.0
+36,8051247,comment,8049973.0,8051193.0,1,0,thaumasiotes,,,"When I read the wikipedia page it had a pretty clear real-life example (inspection reveals: still there!) --<p>UC Berkeley was sued for accepting male grad students at a higher rate than female grad students. On examination, most departments at Berkeley admitted females at a higher rate than they admitted males, but males preferentially applied to easier departments.",1405647597.0
+37,8051246,comment,8048997.0,8049640.0,2,0,Tobani,,,But if you answer on your land line you don&,
+38,8051245,comment,8048997.0,8050437.0,0,0,res0nat0r,,,"> Nope, Verizon&",
+39,8051244,comment,8051078.0,8051078.0,7,0,wambotron,,,My inbox has everything in it. From .. ever.,1405647485.0
+40,8051243,comment,8049686.0,8050205.0,1,0,jessriedel,,,"What is with the &quot;Defense of the realm&quot; poster on the right of the War Pidgeon article?  Judging by the frame it looks like it should be an image, but you can&",
+41,8051242,story,,,2,0,gshubert17,IP over Avian Carriers,http://en.wikipedia.org/wiki/IP_over_Avian_Carriers,,1405647411.0
+42,8051241,comment,8048866.0,8050216.0,7,0,mikeash,,,"Halo started at Bungie, and merely targeted the Mac. It was never at Apple. If it had been, Microsoft never would have been able to embarrass the crap out of Steve Jobs by buying the company (and thus the game) mere months after they got top billing at a Stevenote.",1405647385.0
+43,8051240,comment,8046849.0,8051147.0,1,0,lumpypua,,,"I prefer SQLAlchemy, but it definitely has just as much overhead as django&",
+44,8051239,comment,8051078.0,8051236.0,1,0,Swizec,,,"Oh wow, 55k+",1405647369.0
+45,8051238,comment,8050405.0,8051140.0,2,0,sidww2,,,"&quot;only&quot; NP-hard? You know that NP-hard problems are equal to order harder than NP-complete ones, right?",1405647317.0
+46,8051237,comment,8048997.0,8050766.0,2,0,cflee,,,"The difference is that in Singapore, you can get charged for incoming calls depending on your contract, but you _don&",
+47,8051236,comment,8051078.0,8051189.0,1,0,byoung2,,,"In gmail, I clicked on inbox, and then the checkbox for all messages, and that gave me 36k+.  For this poll, go with the highest count.",1405647274.0
+48,8051235,comment,8046425.0,8047785.0,1,0,snowwrestler,,,"I can only speak for my situation, but my daughter saw easily hundreds and maybe thousands of examples of elephants, including real live ones at the zoo, before she could ever seem to use the abstract concept to identify new examples.",1405647269.0
+49,8051233,comment,8050065.0,8050065.0,1,0,platz,,,"There was a huge thread on this a while back when bicepkeck made some measurements.<p><a href=""https://news.ycombinator.com/item?id=7416694"" rel=""nofollow"">https://news.ycombinator.com/item?id=7416694</a>   (see parent)<p>I&",
+50,8051232,story,,,3,0,ThompsonT,Normit: Google Translate and speech synthesis in your terminal with npm,https://github.com/pawurb/normit,,1405647109.0
+51,8051231,comment,8048229.0,8050148.0,3,0,wcummings,,,> It would be nice to just push $100 from a bank account into a bitcoin account (like paypal does).<p>Literally coinbase,1405647104.0
+52,8051230,comment,8050405.0,8050405.0,2,0,pdonis,,,"I wonder about one statement in the article: he says that Sudoku is NP-hard. I wonder about this since Peter Norvig has written a Sudoku solver:<p><a href=""http://norvig.com/sudoku.html"" rel=""nofollow"">http://norvig.com/sudoku.html</a><p>Of course, this solver is for the standard Sudoku game on a 9 x 9 grid. Perhaps the claim in the article refers to &quot;Sudoku&quot; in the sense of the generalized problem of solving n x n Sudoku, for any n?",1405646997.0
+53,8051229,story,,,2,0,Nathan_Song,D3 vs. Google Charts vs. Canvas.js,http://www.reddit.com/r/javascript/comments/2ay06f/d3_vs_google_charts_vs_canvasjs/,,1405646991.0
+54,8051227,comment,8046425.0,8049697.0,1,0,dang,,,Good suggestion. We changed it. Thanks!,1405646974.0
+55,8051226,story,,,2,0,jonbaer,The Details About the CIA's Deal With Amazon,http://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/,,1405646974.0
+56,8051225,comment,8051078.0,8051078.0,4,0,abruzzi,,,I don&,
+57,8051224,story,,,2,0,skipwilson,SkipCasts – Swift screencasts for developers,https://skipcasts.com,,1405646915.0
+58,8051223,comment,8050715.0,8050715.0,2,0,ryandvm,,,"So... this material is legit, but the Malaysian crash discussions I kept trying to read earlier today were flagged into oblivion. Got it.",1405646903.0
+59,8051222,comment,8050273.0,8051023.0,1,0,e7mac,,,hey! thanks for the link - its definitely got many nice free templates! i have an idea you might be interested in building together - email me at mayank.ot@gmail.com,1405646894.0
+60,8051221,comment,8047406.0,8049191.0,5,0,ekianjo,,,"> Meier consciously skated away from the fact that colonials enslaved and exterminated other human beings in order to sell a game,<p>I don&",
+61,8051219,comment,8049180.0,8050123.0,4,0,lunixbochs,,,There&,
+62,8051218,comment,8050106.0,8050934.0,6,0,ph0rque,,,&quot;My dog forked my homework.&quot;,1405646804.0
+63,8051217,comment,8049973.0,8050314.0,2,0,rahimnathwani,,,That would be reflected in CTR rather than CPC.,1405646803.0
+64,8051216,comment,8046684.0,8049319.0,3,0,rayiner,,,"<a href=""http://www.ravenbrook.com/project/mps/"" rel=""nofollow"">http://www.ravenbrook.com/project/mps/</a>",1405646756.0
+65,8051215,comment,8048288.0,8048288.0,1,0,lars_,,,"Pretty neat concept, especially after things like Google Code shut down. Reminds me of the recently surfaced <a href=""https://searchcode.com/"" rel=""nofollow"">https://searchcode.com/</a>",1405646745.0
+66,8051214,story,,,2,0,olalonde,Inbox Zero for Life,http://xph.us/2013/01/22/inbox-zero-for-life.html?,,1405646724.0
+67,8051213,story,,,4,0,kazuho,The TURKTRUST SSL certificate fiasco – what really happened... | Naked Security,http://nakedsecurity.sophos.com/2013/01/08/the-turktrust-ssl-certificate-fiasco-what-happened-and-what-happens-next/,,1405646723.0
+68,8051212,comment,8049322.0,8050010.0,2,0,csandreasen,,,"Security researchers have already had some degree of success performing remote attacks of cars already on the market through OnStar/Bluetooth.<p><a href=""http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers-reveal-nasty-new-car-attacks-with-me-behind-the-wheel-video/"" rel=""nofollow"">http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers...</a>",1405646711.0
+69,8051210,comment,8048866.0,8050056.0,2,0,EpicEng,,,Ummm... what?  What companies have you worked for exactly?,1405646682.0
+70,8051209,comment,8046849.0,8051136.0,1,0,mahmoudimus,,,"I am a die hard flask fan. I would highly recommend you look @ Pyramid. Much better for APIs than Flask, especially if it&",
+71,8051208,comment,8051078.0,8051078.0,1,0,daurnimator,,,"344 in my inbox. which is essentially things I want to address, but haven&",
+72,8051207,comment,8051078.0,8051078.0,2,0,marssaxman,,,No idea how many are in folders - I wouldn&,
+73,8051206,comment,8049180.0,8051195.0,9,0,tptacek,,,&quot;Recently&quot; seeded isn&,
+74,8051204,comment,8050715.0,8050715.0,1,0,x0x0,,,People claiming they see vagina or butt in that picture remind me of the tools claiming they&,
+75,8051203,comment,8051078.0,8051180.0,3,0,robertfw,,,I agree - there is a big difference in process between maintaining < 10 and maintaining < 100 (i am at 10 right now and it feels full),1405646602.0
+76,8051202,comment,8050715.0,8050987.0,3,0,jeremyriney,,,"Yeah, this uncanny similarity is more disconcerting than the &quot;lady parts&quot; people see.",1405646558.0
+77,8051201,comment,8051078.0,8051192.0,1,0,hayksaakian,,,Visual de-clutter to improve focus and remove distractions I suppose.<p>I don&,
+78,8051200,comment,8049180.0,8051051.0,3,0,tptacek,,,We are commenting on a thread about the Linux kernel random developers making exactly the mistake you think I should assume people won&,
+79,8051199,comment,8050818.0,8051142.0,1,0,est,,,> who encounters this will be confused<p>And get it after 30 seconds doc reading?,1405646450.0
+80,8051198,comment,8049973.0,8050657.0,1,0,rahimnathwani,,,"How do you attribute the awareness-driven clicks to the previous desktop search?  Is this at an aggregate level, or at a user level?",1405646422.0
+81,8051196,comment,8049098.0,8050603.0,1,0,hayksaakian,,,"When people stop buying things on Facebook<p>They have yet to do so, and Facebook ads remain lucrative.",1405646391.0
+82,8051195,comment,8049180.0,8051145.0,1,0,shawnz,,,But /dev/random has the additional constraint that it will stop outputting if that PRNG hasn&,
+83,8051194,comment,8050818.0,8051142.0,2,0,solox3,,,"There will always be non-expert programmers of many languages. Avoiding language-specific constructs will not solve the issue.<p>As far as portability is concerned (if you port software by hand a lot, for example), this is indeed an issue; but if you work with people who write python code, you might as well use everything in your toolbox.",1405646343.0
+84,8051193,comment,8049973.0,8050308.0,2,0,applecore,,,Side note: this is the first time I&,
+85,8051192,comment,8051078.0,8051078.0,0,0,emehrkay,,,My inbox only tells me how many are unread. Whats the point of moving read emails to another folder?,1405646264.0
+86,8051191,comment,8048229.0,8048229.0,6,0,olalonde,,,> Retained earnings and profits of in invested in US dollars. They may not keep any profit in Bitcoin. (200.8b)<p>Bitcoin businesses cannot keep profits in Bitcoin? This is just too ridiculous to be true...,1405646236.0
+87,8051190,comment,8049890.0,8049890.0,1,0,infocollector,,,"This space is not easy to penetrate. VCs are not interested because there is no easy short term money in it. Large companies are not interested because they would like something with market traction (impressive prototype stage) to buy. Developers who are in this space know well that this requires way more money than you can raise from Kickstarter.\nIt would be great if all of the people who posted on this page did a google hangout and joined hands (or at least a subset). I think this is bigger than any of these projects individually. Succeeding in this space means something as big as Google, Facebook and Apple. If you are interested in the hangout idea and would like to meet up with other similar project founders (or like minded people), perhaps you can drop me a message (with your email) and we can get started?",1405646230.0
+88,8051189,comment,8051078.0,8051078.0,2,0,Swizec,,,"This is actually a tough question.<p>The only part of my inbox that I consider as my inbox is &quot;Important and Unread&quot;, this currently has 30 emails. When an email is marked as read, I consider it archived, but it&",
+89,8051188,comment,8050106.0,8051064.0,7,0,Mz,,,"I looked up the essential issue again to try to limit how badly I am perceived as opening mouth and inserting foot:<p><a href=""http://matt.might.net/articles/my-sons-killer/",
+90,8051187,comment,8047028.0,8048031.0,1,0,rondon2,,,Assuming their spouses&,
+91,8051186,comment,8047406.0,8048185.0,1,0,xiaoma,,,I&,
+92,8051185,comment,8042546.0,8042546.0,1,0,phantork,,,"Looks good! I like playing long format chess games, one move or so a day. May be this can be done through tweeting moves, that links to the game board at funnode. Just sayin..",1405646094.0
+93,8051184,comment,8050144.0,8050797.0,2,0,sehr,,,I&,
+94,8051183,story,,,119,55,zik,"A Gentle Introduction to Monad Transformers – or, Values as Exceptions",https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md,,1405646076.0
+95,8051182,comment,8051149.0,8051149.0,2,0,bediger4000,,,Didn&,
+96,8051181,comment,8051078.0,8051078.0,2,0,jluxenberg,,,"I use this system and it has transformed my business and personal life:\n<a href=""http://xph.us/2013/01/22/inbox-zero-for-life.html"" rel=""nofollow"">http://xph.us/2013/01/22/inbox-zero-for-life.html</a>",1405645999.0
+97,8051180,comment,8051078.0,8051078.0,5,0,mostly_harmless,,,"I feel that 1-99 should be broken down into a more granular scaling.<p>something like: 1-10, 10-40, 40-100",1405645974.0
+98,8051179,comment,8051078.0,8051078.0,4,0,DrStalker,,,I keep my inbox empty so I don&,
+99,8051178,comment,8050761.0,8051048.0,1,0,ljd,,,"Actually, it&",
+100,8051177,comment,8048866.0,8050543.0,2,0,DevKoala,,,"No it is completely irrelevant. Jason Jones was a Mac fanboy, he even wrote a letter in on of the Marathon games about how it would never run on Windows. However, Apple didn&",
+101,8051176,comment,8050761.0,8051153.0,1,0,tonysusername,,,We will yes.,1405645747.0
+102,8051173,comment,8051078.0,8051154.0,3,0,phaer,,,&quot;and include both read and unread messages&quot;,1405645715.0
+103,8051172,comment,8049686.0,8049686.0,1,0,adamnemecek,,,Aka drone photography 0.1.,1405645710.0
+104,8051171,comment,8048014.0,8051020.0,1,0,girvo,,,I will say building Nimrod from source is quite literally the easiest language that I&,
+105,8051170,comment,8050144.0,8050650.0,2,0,linhmtran168,,,How do you bind Backbone Models/Collections to React Components as in the case with Backbone.View?,1405645698.0
+106,8051169,comment,8047406.0,8047571.0,3,0,nevster,,,If anyone gets the chance - have a go at the board game - it&,
+107,8051168,comment,8049180.0,8050371.0,2,0,X-Istence,,,"Yes, and it is exactly that chroot that is cause for concern and why this system call is being introduced...",1405645618.0
+108,8051167,comment,8047406.0,8049008.0,1,0,MProgrammer,,,And maybe that the article is from 2007.,1405645592.0
+109,8051166,comment,8046684.0,8050911.0,2,0,jeltz,,,FYI: Ruby 2.1 has been released for some time now.,1405645584.0
+110,8051165,story,,,4,1,lenzuola,Ask HN: How to report security flaw,,"<p><pre><code>  A website owned by a fortune 500 company sent me my plain text password when I clicked on &quot;forgot password&quot;. What is the proper way to report this, first privately then publicly?</code></pre>",1405645515.0
+111,8051164,comment,8049890.0,8049890.0,2,0,mrb,,,"My proposal in this space is unique: decentralized AND built on an existing protocol, email! See:<p><a href=""http://blog.zorinaq.com/?e=76"" rel=""nofollow"">http://blog.zorinaq.com/?e=76</a><p>You don&",
+112,8051163,comment,8050418.0,8050418.0,3,0,bra-ket,,,"I think &quot;Full Stack&quot; developer is a more of a character trait than a badge of knowledge.  I.e. it has to do more with being  stubborn enough to debug problem after problem like this until the entire thing is working, vs. skills in yet another ephemeral technology.",1405645494.0
+113,8051162,comment,8048866.0,8050619.0,3,0,DevKoala,,,"Wait, where are you getting this from? Bungie sold to Microsoft because they had financial issues, and Microsoft was looking for &quot;anything&quot; to increase their portfolio. It was almost accidental.<p>In fact, Bungie contacted Microsoft, not the other way around, because MS was going around looking for games for the Xbox.",1405645463.0
+114,8051159,comment,8049180.0,8051051.0,1,0,sillysaurus3,,,If he&,
+115,8051158,comment,8038560.0,8038815.0,1,0,TylerE,,,"Metaprogramming!<p>Real generics!\n(Hygenic) lisp style macros<p>Also, and I know this is subjective, better syntax.",1405645381.0
+116,8051157,story,,,1,0,stickerT,MIT Students Create An Ice Cream Printer,http://techcrunch.com/2014/07/16/mit-students-create-an-ice-cream-printer/,,1405645376.0
+117,8051156,story,,,3,0,halflings,Repository of DMCA takedown notices received by GitHub,https://github.com/github/dmca,,1405645355.0
+118,8051155,comment,8046849.0,8051026.0,0,0,parham,,,"Depends on your data, if you don&",
+119,8051154,comment,8051078.0,8051078.0,1,0,heeton,,,"<a href=""http://cl.ly/image/32262A052N1I"" rel=""nofollow"">http://cl.ly/image/32262A052N1I</a>",1405645327.0
+120,8051153,comment,8050761.0,8050761.0,1,0,ggurgone,,,Do you guys have an API?,1405645327.0
+121,8051152,comment,8048997.0,8050970.0,3,0,msandford,,,Verizon might technically be one company but in reality there are several business units which are actually separate companies in all but name.<p>When you buy business backhaul from Verizon you get guaranteed bandwidth provisioned on their network from point A to B.  They don&,
+122,8051151,comment,8050826.0,8050826.0,1,0,gesman,,,"She signed-up to some pseudo social crappy network where in the process she was asked if she wants to notify her contacts about her new status or so, and was presented with gmail logo and login screen.<p>Or she gave some App the rights to access her gmail contacts.",1405645281.0
+123,8051150,comment,8049180.0,8051042.0,6,0,X-Istence,,,There is no reason to use /dev/random other than cargo culting devs that believe that /dev/urandom can supposedly run out of entropy.<p>Use /dev/urandom. Don&,
+124,8051149,story,,,10,2,3rd3,NSA employees routinely pass around intercepted nude photos,http://arstechnica.com/tech-policy/2014/07/snowden-nsa-employees-routinely-pass-around-intercepted-nude-photos/,,1405645249.0

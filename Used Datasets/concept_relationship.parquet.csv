@@ -1,0 +1,288 @@
+,concept_id_1,concept_relationship_id,concept_id_2,target concept,invalid_reason,valid_start_date,valid_end_date
+0,2000000001,Maps to,21494070.0,"(Birth year, Observation, LOINC)",,2020-01-01,2099-12-31
+1,2000000001,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+2,2000000002,Maps to,44805437.0,"(Grip strength of left hand, Observation, SNOMED)",,2020-01-01,2099-12-31
+3,2000000002,Maps to unit,9529.0,"(Kilogram, Unit, UCUM)",,2020-01-01,2099-12-31
+4,2000000003,Maps to,44805438.0,"(Grip strength of right hand, Observation, SNOMED)",,2020-01-01,2099-12-31
+5,2000000003,Maps to unit,9529.0,"(Kilogram, Unit, UCUM)",,2020-01-01,2099-12-31
+6,2000000004,Maps to,4152194.0,"(Systolic blood pressure, Measurement, SNOMED)",,2020-01-01,2099-12-31
+7,2000000004,Maps to unit,8876.0,"(Millimeter mercury column, Unit, UCUM)",,2020-01-01,2099-12-31
+8,2000000005,Maps to,4154790.0,"(Diastolic blood pressure, Measurement, SNOMED)",,2020-01-01,2099-12-31
+9,2000000005,Maps to unit,8876.0,"(Millimeter mercury column, Unit, UCUM)",,2020-01-01,2099-12-31
+10,2000000006,Maps to,4301868.0,"(Pulse rate, Measurement, SNOMED)",,2020-01-01,2099-12-31
+11,2000000006,Maps to unit,4118124.0,"(Beats/min, Unit, SNOMED)",,2020-01-01,2099-12-31
+12,2000000007,Maps to,45770046.0,"(Number of previous live births, Observation, SNOMED)",,2020-01-01,2099-12-31
+13,2000000008,Maps to,40759215.0,"(Birth weight [NHANES], Measurement, LOINC)",,2020-01-01,2099-12-31
+14,2000000008,Maps to unit,8739.0,"(Pound (US), Unit, UCUM)",,2020-01-01,2099-12-31
+15,2000000009,Maps to,3035266.0,"(Age at first pregnancy, Observation, LOINC)",,2020-01-01,2099-12-31
+16,2000000009,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+17,2000000010,Maps to,,,,,
+18,2000000010,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+19,2000000011,Maps to,,,,,
+20,2000000011,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+21,2000000012,Maps to,,,,,
+22,2000000012,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+23,2000000013,Maps to,,,,,
+24,2000000013,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+25,2000000014,Maps to,40761397.0,"(Age when told have high blood pressure, Observation, LOINC)",,2020-01-01,2099-12-31
+26,2000000014,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+27,2000000015,Maps to,40768838.0,"(At what age was diabetes first treated [PhenX], Observation, LOINC)",,2020-01-01,2099-12-31
+28,2000000015,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+29,2000000016,Maps to,37055478.0,"(Peak expiratory flow, Measurement, LOINC)",,2020-01-01,2099-12-31
+30,2000000016,Maps to unit,8698.0,"(Liter per minute, Unit, UCUM)",,2020-01-01,2099-12-31
+31,2000000017,Maps to,,,,,
+32,2000000017,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+33,2000000018,Maps to,,,,,
+34,2000000018,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+35,2000000019,Maps to,40766910.0,"(At what age did asthma start [PhenX], Observation, LOINC)",,2020-01-01,2099-12-31
+36,2000000019,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+37,2000000020,Maps to,,,,,
+38,2000000020,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+39,2000000021,Maps to,40766902.0,"(At what age did chronic bronchitis start [PhenX], Observation, LOINC)",,2020-01-01,2099-12-31
+40,2000000021,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+41,2000000022,Maps to,,,,,
+42,2000000022,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+43,2000000023,Maps to,,,,,
+44,2000000023,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+45,2000000024,Maps to,,,,,
+46,2000000024,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+47,2000000025,Maps to,4152194.0,"(Systolic blood pressure, Measurement, SNOMED)",,2020-01-01,2099-12-31
+48,2000000025,Maps to unit,8876.0,"(Millimeter mercury column, Unit, UCUM)",,2020-01-01,2099-12-31
+49,2000000026,Maps to,4154790.0,"(Diastolic blood pressure, Measurement, SNOMED)",,2020-01-01,2099-12-31
+50,2000000026,Maps to unit,8876.0,"(Millimeter mercury column, Unit, UCUM)",,2020-01-01,2099-12-31
+51,2000000027,Maps to,4301868.0,"(Pulse rate, Measurement, SNOMED)",,2020-01-01,2099-12-31
+52,2000000027,Maps to unit,4118124.0,"(Beats/min, Unit, SNOMED)",,2020-01-01,2099-12-31
+53,2000000028,Maps to,,,,,
+54,2000000028,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+55,2000000029,Maps to,,,,,
+56,2000000029,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+57,2000000030,Maps to,4298431.0,"(White blood cell count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+58,2000000031,Maps to,4030871.0,"(Red blood cell count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+59,2000000032,Maps to,40480067.0,"(Measurement of total hemoglobin concentration, Measurement, SNOMED)",,2020-01-01,2099-12-31
+60,2000000033,Maps to,4151358.0,"(Hematocrit determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+61,2000000034,Maps to,4016239.0,"(Erythrocyte mean corpuscular volume determination, Measurement, SNOMED),NULL,2020-01-01,2099-12-31
+2000000035,Maps to,4182871,(Mean corpuscular hemoglobin determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+62,2000000036,Maps to,4290193.0,"(Mean corpuscular hemoglobin concentration determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+63,2000000037,Maps to,4281085.0,"(Red cell distribution width determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+64,2000000038,Maps to,4267147.0,"(Platelet count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+65,2000000039,Maps to,4097621.0,"(Platelet hematocrit measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+66,2000000040,Maps to,4192368.0,"(Platelet mean volume determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+67,2000000041,Maps to,4097620.0,"(Platelet distribution width measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+68,2000000042,Maps to,4254663.0,"(Lymphocyte count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+69,2000000043,Maps to,4194332.0,"(Monocyte count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+70,2000000044,Maps to,4148615.0,"(Neutrophil count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+71,2000000045,Maps to,4216098.0,"(Eosinophil count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+72,2000000046,Maps to,4172647.0,"(Basophil count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+73,2000000047,Maps to,4012826.0,"(Nucleated red blood cell count procedure, Measurement, SNOMED)",,2020-01-01,2099-12-31
+74,2000000048,Maps to,37399254.0,"(Percentage lymphocytes, Observation, SNOMED)",,2020-01-01,2099-12-31
+75,2000000048,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+76,2000000049,Maps to,37393321.0,"(Percentage monocytes, Observation, SNOMED)",,2020-01-01,2099-12-31
+77,2000000049,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+78,2000000050,Maps to,37398605.0,"(Percentage neutrophils, Observation, SNOMED)",,2020-01-01,2099-12-31
+79,2000000050,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+80,2000000051,Maps to,37399255.0,"(Percentage eosinophils, Observation, SNOMED)",,2020-01-01,2099-12-31
+81,2000000051,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+82,2000000052,Maps to,37398606.0,"(Percentage basophils, Observation, SNOMED)",,2020-01-01,2099-12-31
+83,2000000052,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+84,2000000053,Maps to,37393325.0,"(Percentage nucleated red blood cells, Observation, SNOMED)",,2020-01-01,2099-12-31
+85,2000000053,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+86,2000000054,Maps to,37393631.0,"(Percentage reticulocyte count, Observation, SNOMED)",,2020-01-01,2099-12-31
+87,2000000054,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+88,2000000055,Maps to,4263581.0,"(Reticulocyte count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+89,2000000056,Maps to,3049858.0,"(Reticulocyte mean volume [Entitic volume] in Reticulocytes, Measurement, LOINC)",,2020-01-01,2099-12-31
+90,2000000057,Maps to,3039385.0,"(Mean sphered cell volume [Entitic volume] in Red Blood Cells, Measurement, LOINC)",,2020-01-01,2099-12-31
+91,2000000058,Maps to,4135655.0,"(Immature reticulocyte fraction, Measurement, SNOMED)",,2020-01-01,2099-12-31
+92,2000000059,Maps to,3041522.0,"(Reticulocytes.high light scatter/Reticulocytes.total in Blood, Measurement, LOINC)",,2020-01-01,2099-12-31
+93,2000000059,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+94,2000000060,Maps to,42529546.0,"(Reticulocytes.low light scatter/Reticulocytes.total in Blood by Automated count, Measurement, LOINC)",,2020-01-01,2099-12-31
+95,2000000060,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+96,2000000061,Maps to,,,,,
+97,2000000061,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+98,2000000062,Maps to,,,,,
+99,2000000062,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+100,2000000063,Maps to,,,,,
+101,2000000063,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+102,2000000064,Maps to,,,,,
+103,2000000064,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+104,2000000065,Maps to,,,,,
+105,2000000065,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+106,2000000066,Maps to,,,,,
+107,2000000066,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+108,2000000067,Maps to,,,,,
+109,2000000067,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+110,2000000068,Maps to,,,,,
+111,2000000068,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+112,2000000069,Maps to,,,,,
+113,2000000069,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+114,2000000070,Maps to,,,,,
+115,2000000070,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+116,2000000071,Maps to,,,,,
+117,2000000071,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+118,2000000072,Maps to,,,,,
+119,2000000072,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+120,2000000073,Maps to,,,,,
+121,2000000074,Maps to,,,,,
+122,2000000074,Maps to unit,9655.0,"(Microliter, Unit, UCUM)",,2020-01-01,2099-12-31
+123,2000000075,Maps to,,,,,
+124,2000000076,Maps to,,,,,
+125,2000000077,Maps to,,,,,
+126,2000000078,Maps to,,,,,
+127,2000000079,Maps to,,,,,
+128,2000000080,Maps to,4083743.0,"(Cause of death, Observation, SNOMED)",,2020-01-01,2099-12-31
+129,2000000081,Maps to,4172830.0,"(Waist circumference, Observation, SNOMED)",,2020-01-01,2099-12-31
+130,2000000081,Maps to unit,8582.0,"(Centimeter, Unit, UCUM)",,2020-01-01,2099-12-31
+131,2000000082,Maps to,4111665.0,"(Hip circumference, Observation, SNOMED)",,2020-01-01,2099-12-31
+132,2000000082,Maps to unit,8582.0,"(Centimeter, Unit, UCUM)",,2020-01-01,2099-12-31
+133,2000000083,Maps to,3015514.0,"(Body height --standing, Measurement, LOINC)",,2020-01-01,2099-12-31
+134,2000000083,Maps to unit,8582.0,"(Centimeter, Unit, UCUM)",,2020-01-01,2099-12-31
+135,2000000084,Maps to,37020651.0,"(Body height --sitting, Measurement, LOINC)",,2020-01-01,2099-12-31
+136,2000000084,Maps to unit,8582.0,"(Centimeter, Unit, UCUM)",,2020-01-01,2099-12-31
+137,2000000085,Maps to,,,,,
+138,2000000086,Maps to,4176265.0,"(Forced vital capacity, Measurement, SNOMED)",,2020-01-01,2099-12-31
+139,2000000086,Maps to unit,8519.0,"(Litre, Unit, UCUM)",,2020-01-01,2099-12-31
+140,2000000087,Maps to,3024653.0,"(FEV1, Measurement, LOINC)",,2020-01-01,2099-12-31
+141,2000000087,Maps to unit,8519.0,"(Litre, Unit, UCUM)",,2020-01-01,2099-12-31
+142,2000000088,Maps to,3025315.0,"(Body weight, Measurement, LOINC)",,2020-01-01,2099-12-31
+143,2000000088,Maps to unit,9529.0,"(Kilogram, Unit, UCUM)",,2020-01-01,2099-12-31
+144,2000000089,Maps to,,,,,
+145,2000000090,Maps to,40766624.0,"(Age at first cancer diagnosis, Observation, LOINC)",,2020-01-01,2099-12-31
+146,2000000090,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+147,2000000091,Maps to,40766630.0,"(Year of diagnosis of clinician-diagnosed illness [PhenX], Observation, SNOMED)",,2020-01-01,2099-12-31
+148,2000000092,Maps to,,,,,
+149,2000000092,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+150,2000000093,Maps to,,,,,
+151,2000000094,Maps to,4298431.0,"(White blood cell count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+152,2000000094,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+153,2000000095,Maps to,4030871.0,"(Red blood cell count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+154,2000000095,Maps to unit,44777575.0,"(Trillion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+155,2000000096,Maps to,40480067.0,"(Measurement of total hemoglobin concentration, Measurement, SNOMED)",,2020-01-01,2099-12-31
+156,2000000096,Maps to unit,8713.0,"(Gram per deciliter, Unit, UCUM)",,2020-01-01,2099-12-31
+157,2000000097,Maps to,4151358.0,"(Hematocrit determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+158,2000000097,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+159,2000000098,Maps to,4016239.0,"(Erythrocyte mean corpuscular volume determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+160,2000000098,Maps to unit,8583.0,"(Femtoliter, Unit, UCUM)",,2020-01-01,2099-12-31
+161,2000000099,Maps to,4182871.0,"(Mean corpuscular hemoglobin determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+162,2000000099,Maps to unit,8564.0,"(Picogram, Unit, UCUM)",,2020-01-01,2099-12-31
+163,2000000100,Maps to,4290193.0,"(Mean corpuscular hemoglobin concentration determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+164,2000000100,Maps to unit,8713.0,"(Gram per deciliter, Unit, UCUM)",,2020-01-01,2099-12-31
+165,2000000101,Maps to,4281085.0,"(Red cell distribution width determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+166,2000000101,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+167,2000000102,Maps to,4267147.0,"(Platelet count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+168,2000000102,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+169,2000000103,Maps to,4097621.0,"(Platelet hematocrit measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+170,2000000103,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+171,2000000104,Maps to,4192368.0,"(Platelet mean volume determination, Measurement, SNOMED)",,2020-01-01,2099-12-31
+172,2000000104,Maps to unit,8583.0,"(Femtoliter, Unit, UCUM)",,2020-01-01,2099-12-31
+173,2000000105,Maps to,4097620.0,"(Platelet distribution width measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+174,2000000105,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+175,2000000106,Maps to,4254663.0,"(Lymphocyte count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+176,2000000106,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+177,2000000107,Maps to,4194332.0,"(Monocyte count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+178,2000000107,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+179,2000000108,Maps to,4148615.0,"(Neutrophil count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+180,2000000108,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+181,2000000109,Maps to,4216098.0,"(Eosinophil count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+182,2000000109,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+183,2000000110,Maps to,4172647.0,"(Basophil count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+184,2000000110,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+185,2000000111,Maps to,4012826.0,"(Nucleated red blood cell count procedure, Measurement, SNOMED)",,2020-01-01,2099-12-31
+186,2000000111,Maps to unit,44777588.0,"(Billion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+187,2000000112,Maps to,37399254.0,"(Percentage lymphocytes, Observation, SNOMED)",,2020-01-01,2099-12-31
+188,2000000112,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+189,2000000113,Maps to,37393321.0,"(Percentage monocytes, Observation, SNOMED)",,2020-01-01,2099-12-31
+190,2000000113,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+191,2000000114,Maps to,37398605.0,"(Percentage neutrophils, Observation, SNOMED)",,2020-01-01,2099-12-31
+192,2000000114,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+193,2000000115,Maps to,37399255.0,"(Percentage eosinophils, Observation, SNOMED)",,2020-01-01,2099-12-31
+194,2000000115,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+195,2000000116,Maps to,37398606.0,"(Percentage basophils, Observation, SNOMED)",,2020-01-01,2099-12-31
+196,2000000116,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+197,2000000117,Maps to,37393325.0,"(Percentage nucleated red blood cells, Observation, SNOMED)",,2020-01-01,2099-12-31
+198,2000000117,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+199,2000000118,Maps to,37393631.0,"(Percentage reticulocyte count, Observation, SNOMED)",,2020-01-01,2099-12-31
+200,2000000118,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+201,2000000119,Maps to,4263581.0,"(Reticulocyte count, Measurement, SNOMED)",,2020-01-01,2099-12-31
+202,2000000119,Maps to unit,44777575.0,"(Trillion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+203,2000000120,Maps to,3049858.0,"(Reticulocyte mean volume [Entitic volume] in Reticulocytes, Measurement, LOINC)",,2020-01-01,2099-12-31
+204,2000000120,Maps to unit,8583.0,"(Femtoliter, Unit, UCUM)",,2020-01-01,2099-12-31
+205,2000000121,Maps to,3039385.0,"(Mean sphered cell volume [Entitic volume] in Red Blood Cells, Measurement, LOINC)",,2020-01-01,2099-12-31
+206,2000000121,Maps to unit,8583.0,"(Femtoliter, Unit, UCUM)",,2020-01-01,2099-12-31
+207,2000000122,Maps to,4135655.0,"(Immature reticulocyte fraction, Measurement, SNOMED)",,2020-01-01,2099-12-31
+208,2000000122,Maps to unit,8523.0,"(Ratio, Unit, UCUM)",,2020-01-01,2099-12-31
+209,2000000123,Maps to,3041522.0,"(Reticulocytes.high light scatter/Reticulocytes.total in Blood, Measurement, LOINC)",,2020-01-01,2099-12-31
+210,2000000123,Maps to unit,8554.0,"(Percent, Unit, UCUM)",,2020-01-01,2099-12-31
+211,2000000124,Maps to,42529546.0,"(Reticulocytes.low light scatter/Reticulocytes.total in Blood by Automated count, Measurement, LOINC)",,2020-01-01,2099-12-31
+212,2000000124,Maps to unit,44777575.0,"(Trillion cells per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+213,2000000125,Maps to,3000034.0,"(Microalbumin [Mass/volume] in Urine, Measurement, LOINC)",,2020-01-01,2099-12-31
+214,2000000125,Maps to unit,8751.0,"(Milligram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+215,2000000126,Maps to,3017250.0,"(Creatinine [Mass/volume] in Urine, Measurement, LOINC)",,2020-01-01,2099-12-31
+216,2000000126,Maps to unit,8749.0,"(Micromole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+217,2000000127,Maps to,3016038.0,"(Potassium [Moles/volume] in Urine, Measurement, LOINC)",,2020-01-01,2099-12-31
+218,2000000127,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+219,2000000128,Maps to,3003181.0,"(Sodium [Moles/volume] in Urine, Measurement, LOINC)",,2020-01-01,2099-12-31
+220,2000000128,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+221,2000000129,Maps to,4097664.0,"(Albumin measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+222,2000000129,Maps to unit,8636.0,"(Gram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+223,2000000130,Maps to,4230636.0,"(Alkaline phosphatase measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+224,2000000130,Maps to unit,8645.0,"(Unit per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+225,2000000131,Maps to,4146380.0,"(Alanine aminotransferase measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+226,2000000131,Maps to unit,8645.0,"(Unit per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+227,2000000132,Maps to,4014902.0,"(Apolipoproteins A measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+228,2000000132,Maps to unit,8636.0,"(Gram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+229,2000000133,Maps to,4017617.0,"(Apolipoproteins B measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+230,2000000133,Maps to unit,8636.0,"(Gram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+231,2000000134,Maps to,4263457.0,"(Aspartate aminotransferase measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+232,2000000134,Maps to unit,8645.0,"(Unit per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+233,2000000135,Maps to,4216632.0,"(Bilirubin, direct measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+234,2000000135,Maps to unit,8749.0,"(Micromole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+235,2000000136,Maps to,4020121.0,"(Urea measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+236,2000000136,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+237,2000000137,Maps to,4216722.0,"(Calcium measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+238,2000000137,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+239,2000000138,Maps to,4299360.0,"(Cholesterol measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+240,2000000138,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+241,2000000139,Maps to,4324383.0,"(Creatinine measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+242,2000000139,Maps to unit,8749.0,"(Micromole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+243,2000000140,Maps to,4208414.0,"(C-reactive protein measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+244,2000000140,Maps to unit,8751.0,"(Milligram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+245,2000000141,Maps to,44789161.0,"(Cystatin C measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+246,2000000141,Maps to unit,8751.0,"(Milligram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+247,2000000142,Maps to,4289475.0,"(Gamma glutamyl transferase measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+248,2000000142,Maps to unit,8645.0,"(Unit per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+249,2000000143,Maps to,4149519.0,"(Glucose measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+250,2000000143,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+251,2000000144,Maps to,37116827.0,"(Glycated hemoglobin-A1c, Observation, SNOMED)",,2020-01-01,2099-12-31
+252,2000000144,Maps to unit,9579.0,"(Millimole per mole, Unit, UCUM)",,2020-01-01,2099-12-31
+253,2000000145,Maps to,4195214.0,"(Cholesterol/HDL ratio measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+254,2000000145,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+255,2000000146,Maps to,3007922.0,"(Insulin-like growth factor-I [Mass/volume] in Blood, Measurement, LOINC)",,2020-01-01,2099-12-31
+256,2000000146,Maps to unit,8736.0,"(Nanomole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+257,2000000147,Maps to,2212451.0,"(Lipoprotein, direct measurement; LDL cholesterol, Measurement, CPT4)",,2020-01-01,2099-12-31
+258,2000000147,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+259,2000000148,Maps to,3046664.0,"(Lipoprotein a [Moles/volume] in Serum or Plasma, Measurement, LOINC)",,2020-01-01,2099-12-31
+260,2000000148,Maps to unit,8736.0,"(Nanomole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+261,2000000149,Maps to,4292703.0,"(Estradiol measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+262,2000000149,Maps to unit,8729.0,"(Picomole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+263,2000000150,Maps to,4017907.0,"(Phosphate measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+264,2000000150,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+265,2000000151,Maps to,4204380.0,"(Rheumatoid factor measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+266,2000000151,Maps to unit,8985.0,"(International unit per milliliter, Unit, UCUM)",,2020-01-01,2099-12-31
+267,2000000152,Maps to,4082602.0,"(Sex hormone binding globulin measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+268,2000000152,Maps to unit,8736.0,"(Nanomole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+269,2000000153,Maps to,4230543.0,"(Bilirubin, total measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+270,2000000153,Maps to unit,8749.0,"(Micromole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+271,2000000154,Maps to,4020107.0,"(Testosterone measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+272,2000000154,Maps to unit,8736.0,"(Nanomole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+273,2000000155,Maps to,4119650.0,"(Total protein measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+274,2000000155,Maps to unit,8636.0,"(Gram per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+275,2000000156,Maps to,4032789.0,"(Triglycerides measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+276,2000000156,Maps to unit,8753.0,"(Millimole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+277,2000000157,Maps to,4313992.0,"(Uric acid measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+278,2000000157,Maps to unit,8749.0,"(Micromole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+279,2000000158,Maps to,4308739.0,"(Vitamin D measurement, Measurement, SNOMED)",,2020-01-01,2099-12-31
+280,2000000158,Maps to unit,8736.0,"(Nanomole per liter, Unit, UCUM)",,2020-01-01,2099-12-31
+281,2000000159,Maps to,,,,,
+282,2000000160,Maps to,3038421.0,"(Age at death, Observation, LOINC)",,2020-01-01,2099-12-31
+283,2000000160,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31
+284,2000000161,Maps to,3007016.0,"(Age at cancer diagnosis, Measurement, LOINC)",,2020-01-02,2100-01-01
+285,2000000161,Maps to unit,9448.0,"(Year, Unit, UCUM)",,2020-01-01,2099-12-31

@@ -1,0 +1,106 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10485475,story,,,1,0,matm,Heap (YC W13) is hiring engineers to automate analytics,https://heapanalytics.com/jobs,,
+1,10485474,comment,10483523.0,10485208.0,0,0,meddlepal,,,It&,
+2,10485473,comment,10485012.0,10485461.0,0,0,littletimmy,,,"It is more that such a historian would be immediately shunned and made into a &quot;hack&quot;. That puts a limit on how far you can go, regardless of whether or not there&",
+3,10485472,comment,10477896.0,10477896.0,0,0,agumonkey,,,It seems so obvious but yet it&,
+4,10485471,comment,10483747.0,10485196.0,0,0,mackal,,,It&,
+5,10485470,comment,10485012.0,10485439.0,0,0,vacri,,,Everyone in Europe was ramping up in the 30s - it&,
+6,10485469,comment,10482578.0,10485321.0,0,0,whyIndeed,,,My point is that it&,
+7,10485468,comment,10485227.0,10485239.0,0,0,a3n,,,1. Homeless.<p>2. Scrape up enough cans and donations for lunch.<p>3. Scrape up enough cans and donations for a cheap as possible pay as you go phone.<p>4 ... N. Apartment!,1446353801.0
+8,10485466,comment,10485012.0,10485316.0,0,0,nether,,,Are you drunk?,1446353743.0
+9,10485465,comment,10483523.0,10485302.0,0,0,tajano,,,It&,
+10,10485464,comment,10485012.0,10485426.0,0,0,baddox,,,"> Americans fall for this too and feel bad about the nuclear bombing of Japan, despite the enormous good it did to the whole of south-east Asia.<p>That&",
+11,10485463,comment,10484546.0,10484546.0,0,0,borplk,,,"How does one obtain this list of registered, expired and dropped domains? I always wondered.",1446353656.0
+12,10485462,comment,10483747.0,10483747.0,0,0,jolynch,,,"I think the latest number is looking more like 6M Mpps SYN (<a href=""http://marc.info/?l=linux-netdev&m=144431864418007&w=2"" rel=""nofollow"">http://marc.info/?l=linux-netdev&m=144431864418007&w=2</a>)!<p>This is also awesome because it fixes the issue with SO_REUSEPORT where the 3WHS gets screwed up by the per listener queues. I think that we still need some extra help from another patch (<a href=""http://marc.info/?l=linux-netdev&m=144331389206170&w=2"" rel=""nofollow"">http://marc.info/?l=linux-netdev&m=144331389206170&w=2</a>) to allow SO_REUSEPORT applications to drain connections, but the original patch plus the SO_REUSEPORT_LISTEN_OFF patch, or whatever Eric and Tolga end up doing, should be enough to allow applications to finally do graceful shutdowns of listen sockets. This is very relevant to my interests because it means that HAProxy will be able to do a natively supported hitless reload on Linux for the first time ever.<p>This stuff is brilliant.",1446353627.0
+13,10485461,comment,10485012.0,10485426.0,0,0,vacri,,,"I know that Nazi imagery has been banned in Germany, but I&",
+14,10485460,comment,10485012.0,10485445.0,0,0,baddox,,,"Denying any claim, however small, about the Holocaust is not &quot;Holocaust denial&quot; in the sense you&",
+15,10485459,comment,10483523.0,10484855.0,0,0,meddlepal,,,I&,
+16,10485458,comment,10483751.0,10484789.0,0,0,zodiac,,,"AFAIK pg added that to the article after WildUtah made his comment, and pg acknowledges this in a reply to WildUtah",1446353529.0
+17,10485457,comment,10485012.0,10485355.0,0,0,nemo,,,"Yeah, this sentence, &quot;Almost every narrative history of the war ever published almost entirely concentrates on the strategic and tactical levels, but gives scant regard to the operational,&quot; either suggests the author hasn&",
+18,10485456,comment,10482517.0,10483906.0,0,0,borplk,,,That&,
+19,10485455,comment,10483695.0,10483695.0,0,0,greghendershott,,,My most unrewarding educational experiences felt like I was being fire hosed solutions to problems I didn&,
+20,10485454,comment,10485012.0,10485426.0,0,0,greatergoodguy,,,"I find irony in how you criticize Japan for painting themselves as the good guys. And in the very next sentence, you paint Americans as the good guys.<p>You are proof that people want to hear stories that pander to their emotions.",1446353468.0
+21,10485453,comment,10484797.0,10484797.0,0,0,markkat,,,"Why is this of particular interest? I work in a neurology research lab that specializes in stroke. There are dozens of proteins that have similar effects, BDNF, EGF, VEGF, NGF, etc., not to mention miRNAs.<p>This is just one small component of brain repair.<p>Oddly, it seems that I am seeing more of this on HN lately.",1446353460.0
+22,10485452,comment,10483780.0,10484932.0,0,0,johnny22,,,CentOS has NEVER been independent of RHEL,1446353448.0
+23,10485451,story,,,1,0,x43b,Kela to prepare basic income proposal,http://yle.fi/uutiset/kela_to_prepare_basic_income_proposal/8422295,,1446353365.0
+24,10485450,comment,10485012.0,10485012.0,0,0,klipt,,,"> In truth, there were never enough U-boats to more than dent the flow of shipping to Britain. In fact, out of 18,772 sailings in 1940, they sank just 127 ships, that is, 0.7 percent, and 1.4 percent in the entire war.<p>I thought this was partly thanks to Turing et al&",
+25,10485449,comment,10483780.0,10484680.0,0,0,johnny22,,,yet gnome still runs on the BSDs that have no systemd.,1446353308.0
+26,10485448,comment,10485360.0,10485360.0,0,0,dylanhassinger,,,make a portfolio from volunteer projects<p>i.e. build a website for your friend who is a DJ<p>or create a small open source project to solve one of your own problems<p>or find something that bugs you about a famous product and design a prototype that shows a better way<p>then blog about it,1446353302.0
+27,10485447,comment,10484947.0,10484947.0,0,0,vinceguidry,,,"> It’s whether they’re willing to take action that would destroy the companies’ $2.5 billion combined value owned by important investors (and campaign donors) like KKR, Comcast, NBC, Major League Baseball and several Silicon Valley VCs.<p>On one hand I want to agree, on the other hand I&",
+28,10485446,comment,10483751.0,10485340.0,0,0,skj,,,Not so. Priors/posteriors are only as good as the model they&,
+29,10485445,comment,10485012.0,10485426.0,0,0,pekk,,,Holocaust denialism does not constitute &quot;research.&quot;,1446353234.0
+30,10485444,comment,10485032.0,10485032.0,0,0,danieltillett,,,Does anyone know what the proof was that proves eugenics can&,
+31,10485443,comment,10484202.0,10484202.0,0,0,meddlepal,,,Hah. Cool! Thanks for sharing.,1446353131.0
+32,10485442,story,,,41,22,akg_67,Evanston: A Suburb That Actively Discourages Cars,http://www.politico.com/magazine/story/2015/10/evanston-illinois-what-works-213282,,1446353109.0
+33,10485441,comment,10483747.0,10483747.0,0,0,alberth,,,"How does this compare to DragonflyBSD which has a completely lockless network stack?<p><a href=""https://www.dragonflybsd.org/~aggelos/netmp-paper.pdf"" rel=""nofollow"">https://www.dragonflybsd.org/~aggelos/netmp-paper.pdf</a>",1446353104.0
+34,10485440,comment,10485012.0,10485334.0,0,0,trulyrichboat,,,"&quot;After the failure of the Great Leap Forward and the disruption of the Cultural Revolution, Deng Xiaoping and other leaders took the country on a path of economic development based on a market economy, without relinquishing the party&",
+35,10485439,comment,10485012.0,10485418.0,0,0,bpodgursky,,,That&,
+36,10485438,comment,10485012.0,10485418.0,0,0,munin,,,"> America built 74,000 Sherman hulls and engines; Germany built just 1,347 Tigers.",1446352907.0
+37,10485437,comment,10485012.0,10485012.0,0,0,SCAQTony,,,"If you look specifically at the Spandeau machine gun mentioned in the article, Is the US using the same damn process with the F-35 Strike Fighter? A plane that is over designed, clunky and extravagantly expensive?<p>From War is Boring:  No, the F-35 Can’t Fight at Long Range, Either — Stealth fighter can’t see, shoot or survive.<p><a href=""https://medium.com/war-is-boring/no-the-f-35-can-t-fight-at-long-range-either-5508913252dd",
+38,10485436,comment,10482642.0,10484286.0,0,0,uououuttt,,,It&,
+39,10485435,story,,,1,0,tareqak,Internet firms 'should retain users' data',http://www.bbc.co.uk/news/uk-34690943,,1446352860.0
+40,10485434,comment,10485354.0,10485354.0,0,0,greenyoda,,,"<a href=""https://news.ycombinator.com/item?id=10447010"" rel=""nofollow"">https://news.ycombinator.com/item?id=10447010</a>",1446352845.0
+41,10485433,comment,10483800.0,10484282.0,0,0,adevine,,,"Yes, it is much more efficient. It takes a lot more energy to transition water from gas to liquid state (energy which is mostly wasted when the water vapor is converted back to liquid) than is needed just to work against osmotic pressure.",1446352841.0
+42,10485432,comment,10483523.0,10484467.0,0,0,tajano,,,"> <i>You may say whatever you like, provided no one is there to hear it.</i><p>Freedom of speech does not mean you are granted unmitigated control over the content a private medium, channel, or platform. For example, it doesn&",
+43,10485431,comment,10483523.0,10484615.0,0,0,PhasmaFelis,,,I&,
+44,10485430,comment,10485012.0,10485316.0,0,0,wdewind,,,"<a href=""https://en.wikipedia.org/wiki/PPSh-41"" rel=""nofollow"">https://en.wikipedia.org/wiki/PPSh-41</a> not AK-47",1446352745.0
+45,10485429,comment,10485404.0,10485404.0,0,0,tlb,,,"Good advice here: <a href=""http://paulgraham.com/name.html"" rel=""nofollow"">http://paulgraham.com/name.html</a>",1446352729.0
+46,10485426,comment,10485012.0,10485012.0,0,0,Asbostos,,,"All histories of wars that are still in living memory or close are going to be grossly distorted because people want to hear stories that pander to their own emotions.<p>As a prime example, historians are often legally (and certainly professionally) forbidden from freely studying some aspects of WWII in case the come to conclusions that are still politically sensitive. I&",
+47,10485425,comment,10483354.0,10483442.0,0,0,pinealservo,,,"I used QNX extensively for a few projects at work, as it has historically been used quite a bit in the &quot;automotive infotainment&quot; world. I was really impressed by the overall clean architecture and documentation of the system, and I much prefer implementing device drivers in the QNX microkernel environment over implementing them in Linux, where interfaces are under-documented and always changing, and it&",
+48,10485424,comment,10484947.0,10484947.0,0,0,PhasmaFelis,,,I&,
+49,10485423,story,,,1,0,jpatel3,User acquisition takes priority over retention,https://medium.com/@jpatel/user-acquisition-takes-priority-over-retention-535faccdec62,,
+50,10485422,comment,10470428.0,10478590.0,0,0,Nrpf,,,"No please! Julia Julia Julia fills all those, but with beatiful python like syntax, lisp like macros when you wnat them, go like channels, distributed capabilities and leading class numerical stuff. Also webserver with a front end that you can build with polymer in Pure Julia.<p><a href=""http://escher-jl.org/"" rel=""nofollow"">http://escher-jl.org/</a>",1446352405.0
+51,10485421,story,,,48,12,luu,Packet copies: Expensive or cheap?,https://github.com/SnabbCo/snabbswitch/issues/648,,1446352354.0
+52,10485420,story,,,2,1,zippy786,Startup and product without sales and marketing?,,I&,
+53,10485419,comment,10482209.0,10482489.0,0,0,gtremper,,,Everyone is a potential criminal.,1446352289.0
+54,10485418,comment,10485012.0,10485407.0,0,0,vacri,,,"The Germans built just fine at scale - remember that it took the resources of Russia, the British Empire, and half of the US industrial juggernaut to take them down.",1446352289.0
+55,10485417,comment,10484164.0,10485308.0,0,0,Armisael16,,,This isn&,
+56,10485416,comment,10482676.0,10484100.0,0,0,jMyles,,,Absolutely.  They have repeatedly turned to nationals from other countries to inflict cruelty upon detainees; why do you suppose they&,
+57,10485415,comment,10483780.0,10485146.0,0,0,witty_username,,,"Well I was using systemd-analyze and systemctl {cat,disable, restart} and it seemed similar to Upstart in Ubuntu if not better. (And I was able to use it intuitively without needing to refer to manpages).",1446352279.0
+58,10485414,comment,10470428.0,10475733.0,0,0,Nrpf,,,Python Numba compiler (fast as julia) has a fair amount of Cuda and AMD HSA capability.,1446352246.0
+59,10485413,story,,,3,0,kannajune,How do I start Angular 2?,,,1446352140.0
+60,10485412,comment,10482567.0,10482567.0,0,0,meddlepal,,,Case Study: Boston City Hall and surrounding plaza<p>Truly an example of failed architecture.,1446352125.0
+61,10485411,comment,10483695.0,10485323.0,0,0,chx,,,What is most astonishing is when and using what mathematics Newton recognized this. The next &quot;big batch&quot; came some 140 (!) years later: Cauchy&,
+62,10485410,comment,10483523.0,10483523.0,0,0,nnutter,,,Does CCC have an app on Fire TV?  On Chromecast (Android)?  It bothers me that Apple has this power but is there even another choice in this specific example?,1446352085.0
+63,10485409,comment,10483780.0,10485139.0,0,0,witty_username,,,"How so? I was able to easily use systemd and the man pages seem decent. Maybe not the best documentation, but it seems reasonable.",1446352016.0
+64,10485408,comment,10484641.0,10484641.0,0,0,computrondude,,,I&,
+65,10485407,comment,10485012.0,10485012.0,0,0,munin,,,"the history that I got about WWII was that Germany built wunder-weapons that individually were of far superior quality to anything else, but couldn&",
+66,10485406,comment,10476714.0,10476714.0,0,0,luckydude,,,I can&,
+67,10485405,story,,,107,18,tambourine_man,Swift Intermediate Language: LLVM conference slides [pdf],http://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf,,1446351873.0
+68,10485404,story,,,2,3,rayalez,Ask HN: Any advice on coming up with a name for a startup?,,,1446351862.0
+69,10485403,comment,10484332.0,10484470.0,0,0,seekingcharlie,,,"By &quot;consulting&quot;, I believe they mean leaving your job and consulting full-time. That way you are in charge of your own schedule and salary.",1446351825.0
+70,10485402,comment,10484876.0,10485136.0,0,0,teaneedz,,,"It does go against the design grain and established UX principles at times, but that&",
+71,10485401,comment,10483354.0,10485203.0,0,0,technion,,,"Oh I know - I meant more &quot;running L4 kernels&quot;, with the seL4 currently looking quite interesting.<p>At what point do you conclude that you&",
+72,10485400,comment,10482347.0,10484609.0,0,0,brazzledazzle,,,For good or bad Apple is very much opposed to maintaining backwards compatibility. Sometimes it&,
+73,10485399,comment,10484653.0,10484981.0,0,0,delish,,,Same here. Here&,
+74,10485398,comment,10483846.0,10484930.0,0,0,cicero,,,"There is value in the old and they young, and ideally you would have both on a team or faculty. You need youth for innovation and boldness, and you need age for experience and wisdom.",1446351449.0
+75,10485397,comment,10485012.0,10485334.0,0,0,yeukhon,,,"Being a Chinese growing up in America, what you said is true and often I feel the Western civilization didn&",
+76,10485396,comment,10484367.0,10485085.0,0,0,Animats,,,"Has &quot;Box&quot; settled down yet?  The last time I looked, box syntax and semantics were still in flux.",1446351324.0
+77,10485395,comment,10483747.0,10485373.0,0,0,j42,,,"I was actually planning on testing a 33% deployment this evening, I guess what I&",
+78,10485394,comment,10482678.0,10483891.0,0,0,JoeAltmaier,,,The act of calculating the area surely does mean they are the same rectangle. Because they can be written down in more than one way is a weakness of the notation; the math is independent of that.,1446351182.0
+79,10485393,comment,10483354.0,10485282.0,0,0,carussell,,,"The units of measure there are Euro, even, so after the conversion to USD, we&",
+80,10485392,comment,10482678.0,10483644.0,0,0,chris_wot,,,What are your sources?,1446351119.0
+81,10485391,comment,10484332.0,10484332.0,0,0,vii,,,"Rationally, employees can get at most at their replacement cost, more or less. As you have built up experience in your present role and made yourself a &",
+82,10485390,comment,10481752.0,10483233.0,0,0,JoeAltmaier,,,Whatever can you mean? Nothing concrete to offer? Just felt like a personal attack today?,1446351105.0
+83,10485389,comment,10479304.0,10481935.0,0,0,merpnderp,,,Looks like my data is outdated and the US has caught up.<p>Here&,
+84,10485388,story,,,2,0,gjeffries,Font Flame: Tinder for font pairing,http://fontflame.com/,,1446350985.0
+85,10485387,comment,10484414.0,10484873.0,0,0,userbinator,,,"I think this is useful for stress-testing purposes; most browsers will (hopefully) never see CSS like this in regular use, but pushing things to the limit is a good strategy for reliability in more normal use-cases.",1446350982.0
+86,10485386,story,,,1,0,sytelus,The SEC Just Made a Big Change to What's Legal in Crowdfunding,http://gizmodo.com/the-sec-just-made-a-big-change-to-whats-legal-in-crowdf-1739706490,,1446350966.0
+87,10485385,comment,10474717.0,10476782.0,0,0,i336_,,,That... actually makes sense.<p>Sadly :(,1446350937.0
+88,10485384,comment,10483780.0,10485088.0,0,0,simondedalus,,,I don&,
+89,10485383,comment,10483747.0,10483747.0,0,0,rifung,,,Can anyone explain why this took two years? Not trying to say they&,
+90,10485382,comment,10484653.0,10485247.0,0,0,syl20bnr,,,"Auto-promotion here :-D Check Spacemacs, it is an Emacs configuration usable by Vim users out of the box. It has the feature you mentioned powered by the which-key package.",1446350856.0
+91,10485381,comment,10484824.0,10484824.0,0,0,brazzledazzle,,,Why won&,
+92,10485380,comment,10479620.0,10485366.0,0,0,dllthomas,,,Certainly &quot;quite familiar&quot; is more common.,1446350831.0
+93,10485379,comment,10484414.0,10485232.0,0,0,userbinator,,,I wouldn&,
+94,10485378,comment,10484876.0,10485081.0,0,0,teaneedz,,,"No, I don&",
+95,10485377,comment,10484651.0,10484651.0,0,0,greenyoda,,,"<a href=""https://news.ycombinator.com/item?id=10478558"" rel=""nofollow"">https://news.ycombinator.com/item?id=10478558</a>",1446350783.0
+96,10485376,comment,10485227.0,10485239.0,0,0,hugh4,,,If I were homeless in Colorado Springs I&,
+97,10485375,story,,,1,0,sytelus,SEC Opens Doors to Startup Investing for All,http://m.nwitimes.com/business/local/sec-opens-door-to-startup-investing-for-all/article_0e5b41a8-ad3f-5a8e-858f-01f4eed7dbde.html,,1446350728.0
+98,10485374,comment,10483780.0,10485306.0,0,0,ymse,,,"How is this related to anything, let alone your job?<p>As I&",
+99,10485373,comment,10483747.0,10485301.0,0,0,elktea,,,"Since it sounds like your workload is nicely distributed, why not try it one a few nodes and compare?",1446350687.0
+100,10485372,comment,10484414.0,10485232.0,0,0,lucideer,,,He&,
+101,10485371,comment,10472071.0,10472071.0,0,0,hhimanshu,,,"I enjoy working with Akka to build reactive applications. Clean, Readable, Testable",1446350613.0
+102,10485370,comment,10480390.0,10482154.0,0,0,kbenson,,,"From a prior discussion, the idea was supposed to be more of a &quot;why vetted you quite well, and we have contacts, so now we can get you a lunch with a CTO&quot; or some facsimile thereof (I doubt you&",
+103,10485369,story,,,1,0,tomkwok,YIFY / YTS Shuts Down Forever,https://torrentfreak.com/yify-yts-shuts-down-the-end-of-a-piracy-icon-151030/,,1446350489.0
+104,10485368,comment,10483751.0,10484106.0,0,0,Tarrosion,,,"In a grandchild comment, you note that how close the min of each group is to the cutoff depends on sample size. This is true, but I think it&",

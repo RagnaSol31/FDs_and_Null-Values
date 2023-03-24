@@ -1,0 +1,90 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10213903,story,,,1,0,tilt,Envenc: Seamlessly encrypt and decrypt your development keys in your .env,https://github.com/lapwinglabs/envenc,,1442213988.0
+1,10213902,comment,10213353.0,10213595.0,0,0,agopaul,,,This is very interesting and I&,
+2,10213901,story,,,1,0,tilt,The land of undocumented react.js: The Context,https://medium.com/@skwee357/the-land-of-undocumented-react-js-the-context-99b3f931ff73,,1442213938.0
+3,10213900,story,,,1,0,tilt,"Modli: Node.js Data Modeling, Versioning and CRUD",http://node-modli.github.io/modli/,,1442213913.0
+4,10213899,comment,10213665.0,10213761.0,0,0,mozumder,,,"Twitter still has higher ad conversion rates.<p>Machine learning can only do so much.  Human editing will always win over machine algorithms, and Twitter users curate their follows.  Also, machine learning only improves conversion rates by 2x.  Meanwhile, I&",
+5,10213897,comment,10208792.0,10210116.0,0,0,cLeEOGPw,,,"> If you do play, you have a minuscule but nonzero chance of winning.<p>This is what I don&",
+6,10213896,comment,10213698.0,10213698.0,0,0,melling,,,"It sounds like when drugs are tested in a Phase 3 trial, people&",
+7,10213895,comment,10211153.0,10212695.0,0,0,masklinn,,,"> ES6 did get some new functions to correctly deal with surrogate pairs in strings. In then end, JS strings are just an sequence of 16 bit values<p>Which is exactly why they are not and can not be UTF-16.<p>> The default JavaScript behaviors is to be lenient.<p>The javascript behaviour is to have UCS2 &quot;strings&quot;.",1442213783.0
+8,10213894,comment,10213815.0,10213815.0,0,0,tfigment,,,"While waiting for part 2, I&",
+9,10213893,comment,10213070.0,10213430.0,0,0,roel_v,,,Technically you&,
+10,10213891,comment,10213617.0,10213860.0,0,0,RA_Fisher,,,"The difference are non-published values. Really wish we had raw surveys, but I do understand the ethical challenges BLS deals with.",1442213671.0
+11,10213890,comment,10213042.0,10213456.0,0,0,drdeca,,,"for malware hiding, you could avoid that by demanding that the programs contain mathematical proofs that they do not do a certain number of malicious things, or that they only do a particular non-malicious thing?",1442213666.0
+12,10213889,comment,10213665.0,10213761.0,0,0,shard972,,,> The level at which FB and Google can target us is staggering.<p>I&,
+13,10213888,comment,10212187.0,10212187.0,0,0,walterbell,,,"See also the &quot;Legacies of British Slave Ownership&quot; records database, <a href=""https://www.ucl.ac.uk/lbs/"" rel=""nofollow"">https://www.ucl.ac.uk/lbs/</a><p><i>&quot;At the core of the project is a database containing the identity of all slave-owners in the British Caribbean at the time slavery ended. As the project unfolded, we amassed, analysed and incorporated information about the activities, affiliations and legacies of all the British slave-owners on the database, building the Encyclopedia of British Slave-Owners, which has now been made available online.&quot;</i>",1442213593.0
+14,10213887,comment,10213313.0,10213468.0,0,0,eastdakota,,,"HTTP limitation going away very soon. At that point, China and the rest of the world will be managed from a single interface with a perfectly parity feature set.",1442213572.0
+15,10213886,comment,10213474.0,10213632.0,0,0,WWLink,,,"I agree, it would be nice if there was some kind of token handoff between web browser and app - and this would be the ideal way of handling it. I really, really dislike webviews in iOS apps because they&",
+16,10213885,comment,10213313.0,10213875.0,0,0,rdl,,,It was that I was expecting them to have different motivations or styles of working.  The &quot;conventional&quot; wisdom in the US is that Chinese companies don&,
+17,10213884,comment,10213313.0,10213859.0,0,0,enraged_camel,,,Isn&,
+18,10213883,story,,,131,8,snakeninny,iOS App Reverse Engineering,https://github.com/iosre/iOSAppReverseEngineering,,1442213509.0
+19,10213882,comment,10210327.0,10213406.0,0,0,pron,,,"Well, even if we accept Snyder&",
+20,10213881,story,,,6,0,tarkeshwar,Free Chat SDK for Android,https://www.chatimity.com,,1442213409.0
+21,10213880,comment,10212124.0,10213154.0,0,0,ubernostrum,,,The relativistic effects of just being a satellite in Earth orbit are enough that GPS has to correct for it.<p>Don&,
+22,10213879,comment,10213313.0,10213872.0,0,0,rdl,,,"~180 employees is in the startup range.  A lot of people say &quot;startup&quot; for anything pre-IPO.<p>It is borderline, I agree.  &quot;Internet infrastructure provider&quot;, &quot;Tech company&quot;, etc. would be just as accurate as &quot;startup&quot;",1442213390.0
+23,10213877,comment,10209957.0,10212378.0,0,0,pcrh,,,"Thanks, that was an interesting read!",1442213333.0
+24,10213876,comment,10212582.0,10212582.0,0,0,themckman,,,"I like to point people to the Linux kernel `git log`[1] when talking about the value of good commit messages.<p>[1]: <a href=""https://github.com/torvalds/linux/commits/master"" rel=""nofollow"">https://github.com/torvalds/linux/commits/master</a>",1442213324.0
+25,10213875,comment,10213313.0,10213346.0,0,0,eps,,,> <i>What amazed me was just how smart they were -- they were basically indistinguishable from the engineers I&,
+26,10213874,comment,10212622.0,10213305.0,0,0,yitchelle,,,"and police apologies later, and continue on their merry way.",1442213220.0
+27,10213873,comment,10212059.0,10213038.0,0,0,stdbrouw,,,"Psychology is about as far from philosophy as you can get. It relies almost exclusively on experimental evidence and rigorous operationalization of concepts. Similarly the medical sciences are having lots of trouble with nonreplicable research, and I don&",
+28,10213872,comment,10213313.0,10213313.0,0,0,simonjgreen,,,What defines CloudFlare as a startup? They are pretty established...,1442213099.0
+29,10213871,comment,10212132.0,10212529.0,0,0,boogdan,,,That was my first intention but I want to do something were I&,
+30,10213870,story,,,2,0,Sandvand,Programming Android with Kotlin,http://www.schibsted.pl/2015/09/programming-android-with-kotlin/,,1442213064.0
+31,10213869,story,,,45,9,phodo,The Story of Scrabble,http://www.bbc.com/culture/story/20150911-word-up-the-secret-story-of-scrabble,,1442213059.0
+32,10213868,comment,10212132.0,10212150.0,0,0,boogdan,,,I have a basic knowledge of iOS development using Swift so let me know.,1442213008.0
+33,10213867,story,,,18,22,jl87,Ask HN: Facebook clickjacking – is it detectable?,,"I went to scammy clickbait website the other day and afterwards noticed that I &quot;liked&quot; them on Facebook.<p>After doing some research I released that I had been clickjacked, which is when a website hides a certain button underneath another button so that when I click one thing, for example a play now button, I&",
+34,10213866,comment,10212629.0,10213533.0,0,0,InclinedPlane,,,"TDD and agile are both about 15 years old, and both built on well-established pre-existing development patterns. Github doesn&",
+35,10213865,comment,10211902.0,10212938.0,0,0,yummyfajitas,,,I don&,
+36,10213863,comment,10212594.0,10212594.0,0,0,qCOVET,,,Here is a great video of Scott Galloway (NYU Prof) on Angela&,
+37,10213862,comment,10212770.0,10212902.0,0,0,keithpeter,,,<i>&quot;The world doesn&,
+38,10213861,comment,10213353.0,10213736.0,0,0,stdbrouw,,,"People tend to use the terms &quot;consulting&quot;, &quot;freelancing&quot; and &quot;contracting&quot; almost interchangeably, though.",1442212376.0
+39,10213860,comment,10213617.0,10213720.0,0,0,belorn,,,I am noticing that the pulled list of occupations and the generated output differed in size. Why is that?<p>For example I would like to see the data for &quot;Automotive Body and Related Repairers&quot;.,1442212373.0
+40,10213859,comment,10213313.0,10213313.0,0,0,dang,,,This was flagkilled by users earlier. I&,
+41,10213858,comment,10212622.0,10213469.0,0,0,ryanlol,,,Sure there is. It&,
+42,10213857,story,,,93,129,ryan_j_naughton,Can Economic Growth Last?,http://physics.ucsd.edu/do-the-math/2011/07/can-economic-growth-last/,,1442212245.0
+43,10213856,story,,,1,0,herendin,Let’s all go to Mars,http://www.lrb.co.uk/v37/n17/john-lanchester/lets-all-go-to-mars?a,,1442212240.0
+44,10213855,comment,10211840.0,10212372.0,0,0,camel_gopher,,,"I had this exact same issue, and I was using a gmail address. This occurred multiple times for me.",1442212170.0
+45,10213854,comment,10212204.0,10212204.0,0,0,tbabb,,,"The experiment proposes to introduce a time delay between two paths of a coherent signal by distorting them with a gravitational field (i.e. that of Jupiter). The experimenters would then check for interference between the two signal paths to verify quantum behavior on the &quot;cosmic scale&quot;.<p>The &quot;traditional&quot; result would predict no interference, because the time delay means betrays &quot;which-path&quot; information.<p>But I don&",
+46,10213853,comment,10212622.0,10212622.0,0,0,ryanlol,,,"Cops should be facing significantly harsher sentencing for incidents like this than private citizens, they&",
+47,10213852,comment,10212496.0,10212513.0,0,0,falloutx,,,There is an app for that.,1442212138.0
+48,10213851,comment,10212582.0,10213275.0,0,0,ttctciyf,,,&quot;parse invoices better&quot; ;),1442212129.0
+49,10213850,comment,10213665.0,10213665.0,0,0,Kapura,,,I find it odd that somebody would spend half an article talking about how users consume Twitter as entertainment then claim that it&,
+50,10213849,story,,,1,0,ski91,You’ve Only Got One Shot at Building a Consumer Unicorn,http://techcrunch.com/2015/09/13/youve-only-got-one-shot-to-build-a-consumer-unicorn/,,1442212102.0
+51,10213848,comment,10212582.0,10213275.0,0,0,deadbeef404,,,I would reword &quot;Refactored invoice parser&quot; entirely as that message is about as useful as &quot;changed code&quot;.,1442211992.0
+52,10213847,comment,10212582.0,10213401.0,0,0,JoshTriplett,,,That&,
+53,10213846,story,,,1,0,bhaile,Physicists Achieve Perfect Acoustic Absorption,http://motherboard.vice.com/read/physicists-achieve-perfect-acoustic-absorbtion,,1442211960.0
+54,10213845,comment,10212582.0,10213069.0,0,0,icebraining,,,That&,
+55,10213844,comment,10213617.0,10213804.0,0,0,webXL,,,"So the theory is that women are concerned about their reputations, so they ask for less than their male counterparts. But with the people that a female candidate would be working with, only the hiring manager would (should) know. I think this has more to do with the rather recent changes of women in the workplace than women managing their reputation, but what do I know?<p>> You have it exactly backwards. In a competitive market, hiring managers have every incentive to negotiate workers to take lower salaries<p>I never stated anything to the contrary. You&",
+56,10213843,comment,10212770.0,10213331.0,0,0,nkurz,,,I&,
+57,10213842,story,,,1,0,janmayan,Getting Started with Sphinx Search,http://www.wonderousponder.com/getting-started-with-sphinx-search/,,1442211766.0
+58,10213841,comment,10212197.0,10212690.0,0,0,pronoiac,,,"From the Internet Archive, here&",
+59,10213840,comment,10212959.0,10213696.0,0,0,nanofortnight,,,6. As an intermediate/output language for a compiler.,1442211719.0
+60,10213839,comment,10211985.0,10213512.0,0,0,T2_t2,,,"That makes no sense. It is an unfree market, therefore there is no check or balance.",1442211640.0
+61,10213838,comment,10212197.0,10212197.0,0,0,TheGrassyKnoll,,,I&,
+62,10213837,comment,10213617.0,10213794.0,0,0,Kalium,,,"By failing to account for obvious and known confounds, the graph is rendered significantly less meaningful.<p>By way of analogy, one could look at rainfall averages over the whole of the US and conclude that some place is/is not in a drought. You could do this by ignoring the obvious confound that different places get different amounts of rainfall. For some places, it would be true. For others, not.",1442211542.0
+63,10213836,story,,,24,19,walterbell,Building Your Own Data Diode with Open Source Solutions,http://blog.cimation.com/blog/building-your-own-data-diode-with-open-source-solutions,,1442211538.0
+64,10213835,story,,,2,0,phodo,Curiosity Is as Important as Intelligence,https://hbr.org/2014/08/curiosity-is-as-important-as-intelligence/,,1442211522.0
+65,10213834,story,,,7,0,ot,Why Is a Raven Like a Writing Desk?,https://vimeo.com/139123754,,1442211515.0
+66,10213833,comment,10212770.0,10212825.0,0,0,zobzu,,,"the use of macro is a little scary thou and not exactly typical C stuff.\ninteresting to see where this will go.. also, the name is cool but XIV would fit the logo better than XVI ;)",1442211501.0
+67,10213832,comment,10211739.0,10211739.0,0,0,tim_sw,,,"Duplicate post of <a href=""https://news.ycombinator.com/item?id=10210520"" rel=""nofollow"">https://news.ycombinator.com/item?id=10210520</a>",1442211472.0
+68,10213830,comment,10213665.0,10213665.0,0,0,ivankirigin,,,"> where the developers go, the users will follow.<p>This doesn&",
+69,10213829,comment,10212770.0,10213627.0,0,0,Alphasite_,,,Its only the IPC layer...,1442211382.0
+70,10213828,story,,,1,0,arpitit18,StyleKncok- Startup for Beauty on-demand. want your feedback and suggestions,,"StyleKnock is an online multi beautician outlet at your doorstep. StyleKnock  is your very own private and direct beauty stylist, with one sole aspiration, to make you feel wonderful.<p>Got a flashy and swishy occasion to prepare for but can&",
+71,10213827,story,,,72,49,ryan_j_naughton,Google Brings in Chief for Self-Driving Cars,http://www.wsj.com/articles/google-brings-in-chief-for-self-driving-cars-1442199840,,1442211307.0
+72,10213826,comment,10213042.0,10213206.0,0,0,Animats,,,"The last time I saw this, the idea was to fully unwind a program into a huge, very deep, loop-free network of logic gates.  After that, it was possible to create an larger network which produced the same outputs for the same inputs, but with internal structure obfuscated in a way that was theoretically difficult to undo.  This was a interesting concept, but didn&",
+73,10213825,story,,,4,0,ravengold,ToolBox: Useful Tools for Web Designers and SEOs,http://www.portableentrepreneur.com/toolbox/,,1442211156.0
+74,10213824,comment,10213353.0,10213353.0,0,0,sbrother,,,"This can actually be one of the most lucrative and stable sources of revenue for a small software consultancy. At the &quot;end&quot; of a successful project, I usually pitch a retainer agreement to the client. There are lots of variations on the terms, but I&",
+75,10213823,comment,10211985.0,10213809.0,0,0,nevdka,,,"As an Australian currently paying off his education, this isn&",
+76,10213822,story,,,66,68,ingve,Joint Allocations in C++,https://turingtester.wordpress.com/2015/09/13/joint-allocations-in-c/,,1442211099.0
+77,10213821,comment,10200724.0,10200724.0,0,0,jister,,,In ASP.Net we call this user controls. We have this for like 15 years already.,1442211049.0
+78,10213820,comment,10213617.0,10213818.0,0,0,Kalium,,,"I believe azth was attempting to communicate that as processed and presented, this visualization can serve only to mislead. That it does not offer an accurate - and thus useful - amount of insight because it fails to account for a number of factors known to be significant.",1442210896.0
+79,10213819,story,,,1,0,phodo,"Time is money, so SOLD will wait in line for you",http://www.cnbc.com/2015/09/13/time-is-money-so-sold-will-wait-in-line-for-you.html,,1442210743.0
+80,10213818,comment,10213617.0,10213748.0,0,0,zorpner,,,I was under the impression that they were pointing out the mechanisms responsible for the evident pay gap.  What do you think they were attempting to communicate?,1442210692.0
+81,10213817,comment,10212065.0,10212065.0,0,0,dvdkhlng,,,"Japan has a surprisingly ambitious space exploration program, much of which seems to go completely unnoticed by the west.  At about 2e9 $/year (about 1/10 of the founding NASA gets) they&",
+82,10213815,story,,,116,19,dthakur,Tracking a Bluetooth Skimmer Gang in Mexico (Part I),http://krebsonsecurity.com/2015/09/tracking-a-bluetooth-skimmer-gang-in-mexico/,,1442210673.0
+83,10213814,comment,10207866.0,10208921.0,0,0,horme,,,"<a href=""https://en.wikipedia.org/wiki/Shakti_%28band%29"" rel=""nofollow"">https://en.wikipedia.org/wiki/Shakti_%28band%29</a> is a great band and has some awesome musical pieces. What I find amazing about Carnatic music is how it compliments jazz pieces.",1442210628.0
+84,10213813,comment,10213656.0,10213656.0,0,0,maxpleaner,,,No,1442210602.0
+85,10213812,comment,10213617.0,10213617.0,0,0,tomgg,,,Does this ``gap&quot; reduce as the employees considered get younger?---the data source doesn&,
+86,10213811,comment,10213353.0,10213353.0,0,0,buffoon,,,I always run a per incident charge for defects (outside a 6 month approval window) and requote for features. Per incident charge is relatively high to dissuade people from filing lots of trivial things and actually QA it in the approval window.<p>I have run projects where there are no defects reported however so YMMV.,1442210510.0
+87,10213810,comment,10211985.0,10213523.0,0,0,rawnlq,,,"Yep, of course. Looking at SJSU&",
+88,10213809,comment,10211985.0,10212349.0,0,0,tajen,,,"The answer is in Australia.<p>For their studies, they borrow from the state. Then they pay their debt through 50% income taxes, limited to 7 years. If they get a bartender job with their engineering degree, they can still survive. Therefore studies are not free, they still have the responsibility of choosing right, they&",

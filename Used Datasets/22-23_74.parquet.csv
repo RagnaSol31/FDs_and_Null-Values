@@ -1,0 +1,131 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7863377,comment,7862726.0,7863336.0,4,0,e12e,,,I&,
+1,7863376,comment,7862589.0,7863033.0,1,0,wut42,,,"I think drdaeman meant _certificates_ and not _servers_. One certificate can be used on multiple servers, but you can&",
+2,7863375,comment,7861985.0,7861985.0,1,0,SofiaBerlin,,,"Here is a combination of social news and cryptocurrencies I did with Telescope last autumn: <a href=""http://bloqchan.com/"" rel=""nofollow"">http://bloqchan.com/</a><p>It is democracy for capitalists - you vote with your money!<p>We are searching for somebody who would like to help us with developing and marketing (also rebranding and designing).<p>Next step is to integrate it with our Dogecoin browser wallet and make one-click sharing (while browsing) possible together with the already existing &",
+3,7863374,comment,7862726.0,7863030.0,3,0,pcwalton,,,"Note that this is simply following the successful model of Opus: <a href=""http://www.opus-codec.org/license/"" rel=""nofollow"">http://www.opus-codec.org/license/</a>",1402181823.0
+4,7863373,comment,7862973.0,7862973.0,2,0,willismichael,,,If I were a Mac user I could really get behind this if only for the fact that it means support for any language that can compile to Javascript (particularly Clojure),1402181812.0
+5,7863372,comment,7862973.0,7863173.0,2,0,meowface,,,I never understood the cutesy naming schemes. What&,
+6,7863371,comment,7863310.0,7863310.0,5,0,michaelmior,,,"Looks awesome! Not sure I love the colour scheme, but overall a huge improvement. Unfortunately I&",
+7,7863370,comment,7862447.0,7862447.0,3,0,erickt,,,If anyone is interested in a meetup about Rust&,
+8,7863369,comment,7862378.0,7863338.0,1,0,karmelapple,,,"Do you believe Catholic churches (or monasteries/convents) outside of Italy / Vatican City, mosques outside of Saudi Arabia, and temples outside of Israel are also novelties?",1402181675.0
+9,7863368,comment,7862447.0,7863314.0,11,0,pcwalton,,,The AAA game developers we&,
+10,7863367,comment,7862973.0,7863341.0,1,0,Glide,,,I think you were being downvoted because some people (myself included) roll their eyes when they hear about Javascript yet again. It goes double when there is a good language already out there (I accept Objective C with its warts. Swift actually has me excited to make something).<p>It actually kind of cool. And the Temperature Converter example showed a lot of the dynamic nature of the objective C runtime. This one presentation actually piqued my interest in looking at os x scripting.,1402181637.0
+11,7863366,comment,7862973.0,7863053.0,4,0,Camillo,,,"HyperTalk was surprisingly ok, though.",1402181582.0
+12,7863365,comment,7862447.0,7863307.0,7,0,pcwalton,,,"It is somewhat supported at the moment, but it&",
+13,7863364,comment,7863129.0,7863266.0,1,0,stopachka,,,"Interesting point rhizome -- I guess it can be looked at that way, but the problem is that at the initial stage, we want to the companies more then they want us.<p>Then the question becomes, just because other people are dropping the ball, does that mean you&",
+14,7863363,comment,7860953.0,7860953.0,1,0,chris123,,,Now we need a &quot;P2P Taxi Meter&quot; for drivers and a &quot;Kayak for P2P Rides&quot; for passengers.,1402181523.0
+15,7863362,comment,7863340.0,7863340.0,3,0,pseingatl,,,Woefully inadequate. Mohammad doesn&,
+16,7863361,comment,7862973.0,7863063.0,14,0,Camillo,,,You&,
+17,7863360,comment,7863279.0,7863279.0,1,0,threeseed,,,If you like MongoDB then MongoLab or MongoHQ.<p>If you like CouchDB then Cloudant.<p>If you want realtime then Firebase.<p>All are very reasonably priced.,1402181496.0
+18,7863359,comment,7863129.0,7863247.0,1,0,stopachka,,,"Hiya person lurking :).<p>Other then going into the details of the contents of what I wrote, I can&",
+19,7863358,comment,7862388.0,7862554.0,1,0,auvrw,,,"except the hurd runs on mach... i read a bunch of the hurd documentation a couple of years ago, including the paper by the people who tried porting it to L4.<p>i also tried installing the debian port on an old desktop but had some driver issues. i guess most people run it in a hypervisor.<p>there are a lot of architectural advantages to putting <i>all</i> drivers in user space.  the hurd isn&",
+20,7863357,story,,,10,19,willstudies,Libertarians/conservatives launch hackathon,http://lincolnlabs.com/conferences/reboot/hackathon/,,1402181461.0
+21,7863356,comment,7862668.0,7863044.0,1,0,karmelapple,,,I am shocked and bummed about that.  What trackball is available that is operated with pointer / middle finger rather than tiring out one&,
+22,7863355,comment,7862456.0,7863003.0,2,0,baddox,,,"That was my MO throughout high school and college. I watched countless students buried in a laptop or (paper) notebook furiously trying to keep up and undoubtedly not even processing phrases or sentences. Of the people I talked to, most were convinced that it&",
+23,7863354,story,,,1,0,finkin1,Agora’s Lets You Compare Products When You Buy Items Online [Chrome],http://www.addictivetips.com/web/agoras-lets-you-compare-products-when-you-buy-items-online-chrome/,,1402181396.0
+24,7863353,comment,7857457.0,7857862.0,1,0,Someone,,,"Whether it would float would depend on the equilibrium that the ecosystem gets in. For example, carbon dioxide is heavier than air, so if the ecosystem has lots of it, a balloon would have to expand quite a bit to compensate for that before it floats. And of course, any balloon must overcome its own weight before getting airborne.",1402181395.0
+25,7863352,comment,7862456.0,7862456.0,10,0,x0054,,,"Being a lazy person by nature, at least when it comes to things I do not care about, I always took outline style notes on a computer. I think the key to note taking is not necessarily the implement you use but rather how you take the notes. I found that any word processor that allows you to build a bullet list works just fine.<p>That being said, I can not tell you how many of my Law School classmates literally transcribed the entire lecture. Sometimes it was kind of nice though, because if I miss a class, I could borrow the notes from someone, read them, and take my notes based on that. I always tried to limit my notes to one typed page per hour (10 pint).<p>As a side hint, to any one who might be in school right now. I used to scan all of my books at the beginning of the semester into my computer. I had a little book scanner, and it would take about 1-1.5 hours per book, I would watch TV or listen to an audiobook while scanning. That way you don&",
+26,7863351,comment,7863324.0,7863324.0,8,0,falsestprophet,,,"This is a solved problem.<p><a href=""http://en.wikipedia.org/wiki/Tanning_bed"" rel=""nofollow"">http://en.wikipedia.org/wiki/Tanning_bed</a>\n<a href=""http://en.wikipedia.org/wiki/Sun"" rel=""nofollow"">http://en.wikipedia.org/wiki/Sun</a>",1402181266.0
+27,7863350,comment,7862492.0,7862492.0,1,0,orjan,,,"The Guardian had a feature on this a couple of days ago: <a href=""http://www.theguardian.com/culture/2014/jun/02/how-we-made-tetris"" rel=""nofollow"">http://www.theguardian.com/culture/2014/jun/02/how-we-made-t...</a>",1402181266.0
+28,7863349,story,,,1,0,nickbauman,France Building Advanced Warships for Russia,https://news.vice.com/article/why-france-is-building-warships-for-russia,,1402181260.0
+29,7863348,story,,,3,0,georgedrummond,The Monty Hall Problem in Ruby,http://georgedrummond.com/monty-hall-problem-in-ruby/,,1402181239.0
+30,7863345,comment,7863324.0,7863324.0,4,0,Skywing,,,What about the weekends? It only take an hour to two to get some darker skin. It&,
+31,7863344,comment,7862540.0,7862540.0,1,0,Mz,,,&quot;Forgiveness is a gift. Trust is earned.&quot;<p>The opening paragraph strikes me as just nuts. You don&,
+32,7863343,comment,7862726.0,7862966.0,2,0,astrange,,,"Well, being DCT-based isn&",
+33,7863342,comment,7862726.0,7863030.0,1,0,sitkack,,,I wish we could easily get anti-patent patents.,1402180922.0
+34,7863341,comment,7862973.0,7863137.0,1,0,matthewmacleod,,,"Yeah, I suspect I was a bit unclear there!<p>I&",
+35,7863340,story,,,8,1,e12e,Wikipedia Mining Reveals The Most Influential People In 3500 Years Of History,https://medium.com/the-physics-arxiv-blog/wikipedia-mining-algorithm-reveals-the-most-influential-people-in-35-centuries-of-human-history-ede5ef827b76,,1402180869.0
+36,7863339,comment,7862973.0,7863137.0,1,0,philmcc,,,After a quick search I couldn&,
+37,7863338,comment,7862378.0,7862852.0,1,0,coldtea,,,I&,
+38,7863337,story,,,3,0,transmute,Captchas vs. Spambots: Why the Slider Captcha Wins,http://uxmovement.com/forms/captchas-vs-spambots-why-the-slider-captcha-wins/,,1402180817.0
+39,7863336,comment,7862726.0,7862726.0,6,0,sitkack,,,Xiph needs to start a public prototyping playground that extends unpatented video and image codec research to create islands of techniques that are not patentable. They don&,
+40,7863335,story,,,5,0,bdcravens,Miami Cops Are Running A Sting To Catch Lyft Drivers,http://www.businessinsider.com/miami-cops-are-running-a-sting-to-catch-lyft-drivers-2014-6,,1402180811.0
+41,7863334,comment,7863081.0,7863258.0,6,0,meddlepal,,,This has always been a problem with Groovy; terrible communication from the core language developers. It&,
+42,7863333,comment,7861995.0,7863269.0,6,0,lcrs,,,e2 is fairly deranged.  It&,
+43,7863332,comment,7860785.0,7861302.0,2,0,dnautics,,,The rating inflation could be lyft&,
+44,7863331,comment,7862726.0,7863282.0,2,0,astrange,,,"> They have never been involved with open standards and respectively pushed WMV and MOV formats instead.<p>The MPEG-4 file format is .mov, and MPEG-4 onwards are open standards.",1402180768.0
+45,7863330,comment,7862668.0,7862758.0,1,0,mturmon,,,Little gag replies are risky here.  Potty humor like what you&,
+46,7863328,comment,7861995.0,7863269.0,2,0,tesseract,,,Those are traditional at E2 - a quirk of that particular community. I don&,
+47,7863327,comment,7862456.0,7862456.0,3,0,kenjackson,,,They should try with a Surface Pro device.  I wonder if handwriting notes on a tablet is any different.,1402180655.0
+48,7863326,comment,7862881.0,7862881.0,4,0,fragsworth,,,There is nothing about &quot;how&quot; to make clouds here. Just a bunch of promotional artsy mumbo-jumbo. Nothing about &quot;how&quot;.,1402180633.0
+49,7863325,comment,7860015.0,7860876.0,2,0,BruceIV,,,"Different people process information differently; for me seeing an abstract diagram of say, a B-Tree, would be more useful than a pseudo-code overview of the structure (at least first - the code might be useful once I had an grasp of the idea from the diagram). That&",
+50,7863324,story,,,6,9,basdevries,Ask HN: how to get a tan as a developer?,,The question is pretty straightforward: I&,
+51,7863323,comment,7858296.0,7861915.0,1,0,weiyin,,,"Thanks for the feedback, and I&",
+52,7863322,comment,7862589.0,7863086.0,6,0,pacificmint,,,No they wouldn&,
+53,7863321,comment,7862973.0,7863228.0,1,0,pjbrunet,,,"<a href=""http://devstreaming.apple.com/videos/wwdc/2014/306xxjtg7uz13v0/306/306_hd_javascript_for_automation.mov?dl=1"" rel=""nofollow"">http://devstreaming.apple.com/videos/wwdc/2014/306xxjtg7uz13...</a>",1402180423.0
+54,7863320,comment,7862589.0,7863203.0,2,0,dm2,,,The private key could have been stolen any time during that the heartbleed vulnerability has been present on the server (~2 years).<p>This would allow for a MITM attack which would obtain user credentials and unauthorized access to a server.<p>Since the attack isn&,
+55,7863319,comment,7862973.0,7863211.0,1,0,iso8859-1,,,Why are there no production-quality implementations of the newest standard then?,1402180273.0
+56,7863318,comment,7862577.0,7863254.0,1,0,anigbrowl,,,I&,
+57,7863317,comment,7862973.0,7863078.0,2,0,pygy_,,,"jQuery is a DOM manipulation library, it is not useful to script OS X apps.<p>...unless one of them exposes a HTML DOM to the scripting layer, now that I think of it.",1402180237.0
+58,7863316,comment,7862388.0,7862849.0,2,0,ChuckMcM,,,"You are correct 5 contexts, four transitions.",1402180227.0
+59,7863315,comment,7860040.0,7861542.0,2,0,BruceIV,,,Fair; StackExchange might not be the best model. I&,
+60,7863314,comment,7862447.0,7862845.0,5,0,teamonkey,,,Genuinely curious: what makes it especially appropriate for gamedev?,1402180018.0
+61,7863312,comment,7863129.0,7863129.0,1,0,Mz,,,"Excerpt:<p><i>So, I decided to create an email marketing campaign. My promotion? “Get a one-week free trial of Lauren.”<p>And the result? I landed 15 job interviews—for less than 30 minutes of work. And within days, I had gone from unpaid intern to paid marketing director.</i><p>I am posting this because &quot;for less than 30 minutes of work&quot; is not how I interpreted the meaning of the headline &quot;...in 30 minutes.&quot;  It doesn&",
+62,7863311,comment,7862589.0,7863239.0,2,0,jwgur,,,More like they don&,
+63,7863310,story,,,46,52,sygma,Das Referenz: Wikipedia Redesigned for iPad,https://medium.com/@raureif/65af999b576d,,1402179930.0
+64,7863308,comment,7853603.0,7855243.0,1,0,bm1362,,,Over subscription is what drives economies of scale in IaaS and PaaS. It allows companies to drive down prices and increase performance for the p99 customers.,1402179848.0
+65,7863307,comment,7862447.0,7862684.0,1,0,_random_,,,Reflection is not possible in Rust?,1402179832.0
+66,7863306,comment,7863129.0,7863266.0,1,0,dreamfactory2,,,"There are millions of balls, a few manage to get through. Nobody is going to go around actively catching them.",1402179832.0
+67,7863304,comment,7863129.0,7863129.0,1,0,jasonlfunk,,,The title is slightly misleading. It should read &quot;How I landed 15 interviews in 30 minutes of work&quot;. She says that the actual process of being offered interviews took a few days.<p>I don&,
+68,7863303,story,,,159,123,kenjackson,Patent troll on the verge of winning 1% of iPhone revenue,http://arstechnica.com/tech-policy/2014/06/apples-last-ditch-effort-to-dodge-a-368m-patent-verdict-has-backfired/,,1402179684.0
+69,7863302,comment,7862577.0,7863213.0,2,0,anigbrowl,,,I feel the same way (that these are very complex issues in which the appropriate balance is best determined by the courts). I&,
+70,7863301,comment,7862589.0,7862677.0,2,0,simonbrown,,,Neither is this.,1402179680.0
+71,7863300,comment,7852288.0,7852288.0,1,0,yorix,,,It&,
+72,7863299,comment,7862668.0,7862962.0,3,0,hcarvalhoalves,,,This is strange. The Macbook Pro is anodized aluminum - shouldn&,
+73,7863298,comment,7862787.0,7862787.0,19,0,spilk,,,"The article says that Apple &quot;has the jump&quot; on Google when it comes to indoor maps, but Google already has indoor maps in a lot of places. What gives?",1402179557.0
+74,7863297,comment,7862881.0,7862881.0,2,0,slm_HN,,,Indoor clouds?! This is cirrious business.,1402179549.0
+75,7863296,comment,7862589.0,7863086.0,3,0,simonbrown,,,It&,
+76,7863295,comment,7862668.0,7862937.0,2,0,Angostura,,,But it isn&,
+77,7863294,comment,7862577.0,7862577.0,1,0,Hello71,,,"so... the government can force carpathia to spend thousands of dollars a day, but can&",
+78,7863293,comment,7863129.0,7863261.0,1,0,tdicola,,,Were they really cold emails?  Sounds like it was a network of acquaintances and folks the author already had personal or professional contact with before.,1402179521.0
+79,7863292,comment,7862487.0,7862487.0,1,0,argonaut,,,You could go for a 2 year master&,
+80,7863291,comment,7862388.0,7863159.0,3,0,Rusky,,,"The vast majority of information available right now is in their videos: <a href=""http://millcomputing.com/docs/"" rel=""nofollow"">http://millcomputing.com/docs/</a><p>Their forum has some good responses from the team on follow up questions asked by the community as well.",1402179451.0
+81,7863290,comment,7862456.0,7862456.0,2,0,sliverstorm,,,"FWIW, in the business environment, I find the people who are the most connected and seem to know everything are the ones who do a good job of taking notes with a computer.<p>It&",
+82,7863289,comment,7863129.0,7863255.0,3,0,jiggy2011,,,It&,
+83,7863288,comment,7863237.0,7863237.0,1,0,Mz,,,Excerpt:\n<i>Then there&,
+84,7863287,story,,,1,0,abhinayashutosh,Thoughts and sneak peak at iOS 8,http://www.abhinayashutosh.com/2014/06/07/ios-8-first-thoughts/,,1402179323.0
+85,7863286,story,,,5,0,sizzle,"We “will be paying no ransom,” vows town hit by Cryptowall ransom malware ",http://arstechnica.com/security/2014/06/we-will-be-paying-no-ransom-vows-town-hit-by-cryptowall-ransom-malware/,,1402179301.0
+86,7863285,comment,7862668.0,7862738.0,5,0,Angostura,,,"If you <i>ever</i> game on your Mac, you soon find out that it is impossible to right click without raising your left click finger first.<p>I&",
+87,7863284,comment,7862456.0,7863003.0,3,0,sliverstorm,,,"Class is for understanding; notes are for recording the class, so that the understanding can be revitalized at a later date.<p>In other words, notes are your tool to have access to those critical moments of understanding again, later. I don&",
+88,7863283,comment,7863129.0,7863129.0,5,0,gedrap,,,Don&,
+89,7863282,comment,7862726.0,7862875.0,2,0,zanny,,,The thing is MS and Apple won&,
+90,7863281,comment,7862456.0,7863144.0,4,0,kaitai,,,"This was much of math grad school for me. I have a remarkable ability: I can write down exactly what people said and process absolutely nothing, in beautiful cursive. Or I can listen.<p>Now that I know my subject much better, I can take notes & really get something out of it, because I can process the material at the same time.",1402179254.0
+91,7863280,comment,7863129.0,7863129.0,1,0,maxk42,,,&quot;How to piss off half your business contacts in 30 minutes.&quot;,1402179228.0
+92,7863279,story,,,6,6,econic,Ask HN: What is a good db as a service?,,I am working on a SaaS that requires some sort of database (sql/nosql) to store data. It will be write heavy. I usually host my own databases however I want to use my time more for working on the code and less worrying about the database server. Anyone have any suggestions? price is a factor initially also.,1402179212.0
+93,7863278,comment,7862456.0,7863260.0,4,0,leviathan,,,"I did that once back at university. It was also a linear algebra course. Of course, at that time there was no cellphones that took pictures, and I happened to be carrying a bulky camera with me.",1402179208.0
+94,7863277,comment,7862870.0,7862870.0,6,0,mocko,,,"I call BS on this.  No sources and burying all that engine oil and diesel would contravene a mountain of regulations.<p><a href=""http://m.huffpost.com/uk/entry/5459717"" rel=""nofollow"">http://m.huffpost.com/uk/entry/5459717</a>",1402179200.0
+95,7863276,comment,7862973.0,7863228.0,1,0,basil,,,306 - JavaScript for Automation,1402179153.0
+96,7863275,comment,7863129.0,7863234.0,0,0,danilocampos,,,Classic HN.<p>&quot;I&,
+97,7863274,comment,7862973.0,7863138.0,14,0,JohnBooty,,,SQL is fantastic for relational data - it maps pretty closely to relational algebra.<p>About all I&,
+98,7863273,comment,7863129.0,7863255.0,1,0,ameister14,,,It&,
+99,7863272,comment,7863129.0,7863129.0,3,0,Spendar89,,,"I think this is a decent strategy for an aspiring marketer, since it shows off actual marketing skills.<p>For a software dev, however, not so much.  I think it could come off as insincere and/or spammy.<p>If I&",
+100,7863271,story,,,1,0,grahamel,You might not not need jQuery,http://youmightnotnotneedjquery.com/,,1402179053.0
+101,7863270,comment,7863129.0,7863255.0,1,0,lauren2802,,,"<a href=""http://wadefoster.net/post/42802176600/full-stack-marketing"" rel=""nofollow"">http://wadefoster.net/post/42802176600/full-stack-marketing</a><p><a href=""https://medium.com/on-startups/rise-of-the-full-stack-marketer-1308a8f17137"" rel=""nofollow"">https://medium.com/on-startups/rise-of-the-full-stack-market...</a>",1402179026.0
+102,7863269,comment,7861995.0,7862639.0,3,0,ogig,,,I didn&,
+103,7863268,comment,7862455.0,7862455.0,2,0,glimcat,,,"I do a lot of random reading, often via searching for a conference (SIGCHI, UIST, etc.) rather than a topic. If you can find a full proceedings list with titles to skim over, it can give you an interesting view year-to-year.<p>But speaking to the problem of intuition and seat-of-pants methodology:<p>Reading research publications is often a habit of successful professionals, but it really doesn&",
+104,7863267,story,,,3,0,rmason,Pork Chop: The easiest way to tweet up a storm,http://scripting.com/2014/06/06/theEasiestWayToTweetAStorm.html,,1402178902.0
+105,7863266,comment,7863129.0,7863210.0,1,0,rhizome,,,"Huh, so to me that reads as a list of companies who drop the ball.",1402178899.0
+106,7863265,comment,7858276.0,7861823.0,1,0,the_af,,,"> On the other hand, there are correct programs which we still don&",
+107,7863264,story,,,60,29,chippy,"Could This App Create A Free, Secret Web?",http://www.forbes.com/sites/parmyolson/2014/06/05/could-this-app-create-a-free-secret-web/,,1402178856.0
+108,7863263,comment,7860308.0,7861296.0,2,0,sitkack,,,"Thanks I had forgotten the term. <a href=""http://openeeg.sourceforge.net/doc/links-biopsy.html",
+109,7863262,comment,7863129.0,7863129.0,2,0,pan69,,,What is this? The web version of an infomercial?,1402178853.0
+110,7863260,comment,7862456.0,7863144.0,1,0,personlurking,,,"For these cases, it&",
+111,7863259,comment,7863129.0,7863255.0,1,0,rhizome,,,Probably describes a person who can produce in print and on Twitter.,1402178821.0
+112,7863258,comment,7863081.0,7863081.0,7,0,vorg,,,It&,
+113,7863257,comment,7861874.0,7862653.0,1,0,ulfw,,,You respect him for noticing this only now?,1402178794.0
+114,7863256,story,,,2,0,flym4n,The spikes.,http://imsorrythatimlikethis.wordpress.com/2014/06/07/the-spikes/,,1402178781.0
+115,7863255,comment,7863129.0,7863129.0,1,0,jliechti1,,,<i>Lauren Holliday is a full-stack marketer and journalist with a marketing mindset. She has written for publications across Florida and blogs across the U.S. Email Lauren at lah@freelanship.com.</i><p>Two weeks ago I saw a post about <i>Full Stack Startups</i>. Is full-stack marketer another new term? What distinguishes a marketer from a full stack marketer? (I&,
+116,7863254,comment,7862577.0,7863213.0,2,0,kordless,,,What we need is the Transparency Amendment.  After X many months (not years) information the PEOPLE&,
+117,7863253,comment,7857418.0,7861069.0,3,0,ScottBurson,,,Point conceded.  Perhaps I will use Crane for my next app.,1402178698.0
+118,7863252,comment,7862487.0,7862487.0,1,0,S4M,,,How about trying to contact alumni from your University who are now in the Silicon Valley?,1402178697.0
+119,7863251,comment,7863129.0,7863234.0,3,0,lauren2802,,,"Actually, the majority were personal email addresses I had taken from LinkedIn and Gmail. The ones which were opened a lot were from personal email addresses.",1402178685.0
+120,7863250,comment,7861942.0,7862415.0,5,0,hcarvalhoalves,,,> (given the rapid rate at which server apps are starting to migrate from Python to Go).<p>Do you have data for this claim or is it a hunch? I&,
+121,7863249,comment,7863129.0,7863153.0,1,0,aleksandrm,,,"Completely agree, and I think it might turn more off than on. For example, she states that she would now write the subject line as: &quot;Learn how I increased X for company Y&quot;. To me it seems like a very spammy subject line, that has nothing to do with the intention of the writer trying to be hired.",1402178631.0
+122,7863248,comment,7857418.0,7861670.0,1,0,ScottBurson,,,CLSQL does the escaping itself.  The question is whether a library that does prepared statements is reasonably expected to be safer than one that does escaping.<p>I haven&,
+123,7863247,comment,7863129.0,7863210.0,1,0,personlurking,,,"&quot;Every single company I followed up with that relentlessly replied, and replied positively.&quot;<p>Any chance you could state this in another way? I felt like you were about to say something then put a period. Thx",1402178628.0
+124,7863246,story,,,1,0,talles,My Hacker News front page day,http://blog.talles.me/my-hacker-news-front-page-day.html,,1402178550.0
+125,7863245,story,,,5,0,sizzle,Do We Really Need to Learn to Code? ,http://newyorker.com/online/blogs/elements/2014/06/do-we-really-need-to-learn-to-code.html,,1402178489.0
+126,7863244,story,,,1,0,audace,Ask HN: Why isn't there much documentation of GMail Contextual Gadgets?,,"Interested in building rapportive-like javascript gadgets, but cannot find many resources on how to do so outside of Google&",
+127,7863243,comment,7861942.0,7862764.0,0,0,coldtea,,,"I think you missed his whole point. Whoosh.<p>His point was about using Java instead of Python. It was that at best, a perfect parallel CPython can yield a N times more performant program (where N = number of cores). And that&",
+128,7863242,comment,7862578.0,7863156.0,1,0,prat0318,,,Agreed. I think even the raw markdown output version is really human readable and can be used for text boxes.,1402178427.0
+129,7863241,comment,7862388.0,7862388.0,8,0,hcarvalhoalves,,,"With hardware support for virtualization I see the OS landscape going a different direction, it seems the Holy Grail of &quot;everything is userspace&quot; will be effectively side-stepped by &quot;everything is sandboxed&quot;.",1402178414.0

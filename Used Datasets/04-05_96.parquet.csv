@@ -1,0 +1,94 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8381747,comment,8381083.0,8381083.0,4,0,matm,,,(Disclaimer: I&,
+1,8381746,comment,8381493.0,8381493.0,19,0,Taek,,,"I think the thing that frustrates me the most about all of this is not the privacy, but the fact that Facebook gets exclusive access to data that I think is rightfully public knowledge. I&",
+2,8381745,story,,,2,0,neilunadkat12,The Google Formula for Success,http://bits.blogs.nytimes.com/2014/09/28/the-google-formula-for-success/?rref=technology&module=ArrowsNav&contentCollection=Technology&action=click&region=FixedRight&pgtype=article,,1411966772.0
+3,8381744,story,,,3,1,s4sharpie,When will alien life be proven?,http://www.paddypower.com/bet/novelty-betting/novelty-bets/alien-existence?ev_oc_grp_ids=512035,,1411966710.0
+4,8381743,comment,8380110.0,8380110.0,5,0,Totient,,,Hmm... I kind of want to figure out a way to make CAPTCHA-coin work now. Cryptocurrency mining for the people!<p>I just can&,
+5,8381741,comment,8380288.0,8381031.0,0,0,e12e,,,"In the context of the NT kernel, I supoose ReactOS.org might warrant a look (I don&",
+6,8381740,story,,,1,0,nvk,OccupyCentral,https://twitter.com/search?f=realtime&q=%23OccupyCentral,,1411966555.0
+7,8381739,comment,8380781.0,8381211.0,1,0,kyllo,,,"<i>I really wish this was less of a puff-piece for the &quot;City of the Future&quot; Songdo (TM)</i><p>Speaking of that, nearly every city in Korea has an official marketing slogan in English:<p><a href=""http://waegukin.com/english-slogans-korean-cities-the-complete-list.html"" rel=""nofollow"">http://waegukin.com/english-slogans-korean-cities-the-comple...</a>",1411966476.0
+8,8381738,comment,8380781.0,8381211.0,1,0,yongjik,,,> If it&,
+9,8381737,story,,,2,0,ryan_j_naughton,World’s Best Restaurant: A Data Analysis,http://fivethirtyeight.com/features/even-the-head-chef-of-the-worlds-best-restaurant-doubts-theres-a-worlds-best-restaurant/,,1411966262.0
+10,8381736,comment,8366745.0,8367170.0,2,0,jgrahamc,,,"Follow up: we enabled basic Shellshock protection for everyone.<p><a href=""https://blog.cloudflare.com/shellshock-protection-enabled-for-all-customers/"" rel=""nofollow"">https://blog.cloudflare.com/shellshock-protection-enabled-fo...</a>",1411966193.0
+11,8381735,comment,8376795.0,8379327.0,1,0,yetanotherHNacc,,,"Well dang, that is a very good clue.",1411966183.0
+12,8381734,comment,8380105.0,8380670.0,2,0,blergh123,,,What is SAM synthesis?,1411966165.0
+13,8381733,story,,,29,8,ghosh,Can you out-race a computer?,http://newsoffice.mit.edu/2014/deep-learning-algorithm-can-outperform-humans-weighing-neighborhoods-0924,,
+14,8381732,story,,,22,4,jgrahamc,Shellshock protection enabled for all customers,https://blog.cloudflare.com/shellshock-protection-enabled-for-all-customers/,,1411966110.0
+15,8381731,comment,8381458.0,8381458.0,4,0,dcope,,,"I got bit by this over this weekend, too. I received the initial email September 27 @ 1:35 AM local time. I called Rackspace to see if they would be sending out emails prior to each VPS being rebooted 30 minutes or so before just as a heads up for human monitoring purposes. The representative told me that it &quot;was not feasible&quot; for them to do that for every VPS. Instead... I&",
+16,8381730,comment,8380110.0,8380696.0,4,0,jonknee,,,What do you think happens when enormous sums of money are handed out to fairly young mostly male people?,1411966093.0
+17,8381729,comment,8380105.0,8381124.0,2,0,pjmlp,,,Only when you forget about:<p>- tail call optimization<p>- AOT compilation as part of the standard toolchain. No need to rely on third party vendors<p>- value types<p>- reifeid generics<p>- painless FFI with external code<p>EDIT: - Forgot about direct control over SIMD instructions.<p>All of those issues are being discussed for Java 9+ and have corresponding projects at OpenJDK.,1411966082.0
+18,8381728,story,,,2,0,namuol,Show HN: “bm” – Use Bitmasks of Arbitrary Depth in JavaScript Without Thinking,https://github.com/gitsubio/bm,,1411966045.0
+19,8381727,comment,8376064.0,8380695.0,1,0,chaostheory,,,"Cassandra is easier to scale than mongo, and yeah Riak is even easier, but they&",
+20,8381726,comment,8380105.0,8380105.0,2,0,EdwardDiego,,,Can someone please define for me what exactly &,
+21,8381725,comment,8381493.0,8381710.0,3,0,falsestprophet,,,"Ad networks have cookies on the travel sites you visited<p><a href=""http://en.wikipedia.org/wiki/Behavioral_retargeting"" rel=""nofollow"">http://en.wikipedia.org/wiki/Behavioral_retargeting</a>",1411965844.0
+22,8381724,story,,,81,49,signa11,Template Metaprogramming with Modern C++: templates in depth,http://blog.biicode.com/template-metaprogramming-cpp-ii/,,1411965780.0
+23,8381723,comment,8374345.0,8374997.0,1,0,EpicEng,,,"You have clearly never worked on a large, non-OO code base designed by competent engineers.",1411965777.0
+24,8381722,story,,,2,0,Zolmeister0,"If every state of the USA declared war against each other, which would win?",http://www.quora.com/If-every-state-of-the-USA-declared-war-against-each-other-which-would-win,,1411965727.0
+25,8381721,comment,8381651.0,8381717.0,1,0,aosmith,,,"I think ground effect requires too much power to be practical, hydroplaning on the other hand may be possible.",1411965702.0
+26,8381720,comment,8380913.0,8381427.0,2,0,spacehunt,,,I&,
+27,8381719,comment,8381493.0,8381493.0,4,0,7Figures2Commas,,,"For anybody asking the question, &quot;Why Atlas?&quot;, please see <a href=""http://atlassolutions.com/why-atlas/introduction/"" rel=""nofollow"">http://atlassolutions.com/why-atlas/introduction/</a>:<p>> New possibilities for a new advertising reality. Atlas drives advertising impact for today’s multifaceted brand journeys.<p>A lot has been written about Facebook&",
+28,8381718,comment,8380855.0,8380855.0,1,0,kseistrup,,,"How is that amazing?  Both GratisDNS.dk and QuickDNS.dk offer roughly the same features, and they&",
+29,8381717,comment,8381651.0,8381651.0,1,0,eksith,,,"I think the larger the craft, the more this would make sense. I had the idea of a long pontoon craft for inter waterway trade powered by solar panels based on a patent I had seen[1]<p>Although that was for a ground-effect craft[2], the long flat deck seemed perfect to mount solar panels. I&",
+30,8381715,comment,8379792.0,8379954.0,1,0,ianlevesque,,,Relatedly is there an SSL implementation based on NaCL anywhere?,1411965528.0
+31,8381714,comment,8380781.0,8381314.0,2,0,yongjik,,,I think some clarification is necessary:<p>If South Korean government were really serious about addressing the problem of over-centralization of Korea (hint: the present administration isn&,
+32,8381713,comment,8381326.0,8381431.0,7,0,p4bl0,,,"> a population casually using RDF and Prolog but losing sleep over HTML and JSON?<p>Have you met academics?<p>Just kidding ;), but by exaggerating, not by lying. (Also I know for a fact that you have met academics). Of course any compsci academic can pick-up HTML and JSON in half an hour of time, but it&",
+33,8381712,comment,8380913.0,8381686.0,3,0,saeranv,,,"Oh, also apparently the iconic &",
+34,8381711,comment,8381493.0,8381692.0,7,0,steveax,,,> an advertiser doesn&,
+35,8381710,comment,8381493.0,8381650.0,1,0,melvinmt,,,They&,
+36,8381709,comment,8354278.0,8374301.0,1,0,harry8,,,"But still no data to back this garbage claim. Still data that does support a narrower spread in the presence of HFT.<p>Leave the condescension out, huh?",1411965376.0
+37,8381708,comment,8380817.0,8380920.0,1,0,bduerst,,,"I built something similar for my desk using a raspberry pi and this 2.7 inch e-ink display:  <a href=""http://www.embeddedartists.com/products/displays/lcd_27_epaper.php"" rel=""nofollow"">http://www.embeddedartists.com/products/displays/lcd_27_epap...</a><p>The nice thing is they have python drivers for it and it works with the gpio pins.",1411965345.0
+38,8381707,story,,,3,0,sethbannon,China Blocks Instagram Amid Hong Kong Protests,http://www.foreignpolicy.com/articles/2014/09/28/china_hong_kong_protests_instagram_block,,1411965333.0
+39,8381706,comment,8379205.0,8379443.0,1,0,collyw,,,"While I agree, poverty reduction will likely lead to a more consumerist, less environmentally friendly lifestyle.",1411965306.0
+40,8381705,comment,8380822.0,8380822.0,3,0,yudlejoza,,,"I highly recommend everyone to go through the book <a href=""http://www.linuxfromscratch.org/"" rel=""nofollow"">http://www.linuxfromscratch.org/</a> before, or as a complementary direction to, diving into any &quot;operating system&quot; resources mentioned on this page. (you could try this on a QEMU/VMWare/VirtualBox/KVM/whatever instance instead of risking your current hard-drive partition setup).<p>(alert: it&",
+41,8381704,comment,8378804.0,8380640.0,1,0,ultimape,,,I&,
+42,8381702,comment,8381000.0,8381474.0,3,0,ANTSANTS,,,"I think most of the 2 million dollars went towards the <i>1993-vintage HD plasma TV,</i> not the game hardware itself. Those are a lot less expensive now too, but you&",
+43,8381701,comment,8379683.0,8379683.0,1,0,nobrains,,,There is a question in QuizUp which says &quot;Where does 163.com take you?&quot;,1411965005.0
+44,8381700,comment,8377579.0,8379281.0,1,0,musername,,,it&,
+45,8381699,comment,8380110.0,8380283.0,2,0,userbinator,,,I agree; it&,
+46,8381698,comment,8381458.0,8381458.0,1,0,vxNsr,,,"Hmm... is it just a coincidence that our school services portal had a semi-scheduled downtime this sunday from 6am-6pm, but we weren&",
+47,8381697,comment,8376645.0,8380391.0,1,0,cageface,,,"That applied to tablet apps only, which Android devs justifiably ignored. Android devs never had the luxury of assuming devices were of any particular point size, which is something iOS devs did habitually until now.",1411964901.0
+48,8381696,comment,8380913.0,8381571.0,0,0,Shad0w59,,,Now you jinxed it.,1411964865.0
+49,8381695,comment,8378804.0,8379064.0,1,0,ultimape,,,"Its a pretty big rift from my perspective. We were right alongside mechanical and architectural majore at VTC, they all learned some really crufty cad programs. The worst was SolidWworks,  scripting that thing is a pig if damn near impossible. As a wanna-be tech startup in the field, I&",
+50,8381694,comment,8380110.0,8381469.0,3,0,Taek,,,"I do pay a lot of attention to these things, and to the best of my knowledge, nobody has considered something like this. I&",
+51,8381693,comment,8379423.0,8381410.0,5,0,dmeb,,,"Happy to see a Tyler Cowen recommendation.<p>Thiel is still very much worth reading though. FWIW, Tyler Cowen would say the same; &quot;The Great Stagnation&quot;, his book before &quot;Average is Over&quot;, is dedicated to Thiel.",1411964781.0
+52,8381692,comment,8381493.0,8381493.0,13,0,cletus,,,Advertising is a tricky business.<p>Facebook&,
+53,8381691,comment,8380913.0,8381628.0,1,0,spacehunt,,,"Source: <a href=""http://www.chinanews.com/shipin/cnstv/2014/09-26/news500277.shtml"" rel=""nofollow"">http://www.chinanews.com/shipin/cnstv/2014/09-26/news500277....</a><p>They actually got some &quot;celebrators&quot; standing in front of the protesters claiming everybody is having a party.",1411964730.0
+54,8381690,comment,8373394.0,8376303.0,1,0,curun1r,,,The WD docs for Intellipower indicate that RPM is one of the things they vary to conserve power. I can&,
+55,8381689,comment,8379205.0,8379547.0,1,0,collyw,,,You really have no idea how a lot of the world live.,1411964695.0
+56,8381688,comment,8379792.0,8379792.0,1,0,rocky1138,,,"Off-topic, but the markup of that page is really interesting. I&",
+57,8381687,comment,8381683.0,8381683.0,5,0,michaelsbradley,,,"If you jump to 11:52, you’ll see a neat demo that shows off the engine’s performance:  70,000 spheres (ray traced on the card), 500 lights, at 60 frames per second. Great stuff!<p><a href=""http://www.youtube.com/watch?v=t3xdv4UP9-U&t=11m52s"" rel=""nofollow"">http://www.youtube.com/watch?v=t3xdv4UP9-U&t=11m52s</a><p>The source code is available on GitHub:<p><a href=""https://github.com/ntoronto/pict3d"" rel=""nofollow"">https://github.com/ntoronto/pict3d</a>",1411964563.0
+58,8381686,comment,8380913.0,8381512.0,3,0,saeranv,,,The Ferguson protests are a good example. It&,
+59,8381684,comment,8381651.0,8381666.0,1,0,aosmith,,,It makes a lot of sense.  If a business can turn a variable cost (fuel) into a fixed cost (solar panels) it&,
+60,8381683,story,,,83,10,michaelsbradley,Purely Functional 3D in Typed Racket [video],https://www.youtube.com/watch?v=t3xdv4UP9-U&index=6&list=PLXr4KViVC0qI9t3lizitiFJ1cFIeN2Gdh,,1411964510.0
+61,8381682,comment,8379247.0,8380155.0,2,0,collyw,,,500,1411964452.0
+62,8381681,comment,8381458.0,8381458.0,1,0,zaroth,,,To the admin who had to hit <Enter> on the script that kicked off these reboots....  I imagine this guy turning and looking the other way before clicking.<p>What poor execution on this...Xen updates can&,
+63,8381680,comment,8381458.0,8381634.0,1,0,alexk,,,I&,
+64,8381679,comment,8379247.0,8380321.0,1,0,collyw,,,"I actually fond the most efficient solution to a problem recently (generating massive numbers of DNA sequence combinations, and checking for the number of mismatches between them) came from using MySQL and bitwsie operators. I tried Python, it was at least an order of magnitude slower. I tried Java, but that ran out of memory surprisingly quickly. I might try it in C at some stage but that will involve a fair bit more time.",1411964141.0
+65,8381678,comment,8381670.0,8381670.0,1,0,walterbell,,,"> <i>&quot;it’s easy to imagine that Twitter could tinker with inserting tweets that link to a major story that might be unfolding, tweets that are relevant based on whom you follow, or even tweets based on a user’s location. And would that be such a bad thing?&quot;</i><p>Yes.<p>> <i>&quot;Information delivery in the online age is still evolving, and the only sure bet is that no one will ever agree on what makes the perfect feed.</i>&quot;<p>Are the impending Twitter changes intended to recruit Facebook users?  It would be helpful to define the target audience which would be attracted to Twitter by the proposed changes.",1411964135.0
+66,8381676,comment,8379862.0,8379862.0,1,0,Mnkras,,,One thing that I am most likely to do is to re-build or replace older and less functional pieces of software used by the educational institution.<p>It&,
+67,8381675,comment,8379423.0,8381528.0,4,0,increment_i,,,The book (and the notes) definitely will get you excited about &,
+68,8381674,story,,,133,66,brudgers,A Simple Guide to Five Normal Forms in Relational Database Theory (1982),http://www.bkent.net/Doc/simple5.htm,,1411964028.0
+69,8381673,story,,,5,0,smagch,Go 1.3.2 is broken on Windows,https://groups.google.com/forum/,,
+70,8381672,comment,8381493.0,8381650.0,4,0,joelrunyon,,,That&,
+71,8381671,comment,8379370.0,8379988.0,1,0,tlubinski,,,Rocket Internet in Berlin is IMHO also an A but with a questionable business model.,1411963992.0
+72,8381670,story,,,1,1,walterbell,Making Adjustments in the Search for the Perfect News Feed,http://www.nytimes.com/2014/09/25/technology/personaltech/making-adjustments-in-the-search-for-the-perfect-news-feed.html,,1411963988.0
+73,8381669,comment,8381458.0,8381458.0,1,0,Thaxll,,,"The Rackspace status page:\n<a href=""https://status.rackspace.com/"" rel=""nofollow"">https://status.rackspace.com/</a>",1411963967.0
+74,8381668,comment,8381644.0,8381644.0,4,0,benbreen,,,"An irony here: Steven Pinker is himself a fairly bad writer, although he&",
+75,8381667,story,,,1,0,alexyes,Facebook Start New York,http://fbstartnyc.splashthat.com/%EF%BB%BF,,1411963819.0
+76,8381666,comment,8381651.0,8381651.0,1,0,jMyles,,,"I too have wondered this.  I think these guys have done some research on the matter: <a href=""http://www.seasteading.org/"" rel=""nofollow"">http://www.seasteading.org/</a><p>...but I don&",
+77,8381665,comment,8380110.0,8380907.0,2,0,wodenokoto,,,They just call them escorts.,1411963772.0
+78,8381664,comment,8379370.0,8379370.0,1,0,tlubinski,,,"My personal opinion: with an app, which already has 1M downloads you don&",
+79,8381663,comment,8380781.0,8381314.0,1,0,omegaworks,,,"Yes, but who owns it? Who is investing the capital in the infrastructure? Who got to tell those fisherman &quot;yeah, so you&",
+80,8381662,story,,,2,0,jblz,Facebook Will Use Facebook Data to Sell Ads on Sites That Aren’t Facebook,http://recode.net/2014/09/28/facebook-will-facebook-data-to-sell-ads-on-sites-that-arent-facebook/,,1411963660.0
+81,8381661,comment,8379973.0,8380201.0,1,0,kamaal,,,>>tries to con people into signing up to boost its user numbers<p>I never understood this. As long as there is a infinite supply of free email accounts available. Any body who asks people to sign up merely to read content is just fooling themselves into thinking people are going to supply genuine email id&,
+82,8381660,comment,8381510.0,8381510.0,1,0,walterbell,,,"> <i>&quot;Because the Ahomé Desk Client is a pure HTML5/JS/CSS solution, it is totally transparent to any server runtime. From Java to Ruby on Rails, from PHP to .NET our client can run everywhere. &quot;</i><p>How will the client be licensed?",1411963608.0
+83,8381659,story,,,3,0,benbreen,De Re Metallica (1556),http://theappendix.net/issues/2014/1/de-re-metallica,,1411963559.0
+84,8381658,comment,8380913.0,8381461.0,5,0,cluthe,,,That&,
+85,8381657,comment,8380822.0,8381613.0,3,0,chrismsnz,,,I would assume that&,
+86,8381656,comment,8381458.0,8381503.0,7,0,deathanatos,,,> since Rackspace didn&,
+87,8381655,comment,8379205.0,8379580.0,1,0,ThomPete,,,What is that proving?,1411963391.0
+88,8381654,comment,8379571.0,8380956.0,2,0,fear91,,,Have you ever trained an SVM? Because 10000 examples is a laughably small dataset. It&,
+89,8381653,comment,8380913.0,8381405.0,1,0,gurkendoktor,,,"Okay, so this is not their <i>intended</i> goal, but this protest has probably been pretty effective in waking up Taiwan. It would be even more effective if the Taiwanese media wouldn&",
+90,8381652,comment,8380781.0,8380781.0,3,0,Dwolb,,,Songdo has been plagued by poor planning from the start. The gov&,
+91,8381651,story,,,2,4,aosmith,Why aren’t we using solar powered ships?,https://alexsmith.io/?p=276,,1411963244.0
+92,8381650,comment,8381493.0,8381493.0,6,0,ThomPete,,,I still think the primary problem is that Facebook does not understand intent and so it will still be a 2nd class citizen compared to Google.,1411963235.0

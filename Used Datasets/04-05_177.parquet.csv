@@ -1,0 +1,117 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6125440,comment,6097155.0,6100734.0,1,0,robbles,,,"You can, but then you need to stay within the limitations of GitHub pages:<p>- Needs to be versioned with git to be deployed<p>- Space limitation (I assume, not sure what it is)<p>- Deploying new content to S3 is a lot faster - github pages has some sort of build process with a substantial delay",1375160392.0
+1,6125439,comment,6125229.0,6125436.0,6,0,BadassFractal,,,I also suspect that Github might be a terrible sample of the overall programming community. I&,
+2,6125438,comment,6124462.0,6125191.0,1,0,msprague,,,I&,
+3,6125437,comment,6123998.0,6125129.0,1,0,milhous,,,Does this mean some people will be turned away if turnout exceeds capacity?,1375160247.0
+4,6125436,comment,6125229.0,6125229.0,15,0,brudgers,,,Because they predate Github by many years Lisps tend to have already established other repositories.<p>That&,
+5,6125435,story,,,1,0,CoreSet,Ask HN: Any advice on how to survive (and thrive) at a developer academy?,,"I suppose I should point out that by &quot;developer academy&quot; I mean a class of programs that has sprung up in recent years catering to individuals with no computer science background nevertheless interested in learning enough code to contribute professionally.<p>After making the personal decision and doing the research, I learned the material necessary to complete the entry exams and apply to several developer academies across (and outside) the country. Now I&",
+6,6125434,comment,6124462.0,6125276.0,1,0,foobarbazqux,,,"No, because you can just explain it away by saying there&",
+7,6125433,comment,6125229.0,6125229.0,3,0,BadassFractal,,,Lisp is probably never going to get huge and that&,
+8,6125432,comment,6124745.0,6125287.0,2,0,piggity,,,"SQL Server Standard is $2K per core - with > 4 cores per socket, things flip around a bit.<p>I&",
+9,6125431,comment,6120188.0,6122027.0,3,0,ramgorur,,,"It actually <i>depends</i>, I used to live in the melbourne suburb as a grad student, I used to pay 800$/mo for 1 bedroom apartment. Now I am living in the US (in northern VA, DC area) I pay 1200$/mo for the same standard of accommodation. In fact, the melbourne accommodation was better, w.r.t. the condition of the apartment and the degree of accessibility to the public amenities. The suburb where I am living now (in the NVA/DC) is literally a ghost town, where the melbourne suburb was very alive.",1375159974.0
+10,6125430,comment,6124462.0,6124462.0,2,0,jjindev,,,Dan Ariely&,
+11,6125429,comment,6122203.0,6122203.0,1,0,jamesjporter,,,"Nitpick, but its worth pointing out that Hacker School as a program and an institution is a very different beast than App Academy, Dev Bootcamp, etc. and is somewhat mischaracterized in the article.",1375159935.0
+12,6125428,comment,6124908.0,6125272.0,19,0,interpol_p,,,"&quot;The vast majority&quot; is putting it lightly. All but one 1-star reviewer have zero other reviews. And the one 1-star reviewer with multiple reviews is Richard Bennett of ITIF, someone who is verifiably real and biased against the book.",1375159927.0
+13,6125427,comment,6123193.0,6124062.0,1,0,visarga,,,It&,
+14,6125426,story,,,1,0,thefool,Brilliant TV show about tech and society ,http://en.wikipedia.org/wiki/Black_Mirror_(TV_series),,
+15,6125425,comment,6115114.0,6115988.0,1,0,ekianjo,,,I agree with you but that has nothing to do with the point being discussed here in this particular sub-thread.,1375159808.0
+16,6125424,story,,,1,0,jonbaer,When gravity is no obstacle,http://www.ft.com/cms/s/0/1d760e30-ef14-11e2-9269-00144feabdc0.html,,
+17,6125423,comment,6122896.0,6122896.0,1,0,thefool,,,"Episode 3 of this tv show is very relevant: <a href=""http://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes"" rel=""nofollow"">http://en.wikipedia.org/wiki/List_of_Black_Mirror_episodes</a>",1375159748.0
+18,6125422,comment,6125391.0,6125391.0,7,0,patio11,,,"Every action on the website, including upvoting, clicking &",
+19,6125421,comment,6125391.0,6125391.0,-1,0,gschiller,,,Maybe it is because we do not want many new users who are not bright enough to navigate the website.,1375159740.0
+20,6125420,comment,6115114.0,6116014.0,2,0,ekianjo,,,> A simple bunch of ingredients mixed together? Isn&,
+21,6125419,comment,6119673.0,6121787.0,1,0,stonemetal,,,It isn&,
+22,6125418,comment,6124462.0,6125150.0,1,0,foobarbazqux,,,Can you elaborate?  We probably don&,
+23,6125417,comment,6121225.0,6121225.0,1,0,mylorse,,,"Can anyone convince me why I should contribute to this project when I can already use the following?:\n[[bitmessage.org][Bitmessage]]\n[[freenetproject.org][Freenet with a chat client]]\n[[gnunet.org][GNUnet with chat]]\n[[i2p2.de][I2P-Messenger]]\n[[retroshare.sf.net][RetroShare]]<p>PS \n   You could also apply a simple Icecast and/or MPD video stream under those proctols, even [[stomp.github.io][STOMP]].",1375159592.0
+24,6125416,comment,6123998.0,6124668.0,1,0,alanctgardner2,,,"Well, I&",
+25,6125415,comment,6123042.0,6123886.0,2,0,gnarbarian,,,That&,
+26,6125414,story,,,1,0,foolrush,Google appears ready to ditch Android over its intellectual property issues,http://appleinsider.com/articles/13/07/29/google-appears-ready-to-ditch-android-over-its-intellectual-property-issues,,1375159446.0
+27,6125413,comment,6124078.0,6125169.0,1,0,khawkins,,,There&,
+28,6125412,story,,,15,6,guiseroom,The Old Reader RSS app closes registration after months of 'hell',http://theverge.com/2013/7/29/4569836/the-old-reader-closes-registration-after-months-of-hell,,1375159328.0
+29,6125411,comment,6123998.0,6125063.0,1,0,milhous,,,My jaw just dropped! juo@millersville,1375159323.0
+30,6125410,comment,6123998.0,6125139.0,1,0,alanctgardner2,,,"Unfortunately, attendance to something like this won&",
+31,6125409,comment,6119673.0,6120141.0,1,0,skyjumpr,,,Do you mind if I ask where you went for such a cheap arthroscopy? I&,
+32,6125408,comment,6124745.0,6125065.0,2,0,jjindev,,,"I think the tension might be that looking back, we see many big (money making) operations that ran on far less than 64GB(1), but looking forward we can all think of fun hacks we can do on cheap and common 64GB machines.<p>It&",
+33,6125406,comment,6124462.0,6125381.0,25,0,sp332,,,He&,
+34,6125405,comment,6124078.0,6125068.0,2,0,eclipxe,,,>And first dates do not usually result in land wars in Afghanistan.<p>Keyword: usually.,1375159160.0
+35,6125404,comment,6116009.0,6119127.0,2,0,christiangenco,,,"Ooo, that&",
+36,6125403,comment,6125222.0,6125222.0,2,0,j2h6mW,,,It&,
+37,6125402,comment,6124462.0,6125044.0,2,0,true_religion,,,"From what I remember it was just one person who was very persistent, but she found it troubling enough to stop.",1375159127.0
+38,6125401,comment,6123998.0,6124952.0,1,0,alanctgardner2,,,"Would you be interested in carpooling? I can obviously chip in for gas, but I&",
+39,6125400,story,,,5,0,bbrunner,"The Most Important Managerial Skill, Battle-Picking",http://pandodaily.com/2013/07/29/the-most-important-managerial-skill/,,1375159039.0
+40,6125399,comment,6125067.0,6125363.0,1,0,pfisch,,,"Ok, so he doesn&",
+41,6125398,comment,6121501.0,6121767.0,1,0,twotwotwo,,,"As others said, groupcache isn&",
+42,6125397,comment,6125116.0,6125116.0,2,0,hayksaakian,,,It seems like there are overlapping conventions.<p>&quot;null&quot; means null but \n=> is the separator instead of :,1375158913.0
+43,6125396,comment,6124462.0,6125273.0,1,0,hoi,,,That&,
+44,6125394,comment,6122569.0,6125319.0,1,0,saraid216,,,Was it honestly more difficult to say &quot;Reaganomics happened&quot; than it was to say &quot;The &,
+45,6125393,comment,6124306.0,6124733.0,3,0,Domenic_S,,,"The name for c), assuming you harden the box a bit is a <i>bastion host</i><p><a href=""http://en.wikipedia.org/wiki/Bastion_host"" rel=""nofollow"">http://en.wikipedia.org/wiki/Bastion_host</a>",1375158827.0
+46,6125392,comment,6125067.0,6125356.0,2,0,pfisch,,,When wars happen there is collateral damage and innocent people will be in the crossfire.  We all knew this.  We also already know we are fighting wars on behalf of oil companies like we always have.  A lot of America&,
+47,6125391,story,,,4,9,alphamethyl,Ask HN: why is the signup form behind the submit button?,,"i read hacker news daily.  i found an interesting article and wanted to comment on it, but didn&",
+48,6125390,comment,6123535.0,6124285.0,2,0,jcurbo,,,"This is not unique to Google, GPS is widely used as a time source for telecommunications and as an input to NTP daemons.",1375158759.0
+49,6125389,comment,6125222.0,6125222.0,2,0,lujaw,,,I am using app called Everest on the iPhone. You can set due date for the goal(dream) and break it down into smaller tasks. Its awesome.,1375158669.0
+50,6125388,comment,6123106.0,6125167.0,1,0,njbooher,,,,
+51,6125387,comment,6124462.0,6124462.0,4,0,eagsalazar2,,,"Not to be too cynical but this really seems like a dangerous insight for people optimizing conversions.   Hmm, <i>everyone</i> wants my product but it is wasteful/bad for me/a luxury/etc?   Just deplete their ability to resist first.    Ooops, someone trying to cancel their subscription?  How about a nice maze of forms to get through first?<p>Anyway, the super cool insight of this article is the relationship between cognitive load and will power.   We all knew &quot;try harder&quot; didn&",
+52,6125386,comment,6124462.0,6124462.0,2,0,ibejoeb,,,That&,
+53,6125385,comment,6124218.0,6124627.0,7,0,WildUtah,,,"<i>So then, what, in your opinion, is &quot;the actual nature of the invention&quot;?</i><p>There is no invention. Bounce back and pinch to zoom are creative interaction designs, not inventions at all. They are not processes, machines, or compositions of matter. It&",
+54,6125384,story,,,2,0,thecosas,Sublime Text: Customizing Your Workflow,http://blog.manikrathee.com/posts/2013/07/27/sublime-text.html,,1375158563.0
+55,6125383,comment,6125116.0,6125116.0,2,0,saraid216,,,How do I create an array?,1375158519.0
+56,6125382,story,,,1,0,GuiA,Equality of Opportunity,http://www.equality-of-opportunity.org,,1375158517.0
+57,6125381,comment,6124462.0,6125290.0,5,0,canadiancreed,,,Ya that person needs a permanent stay in a rubber padded room. If they&,
+58,6125380,comment,6121829.0,6125033.0,2,0,btilly,,,"It was a paper I was shown by a professor over 20 years ago.  Said professor is now long-retired and I do not have the paper.<p>As he described it to me then, the paper presented an exact solution with an infinite bar, and then heuristic arguments that a very long but finite bar would demonstrate the same effects.  The underlying mechanism is, of course, the result of a form of frame dragging.<p>The professor who showed it to me said that he was convinced that the math in the infinite model was correct, and was still deciding if he was convinced by the heuristic argument.<p>Googling quickly, <a href=""http://en.wikipedia.org/wiki/Ronald_Mallett"" rel=""nofollow"">http://en.wikipedia.org/wiki/Ronald_Mallett</a> describes a similar scheme, which might even be the same one.  Whether or not it is the same, the 1992 paper from Hawking that was discussed would show that the heuristic argument is wrong.  However since I was shown this paper while I was in undergrad, Hawking&",
+59,6125379,comment,6120075.0,6121584.0,1,0,biinui,,,i see. do you think the people in the government are pulling the strings or is it the corporations?,1375158353.0
+60,6125377,comment,6117766.0,6124691.0,1,0,agibsonccc,,,I&,
+61,6125376,comment,6120075.0,6120693.0,1,0,biinui,,,"deym, that&",
+62,6125375,comment,6124908.0,6125247.0,5,0,saraid216,,,"I personally prefer to call those &quot;pseudonymous&quot; rather than &quot;anonymous&quot;. A track record is effectively an uncompressed name: the salient part of anonymity is precisely that it has no useful metadata for the expected audience.<p>That gets highly academic about what we really mean by anonymity and what purposes we want it to serve, though, which we can get into if you want.",1375158262.0
+63,6125374,comment,6124462.0,6124979.0,4,0,wicknicks,,,That sucks so much. I read her Design Patterns book when I was doing my undergrad in Electronics. The lessons in that book are somewhat of a &,
+64,6125373,story,,,1,0,eplanit,Thomson Reuters Twitter Account Is Hacked by Syrian Activists,http://blogs.wsj.com/digits/2013/07/29/thomson-reuters-twitter-account-is-hacked/,,1375158185.0
+65,6125372,comment,6124614.0,6125231.0,4,0,argonaut,,,Have you considered merging efforts with Flynn?,1375158115.0
+66,6125371,comment,6121501.0,6124783.0,6,0,twotwotwo,,,Roughly: a GC has to look at the pointers in use to see what objects are still reachable. But it doesn&,
+67,6125370,comment,6124306.0,6124839.0,6,0,ef4,,,Part of automating deployment is automating key management. Ignoring host key checks is the worst possible solution.<p>You&,
+68,6125368,comment,6120338.0,6121517.0,4,0,tptacek,,,Who sets a career goal of &quot;making CTO&quot;? Why would anyone want to do that? CTO is what they call you right before they take your commit privileges away.<p>The &quot;journeyman&quot; coders I meet all want to start their own companies. I&,
+69,6125367,comment,6124462.0,6124462.0,1,0,matthiasb,,,Now I know why my dog stopped working on his Kong... he&,
+70,6125366,comment,6124078.0,6124926.0,1,0,pizza_boy,,,You&,
+71,6125365,comment,6125067.0,6125294.0,0,0,afterforever,,,The US hasn&,
+72,6125364,comment,6124462.0,6125075.0,3,0,simula67,,,"> Added cognitive load has been shown to result in reduced willpower.<p>Has it, though ? What has been shown is that added cognitive load correlates with reduced will power within these experimental conditions.(Edit: Response to comment below, this is wrong)<p>>You&",
+73,6125363,comment,6125067.0,6125324.0,1,0,johnbm,,,"&quot;I read more of the diplomatic cables published on the Department of State Net Centric Diplomacy. With my insatiable curiosity and interest in geopolitics I became fascinated with them. I read not only the cables on Iraq, but also about countries and events that I found interesting.<p>The more I read, the more I was fascinated with the way that we dealt with other nations and organizations. I also began to think the documented backdoor deals and seemingly criminal activity that didn&",
+74,6125362,story,,,1,0,euloify,Stop Phubbing,http://stopphubbing.com/,,1375157953.0
+75,6125361,comment,6125067.0,6125067.0,0,0,cinquemb,,,Is anyone else wondering how a rag tag group of individuals goes from being funded by the DoD to becoming its public enemy ,
+76,6125360,comment,6125067.0,6125312.0,3,0,anologwintermut,,,"Well, no. Lets apply that test to two other famous Whistleblower .<p>Snowden: Did he leak information he was supposed to protect ? Yes. Did he do so indiscriminately, no. He knew exactly what he was leaking and believed it would not cause damage.<p>How about Daniel Elsberg? Leak info he was supposed to protect. Most certainly. Did he do so indiscriminately?An even more resounding no.<p>Manning, on the other hand literally leaked stuff he never read and which he had no way of knowing couldn&",
+77,6125359,story,,,1,0,rm2kdev,Simplest OAuth Implementation Ever,http://www.rm2kdev.net/2013/07/easy-oauth-login-with-asp-net/,,1375157898.0
+78,6125358,comment,6123106.0,6124671.0,1,0,betterunix,,,Reading inputs without using pointers is pretty complicated in C...,1375157856.0
+79,6125357,comment,6124164.0,6125301.0,1,0,bluetidepro,,,From the title:<p>><i>...(like Twitter).</i><p>I think that&,
+80,6125356,comment,6125067.0,6125324.0,1,0,monsterix,,,> What exactly was Bradley Manning trying to whistleblow about?<p>Seen collateral murder [1]?<p>> Its hard to say that that is not treason.<p>Really? It&,
+81,6125355,story,,,1,0,taytus,Heres a chart to decide whether to build a native or web mobile app,http://venturebeat.com/2013/07/29/native-v-web-chart/,,1375157771.0
+82,6125354,comment,6117846.0,6123128.0,1,0,betterunix,,,"He has not been exiled by the US government, he is in a self-imposed exile.  In fact the US government has been doing everything in their power to get him back to this country, so that he can be thrown in prison as punishment for being a whistleblower.",1375157768.0
+83,6125353,comment,6123042.0,6124735.0,1,0,eshvk,,,"> easy to think of people on the internet as abstract things,<p>Right. You mean it then becomes easier to be a major sarcastic dick to someone who voiced an opinion quite contrary to yours?",1375157752.0
+84,6125352,story,,,4,0,Sealy,Silk Road Trade has doubled since 2012,http://translate.google.com/translate?sl=no&tl=en&js=n&prev=_t&hl=no&ie=UTF-8&u=http%3A%2F%2Fwww.aftenposten.no%2Fnyheter%2Furiks%2FForsker---Internetts-storste-dopmarked-har-doblet-seg-siden-i-fjor-7260638.html,,1375157738.0
+85,6125351,comment,6123998.0,6123998.0,1,0,theg2,,,"No love for the grad students (who should probably be working on their thesis anyways). And for those of you out there...thesis while working full time is not an easy task.<p>Very cool though, might stop by. Is there someone who might work as a press contact?",1375157730.0
+86,6125350,comment,6121501.0,6123505.0,1,0,tacticus,,,Got any links\talks\papers on this as a dev group at my work just started using it.,1375157668.0
+87,6125349,comment,6124462.0,6124462.0,15,0,teej,,,"This is bothering me, but first image is inaccurate.  They were asked to memorize a two-digit number (like 17) or a seven-digit number (like 8675309).  The image shows 2 two-digit numbers and 7 two-digit numbers.  This is important as our working memory capacity has been shown to be about seven digits. <a href=""http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two"" rel=""nofollow"">http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_...</a><p>It&",
+88,6125348,comment,6123998.0,6124268.0,1,0,whitewhim,,,We&,
+89,6125347,comment,6125228.0,6125323.0,5,0,tyrick,,,It&,
+90,6125346,comment,6123762.0,6123846.0,1,0,colanderman,,,"The source [1] seems to indicate that this is a tax on services, not on the software itself.  But IANAL either.<p>[1] <a href=""http://www.mass.gov/dor/businesses/help-and-resources/legal-library/tirs/tirs-by-years/2013-releases/tir-13-10.html"" rel=""nofollow"">http://www.mass.gov/dor/businesses/help-and-resources/legal-...</a>",1375157482.0
+91,6125345,story,,,49,20,breck,Test-driven design,http://startuplab.googleventures.com/test-driven-design-2013-07-09,,1375157480.0
+92,6125344,comment,6124056.0,6125227.0,2,0,eru,,,"Not quite.  There are other uses for the law, too.  Like, just setting defaults and clarifying rights.",1375157435.0
+93,6125343,comment,6122440.0,6123342.0,1,0,Zigurd,,,These can&,
+94,6125342,comment,6125067.0,6125312.0,2,0,untog,,,"I think it is arguable that the Manning verdict will only be relevant to other people who leak data indiscriminately. I know there is a giant slippery slope in all of this, but the &quot;aid and comfort&quot; would be very difficult to pin on, oh, let&",
+95,6125341,story,,,1,0,m_class,Capturing Black Hole Spin Could Further Understanding of Galaxy Growth,http://www.sciencedaily.com/releases/2013/07/130729231440.htm?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+sciencedaily%2Fmost_popular+%28ScienceDaily%3A+Most+Popular+News%29,,1375157421.0
+96,6125340,comment,6124306.0,6125196.0,2,0,vacri,,,"I like how you accuse me of hyperbole and hysteria, but at the same time use both the arguments &quot;cars should be immobilised if there&",
+97,6125339,comment,6124056.0,6125253.0,2,0,eru,,,Wouldn&,
+98,6125338,comment,6122440.0,6123269.0,1,0,Zigurd,,,"Yes, this is true: SIP is in Android <i>but</i> unless you have CPU-based AEC AGC, etc., which is for the OEM to license, and nobody worked this out with LG for the Nexus 4, it will sound like crap.<p>I&",
+99,6125337,comment,6124056.0,6125253.0,8,0,nshepperd,,,"> Hang up, dial the customer care number on the back of the card, then dial the digits supplied by the support rep.<p>Except apparently to prevent this form of fraud you need to hang up, then call <i>from your mobile</i>, so that the &quot;support rep&quot; can&",
+100,6125336,comment,6125067.0,6125284.0,4,0,untog,,,"I think it does Snowden a disservice. He was very careful about exactly what information he leaked, and who he leaked it to.<p>Manning just seemed to bulk download info and release it directly to an organisation he knew would widely disseminate it without examining it. <i>In theory</i> what he did was better than Snowden, but in practise he endangered a lot of lives.",1375157303.0
+101,6125335,comment,6124164.0,6124164.0,1,0,agibsonccc,,,Disclaimer: I don&,
+102,6125334,story,,,5,0,thucydides,"Why your organization is intractably political, and how to fix it",http://michaelochurch.wordpress.com/2013/07/29/why-your-organization-is-intractably-political-and-how-to-fix-it/,,1375157289.0
+103,6125333,comment,6124056.0,6125123.0,2,0,TwoBit,,,"Yeah, but in the article author&",
+104,6125331,comment,6119673.0,6125203.0,1,0,symr,,,"I agree. A large portion of the population barely makes between 5-15k per month that is not sufficient for 3 meals a day + housing + school education. Forget surgery, they can&",
+105,6125330,comment,6124306.0,6125069.0,2,0,sehrope,,,The problem with the software one is you need a way to modify it when you can&,
+106,6125329,story,,,2,0,jbr,Demonstration of a monad comprehension macro in Sibilant,https://gist.github.com/hallettj/6101599,,1375157100.0
+107,6125328,comment,6124462.0,6124979.0,4,0,dools,,,What isn&,
+108,6125327,comment,6124056.0,6125308.0,1,0,TwoBit,,,That seems like a severe security flaw in the phone system.,1375157088.0
+109,6125326,comment,6124056.0,6124583.0,12,0,TwoBit,,,I could imagine falling for the OP&,
+110,6125325,comment,6124056.0,6125175.0,3,0,katbyte,,,he doesn&,
+111,6125324,comment,6125067.0,6125284.0,4,0,pfisch,,,What exactly was Bradley Manning trying to whistleblow about?  It seems more like he just released a huge amount of classified data arbitrarily.  Its hard to say that that is not treason.,1375156996.0
+112,6125323,comment,6125228.0,6125228.0,1,0,gamegoblin,,,Does DataRank use any kind of machine learning techniques or is it purely a hand coded heuristic algorithm?,1375156971.0
+113,6125322,comment,6121020.0,6125038.0,2,0,LanceH,,,I&,
+114,6125321,comment,6098608.0,6104416.0,1,0,Nutella4,,,"I love the buy-to-own policy at PeepCode, too, and have had the annual unlimited subscription there for several years. I just looked up the individual plan at PluralSight and it&",
+115,6125320,comment,6121225.0,6122127.0,1,0,tjbiddle,,,I actually wouldn&,

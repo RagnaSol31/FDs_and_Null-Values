@@ -1,0 +1,112 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8283248,comment,8283006.0,8283218.0,6,0,necubi,,,"Tokens can be either signed (using JWS [0]) or encrypted (JWE [1]), which means that you&",
+1,8283247,comment,8282929.0,8282929.0,3,0,theoh,,,"See also <a href=""http://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html"" rel=""nofollow"">http://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600...</a>",1410145179.0
+2,8283246,comment,8282124.0,8282495.0,2,0,peteretep,,,He&,
+3,8283245,comment,8282373.0,8283102.0,1,0,baddox,,,The trouble is that you can&,
+4,8283244,comment,8283146.0,8283146.0,6,0,nvk,,,Needs either &quot;Markdown&quot; in it or go away with something completely different. This is confusing and the worst of the name choices.<p>Edit: Suggestion: BetterGruber,1410145127.0
+5,8283243,comment,8282189.0,8283159.0,6,0,irq,,,"And yet here I sit in my apartment, in downtown Portland, OR, on a symmetrical 1gbit/s Internet connection, provided by Centurylink.<p>They&",
+6,8283242,comment,8282189.0,8283054.0,1,0,uxp,,,I&,
+7,8283241,comment,8283146.0,8283146.0,11,0,dmishe,,,&quot;naming things and cache invalidation&quot;,1410145016.0
+8,8283240,comment,8278408.0,8280975.0,1,0,michaelmior,,,"Very true, but whenever that is the case, there are typically some who decide their way is the &quot;right&quot; way for various reasons.",1410144983.0
+9,8283238,comment,8283031.0,8283204.0,3,0,deciplex,,,Opening in a private window also works for me.,1410144961.0
+10,8283237,story,,,9,3,solusipse,Show HN: Netcat-based command line pastebin,http://termbin.com,,1410144953.0
+11,8283236,comment,8282780.0,8283057.0,12,0,Zenst,,,"The old <a href=""http://en.wikipedia.org/wiki/Motoactv"" rel=""nofollow"">http://en.wikipedia.org/wiki/Motoactv</a> smartwatch by Motorola also had a OMAP3 CPU and somewhat surprised that was not mentioned as a possible reason for the company&",
+12,8283235,comment,8274160.0,8280345.0,1,0,kjs3,,,Really?  You&,
+13,8283233,comment,8282780.0,8282990.0,1,0,Zenst,,,"The <a href=""http://en.wikipedia.org/wiki/Motoactv"" rel=""nofollow"">http://en.wikipedia.org/wiki/Motoactv</a> smart watch that was ceased in 2013 has a OMAP3 CPU and with that, can see why they went down that path for a initial product that may of very well been ready much earlier than now for release.  Though why not released with the other two upon launch does go against that.<p>I do find the whole battery issue somewhat concerning and watch wise I&",
+14,8283232,story,,,9,3,pandatigox,Pascal Costanza's Highly Opinionated Guide to Lisp (2002),http://www.p-cos.net/lisp/guide.html,,1410144779.0
+15,8283231,comment,8282887.0,8283167.0,1,0,snarfy,,,"I was taught the same way.  I was originally pretty confused by the symbol for a diode, more so because I was dealing with free wheeling diodes at the time.",1410144778.0
+16,8283230,comment,8283146.0,8283226.0,1,0,sehr,,,That&,
+17,8283229,comment,8282373.0,8282991.0,1,0,Igglyboo,,,What if the coin had the best odds compared to all other games?,1410144630.0
+18,8283228,comment,8282929.0,8283184.0,3,0,arjie,,,"That may be true, but I find it hard to assign any of the meanings of &",
+19,8283227,comment,8281042.0,8281042.0,3,0,BendertheRobot,,,It&,
+20,8283226,comment,8283146.0,8283146.0,2,0,neon_electro,,,Is there anywhere to file a pull request for the commonmark.org website? The &quot;Discuss&quot; button still links to talk.standardmarkdown.com.,1410144547.0
+21,8283223,comment,8282124.0,8282545.0,19,0,otakucode,,,"To use strokes so broad that any historian would like to harm me... what happened was basically that the Islamic world came up against the Crusades, and with Catholics murdering them with terrible savagery, they decided to seal themselves off from the world.  And in that seclusion they missed out on the most important development in human history - The Enlightenment.  Possible the greatest achievement of The Enlightenment was driving a wedge between religion belief and beliefs about the material world.  Prior to The Enlightenment, these two things were the same thing - a concept which is VERY difficult for people from post-Enlightenment cultures to understand.  Seeing gravity as an expression of a gods will?  Thinking it sensible to look for religious explanations to solve mechanical problems?  No belief in an afterlife, but belief that the material world was a thing skin over the supernatural world which actually controlled everything?  These things just don&",
+22,8283222,comment,8282929.0,8283184.0,3,0,ardit33,,,"hippie == live and let live,  fuck the man, and peace love and harmony, oh, and lots of drugs and sex, music and drum circles.<p>Sounds like fun, until you hit real adulthood and real responsibilities.",1410144444.0
+23,8283221,comment,8283006.0,8283218.0,1,0,finnn,,,It looks to me like the data is cryptographically signed,1410144419.0
+24,8283220,comment,8282189.0,8283159.0,1,0,pyre,,,I ended up a CenturyLink customer with the Qwest merger.,1410144395.0
+25,8283219,story,,,37,26,ximeng,Microsoft's man in China defects to search powerhouse Baidu,http://www.scmp.com/business/companies/article/1587457/zhang-yaqin-microsofts-man-china-joins-search-powerhouse-baidu,,1410144383.0
+26,8283218,comment,8283006.0,8283006.0,5,0,emeraldd,,,How does this not lead to a situation where you are trusting the client for authentication/authorization information?,1410144370.0
+27,8283217,comment,8283006.0,8283006.0,2,0,syncsynchalt,,,We&,
+28,8283214,story,,,5,4,hganesan,How long do I run an experiment for?,,I&,
+29,8283213,comment,8282780.0,8283094.0,2,0,post_break,,,You&,
+30,8283212,comment,8278059.0,8279029.0,1,0,destraynor,,,Intercom c0-founder here. We&,
+31,8283211,comment,8282136.0,8282136.0,1,0,lazylizard,,,i&,
+32,8283210,comment,8282887.0,8283037.0,3,0,analog31,,,"In addition to The Art of Electronics, as mentioned, it might also be worth trying LTSpice, which is a free circuit simulator. It&",
+33,8283209,comment,8283079.0,8283199.0,0,0,seanmcdirmid,,,> Please comment if you downvote. Or even better; just comment.<p>Someone who doesn&,
+34,8283208,comment,8282780.0,8283148.0,1,0,jmgrosen,,,That&,
+35,8283207,comment,8282780.0,8283189.0,4,0,MBCook,,,"It seemed to me like the watches were in there for size comparison. Even on the costs are wildly different, they show that the Motorola isn&",
+36,8283206,story,,,1,0,silsha,Modular AngularJS App Design (2013),http://clintberry.com/2013/modular-angularjs-application-design/,,1410144091.0
+37,8283205,comment,8283128.0,8283128.0,1,0,GuiA,,,Just do what works for you (use Gruber&,
+38,8283204,comment,8283031.0,8283117.0,2,0,th0br0,,,as with all of these: google the link + access the page that way.,1410144022.0
+39,8283202,story,,,2,0,GuiA,Reminiscence Therapy,http://en.wikipedia.org/wiki/Reminiscence_therapy,,1410144000.0
+40,8283201,comment,8280950.0,8282608.0,3,0,rdl,,,Playboy &quot;read it for the articles&quot; was probably the originator.,1410143943.0
+41,8283200,comment,8281857.0,8282263.0,1,0,MaysonL,,,OMG – that gamegame triggered weird after-images reminiscent of visual migraines: the white background of my monitor is pulsating in many colours.,1410143902.0
+42,8283199,comment,8283079.0,8283185.0,0,0,readerrrr,,,Your post is full of logical fallacies and assumptions.<p>I have explained my actions adequately and will not respond to you anymore.,1410143880.0
+43,8283197,comment,8278251.0,8282727.0,1,0,jpn,,,Thanks. This is a great find.,1410143839.0
+44,8283196,comment,8282780.0,8283189.0,5,0,seanmcdirmid,,,"I think you meant Ars, not Anandtech.<p>As for the comparison, I&",
+45,8283195,comment,8283006.0,8283006.0,9,0,jpdlla,,,"Shameless plug, but just gave a JWT talk at DjangoCon this week.<p><a href=""https://speakerdeck.com/jpadilla/djangocon-json-web-tokens"" rel=""nofollow"">https://speakerdeck.com/jpadilla/djangocon-json-web-tokens</a>",1410143791.0
+46,8283194,comment,8283006.0,8283006.0,4,0,necubi,,,"JWTs are a pretty great solution for various authentication and authorization related problems, like OAuth tokens, password reset tokens and the like. Using an information-bearing (and signed) token like a JWT tends to make your web apps less stateful and simpler, by offloading the problems of determining authorizations to a single, central location.<p>The main downside is that the representation (base64-encoded json) is pretty bulky for something that might be used in HTTP headers and URLs, but it does make them easy to debug.",1410143735.0
+47,8283193,comment,8282887.0,8283167.0,2,0,analog31,,,"Oddly enough, I learned about vacuum tubes but never did anything with them except repair guitar amps. But I can see where an introduction to tube circuitry would want to start with electron flow.",1410143717.0
+48,8283192,comment,8282373.0,8282373.0,1,0,fiatmoney,,,"In reality, causal mechanisms for the phenomena we most care about (economic and social phenomena particularly) are so fantastically complicated that you never really &quot;figure it out&quot;.  Nevertheless, if you can exploit the hypothesized causation to optimize some function, you&",
+49,8283191,comment,8280379.0,8280379.0,1,0,madengr,,,The author has a TED talk worth watching.,1410143688.0
+50,8283190,comment,8280154.0,8282955.0,1,0,biomimic,,,"Also used to classify genes related to lifespan - \nLDA on Statistical modeling of biomedical corpora: mining the Caenorhabditis Genetic Center Bibliography for genes related to life span. <a href=""http://www.ncbi.nlm.nih.gov/pubmed/16681860"" rel=""nofollow"">http://www.ncbi.nlm.nih.gov/pubmed/16681860</a>",1410143684.0
+51,8283189,comment,8282780.0,8282780.0,5,0,nacs,,,"The comparison chart and cover photo show other &quot;real watches&quot; like the &quot;Tag Heuer Aquaracer 300M&quot; which costs only.. $2,300 ( <a href=""http://www.amazon.com/dp/B0055NBVDM"" rel=""nofollow"">http://www.amazon.com/dp/B0055NBVDM</a> ).<p>Ars Technica reviews are usually good but they couldn&",
+52,8283188,comment,8281781.0,8281788.0,3,0,jbarrow,,,For anybody who hasn&,
+53,8283187,comment,8269553.0,8282972.0,1,0,billmalarky,,,"The tagging functionality does mirror the formal organization of a forum. It would be nice to see it formalized a bit more on imgur. Maybe a bar at the top of the screen with trending tags? Or heck, maybe even just in the sidebar.<p>Oh and the real exciting question... when is imgur going to branch into a &quot;simple video sharing&quot; service. Youtube gets more cumbersome and annoying each year (dialog boxes that pop up all over the videos? I mean come on!). The perfect opportunity is arising for imgur to step in at what it does best, keeping things simple. In addition to imgur users, I bet all OC video content on reddit would immediately switch to using an imgur video service.",1410143553.0
+54,8283186,comment,8281561.0,8282214.0,2,0,colmvp,,,> Individual preference (it seems to me) isn&,
+55,8283185,comment,8283079.0,8283177.0,0,0,seanmcdirmid,,,"No you are not, and perhaps you aren&",
+56,8283184,comment,8282929.0,8282929.0,4,0,eevilspock,,,No.<p><pre><code>  hippie != libertarian\n  hippie != hipster</code></pre>,1410143429.0
+57,8283183,comment,8281857.0,8282961.0,2,0,archgoon,,,Of course there&,
+58,8283182,comment,8282769.0,8282769.0,1,0,tarminian,,,Is it me or is this article stupid?,1410143358.0
+59,8283181,comment,8282124.0,8282124.0,1,0,peteretep,,,Why does it lead by describing him as a Muslim? I don&,
+60,8283180,story,,,1,0,julesbond007,Configure backbone+marionette application layout with mysql+hibernate,http://julesjaypaulynice.com/backbone-marionette-mysql/,,1410143319.0
+61,8283179,story,,,1,0,JacobAldridge,Maker’s Schedule V Manager’s Schedule,http://jacobaldridge.com/business/makers-schedule-v-managers-schedule/,,1410143278.0
+62,8283178,comment,8281042.0,8281042.0,1,0,manucorporat,,,"I already submitted this before fauri did, same URL... weird\n<a href=""https://news.ycombinator.com/item?id=8268858"" rel=""nofollow"">https://news.ycombinator.com/item?id=8268858</a>",1410143238.0
+63,8283177,comment,8283079.0,8283166.0,0,0,readerrrr,,,<i>You are just abusing flag then.</i><p>I&,
+64,8283176,story,,,2,0,spking,"GM will introduce hands-free, foot-free driving in 2017 Cadillac",http://www.latimes.com/business/autos/la-fi-hy-gm-cadillac-super-cruise-20140907-story.html,,1410143149.0
+65,8283175,comment,8282725.0,8283066.0,1,0,dmotz,,,I was thinking along the same lines and just pushed up an addition to do so. (t.disable()),1410143147.0
+66,8283174,comment,8281332.0,8281332.0,3,0,otakucode,,,"Is there anyone approaching the issue from the other side?  Meaning, if I have a good understanding of programming and type theory, using that to explain homotopy theory?",1410143084.0
+67,8283173,comment,8281332.0,8283150.0,1,0,sjy,,,Did you read the Introduction from pp1-12 of HoTT? I thought it was a pretty good overview.,1410143068.0
+68,8283171,comment,8282189.0,8282962.0,1,0,ams6110,,,That&,
+69,8283170,story,,,1,0,jsm386,Hot Honey: How Two Companies Are Vying to Make the Next Great Condiment,http://www.grubstreet.com/2014/09/hot-honey.html,,1410143025.0
+70,8283169,comment,8282124.0,8283029.0,3,0,nraf,,,My point isn&,
+71,8283168,comment,8281773.0,8282552.0,1,0,pyre,,,> So...here&,
+72,8283167,comment,8282887.0,8283123.0,4,0,madengr,,,"I was taught electron flow from the get-go in high school, as it correctly represents electron emission off a hot cathode.  I still use it, except I have to think backwards when using a current meter or simulation software, as the industry standard is conventional flow.",1410142906.0
+73,8283166,comment,8283079.0,8283153.0,0,0,seanmcdirmid,,,You are just abusing flag then. It is obviously not SPAM in how most of us understand the term.,1410142884.0
+74,8283165,comment,8282048.0,8282503.0,1,0,kxo,,,To be fair: 1600 lines is relatively small.<p>You could probably proof it from anything but business-level error.,1410142856.0
+75,8283164,story,,,4,1,leoncrutchley,Size Matters- Dell fits 15M pixels into this 27“ 5K monitor,http://www.theregister.co.uk/2014/09/06/new_dell_5k_monitor_and_stuff/,,1410142820.0
+76,8283163,comment,8283031.0,8283031.0,8,0,greenyoda,,,"The defense lawyer was pretty incompetent. Even if the defendant was in the same park as the victim at the time of the murder, that&",
+77,8283162,comment,8282124.0,8283033.0,1,0,yareally,,,> It is an ethnicity.<p>I&,
+78,8283161,comment,8283007.0,8283041.0,2,0,walterbell,,,Are there any copyright issues?,1410142694.0
+79,8283160,story,,,101,15,georgeoliver,A Story about Losing,http://www.ultimaratioregum.co.uk/game/2014/09/07/a-story-about-losing/,,1410142631.0
+80,8283159,comment,8282189.0,8282189.0,4,0,superuser2,,,CenturyLink&,
+81,8283158,comment,8277928.0,8278883.0,1,0,cheez,,,Similar data-flow analysis techniques as volatile.,1410142574.0
+82,8283157,comment,8282780.0,8283057.0,15,0,Steko,,,The CPU benchmarks don&,
+83,8283156,comment,8282923.0,8282923.0,3,0,akkartik,,,"As it happens, I was just reading <a href=""http://www.macroresilience.com/2012/02/21/the-control-revolution-and-its-discontents-the-uncanny-valley"" rel=""nofollow"">http://www.macroresilience.com/2012/02/21/the-control-revolu...</a> today, the high point of which is describing &quot;defense in depth&quot; as a fallacy because of its tendency to increase fragility in complex systems in the long term.",1410142474.0
+84,8283155,comment,8280859.0,8280859.0,1,0,molixiaoge,,,get it,1410142442.0
+85,8283154,comment,8282048.0,8283039.0,21,0,michael_storm,,,"<i>He states that there is no way that a public IP would show up in a packet capture over a Tor network.</i><p>No, he does not. He says that there&",
+86,8283153,comment,8283079.0,8283139.0,2,0,readerrrr,,,"<i>If you think something is spam or offtopic, flag it by going to its page and clicking on the &quot;flag&quot; link</i><p>Since I have seen this submission many times I consider it as spam.",1410142367.0
+87,8283152,comment,8282310.0,8282310.0,2,0,molixiaoge,,,great,1410142337.0
+88,8283151,comment,8280105.0,8280333.0,1,0,AznHisoka,,,"From a content marketing perspective, I&",
+89,8283150,comment,8281332.0,8281332.0,3,0,amathstudent,,,I&,
+90,8283149,story,,,2,0,ryan_j_naughton,"The 2,128 Native American Mascots People Aren’t Talking About",http://fivethirtyeight.com/features/the-2128-native-american-mascots-people-arent-talking-about/,,1410142281.0
+91,8283148,comment,8282780.0,8283081.0,18,0,StephanTLavavej,,,Die shrinks reduce power consumption. 45nm consumes more power than 28nm.,1410142259.0
+92,8283147,comment,8282952.0,8282952.0,0,0,molixiaoge,,,get it,1410142253.0
+93,8283146,story,,,48,37,anonfunction,Standard Markdown is now CommonMark,http://commonmark.org//,,1410142186.0
+94,8283145,comment,8282887.0,8283037.0,5,0,2muchcoffeeman,,,"Not online, but offline \n<a href=""http://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0521370957"" rel=""nofollow"">http://www.amazon.com/The-Art-Electronics-Paul-Horowitz/dp/0...</a>",1410142182.0
+95,8283144,comment,8282124.0,8283074.0,9,0,lotsofpulp,,,"Generally, I don&",
+96,8283143,comment,8282124.0,8282124.0,2,0,molixiaoge,,,great,1410142123.0
+97,8283142,comment,8281561.0,8281561.0,3,0,deciplex,,,"This is really annoying (emphasis mine):<p>>Mr. Rudder is particularly interested in the divide between the mates people claim they want and their actual online pursuits. Witness the actions of 35-year-old heterosexual men on OkCupid. These men typically search for women between the ages of 24 and 40, Mr. Rudder reports, yet in practice they rarely contact anyone over 29.<p>><i>“I see this as a statement of what men imagine they’re supposed to desire,”</i> he writes in the book, <i>“versus what they actually do.”</i><p>For a guy talking up all the awesome science he thinks he can do, this is rather unscientific. I&",
+98,8283141,comment,8280428.0,8282663.0,1,0,jude-,,,"Thanks for your reply.  Just a couple of other things:<p>First, I see from your code that you don&",
+99,8283140,comment,8282780.0,8283097.0,1,0,Steko,,,The problem isn&,
+100,8283139,comment,8283079.0,8283135.0,0,0,seanmcdirmid,,,Why would you flag? Just don&,
+101,8283138,comment,8282048.0,8282539.0,1,0,cookiecaper,,,"I think he infers that both are bad practice, but for the record I don&",
+102,8283137,comment,8282048.0,8283046.0,4,0,roel_v,,,"If the evidence was obtained using illegal methods, all that evidence can&",
+103,8283136,comment,8252715.0,8252715.0,1,0,jeromebridge,,,"Java Developer Needed\nPenn Assurance Software - <a href=""http://www.pennassurancesoftware.com"" rel=""nofollow"">http://www.pennassurancesoftware.com</a> - Media, Pa<p>======================\nCompany\n======================\nPenn Assurance Software, LLC (PAS) is a strong technical and business consulting group. Our staff has over 30 years of experience with insurance policy administration software with combined experience at AdminServer, Oracle, and Genworth, and also consulted for companies such as Nationwide, Western United Life Assurance (WULA), ING, Merrill Lynch, MetLife, AIG, and AXIS Capital.<p>Penn Assurance offers flexible working hours and a friendly team environment. We foster a supportive work experience by encouraging collaboration and knowledge sharing between team members. Penn Assurance embraces and pursues diversity in the technology world.<p>======================\nJob Description\n======================\n1. Evaluate requirements and provide potential implementations to the business along with costs and risks associated with each potential solution.\n2. Design and implement integration message flow between systems to support business requirements for Insurance Administration System.\n3. Participate in all phases of SDLC such as analyze requirements, design implementation, develop, deployment, test, and production support.<p>If interest e-mail at hr@pennassurancesoftware.com",1410141975.0
+104,8283135,comment,8283079.0,8283115.0,2,0,readerrrr,,,"Exactly. Flag and move on, it keeps the content better.",1410141973.0
+105,8283134,comment,8282569.0,8282569.0,1,0,sperant,,,"Notational Velocity (and nvAlt) synced with SimpleNote through Dropbox, so I can access it anywhere. Works like a charm, simple enough so that the setup does not get in the way of anything and I need not have to think about it when note-taking, but robust enough to be everywhere whenever I want it.",1410141964.0
+106,8283133,comment,8282373.0,8282954.0,1,0,lotsofpulp,,,"The problem with using &quot;correlation does not imply causation&quot;  outside of a mathematical context is that in math, saying A implies B means that if condition A is true, then condition B is true.  In common vernacular, implies means to suggest, hence the confusion.",1410141882.0
+107,8283132,comment,8276428.0,8277473.0,1,0,alexqgb,,,"Um, that&",
+108,8283131,comment,8280889.0,8282580.0,2,0,gizmo686,,,"I would imagine such a law would apply to cops who are representing themselves as cops. This would go a long way to establishing the police as a group of people that I, as a law abiding citizen, can trust.",1410141842.0
+109,8283129,comment,8282048.0,8282236.0,1,0,nwf,,,"Unfortunately, the technology you need to do that is not yet finished: <a href=""https://trac.torproject.org/projects/tor/ticket/9498"" rel=""nofollow"">https://trac.torproject.org/projects/tor/ticket/9498</a><p>ETA: I should have said &quot;one possible technology&quot;; there may be others, but I am pretty sure that an IP-less Tor node requires that you play the Tor Bridge game and stream the Tor protocol over a non-IP link.  I have had a prototype of this design running, but have yet to have it to a point I consider robust.",1410141763.0
+110,8283128,story,,,2,6,hoodoof,Ask HN: The Markdown mess. Where to now for plain text formatting syntax?,,"Jeff Atwood et al recently attempted to come up with a better defined standard for Markdown.<p>The original author, John Gruber, took exception to this for whatever reason, ultimately forcing Atwood and his associates to entirely remove the &quot;Markdown&quot; name from their effort to standardise/improve.  This can&",

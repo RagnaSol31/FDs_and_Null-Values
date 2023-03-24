@@ -1,0 +1,141 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,5884262,comment,5882834.0,5884022.0,0,0,doublepop,,,That&,
+1,5884261,comment,5882834.0,5883146.0,2,0,doublepop,,,You&,
+2,5884260,comment,5883504.0,5883504.0,7,0,comex,,,"A small observation: CoreFoundation typedefs CFTypeRef (the generic object type) to void * , rather than having obj * be a separate type as in this library.  This lets you pass pointers to any CF type to functions that expect CFTypeRe without the ugly cast: it&",
+3,5884259,comment,5883790.0,5884246.0,7,0,bitsoda,,,I think Google Glass started out as a Google[x] project as well. I&,
+4,5884258,comment,5881746.0,5881746.0,1,0,drivebyacct2,,,Did anyone notice where he (effectively) asked for Android widgets? Good luck.,1371275824.0
+5,5884257,comment,5881746.0,5883754.0,1,0,gfodor,,,"I think there were external factors that forced a hard deadline for Apple Maps: the Google contract expiring, and the fact that for a service like mapping, not releasing the app into the wild serves as a blocker on a lot of engineering work that cannot begin until there is real-world usage data to work with.",1371275824.0
+6,5884256,comment,5882834.0,5884067.0,1,0,fleitz,,,To be fair he&,
+7,5884254,comment,5883790.0,5884117.0,7,0,sicxu,,,"It does not have it now, because they want to focus on the basics. Once that is done, adding a camera is not a big deal.",1371275767.0
+8,5884253,comment,5884060.0,5884060.0,6,0,rosser,,,This begins to hint at something I&,
+9,5884252,comment,5883790.0,5884104.0,4,0,wsh,,,This master&,
+10,5884251,comment,5883421.0,5884228.0,1,0,abalone,,,Why do you assume the NSA mostly targets US users? That&,
+11,5884250,comment,5883790.0,5884077.0,1,0,invisible,,,I think the key is that wired networks were ideal in the situation where customers would pay off the investment. Wireless is way cheaper - one station could be 20+ people and take far less investment upfront.,1371275663.0
+12,5884249,comment,5883790.0,5884097.0,17,0,aray,,,"And of the computer science and other researchers that were at Bell Labs at the time, many now work at Google.",1371275572.0
+13,5884248,comment,5883421.0,5884233.0,2,0,gasull,,,It could be as easily be the case that Candidate Obama was free while President Obama is blackmailed.<p>That&,
+14,5884247,comment,5883790.0,5883937.0,16,0,guiambros,,,"This explains clearly what happened with AT&T, and its multiple acquisitions over the years:<p><a href=""http://videosift.com/video/Colbert-regarding-the-new-ATT"" rel=""nofollow"">http://videosift.com/video/Colbert-regarding-the-new-ATT</a>",1371275559.0
+15,5884246,comment,5883790.0,5883790.0,6,0,cpeterso,,,Any news about other &quot;moonshot&quot; projects that Google[x] is working on besides self-driving cars and Loon?,1371275549.0
+16,5884245,story,,,2,0,Garbage,How Search Works - The Story,http://www.google.com/intl/en/insidesearch/howsearchworks/thestory/,,1371275545.0
+17,5884244,comment,5882983.0,5882983.0,1,0,guyinblackshirt,,,Dedicated hosting at companies like Leaseweb is a good option if you are not sure of your cloud hosting performance. tell us a bit more about your app and requirements.,1371275532.0
+18,5884243,story,,,3,1,saurabh,Why Use Monads(2009),http://www.intensivesystems.net/tutorials/why_monads.html,,1371275525.0
+19,5884242,comment,5883799.0,5883799.0,6,0,thufry,,,Cameras are so cheap these days. Why doesn&,
+20,5884241,comment,5883790.0,5884164.0,17,0,ghshephard,,,"Particularly over long, sparse networks, wired connectivity is not as cost effective as wireless connectivity, even including the cost of pole assets and antenna mounts.<p>And data rates of > 1 Gigabit for wireless connections are readily achievable these days. [1]<p>[1] <a href=""http://www.bridgewave.com/solutions/whitepapers.cfm"" rel=""nofollow"">http://www.bridgewave.com/solutions/whitepapers.cfm</a>",1371275494.0
+21,5884240,comment,5876887.0,5883003.0,1,0,JoachimSchipper,,,Thanks for pointing me at those papers! I&,
+22,5884239,comment,5878571.0,5883214.0,1,0,enraged_camel,,,I don&,
+23,5884238,comment,5877866.0,5878597.0,1,0,Zarel,,,It&,
+24,5884237,comment,5883796.0,5883796.0,3,0,confluence,,,Obviously very cool (but not without precedent). The things I&,
+25,5884236,comment,5883015.0,5883015.0,1,0,guyinblackshirt,,,Outlook.com with your domain could be an option. Why do you &quot;need to&quot; stop using them though?,1371275377.0
+26,5884235,comment,5883790.0,5884202.0,4,0,Dylan16807,,,I find it odd that you assume they&,
+27,5884234,comment,5883790.0,5884103.0,2,0,mtdewcmu,,,"If you watch the video, they say that the winds mostly blow west-to-east, opposite the Earth&",
+28,5884233,comment,5883421.0,5884220.0,2,0,iamdave,,,I&,
+29,5884232,comment,5880815.0,5883115.0,1,0,GoodIntentions,,,"<a href=""http://en.wikipedia.org/wiki/Marc_Emery"" rel=""nofollow"">http://en.wikipedia.org/wiki/Marc_Emery</a><p>There are other examples. This is the one that came to mind most readily. I don&",
+30,5884231,comment,5877866.0,5882864.0,2,0,Zarel,,,That&,
+31,5884230,comment,5883504.0,5884065.0,1,0,jessedhillon,,,"Is your project hosted somewhere? I would love to see the source for that, no matter how early/unpolished it is.",1371275185.0
+32,5884229,comment,5881545.0,5882372.0,4,0,acchow,,,Glass is simply paving the way for the future forcing us to deal with the privacy and social issues now. Eventually we will have video recording devices smaller than a grain of rice. What then?,1371275155.0
+33,5884228,comment,5883421.0,5883785.0,3,0,brianpan,,,I don&,
+34,5884227,comment,5884116.0,5884179.0,1,0,iamdave,,,"I sympathize, 100% with that.<p>So I suppose this is just a way of automating the hide feature of FB then?",1371275134.0
+35,5884225,comment,5881545.0,5883288.0,1,0,sliverstorm,,,"Unless we jump right to, &quot;Everybody does and says crazy stuff, so it doesn&",
+36,5884224,comment,5883103.0,5883718.0,3,0,gizmo686,,,The security model of Tor allows the exit nodes to see all the traffic in &,
+37,5884223,comment,5883790.0,5884137.0,18,0,robryan,,,Why can&,
+38,5884222,comment,5882422.0,5884049.0,1,0,dragonwriter,,,"> Okay sure, but it makes a seriously weird nonlinearity to the work/income relationship.<p>Pretty much every set of real policies in the world does that. So, what?<p>> Now let&",
+39,5884221,comment,5883421.0,5883421.0,3,0,lambda,,,"> a local sheriff trying to find a missing child<p>As worthy as these cases might be... this is not a national security issue. This kind of case should never use any law regarding national security. This is a regular police investigation, and as such, should require a regular old subpoena or warrant.",1371274850.0
+40,5884220,comment,5883421.0,5883822.0,2,0,gasull,,,And also Obama promised no surveillance before winning the first election.  It took him weeks to change his mind.,1371274850.0
+41,5884219,comment,5881739.0,5881739.0,3,0,shaggyfrog,,,What I love about these stories from the trenches isn&,
+42,5884218,story,,,154,11,dboles99,Archaeologists Discover Lost City In Cambodian Jungle,http://www.npr.org/blogs/thetwo-way/2013/06/14/191727408/archaeologists-discover-lost-city-in-cambodian-jungle,,1371274730.0
+43,5884217,comment,5883790.0,5883994.0,5,0,jfoster,,,"Autonomous cars, too.",1371274698.0
+44,5884216,story,,,19,0,dboles99,Scientists Go Medieval To Solve Ancient Leprosy Puzzle,http://www.npr.org/blogs/health/2013/06/13/191337793/scientists-go-medieval-to-solve-ancient-leprosy-puzzle?utm_source=NPR&utm_medium=facebook&utm_campaign=20130614,,1371274661.0
+45,5884215,comment,5881995.0,5883281.0,2,0,TheCowboy,,,"There is also the conversion to an information economy with a growth in white collar jobs that are usually salaried with hours no longer being tracked.<p>Most employers report a normal 40 hours per week on paper, but that is usually the minimum expected.",1371274618.0
+46,5884214,comment,5878497.0,5882329.0,1,0,anigbrowl,,,"<i>The original author will continue to be allowed to make money -- they will just no longer have a monopoly on doing so.</i><p>Tee hee, good luck with that business model.<p><i>The cold hard facts are that if you&",
+47,5884213,comment,5883421.0,5883569.0,3,0,trevelyan,,,Facebook&,
+48,5884212,comment,5883673.0,5883673.0,2,0,cupcake-unicorn,,,"I have used Spamgourmet for years, and I&",
+49,5884211,comment,5883690.0,5884166.0,3,0,nwmcsween,,,Please don&,
+50,5884210,comment,5880473.0,5882488.0,2,0,bradyo,,,But seriously,1371274456.0
+51,5884209,story,,,2,0,ternaryoperator,Web companies starting to release surveillance data,http://www.nytimes.com/reuters/2013/06/15/business/15reuters-usa-security-internet.html?hp,,1371274452.0
+52,5884208,comment,5846564.0,5846907.0,1,0,JacobHenner,,,I don&,
+53,5884206,comment,5883790.0,5884173.0,9,0,sounds,,,"Begun, the balloon wars have.<p>Actually, kite fights are an old Asian tradition: <a href=""http://answers.yahoo.com/question/index?qid=20101010110043AA4d95D"" rel=""nofollow"">http://answers.yahoo.com/question/index?qid=20101010110043AA...</a>",1371274410.0
+54,5884205,comment,5883790.0,5883790.0,2,0,mrtron,,,We are living in the future.,1371274353.0
+55,5884204,story,,,2,0,lemming,Prism NSA surveillance 'did not collect European data in bulk',http://www.guardian.co.uk/world/2013/jun/14/prism-nsa-surveillance-european-data,,1371274348.0
+56,5884203,comment,5883790.0,5884137.0,8,0,mh-,,,without addressing the remainder of your comment..<p><i>> I feel bad that you can&,
+57,5884202,comment,5883790.0,5883790.0,1,0,pinaceae,,,Wasn&,
+58,5884201,story,,,1,0,darrellsilver,The Bitcoin Believers,http://www.ft.com/intl/cms/s/2/910858fa-d3bf-11e2-95d4-00144feab7de.html,,1371274320.0
+59,5884200,story,,,2,0,bmmayer1,"Microsoft joins Facebook in partial FISA disclosure: 6-7,000 requests",http://thenextweb.com/microsoft/2013/06/15/microsoft-joins-facebook-in-partial-fisa-disclosure-6-7000-requests-implicated-31-32000-accounts/?fromcat=all,,1371274291.0
+60,5884199,comment,5883796.0,5883999.0,18,0,wmf,,,"Iridium is the ultimate backup connectivity (for balloon control, not for data). It&",
+61,5884197,comment,5883673.0,5883673.0,3,0,stock_toaster,,,"Looks neat, but I think I would prefer (or have available as an alternative) a service that lets me create (and possibly manage) &quot;throw away&quot; forwarding addresses to my real address.",1371274212.0
+62,5884196,comment,5883796.0,5884134.0,1,0,sicxu,,,You can use another &quot;attacker&quot; balloon to do it.,1371274210.0
+63,5884195,comment,5882964.0,5883425.0,0,0,prollyignored,,,"> guilt-by-association<p>I agree, silicon valley does not support development of behavior tracking technologies.<p>Strong encryption, user privacy, &quot;really delete my data on your server&quot;, robots.txt, have all been implemented using the latest standards, across all websites.<p>Terms and conditions clearly state that, user data or backup data will not be mishandled by admins, although users might be purged from the database from time to time.<p>Nerds and Geeks are very hippie-liberal so you won&",
+64,5884194,comment,5884060.0,5884171.0,2,0,b6,,,No. :(,1371274179.0
+65,5884193,comment,5880679.0,5883906.0,2,0,CamperBob2,,,Not when the phone&,
+66,5884192,comment,5883443.0,5884127.0,1,0,datalus,,,"Environment plays a huge role in everything, constructing superior concrete is no exception. That doesn&",
+67,5884191,comment,5882964.0,5883384.0,1,0,jleader,,,"But the advance of technology also inevitably advances the capabilities of murderers, rapists, and parking meter scofflaws.<p>The question is, does it advance their capabilities more than it advances the capabilities of those who oppose them? Is there any way to influence that balance?<p>Or should we just say &quot;any technology can be used for good or evil, so don&",
+68,5884190,comment,5883790.0,5884130.0,5,0,gaadd33,,,20K ballons doesn&,
+69,5884189,comment,5880679.0,5883697.0,1,0,CamperBob2,,,<i>I wouldn&,
+70,5884188,comment,5883790.0,5884039.0,4,0,sounds,,,"Look at it this way: if I wanted the government to put a CCTV camera in front of my house and snap photos once a year, it would mean I thought the best way to publish pictures of my house was to take tax dollars, enforce it through legislation, submit it to the whims of politicians, suffer the fruits of their corruption as they sell me out, and on and on.<p>Me? If I want to publish pictures of my house, I would likely use some sort of internet service to do so... therefore:<p>The laws around private companies photographing private property are both (1) very restrictive and (2) well known and well tested in court. Compare that to warrantless spying only reviewed by a secret court and even then the government fails to (1) keep it secret, (2) abide by their own court&",
+71,5884187,comment,5883690.0,5883690.0,2,0,chanux,,,Tried on Firefox 21.0/Ubuntu and it didn&,
+72,5884186,comment,5884009.0,5884009.0,1,0,greenyoda,,,The &quot;NSA&quot; in &quot;NSAKEY&quot; could stand for just about anything. Or it could just be some programmer&,
+73,5884185,comment,5883443.0,5883981.0,9,0,sandGorgon,,,"In India there is a huge demand (quite outstripping supply) for flyash bricks, made from the industrial byproduct of coal burning furnaces (which supply >50% of India&",
+74,5884184,comment,5883799.0,5884176.0,1,0,ghshephard,,,&quot;The resource you requested requires you to log in with your UW NetID and password&quot;,1371273969.0
+75,5884183,comment,5884060.0,5884060.0,4,0,morpher,,,Can&,
+76,5884182,comment,5880679.0,5883709.0,3,0,CamperBob2,,,<i>Is it so hard to imagine part of that logic including the mobile phone equivalent of wake-on-lan?</i><p>Yes.  You don&,
+77,5884181,comment,5883799.0,5883799.0,12,0,ghshephard,,,It&,
+78,5884180,comment,5883790.0,5883790.0,3,0,zhemao,,,When you&,
+79,5884179,comment,5884116.0,5884169.0,1,0,zakelfassi,,,"One thing, is ",
+80,5884178,comment,5882834.0,5883500.0,1,0,MacsHeadroom,,,Secrecy of the message and secrecy of the source are two different beasts entirely. OTPs solve the easy part of this two part problem.,1371273863.0
+81,5884177,comment,5883790.0,5884164.0,9,0,gaadd33,,,How is 56K better than 4G or at least 3G?,1371273802.0
+82,5884176,comment,5883799.0,5883799.0,1,0,morpher,,,"Interesting.\nThe original Am. J. Phys. paper[1] is from 2011.<p>[1] <a href=""http://ajp.aapt.org.offcampus.lib.washington.edu/resource/1/ajpias/v79/i1/p37_s1"" rel=""nofollow"">http://ajp.aapt.org.offcampus.lib.washington.edu/resource/1/...</a>",1371273739.0
+83,5884174,comment,5882834.0,5884031.0,7,0,MacsHeadroom,,,He could sign his comment with KP&,
+84,5884173,comment,5883790.0,5884101.0,5,0,tantalor,,,I don&,
+85,5884172,comment,5884017.0,5884017.0,1,0,bobfirestone,,,I know this isn&,
+86,5884171,comment,5884060.0,5884060.0,5,0,ck2,,,"If NSA has nothing to hide about FISA requests, what are they afraid of? Works both ways eh?",1371273534.0
+87,5884170,comment,5883790.0,5883790.0,2,0,venantius,,,"I find stuff like this awe-inspiring, particularly w/r/t how it could be used to protect internet access for not only those who are underprivileged but also for those being denied internet access by autocratic governments. Think back to Egypt, Libya, Syria - how different could those have gone if the authorities had been unable to shut down communication networks?",1371273531.0
+88,5884169,comment,5884116.0,5884116.0,1,0,iamdave,,,Why?\n(Editor&,
+89,5884168,comment,5883796.0,5884134.0,1,0,melloclello,,,What about a maser?,1371273454.0
+90,5884167,comment,5883421.0,5884088.0,1,0,declan,,,I&,
+91,5884166,comment,5883690.0,5884159.0,1,0,arcameron,,,"It started off as just a way to play around with socket.io, but eventually ended up as a bit more.  Can you do true anonymity with no-signups with XMPP?  I don&",
+92,5884165,comment,5883799.0,5883799.0,1,0,Zarathust,,,So you create a doughnut of ice around the base of a rock. The base of the rock has friction reduced by the area of the doughnut while slightly scraping the bottom sand. How high does this layer of frost get?,1371273375.0
+93,5884164,comment,5883790.0,5884040.0,3,0,vinceguidry,,,"Wireless is a hack, it will never replace wired. Sure, in Africa they get online with mobile phones, but that&",
+94,5884163,comment,5884017.0,5884017.0,1,0,anigbrowl,,,Find a co-founder that&,
+95,5884162,comment,5879709.0,5882639.0,1,0,mindcrime,,,Thanks for pointing that out.  I didn&,
+96,5884161,comment,5883421.0,5883856.0,1,0,daywalker,,,Here&,
+97,5884160,comment,5882964.0,5883782.0,2,0,sliverstorm,,,"Yeah, that&",
+98,5884159,comment,5883690.0,5883690.0,1,0,laurentoget,,,why is this not using xmpp?<p>i am sure there are reasons to dislike xmpp but throwing out more than a decade of standardization effort without even a word is a bit difficult to understand.,1371273236.0
+99,5884158,comment,5883799.0,5884128.0,7,0,sethbannon,,,"During the winter months the temperature often drops below freezing: <a href=""http://en.wikipedia.org/wiki/Death_Valley",
+100,5884157,comment,5882098.0,5882995.0,1,0,jspaur,,,"For credit repair, you&",
+101,5884156,comment,5876559.0,5877166.0,1,0,meowface,,,"Duckduckgo redirects all requests to HTTPS and uses only HTTPS; it is highly unlikely the NSA or anyone would be able to decrypt that traffic, unless of course they force DDG to divulge their SSL private key. Which I suppose is plausible.",1371273208.0
+102,5884155,comment,5882098.0,5882757.0,1,0,jspaur,,,"Hi there, Founder of TryPaper.com here, we handle some of the core printing & mailing processes all via API :)",1371273160.0
+103,5884154,comment,5884139.0,5884139.0,2,0,anigbrowl,,,"What next, the entire conflict in Syria was organized 2 years ago in case Obama needed a distraction at some point in the future? This kind of rumor-mongering belongs on infowars, not HN. Flagged.",1371273156.0
+104,5884152,comment,5883796.0,5884106.0,5,0,aptwebapps,,,You don&,
+105,5884151,comment,5883421.0,5883657.0,1,0,daywalker,,,There were lawful procedures for putting people onto trains to Poland.  Lots of paperwork and rubber stamping.<p>Of course the public didn&,
+106,5884150,comment,5883504.0,5883504.0,2,0,songgao,,,"star-able url: <a href=""https://github.com/theck01/offbrand_lib/"" rel=""nofollow"">https://github.com/theck01/offbrand_lib/</a>",1371273127.0
+107,5884149,comment,5876559.0,5877037.0,1,0,meowface,,,You still very well may be leaving a trail behind; it&,
+108,5884148,comment,5882098.0,5883250.0,4,0,veemjeem,,,"I doubt that, otherwise you could argue that Kinko&",
+109,5884147,comment,5883799.0,5884128.0,3,0,fragsworth,,,It happens once every few years. Rain isn&,
+110,5884146,comment,5883790.0,5884091.0,4,0,wmf,,,It&,
+111,5884145,comment,5883789.0,5883845.0,4,0,kogir,,,"Confirmed.  The IP bans are mostly automated.  If an exit node is blocked, it&",
+112,5884144,comment,5883974.0,5883974.0,2,0,nsp,,,"news.ycombinator.com/leaders<p>Check out the top spot.<p>Not saying that makes it impossible for him to be an astroturfer, but the community sure seems to appreciate it if he is.",1371272881.0
+113,5884142,comment,5876559.0,5878745.0,1,0,meowface,,,"True, but they would have to do this for every single web server they would want to collect information from. Not impossible, but it&",
+114,5884141,comment,5884139.0,5884139.0,1,0,shire,,,Is that what they did with 9/11?,1371272839.0
+115,5884140,comment,5882098.0,5884036.0,1,0,adcab,,,"that makes sense, i did forget to add the pricing for different addresses... thanks for the reply",1371272837.0
+116,5884139,story,,,2,2,hoodoof,Coming next in the NSA saga: war.,,"How will the government move the media off the issue of the NSA spying on everyone? How will they get everyone to forget and move on?<p>War.  Watch for it.  Coming soon.  U.S. will take military action.  It will distract the news, and provide justification for any surveillance action.",1371272797.0
+117,5884138,comment,5883790.0,5883790.0,2,0,asafira,,,"Google has mentioned that they had this sort of internet infrastructure in mind, right? Awesome to see it move forward!",1371272783.0
+118,5884137,comment,5883790.0,5883968.0,12,0,dannyr,,,I feel bad for people like you.<p>I fee bad that you can&,
+119,5884136,comment,5882964.0,5884105.0,2,0,auctiontheory,,,"My point, and I don&",
+120,5884135,comment,5883790.0,5883790.0,2,0,shire,,,Mind boggling!,1371272732.0
+121,5884134,comment,5883796.0,5884106.0,5,0,veemjeem,,,You&,
+122,5884133,comment,5883790.0,5884093.0,3,0,unono,,,4 million balloons and routers would cover earth. That&,
+123,5884132,comment,5883790.0,5883873.0,1,0,agsamek,,,This is great question. In urban area it is extremly cheap to buy area for towers. What area can a tower cover with LTE? What is the theoretical limit with different technology?,1371272689.0
+124,5884131,comment,5881035.0,5881835.0,1,0,cmwelsh,,,I found their pricing to be a bit high compared to other providers such as Engine Yard.,1371272688.0
+125,5884130,comment,5883790.0,5884103.0,3,0,sicxu,,,"Just cover the continent will require a lot of balloons. The world has 148,429,000 sq km. If you cover 1600 sq km per balloon, that is 92768 balloons. Just cover Africa will require around 20k balloons. It will only work out, if Google can increase the coverage area per balloon.",1371272675.0
+126,5884129,comment,5883790.0,5883790.0,22,0,tomasien,,,It&,
+127,5884128,comment,5883799.0,5883799.0,2,0,Buttons840,,,"> Lorenz realized that as moisture levels changed with the seasons, a collar of ice could form around the rock. With the rest of the lakebed covered in a thin, cold-but-not-frozen sheet of water, this ice collar would enable the rock it encased to floatslightly.<p>So &quot;ice collars&quot; are responsible for moving 700 pound rocks on a &quot;thin sheet of water&quot;; and all this in the hottest and driest place in America?  I must be missing something....",1371272632.0
+128,5884127,comment,5883443.0,5883810.0,7,0,sliverstorm,,,"I would not call it &quot;engineering prowess&quot;. I would call it &quot;experimentation&quot; or &quot;luck&quot;. The Roman Empire lasted 450 years, so they had plenty of time for experimentation, and it was near plenty of volcanic ash, which provided ample opportunity to luck into a good formula.<p>Obviously they came up with something good, and deserve credit. But to call that a triumph of Roman engineering over modern engineering? If I grew up in a land possessing an abundance of of nitrate, charcoal, and sulfur, would you proclaim how advanced my science was, if I came up with gunpowder?",1371272614.0
+129,5884126,story,,,1,0,ahmedeqbal,The Official Man of Steel Game for Android and iOS,http://technobb.com/apple/the-official-man-of-steel-game-for-android-and-ios/,,1371272602.0
+130,5884124,comment,5883790.0,5884014.0,3,0,psbp,,,Have the abandoned any of the moonshots?,1371272551.0
+131,5884123,comment,5883015.0,5883015.0,1,0,hellcow,,,"Check out Etherpad (<a href=""http://etherpad.org/"" rel=""nofollow"">http://etherpad.org/</a>). It&",
+132,5884122,story,,,4,0,gregrata,Language-Integrated Quantum Operations,http://research.microsoft.com/apps/video/default.aspx?id=194277,A Software Architecture for Quantum Computing,1371272490.0
+133,5884121,comment,5872348.0,5872760.0,1,0,redthrowaway,,,"If the prosecutor is smart, they&",
+134,5884120,story,,,3,1,jonbaer,AI For Language? Programming Content And Intuition In Semantics,http://www.science20.com/news_articles/artificial_intelligence_language_programming_content_and_intuition_semantics-114399,,1371272450.0
+135,5884119,story,,,2,0,someperson,Testing times for SpaceXs new Falcon 9 v.1.1,http://www.nasaspaceflight.com/2013/06/testing-times-spacexs-new-falcon-9-v-1-1/,,1371272442.0
+136,5884118,comment,5883690.0,5883690.0,2,0,arcameron,,,<i>Potentially NSFW</i>,1371272422.0
+137,5884117,comment,5883790.0,5883959.0,15,0,Kilo-byte,,,"Loon has no such capability.<p><a href=""http://www.google.com/loon/faq/",
+138,5884116,story,,,3,4,zakelfassi,Facebook Hashtag Killer ... seriously.,https://chrome.google.com/webstore/detail/facebook-hashtag-killer/bnpilfhcoifgobanlllnepciacmdednb,,1371272405.0
+139,5884115,comment,5883790.0,5883873.0,4,0,fowkswe,,,"Have you tried to fathom rolling out the fiber program in Kansas City?  The machinery, the man power, the political will?<p>This is a <i>no brainer</i>.",1371272403.0

@@ -1,0 +1,123 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8765784,comment,8764509.0,8764720.0,0,0,mgulaid,,,"I think theaters are afraid of cyber attack and not a terrorist attack (physical)..... I guess pretty soon a cyber attack will be classified as a terrorist attack, legally speaking.",1418871532.0
+1,8765783,story,,,3,4,rhopen,Should I build a personal finance site for engineers?,,"Before I transform my live financial education class to an online product, I&",
+2,8765782,comment,8762871.0,8764588.0,0,0,veidr,,,> <i>Arguably the high food prices reduce obesity which is really important</i><p>I don&,
+3,8765781,story,,,1,0,jj09,Windows 10 on VirtualBox – resolution problem,http://jj09.net/windows-10-virtualbox-resolution-problem/,,1418871452.0
+4,8765780,story,,,1,0,psufka,Morning Routines: Optimizing Your Startup Sequence,http://paulsufka.com/morning/,,1418871445.0
+5,8765778,comment,8765368.0,8765368.0,0,0,imaginenore,,,What do you guys think of having the absolute minimum page with inlined everything (even images) that just shows a simple progress bar - it loads the rest of CSS/JS/whatever.<p>I&,
+6,8765777,comment,8764509.0,8764719.0,0,0,zaroth,,,I am very disturbed by the implications this has for the next decade of cyber-warfare. I don&,
+7,8765776,comment,8764509.0,8764986.0,0,0,lotsofmangos,,,"Lots of people with handguns inside theaters increases the chance of someone losing their temper and shooting someone dead for throwing popcorn, like in the case of that retired cop in Florida.<p>Fights inside cinemas are vastly more common than mass shootings and people massively overestimate risk in stressful situations, especially when they cannot see properly, so I would expect that if there were self-selected people carrying concealed handguns to every single screening, for this to not to make people safer.",1418871386.0
+8,8765774,comment,8763942.0,8765334.0,0,0,pixl97,,,>We have eyes: we can see who we&,
+9,8765773,story,,,5,0,pepys,The Space Between: Tracing Eighteenth Century Smugglers,http://theappendix.net/issues/2014/10/the-space-between,,1418871361.0
+10,8765772,comment,8764135.0,8764853.0,0,0,ohsnapman,,,"michaelochurch is many things, but I don&",
+11,8765770,comment,8765368.0,8765749.0,0,0,firloop,,,Can&,
+12,8765769,comment,8764509.0,8765509.0,0,0,Retra,,,I would wager that those Americans don&,
+13,8765768,comment,8765368.0,8765762.0,0,0,TazeTSchnitzel,,,>Unless you&,
+14,8765767,comment,8764053.0,8765568.0,0,0,xnull2guest,,,"Cantonese, Italian, Korean stand out as smaller languages. Hindi isn&",
+15,8765766,comment,8764509.0,8765590.0,0,0,EpicEng,,,"Idoubt the latter, but sure, there would be a group of vocal detractors. That&",
+16,8765765,comment,8765760.0,8765760.0,0,0,swatkat,,,"Brochure: <a href=""http://isro.org/gslv-mkiii-x/pdf/GSLV-MK-III-X-brochure.pdf"" rel=""nofollow"">http://isro.org/gslv-mkiii-x/pdf/GSLV-MK-III-X-brochure.pdf</a><p>Live telecast: <a href=""https://www.youtube.com/watch?v=rBIcP7V8MKo"" rel=""nofollow"">https://www.youtube.com/watch?v=rBIcP7V8MKo</a> and <a href=""http://webcast.isro.gov.in/"" rel=""nofollow"">http://webcast.isro.gov.in/</a>",1418871258.0
+17,8765763,comment,8758074.0,8761410.0,0,0,jessaustin,,,"<i>The extreme detail that went into designing the arenas seemed to consume all the resources of the project.</i><p>Let me guess, every arena had a bike shed off to one side?",1418871249.0
+18,8765762,comment,8765368.0,8765368.0,0,0,brianpgordon,,,"> Here’s the rub: when you put CSS (a static resource) on a cookieless domain, you incur an additional DNS lookup and TCP connection before you start downloading it.  Even worse, if your site is served over HTTPS you spend another 1-2 round trips on TLS negotiation<p>Unless you&",
+19,8765761,comment,8765368.0,8765749.0,0,0,rb2k_,,,Is there a reason your CDN couldn&,
+20,8765760,story,,,2,2,swatkat,India set to debut GSLV Mk.III launch vehicle with prototype crew capsule,http://www.nasaspaceflight.com/2014/12/india-gslv-mk-iii-prototype-crew-capsule/,,1418871197.0
+21,8765759,comment,8763587.0,8765317.0,0,0,grecy,,,Interesting. I remember reading the Project Wonder mailing lists and the creators and maintainers of it were certain that Wonder wasn&,
+22,8765758,comment,8764509.0,8765349.0,0,0,mikeash,,,"I doubt it would collapse or even undergo anything much of note. I imagine if Kim Jong Un was assassinated, he would &quot;retire&quot; and be replaced with someone else. The government is much more than just the one guy.",1418871129.0
+23,8765757,comment,,8765602.0,0,0,rabbimarshak,,,"Very valid points here Neuen. But most programmers are paid by the hour - not by lines of code. My argument is that agents should be compensated hourly as well.<p>Programming is something that is taught at the highest level of academia, and requires a tremendous amount of skill, brainpower and discipline to deliver a quality product. I don&",
+24,8765756,story,,,25,4,gpoort,Leveraging Static Typing to Manage Object State,http://blog.rescale.com/?p=2082,,1418871098.0
+25,8765754,comment,8765033.0,8765033.0,0,0,bduerst,,,"I wonder how this will affect the web standards that are pushed by Facebook traffic, like Open Graph.",1418871048.0
+26,8765753,comment,8732891.0,8760857.0,0,0,hyc_symas,,,"Just to be clear - the loading job keeps running when the kernel error messages first start happening at 21:14:09. But after 21:21:31 the loading job makes no more progress. The kernel error messages continued until 22:19:23 when I killed the job, but nothing further got written to the DB in that intervening hour (based on looking at the filesize, which admittedly may not tell the whole story). The job stats were set to output once per 200,000 ops. It&",
+27,8765752,story,,,2,0,tuty767,Start-ups and Emotional Debt,https://learn.onevest.com/tutorial/4056049314756035968/start-ups-and-emotional-debt,,1418870983.0
+28,8765751,comment,8764270.0,8765433.0,0,0,Profan,,,I wasn&,
+29,8765750,comment,8765088.0,8765554.0,0,0,jckt,,,I&,
+30,8765749,comment,8765368.0,8765368.0,0,0,joevandyk,,,"If you terminate SSL at the CDN, if you don&",
+31,8765748,comment,8764509.0,8764509.0,0,0,maceo,,,Why are people surprised Hollywood capitulates to fear?  It&,
+32,8765747,comment,8762493.0,8765435.0,0,0,phaus,,,>he throws the guy down three flights of stairs!<p>And for some reason she seems to think that the attempted murder of a liberal is an honorable act.,1418870875.0
+33,8765746,comment,8763759.0,8765280.0,0,0,basdevries,,,"Interesting, how did you turn out? And how did you turn out different from other people (with a mentor)?",1418870867.0
+34,8765745,comment,8763273.0,8763273.0,0,0,codemonkeymike,,,"I heard on NPR they are trying to bring back the American Chestnut, which is being killed by a fungus from Asia. To be able to plant this genetically modified tree outside of test beds will take 5-10 years in just regulation issues alone. So even if they made this bioluminecent tree tomorrow (Which in itself is impossible) we wouldn&",
+35,8765744,story,,,4,1,Petiver,Festive spices and their intoxicating history,http://theconversation.com/out-of-your-noggin-festive-spices-and-their-intoxicating-history-35425,,1418870833.0
+36,8765743,comment,8765033.0,8765693.0,0,0,kenrikm,,,iPad Air 5 &quot;even thinner with an attached keyboard that gets out of your way ~ we&,
+37,8765742,comment,8762455.0,8765132.0,0,0,arthurcolle,,,My 2013 Moto X still hasn&,
+38,8765741,comment,8764509.0,8765465.0,0,0,sossles,,,"For this film, maybe.  It won&",
+39,8765740,comment,8765368.0,8765368.0,0,0,leeoniya,,,i&,
+40,8765739,story,,,5,0,applecore,You Can't Turn Fat into Muscle,http://www.theatlantic.com/health/archive/2014/12/breathing-out-fat/383862/?single_page=true,,1418870617.0
+41,8765738,comment,8764752.0,8765414.0,0,0,schappim,,,do it!,1418870586.0
+42,8765737,comment,8762871.0,8765719.0,0,0,pmelendez,,,"Yes, loable would be the equivalent in Spanish.",1418870562.0
+43,8765736,comment,8765101.0,8765101.0,0,0,nachivpn,,,We moved from Azure to Gcloud. We are currently using Gcloud&,
+44,8765735,comment,8764509.0,8765488.0,0,0,at-fates-hands,,,It doesn&,
+45,8765734,comment,8762871.0,8765063.0,0,0,pmelendez,,,Except when it is not. In Venezuela we are facing similar problems and even when people have the money you can&,
+46,8765733,comment,8764752.0,8765520.0,0,0,kabdib,,,Not really an RTOS. I hear it&,
+47,8765732,comment,8765027.0,8765607.0,0,0,xnull2guest,,,"Okay, so you think that this is is a manufactured lie. I understand your position now - it seems consistent to me.<p>I&",
+48,8765731,comment,8764459.0,8764459.0,0,0,Retric,,,It saddens me that people look at this and don&,
+49,8765730,comment,8764509.0,8765657.0,0,0,zaroth,,,Because capitulating is the sure-fire way to get the hackers and terrorists to stop? Fuck if we don&,
+50,8765729,comment,8763587.0,8763914.0,0,0,philwelch,,,"Acronyms, traditionally, are by definition pronounceable as words. Things like &quot;U.S.A.&quot; where you only pronounce the letters are called initialisms.",1418870313.0
+51,8765727,comment,8762626.0,8762789.0,0,0,dmak,,,"Responding to the spamming bit: I think this should be taken lightly. I mean, ANYONE could post up those links.",1418870273.0
+52,8765726,comment,8765088.0,8765088.0,0,0,finid,,,"If Btrfs is as bad as this proposal makes it look, why did the folks at openSUSE make it the default file system for the root partition on openSUSE 13.2?",1418870187.0
+53,8765725,comment,8765027.0,8765614.0,0,0,xnull2guest,,,"I do think that the ransom makes the North Korea explanation less likely, unless NK reached out to ",
+54,8765724,comment,8764509.0,8764509.0,0,0,thomasmarriott,,,&,
+55,8765723,comment,8761902.0,8765688.0,0,0,ars,,,"So I guess in your world all employees are exploited? They are doing a job, they are getting paid. What is the problem?",1418870134.0
+56,8765722,comment,8758571.0,8762220.0,0,0,Houshalter,,,"I do remember hearing there was debate if we should introduce invasive species, let alone terraform, or try to preserve life the way it is. There is also concern about it going the other way around mar&",
+57,8765721,comment,8764509.0,8765589.0,0,0,cdcarter,,,The point is that if there&,
+58,8765720,comment,8742935.0,8744755.0,0,0,codemonkeymike,,,"Yes people can change that is true, and I don&",
+59,8765719,comment,8762871.0,8765564.0,0,0,smtddr,,,"I had to look it up, but apparently in spanish &quot;loable&quot; is pefectly valid. <a href=""http://www.spanishdict.com/translate/loable"" rel=""nofollow"">http://www.spanishdict.com/translate/loable</a>",1418870013.0
+60,8765718,story,,,1,0,samwilliams,A Robot's Last Words,http://puzzling.stackexchange.com/questions/6239/a-robots-last-words,,1418869981.0
+61,8765717,comment,8763183.0,8765105.0,0,0,c54,,,Beautifully said!,1418869971.0
+62,8765716,comment,8760663.0,8760663.0,0,0,hansy,,,"[Ruby on Rails] <a href=""https://www.railstutorial.org/"" rel=""nofollow"">https://www.railstutorial.org/</a><p>Without question this is the single best beginner resource for learning Ruby on Rails I have ever come across. I tried CodeAcademy and a few other similar websites, but just couldn&",
+63,8765715,story,,,37,3,luu,Fast median search: an ANSI C implementation (1998),http://ndevilla.free.fr/median/median/index.html,,1418869906.0
+64,8765714,story,,,166,108,nicholasjbs,The Performance Cost of Integer Overflow Checking,http://danluu.com/integer-overflow/,,1418869893.0
+65,8765713,comment,8765567.0,8765567.0,0,0,anigbrowl,,,"<i>Oakland, too, had a choice when the banks came for those foreclosed homes. It chose not to act while thousands of the city’s most vulnerable residents were pushed out of their homes.</i><p>What choice was this, exactly? If it was to withhold assistance from banks seeking to foreclose, as the tone suggests, then that&",
+66,8765712,comment,8762705.0,8765508.0,0,0,bentrevor,,,"When I saw this article, I thought &quot;I bet burntsushi wrote it&quot;.  I&",
+67,8765711,comment,8762493.0,8764516.0,0,0,sytelus,,,"There are few good changes from Yahoo lately. For example, Flickr is now giving 1TB space. The team seem to write cool technical things on their blog. Yahoo Mail Plus version is essentially free now. It was refreshing to see so many new iOS apps from Yahoo but I haven&",
+68,8765710,story,,,2,0,dan_siepen,Eleven tech predictions for 2015,http://au.pcmag.com/australia/26981/feature/eleven-tech-predictions-for-2015,,1418869791.0
+69,8765709,comment,8765027.0,8765644.0,0,0,xnull2guest,,,I would suggest that even ISIL isn&,
+70,8765708,comment,8764509.0,8765116.0,0,0,nacho_weekend,,,Jealous! I know his stuff isn&,
+71,8765707,comment,8764752.0,8765414.0,0,0,at-fates-hands,,,Nicely done. I&,
+72,8765706,story,,,2,0,moonka,Sony Unveiling Google Glass Rival at CES 2015 – Nerdoholic,http://www.nerd-radar.com/gadgets/sony-unveiling-google-glass-rival-ces-2015/,,1418869503.0
+73,8765705,comment,8765088.0,8765297.0,0,0,Shish2k,,,"> Even today, I still have some cases where docker will complain about not being able to create the container/file, due to some inane error. I&",
+74,8765704,comment,8765088.0,8765388.0,0,0,akclr,,,"Checkout Rockstor <a href=""https://news.ycombinator.com/item?id=8375236"" rel=""nofollow"">https://news.ycombinator.com/item?id=8375236</a>",1418869388.0
+75,8765703,story,,,6,0,parthi,Quark: Quantum Computing Language,https://github.com/quarklang/QUARK,,1418869324.0
+76,8765702,story,,,1,0,softdev12,Global Life Expectancy Increases by About Six Years,http://www.wsj.com/articles/global-life-expectancy-increases-by-about-six-years-1418861100,,1418869302.0
+77,8765701,comment,8763518.0,8765000.0,0,0,nl,,,<i>I wonder when somebody is going to come along and match Rapha in everything but price.</i><p>Haven&,
+78,8765700,comment,8763273.0,8765406.0,0,0,DrJosiah,,,"(warning: I am not a biologist)<p>The problem is that generating ATP requires sun or sugar in plants (depending on the specific metabolic process involved), and that the total amount of sugar produced during the day as part of photosynthesis is tiny relative to the amount of ATP necessary to fuel the light at night.<p>Consider that humans burn 100-150 kilos of ATP daily (according to Wikipedia). This is only possible because we are recycling ATP continuously, fueling the recycling process with sugar and oxygen that we consume at rates several orders of magnitude higher than what a 20 year old tree could produce in the same period<i>.<p></i> I can&",
+79,8765699,story,,,2,0,jhawkinson,Opinion issued in SCO v. IBM on Monday; SCO loses once again,https://twitter.com/johnhawkinson/status/545354794559614977,,1418869227.0
+80,8765697,story,,,2,0,hotgoldminer,Music Valley: Pick up an instrument and make music with others,http://manyland.com/musicvalley,,1418869208.0
+81,8765695,comment,8764509.0,8765426.0,0,0,dba7dba,,,"Wrong. Minutes after it was published, NYT reports govt is pointing fingers at N Korea.<p>Update at 8p.m. 12/18/14: Minutes after we published this story examining the known evidence for and against North Korea as the source of the hack, The New York Times and other media outlets announced that the U.S. administration was ready to conclude North Korea was involved in the Sony hack. We have updated the story with this new information",1418869195.0
+82,8765694,comment,8764752.0,8764752.0,0,0,Animats,,,"Do not remove the Loyalty Bracelet.<p><a href=""http://www.yuwanmei.com/products",
+83,8765693,comment,8765033.0,8765687.0,0,0,Igglyboo,,,I can&,
+84,8765692,comment,8763942.0,8764609.0,0,0,unethical_ban,,,"Funny, it&",
+85,8765691,comment,8764509.0,8764774.0,0,0,dba7dba,,,"A movie that Sony expected to be their best movie (44 million to make and 55 million to advertise) turns into a fiasco that cost them tens of millions in lost work, rebuilding IT, hurt brand.<p>man, man.",1418869037.0
+86,8765690,comment,8763183.0,8765105.0,0,0,analog31,,,"Criticism accepted. Clearly, you&",
+87,8765689,comment,8761902.0,8764008.0,0,0,satori99,,,"This thing will be permantently moored in a part of the planet reknowned for the ferocity of the cyclones it gets each season.<p>Mother Nature will be attacking it too, and the designers know it. So it would probably have to be big mine.",1418869019.0
+88,8765688,comment,8761902.0,8765547.0,0,0,deciplex,,,Nothing wrong with exploiting people as long as you can argue they&,
+89,8765687,comment,8765033.0,8765033.0,0,0,Animats,,,"Next, a push for bigger mobile screens to make room for more ads.<p>(That&",
+90,8765685,comment,8765027.0,8765651.0,0,0,alttab,,,I&,
+91,8765684,comment,8761076.0,8761215.0,0,0,PhasmaFelis,,,"&quot;Because I can get away with it&quot; is often <i>a</i> reason to do something (or not do something, in this case), but it&",
+92,8765683,comment,8758671.0,8760088.0,0,0,ackalker,,,"Nah, I use telnet to browse the Web. No, not using that newfangled Line Mode Browser thingy over at CERN, I mean straight to server port 80.",1418868895.0
+93,8765682,comment,8764509.0,8765250.0,0,0,cwyers,,,How? Theaters refused to show it. Sony has pulled the movie from distribution.,1418868866.0
+94,8765681,story,,,1,0,jeffinhat,Inside the Azure Storage Outage of November 18th,http://channel9.msdn.com/posts/Inside-the-Azure-Storage-Outage-of-November-18th,,1418868856.0
+95,8765680,comment,8765660.0,8765660.0,0,0,FaisalAbid,,,Use whatever gets you to market first. Deal with scale later.,1418868847.0
+96,8765679,comment,8765368.0,8765368.0,0,0,ernestipark,,,Great post by Jonathan. For the case of a big &,
+97,8765677,comment,8765037.0,8765037.0,0,0,ElectronCharge,,,"This essay almost accidentally touches on the actual truth:<p>&quot;Another moral of this story is that a healthy amount of cynicism about human nature is probably an indispensable defense mechanism in this world—because people suck, and they will disappoint you, I’m sorry.&quot;<p>Human nature has evolved very little from the earliest days. In fact, one factor that&",
+98,8765676,comment,8763942.0,8765200.0,0,0,strcat,,,It works fine with PaX / grsecurity.,1418868766.0
+99,8765675,comment,8764509.0,8764509.0,0,0,amckenna,,,"A line at the end of the article caught my eye: <i>&quot;Hackers claim to have taken at least 100 terabytes of Sony data, or about 10 times of the amount stored in the Library of Congress.&quot;</i><p>Which struck me as very small. So I did some digging and it looks like as of 2009 (almost 6 years ago) the Library of Congress had 74 TB of online data available to the Internet. Additionally the U.S. Library of Congress Web Capture team claims that &quot;as of March 2014, the Library has collected about 525 terabytes of web archive data&quot; and that it adds about 5 terabytes per month. That just includes the web archive team which is one of 8 featured digital collections (<a href=""http://www.loc.gov/library/libarch-digital.html"" rel=""nofollow"">http://www.loc.gov/library/libarch-digital.html</a>).<p>Here the LOC debunks the 10TB figure directly: <a href=""http://blogs.loc.gov/digitalpreservation/2011/07/transferring-libraries-of-congress-of-data/"" rel=""nofollow"">http://blogs.loc.gov/digitalpreservation/2011/07/transferrin...</a><p>I&",
+100,8765674,comment,8765027.0,8765283.0,0,0,jonah,,,"Remember, Sony Pictures is a different entity than Sony Music Entertainment.",1418868745.0
+101,8765673,comment,8765033.0,8765532.0,0,0,bigbugbag,,,"facebook is by its own nature destined to fail and be replaced. The process has already started and it is a matter of time before it reaches a tipping point, everyone and his dog is predicting the demise of facebook because at some point it will happen and then they&",
+102,8765670,comment,8764509.0,8764509.0,0,0,dba7dba,,,Theaters are hurting themselves. Sony will release the movie on itunes/google-play and make more money than they would&,
+103,8765669,comment,8765027.0,8765218.0,0,0,ievans,,,I found your comment to be very thought-provoking. There&,
+104,8765668,comment,8765027.0,8765469.0,0,0,alttab,,,"Even the motive for a lone wolf hacker with a huge botnet would make sense if they were impressing themselves with how good the hack was. If they could &quot;trick&quot; the US into thinking it was North Korea, the lulz from that alone would be enough to have the whole charade to take on a life of its own.<p>That&",
+105,8765667,comment,8762493.0,8763381.0,0,0,arunabha,,,"This.<p>I was at Yahoo briefly (8 months, never again !) and middle management at Yahoo was absolutely the problem. A single SVP had 20 VPs and around a 100 Directors and Senior directors most of whom were lifers and &",
+106,8765666,comment,8763273.0,8764915.0,0,0,chillacy,,,"Possible in a controlled lab environment if you can destructively interfere the sound, but it&",
+107,8765665,comment,8765195.0,8765625.0,0,0,codeoclock,,,"Thanks for the exposure!<p>The demo is also available at <a href=""http://hughrawlinson.github.io/meyda"" rel=""nofollow"">http://hughrawlinson.github.io/meyda</a>.<p>I also want to be very clear from the outset that this was a group effort between @nevosegal, @jakubfiala (on github) and myself. We&",
+108,8765664,comment,8764509.0,8764509.0,0,0,tn13,,,"Well, American companies shared user&",
+109,8765663,comment,8765027.0,8765573.0,0,0,deciplex,,,"Installing rootkits on the machines of unsuspecting victims who foolishly purchased music CDs from them, for a start. Turnabout is fair play.",1418868382.0
+110,8765662,comment,8761902.0,8763986.0,0,0,jzwinck,,,"The first and probably not the last.  It reminds me of fish factory ships [1], where fish are processed at sea rather than being brought back to shore for processing.  What&",
+111,8765661,comment,8765027.0,8765248.0,0,0,deciplex,,,"> <i>With these administration comments, is it more likely that NK was actually responsible?</i><p>Less, in my view. It&",
+112,8765660,story,,,2,1,timsayshey,Should I use Railo to build my startup?,,"My cofounder and I are getting ready to start building our app and the fastest way to a mvp is by using Railo. If we go this route and our startup is successful, could this limit us and what challenges might we face by using a application server that isn&",
+113,8765659,comment,8764459.0,8764459.0,0,0,texuf,,,"This sounds like what would happen if I built a new javascript library, but instead of publishing source code, I just wrote blog post describing how to build it again in natural language. I&",
+114,8765658,comment,8760732.0,8765208.0,0,0,dalke,,,My apologies. You are correct. I have difficulties in drawing any conclusions about Venus as I can&,
+115,8765657,comment,8764509.0,8765604.0,0,0,downandout,,,It is realistic if they&,
+116,8765656,comment,8762871.0,8765481.0,0,0,jpatokal,,,"Well, that&",
+117,8765655,comment,8758057.0,8764093.0,0,0,rdtsc,,,SIGTERM if not handled (caught) terminates the program.,1418868103.0
+118,8765654,comment,8765027.0,8765402.0,0,0,deciplex,,,"Then we should never believe a single word they say, especially considering their track record.",1418868074.0
+119,8765653,comment,8760764.0,8760764.0,0,0,sintaxi,,,I prefer to agree to NDA&,
+120,8765652,comment,8765491.0,8765491.0,0,0,frostmatthew,,,"I went back to school when I decided to switch careers (I was a banquet manager at the time) and my experience was that a relevant degree will make it easier to land interviews, but doesn&",
+121,8765651,comment,8765027.0,8765552.0,0,0,hencq,,,"Completely agree. I know the regime in North Korea is crazy, but I really don&",

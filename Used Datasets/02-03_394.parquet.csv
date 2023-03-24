@@ -1,0 +1,146 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10101347,comment,10099240.0,10101027.0,0,0,rhelmer,,,"Good points, and I&",
+1,10101346,comment,10099606.0,10100742.0,0,0,hemdawgz,,,"I suppose this misunderstanding boils down to semantics. By definition they are objectively better off. However, past a baseline threshold for human survival it&",
+2,10101345,comment,10098206.0,10100974.0,0,0,tacoman,,,I don&,
+3,10101344,story,,,3,0,jeo1234,Spotify Tries to Put Out a Privacy Fire,http://recode.net/2015/08/21/spotify-tries-to-put-out-a-privacy-fire/,,1440212317.0
+4,10101343,comment,10100932.0,10101210.0,0,0,ics,,,LabVIEW&,
+5,10101342,comment,10097085.0,10099706.0,0,0,pki,,,"My apologies on the affiliate link thing then, all of your &quot;Visit Site&quot; links on each deal append `?ref=founderskit.co` to the end of the url.<p>Some of them, like crazyegg, hand out the same discount to everyone without paying for it - see <a href=""https://www.google.com/search?q=site%3Acrazyegg.com+&quot;Egg+is+happy+to+provide+you+an+exclusive+FREE+trial+of+90+days&quot;&filter=0"" rel=""nofollow"">https://www.google.com/search?q=site%3Acrazyegg.com+&quot;Egg+is+...</a><p>Platejoy, another on your list, offers coupon code TRYPJ (I used this a while ago) for the same discount without paying for it, publicly.<p>There&",
+6,10101341,comment,10101229.0,10101314.0,0,0,dang,,,The mystery is so much better.,1440212207.0
+7,10101339,comment,10100932.0,10100932.0,0,0,bokchoi,,,"Using SQLite for persistence is quite interesting!<p><a href=""http://drakon-editor.sourceforge.net/instant_save.html"" rel=""nofollow"">http://drakon-editor.sourceforge.net/instant_save.html</a>",1440212173.0
+8,10101338,comment,10099602.0,10099671.0,0,0,dynjo,,,"Check out <a href=""https://slimwiki.com"" rel=""nofollow"">https://slimwiki.com</a>",1440212157.0
+9,10101337,comment,10099931.0,10100943.0,0,0,justincormack,,,NetBSD has beenbthe longest supported non Linux dom0. FreeBSD is very new and I think Solaris support is no more.,1440212146.0
+10,10101336,comment,10101197.0,10101197.0,0,0,penguinlinux,,,you can use an hdmi monitor won&,
+11,10101335,story,,,1,1,jeo1234,A Trail of Evidence Leading to AT&T’s Partnership with the NSA,https://www.propublica.org/article/a-trail-of-evidence-leading-to-atts-partnership-with-the-nsa,,1440212097.0
+12,10101334,comment,10098561.0,10100339.0,0,0,asmithmd1,,,Using your example for a business more people understand - A real estate agency can honestly say &quot;We sold $20M of real estate last year&quot; and everyone knows they probably took in about $1M in revenue. With new businesses where revenue models are changing it is possible to make honest statements that mislead an investor.,1440212084.0
+13,10101333,comment,10094326.0,10095041.0,0,0,glandium,,,Would you have specific examples of things that wouldn&,
+14,10101332,comment,10101229.0,10101246.0,0,0,geofft,,,"Does HN even track how many people view the link? As far as I can tell, there&",
+15,10101331,comment,10101216.0,10101216.0,0,0,smt88,,,I wouldn&,
+16,10101330,comment,10040302.0,10092589.0,0,0,nickpsecurity,,,Makes sense. Is there an up-to-date reference on the problems it currently has? I&,
+17,10101329,comment,10098206.0,10100291.0,0,0,drunkpotato,,,This is not bad advice. I&,
+18,10101328,story,,,1,0,cleverjake,Using poster images on plugin content,https://developers.google.com/web/updates/2015/08/using-poster-images-on-plugin-content,,1440211731.0
+19,10101327,comment,10101075.0,10101075.0,0,0,thesagan,,,To my ears she proactively caught her husband cheating on her.,1440211694.0
+20,10101326,comment,10100932.0,10101233.0,0,0,DonaldFisk,,,"1. Not all visual languages are the same, just as not all text-based languages are the same.   The main problem is there aren&",
+21,10101325,comment,10101229.0,10101299.0,0,0,faizshah,,,It can&,
+22,10101324,comment,10099304.0,10099304.0,0,0,skywhopper,,,"I really enjoyed learning and toying around with Smalltalk and Scheme. What killed it for me was that for all the fun abstractions, they were so isolated in their own environment and disconnected from the operating system that it was not apparent how you would use them for anything real. Processing files, connecting to databases and other network resources, and interacting with the user are core practical services that need to be front and center to get new users to connect to your language, but if those elements are ghettoized into awkward libraries that don&",
+23,10101323,story,,,1,0,ohjeez,Questions You Wish You Asked the Manager During the Job Interview,http://www.javaworld.com/article/2072695/28-questions-you-wish-you-asked-the-manager-during-the-job-interview.html,,1440211654.0
+24,10101322,comment,10101231.0,10101231.0,0,0,ihuman,,,"Duplicate question: <a href=""https://news.ycombinator.com/item?id=10101229"" rel=""nofollow"">https://news.ycombinator.com/item?id=10101229</a>",1440211653.0
+25,10101321,story,,,2,0,vonnik,Crazy Word2Vec Results,http://deeplearning4j.org/word2vec.html,,
+26,10101320,comment,10100330.0,10100330.0,0,0,nattaylor,,,"> Improved performance: PHP 7 is up to twice as fast as PHP 5.6<p>This is from the new Zend Engine which uses PHPNG.  I was unaware of this, but it sounds like a massive improvement.  From <a href=""http://www.zend.com/en/resources/php-7"" rel=""nofollow"">http://www.zend.com/en/resources/php-7</a><p>>To put things in perspective – when PHPNG was published, the WordPress homepage required approx. 9.4 billion CPU instructions to execute.  As of now – it requires only 2.6 billion – that’s 72% less!<p>I was also unfamiliar with anonymous classes, which sound nice for creating maintainable code bases as they are often described as &quot;reducing clutter.&quot;",1440211584.0
+27,10101319,comment,10098037.0,10100559.0,0,0,cma,,,"> averaging over myriads of particle interactions<p>But you can have partial wave collapse through things like lack of particle observations <a href=""https://en.m.wikipedia.org/wiki/Renninger_negative-result_experiment"" rel=""nofollow"">https://en.m.wikipedia.org/wiki/Renninger_negative-result_ex...</a>",1440211573.0
+28,10101318,comment,10098561.0,10098561.0,0,0,krallja,,,"Look what A16Z just posted: <a href=""http://a16z.com/2015/08/21/16-metrics/"" rel=""nofollow"">http://a16z.com/2015/08/21/16-metrics/</a>",1440211553.0
+29,10101317,comment,10101229.0,10101303.0,0,0,adventured,,,"In this case, you&",
+30,10101316,comment,10101229.0,10101303.0,0,0,other_herbert,,,That&,
+31,10101315,comment,10100910.0,10101108.0,0,0,rspeer,,,"I have doubts about these results if they depend on paragraph vectors.<p>The first paragraph paper vector (Le and Mikolov 2014) was irreproducible [1]. Not even Mikolov could reproduce it.<p>Paragraph vectors also fundamentally involve training on your test set: the paper stresses the importance of all the vectors being learned jointly, without addressing why this is a problem for evaluation.<p>The developers of gensim have been making an effort to make a version of doc2vec that can be applied to documents it was not trained on (of course it doesn&",
+32,10101314,comment,10101229.0,10101293.0,0,0,adventured,,,So now you&,
+33,10101313,comment,10101229.0,10101293.0,0,0,stevesearer,,,"I remembered there being special options and information for mods from a post a while ago and was able to dig up this screenshot which contains a % score: <a href=""http://imgur.com/ge3ZBgt"" rel=""nofollow"">http://imgur.com/ge3ZBgt</a><p>The mystery continues! :)<p>EDIT: And apparently that % score was discussed here: <a href=""https://news.ycombinator.com/item?id=7972234"" rel=""nofollow"">https://news.ycombinator.com/item?id=7972234</a>",1440211388.0
+34,10101312,comment,10098561.0,10100871.0,0,0,matthewrudy,,,"I think stripe is the perfect example of GMV.\nA clear distinction between the transaction volume they handle and the revenue they take from that volume.<p>There are more confusing examples though.<p>If Uber accepted cash payments, and the driver post paid just the commission, would the whole trip cost be GMV or just the commission?<p>eg\nRegular Uber:<p>Ride Cost: $20.00 GMV (goes through ubers payment system)<p>Commission: $4.00 revenue<p>Credit card fees: $0.60 expense<p>Cash Uber<p>Ride Cost: $20.00 (Uber never handles this)<p>Commission: $4.00 revenue<p>Credit card fees: n/a<p>Edit: formatting",1440211369.0
+35,10101311,comment,10096116.0,10099806.0,0,0,e12e,,,"I rarely use MS Words, but it might help to simply turn on hyphenation? Eg: <a href=""http://wordribbon.tips.net/T006825_Hyphenating_Your_Document.html"" rel=""nofollow"">http://wordribbon.tips.net/T006825_Hyphenating_Your_Document...</a><p>That said, pretty layout and MS Word isn&",
+36,10101310,comment,10101229.0,10101293.0,0,0,jeo1234,,,Which stats?,1440211347.0
+37,10101309,comment,10101277.0,10101277.0,0,0,xennygrimmato,,,"I am creating a collection of data structures and algorithms for all. I hope this becomes a large collection of readable code, which people utilize in the future for learning or referring whenever required.",1440211277.0
+38,10101308,comment,10101229.0,10101281.0,0,0,adventured,,,"Nothing, they&",
+39,10101307,comment,10101229.0,10101295.0,0,0,ghayes,,,Now let&,
+40,10101305,comment,10099304.0,10099817.0,0,0,cwp,,,"Yes, it is a continuation, although it&",
+41,10101304,comment,10092762.0,10100757.0,0,0,harryh,,,I reject your assertion that the legal process is sucking up too large a percentage of the disputed assets in question. In general legal fees and court costs are a relatively small percentage of the disputed value.,1440211224.0
+42,10101303,comment,10101229.0,10101285.0,0,0,jeo1234,,,"Seems unlikely, pretty hard to attached a computer created value to something like that.",1440211187.0
+43,10101302,comment,10096116.0,10096706.0,0,0,e12e,,,Very nice. Have you compared your approach to simply enabling css-hyphens in eg: Firefox? The chrome team apparently doesn&,
+44,10101301,comment,10100932.0,10100932.0,0,0,rdtsc,,,"The editor:<p><a href=""http://drakon-editor.sourceforge.net/"" rel=""nofollow"">http://drakon-editor.sourceforge.net/</a><p>(it is at the bottom of Wiki page but added it here for quicker access).<p>Also Stepan Mitkin gave an Erlang Factory talk this year about the Erlang backend for DRAKON:<p><a href=""http://www.erlang-factory.com/euc2015/stepan-mitkin"" rel=""nofollow"">http://www.erlang-factory.com/euc2015/stepan-mitkin</a>",1440211182.0
+45,10101300,comment,10101229.0,10101270.0,0,0,Absentinsomniac,,,"All of the colors above 50 percent seemed to be red, while none below were.",1440211175.0
+46,10101299,comment,10101229.0,10101285.0,0,0,brudgers,,,"I think it may have been sentiment analysis. The low ranked threads appeared to have a more negative tone, at least during my quick anecdotal survey, and this thread was high ranked perhaps because people hadn&",
+47,10101298,comment,10087178.0,10090563.0,0,0,motoboi,,,"Agreed.<p>But the most impressive part seems to be not the app itself, but the system used to build it.",1440211105.0
+48,10101297,comment,10098561.0,10100772.0,0,0,marincounty,,,I&,
+49,10101296,comment,10101229.0,10101285.0,0,0,dang,,,> then HN went down<p>We prefer to call that &quot;restarting the server&quot; :),1440211100.0
+50,10101295,comment,10101229.0,10101229.0,0,0,mukyu,,,"<a href=""http://i.imgur.com/nlwvHJK.png"" rel=""nofollow"">http://i.imgur.com/nlwvHJK.png</a> an example for those that did not see it",1440211094.0
+51,10101294,comment,10099304.0,10099739.0,0,0,mark_l_watson,,,"How about writing web apps in Pharo (or Squeak)? There are several nice frameworks, Seaside just being on of them.",1440211006.0
+52,10101293,comment,10101229.0,10101229.0,0,0,dang,,,I was experimenting with collecting some stats on posts and accidentally published that version of the page.<p>Normally I&,
+53,10101292,comment,10097221.0,10101202.0,0,0,rbehrends,,,All history editing in Mercurial needs to be enabled via extensions (so that you don&,
+54,10101291,comment,10099945.0,10100485.0,0,0,sadkingbilly,,,That&,
+55,10101290,story,,,6,0,vezzy-fnord,Seth Nickell on Replacing the Aging Init Procedure on Linux (2003),http://www.osnews.com/story/4711,,1440210958.0
+56,10101289,comment,10099611.0,10100545.0,0,0,mraison,,,I think coding in lisp-family languages without using structural editing (aka paredit) is a significant waste of time. It takes maybe 2 hours to get used to it. If you don&,
+57,10101288,comment,10101229.0,10101269.0,0,0,Semiapies,,,Maybe it&,
+58,10101287,comment,10096116.0,10096116.0,0,0,e12e,,,"Somewhat related, VPRI discovered that the could get away with rather simple algorithms for typesetting, if letters were allowed to &quot;place themselves&quot; relative to other letters. I first saw it in the 2011 STEPS report, I believe:<p><a href=""http://www.vpri.org/pdf/tr2011004_steps11.pdf"" rel=""nofollow"">http://www.vpri.org/pdf/tr2011004_steps11.pdf</a>\n(Look for the &quot;Text Objects&quot; headline)<p>And I think this essay is a write-up that focuses more on just that part (the STEPS report is on the entire system):<p><a href=""http://www.vpri.org/pdf/m2010001_pobjects.pdf"" rel=""nofollow"">http://www.vpri.org/pdf/m2010001_pobjects.pdf</a><p>I haven&",
+59,10101286,comment,10101229.0,10101229.0,0,0,rdtsc,,,"The numbers of this post were 106/70% , then I upvoted it, refreshed,  it became 107/69%.<p>So maybe percentage is how many people viewed the front page but didn&",
+60,10101285,comment,10101229.0,10101229.0,0,0,pshc,,,"Was it an indicator of the quality of the comments section?<p>Looks like the percentages appeared, then HN went down briefly (server restart, sorry @dang), and now the percentages are gone.",1440210856.0
+61,10101284,comment,10101229.0,10101229.0,0,0,jeo1234,,,Maybe YC has made part of the sorting algorithm public. Perhaps by accident.,1440210852.0
+62,10101283,comment,10101229.0,10101279.0,0,0,archimedespi,,,I don&,
+63,10101282,comment,10099240.0,10100749.0,0,0,throwaway2048,,,web workers don&,
+64,10101281,comment,10101229.0,10101229.0,0,0,polemic,,,What does it mean if I can&,
+65,10101280,comment,10097460.0,10101083.0,0,0,ladon86,,,"I second this, I&",
+66,10101279,comment,10101229.0,10101229.0,0,0,blairbeckwith,,,"And, they&",
+67,10101278,comment,10101229.0,10101270.0,0,0,jeo1234,,,I think the colours may relates to the way the story is trending (up or down).,1440210771.0
+68,10101277,story,,,2,1,xennygrimmato,Data Structure and Algorithm Collection,https://github.com/xennygrimmato/Data-Structures-and-Algorithms,,1440210719.0
+69,10101276,comment,10101229.0,10101247.0,0,0,enraged_camel,,,But I upvoted another submission and the percentage fell!,1440210687.0
+70,10101275,comment,10099945.0,10100753.0,0,0,cma,,,"That would need changes to laws.  A real supporter of capitalism would say the government should be owned by a king or group of shareholders who could put those kind of laws into place and defund the care of the disabled, etc.",1440210667.0
+71,10101274,comment,10101229.0,10101229.0,0,0,other_herbert,,,Totally out there option...  Rain percentage from the geolocation of the ip that submitted it,1440210628.0
+72,10101273,comment,10101229.0,10101229.0,0,0,ZoF,,,I though it was %upvoted/downvoted as well.<p>>Posting in epic thread.,1440210623.0
+73,10101272,comment,10101229.0,10101268.0,0,0,adventured,,,"Any normal posts turn red at 51% and above. Ask HN posts never turn red. Went back through the top 500 posts, all of the reds are 51% or above. Might be some other variable that triggers a rare sub 51% red, but I can&",
+74,10101271,comment,10099240.0,10100785.0,0,0,throwaway2048,,,"The way you keep comparing firefox extensions to kernel modules seems really disingenuous, the paralels are weak at best.",1440210611.0
+75,10101270,comment,10101229.0,10101229.0,0,0,542458,,,"The colors are strange too. Some percents in red, some in gray, but it doesn&",
+76,10101269,comment,10101229.0,10101256.0,0,0,raidan,,,A random number that goes up when you upvote..,1440210592.0
+77,10101268,comment,10101229.0,10101258.0,0,0,jeo1234,,,Don&,
+78,10101267,comment,10101231.0,10101231.0,0,0,phaemon,,,I don&,
+79,10101266,comment,10101229.0,10101241.0,0,0,rev_bird,,,A TWIST! Now I have no idea what these could be.,1440210573.0
+80,10101265,comment,10099611.0,10099611.0,0,0,timmclean,,,"I prototyped almost exactly this a couple years ago: <a href=""https://www.timmclean.net/json-editor/"" rel=""nofollow"">https://www.timmclean.net/json-editor/</a><p>I haven&",
+81,10101263,comment,10101229.0,10101253.0,0,0,netcraft,,,"agreed, they are relatively high for that.",1440210560.0
+82,10101262,comment,10101229.0,10101240.0,0,0,inopinatus,,,I like it. Crowdsourcing your ideas. A meta-MVP.,1440210545.0
+83,10101261,comment,10099240.0,10101135.0,0,0,jb613,,,Firefox hsa NoScript (disable Javascript) - while Google is motivated (by ad $revenues) to ensure Javascript executes.  Yet in other threads you concretely have stated Chrome > FF.,1440210531.0
+84,10101258,comment,10101229.0,10101229.0,0,0,fimoreth,,,"Also, why are some red & grey? Looks like it turns red at 50%.",1440210514.0
+85,10101257,story,,,3,0,quadedge,Machine Learning Saves the Day,http://blog.malleablebyte.org/2015/08/machine-learning-saves-day.html,,1440210494.0
+86,10101256,comment,10101229.0,10101240.0,0,0,joaq,,,And after two days it turns out it&,
+87,10101255,comment,10101229.0,10101246.0,0,0,guiomie,,,is there an xhr attached to opening of the link in a new tab?,1440210468.0
+88,10101254,comment,10101229.0,10101229.0,0,0,Springtime,,,It&,
+89,10101253,comment,10101229.0,10101246.0,0,0,542458,,,"Thats an interesting theory, but unless everybody votes way more often than me those numbers seem really high.",1440210463.0
+90,10101252,comment,10101229.0,10101238.0,0,0,jerrac,,,"If @0942v8653 is correct, stories can&",
+91,10101250,comment,10100932.0,10101131.0,0,0,DonaldFisk,,,"If the algorithm is to be distributed over multiple processors capable of executing different instructions, it is best represented as dataflow.  (Dataflow algorithms are directed graphs, with data flowing along edges between vertices, each of which contains a single processing step.)   This is because dataflow captures all the parallelism inherent in the algorithm without the programmer having to assign tasks to processors explicitly.   While text-based dataflow languages exist, the directed graphs which comprise dataflow programs are more naturally represented graphically.<p>Having started down the dataflow route, further advantages then manifest themselves: most program development can be done by drag and drop, rather than typing; strong type checking can be done while edges are being drawn; the directed graphs used to draw code can double as completely general data structures; and the graphics libraries used to develop the language can be made available to the programmer.<p>The visual dataflow programming language I am developing is described here: <a href=""http://web.onetel.com/~hibou/fmj/FMJ.html"" rel=""nofollow"">http://web.onetel.com/~hibou/fmj/FMJ.html</a><p>Some visual languages, such as DRAKON and GRAIL, are based on conventional flowcharts showing flow of control, rather than flow of data.   Flow of control, however, can be adequately represented as text.",1440210413.0
+92,10101248,comment,10099945.0,10101055.0,0,0,redthrowaway,,,You&,
+93,10101247,comment,10101229.0,10101238.0,0,0,jeo1234,,,I think it is likely something along these lines. I up-voted this question and the percentage rose.,1440210385.0
+94,10101246,comment,10101229.0,10101229.0,0,0,netcraft,,,speculation: could be the ratio of how many people upvote vs how many view the link?,1440210378.0
+95,10101245,comment,10098206.0,10101180.0,0,0,conistonwater,,,But that&,
+96,10101244,comment,10101229.0,10101229.0,0,0,other_herbert,,,Percentage of visitors that click it?,1440210350.0
+97,10101243,comment,10101229.0,10101229.0,0,0,vowelless,,,&quot;freshness&quot;,1440210337.0
+98,10101242,comment,10101229.0,10101237.0,0,0,fimoreth,,,That&,
+99,10101241,comment,10101229.0,10101237.0,0,0,0942v8653,,,"Stories cannot be downvoted, no matter how much karma you have.",1440210274.0
+100,10101240,comment,10101229.0,10101229.0,0,0,enraged_camel,,,This is a chance for moderators to conduct a social experiment: let people speculate in this thread for two days before revealing what it is. Just to see what crazy theories people come up with! :),1440210247.0
+101,10101239,comment,10098561.0,10099741.0,0,0,chernevik,,,"I think the point is less these particular terms and more the general responsibility to know and use the accounting terminology properly.  Sam probably has a dozen examples of financial terminology errors, of varying seriousness and intent, and startup models, by definition, are going to raise still more questions.  Sam can&",
+102,10101238,comment,10101229.0,10101229.0,0,0,spydum,,,Heat/trending of some sorts?,1440210224.0
+103,10101237,comment,10101229.0,10101229.0,0,0,jerrac,,,"No idea, but I&",
+104,10101236,comment,10097221.0,10101202.0,0,0,kazinator,,,"> <i>Its always a huge pain point.</i><p>And that is a nonstarter, once Git has opened your eyes to light-weight rewriting, done casually and frequently.",1440210146.0
+105,10101235,comment,10097542.0,10101215.0,0,0,jjoonathan,,,"> Yes, we need watch systems. Luckily we do have them.<p>For those who haven&",
+106,10101234,story,,,2,0,brudgers,State-Space Representation,https://en.wikipedia.org/wiki/State_space_representation,,1440210089.0
+107,10101233,comment,10100932.0,10101131.0,0,0,analog31,,,I did a fair amount of work with LabVIEW long ago. I also played with another visual language for the Mac that was floating around in the 90s. This isn&,
+108,10101232,comment,10101216.0,10101223.0,0,0,matterio,,,That looks like it&,
+109,10101229,story,,,166,68,flippant,Ask HN: What does the percentage next to posts mean?,,,1440210069.0
+110,10101228,story,,,1,0,jon_kuperman,JavaScript meetups in San Francisco,https://github.com/jkup/sf-javascript-meetups,,1440210029.0
+111,10101226,comment,10101191.0,10101191.0,0,0,fezz,,,"1225% tuition increase since 1978\nCPI was 279%<p><a href=""http://www.bloomberg.com/news/articles/2014-08-18/college-tuition-costs-soar-chart-of-the-day"" rel=""nofollow"">http://www.bloomberg.com/news/articles/2014-08-18/college-tu...</a>",1440209984.0
+112,10101225,comment,10098206.0,10101177.0,0,0,nether,,,Your last point is the most important one to me. I&,
+113,10101224,comment,10097460.0,10101213.0,0,0,lobster_johnson,,,"I should perhaps have said replicas (ie., redundant shards).",1440209955.0
+114,10101223,comment,10101216.0,10101216.0,0,0,dennybritz,,,I don&,
+115,10101222,comment,10096990.0,10100953.0,0,0,temujin,,,Most economists agree that Lee Kuan Yew did a better job at increasing his people&,
+116,10101221,comment,10098561.0,10099082.0,0,0,chernevik,,,I know nothing about startup investor terms.  But I wouldn&,
+117,10101220,comment,10095710.0,10096460.0,0,0,ritetag,,,And we don&,
+118,10101218,comment,10097296.0,10099988.0,0,0,mikeash,,,I never heard of any of this but I had no trouble figuring out what they were talking about.,1440209631.0
+119,10101217,comment,10100362.0,10100362.0,0,0,ExpertBeginr,,,No smart developers work in .NET anymore?,1440209618.0
+120,10101216,story,,,2,7,matterio,"Ask HN: I have the opportunity to pick my own title, any ideas?",,I&,
+121,10101215,comment,10097542.0,10101068.0,0,0,marcosdumay,,,"Well, we&",
+122,10101214,comment,10101197.0,10101205.0,0,0,dennybritz,,,Thanks. I&,
+123,10101213,comment,10097460.0,10100181.0,0,0,aurelianito,,,Why do you need sharding on a dataset so small?,1440209519.0
+124,10101212,comment,10097630.0,10099324.0,0,0,scottjad,,,They said previously the unbranded non-lockdown beta/stable releases would be enUS only.,1440209505.0
+125,10101211,story,,,3,0,pepys,Melancholy,http://thepointmag.com/2015/examined-life/melancholy,,1440209493.0
+126,10101210,comment,10100932.0,10100932.0,0,0,shadowmint,,,"As a tangentaly related point...<p>Has any visual programming language ever been successful?<p>The guys at Epic are really pushing their blueprint system, and a lot of people like it... but its inherantly tied to the engine.",1440209483.0
+127,10101209,story,,,252,48,webmasterraj,Startup Metrics,http://a16z.com/2015/08/21/16-metrics/,,1440209458.0
+128,10101207,comment,10096735.0,10096914.0,0,0,rodgerd,,,"> why not just contribute to the code for one of the existing solutions and make it more mature?<p>Well, Linus took that gamble when he blessed btrfs as the future of Linux filesystems four or five years ago, and it hasn&",
+129,10101206,comment,10097630.0,10101175.0,0,0,CyberShadow,,,"Sorry, I might have been confused there, looking at where I thought I read that I see it&",
+130,10101205,comment,10101197.0,10101197.0,0,0,mattkrea,,,Depends.<p>At work I use two but really the 2nd one just ends up becoming a spotify or mail window.<p>If you are using an IDE for development (if you are even a developer) then you might want two but me using Sublime at home.. I&,
+131,10101204,comment,10100932.0,10100932.0,0,0,nyc_cyn,,,Can&,
+132,10101203,comment,10095710.0,10096332.0,0,0,ritetag,,,"Not insane. For our unpaid mobile iOS development internship, we only consider applicants who can show what they&",
+133,10101202,comment,10097221.0,10101181.0,0,0,shadowmint,,,Ive never managed to do this in mercurial. Its always a huge pain point.<p>Is there some extension that helps?,1440209197.0
+134,10101201,comment,10084449.0,10099991.0,0,0,angrybits,,,"What can I say, being an asshole is one of my diversity dimensions.  We just had that training at work, it was very helpful.<p>Also, I hope you aren&",
+135,10101200,comment,10099606.0,10100488.0,0,0,xraystyle,,,I&,
+136,10101199,comment,10097221.0,10099940.0,0,0,rbehrends,,,"Changeset evolution is conceptually brilliant [1], but I suspect that it&",
+137,10101198,comment,10099304.0,10099935.0,0,0,igouy,,,Those are very dated and not really beginner friendly.,1440209108.0
+138,10101197,story,,,1,5,dennybritz,Ask HN: Should I buy an external display?,,Hi HN. Because I move around a lot I have always been working on my retina Macbook without using an external display. In 2 weeks I&,
+139,10101196,comment,10098355.0,10099926.0,0,0,UnWiseM4n,,,I&,
+140,10101195,comment,10097059.0,10097059.0,0,0,bjd2385,,,I think this would be a cool project for someone who wants to fiddle with a desktop &quot;super&quot;-computer with multiple nodes. I&,
+141,10101194,comment,10099199.0,10099199.0,0,0,fezz,,,The quality seems to be way less than a gigapixel. It would be interesting to see a corresponding dslr gigapixel image.<p>The ball optic is very interesting though.,1440209051.0
+142,10101192,comment,10097460.0,10100970.0,0,0,yeukhon,,,"There is dynamo integration with ES (<a href=""https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-dynamodb-elasticsearch-integration/"" rel=""nofollow"">https://aws.amazon.com/about-aws/whats-new/2015/08/amazon-dy...</a>) and there is cloudsearch.",1440208997.0
+143,10101191,story,,,6,1,Cadsby,Stop Universities from Hoarding Money,http://mobile.nytimes.com/2015/08/19/opinion/stop-universities-from-hoarding-money.html?referrer=,,1440208941.0
+144,10101190,comment,10097296.0,10100056.0,0,0,sounds,,,Just one: the effect this might have on patent law prior art...,1440208862.0

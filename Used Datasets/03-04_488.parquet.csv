@@ -1,0 +1,125 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9622589,comment,9621011.0,9622390.0,0,0,fragsworth,,,I&,
+1,9622588,comment,9621011.0,9622373.0,0,0,crimsonalucard,,,"In the phrase &quot;Is Life an illusion?&quot; life is not being redefined as an illusion. It is more of a categorization, similar to &quot;Is an apple a fruit?&quot;<p>Here&",
+2,9622587,comment,9617285.0,9622098.0,0,0,sytse,,,I don&,
+3,9622586,comment,9620224.0,9620224.0,0,0,tw04,,,Looking at the top comments - I guess I&,
+4,9622585,comment,9622325.0,9622555.0,0,0,tbronchain,,,"here you go: <a href=""https://hyper.sh/faq.html"" rel=""nofollow"">https://hyper.sh/faq.html</a> (performances section)<p>Q: What are the performances of Hyper?<p>Boot: Start a hyper Pod only takes less than 350 millisecond.\nCPU: CPU Performance overhead is about 0.4 percent.\nMem: Memory Performance overhead is about 0.64 percent.",1432871849.0
+5,9622583,comment,9622060.0,9622060.0,0,0,joshribakoff,,,"Right away my first reaction was &quot;really cool name&quot;. I also saw a blank grey page until it loaded. If the user has a shoddy network & a request times out, they would see that indefinitely I&",
+6,9622582,comment,9621872.0,9622177.0,0,0,BinaryIdiot,,,As with every language these can certainly be abused (perhaps more easily than other aspects) but I also see great usefulness in these.,1432871698.0
+7,9622581,comment,9622001.0,9622209.0,0,0,vacri,,,I think a better term than &,
+8,9622580,comment,9620224.0,9622148.0,0,0,jonahx,,,How did it compare to Oculus Rift?  I&,
+9,9622579,comment,9608525.0,9622534.0,0,0,SamReidHughes,,,"But you can allocate large stacks efficiently too.  Is this something specific to how GC works?<p>Edit: Is it about having stacks smaller than a page, maybe not aligned to 4K and not fighting for the same cache lines?",1432871597.0
+10,9622578,comment,9617744.0,9617895.0,0,0,louthy,,,I think this just shows how &,
+11,9622577,comment,9620204.0,9621948.0,0,0,PebblesHD,,,I&,
+12,9622576,comment,9619256.0,9619256.0,0,0,sheepmullet,,,"9.5 hours on average. Skipping out on sleep in order to get more done only works as a very short term strategy (effective for less than 2 weeks IMO, and even then only for grunt-like work).",1432871559.0
+13,9622575,comment,9613797.0,9617492.0,0,0,rev_bird,,,If you&,
+14,9622574,comment,9622325.0,9622557.0,0,0,otoburb,,,"I had the same question, and had to dig a little into the Google Pod documentation for this handy explanation: &quot;In terms of Docker constructs, a pod consists of a colocated group of Docker containers with shared volumes.&quot;[1]<p>Based on the above tidbit, each Pod contains a few containers, thus a Pod (and hence all of the containers in the Pod) will indeed be running on the initrd kernel from the HyperVM instance.<p>The key point is that this applies for <i>each</i> HyperVM (i.e. one HyperVM launched per Pod). It seems the idea is that wherever you&",
+15,9622573,comment,9621081.0,9621081.0,0,0,femto,,,"In theory, it should have been possible for the Hams to modulate the their transmissions, to write an expletive on the tracking screen of the Russian radar.  In practise, it probably would have been too big a challenge with 1980&",
+16,9622572,comment,9618672.0,9622035.0,0,0,hyperbovine,,,I can&,
+17,9622571,comment,9617330.0,9621077.0,0,0,sukilot,,,"What if the owner sold FRC an annuity that paid the all his profits, but didn&",
+18,9622570,comment,9616048.0,9620209.0,0,0,pinewurst,,,What hints do you look for?,1432871375.0
+19,9622569,story,,,73,34,luu,The File System Paradox (2007),https://technet.microsoft.com/en-us/magazine/2007.11.windowsconfidential.aspx,,1432871306.0
+20,9622568,comment,9613797.0,9614717.0,0,0,rev_bird,,,Freedom ,
+21,9622567,comment,9605733.0,9621620.0,0,0,unclebucknasty,,,><i>But it&,
+22,9622566,comment,9622325.0,9622521.0,0,0,mbreese,,,And on every Docker thread someone says this. I know I&,
+23,9622565,comment,9622001.0,9622001.0,0,0,dsmithatx,,,For me the value in UDP is that it doesn&,
+24,9622564,comment,9622325.0,9622483.0,0,0,rhizome,,,We need containers within which we can run different hypervisors.,1432871156.0
+25,9622563,comment,9622461.0,9622461.0,0,0,jszymborski,,,"&quot;The...most secure way to exchange sensitive documents..100% browser-based, nothing to install.&quot;<p>100% browser-based is precisely what makes this insecure.<p>Every hear of MEGA?<p>Also:\n<a href=""http://matasano.com/articles/javascript-cryptography/"" rel=""nofollow"">http://matasano.com/articles/javascript-cryptography/</a>",1432871109.0
+26,9622562,comment,9617710.0,9620938.0,0,0,Spooky23,,,"I think the CPI is great for what it is, but it&",
+27,9622561,comment,9622147.0,9622265.0,0,0,nedwin,,,Well they just got a cash injection from selling Path & Path Talk so I can imagine that should help support 40+ headcount for a little while. Along with the $25m they raised a year ago.,1432870935.0
+28,9622560,comment,9614178.0,9616761.0,0,0,thomasvarney723,,,"It seems to me that Apple has had a rich history of interesting languages: Squeak, Dylan, Hypertalk, AppleScript and Swift. Those are just the ones I know of.",1432870910.0
+29,9622559,comment,9622060.0,9622385.0,0,0,vosper,,,I waited for a few minutes and nothing happened. Don&,
+30,9622558,comment,9616451.0,9617498.0,0,0,hueving,,,It&,
+31,9622557,comment,9622325.0,9622386.0,0,0,jzila,,,So you&,
+32,9622556,comment,9616451.0,9617690.0,0,0,hueving,,,Who are you talking about? I was mocking the stupidity of thinking that a school says anything about you other than privilege/luck.,1432870785.0
+33,9622555,comment,9622325.0,9622510.0,0,0,mbreese,,,Yep - there it is... I missed that when I first looked.<p>Thanks!<p>As an aside - do you have a feeling for how much processing CPU power or io speed is lost when running in the hyper VM?,1432870720.0
+34,9622554,story,,,2,3,anuragpeshne,Show HN: Convoy's Game of Life in Browser,http://www.anuragpeshne.com/life,,1432870713.0
+35,9622553,comment,9621872.0,9622047.0,0,0,verbin217,,,I suspect it&,
+36,9622552,comment,9617483.0,9621131.0,0,0,PopeOfNope,,,Makes me wonder what he thinks about functional programming.,1432870678.0
+37,9622551,comment,9621561.0,9622348.0,0,0,DasIch,,,The difference between a virtual machine and an interpreter being?,1432870618.0
+38,9622550,comment,9619729.0,9621338.0,0,0,colinthompson,,,"As a computer graphics professional, this fascinates me. The integrals you describe are remarkably similar to a large variety of solutions we employ for area estimation and integration in general. For example, in a path-tracing paradigm, I would (naively probably) consider radiation beam collimation similar to what we call the &quot;cone-angle&quot; of a particular integration method, particularly WRT calculating illumination response for a given surface, etc. Can you describe in more detail what kind of calculations your treatment planning software does? It sounds fascinatingly similar to the advanced physically based rendering algorithms that are in common use in computer graphics these days. For example, I am guessing that radiation &quot;fields&quot; are akin to &quot;light sources&quot;? If so, I would guess that your planning software is doing all sorts of importance sampling of all these sources across a given domain. Anyway, I was an art major so all my jargon is probably off, but nevertheless I find your post fascinating.",1432870618.0
+39,9622549,comment,9619757.0,9621313.0,0,0,pcwalton,,,GOMAXPROCS=2 wouldn&,
+40,9622548,comment,9618827.0,9621555.0,0,0,yummyfajitas,,,"<i>Conversely, the wealthier one is the lower one&",
+41,9622547,comment,9619729.0,9621683.0,0,0,sounds,,,Could you clarify why splitting based on wavelength makes this useful in an optical switch? I assume it&,
+42,9622546,comment,9618306.0,9620945.0,0,0,derefr,,,I meant more something like RLE or simple Huffman encoding. A &quot;string&quot; type like Redis&,
+43,9622544,comment,9616946.0,9616946.0,0,0,evc123,,,I think Facebook has staying power because they&,
+44,9622543,comment,9622445.0,9622532.0,0,0,uptownhr,,,Your side projects may not earn you income directly but will definitely give you more leverage on earning more money through jobs. What ever work you have out there is ++ in my book and your boss or future bosses will put value on that.,1432870341.0
+45,9622542,story,,,1,0,inm,The Rise of Opinionated Software,https://medium.com/@stueccles/the-rise-of-opinionated-software-ca1ba0140d5b,,1432870340.0
+46,9622541,comment,9622325.0,9622521.0,0,0,gnepzhao,,,Not sure how secure they are. But sounds a bit scary to run my app in a shared-kernel environment.,1432870326.0
+47,9622540,story,,,2,0,frenci,Best Tech blogs from startups and tech companies,http://www.granularity.io/best-startup-and-corporate-tech-or-engineering-blogs/,,1432870315.0
+48,9622539,comment,9617710.0,9621088.0,0,0,scurvy,,,Aren&,
+49,9622538,story,,,2,0,duck,Developer Tools – W3C Developers,https://www.w3.org/developers/tools,,1432870279.0
+50,9622537,comment,9617268.0,9621373.0,0,0,kranner,,,Thanks for the explanation.,1432870273.0
+51,9622536,comment,9622445.0,9622532.0,0,0,uptownhr,,,"Also, I&",
+52,9622535,comment,9619321.0,9620135.0,0,0,clinta,,,"First of all, I don&",
+53,9622534,comment,9608525.0,9622466.0,0,0,pcwalton,,,"Because you can pull the stack off the malloc free list bin, or even bump allocate it in a nursery.",1432870198.0
+54,9622532,comment,9622445.0,9622445.0,0,0,uptownhr,,,what projects are you working on your day job? Would it be possible to open source these and make it into a side project?,1432870151.0
+55,9622531,comment,9622001.0,9622504.0,0,0,wmf,,,I think Jon Postel would have been smarter than to put any authority in the hands of telcos.,1432870149.0
+56,9622529,comment,9622001.0,9622001.0,0,0,shurcooL,,,Does anyone know when we&,
+57,9622528,comment,9620224.0,9622477.0,0,0,bigiain,,,"Actually, I just realised all those HERO4&",
+58,9622526,comment,9619367.0,9619367.0,0,0,desdiv,,,"iANAL, but isn&",
+59,9622525,comment,9620224.0,9621588.0,0,0,bobbles,,,"ahahha what? more like $8,000",1432870065.0
+60,9622524,comment,9622325.0,9622516.0,0,0,bandrami,,,"Sorry, it&",
+61,9622523,comment,9622325.0,9622325.0,0,0,lsllc,,,Is this just a cross platform boot2docker?,1432870047.0
+62,9622521,comment,9622325.0,9622498.0,0,0,feld,,,Containers have been used in multi-tenant systems for years in both Solaris and FreeBSD via zones and jails,1432870030.0
+63,9622520,story,,,1,0,ancatrusca,The next level in Web APIs,http://amundsen.com/blog/archives/1159,,1432869999.0
+64,9622519,comment,9609955.0,9613724.0,0,0,e12e,,,"You already have a lot of good answers, here&",
+65,9622518,comment,9617268.0,9622317.0,0,0,firethief,,,"Can an abacus do arithmetic?<p>Before we had the mechanical implementations, &quot;computer&quot; was a human occupation.",1432869922.0
+66,9622517,comment,9620224.0,9621265.0,0,0,pitchups,,,"Heh, and for a moment there I thought Pre-Sense was some Google Tech - similar to Adsense - for monetizing  3D VR :)",1432869915.0
+67,9622516,comment,9622325.0,9622483.0,0,0,tbronchain,,,"Hi there,\nI am not sure what do you mean by &quot;Peak Container&quot;?",1432869911.0
+68,9622515,story,,,1,0,titusblair,The Dawn of the Interactive Datagraphic and the Datalarity,https://medium.com/bigobject-digest/the-dawn-of-the-interactive-datagraphic-and-the-datalarity-2c2fb706f76a,,1432869879.0
+69,9622514,comment,9621354.0,9621958.0,0,0,titusblair,,,The article has nothing to do with clothing but with the fact that someone was deceived into thinking they were wearing clothes when in fact they were not.  If you take it within the context of the story you should be able to see it in a new light :),1432869819.0
+70,9622513,comment,9620224.0,9621947.0,0,0,bigiain,,,That&,
+71,9622512,comment,9619702.0,9620625.0,0,0,dmayle,,,"Yes, Apple Pay uses tokenization, no Apple neither created it nor pushed it through.  Google Wallet 1.0 used issuer-side tokenization, and switched to HCE when the networks weren&",
+72,9622511,comment,9619375.0,9622143.0,0,0,vivekian2,,,Its amazing how we think the grass is greener. I have been doing systems programming for the past 7 years and have been thinking about moving over to JS based web development for the past few months.,1432869755.0
+73,9622510,comment,9622325.0,9622498.0,0,0,tbronchain,,,"Hi, \nThanks for your interest, and congratulations, you found the original motivations behind Hyper :)<p>To anwer your question, yes, you can specify them. Check out the podfile documentation to know how <a href=""https://docs.hyper.sh/reference/podfile.html"" rel=""nofollow"">https://docs.hyper.sh/reference/podfile.html</a>",1432869721.0
+74,9622509,story,,,3,0,jtzhou,15 students arrested for paying SAT test impostors,http://www.nytimes.com/2015/05/29/us/15-chinese-accused-of-using-test-taking-impostors-for-college-entrance-exams.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=none&state=standard&contentPlacement=2&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2015%2F05%2F29%2Fus%2F15-chinese-accused-of-using-test-taking-impostors-for-college-entrance-exams.html&eventName=Watching-article-click,,1432869718.0
+75,9622508,comment,9622445.0,9622445.0,0,0,aburan28,,,If you can contribute a meaningful side project and you are great coder then by all means put the time into a side project if you can think of a project that is worth something to others,1432869683.0
+76,9622507,comment,9621417.0,9622207.0,0,0,jschwartzi,,,"You could probably wrap it with another BASH script named git that looks for hub as $1, otherwise it passes its args directly into the git command. I haven&",
+77,9622506,comment,9619367.0,9619850.0,0,0,userbinator,,,I&,
+78,9622505,comment,9619367.0,9621760.0,0,0,tw04,,,They don&,
+79,9622504,comment,9622001.0,9622154.0,0,0,Spooky23,,,"I think end to end encryption would have killed the Internet... Key management would have been a weapon wielded by the telephone company to push whatever proprietary junk they came up with.<p>Plus, we&",
+80,9622503,comment,9619367.0,9622480.0,0,0,tw04,,,"Funny money in both cases.  Facebook is more than happy to give &quot;value * x&quot; in stock - because at the end of the day, stock is monopoly money.",1432869483.0
+81,9622502,comment,9619702.0,9620847.0,0,0,dmayle,,,"solyentcola is actually correct.  Google Wallet 1.0 used tokenization, but it was issuer side, not network side.  When the networks weren&",
+82,9622501,comment,9621872.0,9622472.0,0,0,girvo,,,Flummox&,
+83,9622500,comment,9621561.0,9621561.0,0,0,aburan28,,,Pythran is also missing,1432869432.0
+84,9622499,story,,,10,1,benbreen,This Might Hurt: Archaic Instruments from the Attic of a Montreal Hospital,http://thewalrus.ca/this-might-hurt/,,1432869395.0
+85,9622498,comment,9622325.0,9622325.0,0,0,mbreese,,,I like this idea. It&,
+86,9622497,story,,,1,0,scapbi,Functional Programming Enthusiasts vs. Go,http://www.cirello.org/2015/03/2015-03-20-fp-enthusiasts-vs-go/,,1432869364.0
+87,9622496,comment,9619367.0,9619367.0,0,0,tw04,,,"This summarizes the deal:<p>>As of 2014, Broadcom had $3.13 billion of cash and cash equivalents held by its foreign subsidiaries, and it deferred about $4.85 billion in tax on un-repatriated foreign earnings, according to SEC filings. Selling to a Singapore-based firm will free the foreign cash and help eliminate potential U.S. tax liabilities.<p>F. You.  The deal is predicated on avoiding paying US taxes.  &quot;I know we built our business on the luxury of a developed western nation that provided ample education for our founders, but we&",
+88,9622495,comment,9621872.0,9622468.0,0,0,girvo,,,"Hey, I read that thread just the other week! Fascinating discussion, though I still disagree that generators have the control-flow advantage: while I personally don&",
+89,9622494,comment,9608616.0,9608616.0,0,0,npachisia,,,"Ilya, great story that many of us can relate with. Stories like these (very similar to our personal stories) were the inspiration behind Unshackled. Our goal is to help entrepreneurs / startup teams who are held back from building great companies simply because of their visa. While we couldn’t help you (coz we didnt exist), Unshackled aims to make an impact for many other brilliant people like you. ",
+90,9622493,story,,,40,54,jessaustin,Tax-Free Debt: The great distortion,http://www.economist.com/news/leaders/21651213-subsidies-make-borrowing-irresistible-need-be-phased-out-great-distortion,,1432869303.0
+91,9622492,comment,9621011.0,9622450.0,0,0,dm2,,,"Thanks for the link to his blog. I always forget to check those for full papers, I updated my post with a link to the PDF.<p>Yeah, he&",
+92,9622491,story,,,3,0,z0a,Everlane: Radical Transparency,https://www.everlane.com/about,,1432869257.0
+93,9622490,comment,9619729.0,9620907.0,0,0,typedweb,,,"Vanadnium Dioxide: <a href=""http://phys.org/news/2013-11-vanadium-dioxide-smart-glass-block.html"" rel=""nofollow"">http://phys.org/news/2013-11-vanadium-dioxide-smart-glass-bl...</a>",1432869204.0
+94,9622489,comment,9620292.0,9621125.0,0,0,sesutton,,,The whole video felt like something Apple would put out.,1432869199.0
+95,9622488,comment,9621561.0,9622181.0,0,0,wtetzner,,,"Well, it runs on the JVM, so depending on which JVM you use, it might use a JIT compiler.",1432869184.0
+96,9622487,comment,9621561.0,9622453.0,0,0,thezilch,,,You might &quot;just&quot; migrate some slower parts to numpy or write a C target and interface with it over Python&,
+97,9622486,story,,,1,0,twidlit,Kakao Talk acquires Path,https://www.techinasia.com/path-acquired-daum-kakao/,,1432869117.0
+98,9622485,comment,9621872.0,9622467.0,0,0,nahiluhmot,,,"Common Lisp also has destructuring-bind[0], although its not provided with every implementation.<p>[0] <a href=""https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node252.html"" rel=""nofollow"">https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node252.html</a>",1432869096.0
+99,9622484,comment,9618827.0,9619834.0,0,0,millermp12,,,Look at Plomins studies. Home environment has almost zero correlation.,1432869072.0
+100,9622483,comment,9622325.0,9622325.0,0,0,bandrami,,,Have we reached Peak Container yet?,1432869061.0
+101,9622482,comment,9622478.0,9622478.0,0,0,1kevgriff,,,"&quot;Kung Fury is an over-the-top 80’s action comedy that was crowd funded through Kickstarter. It features Kung Fury, a Kung Fu renegade cop who travels back in time to kill his Nemesis, Hitler. The film features nazis, dinosaurs, vikings and cheesy one-liners. &quot;",1432869061.0
+102,9622480,comment,9619367.0,9619367.0,0,0,jasonmp85,,,"IANAAnalyst, but the company with probably the most components in devices in the entire world is being sold for about 1.6x what WhatsApp went for? Crazy times.",1432868987.0
+103,9622479,comment,9620224.0,9620666.0,0,0,jkaunisv1,,,What killed 48FPS for me was how obvious it made the transitions between heavily CG/post-corrected scenes and fairly unedited ones. The overall color tones and movements weren&,
+104,9622478,story,,,9,2,1kevgriff,Kung Fury (Official Movie),https://www.youtube.com/watch?v=bS5P_LAqiVg,,1432868939.0
+105,9622477,comment,9620224.0,9621934.0,0,0,bigiain,,,I don&,
+106,9622475,comment,9620224.0,9621133.0,0,0,sebastianavina,,,i was expecting the cube to get solved once the page finished loading.. I&,
+107,9622474,comment,9621528.0,9621528.0,0,0,alain94040,,,Take a look at AngelList&,
+108,9622473,comment,9617723.0,9622108.0,0,0,baldfat,,,I did read the story. The purchase is the stores purchase minus the click to the checkout box.,1432868782.0
+109,9622472,comment,9621872.0,9622363.0,0,0,antjanus,,,what would you recommend as the best &quot;getting started&quot; with Flux and/or Flummox? React is pretty damn simple to grasp but building apps with it and Flux has a steep curve.,1432868769.0
+110,9622471,comment,9620204.0,9622291.0,0,0,URSpider94,,,The article mentions that the furnace vents waste heat outside when you don&,
+111,9622470,comment,9620224.0,9621682.0,0,0,jkaunisv1,,,VR has already taken off. It&,
+112,9622469,comment,9622001.0,9622349.0,0,0,ibnudaruaji,,,"Hey, I have a joke about UDP. Though I don&",
+113,9622468,comment,9621872.0,9622424.0,0,0,jeswin,,,"> control flow becomes far easier to understand than using generators by hand.<p>IMO, control flow has no advantages over generators. It is exactly the same thing, replace await with yield/yield-star. Btw, until aysnc debugging becomes better, replacing yield with delegating yield even gives you stack traces since the delegation is handled by the runtime (and control does not pass back to the function (like Q.async, co, spawn) that&",
+114,9622467,comment,9621872.0,9621872.0,0,0,thomasvarney723,,,I recognize destructuring from Clojure. Did it origniate there? Or is this a specific case of pattern matching?,1432868618.0
+115,9622466,comment,9608525.0,9612301.0,0,0,SamReidHughes,,,How does having small initial stack sizes give you fast thread spawning?,1432868607.0
+116,9622465,comment,9622445.0,9622445.0,0,0,justintocci,,,perhaps you should advertise your side projects first. collect email addresses of interested parties. if you had a list of people that wanted something you could probably motivate yourself to complete it.,1432868600.0
+117,9622464,comment,9620739.0,9622379.0,0,0,dm2,,,You can put whatever information I have that isn&,
+118,9622463,comment,9619920.0,9622282.0,0,0,jordanthoms,,,"One way of handling this is to have a separate permission - Use camera, which allows an app to use it for a limited time with the user interacting and while in foreground, and a &",
+119,9622462,comment,9613118.0,9615526.0,0,0,lobster_johnson,,,"What Kafka gets right is that it explicitly addresses the fact that if you add parallelism, order goes out of the window (modulo partition key).<p>This is something that tends to surprise developers early on (myself included, years ago). But plenty of people still use queue solutions like RabbitMQ without thinking it all the way through.<p>Unfortunately, partitioning introduces a design step that makes it a little harder to make processing generic. With RabbitMQ you just post to an exchange and let queues (ie., consumers) filter on the routing keys; if no queues have been bound, for example, messages don&",
+120,9622461,story,,,1,1,jonbaer,"Cloak.ly – Exchange sensitive documents, even large ones",https://cloak.ly/,,1432868513.0
+121,9622459,comment,9617268.0,9621812.0,0,0,bweitzman,,,I&,
+122,9622458,comment,9622147.0,9622264.0,0,0,sungeuns,,,I&,
+123,9622457,comment,9617710.0,9622219.0,0,0,crdoconnor,,,>a country&,

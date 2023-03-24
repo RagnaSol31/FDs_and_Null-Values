@@ -1,0 +1,114 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8765908,comment,8765368.0,8765874.0,0,0,bodyfour,,,In HTTP/2 (SPDY) the only headers that need to be sent are ones that changed since the last request on the connection.  So once that is more common you&,
+1,8765907,comment,8765088.0,8765297.0,0,0,jaytaylor,,,I&,
+2,8765906,comment,8758915.0,8761468.0,0,0,tedbahr,,,The problem with performance-based model is that is it simply a slower race to the bottom (of quality). Publishers will continue to find ways to trick people into responding and advertisers now consider a lead to be a lead to be a lead. Lowest common denominator wins. Quality loses.<p>Example: HuffPost.  You consider any of that eye-ball grabbing stuff to be quality?  (not making a political statement),1418875147.0
+3,8765905,comment,8765714.0,8765900.0,0,0,doublec,,,"There was a discussion in the Rust mailing list about it a while back. I used that as a basis for looking at overflow detection at compile time in ATS: <a href=""http://bluishcoder.co.nz/2013/05/07/ranged-integer-types-and-bounds-checking.html"" rel=""nofollow"">http://bluishcoder.co.nz/2013/05/07/ranged-integer-types-and...</a>",1418875134.0
+4,8765904,comment,8765437.0,8765437.0,0,0,Zigurd,,,The pointlessness of all this effort is just gobsmacking. What was made better? At what cost?,1418875129.0
+5,8765903,comment,8749942.0,8749942.0,0,0,markuz,,,why not gulp ?,1418875036.0
+6,8765902,story,,,2,0,voidfiles,Building Editorial Dashboards with Open Source Tools,http://rumproarious.com/2014/12/17/building-editorial-dashboards-with-open-source-tools/,,1418875018.0
+7,8765901,comment,8755360.0,8755823.0,0,0,markuz,,,"> A bunch of guys with inflated egos cramming tens of kilobytes of js into pages that need zero, all for a worse UX.<p>LOL<p>Yeah because that 14.4K modem is a huge problem.\nIn a time of retina display, 500K is not an issue at all.\nLets talk about micro optimization ...<p>> Why doesn&",
+8,8765900,comment,8765714.0,8765830.0,0,0,SamReidHughes,,,This is the main reason I don&,
+9,8765899,comment,8758915.0,8761180.0,0,0,tedbahr,,,"Indeed, magazine readers greatly prefer print ads as their most favorite way to be marketed to (61%, Nov 2014). More than twice the percentage as the ",
+10,8765898,story,,,2,0,virmundi,Intro to PostgreSQL as Object-Relational Database Management System,http://ledgersmbdev.blogspot.com/2012/08/intro-to-postgresql-as-object.html,,1418874883.0
+11,8765897,story,,,10,3,dthal,China to Purge Foreign Technology and Replace with Homegrown Suppliers,http://www.bloomberg.com/news/2014-12-17/china-said-to-plan-sweeping-shift-from-foreign-technology-to-own.html,,1418874866.0
+12,8765896,story,,,2,0,ihatetomatoes,Merry SVG Christmas – Interactive SVG Animation - Google Chrome Experiment,https://ihatetomatoes.net/svg-christmas/,,1418874862.0
+13,8765895,comment,8765088.0,8765327.0,0,0,saryant,,,I&,
+14,8765893,comment,8755360.0,8755360.0,0,0,markuz,,,"This is wrong in so many levels.\nHave you ever heard about React and the advantage of the virtual DOM. And about famo.us<p>For toy projects like this, I guess this is fine. But lets get real....",1418874698.0
+15,8765892,story,,,1,0,NickSarath,Compose Is a Distraction-Free Email App That Only Lets You Write Messages,http://techcrunch.com/2014/12/17/compose-is-a-distraction-free-email-app-that-only-lets-you-write-messages/,,1418874695.0
+16,8765890,comment,8765033.0,8765033.0,0,0,qhoc,,,"Am I the only one thinking this is not new? There are many articles about such trend with Facebook strategy. Companies either starting to pay up for ads or post more meaning posts to make it viral naturally. Anything bait-like or low quality like-me, like-this,... will be dead.",1418874645.0
+17,8765889,comment,8764509.0,8764509.0,0,0,remarkEon,,,"Really confused by all the &quot;it was offensive and in bad taste, so nbd&quot; comments on here. I don&",
+18,8765888,comment,8765714.0,8765714.0,0,0,pbsd,,,"GCC 4.9 does have `-fsanitize=signed-integer-overflow`, and it generates pretty good code for that toy function:<p><pre><code>    f(int, int):\n        mov eax, edi\n        add eax, esi\n        jo  .L8\n        ret\n    .L8:\n        ...</code></pre>",1418874536.0
+19,8765887,comment,8765033.0,8765033.0,0,0,graeme,,,">and which is probably suboptimal on mobile.<p>Why is content so often bad on mobile? I tried reading a page by Forbes today on my moto E, and it didn&",
+20,8765886,comment,8765793.0,8765802.0,0,0,mod,,,It most certainly <i>is</i> a feature.,1418874518.0
+21,8765885,story,,,1,0,kennystone,PlanGrid is hiring Android engineers,http://www.plangrid.com/en/jobs?gh_jid=25385,,1418874513.0
+22,8765884,story,,,1,0,geuis,Jsonip.com updated to support ipv6,https://twitter.com/geuis/status/545423538715230209,,1418874510.0
+23,8765883,comment,8764135.0,8765120.0,0,0,titanomachy,,,That&,
+24,8765882,comment,8765033.0,8765545.0,0,0,graeme,,,>They say it&,
+25,8765881,comment,8763183.0,8765105.0,0,0,griffinmahon,,,"Are you familiar with Rap Genius? If not, they use &quot;meme&quot; as catch-all-word-for-units-of-culture pretty often, too. Interesting phenomenon for sure",1418874272.0
+26,8765880,comment,8765027.0,8765663.0,0,0,bramgg,,,"I had to look it up.. Holy shit 0_o<p><a href=""https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal"" rel=""nofollow"">https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootk...</a>",1418874267.0
+27,8765879,comment,8765437.0,8765437.0,0,0,alayne,,,The DEA website lists &quot;not less than 5 years&quot; for first time offenders. This guy got three. If you&,
+28,8765876,comment,8765368.0,8765368.0,0,0,paulsutter,,,Separate domains for CSS and images files are primarily intended to overcome certain (old?) browsers&,
+29,8765875,comment,8764509.0,8765398.0,0,0,notjackma,,,Seth Rogen is a bit of a coward.  He picked an easy target in Kim given that North Korea is isolated and has no ability to do any real harm to him.  Easy to mock somebody who can&,
+30,8765874,comment,8765368.0,8765368.0,0,0,gingerlime,,,"Perhaps a silly idea / question, but could browsers support some kind of an optimization meta tag that tells to fetch the resource without sending cookies? something like `<img src=&quot;...&quot; data-no-cookies=true>` or even a directive that applies to all static resources unless specified otherwise, e.g. `<meta no-cookies-for=&quot;jpg;css;js&quot;>` ??",1418874201.0
+31,8765873,comment,8765368.0,8765368.0,0,0,elchief,,,"One issue is that you should not use any compression (http or tls) on a request/response with any sensitive info, such as session ids or csrf tokens (see beast, crime attacks).<p>It&",
+32,8765872,comment,8764086.0,8765788.0,0,0,sokoloff,,,"If your hypothesis is completely true, why not become a broker and offer &quot;1/2 fee&quot; services? You&",
+33,8765871,comment,8764509.0,8765398.0,0,0,enupten,,,You think that&,
+34,8765870,story,,,231,105,wglb,Reaction to the Sony Hack Is 'Beyond the Realm of Stupid',http://motherboard.vice.com/read/reaction-to-the-sony-hack-is-beyond-the-realm-of-stupid?utm_source=mbtwitter,,1418874136.0
+35,8765869,comment,8765027.0,8765027.0,0,0,coding4all,,,"A long article with no evidence. Literally, there is no evidence in this article.<p>I truly hope people still aren&",
+36,8765868,comment,8764752.0,8764752.0,0,0,didgeoridoo,,,Anyone else have trouble not automatically translating &quot;LiPo&quot; battery as &quot;Lithium/Polonium&quot; in their heads?<p>That would be a bad battery.,1418874103.0
+37,8765867,comment,8751414.0,8754256.0,0,0,gsands,,,+1 for linking to the lowest price I can find for it on the web (199 vs Amazon&,
+38,8765866,comment,8764752.0,8765414.0,0,0,hayksaakian,,,I would upvote it,1418874080.0
+39,8765865,comment,8765368.0,8765818.0,0,0,wtallis,,,NoScript doesn&,
+40,8765864,comment,8765714.0,8765858.0,0,0,TazeTSchnitzel,,,I suspect that&,
+41,8765863,comment,8765027.0,8765511.0,0,0,wefarrell,,,&quot;We got hacked by a state&quot; is much less embarrassing than &quot;We got hacked by a former employee&quot;. If that is the case it&,
+42,8765862,comment,8765368.0,8765679.0,0,0,morgante,,,> For the case of a big &,
+43,8765861,comment,8763518.0,8763940.0,0,0,icedog,,,"Took me 4.5 minutes,   \n103 requests,   \n13.1 MB transferred data.<p>Going to &quot;Online Store&quot; was also ~4MB more and 25 seconds...",1418873894.0
+44,8765860,comment,8764509.0,8765443.0,0,0,jonah,,,What&,
+45,8765859,comment,8763273.0,8765700.0,0,0,Dylan16807,,,"Well apparently a tree can permanently sequester &quot;up to 48 pounds&quot; of carbon per year (numbers are unclear, some mix up carbon and CO2, bamboo is more, but it makes a good ballpark max).  Let&",
+46,8765858,comment,8765714.0,8765714.0,0,0,olliej,,,I&,
+47,8765857,comment,8764509.0,8764977.0,0,0,prawn,,,"I think criminals in the US tend to have guns because the population in general is more likely to be armed.<p>Where I live, I don&",
+48,8765854,comment,8765793.0,8765793.0,0,0,eibrahim,,,Please do.  I am tired of HN BS but keep coming back because it has great links. But some of the commenters are just assholes :),1418873657.0
+49,8765853,comment,8765368.0,8765796.0,0,0,hayksaakian,,,It helps mobile users determine if their connection is simply slow or completely timed out.<p>If I don&,
+50,8765852,comment,8765088.0,8765705.0,0,0,peteridah,,,"yes this, I get those too and no btrfs",1418873602.0
+51,8765851,comment,8764459.0,8765731.0,0,0,Fomite,,,"Or, alternately, since it&",
+52,8765850,comment,8763518.0,8763518.0,0,0,dodders,,,"The site claims these bibs are designed for &quot;exceptional fit and performance&quot; but I suspect you will have to provide more justification to persuade people to buy these instead of Rapha/Assos/Capo, the current kings of endurance bibs.<p>AFAIK, all the above brands use pads from EIT (<a href=""http://www.elasticinterface.com/"" rel=""nofollow"">http://www.elasticinterface.com/</a>) - are your pads better and if so, why?",1418873561.0
+53,8765849,comment,8762705.0,8764556.0,0,0,codygman,,,"Yeah, I&",
+54,8765848,comment,8762639.0,8764981.0,0,0,aseidl,,,"Correct, the speedups are directly due to bundle caching (which previously had only been available for private/paid repos). Indirectly, I would assume this caching is now implemented via Docker&",
+55,8765847,comment,8765027.0,8765279.0,0,0,notjackma,,,The headlines go around the world and people will just accept it as the truth.<p>If there is a retraction it will be in a year&,
+56,8765846,comment,8765437.0,8765844.0,0,0,sebastianavina,,,"No matter what you do, if there is a market, all the supply chain is going to evolve.",1418873466.0
+57,8765845,comment,8764135.0,8765814.0,0,0,sparky_z,,,"&quot;I think we are being played? I think these leaks are planned.&quot;<p>Are you suggesting that all this stuff about North Korea was a misdirect, and the real purpose of the Sony hack was to vaguely improve the reputation of Snapchat&",
+58,8765844,comment,8765437.0,8765437.0,0,0,sosuke,,,"&quot;In Detroit, officials say that their busts have helped raise the street price of a kilogram of cocaine to roughly $43,000 from about $30,000.&quot;<p>Doesn&",
+59,8765843,comment,8764509.0,8765741.0,0,0,jamesaguilar,,,"Likewise, the response will be muted the tenth time this plays out.",1418873349.0
+60,8765842,comment,8765033.0,8765033.0,0,0,taternuts,,,I&,
+61,8765841,comment,8762705.0,8762883.0,0,0,jqm,,,I like i3 quite a bit. It was easy to pick up and a huge improvement over KDE for what I do. Especially on the laptop. The 3 second X startup is nice too. It did take a little work to get it set up and comfortable.,1418873306.0
+62,8765840,story,,,3,1,gighi,Resources Groups and Tagging for AWS,https://aws.amazon.com/blogs/aws/resource-groups-and-tagging/,,1418873221.0
+63,8765839,comment,8762539.0,8764320.0,0,0,mempko,,,Thanks! I think I will turn it into a catch phrase.,1418873198.0
+64,8765838,comment,8765368.0,8765815.0,0,0,leeoniya,,,"though you could say this about any system that uses hashing. if sha256 or 512 is used, the likelihood of collisions with other functioning code, especially code that would yield useful xss seems impossibly small.",1418873144.0
+65,8765837,comment,8763955.0,8763955.0,0,0,wyager,,,I have a Teensy firmware sitting around somewhere that immediately BSODs any Windows 7 machine. It&,
+66,8765836,story,,,21,21,tokenadult,China is world's worst jailer of the press; global tally second worst on record,https://cpj.org/reports/2014/12/journalists-in-prison-china-is-worlds-worst-jailer.php,,1418873077.0
+67,8765834,comment,8761902.0,8763872.0,0,0,D_Alex,,,Really? Who was the silly bugger that sailed the ship into such weather? I hope the nukes were securely stowed...,1418873010.0
+68,8765833,comment,8765368.0,8765761.0,0,0,joevandyk,,,"No reason, but does that help? I suppose it might, if the CDN used a keepalive connection and had less hops to go over.",1418872925.0
+69,8765832,comment,8765368.0,8765749.0,0,0,iancarroll,,,"CloudFront can do this easily: <a href=""http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/SecureConnections.html"" rel=""nofollow"">http://docs.aws.amazon.com/AmazonCloudFront/latest/Developer...</a>",1418872847.0
+70,8765831,comment,8765033.0,8765513.0,0,0,dodders,,,And this is one of the reasons why I uninstalled the android app and use the mobile website instead - it still offers the option to sort by most recent.,1418872845.0
+71,8765830,comment,8765714.0,8765714.0,0,0,TazeTSchnitzel,,,The fact many languages don&,
+72,8765828,comment,8761902.0,8762974.0,0,0,D_Alex,,,>You could probably be in 10-20&,
+73,8765827,comment,8765088.0,8765297.0,0,0,23david,,,"This is ridiculous. CoreOS is managing their own distro, so why not just package in ZFS and get it over with.<p>It&",
+74,8765826,comment,8765368.0,8765778.0,0,0,ajasmin,,,Gmail greats us with a loading indicator like that.,1418872658.0
+75,8765824,story,,,1,0,andrewxhill,The math behind finding the geographic center of points,http://blog.cartodb.com/center-of-points,,1418872597.0
+76,8765823,comment,8758915.0,8758915.0,0,0,cpks,,,This seems almost a perfect way to end. I grew up with Dr. Dobbs. It&,
+77,8765822,story,,,1,1,virmundi,Ask HN: Would a new book on LeanPub belong on Show HN?,,"A few months back I started writing a book on LeanPub. Learned about LeanPub from HN. I would like to show the community and get feed back. I thought about putting in on Show HN, but could not tell if that was within the spirit of that section because people can&",
+78,8765821,comment,8764270.0,8764270.0,0,0,silentrob,,,Very cool. MonkeyLearn looks promising. It would be nice if their docs were a little more clear around uploading CSV and the data structure.<p>It would also be cool if it did unsupervised learning.,1418872507.0
+79,8765820,comment,8764509.0,8765528.0,0,0,HNaTTY,,,"As a counterpoint, I&",
+80,8765819,comment,8764135.0,8764416.0,0,0,rhizome,,,Because it&,
+81,8765818,comment,8765368.0,8765740.0,0,0,bbcbasic,,,The downvotes are probably because you are complaining sites are broken when you install something that intentionally breaks them.<p>Your CDN alternative is not clear (to me at least).,1418872431.0
+82,8765817,comment,8763475.0,8763475.0,0,0,spudlyo,,,"<i>After analysis was complete, we released an update to our deployment system tooling to enforce compliance to the above testing and flighting policies for standard updates, whether code or configuration.</i><p>Hopefully there is a way to disable this policy adherence for when you really need to push out a configuration or code change everywhere quickly.",1418872420.0
+83,8765816,comment,8765088.0,8765554.0,0,0,rogerbinns,,,I&,
+84,8765815,comment,8765368.0,8765740.0,0,0,TazeTSchnitzel,,,I&,
+85,8765814,comment,8764135.0,8764756.0,0,0,marincounty,,,"I wonder if these leaks are planned?  I first became aware \nof Snapchat when Zuck offered a Zillion dollars for it.\nI thought it was a great idea, but the patent didn&",
+86,8765813,comment,8763273.0,8765666.0,0,0,roywiggins,,,"Here it is, for reference. I could imagine it possible in the lab, and I&",
+87,8765812,comment,8764509.0,8764509.0,0,0,curiously,,,This is intolerable. To have a thug like regime such as North Korea impose their will on rest of the world on what they can or can&,
+88,8765811,comment,8765437.0,8765437.0,0,0,udev,,,The guy reminds of a certain character from Breaking Bad.,1418872183.0
+89,8765810,comment,8764706.0,8764823.0,0,0,cyphunk,,,it should be obvious at this point that sony&,
+90,8765809,comment,8764509.0,8765787.0,0,0,lotsofmangos,,,"This hack was probably organized by a shadowy cabal of film critics, driven mad by an endless flood of banal previews.<p>edit - I wonder if I should try and pitch that to someone.",1418872165.0
+91,8765808,comment,8763942.0,8765200.0,0,0,zanny,,,I&,
+92,8765806,comment,8765088.0,8765591.0,0,0,tensor,,,I&,
+93,8765805,comment,8765027.0,8765646.0,0,0,xnull2guest,,,Oh my. This is a derailment of the thread but here are some (political) words off the top of my head having been annihilated recently:<p>terrorism<p>socialism<p>marxism<p>hero<p>capitalism<p>free market<p>invisible hand<p>imminent<p>torture<p>collect<p>to brief<p>espionage<p>surveillance<p>privacy<p>freedom<p>search,1418872033.0
+94,8765804,comment,8765368.0,8765778.0,0,0,bbcbasic,,,Only works if you can play tetris while you wait,1418872025.0
+95,8765803,comment,8763273.0,8764821.0,0,0,mkstowegnv,,,"William Blake would probably agree\n<a href=""http://www.poetryfoundation.org/poem/172943"" rel=""nofollow"">http://www.poetryfoundation.org/poem/172943</a>\n<a href=""http://en.wikipedia.org/wiki/The_Tyger"" rel=""nofollow"">http://en.wikipedia.org/wiki/The_Tyger</a>",1418872012.0
+96,8765802,comment,8765793.0,8765794.0,0,0,yuashizuki,,,"i cant make it popular, its on others if they like it, and thats not a feature",1418872006.0
+97,8765801,comment,8753174.0,8762300.0,0,0,chongli,,,You don&,
+98,8765800,comment,8762705.0,8765712.0,0,0,burntsushi,,,"Heh, thanks. I spent years of my life with X getting my perfect WM. I&",
+99,8765799,comment,8764509.0,8765769.0,0,0,eropple,,,There&,
+100,8765798,comment,8764509.0,8765315.0,0,0,HNaTTY,,,"And once the first domino (theater) falls, the pressure on remaining theaters increases tremendously.",1418871924.0
+101,8765797,comment,8765027.0,8765027.0,0,0,jqm,,,"Contrary to many posters, I think it&",
+102,8765796,comment,8765368.0,8765778.0,0,0,uaygsfdbzf,,,You are duplicating the &,
+103,8765795,comment,8763183.0,8763183.0,0,0,saretired,,,"&quot;Kolmogorov also started as a nonmathematician--he was studying history. His first paper, written when he was seventeen, was reported at a seminar given by Bakhrushin at Moscow University. Kolmogorov came to some conclusion based on an analysis of medieval tax records in Novgorod. After his talk, Kolmogorov asked Bakhrushin whether he agreed with the conclusions. &",
+104,8765794,comment,8765793.0,8765793.0,0,0,webkike,,,the popularity of HN,1418871847.0
+105,8765793,story,,,5,19,yuashizuki,Ask HN: I am building an alternative to HN,,what features would u like to have?,1418871824.0
+106,8765792,comment,8763273.0,8765255.0,0,0,xkcd-sucks,,,"So would PCRing a mutation into a gene be synthetic biology, or only if you wrote out the sequence on a computer before buying primers?",1418871818.0
+107,8765791,comment,8761902.0,8764521.0,0,0,D_Alex,,,">I think having a huge plant on a ship means they can staff it with workers from 3rd world countries<p>FPSOs in Australian waters are crewed with 100% Australian crews. Unfortunately this means FPSO operators need to deal with the likes of the Maritime Union of Australia, that makes the Teamsters look reasonable.",1418871769.0
+108,8765790,comment,8765088.0,8765591.0,0,0,23david,,,"For managing volumes, ZFS on Linux works great. But for managing NFS, I&",
+109,8765789,comment,8754991.0,8763704.0,0,0,haranraj,,,"Sure! I would encourage you to also take a look at CDAP (<a href=""http://cdap.io"" rel=""nofollow"">http://cdap.io</a>) (<a href=""http://github.com/caskdata/cdap"" rel=""nofollow"">http://github.com/caskdata/cdap</a>), where Tigon is used as the realtime stream processing framework.<p>CDAP&",
+110,8765788,comment,8764086.0,8765466.0,0,0,rabbimarshak,,,"My argument is that the results generated are not a product of the skill of the agent, but of the intrinsic demand for the product. Supply is very limited, and demand is extremely high. The unit will move itself, regardless of effort extended by the agent. As an engineer / executive - you would only rather be paid for results if you are a good worker and your output is positive. If your output is poor, or you produce shoddy work, you probably would prefer to be paid for time on the job.",1418871681.0
+111,8765787,comment,8764509.0,8764720.0,0,0,antidamage,,,Surely protecting the rest of the world from bad hollywood trash is more &quot;good&quot; than &quot;evil&quot;?,1418871672.0
+112,8765785,comment,8765033.0,8765693.0,0,0,Retra,,,Then people will be holding laptops against their faces in the street.,1418871632.0

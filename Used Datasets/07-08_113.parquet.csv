@@ -1,0 +1,99 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8751050,comment,8750898.0,8750898.0,0,0,shin_lao,,,"If I understood correctly, it is not possible to manually manage memory in Rust and do things like memory recycling or pools?",1418630392.0
+1,8751049,story,,,1,0,mauricedecastro,What you can't buy from a presentation coach (can you?),http://mindfulpresenter.com/mindful-blog/what-you-cant-buy-from-a-presentation-coach-can-you,,1418630346.0
+2,8751048,comment,8750952.0,8750952.0,0,0,nemasu,,,So it&,
+3,8751047,comment,8750293.0,8750567.0,0,0,accolade,,,You work for Google? Are you in the Google Brigade?,1418630217.0
+4,8751046,comment,8750537.0,8751018.0,0,0,jlrubin,,,They asked for a delay on release so that affected services can be patched.,1418630204.0
+5,8751045,comment,8750320.0,8750692.0,0,0,laurencerowe,,,"Compared to pre-Reagan Republicans, the Democrats seem pretty right wing...",1418630119.0
+6,8751044,comment,8749697.0,8749932.0,0,0,IvyMike,,,The comments aren&,
+7,8751043,comment,8732891.0,8750712.0,0,0,cbsmith,,,"> This is running on tmpfs, so no I/O involved.<p>Hmm... I think that might alter the results actually.<p>>  which is what you&",
+8,8751042,comment,8740917.0,8744622.0,0,0,chaostheory,,,"Dude, GT also has a drinking song as it&",
+9,8751041,comment,8748658.0,8749060.0,0,0,ccwu660601,,,"If 100M is enough for you, I&",
+10,8751040,comment,8749488.0,8749488.0,0,0,john2x,,,"This is amazing. I really hope this picks up and becomes production ready.<p>What technical factors could prevent this from being used in production? (not right now, but in the future)",1418629940.0
+11,8751039,comment,8750309.0,8750974.0,0,0,rtpg,,,"This has been discussed at length on HN and elsewhere, but there definitely is a real estate problem in SF. Average height of buildings in the downtown area and the like are _much_ lower than they could be (earthquake arguments are bunk, see Tokyo).<p>The politics behind this is absolutely terrible zoning regulations in the US that make mixed-use zoning difficult, and the fact that people own their houses, and don&",
+12,8751037,story,,,1,0,SoulMan,You may soon use WhatsApp from your desktop – The Times of India,http://timesofindia.indiatimes.com/tech/tech-news/You-may-soon-use-WhatsApp-from-your-desktop/articleshow/45518976.cms,,1418629811.0
+13,8751036,comment,8750880.0,8750880.0,0,0,jefftchan,,,Here&,
+14,8751035,comment,8740917.0,8743531.0,0,0,chaostheory,,,The parties at GT and MIT are more like really tame happy hours that resemble office events rather than actual parties. They don&,
+15,8751034,story,,,1,0,franze,Validator.w3.org check of www.Google.com,http://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.google.com%2F,,1418629750.0
+16,8751033,story,,,5,0,kmfrk,OpenID 2.0 for Google Accounts is going away,https://support.google.com/accounts/answer/6135882?authuser=0,,1418629704.0
+17,8751032,comment,8747729.0,8751023.0,0,0,Sir_Cmpwn,,,Send a pull request! We&,
+18,8751031,comment,8749605.0,8750888.0,0,0,m_mueller,,,"Starting the rocket at 15% velocity is not the same as saving 15% of the energy though.<p>* you have slightly reduced gravity field<p>* you have a big win in reduced drag energy loss<p>* these wins have an exponential effect on your fuel requirements at sea level, since less weight in additional fuel again means less fuel to transport that fuel up there etc.<p>* On the other hand, energy is proportionate to velocity squared, so that gives you less than 15% savings if you assume no atmosphere.<p>Looking at the wiki[1] these SABRE engines (according to manufacturer specs) will have a 7-8 times higher fuel efficiency than typical rocket engines while in atmosphere (3500 seconds vs. 450 seconds specific impulse). Since this has been peer reviewed by ESA, I&",
+19,8751030,comment,8750455.0,8750750.0,0,0,lispm,,,It does not <i>lead</i> to the LOOP macro. The LOOP macro is a special approach for an embedded language for iteration. It&,
+20,8751029,comment,8749488.0,8749776.0,0,0,john2x,,,"I thought Hy already used persistent data structures? If not, then it should! :)",1418629489.0
+21,8751027,comment,8742959.0,8745463.0,0,0,mahyarm,,,Yeah it&,
+22,8751026,comment,8750419.0,8750818.0,0,0,rcarmo,,,"We all want a better computing model for Christmas, I guess.",1418629396.0
+23,8751025,story,,,2,1,dsr12,Pre-Alpha testing started for CipherShed (fork of TrueCrypt),https://ciphershed.org/pre-alpha-testing-started/,,1418629383.0
+24,8751024,comment,8750988.0,8751007.0,0,0,drajan,,,It&,
+25,8751023,comment,8747729.0,8747729.0,0,0,the_imp,,,"@Sir_Cmpwn, you should document somewhere that at least the TI-83+ ROM will run fine on Android using the Andie Graph emulator. :)",1418629292.0
+26,8751022,comment,8750309.0,8750980.0,0,0,mclemme,,,"Where are you from? And are you studying something that you can get SU from? There are special student housing (called &quot;Kollegium&quot; rooms) in Denmark, where only students are allowed to live. And the rent is considerably lower than normal rental apartments.<p>It&",
+27,8751021,story,,,1,0,rcarmo,The Software Inferno (2013),http://queue.acm.org/detail.cfm?id=2557965,,1418629275.0
+28,8751020,comment,8750354.0,8750689.0,0,0,zura,,,"Shriram, thank you for the PLAI and I&",
+29,8751019,comment,8747550.0,8750754.0,0,0,pandaman,,,"It makes sense in the movies to hire a crew of contractors just for the shooting because shooting takes few weeks, months tops. A game production can take anywhere from a year to several years, contractors usually don&",
+30,8751018,comment,8750537.0,8750537.0,0,0,girvo,,,I want to know about the Hacking MIT writeup! It&,
+31,8751017,comment,8750363.0,8750731.0,0,0,Twirrim,,,"<a href=""http://aws.amazon.com/blogs/aws/boto-python-3/"" rel=""nofollow"">http://aws.amazon.com/blogs/aws/boto-python-3/</a><p>Boto has supported Python 3 since early August :)",1418629076.0
+32,8751016,comment,8748598.0,8749954.0,0,0,baddox,,,"Dragging windows does not constitute my basic desktop usage. I probably drag or resize a window at most once per day, and I&",
+33,8751015,comment,8750040.0,8750040.0,0,0,WalterBright,,,"> Contrary to popular belief, the heat a spacecraft faces on reentry isn&",
+34,8751014,comment,8749843.0,8750262.0,0,0,nitrogen,,,"I followed the link because of who submitted it, knowing it would be about Tibetans&",
+35,8751013,comment,8750040.0,8750040.0,0,0,WalterBright,,,"> Further, even if successful reentry were possible, the shuttle could not be landed entirely from the ground—there was no way for Mission Control to have extended the shuttle&",
+36,8751012,comment,8750363.0,8750824.0,0,0,mimighost,,,"For AWS, not so long time ago NO, right now it is a YES. If you look at boto, it still doesn&",
+37,8751011,comment,8750309.0,8750309.0,0,0,mclemme,,,"Lived in Stockholm for ~1½ years, ending in the spring of 2013.<p>Was lucky enough to have the company I was recruited for help me by having their name on the rental agreement, covering any expenses the owner might have if I thrashed the place, didn&",
+38,8751010,comment,8749518.0,8750322.0,0,0,antics,,,"No. He has explicitly said that he does this because he thinks Python makes better pseudocode, and is easier for beginners to understand, as empirically measured by the questions he got from students of his AI books.<p>I understand your heart was probably in the right place, but honestly, your tone here is kind of hard to take.",1418628819.0
+39,8751009,comment,8750630.0,8750630.0,0,0,throwaway39201,,,I didn&,
+40,8751008,comment,8746229.0,8747304.0,0,0,chrisbennet,,,Maybe you could sweeten the deal by getting her a cute little dog named Toto?,1418628727.0
+41,8751007,comment,8750988.0,8750988.0,0,0,alexivanovs,,,"So, how do you go about spelling this?<p>RapGEN-aiiii?",1418628724.0
+42,8751006,comment,8750391.0,8750921.0,0,0,bsder,,,"> Mostly reliability. I would never carry spinning rust in my laptop again, those days are gone.<p>Exactly.  Spinning rust drives are now far inferior to SSD&",
+43,8751005,comment,8747053.0,8748571.0,0,0,nitrogen,,,All of those &quot;me too&quot; stories are really about saying one thing: You Are Not Alone.,1418628630.0
+44,8751004,comment,8749518.0,8750449.0,0,0,antics,,,I actually think Norvig is making a totally different point than you are. I also think (with respect) that it&,
+45,8751003,story,,,1,1,mahadazad,PHP Class Generator to Speedup Development,https://github.com/mahadazad/code-gen,,1418628598.0
+46,8751001,comment,8750309.0,8750974.0,0,0,marcusf,,,"Not to discard your comment, but wrt Stockholm: Build higher! Urbanize areas outside of the core inner city. Lots to do in planning and building to not create artificial social policy.",1418628443.0
+47,8751000,comment,8750309.0,8750975.0,0,0,lingoberry,,,"Not really, part of the reason people want to live centrally in the first place is the density and the high quality turn-of-the-century housing. Tall ceilings, nice wooden floors, large windows. It sounds like you&",
+48,8750998,comment,8747053.0,8750856.0,0,0,jamespitts,,,"Computation-nostalgia is endless joy :)<p>In the mid-80s I did have access to several models of those pocket Japanese computers that ran BASIC, including the CASIO FX-750P. I was definitely a loner in this regard. I just got lucky -- my father was in Japan doing film work and probably spent his entire paycheck several times at the electronics malls. He bought these because he wanted to write software to help camera operators with setting up their shots, anywhere in the world.<p><a href=""http://casio.ledudu.com/images/pockets/casio%5Cboites/zoom/fx750p.JPG"" rel=""nofollow"">http://casio.ledudu.com/images/pockets/casio%5Cboites/zoom/f...</a><p>I had dabbled in Apple IIs at school but this was my go-to machine at home. I could not do very much with a 1-line LED display but I wrote some simple games and animations.<p>Every kid learning engineering would benefit from working an old-school piece of equipment, even if simulated.",1418628358.0
+49,8750997,comment,8750685.0,8750885.0,0,0,chetanahuja,,,Perhaps you&,
+50,8750996,comment,8750124.0,8750124.0,0,0,daly,,,I&,
+51,8750995,comment,8750419.0,8750802.0,0,0,aap_,,,That article isn&,
+52,8750994,comment,8745334.0,8745822.0,0,0,e12e,,,"To take this a bit further, as far as I know, the question of what constitutes a <i>mind</i> is still an open question. Ie: where does the &quot;mind&quot; live in us? Is emergent minds, like that displayed by a ant colony, really a mind, in the same sense that we have minds?<p>One of the hard things about [ed: (military)] intelligence,  [gathering] is that it is very hard to ask the right questions. You can sometimes find the &quot;right&quot; answers to the &quot;wrong&quot; questions -- and convince yourself you know what&",
+53,8750993,comment,8750309.0,8750519.0,0,0,santacluster,,,"Because the vast majority of people that are young and ambitious prefer to live urban areas with all the advantages that come with it.<p>And with the high level of gentrification in many successful cities, unlike 25 years ago those urban centers are now also attractive for older people and people with families, people who used to move to the suburbs.<p>People want to be there, and contrary to what a very vocal minority suggests, most people don&",
+54,8750992,story,,,15,4,el_benhameen,Stuyvesant Senior Made $72M Trading Stocks on His Lunch Break,http://nymag.com/news/articles/reasonstoloveny/2014/mohammed-islam-stock-trading/,,1418628197.0
+55,8750991,comment,8749813.0,8749813.0,0,0,woah,,,Wow. Very useful,1418628079.0
+56,8750990,comment,8750651.0,8750651.0,0,0,jaytaylor,,,This line of django-esque query system seems like it could  mature into a useful ORM and find it&,
+57,8750989,comment,8749782.0,8750878.0,0,0,ctaylor001,,,"Haskell -<p><pre><code>  fib (Just n) Nothing = Just (fibs !! n)\n  fib Nothing (Just x) = let (n, x&",
+58,8750988,story,,,13,4,drajan,Show HN: RapGenii – Contribute to crowdsourced rap lyrics,http://www.rapgenii.com/,,1418628023.0
+59,8750987,comment,8745267.0,8746805.0,0,0,yazaddaruvala,,,"Given this is funded by Mozilla, I&",
+60,8750986,story,,,2,0,BradRuderman,Digital Drivers License App,http://techcrunch.com/2014/12/14/iowa-launches-an-app-for-your-drivers-license/?utm_content=bufferd6bd4,,1418627863.0
+61,8750985,comment,8683597.0,8685270.0,0,0,boxblue,,,Hello~<p>How can I insert a table?\nI&,
+62,8750984,comment,8748598.0,8750357.0,0,0,wtallis,,,Monitors with 40ms of input lag used to be commonplace and regarded as completely usable for non-gaming purposes. The extra input lag on a modern monitor that comes from running at 30Hz instead of 60Hz <i>shouldn&,
+63,8750983,story,,,1,0,prostoalex,"Food drives: Charities need your money, not your random old food",http://www.slate.com/articles/business/moneybox/2011/12/food_drives_charities_need_your_money_not_your_random_old_food_.html?wpsrc=fol_fb,,1418627825.0
+64,8750982,comment,8750309.0,8750519.0,0,0,vwoolf,,,<i>Please someone explain something to me regarding the tech sector and housing</i><p>Edward Glaeser wrote a book that answers your question: <i>Triumph of the City</i>. Cities promote knowledge transfer and idea generation because of all the random interactions that happen among people. It&,
+65,8750981,comment,8750865.0,8750922.0,0,0,melling,,,Perhaps it&,
+66,8750980,comment,8750309.0,8750309.0,0,0,dashboardfront,,,Same housing problems in Copenhagen. I&,
+67,8750979,comment,8748467.0,8750050.0,0,0,philwelch,,,"The problem is that, if you&",
+68,8750978,comment,8744946.0,8744946.0,0,0,mattes,,,"Hey, Chris & Matt here. We are the guys behind developermail.io and we really appreciate all your comments and feedback! We are in a private beta phase at the moment and will be sending invitation keys to more people very soon.<p>There were a lot of questions regarding security and privacy, so we preponed the release of the updated website. Please check it out and let us know what you think: developermail.io<p>You can reach out to us at support@developermail.io also.<p>Have a great week and thanks for your support! \nChris & Matt",1418627756.0
+69,8750976,comment,8749605.0,8750787.0,0,0,qq66,,,"I was talking about first class passengers who can go to the front of ticketing and security lines, since economy class passengers are not likely to be in the market for supersonic flights.",1418627681.0
+70,8750975,comment,8750309.0,8750309.0,0,0,raverbashing,,,"Yeah, unfortunately most European cities are built to the max density allowed with old buildings that cost a lot to maintain and that offer an inferior experience to modern ones.<p>Rent controls and policies made for a negative populational growth only make things worse",1418627672.0
+71,8750974,comment,8750309.0,8750521.0,0,0,santacluster,,,It&,
+72,8750973,story,,,5,0,pmoriarty,Gromit: GRaphics Over MIscellaneous Things,http://www.home.unix-ag.org/simon/gromit/,,1418627535.0
+73,8750972,comment,8743635.0,8743635.0,0,0,hobarrera,,,"HTTP is not always insecure. Some environments (eg: LAN), can have network-level security (eg: IPSec).",1418627509.0
+74,8750971,comment,8750865.0,8750865.0,0,0,Mithaldu,,,"Please change the link to the original article, or simply flag it to hell:<p><a href=""http://www.littletinyfrogs.com/article/459838/DirectX_12_vs_DirectX_11"" rel=""nofollow"">http://www.littletinyfrogs.com/article/459838/DirectX_12_vs_...</a><p>Edit: Mind, even the original article is nonsensical as hell.",1418627495.0
+75,8750970,comment,8749942.0,8750182.0,0,0,gianlucaguarini,,,I&,
+76,8750969,comment,8750537.0,8750940.0,0,0,chacham15,,,"Why? <a href=""https://www.zetetic.net/sqlcipher/"" rel=""nofollow"">https://www.zetetic.net/sqlcipher/</a>",1418627464.0
+77,8750968,comment,8749488.0,8750816.0,0,0,m_mueller,,,"Ok, I figured as much. I&",
+78,8750967,comment,8750630.0,8750630.0,0,0,Animats,,,It&,
+79,8750966,comment,8746678.0,8746678.0,0,0,emgram769,,,it usually is the smaller things that get overlooked.  doesn&,
+80,8750965,comment,8749605.0,8750562.0,0,0,Animats,,,"<i>The Concorde used about triple the fuel per passenger of other aircraft of its era.</i><p>As a rule of thumb, going supersonic triples fuel consumption. There&",
+81,8750964,comment,8750306.0,8750306.0,0,0,mindcrime,,,"Depends on context, but I like variations of the ole<p><i>&quot;If you could wave a magic wand and change one thing about (your life | your job | this situation | your marriage | whatever), what would you change?&quot;</i><p>Another good one, is this - after asking a series of questions, ask<p><i>&quot;Is there anything I should have asked you, that I didn&",
+82,8750963,comment,8748598.0,8750084.0,0,0,lrizzo,,,"Speaking of screen size, having used it i confirm that 39-40&quot; is what i find the minimum acceptable size for 4K if you are not running in HiDPI mode. It corresponds to 1080p at 20&quot; which (which to my 50y eyes is almost below the threshold of what i can see).",1418627162.0
+83,8750962,comment,8747000.0,8748957.0,0,0,aluhut,,,I&,
+84,8750961,comment,8750391.0,8750897.0,0,0,zurn,,,"The world needs a single-HDD form factor explicit HD + SSD for laptops. No changes in laptops needed, use a single cable and SATA&",
+85,8750960,story,,,3,0,gsg,Periodic table of the loop macro,https://i.imgur.com/CHKgKKV.png,,1418627082.0
+86,8750959,comment,8748658.0,8749170.0,0,0,lovelearning,,,"Check out page 15 of their Odroid magazine December issue [1]. It has a few Odroid-C1 vs Raspberry Pi B+ benchmarks.<p>[1]: <a href=""http://magazine.odroid.com/assets/201412/pdf/ODROID-Magazine-201412.pdf"" rel=""nofollow"">http://magazine.odroid.com/assets/201412/pdf/ODROID-Magazine...</a>",1418627033.0
+87,8750958,comment,8749942.0,8750514.0,0,0,gianlucaguarini,,,It lets you write javascript using the brand new ES6 syntax (not yet supported by any browser) publishing code runnable on any modern browser/nodejs,1418627031.0
+88,8750957,comment,8747935.0,8750401.0,0,0,programmarchy,,,That&,
+89,8750956,story,,,4,0,mech4bg,SurveyMonkey Valued at $2B as Some Investors Sell Shares,http://www.wsj.com/articles/surveymonkey-valued-at-2-billion-as-some-investors-sell-shares-1418619841,,1418626999.0
+90,8750955,story,,,1,0,aviral190694,A 9gag Service for Yo App,http://www.justyo.co/YO9GAG/,,1418626997.0
+91,8750954,comment,8750127.0,8750127.0,0,0,pdkl95,,,"For fun with microtonal synthesis, (or just &quot;fretless&quot;, depending on your zoom factor), I recommend playing with DIN Is Noise ( <a href=""http://dinisnoise.org/"" rel=""nofollow"">http://dinisnoise.org/</a> )<p>Other features include a script api (in Tcl!), support for thousands of simultanious oscillators, a microtonal mouse+kbd interface, and a Bézier editor for the waveform, envelope, etc.<p>DIN may be next to impossible[1] to use as an actual <i>instrument</i>, but it&",
+92,8750953,comment,8747053.0,8750055.0,0,0,sspiff,,,"I never heard about Axe, I wish I&",
+93,8750952,story,,,3,1,pmoriarty,Xpra: Screen for X,http://xpra.org/,,
+94,8750951,comment,8750391.0,8750930.0,0,0,avem2,,,That&,
+95,8750950,comment,8750537.0,8750537.0,0,0,tedivm,,,I really want to see the package manager security paper when it&,
+96,8750949,comment,8750127.0,8750127.0,0,0,lucasgw,,,"Also, many cultures have microtonality as the basis of melody. Makam in Turkish/Ottoman classical music, Qawwali in Pakistani Sufi music, both Carnatic and Hindustani music from Inda, Tuvan from Mongolia, etc. A great recent example is Aphex Twin&",
+97,8750948,comment,8750210.0,8750210.0,0,0,jzwinck,,,Significant typo: the second memset() in each pair needs to be memcpy() instead.,1418626800.0

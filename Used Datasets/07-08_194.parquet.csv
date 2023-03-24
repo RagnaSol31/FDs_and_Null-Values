@@ -1,0 +1,135 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10295088,story,,,1,0,Thimothy,"Meet Jakub Szamałek, Senior Writer for the Witcher 3: Wild Hunt",http://readforerunner.com/meet-jakub-szamalek-senior-writer-for-the-witcher-3-wild-hunt/,,1443513585.0
+1,10295087,story,,,61,10,znpy,The Lemon Parser Generator,http://www.sqlite.org/src/doc/trunk/doc/lemon.html,,1443513580.0
+2,10295086,story,,,70,45,jacquesm,Darpa is testing implanting chips in soldiers’ brains,http://fusion.net/story/204316/darpa-is-implanting-chips-in-soldiers-brains/?utm_source=feedly&utm_medium=feed&utm_campaign=/feed/,,1443513547.0
+3,10295085,comment,10291179.0,10294539.0,0,0,comex,,,I had the same impression (on an iPhone).  I&,
+4,10295084,comment,10293418.0,10293418.0,0,0,205guy,,,I don&,
+5,10295083,comment,10291621.0,10294413.0,0,0,sirn,,,"Olympus Air[1] perhaps?<p>[1]: <a href=""http://www.getolympus.com/us/en/air-a01.html"" rel=""nofollow"">http://www.getolympus.com/us/en/air-a01.html</a>",1443513465.0
+6,10295082,comment,10291481.0,10291481.0,0,0,dang,,,"Url changed from <a href=""http://www.theguardian.com/commentisfree/2015/sep/27/the-era-of-cheap-labour-is-over?CMP=EMCNEWEML6619I2"" rel=""nofollow"">http://www.theguardian.com/commentisfree/2015/sep/27/the-era...</a>, which points to this.",1443513379.0
+7,10295081,comment,10291751.0,10293000.0,0,0,vardhanw,,,"You may like this: <a href=""http://euclidthegame.com/Tutorial/"" rel=""nofollow"">http://euclidthegame.com/Tutorial/</a>",1443513378.0
+8,10295080,comment,10294833.0,10294833.0,0,0,lucio,,,"I was constantly being reminded of Taylor, while reading the \narticle. Is this the scientific management of software engineering? \nIt looks a little too constraining for a rapid-changing discipline as SE.",1443513332.0
+9,10295079,comment,10294833.0,10294833.0,0,0,jackgavigan,,,"<i>> Twitter’s first line was written in 2006 by our now interim CEO, Jack Dorsey.</i><p>Really? Not Noah Glass?<p>Also, no mention of Pivotal Labs role in helping Twitter get rid of the fail whale...",1443513328.0
+10,10295078,comment,10289515.0,10289993.0,0,0,xerophyte12932,,,> I like how you&,
+11,10295077,comment,10293793.0,10294919.0,0,0,Wingman4l7,,,"Ignoring the moralities and can-of-worms question of the death penalty itself for a moment, I&",
+12,10295076,story,,,13,6,chaosdesigner,"In the future, the internet could come through your lightbulb",https://theconversation.com/in-future-the-internet-could-come-through-your-lightbulb-47527,,1443513283.0
+13,10295075,comment,10289764.0,10295026.0,0,0,voltagex_,,,"Yep, I think we&",
+14,10295074,comment,10289515.0,10290945.0,0,0,xerophyte12932,,,Oh apparently the Banner image is a link to a welcome page.,1443513209.0
+15,10295073,comment,10294717.0,10294814.0,0,0,S4M,,,>The VCs that are funding this company and its ilk are signing deals that immensely limit their downside potential and max their upside.<p>How does that limit VCs&,
+16,10295072,comment,10293670.0,10293670.0,0,0,duiker101,,,Your website crashes my Chrome is if scroll just a little down...,1443513116.0
+17,10295071,story,,,34,42,andyjohnson0,Built for Eternity: The Hoover Dam,http://motherboard.vice.com/read/built-for-eternity,,1443513110.0
+18,10295070,story,,,1,0,harshjv,Python Community on Slack Get your self on board,http://python-community-slack.herokuapp.com,,1443513108.0
+19,10295069,comment,10291195.0,10293520.0,0,0,Gigablah,,,"&quot;Their site is jammed trying to serve huge SVG files&quot;<p>False statement. I looked at the page source code and the network requests; all the SVG illustrations used in the article are inlined, and the entire page is 154kb gzipped. That&",
+20,10295068,comment,10293759.0,10293759.0,0,0,robinhoodexe,,,I&,
+21,10295067,comment,10294373.0,10294700.0,0,0,Flenser,,,"well sure, that would be the pragmatic way to do it, but it kinda spoils the joke.",1443513039.0
+22,10295066,comment,10291218.0,10291218.0,0,0,dang,,,Please email hn@ycombinator.com so we can send you a repost invite. We send those when we notice a story that seems good but fell through the cracks.,1443513038.0
+23,10295065,comment,10293121.0,10294317.0,0,0,cheald,,,> profit margins are insane - they are the highest in almost any business<p>Profits kind of <i>have</i> to be high to attract and justify investment. Modest profit margins can&,
+24,10295064,comment,10293793.0,10293982.0,0,0,justin_vanw,,,You don&,
+25,10295063,comment,10290751.0,10294642.0,0,0,derefr,,,"If the logs might contain the stacktrace of a request that brought down your application, how do you look at them if your health-checker helpfully terminates the now-considered-wedged app VM, and your logs also &quot;helpfully&quot; disappear right along with it?<p>Half the point of logs is that they&",
+26,10295062,comment,10295047.0,10295047.0,0,0,Jun8,,,"Housing and gentrification are two big causes of anti-tech sentiment in SF but are by no means the only driving causes. For a strongly-worded article on some other factors see <a href=""http://techcrunch.com/2015/03/21/anti-tech-backlash-could-be-coming-soon-to-a-city-near-you/"" rel=""nofollow"">http://techcrunch.com/2015/03/21/anti-tech-backlash-could-be...</a>.",1443513027.0
+27,10295061,comment,10294887.0,10295000.0,0,0,rgbrenner,,,"No.. the whole place DOES run on battery backup while the generators start. A large data center will have multiple rows of these:\n<a href=""https://en.wikipedia.org/wiki/Data_center",
+28,10295060,story,,,106,33,dantiberian,Functional-navigational programming in Clojure with Specter,http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html,,1443513001.0
+29,10295059,comment,10289742.0,10290068.0,0,0,mcv,,,To go from money you can&,
+30,10295058,comment,10295056.0,10295056.0,0,0,mehdishojaei,,,It depends on amdextract (core of grunt-amdcheck and gulp-amdcheck).,1443512980.0
+31,10295057,comment,10291778.0,10293325.0,0,0,stephenr,,,"By &quot;web technologies&quot; do you mean all the abstractions away from pages using HTML, CSS and JavaScript <i>if requried</i>?",1443512960.0
+32,10295056,story,,,1,1,mehdishojaei,amdcheck-loader for webpack released. Uses AST to optimizes AMD modules,https://github.com/mehdishojaei/amdcheck-loader,,1443512946.0
+33,10295055,comment,10290793.0,10291086.0,0,0,gaius,,,"Well, yes and no. There is the Sabatier process:<p><a href=""https://en.wikipedia.org/wiki/Sabatier_reaction",
+34,10295054,comment,10293300.0,10294254.0,0,0,PavlovsCat,,,"It was a simple question, not a suggestion to choke off anything. I find it curious that merely asking &quot;why did this problem come to exist in the first place&quot; is met with downvotes and advice about &quot;wealth distribution&quot; that sounds an awful lot like trickle-down economics.",1443512888.0
+35,10295053,comment,10276914.0,10282717.0,0,0,bluecalm,,,In my current project I get a significant (about 3%) performance difference when I change my VLAs to allocating the biggest possible size.\nMy guess is that it&,
+36,10295052,comment,10294833.0,10294833.0,0,0,CamperBob2,,,"Amusingly, that was Chairman Mao&",
+37,10295051,story,,,1,0,CaiGengYang,5 Questions for Obama Ahead of Xi Jinxing's Visit,http://foreignpolicy.com/2015/09/22/five-questions-for-obama-ahead-of-xi-jinpings-visit/,,1443512824.0
+38,10295049,comment,10289168.0,10291430.0,0,0,sago,,,"Thanks for the interest, but it is just a kind of personal hack thing. Just feed pages through markdown and jinja templates.",1443512796.0
+39,10295048,story,,,29,6,luisb,Annotated geometric proof that Euler's number is irrational,http://fermatslibrary.com/s/a-geometric-proof-that-e-is-irrational,,1443512742.0
+40,10295047,story,,,1,1,Jun8,"Threatening Fliers Appear in the Mission, Tech Workers Reportedly Change Clothes",http://sfist.com/2015/09/28/after_threatening_fliers_appear_in.php,,1443512717.0
+41,10295046,story,,,36,69,tempestn,Old Standards vs. Common Core: A Side-By-Side Comparison of Math Expectations,http://excelined.org/common-core-toolkit/old-standards-v-common-core-a-side-by-side-comparison-of-math-expectations/,,1443512637.0
+42,10295045,comment,10294337.0,10294337.0,0,0,rwmj,,,"I prefer static typing because it finds more bugs at compile time.  However my statically typed code (in OCaml) still contains occasional runtime type checks, and inefficiencies because polymorphic functions can&",
+43,10295044,comment,10294156.0,10294156.0,0,0,splitbrain,,,"Damn. I never met Alex, but was subscribed to his blog for several years. This makes me genuinely sad.<p>fuck cancer.",1443512567.0
+44,10295043,comment,10294156.0,10294156.0,0,0,JupiterMoon,,,This is going to sound heartless and for that I apologise. I am curious what happens with his copyrights on his opensource code now? Not many significant projects have suffered such loses yet.<p>Condolences to his family and friends if they ever read this.,1443512561.0
+45,10295042,story,,,1,0,hunglee2,Which Skills Are Most Important on the Job and Which Skills Are in Short Supply?,https://www.ced.org/blog/entry/which-skills-are-most-important-on-the-job-and-which-skills-are-in-short-su?utm_source=newsletter,,1443512554.0
+46,10295041,comment,10289509.0,10290267.0,0,0,taneq,,,I agree. Social animals need to be able to model other members of their group. Once that model evolves to include their internal models (including their model of you) then recursive self-awareness pretty much comes for free.,1443512506.0
+47,10295040,comment,10293300.0,10293300.0,0,0,sustrik,,,maybe that&,
+48,10295038,comment,10293300.0,10294872.0,0,0,almost,,,You can&,
+49,10295037,comment,10291751.0,10291751.0,0,0,tempestn,,,In theory the relatively recent adoption of Common Core math teaching techniques should help with many of these sorts of mistakes.  I&,
+50,10295035,comment,10289509.0,10290608.0,0,0,taneq,,,It&,
+51,10295034,comment,10291621.0,10294967.0,0,0,arrrg,,,6S Plus has OIS.,1443512214.0
+52,10295033,comment,10290793.0,10293697.0,0,0,exodust,,,They said &quot;briny water&quot; so yes.,1443512211.0
+53,10295032,comment,10292068.0,10293762.0,0,0,on_,,,"How elitist have we become that the top comment says staff will become confused by the term &quot;sprint&quot; or using Microsoft word, the most ubiquitous document writing software in existence. Would I use it? No. Would I suggest it here? Yes. I mean we are talking about PRINTING a 500 page document and carrying it around so we can&",
+54,10295031,comment,10293793.0,10294595.0,0,0,chch,,,I&,
+55,10295030,comment,10289509.0,10291184.0,0,0,taneq,,,Consciousness is only useless when performing tasks that you have already mastered. Think of your brain as a box containing a programmer (the conscious) and a computer (the subconscious) - the programmer only gets in the way of a program&,
+56,10295029,story,,,2,0,callum85,How to stop your Apple Music automatic subscription,http://www.bbc.co.uk/newsbeat/articles/34388030,,1443512107.0
+57,10295028,comment,10293793.0,10294971.0,0,0,justin_vanw,,,"Oh my, that is quite scary, but I&",
+58,10295027,comment,10294933.0,10294933.0,0,0,reustle,,,You&,
+59,10295026,comment,10289764.0,10294303.0,0,0,smcl,,,"I know and that is completely what I expected. I had typed out a &quot;disclaimer: I know Bunnie and his team have a lot going on, I am not having a go&quot; proviso but I figured HN was a place where we don&",
+60,10295024,story,,,1,0,adilmajid,Angee – Autonomous Home Security System,https://www.kickstarter.com/projects/tomtu/angee-the-first-truly-autonomous-home-security-sys?utm_source=meetangee&utm_medium=button&utm_campaign=menu,,1443512032.0
+61,10295023,story,,,2,0,nefitty,Even If Every Nation Upholds Their Promise We're Still Fried,http://motherboard.vice.com/read/if-every-nation-upholds-their-promise-to-fight-climate-change-were-still-fried,,1443512006.0
+62,10295022,comment,10294656.0,10294922.0,0,0,SamReidHughes,,,Imagine a fan-fold.,1443511993.0
+63,10295021,comment,10291751.0,10293549.0,0,0,tempestn,,,That was my thinking as well.,1443511989.0
+64,10295020,story,,,2,0,ceekay,Be a Player,https://blog.orangecaffeine.com/be-a-player-bfb853f8a1b7,,1443511970.0
+65,10295019,comment,10291621.0,10294067.0,0,0,arrrg,,,"Look at the lens of those devices … I mean, really, it’s a basic physics problem.<p>The device itself can obviously be very, very small. Obviously. No one is disputing that. But the lens is the issue if the sensor gets larger and a smartphone with Sony Nex sensor size (APS-C) is impossible.<p>There is nowhere to go with the available space. Not if you want to keep the smartphone actually smartphone sized.",1443511954.0
+66,10295018,comment,10295011.0,10295011.0,0,0,vatourni,,,"I use 192.168.0.x for things like router, etc ...\nand 192.168.1.x for my computers, phone\nit&",
+67,10295017,comment,10289509.0,10290585.0,0,0,taneq,,,I just finished reading Blindsight and Echopraxia (as the omnibus release &,
+68,10295016,comment,10291778.0,10292495.0,0,0,vruiz,,,"If you are talking single server solutions, then <a href=""https://github.com/progrium/dokku"" rel=""nofollow"">https://github.com/progrium/dokku</a>",1443511914.0
+69,10295015,comment,10292068.0,10292548.0,0,0,bloat,,,Don&,
+70,10295014,comment,10288686.0,10289938.0,0,0,dialtone,,,"That FB can do just fine without tracking users outside of FB is true but debatable given how widely adopted is their WCA product, and the fact that they are looking into using their like buttons to track people&",
+71,10295013,comment,10294931.0,10294931.0,0,0,nitin_flanker,,,"Well this post is spot on. Everyone knows that these services are blocked but we still, due to our unconscious mind, add these code while building a website there.<p>This post provides us with a not-t0-do list while working in China.",1443511799.0
+72,10295012,comment,10291621.0,10293666.0,0,0,nogridbag,,,"Thanks, I&",
+73,10295011,story,,,1,4,AdamKlob,"What is your preffered IP subnet for your home lan, and why?",,"What is your preffered IP subnet for your home lan, and why?<p>I use 192.168.0.x, just bacause ;) Recently I had some problems with that (IP conflict between some dumb devices), so I&",
+74,10295010,comment,10293793.0,10293793.0,0,0,bambax,,,&quot;There&quot; is reasonable doubt doesn&,
+75,10295009,comment,10294887.0,10295000.0,0,0,djcapelis,,,Seconds or less.  This is a solved problem.<p>Backup uninterrupted power is not typically done by keeping generators online 24/7.,1443511711.0
+76,10295008,comment,10294833.0,10294833.0,0,0,aaronbrethorst,,,"<p><pre><code>    GOOOOAAAAALLLL! Fail Whale.\n    GOOOOAAAAALLLL! Fail Whale.\n</code></pre>\nOh yeah, fail whale. I guess Twitter really has come a long way in the past five years. Despite all of the shit they get for not building out their product in a visually-engaging fashion, I have to say that I can&",
+77,10295007,comment,10290436.0,10293052.0,0,0,thefirstzealot,,,"True, kotlin has the huge advantage that google switched to Intellij, and the team knew how to take advantage of this opportunity really well. It also helps that JetBrains is a much smaller company and with that, more focused on their core products.<p>As opposed to that, I assume it is much harder for the ceylon team to get the entire company to support them. For example, even though vert.x 2.0 had support for ceylon, it&",
+78,10295006,comment,10293300.0,10294975.0,0,0,rwallace,,,That&,
+79,10295005,comment,10294887.0,10294985.0,0,0,djcapelis,,,They&,
+80,10295004,comment,10294933.0,10294933.0,0,0,dang,,,"Url changed from <a href=""http://www.engadget.com/2015/09/29/space-images-photoshop/",
+81,10295003,story,,,11,3,nercury,Resurrecting impl Trait,http://aturon.github.io/blog/2015/09/28/impl-trait/,,1443511577.0
+82,10295002,comment,10291179.0,10291179.0,0,0,hiharryhere,,,There&,
+83,10295001,story,,,1,0,hirokitakeuchi,GoCardless (YC S11) are hiring product and web ops engineers in London,https://gocardless.com/about/jobs,,1443511560.0
+84,10295000,comment,10294887.0,10294985.0,0,0,reustle,,,"Because when the power does cut, how long is it going to take to get those generators up and running? It&",
+85,10294999,comment,10293793.0,10294850.0,0,0,emgoldstein,,,I&,
+86,10294997,comment,10294156.0,10294156.0,0,0,aurora72,,,"<a href=""http://phkillscancer.com/"" rel=""nofollow"">http://phkillscancer.com/</a>",1443511516.0
+87,10294996,comment,10294382.0,10294382.0,0,0,dang,,,Please don&,
+88,10294995,comment,10293300.0,10294798.0,0,0,calbear81,,,Noe Valley has a lot more families and is generally seen as pretty safe as it&,
+89,10294994,comment,10291688.0,10293944.0,0,0,liotier,,,"> Or, start from the user experience.\n> Both are good places to start<p>Reminds me of Merise - a modeling method where the data model and the process model co-evolve in parallel. After many years I still have a fondness for it - but maybe that is just the French 80&",
+90,10294993,comment,10293793.0,10294962.0,0,0,justin_vanw,,,"There are two issues here that most commentary about this case seems to be happy to conflate:<p>- Is he guilty<p>- Should he be executed<p>These are independent questions.  One is a question of fact, and there seems to be almost no credible reason to doubt his guilt.<p>The other is a question of ethics and policy.<p>As for your argument on why the death penalty is barbaric, it is not a valid argument.  Reductio ad absurdum, your argument implies that <i>every</i> punishment is barbaric, because all punishment is the result of people&",
+91,10294992,comment,10294115.0,10294115.0,0,0,eps,,,"I was going to say tha they must have one hell of a light pollution headache, but apparently the observatory is not in Rome, but some 15km out of it in a place called Castel Gandolfo... which is actually a pretty badass name if you think about it :)<p><a href=""https://en.wikipedia.org/wiki/Castel_Gandolfo"" rel=""nofollow"">https://en.wikipedia.org/wiki/Castel_Gandolfo</a>",1443511282.0
+92,10294991,comment,10294717.0,10294717.0,0,0,CrazyCatDog,,,This is great news because hopefully it will allow Thumbtack to become <i>the</i> domestic services platform.<p>Think the funding and valuation is too high? It takes inordinate marketing spend to become a focal point outside of metropolitan areas. I&,
+93,10294990,comment,10290793.0,10291838.0,0,0,Houshalter,,,Yes. See Nick Bostrom&,
+94,10294989,story,,,2,0,Stamy,Transform plain text into dynamic blogs and websites using React.js,https://github.com/gatsbyjs/gatsby,,1443511239.0
+95,10294987,comment,10290793.0,10290793.0,0,0,codecamper,,,This is good news for Apple.  Liquid Spill Indicators will generate revenue on Mars too!,1443511223.0
+96,10294986,comment,10273783.0,10275854.0,0,0,bryanwbh,,,Oh I listen to Stanford Entrepreneurial Thought Leaders too! Great stuff there for sure,1443511217.0
+97,10294985,comment,10294887.0,10294887.0,0,0,cm2187,,,"Why would backup generators be running outside of power cuts? Even if it is just to test them, that should only be a minute from time to time.",1443511083.0
+98,10294984,story,,,1,0,Smartcasual,Insights from a beta tester,https://medium.com/@Smartcasual/insights-from-a-beta-tester-8390b7f7cc1f,,1443511075.0
+99,10294983,comment,10294717.0,10294717.0,0,0,cocoflunchy,,,Does someone know what the equity of the founders looks like in these ultra-funded companies? Do they still own a significant part of their business? Is it more like 5%? 10%? 30%? 50%? (doubt it),1443510990.0
+100,10294982,story,,,18,1,luu,Substring search algorithm,http://volnitsky.com/project/str_search/index.html,,1443510984.0
+101,10294981,comment,10290793.0,10294100.0,0,0,Houshalter,,,"If there is life on mars, then it would be highly adapted for the Martian Climate over millions of years. It&",
+102,10294980,comment,10291778.0,10292950.0,0,0,tachion,,,"So you seem to actually worry about hosting and servers, despite you saying you do not ;)",1443510977.0
+103,10294979,comment,10292541.0,10293732.0,0,0,xerophyte12932,,,Exactly. Blogs are mostly text sites and one would expect such to open at rapid speeds. That&,
+104,10294978,comment,10292541.0,10292541.0,0,0,ogezi,,,This is probably one of the best news sites out there.,1443510909.0
+105,10294977,comment,10290813.0,10290813.0,0,0,pervycreeper,,,"No mention of the similarity to Roboto? IMO, the aesthetic effect of Roboto is not as good as the former.",1443510834.0
+106,10294976,comment,10294833.0,10294833.0,0,0,Rifu,,,"That was an enjoyable read. As mentioned in the article, here&",
+107,10294975,comment,10293300.0,10294798.0,0,0,puredemo,,,Noe Valley in particular is considered a very upper class area.  The rest mentioned are all decent / above average.,1443510829.0
+108,10294974,comment,10294717.0,10294717.0,0,0,dangero,,,One of the amazing things to me about Thumbtack is the new user on-boarding experience. If you&,
+109,10294973,comment,10292541.0,10293442.0,0,0,wodenokoto,,,Younger people do that. Clicking around the recommended videos right hand column is the modern day channel surfing,1443510769.0
+110,10294972,comment,10294156.0,10294518.0,0,0,addamh,,,&quot;that will hopefully give my 6 year-old daughter a better sense of who I was as an adult&quot; ... :( heartbreaking,1443510756.0
+111,10294971,comment,10293793.0,10294634.0,0,0,derefr,,,We put the people we&,
+112,10294970,story,,,2,0,porphyry3,Show HN: Convert markdown tables to json,https://github.com/vzaccaria/mdtable2json,,1443510689.0
+113,10294969,comment,10293793.0,10294252.0,0,0,mikeyouse,,,I read his post as the death penalty can be a bludgeon that prosecuting attorneys will wield to get many more plea bargains from people accused of serious crimes. Pleading out to lesser offenses still with decades in prison is a much different calculation for the accused if the alternative is a trial with a death penalty vs. a trial with another decade or two on the end.,1443510654.0
+114,10294968,comment,10293793.0,10294278.0,0,0,justin_vanw,,,"Non common law countries have consistently suspended almost all civil rights from time to time.  In all the common law countries you list, this is basically unheard of, at least in the last 400 years.<p>Our common law system has <i>evolved</i> to be resilient against many different things, rather than being designed to maximize efficiency of a few things.  It is certainly not perfect, there is no doubt of that.  Combined with the culture and other institutional patterns it has co-evolved with, it has proven incredibly stable, open to evolving for the better, and has served our common interests very well.<p>Perhaps Germany is better at overcoming prejudice, but that was after the common law countries were forced to physically restrain them from aggression and murder.  The list of common law countries is also the list of countries that have not had even a hint of losing their democratic institutions in centuries.  That is something you can&",
+115,10294967,comment,10291621.0,10294399.0,0,0,semi-extrinsic,,,"I dunno, my non-interchangeable-lens camera (Canon SX40) has a whole range of features which are important to me and that the iPhone doesn&",
+116,10294965,comment,10294717.0,10294803.0,0,0,stanleydrew,,,"Not sure this thread is the best place to get into all this, but in general unless you are one of the very earliest employees of a hugely successful startup you aren&",
+117,10294964,story,,,3,0,jpetitcolas,How-to dump your Docker-ized database on Amazon S3?,http://www.jonathan-petitcolas.com/2015/09/28/dump-docker-ized-database-to-amazon-s3.html,,1443510551.0
+118,10294963,story,,,2,0,aritraghosh007,Elastic Beanstalk Update – Support for Java and Go,https://aws.amazon.com/blogs/aws/elastic-beanstalk-update-support-for-java-and-go/,,1443510536.0
+119,10294962,comment,10293793.0,10294930.0,0,0,afandian,,,"In all of the mistrials and cases where innocent people have been killed, <i>someone</i> has thought the party was guilty. The thing that makes the death penalty barbaric is that people have misplaced confidence in their opinions.",1443510494.0
+120,10294961,comment,10294717.0,10294811.0,0,0,wushupork,,,"I had a similar experience. Posted a profile, get lots of requests, spend money on credits to reply and nada.",1443510461.0
+121,10294960,story,,,7,0,nallerooth,Deprecating Powerful Features on Insecure Origins,https://sites.google.com/a/chromium.org/dev/Home/chromium-security/deprecating-powerful-features-on-insecure-origins,,1443510440.0
+122,10294959,comment,10293090.0,10293090.0,0,0,jbb555,,,&quot;Lets&,
+123,10294958,comment,10294717.0,10294803.0,0,0,nl,,,"If there is an active secondary market[1] for the company then employees maybe able to sell their share (options). A valuation provides a new baseline for pricing them.<p>[1] <a href=""https://en.wikipedia.org/wiki/SecondMarket"" rel=""nofollow"">https://en.wikipedia.org/wiki/SecondMarket</a>",1443510410.0
+124,10294957,comment,10294656.0,10294656.0,0,0,SixSigma,,,I think one should consider that GDP itself is a grossly flawed metric.,1443510309.0
+125,10294956,story,,,1,0,bhavesh_patel,Know how SAN SSL Certificate protect sub-domains,https://www.quora.com/Can-a-SAN-SSL-protect-subdomains/answer/Bhavesh-Patel-35?share=1,,1443510305.0
+126,10294955,comment,10294373.0,10294430.0,0,0,mtgx,,,So will we see Servo in either the mobile browser or the desktop one next year?,1443510302.0
+127,10294954,comment,10290793.0,10292412.0,0,0,joesb,,,"If there were life on Mars. It will be the our first, and may be the possible only, source of foreign life to study.<p>I don&",
+128,10294953,story,,,1,0,cskakun,After the Lean Startup: Finding a Need Is Only the Start,https://www.linkedin.com/pulse/after-lean-startup-finding-need-only-start-clinton-skakun,,1443510277.0
+129,10294952,comment,10291751.0,10294554.0,0,0,asgard1024,,,"Yes, up to isomorphism.",1443510243.0
+130,10294951,comment,10293920.0,10294816.0,0,0,anon4,,,> <i>Most</i> of the 11 subjects had unique microbial clouds<p>So even in their tiny sample size they wouldn&,
+131,10294949,comment,10293988.0,10293988.0,0,0,charlieegan3,,,Fantastical inspired? :),1443510099.0
+132,10294948,story,,,1,0,kareemm,Comparing Bay Area Housing Prices to the World's Most Gorgeous Places,http://www.citylab.com/housing/2015/09/comparing-bay-area-housing-prices-to-the-worlds-most-gorgeous-places/406291/,,1443510081.0
+133,10294947,story,,,1,0,elasticode,Design Elements of Great Mobile Products,http://www.huffingtonpost.com/sophiecharlotte-moatti/the-7-design-elements-of-great-mobile-products_b_8175942.html,,1443510074.0

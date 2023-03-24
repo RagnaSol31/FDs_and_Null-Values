@@ -1,0 +1,129 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10195944,comment,10195358.0,10195823.0,0,0,ryan-c,,,"Neat, I wasn&",
+1,10195943,story,,,8,0,lackbeard,The Indie Bubble Revisited,http://jeff-vogel.blogspot.com/2015/09/the-indie-bubble-revisited-or-are-we.html,,1441853955.0
+2,10195942,comment,10192188.0,10192188.0,0,0,greydius,,,&quot;maybe doing good work and shipping good products ought to replace advertising&quot; is the best thing I&,
+3,10195941,story,,,2,1,Kapura,German volunteers launch 'Airbnb for refugees',http://www.aljazeera.com/news/2015/09/german-volunteers-launch-airbnb-refugees-150909134156346.html,,1441853856.0
+4,10195940,comment,10190846.0,10192330.0,0,0,mystique,,,"Simple use cases that were more complicated<p>- We wanted to collect files from various locations and push that in hdfs. Nifi seemed like a good way to build a self service setup. Once we setup source and sink, if we read + processed + removed file from destination, Nifi copied it again. We did not have control of always removing source files as soon as it was copied on destination. Components we used were GetFile, PutFile and some options in Conflict Resolution settings for these components<p>- Inspect file name, run a script to generate new subdirectories for partitions and place the file in appropriate partitions. Attaching a script was easy. Changing the destination path on the fly was not.<p>Some Complex cases - there are other ways to do this but setting this up in Nifi was a breeze<p>- Set up file collection from ftp, sftp, file copy from 20+ locations. This was painless, few minutes per source<p>- Add REST interaction within data flow easily<p>- Read CSV files and convert to Avro/Sequence files<p>- Read files and route part of data to different processors<p>We also ran into some strange bugs where Nifi got stuck in some type of loop and kept copying data over and over again.<p>We were able to do all this testing in 2 weeks. Give it a shot, it might work out for your use case.",1441853842.0
+5,10195939,comment,10192711.0,10193786.0,0,0,Splines,,,It&,
+6,10195938,comment,10195358.0,10195894.0,0,0,ryan-c,,,"In theory, you could make the disk performance even worse by alternating between the beginning and end of the disk, though you may need to do a little tweaking to ensure this doesn&",
+7,10195937,comment,10195632.0,10195907.0,0,0,mrmondo,,,"Yes, it works on stock El Cap",1441853794.0
+8,10195936,comment,10193109.0,10194189.0,0,0,spking,,,Your comment motivated me to wean off the caffeine and re-prioritize fitness in my morning routine.  Thank you.,1441853763.0
+9,10195935,comment,10192711.0,10195283.0,0,0,npunt,,,> I&,
+10,10195934,comment,10195788.0,10195788.0,0,0,ericjang,,,"I find it interesting that these hallucinations do not maintain a consistent 3D perspective: the images look really flat and any noticeable three-dimensionality is localized to a small part of the image.<p>Intuitively, this makes some sense - one would expect an object classifier to not care too much about determining viewpoint, so the amplified representation of a dog or a slug is flat. I think convolution layers being the bottom-most layer also has something to do with it.<p>My dreams are a lot more perspective-correct though. Deepdream certainly entertains the idea that biological dreaming might be somehow similar to gradient ascent. Even if it were so, it means that the sensory experiences we feel in our dreams somehow integrate a much more unified &quot;reality&quot; than what we would experience if we were only dreaming with an object classifier.",1441853636.0
+11,10195933,comment,10192273.0,10193973.0,0,0,thekonqueror,,,"I use railgun on a few sites, it does make noticeable difference in page load times.",1441853617.0
+12,10195931,comment,10195632.0,10195901.0,0,0,salimmadjd,,,Thanks! Installing Nightly Build 3.6 fixed it (it&,
+13,10195930,comment,10195863.0,10195863.0,0,0,NeutronBoy,,,"<p><pre><code>  Apple Inc. launched a broadside Wednesday against wireless phone companies, saying it will for the first time finance iPhone sales directly to customers without requiring them to be tied to any particular carrier.\n\n</code></pre>\n<i></i> In the US. This is pretty commonplace in other countries.",1441853553.0
+14,10195929,comment,10192711.0,10195803.0,0,0,caipre,,,*On iPad.  This gesture does nothing on my iPhone 5s running iOS 9.,1441853521.0
+15,10195928,comment,10195423.0,10195612.0,0,0,bkeroack,,,"> Our archetypal team is one product manager, one designer, two engineers from us and two engineers from the client.<p>This organizational system is also referred to as &quot;squads&quot;[1]. We also use it at DSC and it works remarkably well.<p>1. <a href=""https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/"" rel=""nofollow"">https://labs.spotify.com/2014/03/27/spotify-engineering-cult...</a>",1441853518.0
+16,10195927,comment,10191887.0,10195696.0,0,0,eru,,,"Read some texts from the cold war, perhaps?",1441853452.0
+17,10195926,comment,10195246.0,10195892.0,0,0,dman,,,You might want to edit that comment. I suspect &quot;depends heavily on pypy&quot; should be &quot;depends heavily on C extensions&quot;.,1441853389.0
+18,10195925,comment,10191887.0,10191887.0,0,0,Animats,,,"Something similar was tried during WWII. See [1]. This was an explosive ship used to attack an important drydock. The explosive ship part worked fine. But there was a complicated commando raid on other nearby objectives attached to the operation, which didn&",
+19,10195924,comment,10192711.0,10195647.0,0,0,greendestiny,,,"I think this is the angle of attack that Apple is taking here. They want to catch up to the handwriting and sketching abilities of Surface, but they don&",
+20,10195922,comment,10192711.0,10194090.0,0,0,macspoofing,,,"How many offices are using iPads as their workstations?<p>>Very soon iOS apps will match and/or exceed most desktop apps.<p>I expected that to be true, but we&",
+21,10195921,comment,10195091.0,10195795.0,0,0,Dylan16807,,,"Right, cute, but you&",
+22,10195920,comment,10192203.0,10194878.0,0,0,kev009,,,"5k hosts is not that impressive, SaltStack can do that in dog slow CPython.",1441853274.0
+23,10195919,comment,10193715.0,10195389.0,0,0,badusername,,,Why would anyone need to buy a 64GB Apple TV rather than a 32GB one?,1441853264.0
+24,10195918,comment,10193796.0,10195799.0,0,0,cegev,,,An unfortunate thing about Vox is that they don&,
+25,10195917,comment,10195632.0,10195632.0,0,0,rwojo,,,Anyone find a secret command line &,
+26,10195916,comment,10191887.0,10195698.0,0,0,eru,,,"They invented/adopted a bunch of agricultural things in the agricultural revolution.  That was between the 1000 years ago mentioned and the invention of the internal combustion engine, electricity etc.<p>Like a better plow, using legumes to replenish nutrients, etc.",1441853154.0
+27,10195915,comment,10191668.0,10195624.0,0,0,dbaupp,,,Both of those languages will semantically deadlock: forget to send a message on a channel and a different thread will sit there waiting forever. It&,
+28,10195914,comment,10192711.0,10192711.0,0,0,macspoofing,,,Two years ago I tried really hard to use my iPad as my primary workstation (or at least primary outside of the office). It didn&,
+29,10195913,comment,10190846.0,10194933.0,0,0,cbsmith,,,...and a bit more focused on &quot;flows&quot;.,1441853071.0
+30,10195912,comment,10192711.0,10195541.0,0,0,numbsafari,,,"I used Prompt, by Panic.<p>I basically used the tablet as a terminal to an EC2 instance. vim, tmux, git ...<p>When I was away from Wifi, it was a good excuse not to think about work.",1441853067.0
+31,10195911,comment,10193201.0,10194032.0,0,0,m_mueller,,,The biggest problem for me hasn&,
+32,10195910,comment,10191887.0,10193528.0,0,0,eru,,,"> Computers, internal combustion, electricity and medicine are the only major advances we&",
+33,10195908,comment,10192273.0,10194539.0,0,0,ryanlol,,,">For example with their free plans would they need to identify all clients, scan their content and judge accordingly?<p>Ever heard of this little thing called abuse reports?",1441852992.0
+34,10195907,comment,10195632.0,10195901.0,0,0,akerl_,,,Does it work with System Integrity IForgetTheName turned on?<p>I&,
+35,10195906,comment,10194613.0,10195741.0,0,0,kelseydh,,,The article was clearly written before today&,
+36,10195905,comment,10193667.0,10193667.0,0,0,Zigurd,,,"Valid market research often requires deception. If the test subjects know what the test is, their behavior isn&",
+37,10195904,comment,10194964.0,10195702.0,0,0,tonyarkles,,,I&,
+38,10195903,comment,10191540.0,10195615.0,0,0,DougMerritt,,,"I believe the article is primarily talking about single programmer codebases, although team codebases come up at the end.<p>I think everyone would agree that a second year undergraduate (who had not programmed at all before university) is not generally going to be able to write 60,000 lines of code single-handedly. And certainly not in one term.<p>When comparing experiences, I think it&",
+39,10195902,comment,10192711.0,10195639.0,0,0,2muchcoffeeman,,,Didn&,
+40,10195901,comment,10195632.0,10195898.0,0,0,mrmondo,,,"Install the nightly build, it works :)",1441852832.0
+41,10195900,comment,10193715.0,10194321.0,0,0,ceejayoz,,,"> Enforcing arbitrary rules breaking brand names is a bad thing.<p><a href=""https://en.wikipedia.org/wiki/Proof_by_assertion"" rel=""nofollow"">https://en.wikipedia.org/wiki/Proof_by_assertion</a><p><i>Why</i> is it a bad thing? What measurable harm has come to Apple - hell, <i>anyone</i> - by having the link here titled with &",
+42,10195899,comment,10193715.0,10194276.0,0,0,supercoder,,,"Android TV is a buggy, slow, confusing experience. I&",
+43,10195898,comment,10195632.0,10195632.0,0,0,salimmadjd,,,"Just upgraded. Too early to say, but so far everything works except Little Snitch.",1441852650.0
+44,10195897,comment,10194659.0,10195697.0,0,0,pravda,,,"How am I supposed to know if my toast is ready?  Go over and look?  What year is it ... 1934?<p>I will overlook the conspicuous absence of flying cars, but the year is 2015 and <i></i>I want an email when my toast is done<i></i>!",1441852645.0
+45,10195895,comment,10192884.0,10194592.0,0,0,m_mueller,,,"Lots of SF contains black holes however - for which OPs statement basically applies as you write yourself. Knowing the limits of current science is important I think - especially for SF authors, since this gives them some ways to have fantastical elements (i.e. powering an Alcubierre drive) while staying scientifically acurate.",1441852624.0
+46,10195894,comment,10195358.0,10195860.0,0,0,ryan-c,,,(I wrote this horrible thing)<p>It&,
+47,10195893,comment,10195434.0,10195845.0,0,0,jinushaun,,,I hope you haven&,
+48,10195892,comment,10195246.0,10195246.0,0,0,ngoldbaum,,,"Is it possible to get cython to build C extensions that are compatible with pypy? If not, is that something the pypy developers are interested in? A lot of the code I use depends heavily on C extensions, but it would be nice if I could the power of pypy&",
+49,10195891,comment,10194964.0,10194964.0,0,0,Denzel,,,I&,
+50,10195889,comment,10191887.0,10195812.0,0,0,caf,,,"They produced 2,100 warheads for it and it was actively deployed from 1961 to 1971 (I believe it was deployed to the Korean peninsula among other places).<p><a href=""http://blog.nuclearsecrecy.com/2012/07/20/king-of-the-wild-frontier/"" rel=""nofollow"">http://blog.nuclearsecrecy.com/2012/07/20/king-of-the-wild-f...</a>",1441852528.0
+51,10195888,comment,10192739.0,10195370.0,0,0,lispm,,,Welcome to the real world.<p>I&,
+52,10195887,comment,10193715.0,10195438.0,0,0,pat2man,,,"Well for games most of the size is content and you can just download that: <a href=""https://developer.apple.com/library/prerelease/ios/documentation/FileManagement/Conceptual/On_Demand_Resources_Guide/"" rel=""nofollow"">https://developer.apple.com/library/prerelease/ios/documenta...</a><p>That way the OS can clear out unnecessary files and they just get downloaded again the next time you play the game. I imagine there is room for temporary video caches etc.",1441852512.0
+53,10195886,comment,10192413.0,10192413.0,0,0,est,,,"Anyone else remember an old libpng hack that distinguish IE, Firefox and WinXP? exact one PNG file, viewed differently on each.<p>Sorry my Google-fu failed and I can&",
+54,10195885,story,,,1,0,evo_9,Charlie Brooker's 'Black Mirror' Is the Perfect Show for Netflix,http://www.theatlantic.com/entertainment/archive/2015/09/netflix-and-black-mirror-a-match-made-in-digital-heaven/404275/?single_page=true,,1441852429.0
+55,10195884,comment,10192711.0,10195489.0,0,0,gress,,,The numbers of android include huge numbers of unusable devices that exist to displace feature phones.  Don&,
+56,10195883,comment,10191527.0,10193879.0,0,0,smhaziq,,,A program that tells a computer how to draw something in a specific and unique way.,1441852368.0
+57,10195882,comment,10192711.0,10195590.0,0,0,fillskills,,,Thanks. These tools are very nice. WorkingCopy looks seriously awesome. Will try it out. Like you mentioned there are lot of limitations on these tools and iOS itself. Would love to see local servers (is that even possible?) or other deployment strategies to test when access to desktop is not possible.,1441852297.0
+58,10195881,comment,10193201.0,10194731.0,0,0,kelseydh,,,The problem is most consumers don&,
+59,10195880,story,,,3,0,blondie9x,Fires in West Have Residents Gasping on the Soot Left Behind,http://www.nytimes.com/2015/09/10/us/fires-in-west-leave-residents-gasping-on-the-soot-left-behind.html?_r=0,,1441852280.0
+60,10195879,comment,10192978.0,10193338.0,0,0,dv35z,,,Correct - seems to really only prefer mp4. About half of my library is not compatible. Fortunately a re-download isn&,
+61,10195878,comment,10189074.0,10190387.0,0,0,mjnaus,,,That&,
+62,10195877,comment,10195820.0,10195820.0,0,0,11thEarlOfMar,,,Whitfield Diffie... I have to admit that&,
+63,10195876,comment,10194292.0,10194625.0,0,0,Japa,,,&,
+64,10195875,comment,10192739.0,10194449.0,0,0,jimbokun,,,"&quot;Not that I use those languages, but it tends to be that the weird stuff tends to appear there.&quot;<p>I guess programmers of those languages must desperately want to escape to another language.",1441852082.0
+65,10195874,comment,10192884.0,10195243.0,0,0,Jun8,,,The main problem with this analogy is that the thing it&,
+66,10195873,comment,10193715.0,10195438.0,0,0,elithrar,,,Bastion (a 2.5D isometric action RPG) on my iPhone is 1.2GB. Transistor (one of the games they featured) is 1.84GB on the App Store for the iPhone version.<p>Feels like a disconnect between the docs and reality.<p>PS: Transistor is <i>fantastic</i> - that music!,1441852041.0
+67,10195872,comment,10192711.0,10195765.0,0,0,m_mueller,,,Yep. Now add some buttons while viewing an A4 paper. On an iPad they fit nicely next to where you&,
+68,10195871,comment,10193201.0,10193663.0,0,0,kelseydh,,,"Exactly, almost certainly every kid now will need to teach grandma how to manage storage on her device because Apple wanted to make more money.",1441852022.0
+69,10195870,comment,10195091.0,10195819.0,0,0,feelix,,,"And programming anything, or taking over the universe for that matter, is just a matter of the hitting the right keys on the keyboard in the right order.",1441851955.0
+70,10195869,comment,10193201.0,10194166.0,0,0,kelseydh,,,There is a threat though that consumer unhappiness with their device&,
+71,10195868,comment,10192931.0,10192931.0,0,0,mattdw,,,New Zealand&,
+72,10195867,comment,10190889.0,10190889.0,0,0,DougN7,,,I can&,
+73,10195866,comment,10195123.0,10195123.0,0,0,rspeer,,,&quot;These pages have been translated into Spanish language by Maria Ramos from Webhostinghub.com/support/edu.&quot;<p>I&,
+74,10195865,comment,10195091.0,10195566.0,0,0,munificent,,,> Just went and tried dartfmt from the command line after reading this - dartfmt is significantly better.<p>\o/ It improved a <i>lot</i> in the past two months. That&,
+75,10195864,comment,10193796.0,10195813.0,0,0,beatpanda,,,Seems like they&,
+76,10195863,story,,,3,1,kyleslattery,Apple Takes Aim at Wireless Phone Companies,http://www.wsj.com/articles/apple-takes-aim-at-wireless-phone-companies-1441845365,,1441851676.0
+77,10195862,comment,10191595.0,10194950.0,0,0,kaendfinger,,,"Well, for starters, it&",
+78,10195861,comment,10192711.0,10192865.0,0,0,avn2109,,,"On the topic of retrospection: 8 years ago, Jobs himself said, &quot;Nobody wants a stylus.&quot; [0] The times they are a changin&",
+79,10195860,comment,10195358.0,10195358.0,0,0,marvy,,,Request for benchmarks: I&,
+80,10195859,comment,10194269.0,10194269.0,0,0,eponeponepon,,,I have just seen the front page of this morning&,
+81,10195858,comment,10189370.0,10194319.0,0,0,LordKano,,,<i>Imagine airbus or boeing or the FAA allowing uncertified code to enter critical commercial aircraft systems.</i><p>Yeah because some tractor is as much of threat as a 450 ton jumbo jet.<p>Even if there were no regulations preventing it. Even if there were no technological locks preventing it. No one would install unapproved software on such a contraption because the risk of getting sued out of existence would be too great.,1441851618.0
+82,10195857,comment,10192711.0,10192711.0,0,0,mrmondo,,,I know I&,
+83,10195856,comment,10195423.0,10195791.0,0,0,jacques_chester,,,"Sometimes you do it by user interviews, sometimes by paper prototypes, there&",
+84,10195855,comment,10192711.0,10195555.0,0,0,gress,,,"And has a dramatically better display, and all day battery, and no noisy fan.",1441851503.0
+85,10195854,comment,10195550.0,10195550.0,0,0,wardenclyfe,,,"Active antennae like these + satellite Internet could make cabled communication completely obsolete (no more routers, no telephone lines, no cable lines)--all information could be from source to satellite to receiver and back. All devices could always be &quot;online&quot;--that distinction would go away, too, as there is no offline except when it&",
+86,10195853,comment,10192711.0,10194115.0,0,0,npunt,,,&,
+87,10195852,story,,,2,0,SemiconductorR,MIT Develops Tool to Identify Nuclear Weapons,http://news.mit.edu/2015/student-profile-ruaridh-macdonald-0902,,1441851411.0
+88,10195851,comment,10192711.0,10195019.0,0,0,rbanffy,,,"To be fair, both Lisa and Newton failed.",1441851375.0
+89,10195849,comment,10195358.0,10195358.0,0,0,userbinator,,,Would be interesting to see a version for ext* too.,1441851321.0
+90,10195848,comment,10192711.0,10195458.0,0,0,reilly3000,,,I&,
+91,10195847,comment,10191668.0,10195683.0,0,0,geofft,,,mio is doing pretty well as a most-popular event system and reactor. I wouldn&,
+92,10195846,comment,10193201.0,10195295.0,0,0,kelseydh,,,Ditto on Force Touch for text selection.  That&,
+93,10195845,comment,10195434.0,10195434.0,0,0,secfirstmd,,,"Well, it can&",
+94,10195844,comment,10192711.0,10195664.0,0,0,iolothebard,,,"And this is the most amazing thing ever: <a href=""http://www.relato.io/"" rel=""nofollow"">http://www.relato.io/</a><p>Your smug is leaking.",1441851244.0
+95,10195843,comment,10195091.0,10195091.0,0,0,Kenji,,,<i>Every surviving line has about three fallen comrades.</i><p>My first thought was CSS.,1441851215.0
+96,10195842,comment,10192711.0,10195170.0,0,0,gress,,,The surface pro is a failure.   Apple didn&,
+97,10195841,comment,10195736.0,10195736.0,0,0,orionblastar,,,If I were Tim Cook for a year I&,
+98,10195840,comment,10195632.0,10195632.0,0,0,matthew-wegner,,,"As an FYI, Apple typically releases multiple GM candidates before a final OS X release.  (I think it was three each for Yosemite and Mavericks, although it&",
+99,10195839,comment,10193715.0,10195540.0,0,0,veidr,,,It was already reduced to $69 even before today&,
+100,10195838,comment,10194861.0,10195510.0,0,0,spydum,,,If a dedicated WAF can&,
+101,10195836,comment,10195632.0,10195807.0,0,0,wlesieutre,,,You&,
+102,10195835,comment,10195720.0,10195789.0,0,0,kelseydh,,,The problem is that 16GB is seriously no longer enough local storage given the phone&,
+103,10195834,comment,10193667.0,10193667.0,0,0,drdeca,,,"If one consents to being deceived, that seems fine?<p>(To the degree which it is reasonable to consider the consent to apply to)",1441851041.0
+104,10195833,comment,10192711.0,10194757.0,0,0,est,,,at the cost of interoperability. It&,
+105,10195832,comment,10195605.0,10195605.0,0,0,anigbrowl,,,It&,
+106,10195831,comment,10192711.0,10194974.0,0,0,gress,,,"You do realize that the iPad was the first mass market multi-touch tablet, and that the Samsung and Microsoft tablets were introduced as a response to its success?",1441851005.0
+107,10195830,comment,10192188.0,10193959.0,0,0,byoogle,,,So your claim is that the performance difference between Adblock Fast and uBlock is a wash because uBlock <i>only</i> uses 70% more memory? Heh.,1441850996.0
+108,10195828,comment,10191887.0,10191887.0,0,0,100k,,,I&,
+109,10195826,story,,,1,0,yshrsmz,Omnitweety – Chrome Extension that can tweet and share url form omnibox,https://github.com/yshrsmz/omnitweety,,1441850911.0
+110,10195825,comment,10192273.0,10193103.0,0,0,foxylad,,,"...for a single server. HTTPS on a cloud platform is significantly more difficult and expensive.<p>We use Google Appengine, and although they have an SSL solution, it was an order of magnitude cheaper and easier to use Cloudflare&",
+111,10195824,comment,10195358.0,10195769.0,0,0,illektr1k,,,"Sometimes SysAdmins need relax time too!<p><a href=""https://xkcd.com/303/"" rel=""nofollow"">https://xkcd.com/303/</a>",1441850901.0
+112,10195823,comment,10195358.0,10195358.0,0,0,f_,,,This is a pretty neat concept; I&,
+113,10195822,comment,10192711.0,10194309.0,0,0,bsimpson,,,You mean Macbook?,1441850867.0
+114,10195821,comment,10187555.0,10190835.0,0,0,fizzbatter,,,Not sure why the downvotes without explanation. I&,
+115,10195820,story,,,2,1,wslh,"Adventures of a Foreigner in Silicon Valley, Part 1: Why?",https://medium.com/@maraoz/adventures-of-a-foreigner-in-silicon-valley-part-1-why-80f78639e7ea,,1441850729.0
+116,10195819,comment,10195091.0,10195795.0,0,0,aiiane,,,"Along these lines, we have a joke at Google that all of our problems are just transforming one protocol buffer into another.",1441850714.0
+117,10195817,comment,10195720.0,10195771.0,0,0,kelseydh,,,Given memory is so cheap it&,
+118,10195816,comment,10193796.0,10195756.0,0,0,luckydude,,,Yup.  Kids are a reality check.  Your wife is spot on.,1441850702.0
+119,10195815,comment,10195632.0,10195785.0,0,0,christopheraden,,,"Excellent! I guess now is the time for me to finally make the move over to El Capitan, since your usage seems pretty similar to mine. Thanks!",1441850625.0
+120,10195814,story,,,6,0,001sky,Apple Ad-Blocking Feature Is Sending Publishers Scrambling,http://www.bloomberg.com/news/articles/2015-09-09/apple-s-ad-blocking-feature-is-sending-publishers-scrambling,,1441850614.0
+121,10195813,comment,10193796.0,10195613.0,0,0,luckydude,,,Maybe.  Maybe it&,
+122,10195812,comment,10191887.0,10195648.0,0,0,pdkl95,,,"For example, the M388 &quot;Davy Crockett&quot;.<p><a href=""https://www.youtube.com/watch?v=eiM-RzPHyGs"" rel=""nofollow"">https://www.youtube.com/watch?v=eiM-RzPHyGs</a> (test footage)<p>While that test was successful, as far as I know, the project was stopped before it was ever a &quot;production&quot; device. I suspect his was because of the risk to the operator, as small mortar and similar nuclear devices could jam or otherwise fail to move away form the launch site.<p>The whole concept of a nuclear mortar seems like an idea that sounds good on paper, but probably has all kinds of problem and subtle risks in implementation.",1441850540.0
+123,10195811,comment,10190144.0,10190612.0,0,0,croon,,,"The Boyle part I can get on board with, but I have a hard time coming up with a more overestimated writer than Sorkin. All of his characters are the exact same person.<p>Agreed on the Pirates... movie though, it was a great effort for a DTV movie.",1441850539.0
+124,10195810,comment,10195358.0,10195358.0,0,0,mikeash,,,"This could make for an excellent subtle LART, for when the more traditional ones can&",
+125,10195809,comment,10192273.0,10192994.0,0,0,foxylad,,,"And this announcement means that if your app is on Google Cloud, you don&",
+126,10195808,comment,10192711.0,10195320.0,0,0,kelseydh,,,Given it&,
+127,10195807,comment,10195632.0,10195781.0,0,0,mrmondo,,,"Hey thanks for the link, I didn&",

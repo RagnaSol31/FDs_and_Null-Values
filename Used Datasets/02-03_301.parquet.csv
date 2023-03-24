@@ -1,0 +1,106 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9762373,story,,,7,0,da02,The Rise and Fall of BlackBerry [video],https://www.youtube.com/watch?v=ouhezV6kZm8,,1435028380.0
+1,9762372,comment,9760164.0,9762099.0,0,0,anon3_,,,> better C standard libaries<p>What&,
+2,9762371,comment,9761667.0,9761830.0,0,0,nutate,,,"Not to mention most importantly JSON is firmly on one side of the undecidability cliff in terms of parsing limits.  The nesting limits and length limits make parsing it safe, whereas a given binary protocol may have recursion or buffer size definitions which make for ripe security holes.  (Even XML has parser bombs)",1435028321.0
+3,9762370,comment,9761355.0,9761355.0,0,0,nfoz,,,"I love one-based indexing.  I prefer array[1..n] to array[0..n-1].  The reason is because with one-based indexing, I don&",
+4,9762369,comment,9760164.0,9762099.0,0,0,chx,,,"Hrm you are right it certainly predates XSS <a href=""http://www.thesecuritypractice.com/the_security_practice/2010/11/how-cross-site-scripting-was-discovered.html"" rel=""nofollow"">http://www.thesecuritypractice.com/the_security_practice/201...</a>",1435028315.0
+5,9762367,comment,9760164.0,9762020.0,0,0,anon3_,,,> Most new software is no longer shipped in C/C++.<p>What language are the applications in? What makes them more secure than C/C++?,1435028257.0
+6,9762366,comment,9761470.0,9761470.0,0,0,4ydx,,,Models get ugly with tags?  You don&,
+7,9762365,comment,9757243.0,9757243.0,0,0,Firegarden,,,"Publish your code on a github repository and become a platform as a service. People need to adopt your platform as a foundation for anything. At the same time offer messaging as a paid add on service with a revenue model tied directly to use. Eg. * > 100,000 messages per month is 1.00 per month. Sell your support and integration services.",1435028226.0
+8,9762364,story,,,5,8,dmitryame,Ask HN: What is used for pairing Apple Watch,,Does anyone know what method is used for pairing Apple Watch? \nI&,
+9,9762363,comment,9761606.0,9762147.0,0,0,fsk,,,"Trillions of dollars in bank bailouts?<p>The military/industrial complex?<p>The prison/judicial complex?<p>For example, approximately 0.5% of the NYC population works for the NYPD.  So, a tax rate of 0.5% should be sufficient to maintain order in a city like NYC.  Add in some overhead and you get to 1%.<p>Roads are similar, can be done easily for 1% or less.",1435028083.0
+10,9762362,comment,9759639.0,9759639.0,0,0,jakejake,,,"Serious question.  We have a master DB and a slave, two memcache servers and 3 webservers behind a load balancer.  We&",
+11,9762361,comment,9758969.0,9758969.0,0,0,hit8run,,,"I have the feeling that flask has been neglected for a while. The last release 0.10.1 was on Jun 14, 2013. The mastermind behind Flask, Armin Ronacher, is more into Rust nowadays. \nI once started a big codebase on Flask and had to move away from it because of some really strange bugs and bad interplay of officially approved packages. The idea behind Flask is nice and there are great plugins out there like Flask-Admin but I don&",
+12,9762360,comment,9762062.0,9762320.0,0,0,rayiner,,,> There are college students now who were toddlers when this compiler came out.<p>Sucks for them that Visual Studio peaked when they were still in diapers.,1435027993.0
+13,9762359,comment,9761470.0,9761974.0,0,0,aikah,,,> It should also be noted that both are young languages and they are evolving rapidly.<p>Go will basically get dynamic linking and stop evolving. Its type system is way too simple to support any new significant feature. And go designers have said many time that the language is &quot;done&quot;.,1435027990.0
+14,9762358,story,,,2,2,plummet,Crowdsourced game dev startup progression – GameStarter.io,,Have posted here before around my crowdsourced game development start up.\nInterested to know\nWhat does crowdsourcing mean to you? Would you compete in a competition for $ to come up with the idea for a game or mechanic and concept from another&,
+15,9762357,comment,9757564.0,9757564.0,0,0,AdieuToLogic,,,Reading many of the comments in this thread reminds me of Plato&,
+16,9762356,comment,9760508.0,9761822.0,0,0,slater,,,Or maybe the Russian antivirus software companies are just the most popular?,1435027927.0
+17,9762355,comment,9759580.0,9762257.0,0,0,peteretep,,,Because at the moment s/he is bearing the cost of abusive users.,1435027922.0
+18,9762354,story,,,1,0,qhoxie,Senior Ruby Engineers – Swiftype Is Hiring,https://swiftype.com/jobs,,1435027878.0
+19,9762353,story,,,1,0,obilgic,New Plans and New Features – DNSimple Blog,https://blog.dnsimple.com/2015/06/multiple-accounts-new-plans-and-new-features/,,1435027859.0
+20,9762352,comment,9761470.0,9762222.0,0,0,girvo,,,"Philosophy, not implementation.",1435027817.0
+21,9762351,comment,9757892.0,9760201.0,0,0,crdoconnor,,,>This assumes that developers&,
+22,9762350,comment,9761470.0,9761470.0,0,0,aikah,,,"> That being said, have you tried writing a web app in Go? You can do it, but it isn&",
+23,9762349,story,,,3,0,blhack,Feds take first action against a failed Kickstarter with $112K judgment,http://arstechnica.com/tech-policy/2015/06/feds-take-first-action-against-a-failed-kickstarter-with-112k-judgment/,,1435027722.0
+24,9762348,comment,9758969.0,9760040.0,0,0,91bananas,,,I think this prejudice only exists within this community where if you aren&,
+25,9762347,comment,9761355.0,9762197.0,0,0,Retra,,,That&,
+26,9762346,comment,9760606.0,9762299.0,0,0,patrickmclaren,,,"I recently worked on a similar project (with Privy.com), where Mixpanel was one of the external providers we tracked with. Mixpanel handles (AFAIK) an arbitrary number of properties. It was a lot easier than say Google Analytics, where custom dimensions are limited.",1435027494.0
+27,9762345,comment,9759580.0,9760970.0,0,0,yen223,,,&quot;The bigger problem facing HDDs now is that almost all major manufactures are bought up by WD and Seagate and this is starting to show the ill effects of a duopoly. So it remains in their best interest to keep the prices high [2].&quot;<p>It&,
+28,9762343,comment,9761769.0,9762251.0,0,0,arfliw,,,">Downtown LV is quite far from the strip, so tourists aren&",
+29,9762342,story,,,2,0,foundersgrid,50 Startups in India You Should Get to Know,http://foundersgrid.com/startups-india,,1435027401.0
+30,9762341,story,,,1,0,kev6168,Please consider helping sustain Neovim development,https://salt.bountysource.com/teams/neovim,,1435027380.0
+31,9762340,comment,9759639.0,9761871.0,0,0,shykes,,,"Obviously I am biased (working on Docker), but I thought I would mention a few facts.<p>- Today AWS announced they would support Docker Swarm and Compose natively on ECS.<p>- Last month devops.com surveyed development and ops teams about their usage of containers. Their conclusion was: <i>&quot;While this is still a nascent market, some early leaders did emerge from the responses. Docker Swarm, the orchestration technology from Docker itself, was the clear winner, with nearly 50% of respondents indicating that they planned to investigate Swarm. Close behind were Kubernetes and Mesos.&quot;</i><p>Personally I think the important part of that quote is &quot;this is still a nascent market&quot;. We are the very, very beginning of these sorts of platforms, and nobody really knows what these platforms will evolve to be in a few years. So I really don&",
+32,9762339,comment,9761637.0,9761637.0,0,0,contingencies,,,"Vaguely ....<p>Mathematics = formal systems.<p>Programming = formal procedural systems.<p>Using programming to learn mathematics makes sense, since process-driven exploration is closer to the way we naturally experience the world.<p>These days, programming perhaps also has a lower barrier of entry than mathematics with respect to the amount of specialist vocabulary required for comprehension.",1435027311.0
+33,9762338,comment,9757243.0,9758865.0,0,0,dosh,,,agree with blake here. we&,
+34,9762337,comment,9759580.0,9762173.0,0,0,toomuchtodo,,,"Cree LEDs have a 20 year lifetime, and a 10-year limited warranty.",1435027256.0
+35,9762336,story,,,6,0,tonyg,Robin Hood hashing: backward shift deletion (2013),http://codecapsule.com/2013/11/17/robin-hood-hashing-backward-shift-deletion/,,1435027243.0
+36,9762335,comment,9759639.0,9761231.0,0,0,simonebrunozzi,,,Made (and open-sourced) by the smart guys at Mashape.com. Thanks for doing this.,1435027211.0
+37,9762334,comment,9761769.0,9761769.0,0,0,dangero,,,"On first glance this article seemed negative, but by the time I finished I couldn&",
+38,9762333,comment,9738065.0,9752556.0,0,0,__z,,,Entire community - I dont personally say it but I hear others. Bissell does makes vacuums.,1435027058.0
+39,9762332,comment,9762268.0,9762268.0,0,0,kalgubtoi,,,"Possibly the bigger issue for users of private mode in Firefox is that extensions are run:  Users have to trust that extension developers implemented private mode correctly.  In Chrome, extensions don&",
+40,9762331,story,,,386,122,cevn,"The man with 1,000 klein bottles under his house [video]",https://www.youtube.com/watch?v=-k3mVnRlQLU,,1435027012.0
+41,9762329,story,,,16,8,cstanley,Ask HN: Startup ecosystems: SF vs. Seattle,,"For those of you who are familiar with SF & Seattle, I&",
+42,9762328,comment,9760164.0,9762099.0,0,0,acdha,,,"I thought by then there was at least some awareness - old memories of people evangelizing prepared statements with placeholders – but this was the oldest reference I found, from December 1998:<p><a href=""http://phrack.org/issues/54/8.html"" rel=""nofollow"">http://phrack.org/issues/54/8.html</a>",1435026928.0
+43,9762327,comment,9762288.0,9762288.0,0,0,DrScump,,,"I think people will feel safer if you direct them to get it via the Play store, where people can expect it to have been vetted a bit.<p>Search on &quot;brain.cards&quot; in quotes.",1435026865.0
+44,9762326,comment,9762062.0,9762320.0,0,0,kalgubtoi,,,I completely agree.  It also seems the list of programs that were analysed is not quite as diverse as one might wish.  It&,
+45,9762325,comment,9759580.0,9761813.0,0,0,davewasthere,,,"Yeah, when GTA V came out, I waiting until &",
+46,9762324,comment,9757892.0,9759380.0,0,0,crdoconnor,,,>I think this is quite a discriminating practice - what if i don&,
+47,9762323,comment,9760064.0,9762135.0,0,0,sgeisenh,,,The commonplace languages in use are difficult to reason about. It would take a serious paradigm shift for most companies to stop what they&,
+48,9762322,comment,9755366.0,9756911.0,0,0,orblivion,,,That&,
+49,9762320,comment,9762062.0,9762062.0,0,0,jbandela1,,,The only issue I have with this are that you are using a compiler from 1998 (visual c++ 6) at that time I think the Pentium !!! was just starting to get popular. There are college students now who were toddlers when this compiler came out. I would love to see a treatment of a more recent compiler generating instructions for more recent x86 CPUs.,1435026669.0
+50,9762319,comment,9759580.0,9759996.0,0,0,lukeschlather,,,"When you factor in depreciation, 1TB of HDD is conservatively worth half of what 1TB of SSD is worth.<p>And judging from the reliability figures I&",
+51,9762318,comment,9761667.0,9761667.0,0,0,kentonv,,,"OK, we&",
+52,9762316,comment,9757909.0,9760336.0,0,0,JadeNB,,,"Oops, I an important word out:<p>> Because code, and the hardware on which it runs, is made (at least indirectly) by humans, it will fail under some conditions; it only satisfies its specification.<p>This sentence was supposed to end &quot;it only satisfies its specification <i>some of the time</i>.&quot;  I was not going for Knuth-ian irony about proving vs testing (<a href=""https://en.wikiquote.org/wiki/Donald_Knuth",
+53,9762315,story,,,101,24,brown-dragon,C Puzzles,http://www.gowrikumar.com/c/index.php,,1435026541.0
+54,9762314,comment,9761769.0,9761769.0,0,0,8ig8,,,Mods: How about a 2014 note in the post title?,1435026530.0
+55,9762313,comment,9759580.0,9761966.0,0,0,Dylan16807,,,Honestly it&,
+56,9762312,comment,9757892.0,9761141.0,0,0,nostrademons,,,"So when you say &quot;real GC, not reference counting&quot;, you have to understand that tracing GC and reference counting are duals, and every concurrent collector is going to be some hybrid of the two [1].<p>But there are a number of algorithms that most people would probably consider &quot;real GC&quot; that don&",
+57,9762311,comment,9760508.0,9761822.0,0,0,miscellaneous,,,It&,
+58,9762310,comment,9760966.0,9762225.0,0,0,hoodoof,,,"Are you confirming that boto is &quot;an unmaintained disaster&quot;?<p>It seems there is some confusion here about what is boto, what is boto3 and what state the boto project is in.",1435026462.0
+59,9762309,story,,,4,0,tomkwok,Amazon will soon pay self-published authors based on the no. of pages read,http://thenextweb.com/insider/2015/06/23/amazon-will-soon-pay-self-published-authors-based-on-how-many-pages-of-a-book-are-read/,,1435026413.0
+60,9762307,comment,9761667.0,9761667.0,0,0,jpatokal,,,"Google has an elegant solution for this in the form of protocol buffers, which are human-readable when expanded but compress down to a very efficient binary format:<p><a href=""https://developers.google.com/protocol-buffers/"" rel=""nofollow"">https://developers.google.com/protocol-buffers/</a><p>Unfortunately it was made public only after JSON had already become &quot;the XML replacement&quot;.",1435026325.0
+61,9762304,comment,9760164.0,9762218.0,0,0,a3n,,,> suit: hacker credibility -1<p>Social engineering.,1435026254.0
+62,9762303,comment,9761352.0,9761855.0,0,0,toomuchtodo,,,PXE boot to ramdisk. Your constraints are then how fast you can get bits over the network and the machine bootstrapped only through ram.,1435026226.0
+63,9762302,comment,9762062.0,9762062.0,0,0,kenferry,,,You&,
+64,9762300,comment,9759580.0,9761698.0,0,0,kalleboo,,,"Only 5% of GTA V sales were for PC, the rest were on consoles",1435026090.0
+65,9762299,comment,9760606.0,9760606.0,0,0,burnout1540,,,"How much of this could be accomplished using something like Mixpanel? Honestly curious.<p>I know a true ETL solution like this will be more powerful and flexible, but how do you decide when it&",
+66,9762297,comment,9759580.0,9762084.0,0,0,wtallis,,,"Wear leveling is done in the layer that translates between LBAs and actual physical chip numbers and addresses. Drive partitions are well above all of that in the abstraction stack, and partition tables are totally beyond the scope of a drive&",
+67,9762296,comment,9760064.0,9762229.0,0,0,pekk,,,"It is part of the marketing for several &quot;new hotness&quot; languages (however long ago their development started). Back when Java was new, the same marketing talk was directed at OOP, which isn&",
+68,9762295,comment,9761808.0,9761808.0,0,0,chmaynard,,,"After reading this article, I&",
+69,9762294,story,,,3,0,chapulin,A 16-year-old tricked the NYTimes into reporting Dylann Roof was a Brony,http://fusion.net/story/154553/how-a-16-year-old-tricked-the-new-york-times-into-reporting-that-dylann-roof-was-a-my-little-pony-fan/,,1435025856.0
+70,9762292,story,,,16,1,mattmcknight,Model-Based Machine Learning Book,http://www.mbmlbook.com/Introduction.html,,1435025779.0
+71,9762291,story,,,58,15,brudgers,Ioke is a folding language,https://ioke.org/,,1435025771.0
+72,9762290,comment,9759929.0,9761632.0,0,0,shykes,,,That&,
+73,9762288,story,,,2,3,DanLevinschi,Brain.cards – learn anything on the go,,brain.cards is a flashcards app that focuses on real-world UX design. This is the closest you can get to real flashcards. Each card is spatially modeled to look like a real one. It has 2 sides and you can write on both. You can flip cards. When you swipe through your cards the app will automatically help you memorize them. It&,
+74,9762287,story,,,4,0,tomkwok,"Osaka, Japan: CloudFlare's 35th data center",https://blog.cloudflare.com/osaka-data-center/,,1435025681.0
+75,9762286,comment,9758625.0,9759749.0,0,0,kenko,,,"&quot;As a result, a business can&",
+76,9762285,story,,,110,24,rndn,"Top mathematical achievements of the last 5ish years, maybe",http://richardelwes.co.uk/2015/06/18/the-top-10-mathematical-achievements-of-the-last-5ish-years-maybe/,,1435025662.0
+77,9762284,story,,,5,0,robwormald,Crockford: Upgrading the Web,https://angularu.com/VideoSession/2015sf/upgrading-the-web,,1435025653.0
+78,9762283,comment,9759639.0,9761362.0,0,0,colordrops,,,I agree that the tagging system needs some work.  I&,
+79,9762282,story,,,1,0,88e282102ae2e5b,Code-Free Hackathon for Non-Technical Entrepreneurs,http://protohack.org/,,1435025640.0
+80,9762281,comment,9755673.0,9755673.0,0,0,Firegarden,,,xamarin is what you are looking for. I can&,
+81,9762280,comment,9760164.0,9761110.0,0,0,im3w1l,,,Maybe something about possible outcomes? If you&,
+82,9762279,story,,,16,5,Thevet,In Welsh Patagonia,http://moreintelligentlife.com/content/places/jasper-rees/welsh-patagonia?page=full,,1435025560.0
+83,9762278,comment,9760966.0,9761598.0,0,0,pekk,,,"Boto3 as a successor addresses the problem of maintenance, doesn&",
+84,9762277,comment,9757892.0,9762252.0,0,0,rsuelzer,,,I&,
+85,9762276,comment,9761667.0,9761667.0,0,0,delinka,,,The Internet <i>is</i> running in debug mode. Because it&,
+86,9762275,comment,9760140.0,9760711.0,0,0,prawn,,,Not sure the story would have made it as far on HN if it was presented more plainly. It would be just another long-form piece that didn&,
+87,9762274,comment,9760123.0,9760993.0,0,0,razvanr,,,Pretty much what we&,
+88,9762273,comment,9761488.0,9761751.0,0,0,improv32,,,"This is exactly what I was looking for, thanks :)",1435025437.0
+89,9762272,comment,9760508.0,9760935.0,0,0,braythwayt,,,"<p><pre><code>  > Many FOSS maintainers live a ramen lifestyle. If someone either A. wanted\n  > a zero day exploit, or B. wanted a virus to be ignored, they might be able\n  > to pay the maintainer enough to violate ethics. Is there a way to\n  > incentivize maintainers enough to counter this risk?\n\n</code></pre>\nWeirdly, people living on ramen lifestyles are often the most difficult to corrupt with money. There’s a reason they aren’t using their intelligence to trade financial instruments or writing programs to do it for them.<p>The most vulnerable to corruption are often those with middle-class lifestyles who are living above their means and stretched to make ends meet. They often value the appearance of a comfortable lifestyle, and once you start playing golf with Alice, drinking fine wines with Bob, and horseback riding with Carol, you are in a deep financial hole.<p>Worse, it’s really all about the social aspects for such people, so the idea of a tight fiscal diet to regain control of their finances is anathema to them. They can’t suffer the shame of having to admit to their social circle that they don’t belong.<p>It’s easy for authorities to target those running up debts.<p>The irony is, sometimes everyone in the same social circle are all in over their head. They’re all suffering from a kind of impostor syndrome, each of them thinks that everyone else can afford the Suburban in the driveway and the jet-ski in the garage, and that they’re the only one in trouble. In reality they’re all in a Red Queen’s Race.",1435025407.0
+90,9762271,comment,9761984.0,9761984.0,0,0,briantmaurer,,,Does anyone else feel like this &quot;leap&quot; is somewhere in the middle of its transition?,1435025394.0
+91,9762270,comment,9759580.0,9760758.0,0,0,dghughes,,, I think you should have put &quot;my games&quot; and &quot;my music&quot;.,1435025294.0
+92,9762269,comment,9760064.0,9762229.0,0,0,tel,,,I can&,
+93,9762268,story,,,8,1,gotoY,Firefoxs “Private Mode” saves visited sites permissions to disk,http://www.reddit.com/r/linux/comments/3af3q4/firefoxs_private_browsing_mode_saves_your_visited/,,1435025280.0
+94,9762267,comment,9758454.0,9761773.0,0,0,Aloisius,,,No. No that&,
+95,9762266,comment,9755742.0,9757316.0,0,0,e19293001,,,"I just finished the course from coursera <a href=""https://www.coursera.org/course/nand2tetris1"" rel=""nofollow"">https://www.coursera.org/course/nand2tetris1</a>. It is a very good start learning from the course or from the book for those who are interested to build something like this. I highly recommend it.",1435025258.0
+96,9762265,comment,9760743.0,9761790.0,0,0,kelukelugames,,,I don&,
+97,9762263,comment,9762054.0,9762054.0,0,0,joe_the_user,,,"A nice simple demonstration.<p>Other things that can be added easily is Labels, Loop0 - loop while a variable is greater than zero and subX - pop stack and instruction pointer and go to location X.",1435025040.0
+98,9762262,comment,9758759.0,9759803.0,0,0,neotek,,,This is pure speculation and I&,
+99,9762261,story,,,1,0,thesumofall,Brandtale – List of native advertising,https://www.brandtale.com/,,1435025030.0
+100,9762260,comment,9761352.0,9761352.0,0,0,Terr_,,,In any complex system you&,
+101,9762259,comment,9762062.0,9762062.0,0,0,IvyMike,,,"A) I have no idea what to do with the information, but it&",
+102,9762258,comment,9741137.0,9744807.0,0,0,letstryagain,,,You think there are pieces of fat getting stuck in your digestive system?,1435024901.0
+103,9762257,comment,9759580.0,9761777.0,0,0,samch,,,I&,
+104,9762256,comment,9758487.0,9759593.0,0,0,sandmansandine,,,It&,

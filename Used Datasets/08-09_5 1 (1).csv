@@ -1,0 +1,100 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10568991,comment,10568700.0,10568700.0,0,0,stenl,,,&quot;whether coherent quantum processes play a nontrivial role in biology&quot; (from the paper) is very controversial. The idea was that coherence would make photosynthesis more efficient. If they&,
+1,10568990,comment,10562207.0,10564979.0,0,0,conceit,,,sounds like cm is used as a testing channel for new features.,1447577977.0
+2,10568989,comment,10568672.0,10568950.0,0,0,thaumasiotes,,,You&,
+3,10568988,comment,10568734.0,10568734.0,0,0,trhway,,,instead of remembering passwords i remember only one  function i&,
+4,10568987,comment,10565880.0,10565880.0,0,0,benkant,,,"We were writing web based GIS in 1996, using ESRI&",
+5,10568986,comment,10568705.0,10568705.0,0,0,acd,,,Using zfs in production virtualization it´s fast and provides good integrity. You can basically get some of the hyped features of Docker the copyonwrite filesystem part with ordinary Linux virtualization.,1447577889.0
+6,10568985,comment,10567269.0,10567515.0,0,0,Mithaldu,,,"Haha, i read the version as &quot;woot&quot;.",1447577794.0
+7,10568984,comment,10568137.0,10568461.0,0,0,thedz,,,"Echoing others, I&",
+8,10568983,comment,10559387.0,10568110.0,0,0,spronkey,,,"Heh, I should qualify that to become an expert some manual-reading is required. But the interface should at least help you with the transition.",1447577729.0
+9,10568981,comment,10567603.0,10567603.0,0,0,dang,,,"Url changed from <a href=""https://recode.net/2015/11/13/how-startups-ratchet-up-their-valuation/"" rel=""nofollow"">https://recode.net/2015/11/13/how-startups-ratchet-up-their-...</a>, which points to this.",1447577707.0
+10,10568980,comment,10568672.0,10568965.0,0,0,m12k,,,Here&,
+11,10568979,comment,10567821.0,10567821.0,0,0,dang,,,"Url changed from <a href=""http://gizmodo.com/a-new-study-challenges-assumptions-about-the-origins-of-1742474825"" rel=""nofollow"">http://gizmodo.com/a-new-study-challenges-assumptions-about-...</a>, which points to this.",1447577665.0
+12,10568978,comment,10568525.0,10568972.0,0,0,zaidf,,,<i>It&,
+13,10568977,story,,,12,2,uxhacker,Women from Apple’s Early Days Recall Working with Steve Jobs,http://recode.net/2015/11/02/women-from-apples-early-days-recall-life-with-steve-jobs/,,1447577643.0
+14,10568976,comment,10562377.0,10568803.0,0,0,fractallyte,,,"So, like a (real-life) marine version of the melange/spice produced by the sandworms of Dune/Arrakis...? ;-)",1447577586.0
+15,10568975,comment,10565032.0,10565032.0,0,0,peterashford,,,Take some deep breaths.  Stay the knee-jerk responses.  Allow heads to cool.<p>Suggesting that there&,
+16,10568974,comment,10568525.0,10568649.0,0,0,zaidf,,,No one doubts that the open web is a good thing. But no where in your entire post do you address the apparent upside of Internet.org: people who wouldn&,
+17,10568973,comment,10568137.0,10568482.0,0,0,thedz,,,"In contrast, it baffles me that some don&",
+18,10568972,comment,10568525.0,10568525.0,0,0,halfcentaur,,,I&,
+19,10568971,comment,10566731.0,10566731.0,0,0,azernik,,,Apps that change their users&,
+20,10568970,comment,10568672.0,10568672.0,0,0,ericschmidt,,,What a conceptually interesting article. There are a few cool framing devices in here.<p>I like how is using English to describe how English is weird. That&,
+21,10568969,comment,10552932.0,10566533.0,0,0,digi_owl,,,"Thanks. Reminds me that various file explorers do not call it a cut, but a move. They just reuse the same keyboard shortcut as the cut found in text editors.",1447577220.0
+22,10568968,comment,10566735.0,10568795.0,0,0,raverbashing,,,"Yes, this is an interesting question.<p>Exclude all non-static ads (flash/etc). Get the whole size of the ad (and associated JS) and the information it collects from the user and &",
+23,10568967,comment,10558111.0,10562854.0,0,0,executesorder66,,,"That is why I said accelerate _slower_ than the person in front of you to build a gap. (Once you are on the other side of the traffic light)<p>When the light goes green everyone should go at the exact same time and acceleration. Because you just started moving your speed is very low, so you don&",
+24,10568966,comment,10565605.0,10565605.0,0,0,SixSigma,,,"Hope you guys had a good time. I still miss Uriel. I hope someone stood in for him and ripped your ideas apart, particularly the C++.",1447577160.0
+25,10568965,comment,10568672.0,10568672.0,0,0,Mithaldu,,,As a german the commentary here strikes me as sadly defensive.<p>I&,
+26,10568964,comment,10567624.0,10568448.0,0,0,thedz,,,> I really want to support open source efforts.<p>That&,
+27,10568963,comment,10568818.0,10568818.0,0,0,ColinWright,,,Wrong link?,1447576991.0
+28,10568962,comment,10566859.0,10568947.0,0,0,DanBC,,,"> By &quot;intolerance&quot; I mean &quot;having consequences beyond having people disagree with you,&quot; for example, making you lose your job.<p>Does institutional racism and sexism and homophobia - which prevent some people even getting a job - count?",1447576978.0
+29,10568961,comment,10562207.0,10566491.0,0,0,digi_owl,,,Depends on where in the world you lived...,1447576974.0
+30,10568960,comment,10562207.0,10565581.0,0,0,digi_owl,,,"Still own a SE C702, and it has served me well.",1447576947.0
+31,10568959,comment,10567232.0,10568752.0,0,0,brobinson,,,"Thanks for the clarification!  What if instead of the sender goroutine setting the pointer to nil, the GC frees the object that the pointer was pointing to before the recipient goroutine reads it?  Wouldn&",
+32,10568958,comment,10555672.0,10566622.0,0,0,digi_owl,,,"Earnings on savings are independent of debt repayments.<p>If you look at page 3 of the document, it talks about how repayments are basically an accounting alteration of the debtors deposit account.<p>Meaning that said account is reduced by the mount paid, but does not show up with a matching increase on any other account ledger (the banks own or any other).<p>Debt and savings are wholly uncoupled, no matter what mainstream economics likes to think.",1447576910.0
+33,10568957,comment,10558436.0,10559967.0,0,0,jancborchardt,,,"You’re welcome! Let us know of any issues or feedback at <a href=""https://github.com/owncloud/news/issues"" rel=""nofollow"">https://github.com/owncloud/news/issues</a> :)",1447576848.0
+34,10568956,comment,10568672.0,10568672.0,0,0,pazimzadeh,,,"Having learned English as my third language (after French and Farsi) I found it more streamlined, full of shortcuts and easier to pick up than any other language. Not sure if that counts as weird.",1447576846.0
+35,10568955,comment,10568525.0,10568800.0,0,0,xorcist,,,Apart from what&,
+36,10568954,comment,10559037.0,10568724.0,0,0,quacker,,,"That was surprising. Those are some very, very permissive licenses and pretty widely used, too. Just today I wrote a plugin and stuck an MIT license on it. The only requirement is basically that you keep the license/copyright with all copies of the code. Is that really so much baggage?",1447576821.0
+37,10568953,comment,10558436.0,10562187.0,0,0,jancborchardt,,,"If you really have problems with ownCloud, then please report them at our issue tracker <a href=""https://github.com/owncloud/core/issues"" rel=""nofollow"">https://github.com/owncloud/core/issues</a> in more detail than »eats files«. Then we can actually fix the problem.<p>About the delta sync: There’s plans being made and work being done on it. It’s locked because all people get notified on every »+1« comment and that doesn’t help to focus and get actual work done. Besides, do you really believe that USD 1200 will swiftly take care of implementing this feature?",1447576743.0
+38,10568951,comment,10558018.0,10568261.0,0,0,digi_owl,,,I think the reason why it is being chopped is that is usually a part of the Christmas special.,1447576714.0
+39,10568950,comment,10568672.0,10568922.0,0,0,Mithaldu,,,&quot;them&quot; in that case is the group of languages belonging to the family &quot;Indo-European&quot;. He was selecting a group of language from the european ones and then making a statement about that group.,1447576708.0
+40,10568949,comment,10568525.0,10568896.0,0,0,ikeboy,,,>Organizers of the boycott encourage the practice of newborn nutrition via natural breast milk and claim that use of the substitutes represent a health risk for infants<p>What&,
+41,10568948,comment,10568525.0,10568775.0,0,0,scrollaway,,,Ignoring hanlon&,
+42,10568947,comment,10566859.0,10568740.0,0,0,otterley,,,"> How is calling people &quot;crybullies&quot; and implicitly &quot;indoctrinated&quot; instead of reviewing and arguing against their arguments being tolerant?<p>By &quot;intolerance&quot; I mean &quot;having consequences beyond having people disagree with you,&quot; for example, making you lose your job.<p>> I think everyone has the right to campaign for their cause regardless if that cause is to stop someone else from doing something. I think it&",
+43,10568946,comment,10562410.0,10568913.0,0,0,aprilzero,,,"Hah nice. I tried to do a heart for Valentines day, but took a wrong turn towards the end. <a href=""https://www.instagram.com/p/zGjaXjxTL4/"" rel=""nofollow"">https://www.instagram.com/p/zGjaXjxTL4/</a>",1447576652.0
+44,10568945,comment,10567232.0,10568229.0,0,0,pjmlp,,,"Co-routines go back to Modula-2 (1978) and first COBOL optimizing compilers, Go didn&",
+45,10568944,comment,10567408.0,10568406.0,0,0,icebraining,,,"<i>And maybe $50M was a pretty fucking nice luiqidation event in 1998</i><p>Well, Mark Cuban et all sold Broadcast.com to Yahoo in &",
+46,10568943,story,,,3,0,slyall,The Proprietary Software Renaissance,https://www.jethrocarr.com/2015/11/15/the-proprietary-renaissance/,,1447576564.0
+47,10568942,comment,10565605.0,10568895.0,0,0,simoncion,,,Same here!<p>I try to keep Rule ,
+48,10568941,comment,10568672.0,10568672.0,0,0,hasenj,,,All languages are not normal in that same sense.<p>Study any language and you will be struck with &quot;weird&quot; all the time.,1447576539.0
+49,10568940,comment,10568525.0,10568933.0,0,0,ikeboy,,,So enabling people to access some sites is now evil because it makes people money (which there&,
+50,10568939,comment,10567232.0,10568772.0,0,0,pjmlp,,,Java and .NET have AOT compilers so compilation to native code is not a point.<p>They have support for generics and FP like programming that Go will never get.<p>Go will never have the access to the system resources on Windows and Windows Store like .NET does.<p>Go will never had access to Android frameworks like Java does.<p>Go doesn&,
+51,10568938,comment,10568525.0,10568891.0,0,0,ikeboy,,,I&,
+52,10568936,comment,10568525.0,10568812.0,0,0,stingraycharles,,,Living in a third world country right now that&,
+53,10568935,comment,10565605.0,10565605.0,0,0,yeukhon,,,"Looks like being a minimalist FOSS community, they would only write in C and C++? No Python, Java?",1447576265.0
+54,10568934,comment,10568525.0,10568850.0,0,0,xseotheo,,,Some of the arguments here are not very well thought of.\n- It&,
+55,10568933,comment,10568525.0,10568823.0,0,0,Retra,,,It&,
+56,10568932,comment,10567232.0,10568118.0,0,0,pjmlp,,,Windows has been doing that since it exists.<p>Also UNIX systems like Aix have support for it.,1447576087.0
+57,10568931,comment,10567408.0,10567607.0,0,0,Too,,,I&,
+58,10568930,comment,10567232.0,10568512.0,0,0,pjmlp,,,I don&,
+59,10568929,comment,10567408.0,10568870.0,0,0,sparkie,,,"But how do you implement the small, concise languages without the gotos and side-effects to begin with? You&",
+60,10568928,comment,10567232.0,10568407.0,0,0,pjmlp,,,"Not supported by the Android team, so don&",
+61,10568927,comment,10559393.0,10568456.0,0,0,akshatpradhan,,,+1 for Body cams?,1447575809.0
+62,10568925,comment,10568700.0,10568700.0,0,0,positron4,,,Wow! Thanks for the link. I never knew such a field even existed!,1447575737.0
+63,10568924,comment,10567232.0,10568251.0,0,0,pjmlp,,,"> &quot;how do I write a Windows program in this?&quot;<p>Turbo Pascal for Windows, it had two releases 1.0 and 1.5, introduced the Object Windows Library later adopted by Turbo and Borland C++ for Windows.<p>It was replaced by Delphi with its Visual Control Library afterwards.<p>The problem was Borland management going nuts and no having a proper version for UNIX systems, which were gaining market share back then.",1447575731.0
+64,10568923,comment,10568707.0,10568707.0,0,0,dang,,,"<a href=""https://news.ycombinator.com/item?id=10493881"" rel=""nofollow"">https://news.ycombinator.com/item?id=10493881</a>",1447575724.0
+65,10568922,comment,10568672.0,10568881.0,0,0,thaumasiotes,,,You didn&,
+66,10568921,story,,,59,22,luu,Mmap(2),http://jmoiron.net/blog/mmap2/,,1447575710.0
+67,10568920,comment,10565605.0,10565605.0,0,0,auvrw,,,"suckless is awesome! xmonad would totally suck without dmenu, i found zathura because of their &quot;rocks&quot; page, and st[+] has unicode support now, apparently?!  might be time to switch from urxvt...<p>i&",
+68,10568918,comment,10566859.0,10567225.0,0,0,laughinghan,,,> there has been no evidence of racism on MU campus for six months<p>Your own citation:<p>> The Student’s Association President Payton Head said he was called the n-word.<p>> A group of black students said they were called the n-word by some guy in a car.<p>In what context is someone saying &quot;a thing happened to me&quot; not considered evidence that the thing happened?,1447575633.0
+69,10568916,comment,10554327.0,10568603.0,0,0,mreiland,,,He is.  It&,
+70,10568915,comment,10567232.0,10568435.0,0,0,pjmlp,,,"Yeah, here is some additional info:<p>This is the typical C fanboism that sells C as the AD of systems programming.<p>Here are some other languages, for those that don&",
+71,10568914,comment,10566116.0,10568774.0,0,0,frik,,,"CRTs are bad for your eyes. I replaced all CRTs in my life with LCD in 2001. They got very inexpensive in 2002.<p>CRTs were very flexible when choosing a screen resolution- 32x200, 800x600, or even 1600x1200 on a 17&quot; - no problem. Today many cheap LCDs look only fine in their native resolution.<p>I wish we one could still buy 16:10 or even 4:3 LCD monitors nowadays. A ~4K monitor in 4:3 would be awesome.",1447575490.0
+72,10568913,comment,10562410.0,10568883.0,0,0,robotresearcher,,,"Claire Wyckoff has made this her artform:<p><a href=""http://www.theguardian.com/technology/2014/aug/06/runner-nike-san-francisco-penis"" rel=""nofollow"">http://www.theguardian.com/technology/2014/aug/06/runner-nik...</a>",1447575456.0
+73,10568912,comment,10560634.0,10568183.0,0,0,eridius,,,My comment was not directed at you. I do not appreciate your continued ad hominem attacks. Unless you want to address my actual argument instead of whining that I&,
+74,10568910,comment,10568525.0,10568649.0,0,0,headmelted,,,The AOL comparison seems appropriate and is not one I&,
+75,10568909,comment,10568672.0,10568831.0,0,0,noamyoungerm,,,"Also: Scots is a mutually intelligible language<p>On the other hand, just like trying to explain programming to someone who only knows how to use MS Word, trying to explain linguistics to someone without formal training is bound to end in misunderstandings and inaccuracy.",1447575310.0
+76,10568908,comment,10566735.0,10568795.0,0,0,interpol_p,,,The honest way would be to simply not charge for unblocking. If it&,
+77,10568907,comment,10567619.0,10567619.0,0,0,wellyWellyWell,,,"Why is Dubai such a talked-up place? Buildings and Islands, sure. Anything else beyond... architecture?",1447575176.0
+78,10568906,comment,10568672.0,10568831.0,0,0,blowski,,,"It seems that the article found some bits of the language which are genuinely unique (&quot;in conjugation only third-person singular changes&quot;) but these are so specific as to be irrelevant. If English had no way of expressing the conditional, for example, that would be genuinely interesting.<p>As it is, it reads like a teenager talking about their uniqueness because only they like eating peanut butter and ice cream while listening to Leonard Cohen.",1447575168.0
+79,10568905,comment,10558938.0,10568390.0,0,0,craigyk,,,"I disagree.  I think many non-genetic factors affect &quot;intelligence&quot;, even on a day to day basis.  I myself have been able to detect noticeable and substantial variations in my faculties over these time frames.  Brain-training exercises might not increase intelligence (I don&",
+80,10568904,comment,10565369.0,10565369.0,0,0,cromulent,,,"The 2% food consumption seems like an overly-simplified calculation from the mass reduction. My understanding is that the smaller animals are, the larger their surface area to mass ratio, and so their loss of heat increases. Metabolic rate is much higher. Shrews need to eat 90% of their bodyweight everyday or else they die.",1447575113.0
+81,10568902,comment,10566335.0,10568022.0,0,0,mercurial,,,I think a large part of the issue is that the Church&,
+82,10568900,story,,,1,0,rakeshtondon,Le Tote (YC S13) Is Hiring Full Stack Engineers,https://jobs.lever.co/letote/9814cd4e-24eb-43b8-af38-862d757b59d8,,1447574944.0
+83,10568899,comment,10568672.0,10568672.0,0,0,oska,,,"I found this article mediocre and its conceit, that English is “weirdly different”, not well justified.<p>But what I have discovered recently, on the same subject, is a podcast called <i>The History of English</i> [1]. It&",
+84,10568898,comment,10568525.0,10568845.0,0,0,spicyj,,,The product was renamed to Free Basics to make its goal clearer.,1447574899.0
+85,10568897,comment,10568700.0,10568700.0,0,0,wellyWellyWell,,,<p><pre><code>  But quantum coherence would allow the energy to test every \n  possible pathway simultaneously before traveling via the \n  quickest route.\n</code></pre>\nEnergy does not possess agency. A photon does not behave as Goldilocks anymore than rain drops do.<p>If there&,
+86,10568896,comment,10568525.0,10568873.0,0,0,nitrogen,,,It&,
+87,10568895,comment,10565605.0,10568858.0,0,0,dbenhur,,,I&,
+88,10568894,comment,10565060.0,10568478.0,0,0,TeMPOraL,,,&,
+89,10568893,comment,10566335.0,10567799.0,0,0,mercurial,,,"The French oppression in Algeria was real, and there was a bloody episode right after WWII, and then the Algerian War of Independence was extremely brutal. But this doesn&",
+90,10568892,comment,10568525.0,10568800.0,0,0,aravindet,,,"In the very short run, they will be worse off. In about a year or two, they will have access to the Internet anyway (see below). If internet.org is not allowed to violate net neutrality, they will come online to a better, more open Internet.<p>I oppose internet.org due to the permanent damage that it will cause to the Internet itself. Please see my earlier comment for how this will happen.<p>Internet.org probably won&",
+91,10568891,comment,10568525.0,10568877.0,0,0,mrow84,,,"Only Facebook has that level of control over the situation, and their only incentive is to try and make as much money as possible.<p>On a personal level, whilst I don&",
+92,10568889,comment,10562343.0,10568716.0,0,0,bambax,,,"Wow, very interesting comment, thanks! Wouldn&",
+93,10568888,comment,10565060.0,10568471.0,0,0,TeMPOraL,,,"Airports turned to shit because of a particular group of people - namely, politicians of the United States of America. This is an example of totally uncalled for overreaction that by itself probably did more economic damage than all the terrorist attacks in the US combined.",1447574633.0
+94,10568887,comment,10567624.0,10568856.0,0,0,zimbatm,,,"Yes, the file path+content checksum is verified against a whitelist before execution. Typing `direnv allow [PATH]` adds it to the whitelist.",1447574599.0
+95,10568886,story,,,1,0,jmduke,Why you should not buy our new WordPress theme,http://store.ia.net/,,1447574597.0
+96,10568885,comment,10565060.0,10567604.0,0,0,TeMPOraL,,,"> <i>Otherwise, we&",
+97,10568884,comment,10557793.0,10558004.0,0,0,itsjareds,,,"Yes, I&",
+98,10568883,comment,10562410.0,10562410.0,0,0,shash7,,,I really like how you got to the idea of making the route overlay on the picture. It kinda reminds me of forza&,

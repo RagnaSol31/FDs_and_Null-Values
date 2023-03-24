@@ -1,0 +1,82 @@
+,variable,decription
+0,t.pm2.5.c.2016,Total Concentrations of fine particulate matter (PM2.5) 2016
+1,u.pm2.5.c.2016,Urban Concentrations of fine particulate matter (PM2.5) 2016
+2,r.pm2.5.c.2016,Rural Concentrations of fine particulate matter (PM2.5) 2016
+3,t.ap.d.2016.total,Ambient air pollution attributable deaths total 2016
+4,t.ap.d.2016.lri,Ambient air pollution attributable deaths from lower respiratory infections 2016
+5,t.ap.d.2016.tblc,"Ambient air pollution attributable deaths from trachea, bronchus, lung cancers 2016"
+6,t.ap.d.2016.ihd,Ambient air pollution attributable deaths from ischaemic heart disease 2016
+7,t.ap.d.2016.stroke,Ambient air pollution attributable deaths from stroke 2016
+8,t.ap.d.2016.copd,Ambient air pollution attributable deaths from chronic obstructive pulmonary disease 2016
+9,ap.d.100k.2016.total,Ambient air pollution attributable death rate (per 100 000 population) total 2016
+10,ap.d.100k.2016.lri,Ambient air pollution attributable death rate (per 100 000 population) lower respiratory infections 2016
+11,ap.d.100k.2016.tblc,"Ambient air pollution attributable death rate (per 100 000 population) trachea, bronchus, lung cancers 2016"
+12,ap.d.100k.2016.ihd,Ambient air pollution attributable death rate (per 100 000 population) ischaemic heart disease 2016
+13,ap.d.100k.2016.stroke,Ambient air pollution attributable death rate (per 100 000 population) stroke 2016
+14,ap.d.100k.2016.copd,Ambient air pollution attributable death rate (per 100 000 population) chronic obstructive pulmonary disease 2016
+15,ap.d.100k.as.2016.total,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized) total 2016"
+16,ap.d.100k.as.2016.lri,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized) lower respiratory infections 2016"
+17,ap.d.100k.as.2016.tblc,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized) trachea, bronchus, lung cancers 2016"
+18,ap.d.100k.as.2016.ihd,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized) ischaemic heart disease 2016"
+19,ap.d.100k.as.2016.stroke,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized) stroke 2016"
+20,ap.d.100k.as.2016.copd,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized) chronic obstructive pulmonary disease 2016"
+21,t.ap.dal.2016.total,Ambient air pollution attributable DALYs (disability-adjusted life years) total 2016
+22,t.ap.dal.2016.lri,Ambient air pollution attributable DALYs from lower respiratory infections 2016
+23,t.ap.dal.2016.tblc,"Ambient air pollution attributable DALYs from trachea, bronchus, lung cancers 2016"
+24,t.ap.dal.2016.ihd,Ambient air pollution attributable DALYs from ischaemic heart disease 2016
+25,t.ap.dal.2016.stroke,Ambient air pollution attributable DALYs from stroke 2016
+26,t.ap.dal.2016.copd,Ambient air pollution attributable DALYs from chronic obstructive pulmonary disease 2016
+27,ap.dal.100k.2016.total,Ambient air pollution attributable DALYs rate (per 100 000 population) total 2016
+28,ap.dal.100k.2016.lri,Ambient air pollution attributable DALYs rate (per 100 000 population) lower respiratory infections 2016
+29,ap.dal.100k.2016.tblc,"Ambient air pollution attributable DALYs rate (per 100 000 population) trachea, bronchus, lung cancers 2016"
+30,ap.dal.100k.2016.ihd,Ambient air pollution attributable DALYs rate (per 100 000 population) ischaemic heart disease 2016
+31,ap.dal.100k.2016.stroke,Ambient air pollution attributable DALYs rate (per 100 000 population) stroke 2016
+32,ap.dal.100k.2016.copd,Ambient air pollution attributable DALYs rate (per 100 000 population) chronic obstructive pulmonary disease 2016
+33,ap.dal.100k.as.2016.total,"Ambient air pollution attributable DALYs rate (per 100 000 population, age-standardized) total 2016"
+34,ap.dal.100k.as.2016.lri,"Ambient air pollution attributable DALYs rate (per 100 000 population, age-standardized) lower respiratory infections 2016"
+35,ap.dal.100k.as.2016.tblc,"Ambient air pollution attributable DALYs rate (per 100 000 population, age-standardized) trachea, bronchus, lung cancers 2016"
+36,ap.dal.100k.as.2016.ihd,"Ambient air pollution attributable DALYs rate (per 100 000 population, age-standardized) ischaemic heart disease 2016"
+37,ap.dal.100k.as.2016.stroke,"Ambient air pollution attributable DALYs rate (per 100 000 population, age-standardized) stroke 2016"
+38,ap.dal.100k.as.2016.copd,"Ambient air pollution attributable DALYs rate (per 100 000 population, age-standardized) chronic obstructive pulmonary disease 2016"
+39,t.ap.yll.2016.total,Ambient air pollution attributable YLLs (years of life lost) total 2016
+40,t.ap.yll.2016.lri,Ambient air pollution attributable YLLs from lower respiratory infections 2016
+41,t.ap.yll.2016.tblc,"Ambient air pollution attributable YLLs from trachea, bronchus, lung cancers 2016"
+42,t.ap.yll.2016.ihd,Ambient air pollution attributable YLLs from ischaemic heart disease 2016
+43,t.ap.yll.2016.stroke,Ambient air pollution attributable YLLs from stroke 2016
+44,t.ap.yll.2016.copd,Ambient air pollution attributable YLLs from chronic obstructive pulmonary disease 2016
+45,t.hap.d.2016.total,Household air pollution (from solid fuel used for cooking) attributable deaths total 2016
+46,t.hap.d.2016.lri,Household air pollution attributable deaths from lower respiratory infections 2016
+47,t.hap.d.2016.tblc,"Household air pollution attributable deaths from trachea, bronchus, lung cancers 2016"
+48,t.hap.d.2016.ihd,Household air pollution attributable deaths from ischaemic heart disease 2016
+49,t.hap.d.2016.stroke,Household air pollution attributable deaths from stroke 2016
+50,t.hap.d.2016.copd,Household air pollution attributable deaths from chronic obstructive pulmonary disease 2016
+51,hap.d.100k.2016.total,Household air pollution attributable death rate (per 100 000 population) total 2016
+52,hap.d.100k.2016.lri,Household air pollution attributable death rate (per 100 000 population) lower respiratory infections 2016
+53,hap.d.100k.2016.tblc,"Household air pollution attributable death rate (per 100 000 population) trachea, bronchus, lung cancers 2016"
+54,hap.d.100k.2016.ihd,Household air pollution attributable death rate (per 100 000 population) ischaemic heart disease 2016
+55,hap.d.100k.2016.stroke,Household air pollution attributable death rate (per 100 000 population) stroke 2016
+56,hap.d.100k.2016.copd,Household air pollution attributable death rate (per 100 000 population) chronic obstructive pulmonary disease 2016
+57,hap.d.100k.as.2016.total,"Household air pollution attributable death rate (per 100 000 population, age-standardized) total 2016"
+58,hap.d.100k.as.2016.lri,"Household air pollution attributable death rate (per 100 000 population, age-standardized) lower respiratory infections 2016"
+59,hap.d.100k.as.2016.tblc,"Household air pollution attributable death rate (per 100 000 population, age-standardized) trachea, bronchus, lung cancers 2016"
+60,hap.d.100k.as.2016.ihd,"Household air pollution attributable death rate (per 100 000 population, age-standardized) ischaemic heart disease 2016"
+61,hap.d.100k.as.2016.stroke,"Household air pollution attributable death rate (per 100 000 population, age-standardized) stroke 2016"
+62,hap.d.100k.as.2016.copd,"Household air pollution attributable death rate (per 100 000 population, age-standardized) chronic obstructive pulmonary disease 2016"
+63,t.hap.dal.2016.total,Household air pollution attributable DALYs total 2016
+64,t.hap.dal.2016.lri,Household air pollution attributable DALYs from lower respiratory infections 2016
+65,t.hap.dal.2016.tblc,"Household air pollution attributable DALYs from trachea, bronchus, lung cancers 2016"
+66,t.hap.dal.2016.ihd,Household air pollution attributable DALYs from ischaemic heart disease 2016
+67,t.hap.dal.2016.stroke,Household air pollution attributable DALYs from stroke 2016
+68,t.hap.dal.2016.copd,Household air pollution attributable DALYs from chronic obstructive pulmonary disease 2016
+69,hap.dal.100k.2016.total,Household air pollution attributable DALYs rate (per 100 000 population) total 2016
+70,hap.dal.100k.2016.lri,Household air pollution attributable DALYs rate (per 100 000 population) lower respiratory infections 2016
+71,hap.dal.100k.2016.tblc,"Household air pollution attributable DALYs rate (per 100 000 population) trachea, bronchus, lung cancers 2016"
+72,hap.dal.100k.2016.ihd,Household air pollution attributable DALYs rate (per 100 000 population) ischaemic heart disease 2016
+73,hap.dal.100k.2016.stroke,Household air pollution attributable DALYs rate (per 100 000 population) stroke 2016
+74,hap.dal.100k.2016.copd,Household air pollution attributable DALYs rate (per 100 000 population) chronic obstructive pulmonary disease 2016
+75,hap.dal.100k.as.2016.total,"Household air pollution attributable DALYs rate (per 100 000 population, age-standardized) total 2016"
+76,hap.dal.100k.as.2016.lri,"Household air pollution attributable DALYs rate (per 100 000 population, age-standardized) lower respiratory infections 2016"
+77,hap.dal.100k.as.2016.tblc,"Household air pollution attributable DALYs rate (per 100 000 population, age-standardized) trachea, bronchus, lung cancers 2016"
+78,hap.dal.100k.as.2016.ihd,"Household air pollution attributable DALYs rate (per 100 000 population, age-standardized) ischaemic heart disease 2016"
+79,hap.dal.100k.as.2016.stroke,"Household air pollution attributable DALYs rate (per 100 000 population, age-standardized) stroke 2016"
+80,hap.dal.100k.as.2016.copd,"Household air pollution attributable DALYs rate (per 100 000 population, age-standardized) chronic obstructive pulmonary disease 2016"

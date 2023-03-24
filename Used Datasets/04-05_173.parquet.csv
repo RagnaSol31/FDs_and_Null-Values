@@ -1,0 +1,102 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8480759,comment,8480247.0,8480247.0,0,0,dopamean,,,I haven&,
+1,8480758,comment,8480551.0,8480665.0,0,0,lumpypua,,,As an intermediate Haskeller I&,
+2,8480757,comment,8479889.0,8479889.0,0,0,tzs,,,"> For reasons I never quite understood, every time I tried to book a domestic flight in another country, the prices were always exorbitant.<p>...<p>> But, say, once I was in Bangkok, that same flight that was once $300 would fall to $30 almost inexplicably. This phenomenon is because a ticket’s point-of-sale—the place where a retail transaction is completed—can affect the price of any flight with an international component.<p>The reasons are pretty easy to understand. When you try to book an in-country flight in Thailand from the United States or Europe, they infer that you are someone who will soon be traveling on an expensive international flight to Thailand. They infer that you will accept $300 for an in-country flight rather than say &quot;screw this, I&",
+3,8480756,comment,8478402.0,8480626.0,0,0,ravenac95,,,Didn&,
+4,8480755,story,,,21,7,mikeknoop,FOBO (YC S11) fades off into the distance,http://fobostories.tumblr.com/post/98323799703/fobo-fades-off-into-the-distance,,1413780938.0
+5,8480754,comment,8479889.0,8479889.0,0,0,lotsofmangos,,,"I am amused by the level of intelligence the author expects of their readership.<p>Personally, I would have thought that people who browse Business Insider to have at least a basic grasp of currency conversion, rather than being introduced to a price in Colombian pesos as a mysterious concept that apparently is <i>&quot;a lot of mumbo jumbo to most people&quot;</i>.",1413780846.0
+6,8480753,comment,8478895.0,8480592.0,0,0,GuiA,,,I&,
+7,8480751,comment,8479889.0,8480738.0,0,0,gst,,,In theory you could use Tor (in the config file you can hardcode a list of exit nodes that you want to use). In practice you probably don&,
+8,8480750,comment,8480548.0,8480548.0,0,0,greenpizza13,,,"So, this isn&",
+9,8480749,comment,8480551.0,8480723.0,0,0,coolsunglasses,,,"The principal thing I push learners towards after Haskell would be things like Coq and Agda. Coq has better learning materials, Agda has Haskell integration.<p>The usual sequence is [1] followed by [2].<p>Augment with [3] and [4] as needed.<p>One negative thing about Coq/Agda/Idris is they don&",
+10,8480748,comment,8475979.0,8480385.0,0,0,jrockway,,,I have no idea why you&,
+11,8480747,comment,8480548.0,8480728.0,0,0,agilebyte,,,"No need to lie, I put them under &quot;github projects&quot;* because they are exactly that. When people ask for &quot;work experience&quot; they want to see how you solved someone&",
+12,8480746,comment,8480445.0,8480445.0,0,0,AndrewKemendo,,,<i>We think access is broadening out the network so that everybody who could contribute can get access to the network. And that’s the one that we’re working on.</i><p>I would like to hear a lot more about this. Being on the east coast the Silicon Valley crowd or even just the ethos around it seem totally foreign.<p>I will say I am somewhat connected in the D.C. area and I have heard from many Angels and VC&,
+13,8480745,comment,8480714.0,8480714.0,0,0,duncan_bayne,,,"Interesting, but the headline is inaccurate.  There&",
+14,8480743,comment,8479843.0,8480704.0,0,0,1457389,,,"This is around when they start giving it away, in the hope that the enhanced livelihoods they generate frees the next generation of entrepreneurs to create even better uses for their capital.<p>At some point we get The Culture. Or so the hopeful prognosis goes...",1413780588.0
+15,8480742,comment,8480399.0,8480605.0,0,0,yuriks,,,"Some variants of XorShift (including the one used by Rust, I believe) are not only faster and much smaller than MT19973 but also produce higher quality numbers. See <a href=""http://xorshift.di.unimi.it/"" rel=""nofollow"">http://xorshift.di.unimi.it/</a>",1413780575.0
+16,8480741,comment,8480551.0,8480723.0,0,0,Chinjut,,,"Perhaps Coq, Agda, Idris, and other such dependently-typed languages are to be considered, at least in some dimensions, &quot;more advanced&quot; than Haskell.",1413780565.0
+17,8480740,story,,,17,7,mchamkin,Show HN: Plottio – World's stories. Written and read by you,http://plottio.com/,,1413780550.0
+18,8480739,comment,8480399.0,8480399.0,0,0,MattPearce,,,"The C code is quite unoptimised as well...<p>Running the original on my machine (compiled with VS2013) takes 3.75 seconds. Changing the comparison to (x * x + y * y) <= 1.0 (no need for the sqrt since we are comparing with 1!) takes the runtime down to 2.87 seconds. Switching the accumulation from a branch to hits+=in_circle(r1, r2) further reduces it to 2.43 seconds.",1413780538.0
+19,8480738,comment,8479889.0,8479889.0,0,0,brianbreslin,,,I&,
+20,8480737,story,,,2,0,ghosh,NY’s Proposed BitRegs a Threat to Privacy and Innovation,https://cdt.org/blog/nys-bitregs-a-threat-to-privacy-and-innovation/,,1413780350.0
+21,8480736,story,,,2,0,artaak,M-Blocks: A New Class of Robot Cubes That Self Assemble,http://singularityhub.com/2013/10/09/mits-m-blocks-a-new-class-of-robot-cubes-that-self-assemble/,,1413780316.0
+22,8480735,comment,8479430.0,8479430.0,0,0,Adaptive,,,"I taught a raspberry pi intro to computing class last year and was hunting around for some jacquard loom demos for the students when I found something that blew my mind:<p><a href=""https://www.youtube.com/watch?v=78opvFR-VsU"" rel=""nofollow"">https://www.youtube.com/watch?v=78opvFR-VsU</a><p>These are antique looking jacquard looms in current use in Hanoi. I bet they are still there right now, operating. I know that some crafters use them and there are still specialty mills that make use of modern jacquards, but this is a factory and these look like they are straight out of the 1800s. Amazing.<p>I wonder still how old some of those looms are...",1413780315.0
+23,8480734,comment,8479889.0,8479889.0,0,0,josai,,,You&,
+24,8480733,comment,8479958.0,8480306.0,0,0,cscurmudgeon,,,Is sending your search query to Google for Google instant an invasion of your privacy?,1413780293.0
+25,8480731,comment,8480247.0,8480702.0,0,0,CompleteSkeptic,,,"Yup! We were about to implement something like that, but we realized Reagent&",
+26,8480730,comment,8473580.0,8480034.0,0,0,morganvachon,,,"Is the link in the curl line binary, compiled, non-human-readable code? No? Then your argument has no merit. It&",
+27,8480729,comment,8418115.0,8418837.0,0,0,bdamm,,,"I was refuting that electric cars had nothing that could go wrong, not that the were less reliable than a hybrid car.",1413780237.0
+28,8480728,comment,8480548.0,8480703.0,0,0,yuashizuki,,,"can working on personal projects, on github, be called as work experiance",1413780217.0
+29,8480727,comment,8480608.0,8480657.0,0,0,JoshTriplett,,,I&,
+30,8480726,comment,8477124.0,8479900.0,0,0,bhaumik,,,"Trolling was a fun break between bouts of altruism. On levels like this [1], I&",
+31,8480725,comment,8479889.0,8480650.0,0,0,gst,,,Same here. Tried it a few times but was never able to get a significant price difference.,1413780115.0
+32,8480724,comment,8479514.0,8479514.0,0,0,drcode,,,"The most direct way to explain why these types of posts are misguided are to understand the mechanics of &quot;rent seeking behavior&quot; which is an incentive that always exists for a third party involved in a financial transaction. <a href=""http://en.wikipedia.org/wiki/Rent-seeking"" rel=""nofollow"">http://en.wikipedia.org/wiki/Rent-seeking</a>",1413780067.0
+33,8480723,comment,8480551.0,8480665.0,0,0,eagle2001,,,"&quot;There are more advanced languages than Haskell, they aren&",
+34,8480722,comment,8479905.0,8479905.0,0,0,MaysonL,,,"And of course, TextMate 2 just went from alpha to beta...",1413780012.0
+35,8480721,comment,8449984.0,8455100.0,0,0,gabemart,,,"For the record, the issue was this:<p><a href=""https://code.google.com/p/android/issues/detail?id=63099"" rel=""nofollow"">https://code.google.com/p/android/issues/detail?id=63099</a><p>and I was able to find a workaround and re-enable support for the affected devices",1413780009.0
+36,8480720,story,,,3,0,kuccello,4K UHD Monitor with PiP – Key to Android TV Developemtn,https://plus.google.com/u/0/photos/+KristanUccello/albums/6072061800761494081,,1413779983.0
+37,8480719,comment,8478116.0,8478116.0,0,0,frik,,,<i>SimCity 2000 for Win95</i> is my personal favorite SimCity game (sadly a 16 bit EXE). It&,
+38,8480718,comment,8480362.0,8480362.0,0,0,pinkyand,,,IBM had a unique process call silicon-on-insulator that gives you something like an extra step in moore&,
+39,8480717,comment,8480548.0,8480548.0,0,0,knicholes,,,Internships are a great way to get work experience.,1413779954.0
+40,8480716,comment,8478881.0,8479203.0,0,0,gregcohn,,,"How have you found it?  I tried it out and found it was something like 45 days to run a full backup on my 1TB machine, and discontinued it fairly immediately.<p>Let&",
+41,8480715,comment,8479514.0,8480670.0,0,0,Ironchefpython,,,"From the perspective of the government, Bitcoin is only for Cowards, Crazies, and Criminals.<p>Cowards, who want to find technological solutions to social problems.<p>Crazies who are terrified that Satan will take over the Fed and decide to suddenly make dollars worthless, and in the process destroy the county.<p>And of course criminals who use it to buy drugs.<p>=====<p>Luckily we know better, that assuming you are one of the technical 1% who can keep your wallet from being hacked, you can (for a little extra money in conversion costs) use bitcoin to shop at overstock.com.",1413779895.0
+42,8480714,story,,,11,5,praneshp,"You Can Now Go to College for Free in Germany, No Matter Where You're From",http://www.businessinsider.com/germany-free-college-2014-10,,1413779885.0
+43,8480713,comment,8480608.0,8480608.0,0,0,ottbot,,,Have fun.,1413779883.0
+44,8480712,comment,8477915.0,8480581.0,0,0,slantyyz,,,That&,
+45,8480710,comment,8478159.0,8478466.0,0,0,Khaine,,,Why? He failed to secure his server.  Why is that the fault of the VPS Provider?,1413779804.0
+46,8480709,comment,8480362.0,8480362.0,0,0,baronfel66,,,Wooo. Maybe this will help GF provide AMD with process tech that isnt super old.,1413779788.0
+47,8480708,comment,8479247.0,8479886.0,0,0,aslewofmice,,,sitescout was mentioned,1413779738.0
+48,8480707,comment,8478881.0,8478881.0,0,0,indielol,,,BitTorrent Sync from Android to an Ubuntu server in LAN.,1413779688.0
+49,8480706,comment,8480478.0,8480478.0,0,0,JSno,,,the title of his blog&quot;Facebook&,
+50,8480705,comment,8478116.0,8480453.0,0,0,unoti,,,"I played countless hours of that with my little brother, who was about 9 at the time.  Decades later he still claims that he figured out the system for fairly accurately predicting where rebels would be placed.  He did seem to hit my hospitals with alarming accuracy, so I&",
+51,8480704,comment,8479843.0,8479843.0,0,0,lotsofmangos,,,"At some point you get a small amount of very rich people with a large pile of very cheap stuff that they cannot sell as nobody else has any money and even if they did, the marginal cost of producing the stuff is less than the cost of running a market to sell it in.",1413779660.0
+52,8480703,comment,8480548.0,8480548.0,0,0,agilebyte,,,"Almost all does not mean all. You are going to work in only one job right? That job gives you more experience, more experience to apply for jobs that require 5-10 years of experience down the line.<p>If you believe you have more expertise than meets the eye, you could give freelancing a try.",1413779576.0
+53,8480702,comment,8480247.0,8480663.0,0,0,drcode,,,Hmmm... having a library like Om where the cursors function on a DAG actually sounds pretty useful... I&,
+54,8480701,comment,8480279.0,8480668.0,0,0,GuiA,,,"You may be right or you may be wrong, but that&",
+55,8480700,comment,8480362.0,8480660.0,0,0,greglindahl,,,It&,
+56,8480699,comment,8479770.0,8479770.0,0,0,Chevalier,,,"As someone with a professional degree from the Ivy League, and therefore as someone with a vested interest in maintaining the mystique and prestige of higher education: Educational institutions are parasites on American youth and we should not subsidize them.<p>If you want an education in the modern world, it&",
+57,8480698,story,,,211,98,GuiA,Vote all you want. The secret government won’t change,http://www.bostonglobe.com/ideas/2014/10/18/vote-all-you-want-the-secret-government-won-change/jVSkXrENQlu8vNcBfMn9sL/story.html?event=event25,,1413779372.0
+58,8480697,comment,8478545.0,8479884.0,0,0,garindra,,,I&,
+59,8480696,story,,,2,0,11thEarlOfMar,Ask HN: Roles of Intention and Chance in Startup Success,,I&,
+60,8480695,comment,8480247.0,8480580.0,0,0,drcode,,,Personally I&,
+61,8480694,story,,,110,36,niconii,SmileBASIC for Nintendo 3DS,http://smilebasic.com/en/,,1413779191.0
+62,8480693,comment,8478902.0,8480390.0,0,0,userbinator,,,"Overlapping code/data is a trick used in practice in highly size-constrained systems, like older game consoles (e.g. <a href=""http://andrewkelley.me/post/jamulator.html",
+63,8480692,comment,8480160.0,8480160.0,0,0,D4AHNGM,,,Kinda weird you&,
+64,8480691,comment,8480279.0,8480669.0,0,0,jude-,,,sysjail is not safe for jail-like use.  Sysjail&,
+65,8480690,comment,8478537.0,8478537.0,0,0,ColinCera,,,If you don&,
+66,8480689,comment,8480551.0,8480665.0,0,0,thirsteh,,,"Having read numerous rants by Harper against Haskell, it really just seems like he&",
+67,8480688,comment,8479008.0,8479436.0,0,0,MoOmer,,,"I use OVH, and have only great things to say.",1413778901.0
+68,8480687,story,,,2,0,koreyhinton,iOS Pre=Check=In Checklist,http://www.koreyhinton.com/blog/ios/ios-pre-check-in-checklist.html,,1413778840.0
+69,8480686,comment,8479843.0,8480587.0,0,0,chroma,,,What&,
+70,8480684,comment,8479843.0,8480667.0,0,0,modeless,,,People have been afraid of machines taking their jobs since well before 1900.,1413778814.0
+71,8480683,story,,,5,0,damandumpsta,Pixels for all – draw with everyone,http://www.pixelator.co,,1413778781.0
+72,8480682,comment,8479514.0,8479988.0,0,0,kordless,,,"> it would only passively create new coin according to the demands of the public<p>A joke on the public, by the public.",1413778772.0
+73,8480681,story,,,7,0,luu,Performance Tuning,http://www.pvk.ca/Blog/2014/10/19/performance-optimisation-~-writing-an-essay/,,1413778736.0
+74,8480680,comment,8479843.0,8480667.0,0,0,Chinjut,,,"In fairness, even prior to 1900, quite a lot of people were upset at these sorts of changes, at least when it was their particular livelihood on the line; consider the historical Luddites, for example. Or the subculture behind the tale of John Henry.",1413778730.0
+75,8480679,comment,8479514.0,8480174.0,0,0,msandford,,,"Sure you can!  Remember Fedcoins have convertability to paper, and paper has convertability to Fedcoin.  That means that Fedcoin can be created and destroyed at will by the Fed.<p>Since nobody knows the total amount of cash in circulation (maybe not even the Fed) it&",
+76,8480678,comment,8479514.0,8480666.0,0,0,Karunamon,,,"Now, as this central authority, invent a way to distinguish between &quot;tumbling&quot; and normal transactional flow.<p>Really, you can dictate whatever you want as this central authority, but enforcing it is a whole different matter.",1413778619.0
+77,8480677,comment,8479514.0,8479514.0,0,0,crystaln,,,"This misses a major benefit of our current system - reversibility.<p>Currently, if someone initiates a fraudulent billion dollar wire transfer from the fed, it would quickly be reversed.<p>Does anyone thing the Fed or our monetary policy should be entirely subject to the rule of algorithms and undoubtedly flawed security policies and people? Isn&",
+78,8480676,story,,,2,0,Hawkee,Show HN: Markdown Page Editor,http://hawkee.com/snippet/16088/,,1413778601.0
+79,8480675,comment,8480247.0,8480580.0,0,0,CompleteSkeptic,,,I wouldn&,
+80,8480674,comment,8479889.0,8480673.0,0,0,jpatokal,,,"Like it says, the key is the &quot;Sales city&quot;.  You have to find an agent physically located in the city/country in question to be able to book with that fare.<p>Once you&",
+81,8480673,comment,8479889.0,8479889.0,0,0,tamersalama,,,Anyone knows what are the options for booking those Google ITA Flights. Most of the time the travel agents can&,
+82,8480672,comment,8478839.0,8480403.0,0,0,subb,,,When I frist saw the title of Zach Laine&,
+83,8480671,comment,8480445.0,8480445.0,0,0,vonklaus,,,">There’s this myth that government regulation is well intentioned and benign, and implemented properly. That’s the myth. And then when people actually run into this in the real world, they’re, “Oh, fuck, I didn’t realize.”<p>To his point, you really do get the sense that, on balance, people are becoming more libertarian, and a lot of that has been catalyzed by technology disrupting entrenched business models that have benefitted from regulatory protectionism.",1413778356.0
+84,8480670,comment,8479514.0,8480088.0,0,0,kaonashi,,,I think the problem (from a BTC hoarder&,
+85,8480669,comment,8480279.0,8480465.0,0,0,doomrobo,,,sysjail is available for OpenBSD.<p>>It provides a similar function as FreeBSD&,
+86,8480668,comment,8480279.0,8480279.0,0,0,Animats,,,It&,
+87,8480667,comment,8479843.0,8479843.0,0,0,simonsarris,,,"Humanity used to be optimistic about this moment, didn&",
+88,8480666,comment,8479514.0,8480590.0,0,0,msandford,,,Make it illegal to create a new wallet without central authority approval and illegal to tumble coins.  Closed those &quot;loopholes&quot; that &quot;only criminals use&quot; and the majority of people who know nothing about how bitcoin works would agree that it&,
+89,8480665,comment,8480551.0,8480551.0,0,0,coolsunglasses,,,Harper&,
+90,8480664,comment,8479843.0,8479843.0,0,0,Animats,,,"This is a poor article about an important subject.  A more useful way to look at it is to make lists of jobs humans can do, and those which machines can do better. Over time, the second column grows. The first column, not so much.<p>What&",
+91,8480663,comment,8480247.0,8480641.0,0,0,CompleteSkeptic,,,"If any of my post sounded as if I was complaining about the lack of syntactic sugar, I apologize as that was not at all my intention. The best practices and syntactic ugliness didn&",
+92,8480662,comment,8480485.0,8480485.0,0,0,Gustomaximus,,,TL:dr China has hit peak growth in the medium term and the world needs a new growth engine in India or Africa if the west wants good times to continue. This could happen via western investment but is not overly likely as theses markets are considered high risk for private funds.,1413778032.0
+93,8480661,comment,8439547.0,8440503.0,0,0,sriku,,,The concept is simple enough and the performance benefits common enough that it would certainly help to converge and contribute the core to one repo with compatibility and other features in supplementary optional repos ... imho.,1413778020.0
+94,8480660,comment,8480362.0,8480362.0,0,0,psuter,,,"This may answer the natural question of &quot;why not just shut it down, rather than pay to have it taken over&quot;:<p><pre><code>    > In a 10-year partnership, Globalfoundries will supply IBM with\n      Power processors in exchange for access to IBM’s intellectual property\n</code></pre>\nI suppose it&",
+95,8480659,comment,8480551.0,8480551.0,0,0,carterschonwald,,,I&,
+96,8480657,comment,8480608.0,8480608.0,0,0,GuiA,,,What&,
+97,8480656,comment,8480551.0,8480551.0,0,0,bjterry,,,"There was some discussion on this topic a while back which I remember. For convenience, it is linked here: <a href=""https://news.ycombinator.com/item?id=4380900"" rel=""nofollow"">https://news.ycombinator.com/item?id=4380900</a>",1413777686.0
+98,8480655,comment,8471686.0,8471686.0,0,0,yuashizuki,,,"man, not a lot of dood care about a babby, maybe thats y.",1413777670.0
+99,8480654,comment,8480478.0,8480644.0,0,0,Yadi,,,"Ow my! This is Christmas for me right here! Thanks again, this is awesome!",1413777655.0
+100,8480653,comment,8478402.0,8478690.0,0,0,acmecorps,,,Awesome little utility. I wish there&,

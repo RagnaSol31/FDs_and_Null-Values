@@ -1,0 +1,135 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9386843,comment,9386558.0,9386723.0,0,0,jarman,,,"Well, one toy file format more",1429178382.0
+1,9386842,comment,9386004.0,9386818.0,0,0,empressplay,,,&quot;Why are you happy that I am sad?&quot;<p>&quot;Because that&,
+2,9386841,comment,9381315.0,9386670.0,0,0,thenomad,,,Practical point: I&,
+3,9386840,comment,9386558.0,9386558.0,0,0,fleitz,,,What are the advantages of this over tar?,1429178276.0
+4,9386839,comment,9385951.0,9386160.0,0,0,belorn,,,"Where I live we have many bike roads, and in similar way, I can&",
+5,9386838,comment,9381315.0,9385760.0,0,0,thenomad,,,"You can solve the body issue with a metal rather than paper filter, FYI. Definitely worth a try.<p>This is the usually recommended one: <a href=""http://departmentofcoffee.com/product/able-disk/"" rel=""nofollow"">http://departmentofcoffee.com/product/able-disk/</a>",1429178211.0
+6,9386837,comment,9386714.0,9386714.0,0,0,mro95,,,I think smartwatches are fancy watches. It&,
+7,9386836,comment,9386802.0,9386802.0,0,0,billiob,,,"Does someone know where the database used to rank the countries?\nFor example, I&",
+8,9386835,comment,9386004.0,9386830.0,0,0,seanlevan,,,Thank you for checking ACUMAN out.<p>I am aware of all of those bugs and I am fixing them as we converse.,1429178149.0
+9,9386834,comment,9386832.0,9386832.0,0,0,BaptisteGreve,,,Bill shares a look at the data before pressing the panic button,1429178141.0
+10,9386833,comment,9381315.0,9384909.0,0,0,thenomad,,,"From practical testing, I&",
+11,9386832,story,,,1,1,BaptisteGreve,"Tech Bubble? Maybe, Maybe Not",https://medium.com/gv-notes/tech-bubble-maybe-maybe-not-b83d6a2dbc9f?source=tw-lo_a2367a8a812c-1429177726064,,1429178109.0
+12,9386831,comment,9386714.0,9386714.0,0,0,taylorling,,,"I have a Moto 360 and I used it everyday. Mainly using it for notification peek to see if I needed to respond immediately on them when the phone is in my pocket - I only turned on the notification for the apps that I cared about. Also often I used it to make call, send message, add quick reminder/note using voice when I am driving.<p>Though I must say it is not a must-have, just an extension to the smartphone, which is doing just fine without any other accessories.<p>The only one main issue with current gen smart watch is the battery life (except the Pebble of course), which can be frustrating because you need to charge it everyday, especially some of them need special charging docks (like Moto 360), but so far I am already used to it, so it was an OK for me, still, if you run out of battery, you can&",
+13,9386830,comment,9386004.0,9386004.0,0,0,mundanevoice,,,"Hey, Did you check your website in any devtools? <a href=""https://cldup.com/RzHlihm1sr-3000x3000.png"" rel=""nofollow"">https://cldup.com/RzHlihm1sr-3000x3000.png</a>. It&",
+14,9386829,comment,9386787.0,9386787.0,0,0,pea,,,I&,
+15,9386828,comment,9381354.0,9386707.0,0,0,matt4077,,,We&,
+16,9386826,comment,9386775.0,9386775.0,0,0,svc,,,Great !\nCongratulation to the whole Pharo community.,1429177964.0
+17,9386824,comment,9383045.0,9383045.0,0,0,chrisbennet,,,"From The Funded site comes this gem of a comment:<p><i>&quot;Many years ago as a young entrepreneur I had a lunch meeting with an investor, at the end of which I tried to pay. He stopped me and said &quot;any investor who lets you pay for lunch isn&",
+18,9386823,comment,9385807.0,9386805.0,0,0,concerned_user,,,I&,
+19,9386822,comment,9381315.0,9384000.0,0,0,thenomad,,,I&,
+20,9386820,story,,,375,211,woogle,French National Assembly approved Internet traffic monitoring system (French),http://www.lemonde.fr/pixels/article/2015/04/16/les-deputes-approuvent-un-systeme-de-surveillance-du-trafic-sur-internet_4616652_4408996.html,,1429177943.0
+21,9386819,comment,9386004.0,9386004.0,0,0,empressplay,,,"Interesting approach. Any chance of getting the full abstract that was at <a href=""http://acuman.us/full.docx"" rel=""nofollow"">http://acuman.us/full.docx</a> ? I&",
+22,9386818,comment,9386004.0,9386004.0,0,0,amelius,,,&quot;I&,
+23,9386816,comment,9386004.0,9386004.0,0,0,martius,,,It does not really answer to the questions &quot;Are you open-source ?&quot; or &quot;Where can I find acuman source code ?&quot; :(,1429177787.0
+24,9386815,comment,9385538.0,9385538.0,0,0,marvel_boy,,,Without the Siracura&,
+25,9386814,comment,9386004.0,9386004.0,0,0,gcatalfamo,,,I told him I was feeling sick and it replied that it was glad I was sick. What a cynical scoundrel.,1429177729.0
+26,9386813,comment,9382932.0,9386693.0,0,0,e12e,,,How does guile 2.0 do on that hardware?,1429177726.0
+27,9386812,comment,9382932.0,9385550.0,0,0,rakoo,,,Don&,
+28,9386811,comment,9381268.0,9385147.0,0,0,codecamper,,,Agreed. 10% would be worth it. That&,
+29,9386810,comment,9383110.0,9385239.0,0,0,bootload,,,"<i>&quot;Exercise is much harder for me than for others, for example, and I don&",
+30,9386809,comment,9386180.0,9386180.0,0,0,gog,,,"I moved most of my projects to Ansible, but I have a project that is still on Puppet and I really would like to move on.<p>The reason is that I need a centrally managed server where clients pull for changes because the clients are not online all of the time.<p>Does anybody have experience with Ansibles pull model explained here <a href=""http://jpmens.net/2012/07/14/ansible-pull-instead-of-push/"" rel=""nofollow"">http://jpmens.net/2012/07/14/ansible-pull-instead-of-push/</a> ?",1429177580.0
+31,9386808,comment,9386004.0,9386004.0,0,0,mattmanser,,,<i>Bot: How are you feeling right now?<p>Me: I&,
+32,9386807,comment,9381268.0,9384679.0,0,0,codecamper,,,"10% would be OK.  It covers their card processing, advertisement fees, paying some software developers reasonable rates to improve the service.<p>But 10% is not real.   These sites charge 15-30% on top of card processing fees.  That&",
+33,9386806,comment,9385751.0,9385751.0,0,0,hackerboos,,,It&,
+34,9386805,comment,9385807.0,9385807.0,0,0,Sir_Substance,,,">An object of 14 nanometers in size is smaller than a typical virus cell, and about the equivalent to the thickness of the outer cell wall of a typical germ.<p>You can tell this guy&",
+35,9386804,comment,9385751.0,9385751.0,0,0,JamesReeves1988,,,"I went into consulting at 24 and had around 3 years of commercial experience.<p>Fast forward a year later and I have numerous clients and am working on some exciting projects. I currently charge £35p/h (Based in the UK). The hardest part I found was that some clients do not trust you due to your age (Might be a UK thing) but this is where your sales pitch will come in handy.<p>The most important skill I found was to be able to communicate effectively with clients, to be able to break problems down and explain them in layman terms for them. This builds up their trust with you and then the sale gets easier.<p>Get out there and start networking, meeting business owners, your parents contacts, your own contacts. One of the best contracts I had come from an university friend I went for a coffee with.<p>Build up a few months of funds and work on some freelance work on the side and then go full time into it.<p>You can always get another job, but the older you get the more responsibilities you get and the less likely you are to risk it.",1429177545.0
+36,9386803,comment,9386004.0,9386722.0,0,0,seanlevan,,,"Thank you  for the code you offered, and I will implement it right away. There are so many different things to debug, I kept post-posting this one. I like how you binded the events instead of calling them inline. It&",
+37,9386802,story,,,10,4,aps-sids,Passport Index – World's passports in one place,http://www.passportindex.org/index.php,,1429177504.0
+38,9386801,comment,9386180.0,9386445.0,0,0,smegel,,,"I was somewhat aware of dependencies, but they don&",
+39,9386800,comment,9380624.0,9380624.0,0,0,ZeroGravitas,,,"This is great, but the gang signs comment seemed really out of place and unnecessary.",1429177492.0
+40,9386799,story,,,3,0,epaga,"Solved by Flexbox – Cleaner, Hack-Free CSS",http://philipwalton.github.io/solved-by-flexbox/,,1429177441.0
+41,9386798,comment,9386180.0,9386643.0,0,0,e12e,,,If you&,
+42,9386797,comment,9385951.0,9386682.0,0,0,ptaipale,,,"Yes, most deaths definitely from HGVs. The &quot;bus error, brain dumped&quot; association maybe came from this:\n<a href=""http://www.telegraph.co.uk/men/the-filter/11036188/Angry-bus-driver-blocks-cyclists-on-London-pavement.html"" rel=""nofollow"">http://www.telegraph.co.uk/men/the-filter/11036188/Angry-bus...</a><p>Interestingly enough, over here (Helsinki) we have lots of  segregated bike/pedestrian paths, and many cycling activists want to remove them from inner city and have bicycles on the street among other vehicles, &quot;to be equal&quot;.<p>Personally, I think they&",
+43,9386796,comment,9385538.0,9386459.0,0,0,handyman5,,,"With BetterTouchTool[1] you can both move and resize by combining keypresses with mouse movement; for example, I have it set so that holding Option will move a window along with my mouse cursor, and Option+Shift will likewise resize a window. No dragging needed, actually. It has a metric ton of other features, but these are the only ones I use.<p>Also, Spectacle[2] gives you most of the benefits of a tiling window manager without actually having to run one. I have Command+Option+{Left,Right} set to move and resize a window to the left or right vertical halves of my screen, and I use those combinations constantly.<p>Further, I second the sibling&",
+44,9386795,comment,9386004.0,9386004.0,0,0,hmate9,,,I asked where Batman lived and it gave it to me. Excellent work!<p>I&,
+45,9386794,comment,9382521.0,9386274.0,0,0,_benedict,,,The TCP timeout is kind of irrelevant if your application defined timeout is lower. Cassandra&,
+46,9386793,comment,9386004.0,9386754.0,0,0,learnstats2,,,Nope on both counts. It&,
+47,9386792,comment,9386786.0,9386786.0,0,0,yowza,,,"Short answer, no. But you need a whole lot of projects to show off before you can get your foot at the door of some companies.",1429177204.0
+48,9386791,story,,,1,0,bkfh,Why (Mobile) Notifications Matter,http://hauser.io/why-mobile-notifications-matter/,,1429177195.0
+49,9386790,story,,,67,8,kazuho,Show HN: Dependency-based prioritization makes HTTP/2 much faster than SPDY,http://blog.kazuhooku.com/2015/04/dependency-based-prioritization-makes.html,,1429177173.0
+50,9386789,comment,9385596.0,9386757.0,0,0,jdkanani,,,"I just checked it. RapydScript generates very logical code than CoffeeScript.<p>CoffeeScript:<p><pre><code>    var ref;\n    (ref = [2, 1]) === [1, 2] || ref === [2, 1] || ref === [3, 5] || ref === [3, 5];\n</code></pre>\nRapydScript:<p><pre><code>    function _$rapyd$_in(val, arr) {\n        if (arr instanceof Array || typeof arr === &quot;string&quot;) return arr.indexOf(val) != -1;\n        else {\n            if (arr.hasOwnProperty(val)) return true;\n            return false;\n        }\n    }\n    _$rapyd$_in([2,1], [[1,2], [2,1], [3,5], [3,5]]);\n</code></pre>\nOne thing I worried about RapydScript is generated variables. Pre-compiler needs to be scope aware. I am not sure how difficult or feasible it would be.",1429177152.0
+51,9386788,comment,9381235.0,9381847.0,0,0,dijit,,,Jesus Christ.<p>it&,
+52,9386787,story,,,12,3,pea,Why don't we have an API for Experts?,http://blog.talktousers.com/an-api-for-experts/,,1429177112.0
+53,9386786,story,,,1,1,staycurious,Do you need a college degree to pursue a career as a web developer?,http://www.blonde.net/blog/2015/04/16/so-you-want-be-developer,,1429177075.0
+54,9386785,comment,9386771.0,9386771.0,0,0,guava,,,"Numberphile video about this formula: <a href=""https://www.youtube.com/watch?v=_s5RFgd59ao"" rel=""nofollow"">https://www.youtube.com/watch?v=_s5RFgd59ao</a>",1429177073.0
+55,9386784,comment,9384538.0,9385973.0,0,0,crististm,,,Many years ago you did not need any karma to down-vote anything. That has changed a long time ago and for years I refrained to get higher karma just to regain the ability to down-vote.<p>It seems there is a 500 karma threshold for down-voting comments and another one to down-vote posts.<p>Edit: And another karma level to down-vote comments beaten to death.,1429177072.0
+56,9386783,comment,9384139.0,9385388.0,0,0,pornel,,,It&,
+57,9386782,comment,9386004.0,9386754.0,0,0,coldtea,,,"Pedantic, but unlike pregant you can qualify unique.<p>Unlike pregnant which is a binary (are/are not), unique means the quality of differing from other things, and this is a continium.<p>Even the dictionary, in one of the terms for unique, gives a meaning that&",
+58,9386780,story,,,1,0,denominate,Rocket Internet Acquires Restaurant Delivery Service Volo,http://techcrunch.com/2015/04/16/volo/,,1429177021.0
+59,9386779,comment,9386180.0,9386662.0,0,0,skuhn,,,I think the biggest issue with current CM systems is that they aren&,
+60,9386778,comment,9382981.0,9383973.0,0,0,_pmf_,,,> I&,
+61,9386777,comment,9386180.0,9386768.0,0,0,mateuszf,,,Immutable infrastructure can be implemented using sole Dockerfile and Docker Compose.\nAnd Docker Machine can create/manage whole environments on various types of cloud providers.,1429176998.0
+62,9386776,comment,9386775.0,9386775.0,0,0,estebanlor,,,"Pharo is a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback.",1429176972.0
+63,9386775,story,,,107,79,estebanlor,Pharo 4.0 Released,http://pharo.org/news/pharo-4.0-released,,1429176955.0
+64,9386774,comment,9386004.0,9386004.0,0,0,tux,,,"Good Job :-)<p>Me: Who are you ?<p>AI: I am a piece of software named ACUMAN with a highly clever sense of intelligence.<p>Me: Are you evil ?<p>AI: I do not consider myself as evil , as a computer machine.<p>So everyone should not worry, its not &quot;Sky Net&quot;.",1429176944.0
+65,9386773,comment,9385596.0,9385596.0,0,0,amelius,,,"> pre-compiler for JavaScript<p>Could it be that the official term is &quot;altjs compiler&quot; (?) [1]<p>[1] <a href=""http://smurfpandey.github.io/altjs/"" rel=""nofollow"">http://smurfpandey.github.io/altjs/</a>",1429176942.0
+66,9386772,comment,9385738.0,9386537.0,0,0,_pmf_,,,"> Why not a website instead, which is so much more easily accessed and maintained?<p>The answer to that is folded and in the wallet of the schools accountant.",1429176941.0
+67,9386771,story,,,25,12,guava,Tupper's Self-Referential Formula,http://mathworld.wolfram.com/TuppersSelf-ReferentialFormula.html,,1429176938.0
+68,9386770,comment,9386004.0,9386004.0,0,0,denominate,,,"Great job Sean.<p>Like many others have, I&",
+69,9386769,story,,,4,0,teomoo,Show HN: Bugtrackers.io – stories of digital crafters,https://www.bugtrackers.io/,,1429176876.0
+70,9386768,comment,9386180.0,9386337.0,0,0,hackerboos,,,Still need to provision your host.,1429176871.0
+71,9386767,comment,9384013.0,9385627.0,0,0,simonh,,,"Grasshopper was able to hover, or even perform a powered descent and was probably lighter than an F9 first stage, so I don&",
+72,9386766,comment,9384538.0,9386568.0,0,0,Joeboy,,,I&,
+73,9386765,comment,9384977.0,9384977.0,0,0,amelius,,,"Since these structures are disposable (generally non-reusable), I guess what is needed is a cheap way to print them.",1429176787.0
+74,9386764,comment,9385538.0,9386740.0,0,0,ghshephard,,,I&,
+75,9386763,comment,9379285.0,9385771.0,0,0,dang,,,> Did you even bother to read<p>> You&,
+76,9386762,comment,9353080.0,9356297.0,0,0,rockdoe,,,That would have meant everyone would&,
+77,9386760,comment,9380624.0,9386072.0,0,0,ro_sharp,,,Hint: Each finger (digit) has two states (extended or curled up),1429176616.0
+78,9386759,comment,9386180.0,9386368.0,0,0,duggan,,,"I agree that having standards and best practices is a boon, especially if they can be packaged up in an easy to use way. Like anything, Chef brings its own set of idiosyncrasies to the table. However, I don&",
+79,9386758,comment,9385538.0,9386624.0,0,0,ghshephard,,,"Re: Rushing - if you list to ATP, or, previously, hypercritical, Siracusa spent <i>months</i> on those reviews.  By the time it came out to launch, he was basically at the point of correcting (and re-correcting screen shots).",1429176551.0
+80,9386757,comment,9385596.0,9385596.0,0,0,rockdoe,,,"[2, 1] in [[1,2], [2, 1], [3, 5]]<p>Does it handle this? CoffeeScript was a bit too close to JS to get this correct.",1429176548.0
+81,9386756,story,,,1,0,mortenlarsen,crossdomain.xml: Beware of Wildcards,http://blog.h3xstream.com/2015/04/crossdomainxml-beware-of-wildcards.html,,1429176543.0
+82,9386755,comment,9379285.0,9382268.0,0,0,dang,,,> The women aren&,
+83,9386754,comment,9386004.0,9386065.0,0,0,vixen99,,,Pedantic if you like but as with &,
+84,9386751,comment,9386004.0,9386004.0,0,0,amalantony06,,,What technologies did you use to build this bot? Are you using any libraries?,1429176378.0
+85,9386750,comment,9385951.0,9386653.0,0,0,jmadsen,,,"you mistake my meaning - it is &quot;more makes way for less&quot;.<p>With boats, maneuverability. With &quot;road sharers&quot;, survivability.",1429176320.0
+86,9386749,comment,9386745.0,9386745.0,0,0,mherrmann,,,I&,
+87,9386748,comment,9374215.0,9377467.0,0,0,runeks,,,"You could try writing a FaceTime dara packet wrapper/unwrapper, which packs your application data into FaceTime video/audio packets, and unpacks it at the receiving end. If the carriers shape FaceTime traffic differently, it should be possible to establish whether this is the case, by emulating a FaceTime connection, as far as I can see. The content is encrypted, so I don&",
+88,9386747,comment,9382055.0,9382055.0,0,0,andy_ppp,,,I really don&,
+89,9386746,comment,9384013.0,9384290.0,0,0,simonh,,,I&,
+90,9386745,story,,,2,1,mherrmann,Number26 Grabs $10.6M to Bring the Bank of the Future to Everyone,http://techcrunch.com/2015/04/16/number26-grabs-10-6-million-to-bring-its-bank-of-the-future-to-everyone/,,1429176200.0
+91,9386744,comment,9384538.0,9386434.0,0,0,lmm,,,I never understood that. Under semver 0.6.0 → 0.7.0 has exactly the same semantics as 0.6.0 → 0.6.1 (because MAJOR==0). So why insist on the extra number?,1429176177.0
+92,9386743,comment,9383110.0,9385577.0,0,0,pvnick,,,"That seems difficult for a sedentary adult living in suburban America who drives their car to work and sits at a desk all day, but for cultures that do more walking - ie in cities that are more laid out for walking and public transportation - an hour of walking per day is almost an afterthought. In Dubrovnik, Croatia, for instance, a small city largely built on the side of a mountain (<a href=""https://moremojitosplease.wordpress.com/2012/06/25/dubrovnik-a-city-of-stairs-stone-walls-and-gelato/"" rel=""nofollow"">https://moremojitosplease.wordpress.com/2012/06/25/dubrovnik...</a>), I&",
+93,9386742,comment,9385596.0,9385596.0,0,0,maharg101,,,This looks interesting. I&,
+94,9386741,comment,9384538.0,9386568.0,0,0,lmm,,,Linux has plenty of issues. It&,
+95,9386740,comment,9385538.0,9385869.0,0,0,pervycreeper,,,">autistic level of detail<p>I would use caution in making armchair diagnoses like that. However, while we are throwing around psychological terms, I do believe that &quot;anal-retentive personality&quot; is quite apt.",1429176000.0
+96,9386739,comment,9384538.0,9385103.0,0,0,legulere,,,Yes we indeed need freedom to install kernel boot kits wherever we want.,1429175982.0
+97,9386738,comment,9382933.0,9386211.0,0,0,nileshtrivedi,,,That&,
+98,9386737,comment,9349313.0,9351410.0,0,0,kelnos,,,It&,
+99,9386736,comment,9379078.0,9379465.0,0,0,jeremysmyth,,,There&,
+100,9386734,comment,9384397.0,9384397.0,0,0,amelius,,,"How difficult would it be to keep statistics for each page (in a separate &quot;process&quot; inside the CPU), and swap out pages according to these statistics? (Thus on every read and write operation, the page number would be streamed to a bookkeeper circuit.)<p>Alternatively, could malloc be given an extra parameter: the &quot;priority&quot; of the page the block will be allocated in. For example malloc(100, 1) would allocate a block of 100 bytes inside a priority-1 page. (Thus the OS would know the priority of each page, and swap them out accordingly; the heap allocator would assign these numbers).<p>Would this solve something?",1429175877.0
+101,9386732,comment,9385538.0,9385980.0,0,0,marincounty,,,I was so happy with Snow Leopard and Lion.  All my stuff just worked.,1429175824.0
+102,9386731,comment,9385951.0,9386130.0,0,0,kelnos,,,"Having an obnoxious anti-cycling culture is by no means mutually exclusive with having irresponsible, law-breaking cyclists.  (And in fact the latter may be a contributing factor to the former.)",1429175789.0
+103,9386730,comment,9382878.0,9385960.0,0,0,vanderZwan,,,While it&,
+104,9386728,story,,,3,0,thibautdavoult,6 Successful Startups Share Their Favorite Productivity Apps,http://blog.getsolid.io/6-successful-startups-productivity-apps/,,1429175711.0
+105,9386727,comment,9385905.0,9386356.0,0,0,InclinedPlane,,,"Precisely. Looks like a classic control oscillation, possibly due to lag in the system. There are only a zillion ways to handle this sort of thing as it&",
+106,9386725,comment,9378861.0,9380257.0,0,0,bandrami,,,"Oh, true, and I didn&",
+107,9386724,comment,9386004.0,9386625.0,0,0,neuronic,,,Agreed. OP creating this cool chat bot is very impressive. Discussing it&,
+108,9386723,comment,9386558.0,9386558.0,0,0,creshal,,,Final? Really? What if I need xattrs and Posix ACLs (or I use Windows and want NT ACLs and streams; or forks under OSX; …)? Hard-coded encryption algorithms also don&,
+109,9386722,comment,9386004.0,9386052.0,0,0,danieloaks,,,"Hey, I&",
+110,9386721,comment,9384538.0,9384608.0,0,0,legulere,,,I wonder why still so many people fall for the bullshit around GNU.<p>You can turn off the kernel needing signed kernel extensions. It is a big annoyance - so much is true. You don&,
+111,9386720,comment,9378861.0,9381965.0,0,0,bandrami,,,"IIRC Snowflake[0] does that (but also has a very experimental per-process view of /usr -- pretty cool stuff, really, but takes some getting used to).<p>[0]: <a href=""https://github.com/GregorR/snowflake"" rel=""nofollow"">https://github.com/GregorR/snowflake</a>",1429175548.0
+112,9386718,comment,9386460.0,9386669.0,0,0,captn3m0,,,"A very hack-ish way to fix this would be to just force HSTS on t.co and get on the HSTS preload lists in Chrome/Firefox/[..]. That way even though the link would be to t.co, the browser would never make the request to the http domain itself.",1429175526.0
+113,9386717,comment,9386004.0,9386004.0,0,0,shawabawa3,,,"I asked it how long it thought it would be until the AI singularity and it replied:<p>&quot;I do not think until the AI singularity, as a computer machine&quot;<p>Strangely spot on...",1429175464.0
+114,9386716,story,,,1,0,msemenistyi,How to Handle HTTP Codes in Express Like a Pro,http://binary-studio.com/2015/04/16/handle-http-code-express-like-pro/,,1429175426.0
+115,9386715,comment,9385538.0,9385826.0,0,0,tjl,,,I&,
+116,9386714,story,,,4,4,NicoJuicy,Ask HN: Do you use / have a smartwatch? Why do you use it?,,"I was wondering why people would use a smartwatch? It seems like constant interruption for me and &quot;useless&quot; functionality. I could be wrong off course, that&",
+117,9386713,comment,9381187.0,9383543.0,0,0,WA,,,<i>In fact he has had quite a few misses</i><p>Care to give an example?<p><i>but I don&,
+118,9386712,comment,9386027.0,9386027.0,0,0,mandeepj,,,"Apache Yarn[1] looks like same thing as borg\omega. A plus point with Yarn is we can get our hands on it.<p>[1] <a href=""http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html"" rel=""nofollow"">http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yar...</a>",1429175343.0
+119,9386711,comment,9384538.0,9385765.0,0,0,SEMW,,,It seems perfectly plausible that debian packages are mostly GPL while github is mostly MIT. (Eg Github first became popular in the ruby/rails community which tends to skew more MIT and corporate-friendly). I don&,
+120,9386710,story,,,5,0,mgunes,Glass Hands,http://thenewinquiry.com/blogs/s-a-o-b/glass-hands-violent-motion-2/,,1429175226.0
+121,9386709,comment,9385951.0,9386641.0,0,0,kelnos,,,"You are one of the few considerate ones.  I see cyclists on the sidewalk often, and most will force pedestrians out of the way to pass.",1429175218.0
+122,9386708,story,,,5,0,romefort,Running Docker Containers with Systemd,http://container-solutions.com/2015/04/running-docker-containers-with-systemd/,,1429175203.0
+123,9386707,comment,9381354.0,9384442.0,0,0,plongeur,,,You are? That&,
+124,9386706,comment,9385538.0,9385674.0,0,0,phaed,,,RSI for longer than 3 months is no longer a physical issue but a mind-body one.  He should read up on Dr. Sarno&,
+125,9386705,comment,9385538.0,9386413.0,0,0,tjl,,,Spotlight stolen from BeOS? LaunchBar which goes back to the NeXT days has the basic Spotlight features and more. While it&,
+126,9386704,comment,9386485.0,9386604.0,0,0,ghgr,,,"Because you might want to give the user information about the flight (altitude, airspeed, cameras...).",1429175039.0
+127,9386703,comment,9386180.0,9386368.0,0,0,otterley,,,I&,
+128,9386702,comment,9384013.0,9384836.0,0,0,andygates,,,"Not terminal velocity, just fairly fast: there&",
+129,9386701,comment,9380468.0,9380766.0,0,0,benjamincburns,,,I wasn&,
+130,9386699,comment,9386180.0,9386657.0,0,0,brandonmenc,,,"So why ansible? I use puppet. A quick glance at ansible suggests that all of that (certs, servers, services) is replaced in ansible with SSH, right? But you still need to manage keys. What am I missing?",1429174986.0
+131,9386698,comment,9385951.0,9386187.0,0,0,kelnos,,,"Not really the point, I don&",
+132,9386697,comment,9385738.0,9385738.0,0,0,4927a15fe7b0c35,,,"This is almost 100% about Pearson. The article even has this gem buried toward the end:<p><i>Although the threatened legal action applies to Apple and Pearson, the district also sent letters Tuesday to two other   companies: Lenovo, a device maker, and Arey Jones, a computer   distributor. These companies also have included the Pearson   product on some devices purchased by L.A. Unified.</i><p>So, they had problems with non-Apple devices as well?<p>There&",
+133,9386696,comment,9385905.0,9386528.0,0,0,david-given,,,SpaceX&,

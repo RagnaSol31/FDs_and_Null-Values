@@ -1,0 +1,81 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10524015,comment,10517648.0,10523847.0,0,0,aikah,,,I agree.,1446879594.0
+1,10524014,comment,10523939.0,10523939.0,0,0,nocsaer1,,,I don&,
+2,10524013,comment,10521816.0,10521816.0,0,0,unabst,,,"Author is in a far better position than most projects, since he 1) already has companies using his software and 2) has folks from those companies contacting him directly for help.<p>Corporations are in the business of making money which also puts them in the business of spending money. They pay for office space, things to put in the office, people, services, insurance, and software. They pay for everything. There are hardly any things they don&",
+3,10524012,comment,10522880.0,10523754.0,0,0,Absentinsomniac,,,Most of this thing reads more like an argument for than against.,1446879539.0
+4,10524011,comment,10522530.0,10523936.0,0,0,Natsu,,,It&,
+5,10524009,comment,10521835.0,10523867.0,0,0,frik,,,"I hope you know that energy efficients often means using motors with less Watt so that e.g. your washing machine will take longer to complete the washing cycle and with less hot water. The same with vacuum cleaners, eletronic kettles, etc. Eletro motors aren&",
+6,10524008,comment,10522158.0,10523061.0,0,0,pjmlp,,,"Yes, you just need to fulfil three conditions:<p>- Use the new RyuJIT<p>- Make use of 64 bits CPU<p>- Use the vector and matrix classes from  System.Numerics",1446879275.0
+7,10524007,comment,10519899.0,10520519.0,0,0,jakeogh,,,Interesting how it highlights the importance of independent countries and legal systems.,1446879215.0
+8,10524006,comment,10522286.0,10524001.0,0,0,nocsaer1,,,"There is no way of fully detecting it, because of function pointers.",1446879148.0
+9,10524005,comment,10520508.0,10520508.0,0,0,brendanlim,,,The world needs more people like Garry Tan. He&,
+10,10524004,story,,,6,0,techaddict009,Facebook won't let you type this to Avoid Competiton,http://money.cnn.com/2015/11/05/technology/facebook-tsu/index.html,,1446879048.0
+11,10524003,comment,10518958.0,10518958.0,0,0,Patrick_Devine,,,I&,
+12,10524002,comment,10519175.0,10523956.0,0,0,masterzora,,,"Well, the part where it directly mentions excluded middle is the part where it cites Boolos commenting on just that.",1446878745.0
+13,10524001,comment,10522286.0,10523986.0,0,0,chaosemer,,,"Even worse, foo(a,b) could call bar(a,b,c) which calls foo(b,a), all without otherwise looking at a or b.  This could get really bad really fast.<p>But that feels like the wrong way to analyze this.  Even though a full solution isn&",
+14,10524000,story,,,2,0,bootload,Climate Change Signal Emerges from the Weather,http://www.scientificamerican.com/article/climate-change-signal-emerges-from-the-weather/,,1446878672.0
+15,10523999,comment,10522158.0,10523683.0,0,0,wyager,,,Modern branch predictors handle opaque predicates (assuming you mean branches that don&,
+16,10523998,comment,10517008.0,10517008.0,0,0,niketdesai,,,"SHL learns a ton from this, gets experience most executives don&",
+17,10523997,comment,10522286.0,10522286.0,0,0,nocsaer1,,,gcc also doesn&,
+18,10523995,story,,,5,0,Imagenuity,User data plundering by Android and iOS apps is as rampant as you suspected,http://arstechnica.com/security/2015/11/user-data-plundering-by-android-and-ios-apps-is-as-rampant-as-you-suspected/,,1446878424.0
+19,10523994,comment,10522286.0,10522286.0,0,0,jgh,,,ok my brain is running on empty right now but I don&,
+20,10523993,comment,10522880.0,10523806.0,0,0,refurb,,,I didn&,
+21,10523992,comment,10522031.0,10522329.0,0,0,dingaling,,,Plus IRC channels existed in a bounded scope which kept them relevant to the interests of their participants.<p>Twitter hashtags are global in scope which makes many of them useless due to dilution.<p>I encountered a particular Twitter hashtag the other day: ,
+22,10523991,comment,10522880.0,10523425.0,0,0,jqm,,,"The interesting thing is that it seems to have happened in reverse. In China, Russia and Vietnam, for instance it appears that communism smashed the old systems of power which opened the door for capitalism.",1446878327.0
+23,10523990,comment,10522158.0,10523730.0,0,0,Everlag,,,"To be fair, students are mostly learning MIPS32. It&",
+24,10523989,comment,10520181.0,10522732.0,0,0,adevine,,,That&,
+25,10523988,story,,,1,0,dpmehta02,It’s 2015 – Why Haven’t Our Medical Records Entered the Digital Age?,http://fivethirtyeight.com/features/its-2015-why-havent-our-medical-records-entered-the-digital-age/,,1446878128.0
+26,10523987,comment,10522880.0,10523441.0,0,0,WalterBright,,,"Money is subject to the law of supply and demand just like everything else. More money supply, and the value of a unit of money drops, i.e. inflation.<p>History is full of examples. When Spain extracted gold and silver from the Americas in vast quantities, there was inflation in the Old World. Gold rushes corresponded with inflation. The American revolutionary Continental was printed in great quantities, and became worthless. Inflation results every time there&",
+27,10523986,comment,10522286.0,10522286.0,0,0,belovedeagle,,,"Of course, to &quot;really&quot; solve this problem you&",
+28,10523985,comment,10514667.0,10520603.0,0,0,imauld,,,Just checking in to see if you emailed me. I emptied my spam folder earlier and like an idiot I forgot to make sure yours wasn&,
+29,10523984,comment,10522880.0,10523038.0,0,0,nzp,,,"I think you summarize well, and that&",
+30,10523983,story,,,2,0,kevinblohm,Nathaniel Popper on Bitcoin and Digital Gold,http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html,,1446878027.0
+31,10523982,comment,10522880.0,10523706.0,0,0,refurb,,,Huh?  You&,
+32,10523981,comment,10520181.0,10521567.0,0,0,coke12,,,It&,
+33,10523980,comment,10522880.0,10523706.0,0,0,Asbostos,,,I&,
+34,10523979,comment,10444957.0,10447651.0,0,0,treeform,,,Me too!,1446877814.0
+35,10523978,comment,10520181.0,10520181.0,0,0,ex_famous,,,"Another ex-famous person here (again, short-term-contractor).<p>The folks focusing on the techcrunch cribs video and drawing damning conclusions from it are, rather predictably, chasing a red herring.<p>For what it&",
+36,10523977,comment,10521835.0,10523059.0,0,0,babuskov,,,It&,
+37,10523976,comment,10522158.0,10523839.0,0,0,cma,,,I can see the guy in Saudi Arabia saying this now: royalty is a &quot;parasitic&quot; class that powers every big oil deal -- the reason that businesses can pay oil workers as much as they do these days.<p>(I&,
+38,10523975,story,,,1,0,chmike,ProtonMail: encrypted email provider held ransom by hackers,http://www.theguardian.com/technology/2015/nov/05/protonmail-service-held-ransom-by-hackers,,1446877754.0
+39,10523974,comment,10521816.0,10523337.0,0,0,lambda,,,Hmm? Their time is valuable. You are being asked to pay for their time.<p>If there&,
+40,10523973,story,,,1,0,teaneedz,Apple iCloud and Backup Broke My Faith in Apple,https://medium.com/@teaneedz/apple-icloud-backup-broke-my-faith-in-apple-709763dd2ba2,,1446877683.0
+41,10523972,story,,,1,0,reddotX,Lennart Poettering: Welcome and Systemd Status Report 2015,https://www.youtube.com/watch?v=I4AAjEaTehk,,1446877659.0
+42,10523971,comment,10523661.0,10523661.0,0,0,pmontra,,,I&,
+43,10523970,comment,10523008.0,10523906.0,0,0,akiselev,,,"Voyager spacecraft do not use any operating system. Due to the highly custom CPUs in Voyager, writing a compiler to build a 1970s era OS for the architecture would have been extremely risky and inefficient. It wasn&",
+44,10523969,story,,,1,0,Dobbs,VW Launches Site about Diesel Scandal,https://www.vwdieselinfo.com/,,1446877613.0
+45,10523968,comment,10522880.0,10523915.0,0,0,refurb,,,"A bare standard of living where?  San Francisco would be what? $50K per year?  Or Kalamazoo, MI where you coulf get by on $15K?<p>Do we force people to move?",1446877511.0
+46,10523967,comment,10519386.0,10523168.0,0,0,mckoss,,,A transpiler is specifically a &quot;source-to-source&quot; language translator.,1446877476.0
+47,10523966,comment,10517175.0,10523353.0,0,0,thaumasiotes,,,"Having been one of these kids, I can assure you this is totally untrue.",1446877458.0
+48,10523965,comment,10516760.0,10522218.0,0,0,plasticmachine,,,"On further consideration I agree with you. Knowledge of the accumulator would merely allow for the arbitrary creation of forged spends that appear valid, but the rest of the system would still remain opaque (much to its detriment in this instance).<p>Also there is nothing so suggest that a clever MPC will solve the collusion problem. Of course the participants will make claims about their honesty, but if ZeroCoin is worth massive amounts of money the temptation to seek collusion will be there.<p>Of course, whilst it&",
+49,10523964,comment,10522880.0,10523655.0,0,0,dingaling,,,"The UK requires all welfare recipients to have a bank account and to enable this legislation was passed requiring retail banks to provide basic, non-discriminatory current accounts.<p>They don&",
+50,10523963,comment,10520181.0,10523691.0,0,0,7Figures2Commas,,,It doesn&,
+51,10523962,story,,,1,0,agsbcap,New Server Metrics: The Impact on Users and the Business's Bottom Line,http://www.happyapps.io/blog/2015-11-03-new-server-metrics-the-impact-on-users-and-the-business-s-bottom-line,,1446877344.0
+52,10523961,comment,10517175.0,10523747.0,0,0,icelancer,,,"My company? I work in sports science, our services are expensive, my employees are paid well above average wages. This is not uncommon.",1446877298.0
+53,10523960,comment,10521457.0,10522203.0,0,0,7Figures2Commas,,,> However Square believes they can do this better than other services because they can effectively secure the advance by taking a piece of each card swipe at the merchant&,
+54,10523959,comment,10521816.0,10522969.0,0,0,lambda,,,"I work at a company that uses a large amount of free software.<p>For much of it, if we find a bug, we either fix it ourselves locally, or go through the normal process of submitting a bug report, possibly submitting our own patch, and waiting for a fix from upstream, while finding some way to work around it or the like.<p>For some of the software that is central to our business, we have a contract with a company that provides support and development services. If we have a bug that we need fixed right now, we get in touch with them and pay an agreed upon rate to do so.<p>We don&",
+55,10523958,comment,10523008.0,10523450.0,0,0,akiselev,,,I was surprised to find that New Horizon is using Nucleus but I guess it makes sense since it was developed largely outside of the NASA-JPL west coast mafia (only slightly joking...). JPL has been using Wind River&,
+56,10523956,comment,10519175.0,10519175.0,0,0,dkarapetyan,,,The article mentions law of excluded middle which doesn&,
+57,10523954,comment,10523126.0,10523126.0,0,0,obrero,,,"> The Japanese were still trying to barter with the Soviets, going so far as to offer Manchuria and southern Karafuto...The Soviets snubbed the emperor&",
+58,10523953,story,,,1,0,baruchel,Explaining functional aspects in python,http://baruchel.github.io/python/2015/11/07/explaining-functional-aspects-in-python/,,1446877050.0
+59,10523951,comment,10519386.0,10519386.0,0,0,liujoycec,,,"Awesome project, I hope to make some contributions to it on Github in the future!",1446877007.0
+60,10523949,comment,10519899.0,10522487.0,0,0,someguydave,,,As for the &quot;why&quot; - presumably it would be in the public interest for the government to spy upon notorious public enemies like terrorists or potentially hostile governments?  Is there a good argument otherwise?,1446876941.0
+61,10523947,comment,10517175.0,10523396.0,0,0,m_eiman,,,"Here in Sweden, we pay about $230 per month for two kids, full time. The oldest one has after-school care, about $50 per month. Tax subsidised, of course.<p>Of all the ways tax money can be used to create a more level playing field for the next generation, this is IMHO one of the best. Parents get to have a career, kids get to know other kids from varying backgrounds, and kids with less than ideal parents get to do more worthwhile things than stare at TV and eat at McD.",1446876931.0
+62,10523946,comment,10522880.0,10523564.0,0,0,Eridrus,,,This isn&,
+63,10523945,comment,10523509.0,10523509.0,0,0,Animats,,,"1971 was late to be doing that. Take a look at the Viatron, from 1968.[1][2] $39 a month. This was a respectable computer, with 4K of (core-type) RAM, two cassette tape drives, keyboard, and CRT.  The company had trouble manufacturing it, because it pushed the limits of what you could do at that price point, but systems were built and delivered.<p>[1] <a href=""http://www.retrogator.com/2014/07/23/1969-viatron-system-21-computer-original-vintage-print-ad/"" rel=""nofollow"">http://www.retrogator.com/2014/07/23/1969-viatron-system-21-...</a>\n[2] <a href=""https://en.wikipedia.org/wiki/Viatron"" rel=""nofollow"">https://en.wikipedia.org/wiki/Viatron</a>",1446876805.0
+64,10523944,comment,10522022.0,10523116.0,0,0,MichaelGG,,,The market is probably around -$500 to -2000 so yes.,1446876800.0
+65,10523943,comment,10510773.0,10512167.0,0,0,heroh,,,this means you are allow Google to datamine every click<p>you should be running an add-on to scrape all tracking off Google,1446876761.0
+66,10523942,comment,10523940.0,10523940.0,0,0,quantium,,,I&,
+67,10523941,comment,10523939.0,10523939.0,0,0,richardboegli,,,I&,
+68,10523940,story,,,4,1,smartties,"My firts iOS game, C++/OpenGL",https://itunes.apple.com/us/app/exploration-craft/id1041796232,,1446876619.0
+69,10523939,story,,,8,17,richardboegli,"Ultimate Hacking Keyboard – Why you need to buy one, Ultimate configurability",https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard/updates/1911,,1446876582.0
+70,10523938,comment,10522880.0,10523686.0,0,0,zo1,,,Do you recall the name of that town/study? I&,
+71,10523937,comment,10517175.0,10517175.0,0,0,smokey_the_bear,,,"Both of my kids go to in home daycares in the neighborhood. The caregivers take care of 4-6 kids per day, and make 60/day per kid, and they get paid vacations. Financially, it seems like they make significantly more than they would teaching in a large center. I like the homey feel of the daycares, that it&",
+72,10523936,comment,10522530.0,10522530.0,0,0,jrapdx3,,,"When article described the protein in the lens as &quot;amyloid&quot;, it occurred to me how similar it is to the abnormal proteins associated with Alzheimer&",
+73,10523935,comment,10522880.0,10523882.0,0,0,gnaritas,,,> We are not yet in the era when humans are useless.<p>I didn&,
+74,10523934,comment,10522880.0,10523898.0,0,0,gnaritas,,,> I think many place too much faith that while someone isn&,
+75,10523933,comment,10517175.0,10523239.0,0,0,vacri,,,How on earth is anyone going to get elected on a platform of &quot;less regulations around children&quot; in today&,
+76,10523932,comment,10517175.0,10523424.0,0,0,dredmorbius,,,"EITC and in some locations child care credits, may offset this. Alternatively, tax internalises externalised social costs. Flipping your argument, since self-provisioned childcare isn&",
+77,10523931,comment,10522631.0,10522929.0,0,0,lambda,,,"Have you never heard of SUnet, the scsh web server/framework? It&",
+78,10523930,comment,10520639.0,10522850.0,0,0,ddingus,,,This is amazing!  Thanks for linking it.  8 bits...  sheesh.<p>I&,
+79,10523929,comment,10520639.0,10523109.0,0,0,ddingus,,,"Yep.<p>Compression is an important part of both experiences.  I like to think of it this way:<p>The soundscape has two axis, one is the overall perception of loudness, the other is the range of frequencies occupied by a given element, or track if you will, in a piece of music.  In a stereo, or multi-track recording such as surround sound, there are more axis involving perception of placement, or &quot;imaging&quot;  But the basics are all that are needed to consider this compression matter.<p>When you take one of those tracks, say the drum, or the bass guitar, in isolation a raw playback at volume on a reference system is going to largely reproduce what went in.  So far so good.<p>Now, start adding the various bits and what happens?<p>That soundscape gets crowded!  Little quiet bits you could appreciate are suddenly lost amidst all that is going on, so what to do?<p>Compress!<p>And that&",

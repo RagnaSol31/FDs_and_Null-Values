@@ -1,0 +1,141 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7119487,comment,7117644.0,7119338.0,4,0,ChuckMcM,,,This was what struck me the most about it as well. Stuff on the screen <i>looked</i> typeset whereas there really wasn&,
+1,7119486,comment,7118579.0,7119227.0,4,0,nmeofthestate,,,I must be weird - I fit neatly into one box and I&,
+2,7119485,comment,7118649.0,7119062.0,3,0,elwell,,,"<a href=""http://www.droidquest.com/"" rel=""nofollow"">http://www.droidquest.com/</a>",1390615172.0
+3,7119484,comment,7119323.0,7119467.0,1,0,ricardobeat,,,"You got it backwards. You live in Kabul, so the article on bullet resistance is completely relevant. The point is that Backblaze&",
+4,7119483,comment,7116144.0,7119315.0,1,0,_jwo_,,,"<a href=""https://www.gnu.org/philosophy/free-sw.html"" rel=""nofollow"">https://www.gnu.org/philosophy/free-sw.html</a><p><a href=""http://www.gnu.org/licenses/license-list.html"" rel=""nofollow"">http://www.gnu.org/licenses/license-list.html</a><p>clang is &quot;free software&quot; according to his own definition. It is entirely possible for a specific free software program to be a setback to the goals of the free software movement. His position is that copyleft licenses (very often, and certainly in this specific case) advance the goal of freedom more effectively than non-copyleft licenses. The differing values in this case basically amounts to whether one considers it worth using a copyleft license to ensure that the software being used remains free, or whether one considers it a drawback that a copyleft license may prevent it being used in proprietary software.",1390615133.0
+5,7119482,story,,,4,0,VinceD01,"Why I went with Plivo, not Twilio",http://vincedasta.com/p/why-i-went-with-plivo/,,1390615130.0
+6,7119481,comment,7117725.0,7118310.0,2,0,jrs99,,,Gates is a below average player. If you&,
+7,7119480,comment,7111531.0,7113036.0,2,0,abalone,,,<i>> Has anyone tried looking to see if there is a depression in tech workers&,
+8,7119479,comment,7119323.0,7119323.0,7,0,cuhaos,,,This Tweaktown article offers nothing in the way of factual evidence to discount any of the hard work Backblaze put into that blog post.<p>Shame on Tweaktown for poo poo&,
+9,7119478,comment,7118990.0,7118990.0,1,0,sparkzilla,,,So instead of being very expensive and slow it&,
+10,7119477,story,,,2,0,bdehaaff,Apple Getting Ready to Roll Out Mobile Payments,http://www.businessinsider.com/apple-mobile-payments-2014-1,,1390615068.0
+11,7119476,comment,7117983.0,7117983.0,2,0,throwaway_yy2Di,,,"Tangential: why does MapReduce use /dev/random as its entropy source?<p><i>&quot;After a long and tricky debugging process, we found that a big MapReduce job was firing up every few hours and, as a part of its normal functioning, it was reading from /dev/random. When too many of the MapReduce workers landed on a machine, they were able read enough to deplete the randomness available on the entire machine. It was on these machines that our serving binaries were becoming unresponsive: they were blocking on reads of /dev/random!&quot;</i><p><a href=""http://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_google_site_reliability_engineering/cexz5yy"" rel=""nofollow"">http://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_goog...</a>",1390615011.0
+12,7119475,comment,7119474.0,7119474.0,1,0,g_glitch,,,SUCCESS.,1390615009.0
+13,7119471,comment,7118579.0,7118579.0,3,0,001sky,,,"<i>“We should have known something was amiss,” says Savin-Williams.  “One clue was that most of the kids who first claimed to have artificial limbs...miraculously regrew arms and legs when researchers came back to interview them.”</i><p>...You can&",
+14,7119470,comment,7118630.0,7118914.0,1,0,hacknat,,,???,1390614816.0
+15,7119469,comment,7094954.0,7106811.0,2,0,lsiebert,,,"Classes are not primitives in either language... primitives contain a value instead of a reference.  I think you mean that classes are first order, but I don&",
+16,7119468,comment,7105629.0,7111396.0,1,0,krisgee,,,So in order to process you non-bank transactions you need to use a centralized processor that charges you a fee for transferring your money?,1390614780.0
+17,7119467,comment,7119323.0,7119451.0,1,0,mnordhoff,,,"I would read an article about how bullet-resistant different models of car are, but I wouldn&",
+18,7119466,comment,7110879.0,7114690.0,1,0,Zigurd,,,Pakistanis?,1390614720.0
+19,7119465,story,,,2,0,riobard,Self-referential functions and the design of options,http://commandcenter.blogspot.ca/2014/01/self-referential-functions-and-design.html,,1390614695.0
+20,7119464,comment,7115949.0,7115949.0,2,0,gkoberger,,,"Economics aside, and on a more personal note: it&",
+21,7119463,comment,7119190.0,7119368.0,2,0,vezzy-fnord,,,That&,
+22,7119462,comment,7115177.0,7116913.0,1,0,ryguytilidie,,,The fact that it said &quot;they ultimately paid the fees...some of which are still pending&quot; made me feel like these weren&,
+23,7119461,comment,7117725.0,7118413.0,2,0,jrs99,,,you&,
+24,7119460,comment,7117131.0,7117743.0,8,0,ChuckMcM,,,"Perhaps unusually I find I have unlimited mental energy for things that I find interesting to do, and a limited amount for things that aren&",
+25,7119459,comment,7118990.0,7119283.0,3,0,msie,,,"With Azure you get two servers backing up each server, I think.",1390614586.0
+26,7119458,comment,7118649.0,7119062.0,1,0,meemo,,,You can also find a DOS port online.  And play it using Boxer.app boxerapp.com,1390614541.0
+27,7119457,comment,7119190.0,7119190.0,1,0,joshbaptiste,,,"Hmm.. interesting, well luckily I don&",
+28,7119456,comment,7119323.0,7119420.0,3,0,nwh,,,There&,
+29,7119455,comment,7115177.0,7119430.0,1,0,jaredsohn,,,"Some of what you wrote is unfair to Uber.<p>>I only wanted a consistent and yes boring, non-baller experience.<p>You can use the Uber app to get cabs or lower cost UberX.  UberX is actually cheaper than most cabs while providing the convenience of ordering electronically, knowing roughly how long to wait, and paying electronically (with receipts.)<p>>doesn&",
+30,7119454,comment,7117697.0,7118345.0,1,0,Atroxide,,,"however, DNS also has an issue for this particular audience. A simple typo could land you on a completely different site which I think is why navigational searching is more useful for those in a rush or those that can&",
+31,7119453,comment,7116517.0,7118605.0,3,0,ksrm,,,"Smegger, you are hellbanned.",1390614512.0
+32,7119452,comment,7119323.0,7119323.0,6,0,mnordhoff,,,"&quot;With varying numbers of drives for each model, it is possible that some bad batches may have made their way into the sample pool, thus further skewing the numbers.&quot;<p>So, to measure drive reliability, the author recommends that you don&",
+33,7119451,comment,7119323.0,7119323.0,3,0,techsupporter,,,I&,
+34,7119450,comment,7116764.0,7119313.0,3,0,josephlord,,,There is a trade off between availability (spread it around) and privacy/confidentiality (the more places it is spread the more you are exposed to risks of hacking or insiders at any of the companies). There is no right answer but it depends on the person and the content.,1390614487.0
+35,7119449,comment,7118990.0,7119340.0,3,0,rschmitty,,,Well DO is advertising 1tb for $5 because they expect most people not to hit that rate or that price would quickly skyrocket.  AWS is just taking the pricing scheme of pay for what you use (granted there is still a premium on every thing they charge you for),1390614484.0
+36,7119447,comment,7117725.0,7118535.0,1,0,dudus,,,Not a very avid chess player but I had a lot of fun going over your game notes. Thanks and congrats for the achievements in that game.,1390614391.0
+37,7119446,comment,7119401.0,7119401.0,1,0,NAFV_P,,,"<i>There are no plans to auction off the old rug, but the new one has already been ordered.</i><p>The first thing that popped into my mind - $1,000 on Ebay?",1390614366.0
+38,7119445,comment,7117131.0,7118470.0,2,0,bigtunacan,,,This is essentially the same situation I&,
+39,7119444,comment,7117725.0,7119121.0,3,0,pslam,,,That&,
+40,7119443,comment,7119323.0,7119323.0,5,0,0x0,,,"Warning: Browsing this site on ios mobilesafari will randomly taskswitch into the app store app, onto the buy page for some ios game.",1390614342.0
+41,7119442,comment,7109430.0,7112793.0,1,0,pydave,,,"emacs + evil?<p>Aside from vi-emulation, I haven&",
+42,7119441,comment,7118414.0,7119399.0,3,0,tomato_sausage,,,"Assuming the respondents are uniformly randomly chosen, it takes surprisingly few people to get a pretty high confidence interval.  I&",
+43,7119440,comment,7115177.0,7115177.0,1,0,jonathanmarcus,,,Seems like the offline equivalent of a misguided &,
+44,7119439,comment,7116144.0,7119153.0,1,0,chongli,,,I doubt that. Look at all the proprietary software that&,
+45,7119438,comment,7114913.0,7119418.0,1,0,fargolime,,,"Go ahead and take that into account, but hinge your conclusion on whether the logic&",
+46,7119437,comment,7118649.0,7119402.0,2,0,pudquick,,,Just wanted to give a quick reply – I purchased your app when it first came out and I love it to death.<p>Thank you for that!,1390614240.0
+47,7119436,comment,7111531.0,7112363.0,3,0,Fasebook,,,What vision?  The idea to make technology easy to use?  What a mind blowing idea.  I&,
+48,7119435,comment,7119190.0,7119190.0,6,0,click170,,,&quot;Warning: infected app! download and install our app to protect yourself!&quot;<p>thank god there is an app to protect... wait a minute... where have I seen these tactics used before...,1390614198.0
+49,7119434,comment,7119092.0,7119348.0,1,0,WriteYourRep,,,Thank you for the feedback. I was concerned about there not being enough explanation on that as well. I will take time over the weekend to shift this around a bit. I appreciate you taking a look at the application.,1390614173.0
+50,7119433,comment,7116764.0,7117370.0,2,0,reeses,,,I&,
+51,7119432,comment,7118095.0,7118610.0,7,0,pavelrub,,,What? This is horrible advice - exactly the opposite of what we should be encouraging. This is like saying women shouldn&,
+52,7119431,comment,7116764.0,7117617.0,1,0,e12e,,,"Not to mention that all that data will come in handy for recreating a virtual copy[1]...<p>On a more serious note, I also think chat logs and email are important, but I can&",
+53,7119430,comment,7115177.0,7115177.0,1,0,brianmcdonough,,,"Dear Uber,<p>I guess I shouldn&",
+54,7119429,story,,,4,0,sinak,"Surveillance protest on 02/11 now has 3,000 sites signed up to take part",http://thedaywefightback.org/,,1390614015.0
+55,7119428,story,,,2,0,IBM,IBM Happy to Be Rid of Low-End Server Business,http://bits.blogs.nytimes.com/2014/01/23/ibm-happy-to-be-rid-of-low-end-server-business/?ref=technology,,1390614006.0
+56,7119427,comment,7117131.0,7119339.0,7,0,pmccall777,,,Eating two pieces of toast for breakfast is no way to live. Eating them while driving and you&,
+57,7119426,story,,,1,0,NoahBuscher,Spigot - Simple JS RSS Reader,https://github.com/Codingbean/Spigot,,1390613918.0
+58,7119425,comment,7119409.0,7119409.0,5,0,jason_wang,,,This is awesome! Great example app for the Zinc API.<p>Now you just need to integrate with those smart fridges so an order with Amazon Fresh is automatically placed when I run low on something.,1390613917.0
+59,7119424,comment,7115177.0,7117821.0,3,0,brianmcdonough,,,Thank you for making it clear why this practice is bad corporate practice for those who are not as moral in their perspective. Uber seems hell bent on becoming the only game in town and then raping their customers during peak periods.,1390613850.0
+60,7119423,comment,7119190.0,7119190.0,1,0,stormbrew,,,There&,
+61,7119422,comment,7118117.0,7118937.0,4,0,samstokes,,,"The Haskell database-mapping library [1] &quot;persistent&quot; does auto-migrations as well.  You declare your data types in a DSL reminiscent of SQL CREATE TABLE statements.  If you add a new data type, it creates the table; if you add a field, it adds the column; if you make a field optional, it changes the column to allow nulls.<p>It will only do that for non-destructive changes, so if you remove a column (which would lose data), or make an optional field non-optional (which is ill-defined if you had NULLs), it bails out with a message suggesting the SQL you should run to migrate manually.<p>[1] I can&",
+62,7119421,comment,7116517.0,7117861.0,2,0,drcode,,,...on might even say it&,
+63,7119420,comment,7119323.0,7119323.0,9,0,lytfyre,,,>&quot;Backblaze claims that drive temperature doesn&,
+64,7119419,comment,7116517.0,7118628.0,1,0,drcode,,,"Well, if we start getting pedantic :-) smaller blocks also mean more block headers, which also hampers performance.<p>On the flip side, I don&",
+65,7119418,comment,7114913.0,7119367.0,1,0,gjm11,,,"I agree that trust and consensus are not scientific concepts (well, except maybe in psychology or sociology, but that&",
+66,7119417,comment,7116042.0,7117805.0,1,0,ye,,,"In, it doesn&",
+67,7119416,comment,7119190.0,7119190.0,2,0,iagox86,,,&quot;There&,
+68,7119415,comment,7116144.0,7119320.0,3,0,jamesaguilar,,,Values and the question of whether a given license meets RMS&,
+69,7119414,comment,7117444.0,7117444.0,1,0,ksixmju,,,How did you learn that?,1390613423.0
+70,7119413,comment,7118649.0,7118649.0,6,0,midas007,,,"Rarely does a game from that era have that much complexity, and in CGA.  Wow.<p>Also, an ASCII guide to gates:<p><pre><code>         output  input(s)\n\n                +\n     NOT   --o< |--\n                +\n\n               -+--\n     OR    --(  ( \n               -+--\n\n               -+--\n     NOR  --o(  ( \n               -+--\n\n              --+--\n     AND   --(  |\n              --+--\n\n              --+--\n    NAND  --o(  |\n              --+--\n\n               - +--\n     XOR   --(  (( \n               - +--\n\n               - +--\n    XNOR  --o(  (( \n               - +--\n\n</code></pre>\n{C,P,N}MOS transistor implementations are exercises for the reader. :)",1390613404.0
+71,7119411,comment,7107508.0,7114886.0,1,0,dreamfactory2,,,tbh I think you&,
+72,7119410,comment,7117974.0,7118776.0,1,0,3rd3,,,The other AI left too.,1390613330.0
+73,7119409,story,,,42,16,mkx,Show HN: Buy stuff through your terminal,http://zinc.io/cli,,1390613315.0
+74,7119408,comment,7117131.0,7119075.0,2,0,fhd2,,,"You work as many hours as you decide to, so does everybody else. Get abused as much as you like, but please don&",
+75,7119407,comment,7118649.0,7119332.0,1,0,drcode,,,I actually did the exact same thing! I staid away from the chips because they were to black-boxish and then gave up on level 5.<p>I have yet to see a current-gen game with as awesome a circuit wiring mechanic as RO.,1390613296.0
+76,7119406,comment,7118117.0,7119268.0,8,0,georgemcbay,,,I agree.  Early on in my career I had a general distaste for relational databases but after finding my way back to using them I now realize that most of the issues I had were really just limitations of the software (and to some degree the hardware) at that time that caused large amounts of design-time analysis paralysis.<p>eg. WILL THIS VARCHAR COLUMN EVER BE BIGGER THAN N? How should I size it? I don&,
+77,7119405,comment,7117983.0,7119262.0,2,0,IBM,,,I wouldn&,
+78,7119404,comment,7117725.0,7118413.0,6,0,solutionyogi,,,That video you linked is insane. I couldn&,
+79,7119403,comment,7118496.0,7118496.0,3,0,look_lookatme,,,"I use hnsearch quite a bit as a general search/opinion tool. I use it less as a gateway to HN and more as filtering tool (wherein I expect readable, non-italic versions of the comments on the result page). For instance if I was curious if Don DeLillo ever popped up in HN comments.<p>Compare the results:<p><a href=""https://hn.algolia.io/?q=Don%20Delillo"" rel=""nofollow"">https://hn.algolia.io/?q=Don%20Delillo</a>\n<a href=""https://www.hnsearch.com/search",
+80,7119402,comment,7118649.0,7118649.0,2,0,Sweyla,,,Really cool. I hadn&,
+81,7119401,story,,,5,3,quenlinlom,Why GitHub's CEO Ditched Its Divisive 'Meritocracy' Rug,http://readwrite.com/2014/01/24/github-meritocracy-rug,,
+82,7119400,comment,7119049.0,7119049.0,1,0,taternuts,,,why is this posted on HN?,1390613085.0
+83,7119399,comment,7118414.0,7119033.0,1,0,ckelly,,,"Hi Nathan,\nThanks for your comment.  And no offense taken. :)<p>Most people are surprised how &quot;few&quot; respondents it takes to get to 5% margin of error at 95% confidence levels:\n<a href=""https://en.wikipedia.org/wiki/Margin_of_error",
+84,7119397,comment,7115134.0,7118023.0,1,0,tibbon,,,"Same with guitar tube amps. &quot;Deadly voltage&quot;, but I can&",
+85,7119396,comment,7107228.0,7108548.0,1,0,marquis,,,>As far as I am aware &,
+86,7119395,comment,7118095.0,7119139.0,2,0,Crito,,,[OT]<p>> <i>about:\thell-banned by bigoted assholes</i><p>I don&,
+87,7119394,comment,7119359.0,7119359.0,1,0,gus_massa,,,"The discussion about the new search is in: <a href=""https://news.ycombinator.com/item?id=7118496"" rel=""nofollow"">https://news.ycombinator.com/item?id=7118496</a> . Most of the users are asking for the search-by-date option there.",1390612902.0
+88,7119393,comment,7117697.0,7118977.0,4,0,Aldo_MX,,,The Mac Keyboard has a broken Caps Lock button &quot;by design&quot;; you can&,
+89,7119392,story,,,29,13,marcomassaro,Ask HN: How do you find clients?,,"Curious to know how HNers who run their own design, development, marketing, consulting (etc) business find or get clients.<p>Referrals seems to be the big one, but would be great to learn about some of the strategies people use to land a larger client or project.",1390612856.0
+90,7119390,comment,7116328.0,7118986.0,1,0,NAFV_P,,,Back in my day the best place to learn about sex was the school canteen.,1390612834.0
+91,7119389,comment,7117131.0,7119303.0,1,0,fhd2,,,Maybe parents are just more likely to have the guts to stand up to this kind of abuse.<p>You&,
+92,7119388,story,,,2,0,radley,DOJ files its first lawsuits over counterfeit apps,http://www.pcworld.com/article/2091360/doj-files-its-first-lawsuits-over-counterfeit-apps.htm,,1390612825.0
+93,7119387,comment,7118649.0,7118649.0,3,0,zackmorris,,,"Reminds me of ChipWits.  God I so loved that game.<p><a href=""http://www.chipwits.com"" rel=""nofollow"">http://www.chipwits.com</a><p><a href=""https://en.wikipedia.org/wiki/ChipWits"" rel=""nofollow"">https://en.wikipedia.org/wiki/ChipWits</a><p><a href=""http://www.richardsnotes.org/archives/2005/03/29/chipwits/"" rel=""nofollow"">http://www.richardsnotes.org/archives/2005/03/29/chipwits/</a>",1390612803.0
+94,7119385,comment,7118579.0,7119108.0,3,0,btilly,,,"The woman you were talking to was an idiot.  For proof look no farther than identical twin studies that show that while sexuality has a large genetic component, there is an environmental component as well.  Furthermore people can be confused over their sexuality - either way - for a very long time.  And other people don&",
+95,7119384,comment,7116042.0,7116042.0,1,0,webwanderings,,,Pixlr is very popular among young crowd. This one pales in comparison in the same category (free). I don&,
+96,7119383,comment,7114913.0,7116501.0,2,0,kevinastone,,,The TOV Limit for those following at home.  It&,
+97,7119382,comment,7111360.0,7113447.0,1,0,throwawaykf03,,,That&,
+98,7119381,comment,7118496.0,7118496.0,2,0,louthy,,,Hopefully one day the default HN search will understand the ,
+99,7119380,comment,7116282.0,7118619.0,3,0,mcphilip,,,I clicked on his profile before replying just to make sure I wasn&,
+100,7119379,story,,,251,175,jejune06,“We Just Can’t Have You Here”,http://yaledailynews.com/weekend/2014/01/24/we-just-cant-have-you-here/,,1390612507.0
+101,7119378,comment,7117974.0,7117974.0,1,0,bowerbird,,,it&,
+102,7119376,story,,,1,0,IBM,Google Pushes Back Against Data Localization,http://bits.blogs.nytimes.com/2014/01/24/google-pushes-back-against-data-localization/?ref=technology,,1390612463.0
+103,7119375,comment,7118990.0,7118990.0,1,0,jaunkst,,,Being completly biased. I won&,
+104,7119374,comment,7115177.0,7115706.0,1,0,aidenn0,,,You mean the encourage more drivers to go out despite the bad conditions by providing higher incentives?,1390612371.0
+105,7119373,comment,7115177.0,7118540.0,6,0,avalaunch,,,"I said it was fraudulent, which it definitely is.  Whether or not it fits the legal definition of fraud is debatable.",1390612358.0
+106,7119372,comment,7116144.0,7118770.0,2,0,burntsushi,,,I&,
+107,7119371,comment,7116764.0,7116764.0,2,0,zobzu,,,"meanwhile, my self hosted mail hasn&",
+108,7119370,story,,,2,0,luu,Instruction creep,http://meta.wikimedia.org/wiki/Instruction_creep,,1390612280.0
+109,7119368,comment,7119190.0,7119354.0,2,0,trustlook,,,Correct ;-),1390612255.0
+110,7119367,comment,7114913.0,7119292.0,1,0,fargolime,,,I&,
+111,7119366,comment,7117983.0,7119103.0,14,0,dguaraglia,,,<i>apparently</i>. Nobody could confirm though.,1390612208.0
+112,7119365,comment,7111531.0,7116978.0,2,0,jgh,,,Good information.  &quot;Port your I-140&quot; though?,1390612188.0
+113,7119364,comment,7118414.0,7118898.0,1,0,cft,,,"Out of curiosity, why not use text messaging or WhatsApp? Both have more options that Snapchat.",1390612186.0
+114,7119363,comment,7118579.0,7118808.0,4,0,lovemenot,,,"According to some accounts, Margaret Mead, the most celebrated anthropologist of her generation, was similarly trolled by Samoan girls:\n<a href=""http://www.amazon.com/The-Trashing-Margaret-Mead-Anthropological/dp/0299234541"" rel=""nofollow"">http://www.amazon.com/The-Trashing-Margaret-Mead-Anthropolog...</a>\nAt the very least, the controversy around that study should have led these researchers to be more circumspect with their data.",1390612157.0
+115,7119362,comment,7118095.0,7119271.0,6,0,DanBC,,,Do you at least agree that he was in the vacinity of other people and they also had a responsibility to fix the problem?,1390612142.0
+116,7119361,comment,7116144.0,7117446.0,1,0,gress,,,Those problems are the result of heavy government restriction and bailouts - the exact opposite of a free market.,1390612135.0
+117,7119360,comment,7116042.0,7117275.0,11,0,stdbrouw,,,But obviously you do have enough time to complain about it.,1390612127.0
+118,7119359,story,,,1,1,bowerbird,Please reinstate search-by-date to this site,,please.,1390612076.0
+119,7119357,comment,7115177.0,7118540.0,5,0,aidenn0,,,Some localities do have laws forbidding buying something with the intent to return it.,1390612055.0
+120,7119356,comment,7118095.0,7118466.0,2,0,DanBC,,,"Other people came to a similar conusion to me. So, being charitable, your post wasn&",
+121,7119355,story,,,9,0,campoy,Self-referential functions and the design of options,http://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html,,1390612048.0
+122,7119354,comment,7119190.0,7119190.0,2,0,zhongjiewu,,,Sounds like very dangerous attack and not very difficult to implement.<p>DNS hijacking:<p>1. Quicker DNS response than router to pollute the Android&,
+123,7119353,comment,7118496.0,7118496.0,2,0,mindcrime,,,"Sadly, I don&",
+124,7119352,comment,7117131.0,7118159.0,4,0,dominotw,,,wow.\n I read this comment after wasting all day on reddit and HN doing nothing.,1390612008.0
+125,7119351,comment,7117697.0,7117697.0,1,0,coreymgilmore,,,"I must say, all the news about this outage is crazy. Emailing random people, strange search indexing, gmail down for 1+ hour! Nutty",1390611986.0
+126,7119348,comment,7119092.0,7119092.0,1,0,wasd,,,I <i>love</i> the project but I don&,
+127,7119347,comment,7114913.0,7116114.0,2,0,dinkumthinkum,,,Because Hacker News? :),1390611969.0
+128,7119346,story,,,1,0,tknaup,Marathon v0.4.0 for Apache Mesos Released,http://mesosphere.io/2014/01/24/marathon-v0.4.0-for-apache-mesos-released/,,1390611912.0
+129,7119344,comment,7104817.0,7106305.0,1,0,paulirish,,,"A full reply from Chrome security on the issue:\n<a href=""https://code.google.com/p/chromium/issues/detail?id=291258",
+130,7119343,story,,,1,0,dominotw,Why GitHub's CEO Ditched Its Divisive 'Meritocracy' Rug – ReadWrite,http://readwrite.com/2014/01/24/github-meritocracy-rug,,
+131,7119342,comment,7116764.0,7117918.0,2,0,shortstuffsushi,,,Pun intended?,1390611795.0
+132,7119341,story,,,1,0,nicoschuele,Speeding up common Git actions,http://qwikgit.nicoschuele.com,,1390611787.0
+133,7119340,comment,7118990.0,7119005.0,4,0,adventured,,,"Same fundamental reason why AWS charges $120 / month for 1tb of bandwidth, and for $5 / month you get 1tb with Digital Ocean - they&",
+134,7119339,comment,7117131.0,7118420.0,2,0,300bps,,,"<i>Link might not be relevant for me, only been doing OT for a couple months, before that had an EMG done and nerve damage was shown to exist.</i><p>Yeah, I had multiple EMGs done on both hands.  Nerve damage in both.  You know when you&",
+135,7119338,comment,7117644.0,7117644.0,5,0,bane,,,"I remember being blown away by the almost print quality of the black and white display on the original Macintosh computers. My family was in printing, and I grew up with an appreciation of finely printed black ink on white paper. Seeing things move on such a crystal clear display, even if it was smaller than a piece of paper, seemed like the future. Even without color, I often preferred to mess around with my friend&",
+136,7119336,story,,,1,0,mindcrime,Walmart Funds Effort To Bring Manufacturing Back To The USA,http://www.industryweek.com/expansion-management/walmart-funds-efforts-bring-manufacturing-back-us,,1390611683.0
+137,7119335,comment,7118496.0,7119228.0,1,0,diziet,,,I&,
+138,7119334,story,,,70,24,panarky,Today’s outage for several Google services ,http://googleblog.blogspot.com/2014/01/todays-outage-for-several-google.html,,1390611661.0
+139,7119333,comment,7117974.0,7118393.0,1,0,nether,,,"I am just wondering if modeling human intelligence is becoming a &quot;coastline of Britain&quot; problem, with more complexity revealed as we progress such that the goal being in sight may be illusory.<p><a href=""https://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F"" rel=""nofollow"">https://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Brita...</a>",1390611607.0

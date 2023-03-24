@@ -1,0 +1,142 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8651002,comment,8650639.0,8650639.0,0,0,jwilliams,,,If you&,
+1,8651001,comment,8650630.0,8650958.0,0,0,Iftheshoefits,,,"No, I&",
+2,8651000,comment,8650483.0,8650483.0,0,0,justintbassett,,,I wonder what the first commits for big sites/projects look like?,1416801449.0
+3,8650999,comment,8650639.0,8650782.0,0,0,pervycreeper,,,"Having only read TFA, I&",
+4,8650998,comment,8650483.0,8650987.0,0,0,jastanton,,,Does anyone know if the structure of git has changed much? I would like to read this thinking this is pretty close to the current implementation but I would have no idea. anyone?,1416801417.0
+5,8650997,comment,8650483.0,8650730.0,0,0,guelo,,,I consider that a bug in their style spec. Single line if statements are known to cause bugs.,1416801416.0
+6,8650996,comment,8650286.0,8650286.0,0,0,justintbassett,,,"Cool idea, but I don&",
+7,8650995,comment,8650981.0,8650981.0,0,0,emeraldd,,,It would be kind of fun to do this as a class or sorts--maybe a simple Flip-Flop circuit or single tube radio ...,1416801317.0
+8,8650994,comment,8650639.0,8650639.0,0,0,palidanx,,,"In addition to serial, I began listening to <a href=""http://www.wnyc.org/shows/deathsexmoney/"" rel=""nofollow"">http://www.wnyc.org/shows/deathsexmoney/</a> which reminds me of a more poignant Terry Gross.",1416801301.0
+9,8650993,comment,8648437.0,8650760.0,0,0,pdkl95,,,"Can I use software written for an release (lets say 0.8.x) of gstreamer, and have it run correctly against a modern release (such as 1.2.x or 1.4.x)?<p>Because that works with th kernel, as it most certainly does have a stable <i>userspace</i> ABI. Internal stability is not a big concern unless you&",
+10,8650992,comment,8650986.0,8650986.0,0,0,kinofcain,,,I&,
+11,8650990,comment,8650639.0,8650835.0,0,0,StavrosK,,,I&,
+12,8650989,comment,8647943.0,8650175.0,0,0,cogburnd02,,,"> for millenia authors just wrote for free.<p>Yes; a good read is &quot;The Surprising History of Copyright and The Promise of a Post-Copyright World&quot; [1] which I think is from Karl Fogel, the author of the (Free, Libre, CC-BY-SA) book &quot;Producing Open Source Software&quot; [2]<p>[1] <a href=""http://questioncopyright.org/promise"" rel=""nofollow"">http://questioncopyright.org/promise</a>\n[2] <a href=""http://producingoss.com"" rel=""nofollow"">http://producingoss.com</a>",1416801254.0
+13,8650988,comment,8649405.0,8650975.0,0,0,houshuang,,,There are lot&,
+14,8650987,comment,8650483.0,8650483.0,0,0,hyp0,,,It&,
+15,8650985,comment,8650483.0,8650919.0,0,0,hyp0,,,"In a thousand years, a git sha-1 collision is going to cause a <i>lot</i> of trouble.",1416801146.0
+16,8650984,comment,8650639.0,8650782.0,0,0,StavrosK,,,If we&,
+17,8650983,comment,8649259.0,8650858.0,0,0,DannyBee,,,"&quot;Given one reason gpu manufacturers use for keeping drivers closed is to avoid patent cases/trolls,&quot;<p>No, this is what they state. IT is of course, not in any way accurate.\nHaving access to source code does nothing for patent trolls, or anyone else.\nThey don&",
+18,8650982,comment,8650921.0,8650939.0,0,0,mikecarroll,,,I have a feeling the lesson at the end of this is going to involve setting longer TTLs.,1416801115.0
+19,8650981,story,,,8,1,emeraldd,Artisanal Vacuum Tubes,http://hackaday.com/2014/11/21/artisanal-vacuum-tubes-hackaday-shows-you-how/,,1416801078.0
+20,8650980,comment,8650103.0,8650371.0,0,0,petegrif,,,I agree.\nCaruana is a freak and he continues to get stronger.,1416801071.0
+21,8650979,comment,8649259.0,8650236.0,0,0,DannyBee,,,The idea that one couldn&,
+22,8650978,comment,8649405.0,8650584.0,0,0,jph00,,,Could you describe what facilities of R help with metaprogramming and make it good for designing DSLs?,1416800997.0
+23,8650977,comment,8647943.0,8650137.0,0,0,e12e,,,Correct. On the command line:<p><pre><code>    ytplay() { youtube-dl &quot;$1&quot; -o - | vlc - ; }\n</code></pre>\nor:<p><pre><code>    ytplay() { youtube-dl &quot;$1&quot; -o - | vlc - ,
+24,8650976,comment,8650103.0,8650839.0,0,0,petegrif,,,IT sounds like an incredible feat even if you are a serious/competitive chess player. And whilst it is indeed the case that &,
+25,8650975,comment,8649405.0,8649405.0,0,0,psychometry,,,Strange that someone who knows about plyr (and is clearly not a beginning R user) is still using &quot;for&quot; loops.,1416800949.0
+26,8650974,comment,8650921.0,8650921.0,0,0,Hackman21,,,"Looks like it is redirecting to &quot;digitalgangster(dot)com) -- Also, DNS shows registrant as &quot;Registrant Name: Steven wynhoff @LulzClerk&quot;",1416800946.0
+27,8650973,story,,,33,5,jmeistrich,Show HN: Moo.do – Text-based task and project organization,http://www.moo.do/,,
+28,8650972,comment,8650483.0,8650919.0,0,0,CUViper,,,"I take that statement to imply &quot;on purpose&quot;, or as part of an attack.  You can&",
+29,8650971,comment,8648437.0,8650742.0,0,0,general_failure,,,I get all that. What I was trying to say is that services that provide REST api&,
+30,8650970,comment,8650921.0,8650921.0,0,0,qhoc,,,"<a href=""http://craigslist.com"" rel=""nofollow"">http://craigslist.com</a> also doesn&",
+31,8650969,comment,8650639.0,8650639.0,0,0,alanfalcon,,,I&,
+32,8650968,comment,8649617.0,8650445.0,0,0,rocky1138,,,The map is toast. I got a notification from the server host that it was consuming hundreds of megabits per second so it was taken down :S<p>The server itself is back up and running though!,1416800873.0
+33,8650966,comment,8650630.0,8650955.0,0,0,durga,,,You could say that about discussion forums too. But reddit and HN would disagree. Quality has to be managed and maintained. It&,
+34,8650965,comment,8650520.0,8650520.0,0,0,davyjones,,,Augmented reality contact lenses.,1416800841.0
+35,8650964,story,,,6,7,mavsman,Ask HN: Is Shark Tank realistic?,,TV shows are sometimes far from how things happen in real life and sometimes they&,
+36,8650963,comment,8649476.0,8650649.0,0,0,kfor,,,"Maybe not in restaurants, but just frying up some string cheese is indeed the easiest way to make your own at home. Tip: freeze them on a cookie sheet after (double-)breading them, that way they won&",
+37,8650962,comment,8650921.0,8650941.0,0,0,mikecarroll,,,It&,
+38,8650961,comment,8649405.0,8650577.0,0,0,peatmoss,,,R absolutely wins on visualization and data manipulation. I&,
+39,8650960,comment,8641867.0,8645856.0,0,0,iandanforth,,,Thanks! I&,
+40,8650959,comment,8650921.0,8650921.0,0,0,general_failure,,,"Yup, hacked.",1416800554.0
+41,8650958,comment,8650630.0,8650945.0,0,0,durga,,,If you are saying that density of jobs posted varies by region I totally agree - that sounds reasonable. I don&,
+42,8650957,comment,8649405.0,8650696.0,0,0,jghn,,,R &quot;as a language&quot; is <i>much</i> easier if you don&,
+43,8650956,comment,8650483.0,8650758.0,0,0,TheEzEzz,,,This sounds really neat. Can you drop a link? I browsed around but couldn&,
+44,8650955,comment,8650630.0,8650630.0,0,0,mc32,,,"I imagine if it become mainstream, it&",
+45,8650954,comment,8649405.0,8650754.0,0,0,Gatsky,,,"+1 for dplyr. Really helpful, responsive community around it as well.",1416800434.0
+46,8650953,story,,,1,0,remotorboater,"Tourist fined $30,000 for tagging Colosseum",http://www.sbs.com.au/news/article/2014/11/23/tourist-fined-30000-tagging-colosseum?,,1416800421.0
+47,8650952,story,,,302,133,adamnemecek,"On Linux, 'less' can probably get you owned",http://seclists.org/fulldisclosure/2014/Nov/74,,1416800385.0
+48,8650951,comment,8649402.0,8649814.0,0,0,rsync,,,"Exactly.  I read through the page twice trying to simply determine &quot;is this interesting to me at all&quot;.<p>No, it&",
+49,8650950,comment,8649405.0,8650929.0,0,0,jghn,,,Thanks but I haven&,
+50,8650949,comment,8650126.0,8650416.0,0,0,jzelinskie,,,"By noise, do you mean something like a grain filter? If so, that blows up the size of x264 encodes as well -- enough that people will usually go out of their way to remove said grain to improve the encode.",1416800237.0
+51,8650948,comment,8649579.0,8650845.0,0,0,derekp7,,,"For myself, I&",
+52,8650947,comment,8650405.0,8650777.0,0,0,duncan_bayne,,,"From what I saw when my colleague spilled a drink on a MacBook Air, Apple has a similar system.  It&",
+53,8650946,comment,8650520.0,8650520.0,0,0,dibillilia,,,Capable graphing calculators for less than 50 dollars.,1416800073.0
+54,8650945,comment,8650630.0,8650872.0,0,0,Iftheshoefits,,,Certainly AL doesn&,
+55,8650944,story,,,1,0,adamnemecek,Building with Ember.js at Yahoo,http://www.talentbuddy.co/blog/building-with-ember-js-at-yahoo,,1416800055.0
+56,8650943,comment,8650921.0,8650939.0,0,0,marcinx27,,,A whois on craigslist.org shows that it was updated today.,1416800040.0
+57,8650942,comment,8649476.0,8650412.0,0,0,armenarmen,,,"Armenian here, yep we were doing it &",
+58,8650941,comment,8650921.0,8650921.0,0,0,marcinx27,,,"I saw this, too.  If you can get a little deeper into cl, ex. boston.cragislist.org/i/apartments or boston.craigslist.org/search/aap, you get a Microsoft Frontpage site with the title &quot;digital gangster for life&quot;.",1416800003.0
+59,8650940,comment,8650630.0,8650933.0,0,0,durga,,,Yeah. Case by case.,1416799984.0
+60,8650939,comment,8650921.0,8650921.0,0,0,mikecarroll,,,Maybe somebody hijacked their DNS?,1416799980.0
+61,8650938,comment,8612025.0,8612698.0,0,0,bcjordan,,,"Check out the book Traction, it&",
+62,8650937,story,,,2,0,remotorboater,The Coworking Secret to Killer Productivity,http://artofthekickstart.com/coworking-secret-killer-productivity/,,1416799973.0
+63,8650935,comment,8650630.0,8650930.0,0,0,durga,,,I&,
+64,8650934,story,,,1,0,brunooo,Why Bank Regulation Is Hard,http://www.bloombergview.com/articles/2014-11-21/new-york-fed-didn-t-want-goldman-sachs-to-embarrass-itself,,1416799937.0
+65,8650933,comment,8650630.0,8650857.0,0,0,DTrejo,,,When they aren&,
+66,8650932,comment,8649237.0,8649237.0,0,0,mrmondo,,,Gave up waiting for the website to load after 30 seconds or so?,1416799879.0
+67,8650930,comment,8650630.0,8650911.0,0,0,walterbell,,,Did any of your applicants explain why they listed on AngelList instead of other sites?,1416799853.0
+68,8650929,comment,8649405.0,8650688.0,0,0,Gatsky,,,"Thanks for your work with BioC, it&",
+69,8650928,comment,8650630.0,8650912.0,0,0,durga,,,Fixed.,1416799814.0
+70,8650927,comment,8647943.0,8649249.0,0,0,e12e,,,I&,
+71,8650926,story,,,1,0,austinz,North Dakota: Where Oil and Politics Mix,http://www.nytimes.com/interactive/2014/11/24/us/north-dakota-oil-boom-politics.html,,1416799785.0
+72,8650925,comment,8650483.0,8650734.0,0,0,userbinator,,,There&,
+73,8650924,comment,8650871.0,8650871.0,0,0,bootload,,,"bonus, includes <i>&quot;Adam Spencer Why I fell in love with monster prime numbers&quot;</i>. Another worthy of this list: <i>&quot;Los Alamos From Below&quot;</i>, Richard Feynman ~ <a href=""http://www.youtube.com/watch?v=0ogSC6JKkrY"" rel=""nofollow"">http://www.youtube.com/watch?v=0ogSC6JKkrY</a>",1416799746.0
+74,8650923,story,,,3,0,Fjolsvith,Silicon Valley's culture of liquid amorality – water will find its way,http://www.zdnet.com/silicon-valleys-culture-of-liquid-amorality-water-will-find-its-way-7000036075/,,1416799736.0
+75,8650922,comment,8650483.0,8650865.0,0,0,sjwright,,,I&,
+76,8650921,story,,,14,13,mikecarroll,Has Craigslist been hacked?,http://craiglist.org/,Removed the link to Craigslist.org so that people wouldn&,
+77,8650920,comment,8648835.0,8648835.0,0,0,Wogef,,,">Large parts of China are still a developing economy. If you’re illiterate, you can’t type, so enabling users to speak to us is critical for helping them find information.<p>Baidu needs voice search because so many Chinese are illiterate? WTF! This is an incredibly bizarre statement.<p>He&",
+78,8650919,comment,8650483.0,8650671.0,0,0,beagle3,,,"According to the Wikipedia entry[0], &quot;No actual collisions have yet been produced&quot;, github or otherwise. The NSA might have produced them, but publicly non have been found, and it&",
+79,8650917,comment,8646781.0,8647977.0,0,0,libria,,,"Eh, not really comparable to Dropcam.  Dropcam is more about &quot;out of the box, it just works&quot; type of experience + its hosted webservice with infrared assisted night vision and motion alerts for user defined zones.  Really, my mom could set it up.  Pretty sure she couldn&",
+80,8650916,comment,8650405.0,8650405.0,0,0,runjake,,,"Look at a Surface Pro 3. And definitely not a Macbook Pro like people are recommending -- for a variety of reasons: driver quality, needless frustration with Apple software, etc etc.",1416799511.0
+81,8650915,comment,8650483.0,8650645.0,0,0,Sevein,,,Good memory!,1416799499.0
+82,8650914,comment,8650483.0,8650859.0,0,0,kazinator,,,"Version control systems are self-hosting when they are used to manage the primary repository of their own source code. This shows confidence because if the program breaks, then it breaks its own configuration management, which could be a headache to unravel. For example if the repository format changes, then the change has to be managed so that the old versions remain accessible through the new version of the software. If this is not managed, and old compiled binaries of the version control system disappear from existence, then it may become impossible to recover the old sources.<p>Thus, successfully self-hosting a version control system is some measure of evidence that the developers know what they are doing and can manage the changes. (And thus they understand change management and we can trust them to be working on version control software.)<p><a href=""http://en.wikipedia.org/wiki/Self-hosting"" rel=""nofollow"">http://en.wikipedia.org/wiki/Self-hosting</a><p><i>&quot;Other programs [than compilers] that are typically self-hosting include kernels, assemblers, command-line interpreters and revision control software.</i>",1416799448.0
+83,8650913,comment,8650639.0,8650639.0,0,0,dankohn1,,,Serial has been an immensely satisfying listening experience. I now look forward to Thursday mornings for it to come out.,1416799438.0
+84,8650912,comment,8650630.0,8650891.0,0,0,durga,,,We tested on chrome. That&,
+85,8650911,comment,8650630.0,8650848.0,0,0,durga,,,Very much so. Getting so many high quality applications in such a short time is not disruptive to the recruiting industry. Then what is?<p>If you&,
+86,8650910,story,,,3,0,bootload,27 years ago: A powerful video prankster could become Max Jailroom,http://articles.chicagotribune.com/1987-11-24/news/8703280602_1_max-headroom-video-pirate-wgn,,1416799167.0
+87,8650909,comment,8650126.0,8650126.0,0,0,rossy,,,"> In addition, we have added the FDK AAC encoder for Windows and Linux as a optional compile-time option.<p>It&",
+88,8650908,story,,,3,0,mathgenius,Interstellar’s dangling wormholes,http://www.scottaaronson.com/blog/?p=2040,,1416799138.0
+89,8650907,comment,8649237.0,8650013.0,0,0,necrodawg,,,I use circleci every day. My test suite is pretty big so I run them with 12x parallel and it takes about 5-8 minutes. On peak hour I almost always have failing tests because something on circleci&,
+90,8650906,comment,8650639.0,8650639.0,0,0,ckuehl,,,"A quick plug: for those who enjoy Serial, there&",
+91,8650905,comment,8650585.0,8650718.0,0,0,diversewhat,,,"Not exactly an article, but here&",
+92,8650904,story,,,37,30,Pharohbot,Superfast asm.js benchmarks of V8 TurboFan,http://arewefastyet.com/,,
+93,8650903,comment,8650483.0,8650698.0,0,0,jmount,,,C has potentially ambiguous association on nested &quot;else&quot;s.  The habit of too many braces is a safety.,1416799090.0
+94,8650902,comment,8650483.0,8650875.0,0,0,jeffreyrogers,,,"Yes, that&",
+95,8650901,comment,8649534.0,8650672.0,0,0,hollerith,,,>Does anyone know if you can boot Plan 9 in text mode?<p>It is very unlikely that you can use Plan 9 with the video card literally in text mode.<p>>When I tried to run Plan 9 in a VM I gave up because I couldn&,
+96,8650900,comment,8648737.0,8648737.0,0,0,stillsut,,,When <i>not</i> open-source is okay:<p>Basically hardware. Say you&,
+97,8650899,comment,8649476.0,8650439.0,0,0,exhilaration,,,Trader Joe&,
+98,8650898,story,,,3,0,NickSarath,"Facebook Is Testing ‘Facebook at Work’, to Roll Out in a Few Months",http://techcrunch.com/2014/11/17/source-facebook-is-testing-facebook-at-work-separately-hosted-version-to-roll-out-in-a-few-months/?ncid=rss&cps=gravity,,1416798896.0
+99,8650897,comment,8650483.0,8650698.0,0,0,alexvr,,,Most C-inspired languages (most popular programming languages) allow this. The only ones I&,
+100,8650896,story,,,2,0,denismars,5 future forecasts that will change the world,http://hplusmagazine.com/2014/01/02/5-future-forecasts-that-will-change-the-world/,,1416798865.0
+101,8650895,story,,,184,132,mkonecny,GitHub dropped Pygments,http://www.greghendershott.com/2014/11/github-dropped-pygments.html,,1416798861.0
+102,8650894,story,,,1,0,softdev12,The Hassle of ‘Hands Free’ Car Tech,http://online.wsj.com/articles/the-hassle-of-hands-free-car-tech-1416789679,,1416798837.0
+103,8650893,comment,8650585.0,8650585.0,0,0,gsiener,,,"I suspect that if this were to become a real thing, the novelty would wear off and people would return to their old habits, right?",1416798799.0
+104,8650892,comment,8635466.0,8636601.0,0,0,simplexion,,,You could have had day view up and quickly swiped through the days for the week. Don&,
+105,8650891,comment,8650630.0,8650866.0,0,0,raquo,,,It&,
+106,8650890,comment,8649617.0,8650075.0,0,0,rocky1138,,,I think my server host blocked port 8123 after this hit the front page :),1416798712.0
+107,8650889,comment,8650126.0,8650849.0,0,0,bphogan,,,Maybe I don&,
+108,8650888,comment,8620075.0,8620075.0,0,0,jhrobert,,,I wrote quite a lot of TurboProlog code for a while some 25 years ago. I always wondered why there were no syntax sugar for nested &,
+109,8650887,comment,8649143.0,8650879.0,0,0,michaelsbradley,,,"Ah, good point, thanks for the link.",1416798653.0
+110,8650886,comment,8650483.0,8650483.0,0,0,jordigh,,,"Well, while we&",
+111,8650884,comment,8649405.0,8650438.0,0,0,eevilspock,,,I&,
+112,8650883,comment,8649405.0,8650580.0,0,0,bachmeier,,,"In my experience teaching R, the single biggest issue is that it is a dynamic language that is in love with silent casting [or really returning objects with unexpected types]. Although other bugs might be more common, none will frustrate the user more than the type of a variable changing without warning, and most of the time the error message refers to something else.<p>A couple of examples are stripping the time series attributes of a ts object and default conversion of a row of a matrix to a vector. These are the cases where they come to my office and say they have no idea what&",
+113,8650882,comment,8650103.0,8650810.0,0,0,bluecalm,,,"Computer programs are way stronger than humans but competition between them is still fierce and there is still long way to go until perfection. Current most known computer chess tournament: <a href=""http://tcec.chessdom.com/live.php"" rel=""nofollow"">http://tcec.chessdom.com/live.php</a><p>You can browse through the games... a lot is happening, maybe more than in human chess :)",1416798482.0
+114,8650881,comment,8649534.0,8650194.0,0,0,protomyth,,,I mean no disrespect but sampo&,
+115,8650880,comment,8650405.0,8650834.0,0,0,rossy,,,"Yeah, you&",
+116,8650879,comment,8649143.0,8650863.0,0,0,omaranto,,,You mean Clojure&,
+117,8650878,comment,8650103.0,8650851.0,0,0,billforsternz,,,"Thank you, I love it when people say things like that! As I type this I am working on a massive upgrade that will introduce nice database features without bloating out the program (I hope).",1416798444.0
+118,8650877,comment,8648872.0,8650457.0,0,0,autokad,,,"goldman bought tons of insurance on bad loans (loans it didnt own).  it was gambling they would go bad, but part of that gamble was that the issuer (AIG for example) could pay up.  they couldnt, until the government stepped in and made sure that 100 cents to the dollar was paid on those gambling notes.  without that, goldman would have failed",1416798426.0
+119,8650876,comment,8650867.0,8650867.0,0,0,jordigh,,,"The interesting bits about the revlog data store start here:<p><a href=""http://selenic.com/hg/rev/0",
+120,8650875,comment,8650483.0,8650859.0,0,0,jonesetc,,,Overloading the term. The OP presumably meant that the source for git was under git source control.,1416798399.0
+121,8650874,story,,,1,0,lcuff,The Interview: Joni Mitchell,http://www.macleans.ca/society/the-interview-joni-mitchell/,,1416798370.0
+122,8650873,comment,8650630.0,8650852.0,0,0,durga,,,Congrats,1416798323.0
+123,8650872,comment,8650630.0,8650857.0,0,0,durga,,,AL doesn&,
+124,8650871,story,,,3,1,denismars,Math talks to blob your mind,http://www.ted.com/playlists/189/math_talks_to_blow_your_mind,,1416798295.0
+125,8650870,comment,8648872.0,8650402.0,0,0,doseofreality,,,It surely would have been catastrophe for GS and that&,
+126,8650869,comment,8650103.0,8650553.0,0,0,bluecalm,,,and my favourite from the same guy:\n&quot;I&,
+127,8650868,comment,8650252.0,8650252.0,0,0,Gobd,,,"These articles never mention the option of buying a regular used car. What if I buy a used Honda Civic for $8,000, a car like that can easily last 10 years, and beat every car in their table on total 5 year cost even with thousands in repairs.<p>Also they mention 18% loss of battery pack capacity in only 2 years. It seems like someone might want to buy a new battery pack after 5 years and I wonder how much that would cost. I really want to buy an electric car, but they just don&",
+128,8650867,story,,,1,1,jordigh,Mercurial's initial commit,http://selenic.com/hg/rev/0,,1416798214.0
+129,8650866,comment,8650630.0,8650796.0,0,0,durga,,,Didn&,
+130,8650865,comment,8650483.0,8650590.0,0,0,derekp7,,,"If I recall, Linus was highly pissed at the time he wrote GIT.  Lots of his comments at the time were meant as a slam against the guy who was reverse-engineering the Bitkeeper protocol, which resulted in the license for Bitkeeper getting yanked for the kernel project.  I wonder if Linus is still angry with Tridgell?",1416798173.0
+131,8650864,comment,8650630.0,8650848.0,0,0,durga,,,You&,
+132,8650863,comment,8649143.0,8650844.0,0,0,michaelsbradley,,,"The startup-time/overhead of Clojure/JVM make it a not so great choice for command-line scripting.<p>In general, sure, it&",
+133,8650862,comment,8648872.0,8648872.0,0,0,autokad,,,I had taken notice of how GS and MS &,
+134,8650861,comment,8648737.0,8650502.0,0,0,simi_,,,> catb.org<p>It took me a while to get why the site&,
+135,8650860,comment,8649579.0,8649858.0,0,0,dkei,,,"Google is not an &quot;advertising agency&quot;, that is a specific thing. What they are is a mainly ad supported medium which is what most internet services are, same as TV/Radio/Newspapers/Mags etc.<p>Airing out philosophical and theoretical disagreements with the ad model is merely a rationalization after the fact in this situation.",1416798083.0
+136,8650859,comment,8650483.0,8650746.0,0,0,TazeTSchnitzel,,,How can something that isn&,
+137,8650858,comment,8649259.0,8649259.0,0,0,StringyBob,,,"Given one reason gpu manufacturers use for keeping drivers closed is to avoid patent cases/trolls, can prosecution lawyers use leaked IP as a basis for a patent case?\nWould that then lead to a counter-suit for illegal ip access?<p>In particular I&",
+138,8650857,comment,8650630.0,8650630.0,0,0,Iftheshoefits,,,"The last time I looked at them, the salaries and equity shares advertised on many of their job listings were mostly chuckle-worthy at best. Some were appallingly lowball. If they&",
+139,8650856,comment,8649264.0,8649264.0,0,0,arfar,,,Is this for US residents only?,1416798049.0
+140,8650854,comment,8648737.0,8650312.0,0,0,lookACamel,,,And what exactly is so bad about his advice?,1416798029.0

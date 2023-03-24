@@ -1,0 +1,103 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10531588,story,,,13,0,001sky,Comcast memo admits data caps are not about improving network performance,https://www.theverge.com/smart-home/2015/11/7/9687976/comcast-data-caps-are-not-about-fixing-network-congestion,,1447048743.0
+1,10531587,comment,10531229.0,10531229.0,0,0,jzwinck,,,It is horrible what happened to the author&,
+2,10531586,comment,10508494.0,10510971.0,0,0,ossreality,,,:) I don&,
+3,10531585,comment,10525582.0,10531503.0,0,0,userbinator,,,<i>But not having something when you think you do is by far the most common class of errors.</i><p>In all the things I&,
+4,10531584,comment,10525582.0,10531358.0,0,0,aidenn0,,,Funny story: a customer porting from an OS that didn&,
+5,10531583,comment,10529533.0,10529533.0,0,0,drited,,,The argument that low margins are an indicator of inability to charge higher prices or declining brand strength doesn&,
+6,10531582,comment,10531046.0,10531516.0,0,0,vacri,,,One other thing to remember in discussions around torture is that the &quot;ticking bomb&quot; situation simply doesn&,
+7,10531581,comment,10531127.0,10531417.0,0,0,nkurz,,,"Oops.  That makes more sense now that you point it out.  I thought they were just little scrolling arrows, and never understood why they didn&",
+8,10531580,comment,10531046.0,10531046.0,0,0,klausvanvinkle,,,"Whether torture is right/wrong good/bad boils down very simply.<p>First, let&",
+9,10531579,comment,10529716.0,10529716.0,0,0,taspeotis,,,Here&,
+10,10531578,comment,10531256.0,10531458.0,0,0,Houshalter,,,"Humans can be easily fooled too: <a href=""https://en.wikipedia.org/wiki/Optical_illusion"" rel=""nofollow"">https://en.wikipedia.org/wiki/Optical_illusion</a><p>Anyway this issue has been explained and fixed somewhat in this paper: <a href=""http://arxiv.org/abs/1412.6572"" rel=""nofollow"">http://arxiv.org/abs/1412.6572</a><p>And karpathy has a post which explains it: <a href=""https://karpathy.github.io/2015/03/30/breaking-convnets/"" rel=""nofollow"">https://karpathy.github.io/2015/03/30/breaking-convnets/</a>",1447048505.0
+11,10531577,comment,10531046.0,10531046.0,0,0,chroma,,,"I think torture should be illegal and I think the &quot;enhanced interrogation&quot; techniques used at Guantanamo are abhorrent. But I also think there are real-world scenarios in which torture is not only moral, but where it would be <i>immoral</i> <i>not</i> to torture. This sounds absurd, but consider this real-life case given in The Stanford Encyclopedia of Philosophy[1]: A woman&",
+12,10531576,comment,10529021.0,10531088.0,0,0,contingencies,,,"I agree with your analysis. I truly hope that people motivated to make a difference by enabling distributed resistance to censorship of centralized communications infrastructure can see the wisdom in investing time to develop the wifi mesh capability for FirefoxOS or Android. Once a major platform has this functionality, it will spread. I wrote a fairly long paper about ideas in this space over here: <a href=""https://bug945047.bugzilla.mozilla.org/attachment.cgi?id=8407268"" rel=""nofollow"">https://bug945047.bugzilla.mozilla.org/attachment.cgi?id=840...</a>",1447048452.0
+13,10531575,comment,10531127.0,10531254.0,0,0,Johnny555,,,"Thank you, I was thinking the same thing. I followed the graph twice and thought I was doing it wrong before I mentally divided 325 by 7 to find that it&",
+14,10531574,story,,,3,1,qzervaas,"Volkswagen's US sales go up in October, despite diesel emissions scandal",http://www.theverge.com/2015/11/3/9663734/volkswagen-diesel-emissions-scandal-october-sales-rise,,1447048389.0
+15,10531573,comment,10525582.0,10531499.0,0,0,dllthomas,,,I definitely agree that many of the proposed cures are worse than the disease.,1447048345.0
+16,10531572,comment,10529820.0,10529820.0,0,0,postila,,,"There is also interesting new module pg_stat_wait that enables LWLocks monitoring (as well as other types of locks), it is already used in mail.yandex.ru (the 2nd largest email service in Russia).\nHowever the module requires Postgres be patched <a href=""https://github.com/postgrespro/postgres/tree/waits_monitoring_94"" rel=""nofollow"">https://github.com/postgrespro/postgres/tree/waits_monitorin...</a>\nRelated discussion in -hackers: <a href=""http://www.postgresql.org/message-id/flat/3F71DA37-A17B-4961-9908-016E6323E612@postgrespro.ru",
+17,10531571,comment,10531412.0,10531412.0,0,0,unimpressive,,,"Duplicate: <a href=""https://news.ycombinator.com/item?id=10437485"" rel=""nofollow"">https://news.ycombinator.com/item?id=10437485</a>",1447048287.0
+18,10531570,story,,,4,0,bumbledraven,Data Science Tutorials,https://www.topcoder.com/community/data-science/data-science-tutorials/,,1447048282.0
+19,10531569,comment,10531127.0,10531265.0,0,0,piAcceptor,,,"Well.. Why does it, then?!",1447048282.0
+20,10531568,comment,10531229.0,10531531.0,0,0,jonny_eh,,,"If this can be considered &quot;self-critical&quot;, then that speaks to the trustworthiness of the &quot;publication&quot;.",1447048266.0
+21,10531567,story,,,39,1,srunni,The Gene Hackers,http://www.newyorker.com/magazine/2015/11/16/the-gene-hackers,,1447048253.0
+22,10531566,comment,10529681.0,10531537.0,0,0,_dps,,,"The calibration cost is trivial compared to the coefficient learning cost. Very roughly, calibration is O(records) whereas coefficient learning is O(records * features). So the tiny add-on cost of calibration shouldn&",
+23,10531564,comment,10525957.0,10531392.0,0,0,dang,,,Please stop.,1447048183.0
+24,10531563,comment,10525582.0,10531525.0,0,0,mikeash,,,"And when do you expect a NULL value? If you use an optional type, then you expect a NULL value if and only if the type in question is an optional. If you forget the check, or if you check a value that can&",
+25,10531561,comment,10530901.0,10530901.0,0,0,DrScump,,,This is a classic example of &quot;consider the source&quot;.  It is poorly researched and has some outright falsehoods:<p>1) &quot;Even though smart guns are widely available overseas...&quot;   Really?  I&,
+26,10531560,comment,10530983.0,10531350.0,0,0,frik,,,Kibana is in incredible heavy weight in comparision to other dashboards like e.g. Grafana. Kibana loads like 4MB+ of JS and data. It is designed for intranet usage where your Elastic Search cluster is near you.,1447047899.0
+27,10531559,comment,10529634.0,10531376.0,0,0,geocrasher,,,Yup some of them were fine. It was only certain capacity disks that had the issue. They solved the primary problem eventually. By then the reputation was already tarnished. &quot;Death Star&quot;.,1447047829.0
+28,10531558,comment,10527070.0,10527070.0,0,0,syllogism,,,"I lost a bunch of money on this.<p>The thing that galls me is that they massively exceeded their funding target, but still couldn&",
+29,10531557,comment,10525957.0,10531438.0,0,0,dang,,,That&,
+30,10531556,comment,10529634.0,10529634.0,0,0,jloughry,,,I wonder how many bits each particle of dust represented?,1447047745.0
+31,10531554,comment,10525582.0,10531420.0,0,0,mirimir,,,They&,
+32,10531553,comment,10531046.0,10531046.0,0,0,bayesianhorse,,,"&quot;People Are willing to forgo money to talk to others about themselves.&quot;<p>A rationale for psychotherapy! (Not that there are no other benefits, of course)",1447047685.0
+33,10531552,comment,10530983.0,10531350.0,0,0,meowface,,,"After many years of using Splunk at my job, switching to ELK for personal project use was quite a disappointment for me. Of course, ELK is free and Splunk is very expensive, but I was still surprised at the gap.<p>This might be derailing the thread a bit, but is there any log management platform like ELK or Splunk that has an expressive and versatile query language like Splunk&",
+34,10531551,comment,10524438.0,10531513.0,0,0,sohkamyung,,,Agreed. I&,
+35,10531550,comment,10529716.0,10531380.0,0,0,Animats,,,"Deregulated utilities will figure out some new way to screw their customers.  Probably &quot;plans&quot;, like cellular, where you pay a flat rate plus overage charges plus surge pricing, but have unlimited off-peak kilowatts up to your feeder capacity.",1447047508.0
+36,10531548,story,,,1,0,cskau,BoringSSL (2014),https://www.imperialviolet.org/2014/06/20/boringssl.html,,1447047473.0
+37,10531546,comment,10531127.0,10531519.0,0,0,dllthomas,,,Of course not - my bad!,1447047408.0
+38,10531545,comment,10526729.0,10530516.0,0,0,bootload,,,<i>&quot;They&,
+39,10531543,comment,10531127.0,10531482.0,0,0,stevebmark,,,"Clear, simple communication is a skill that takes time and practice to develop! Pointing out that you&",
+40,10531542,comment,10529278.0,10531309.0,0,0,nitrogen,,,"From the linked page describing the bug:<p>> This might be exploitable if the attacker could arrange for UCSWIDE to be in memory somewhere near a sensitive data structure.<p>Crashes are <i>very</i> frequently capable of being exploited, to the point that every crashing bug should be treated as a security vulnerability.  At the very least, it&",
+41,10531541,comment,10530983.0,10531235.0,0,0,dang,,,"Ok, we changed the title to use representative language from the article.<p>Btw, this article was heavily flagged. It&",
+42,10531540,comment,10531427.0,10531427.0,0,0,nness,,,"In my experience its still a requirement. On the opposite side, &quot;Hangouts On Air&quot; requires a YouTube account to be created and associated with your G+ account if you want to broadcast.",1447047254.0
+43,10531539,comment,10525693.0,10531329.0,0,0,meowface,,,Philosophical whining isn&,
+44,10531537,comment,10529681.0,10531176.0,0,0,otabdeveloper,,,> but in practice it should always be combined with a calibration algorithm (which add a trivial O(n) cost to the process).<p>Why not just use logistic regression at this point? The only benefit of Naive Bayes over logistic regression is that Naive Bayes is simpler to code.,1447047174.0
+45,10531536,comment,10525693.0,10531296.0,0,0,meowface,,,"Yeah, this article presents attempts to prevent a philosophical argument for why the MWI is inherently illogical, but fails miserably.<p>His point about it being an untestable theory, and one which has no particular empirical evidence, is valid, though.",1447047167.0
+46,10531535,comment,10529533.0,10531402.0,0,0,Scuds,,,2001 is fourteen years ago and Hyundai/Kia have been making dramatic strides in design and quality since then.<p>Reputations going back 15 - 30 years have little bearing on what&,
+47,10531534,comment,10529297.0,10530877.0,0,0,nostrademons,,,"The equivalent of the $30K analogue watch is the $17K Apple Watch Edition.  Most smartwatches come with analogue watchfaces standard, but it&",
+48,10531533,comment,10531046.0,10531046.0,0,0,larrysalibra,,,Torture isn&,
+49,10531532,comment,10525582.0,10531484.0,0,0,johncolanduoni,,,"Well, the answer to that is somewhat complicated. In Rust, a raw pointer has the same semantics of a C pointer. Could be null, could point to nowhere, the object pointed to could live temporarily, could live forever etc. However, there aren&",
+50,10531531,comment,10531229.0,10531229.0,0,0,jimjimjam,,,Beyond the raw and heartbreaking nature of the author&,
+51,10531530,comment,10531168.0,10531168.0,0,0,hackerboos,,,"6 grand and they come back up? [1]<p>[1] - <a href=""http://arstechnica.com/security/2015/11/crypto-e-mail-service-pays-6000-ransom-gets-taken-out-by-ddos-anyway/"" rel=""nofollow"">http://arstechnica.com/security/2015/11/crypto-e-mail-servic...</a>",1447047017.0
+52,10531529,comment,10530897.0,10531299.0,0,0,chenster,,,"Lyft realized this and decided to partner with Didi to get market share  <a href=""http://www.wired.com/2015/09/lyft-didi-kuaidi/"" rel=""nofollow"">http://www.wired.com/2015/09/lyft-didi-kuaidi/</a>. It&",
+53,10531528,comment,10526159.0,10531495.0,0,0,alexgartrell,,,I totally disagree.  I&,
+54,10531527,comment,10529681.0,10530413.0,0,0,otabdeveloper,,,"No, not quite. _All_ classification algorithms use &quot;reasoning on the average&quot;. (A.k.a. &quot;statistics&quot;.)<p>Naive Bayes is a poor classifier because it ignores conditional dependency: when having feature A raises the odds, having feature also B raises the odds, but having features A and B together lowers the odds.",1447046974.0
+55,10531526,comment,10529533.0,10530769.0,0,0,adventured,,,The real problem with what&,
+56,10531525,comment,10525582.0,10531278.0,0,0,userbinator,,,<i>One is that it&,
+57,10531524,comment,10525582.0,10531249.0,0,0,mirimir,,,SELECT * FROM bar WHERE foo IS NOT NULL AND foo NOT IN (SELECT foo FROM tabl),1447046892.0
+58,10531523,story,,,1,0,prateekbansal,Personal Bookmarking Tool,http://www.mybookmarks.io,,1447046833.0
+59,10531522,comment,10525957.0,10530488.0,0,0,tertius,,,"I see that it was confusing.<p>> And minimum wage here, is really the bottom end of what would be considered middle class.<p>Should be:<p>> And minimum wage here, is really the bottom end of what would be considered middle class there.",1447046809.0
+60,10531521,comment,10531046.0,10531046.0,0,0,rjtobin,,,"About 4 years ago I went to a talk given by the author of the book, the subject was along the same lines as the book:  how torture is ineffective because it damages the subject&",
+61,10531520,comment,10516335.0,10517562.0,0,0,wmoser,,,I haven&,
+62,10531519,comment,10531127.0,10531471.0,0,0,areyousure,,,The minimum DFA does not correspond in any particular sense to a minimal regular expression.,1447046755.0
+63,10531518,comment,10509077.0,10509077.0,0,0,xyzing,,,awesome :),1447046747.0
+64,10531517,comment,10525957.0,10530686.0,0,0,tertius,,,I&,
+65,10531516,comment,10531046.0,10531046.0,0,0,nickff,,,"My question to anyone who believes this article to be correct is whether they would have found the same sources and type of evidence credible if it had produced the contrary result.  If the answer is no, it shows that you should not expect this article to convince any of your intellectual opponents.<p>For the record, I am not sure whether torture works or is morally justified in the circumstances where it has been applied over the last 20 years, but I find this article entirely unconvincing.",1447046710.0
+66,10531515,comment,10531046.0,10531046.0,0,0,NN88,,,I&,
+67,10531514,comment,10531127.0,10531448.0,0,0,areyousure,,,"Of course, there is a shortest equivalent regular expression, but in general it&",
+68,10531513,comment,10524438.0,10524438.0,0,0,binarycrusader,,,"If you enjoyed this article, consider supporting the author on Patreon:<p><a href=""https://www.patreon.com/DigitalAntiquarian?ty=h"" rel=""nofollow"">https://www.patreon.com/DigitalAntiquarian?ty=h</a><p>Jimmy has done a non-trivial amount of work in bringing high-quality articles about past gaming history and shared them for free with everyone.",1447046658.0
+69,10531512,comment,10527070.0,10527070.0,0,0,derekja,,,<i>shrug</i> this is kind of in the same category as glowing plant - didn&,
+70,10531511,comment,10525582.0,10531404.0,0,0,KayEss,,,If that&,
+71,10531510,comment,10529716.0,10531395.0,0,0,voltagex_,,,"Pollution from coal-fired power plants is pretty bad for you, too.",1447046632.0
+72,10531509,story,,,1,0,somecoder,Basic Routing in PHP with AltoRouter,https://longren.io/basic-routing-in-php-with-altorouter/,,1447046618.0
+73,10531508,comment,10531046.0,10531390.0,0,0,jleader,,,"If torture makes you willing, doesn&",
+74,10531507,comment,10529467.0,10530044.0,0,0,tertius,,,Are you objecting on the grounds that this speech is offensive to non-graduates or that it&,
+75,10531506,story,,,1,0,Worksnaps,Your Time Is Your Product – Track and Bill Accordingly,http://blog.worksnaps.com/2013/02/11/your-time-is-your-product-track-and-bill-accordingly/,,1447046531.0
+76,10531505,comment,10529716.0,10531263.0,0,0,suneilp,,,Solar panels would have to be maintained rigorously for any leakages. Some of the chemicals in them are not so good for us.,1447046515.0
+77,10531503,comment,10525582.0,10531499.0,0,0,hawkice,,,"Yes, NULL means the lack of something. Very simple. But not having something when you think you do is by far the most common class of errors. So if you are always clear about the fact you either WILL have something or MAY have something (instead of it being hidden), you can write software that you are more confident in, and (hopefully) crashes with completely opaque errors less frequently. [This is why I happen to completely agree w.r.t. Null objects -- I don&",
+78,10531502,comment,10529467.0,10529994.0,0,0,tertius,,,You are correct.,1447046427.0
+79,10531501,comment,10529532.0,10531012.0,0,0,bigger_cheese,,,I&,
+80,10531499,comment,10525582.0,10525582.0,0,0,userbinator,,,NULL/zero is a <i>very</i> simple concept. It means the lack of something. C/C++&,
+81,10531497,comment,10525052.0,10528651.0,0,0,PhasmaFelis,,,It was a campus squirrel. They&,
+82,10531496,comment,10529763.0,10530878.0,0,0,ThomPete,,,The insight is that technology is natural. That&,
+83,10531495,comment,10526159.0,10531416.0,0,0,asveikau,,,There are large projects that handle OOM and it isn&,
+84,10531494,comment,10531327.0,10531327.0,0,0,znpy,,,This is spam in italian... LOL ?,1447046111.0
+85,10531493,comment,10528791.0,10529182.0,0,0,justinator,,,"> When the mouse is moved very rapidly, the mouse blinker gets big like Godzilla in order to maintain visibility.<p>That happens in OS X El Capitan presently.",1447045971.0
+86,10531492,comment,10530454.0,10530454.0,0,0,fiatmoney,,,"A good, if brief, book on the lead-up to reunification is &quot;The Fall of the GDR: Germany&",
+87,10531491,comment,10529681.0,10530715.0,0,0,mrdrozdov,,,Have you tried a Perceptron or MaxEnt model for your medical data? They&,
+88,10531490,comment,10529716.0,10531214.0,0,0,ridgeguy,,,"In Texas, I guess every wind generator should come with a bitcoin miner that turns on whenever electrical load falls short of generated power. New revenue source for the utility!",1447045767.0
+89,10531489,story,,,14,0,adventured,US Starts Making New Plutonium-238 Fuel for Deep Space Missions,http://www.forbes.com/sites/williampentland/2015/11/08/peak-plutonium-238-u-s-starts-making-nuclear-fuel-for-deep-space-missions/,,1447045722.0
+90,10531488,comment,10531127.0,10531127.0,0,0,gizmo686,,,"I had some fun reverse engineering that. Here is my take at how it works.<p>Label all of the nodes 0 through 6, starting with making the white node 0, and following the black arrows. We can consider each of these nodes to represent a congruence mod 7.<p>Let n be the first digit of the number, and nXXX be the entire number. After we walk n nodes by following the black arrows, we arrive at the node n&",
+91,10531487,comment,10530897.0,10531299.0,0,0,askafriend,,,Nothing. It is China. All bets are off.,1447045619.0
+92,10531486,comment,10531127.0,10531381.0,0,0,chadzawistowski,,,"Since you scratched off the last digit, 10 is really 100, plus 5 for the digit you scratched off = 105.<p>105 is a multiple of 21.",1447045605.0
+93,10531485,story,,,1,0,npguy,Double Down on Your Bright Spots,http://statspotting.com/double-down-on-your-bright-spots/,,1447045510.0
+94,10531484,comment,10525582.0,10531314.0,0,0,derefr,,,"To be clear, I wasn&",
+95,10531483,comment,10530891.0,10530891.0,0,0,DrScump,,,"posted already yesterday; many comments here:<p><a href=""https://news.ycombinator.com/item?id=10527070"" rel=""nofollow"">https://news.ycombinator.com/item?id=10527070</a>",1447045423.0
+96,10531482,comment,10531127.0,10531254.0,0,0,dmerrick,,,This didn&,
+97,10531481,story,,,2,0,aashaysanghvi,The Future of the On-Demand Economy,https://medium.com/@aashaysanghvi/buttons-bots-implications-for-the-on-demand-economy-29c1076f95e9,,1447045366.0
+98,10531480,story,,,55,27,fouric,Show HN: Lightning – a tool for rapid filesystem navigation,https://github.com/fouric/lightning-cd,,1447045265.0
+99,10531479,comment,10529634.0,10531365.0,0,0,CaptSpify,,,Was it an acid? I&,
+100,10531478,comment,10529297.0,10529727.0,0,0,leeleelee,,,Odd that I got 2 downvotes for &quot;great idea.&quot;,1447045236.0
+101,10531477,comment,10530897.0,10531466.0,0,0,seanmcdirmid,,,"Oh, I definitely saw them in Beijing, especially when it was raining. I also took them a couple of times.<p>But these new services...didi dache, brings new standards to the game, the cars have to be at a certain level, and are often rentals. So, the old black cabs with the little Chinese cars are kind of cut out of the service.",1447045235.0

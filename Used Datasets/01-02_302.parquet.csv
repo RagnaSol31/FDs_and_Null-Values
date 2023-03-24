@@ -1,0 +1,113 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6502783,story,,,3,2,fffd,IPhone stuck in activation error,,my and many other people&,
+1,6502782,comment,6499409.0,6501422.0,6,0,greedo,,,If you compare the McDonalds of 1980 to today&,
+2,6502781,comment,6501769.0,6502489.0,2,0,yohanatan,,,"You can be sure if you want but unless you back up your claim with some reasoning, others will consider you wrong.",1381024724.0
+3,6502780,comment,6502417.0,6502604.0,7,0,ChuckMcM,,,Actually its the &,
+4,6502779,story,,,3,0,coloneltcb,BlackBerry hit by shareholder lawsuit claiming company misled investors,http://www.theguardian.com/technology/2013/oct/05/blackberry-shareholder-lawsuit-investors,,1381024692.0
+5,6502778,comment,6502417.0,6502573.0,3,0,jonrisk,,,"For what its worth, it&",
+6,6502777,comment,6499519.0,6500813.0,1,0,chinpokomon,,,Except that you request the dependency version you need for each module. Since the classloader can&,
+7,6502776,comment,6502576.0,6502576.0,1,0,vellum,,,Try going to some meetups.  You might meet people that will offer you a job or hire you to do some contract work.,1381024514.0
+8,6502775,comment,6502574.0,6502574.0,5,0,spicyj,,,It&,
+9,6502774,comment,6502574.0,6502634.0,1,0,petethered,,,Same issues... just download the iOS 7.0.2 image from my developer account and updated the phone.<p>Was quite quick and no settings changes or loss.,1381024401.0
+10,6502773,comment,6499409.0,6501422.0,2,0,jrs99,,,Inertia and bureaucracy. Things stay the same because there aren&,
+11,6502772,comment,6502574.0,6502574.0,2,0,plorkyeran,,,iOS 7 beta 3 expired August 29. It should not be surprising that continuing to run a beta version long after it&,
+12,6502771,story,,,15,51,vellum,"As MacBook Air ages, Apple rivals show the way to Retina",http://news.cnet.com/8301-13579_3-57606096-37/as-macbook-air-ages-apple-rivals-show-the-way-to-retina/,,1381024306.0
+13,6502770,comment,6468448.0,6479288.0,2,0,BuckRogers,,,"Not going to really try to refute your claims, but it sounds like you&",
+14,6502769,comment,6500350.0,6502196.0,1,0,pandler,,,I&,
+15,6502768,comment,6499519.0,6500544.0,1,0,chinpokomon,,,I concur.<p>I&,
+16,6502767,story,,,1,0,outsidethelin3s,How great was your last raise? 4 Percent Grateful. Now on OUTSIDE THE LINES.,http://thinkoutsidethelines.com/4-grateful/,,1381024177.0
+17,6502766,comment,6502295.0,6502295.0,9,0,cpleppert,,,How to multiply isn&,
+18,6502765,comment,6502229.0,6502697.0,20,0,Stratoscope,,,It&,
+19,6502764,comment,6502295.0,6502708.0,8,0,yaakov34,,,"No, it absolutely does not help. In the algorithm you are citing, the numbers never leave their binary representation; there is no counting of the units that make up the number. The step of multiplying by 2 is done by shifting the binary representation of the number, which is not the way that this supposed &quot;Ethiopian algorithm&quot; works. The long multiplication algorithm (in binary or not) has complexity O(log(NM)), where N and M are the numbers to be multiplied, while this algorithm has complexity O(NM), and also gets there in a roundabout way.<p>This algorithm is totally pointless if you&",
+20,6502763,comment,6501731.0,6501803.0,2,0,arrowgunz,,,<i>exactly</i> what I did,1381024116.0
+21,6502762,comment,6502430.0,6502702.0,4,0,mjn,,,If you&,
+22,6502761,comment,6502588.0,6502588.0,1,0,davidu,,,Only developer accounts that upgraded back on June 5th. Today is the fourth-month anniversary.,1381024030.0
+23,6502760,comment,6502417.0,6502417.0,5,0,cyanoacry,,,"I saw the movie yesterday, and I really don&",
+24,6502759,comment,6502295.0,6502295.0,18,0,mcphilip,,,"For a much clearer visual explanation, see this BBC video on the subject:<p><a href=""http://youtu.be/Nc4yrFXw20Q"" rel=""nofollow"">http://youtu.be/Nc4yrFXw20Q</a>",1381023896.0
+25,6502758,comment,6501942.0,6502646.0,8,0,patmcguire,,,&,
+26,6502757,comment,6493510.0,6502488.0,1,0,philwelch,,,You can say that about any software. By that logic you could denounce indie games or word processors or to-do list software. Even if it&,
+27,6502756,story,,,45,54,zengr,iOS 7 activation required error on iPhone and iPad,http://www.graphitas.co.uk/blog/2013/10/ios-7-activation-required-error-on-iphone-and-ipad/,,1381023786.0
+28,6502755,comment,6502525.0,6502525.0,1,0,mjn,,,"The linked article claims it was banned for 67 years, fwiw (19211988).",1381023775.0
+29,6502754,comment,6499151.0,6499151.0,1,0,dpweb,,,"Nice PR. Anxiously awaiting the article of how Facebook goes down all the time because its handling 600 million users a day.  How bout this approach, which can work..<p>1.  We F.d up\n2.  Were sorry\n3.  Heres what were doing to fix it",1381023687.0
+30,6502753,comment,6501942.0,6502220.0,4,0,patmcguire,,,"Oh, I was confused for a while. You&",
+31,6502752,story,,,72,7,X4,Swift: Turn the Net into a single data cloud,http://libswift.org/,,1381023604.0
+32,6502751,comment,6502574.0,6502628.0,1,0,gramsey,,,"Had the same issue. I had to boot to DFU, and only then was I able to hit &quot;Restore&quot; in iTunes to download iOS 7.0.2 (non-beta).",1381023536.0
+33,6502750,comment,6501769.0,6502585.0,7,0,rbehrends,,,Nimrod borrowed Modula-3&,
+34,6502749,comment,6501731.0,6502534.0,1,0,gavinpc,,,I got the same thing when cookies were blocked.  Try with cookies enabled (if yours weren&,
+35,6502748,comment,6500872.0,6500872.0,2,0,mjn,,,If you&,
+36,6502747,comment,6502430.0,6502668.0,8,0,spartango,,,"While an awesome company, Palantir is hardly the biggest or most prominent tech company in Palo Alto. Even though giant Sun Microsystems is gone, HP, VMWare, SAP, Lockheed and other giants remain. Loral Space Systems (by 101) is one of the city&",
+37,6502746,comment,6502430.0,6502430.0,1,0,pacifi30,,,"You are so good, I love all the details about the day to day requirements you included in your blog.",1381023393.0
+38,6502745,comment,6502229.0,6502672.0,6,0,bch,,,Re: Tcl and C -- SQLite originated as a Tcl extension (written in C). Richard Hipp (the principle author) also used to sit on the Tcl Core Team and though doesn&,
+39,6502744,comment,6502430.0,6502608.0,6,0,dinkumthinkum,,,I&,
+40,6502743,comment,6501942.0,6502603.0,5,0,MikeCapone,,,"While there can be good and bad things in a new deal, we also have to look at what we have now. Tariffs reducing trade to shield groups with political clout from competition aren&",
+41,6502742,comment,6502295.0,6502654.0,6,0,vacri,,,<i>You can&,
+42,6502741,comment,6502295.0,6502689.0,9,0,cpleppert,,,"We know that the algorithm was used because it was specifically described in ancient Egyptian texts. The calculator would use either symbols on paper or objects representing successively larger numbers (1,5,10 etc) to perform the algorithm. He obviously wouldn&",
+43,6502740,comment,6502430.0,6502430.0,7,0,samatman,,,"The San Francisco Bay Area is named after our largest bay, the San Francisco Bay.<p>Which was named after St. Francis in 1769. Later, there was the Mission, San Francisco, in 1776; later still, the village of Yerba Buena took on the name San Francisco.<p>Welcome aboard!",1381023221.0
+44,6502739,comment,6499409.0,6502539.0,8,0,philwelch,,,"The US military budget is probably not too high for the existing requirements of the US.<p>The US is obligated, by treaty and policy, to provide mutual defense to most of the world. The US military has additional moral obligations to minimize civilian casualties, as well as political obligations to minimize both time expenditure and friendly casualties.<p>These requirements are historically unprecedented and contributes significantly to overall cost. In the 1990&",
+45,6502738,comment,6501726.0,6502400.0,3,0,byoung2,,,I have been with T-Mobile for 2 years and I love their customer support.  Always friendly and knowledgeable.  I am impressed that they have repeatedly offered to lower my bill without my asking (twice they have informed me of new plan offerings that lowered my bill with no contract extension). I must have good luck.,1381023199.0
+46,6502737,comment,6502727.0,6502727.0,1,0,Danieru,,,I submitted this on the off chance someone might be interested in this very specific aspect of blackberry development. The guide itself took me two full days to write but was needed by a team member who is planning on switching to ubuntu.<p>If anything this might serve as a fine example of a development process made much worse than it need be thanks to DRM. Android does not have any of the signing key pain which this guide documents. The root cause is blackberry wants to restrict control of development keys and keep them in the blackberry chain of trust.,1381023197.0
+47,6502736,comment,6502295.0,6502708.0,7,0,mchouza,,,"No, the algorithm as described is very different from binary multiplication. It requires a number of stones proportional to the result, while the number of bits required when doing binary multiplication is polylogarithmic.<p>It&",
+48,6502735,comment,6502430.0,6502430.0,2,0,dylz,,,Suggestion for more food: East Bay? Berkeley Bowl is pretty awesome.,1381023112.0
+49,6502734,comment,6500955.0,6501935.0,3,0,gbog,,,"Seen this kind of epilepsy in Gmail chat frame too. For me it means these modern web apps are going against the grain of html and should just learn to live within the constraints of the browser.<p>Moreover, once this animation problem will be be solved and kids will be able to do it in a snap, it will not be cool anymore and we&",
+50,6502733,comment,6502295.0,6502594.0,6,0,cpleppert,,,It is simply a way of performing multiplication without requiring a positional notation system. If you don&,
+51,6502732,comment,6501362.0,6501696.0,1,0,Pxtl,,,"Yeah, my first introduction to Twitter was frustrating because I was trying to use it like a feed... Twitter is <i>not</i> a substitute for feeds.  The total lack of &quot;weight&quot; given to things that you have a high-interest in vs. things you have a low-interest in (but have an incredibly high postcount) made that kind of usage frustrating for me.<p>Twitter is a good platform in some ways - it&",
+52,6502731,story,,,1,0,alexshye,"Quantity versus quality, when mastering a craft",http://alexshye.wordpress.com/2013/10/05/quality-versus-quantity-when-mastering-a-craft/,,1381022961.0
+53,6502730,comment,6495835.0,6499234.0,1,0,dinkumthinkum,,,They&,
+54,6502729,comment,6501769.0,6502102.0,2,0,cdtwigg,,,"Auto-vectorization is impossible for a lot of real-world code because it requires changing how data is laid out in memory.  Notice that the AVX version of the raytracer actually involves packing blocks of x components into a single 256-bit-wide variable.  Realistically, a compiler is not going to be smart enough to figure that out.",1381022894.0
+55,6502728,comment,6434609.0,6434609.0,1,0,dpweb,,,There&,
+56,6502727,story,,,1,1,Danieru,Linux Blackberry OS 10 Cordova plugin development setup,http://danieru.com/2013/10/06/linux-blackberry-os-10-cordova-plugin-development-setup/,,1381022843.0
+57,6502726,comment,6501061.0,6502110.0,2,0,toyg,,,"From their website, it looks like the magazine is part of the Smithsonian Institute, i.e. they <i>are</i> affiliated with the museums (you even get a membership when subscribing to the mag).",1381022825.0
+58,6502725,comment,6502417.0,6502417.0,10,0,moultano,,,"Buzz Aldrin liked it: <a href=""http://www.hollywoodreporter.com/news/gravity-review-by-astronaut-buzz-639883"" rel=""nofollow"">http://www.hollywoodreporter.com/news/gravity-review-by-astr...</a>",1381022752.0
+59,6502724,comment,6499519.0,6500384.0,2,0,rbanffy,,,3) If someone poisons your DNS server and points you - and you alone - to a hostile version of the jar you are downloading.,1381022698.0
+60,6502723,comment,6500689.0,6501152.0,2,0,nwh,,,"Alright, it&",
+61,6502722,comment,6502417.0,6502417.0,20,0,Ogre,,,Phil Plait&,
+62,6502721,story,,,15,92,JumpCrisscross,ADHD Pill Faces High Hurdle in Europe as Stigma Persists,http://www.bloomberg.com/news/2013-10-01/adhd-pill-faces-high-hurdle-in-europe-as-stigma-persists.html,,1381022608.0
+63,6502720,comment,6502430.0,6502635.0,1,0,presty,,,It&,
+64,6502719,story,,,4,1,aaronbrethorst,Patent Troll Intellectual Ventures Running Out Of Cash,http://www.techdirt.com/articles/20131004/03284724748/patent-troll-intellectual-ventures-running-out-cash-looking-3-billion-investors.shtml?_format=full,,1381022574.0
+65,6502718,story,,,8,0,tlongren,Flow,http://andrewdumont.me/reaching-flow,,1381022571.0
+66,6502716,comment,6501061.0,6502038.0,4,0,mmagin,,,You especially don&,
+67,6502715,comment,6495835.0,6502201.0,2,0,dinkumthinkum,,,Well I think it&,
+68,6502714,comment,6502229.0,6502697.0,2,0,berberous,,,"Interesting, although the FSF example uses &quot;shall&quot;, not &quot;may&quot;. A lawyer might argue that only the prior is binding.",1381022496.0
+69,6502713,comment,6502229.0,6502697.0,9,0,bch,,,SQLite doesn&,
+70,6502712,comment,6502558.0,6502558.0,1,0,dethtron5000,,,Hydrogen Hydroxide is similarly ignored...,1381022481.0
+71,6502711,comment,6502430.0,6502705.0,2,0,presty,,,"Added. Forgot about those (shame on me). Specially Palantir, since their building is right across the Caltrain.",1381022452.0
+72,6502710,comment,6502430.0,6502608.0,4,0,trentmb,,,That and it just sounds silly.,1381022432.0
+73,6502708,comment,6502295.0,6502689.0,2,0,DanBC,,,Does it help if you don&,
+74,6502707,comment,6502430.0,6502601.0,1,0,presty,,,Thanks. Added a reference to your post.,1381022328.0
+75,6502706,comment,6501494.0,6501867.0,1,0,mistercow,,,>and the user just has to think in terms of 0-100<p>This is the part I&,
+76,6502705,comment,6502430.0,6502668.0,4,0,Patrick_Devine,,,"and VMware, which is the largest non-hospital, non-Stanford employer in town.",1381022305.0
+77,6502704,comment,6499519.0,6502021.0,2,0,Randgalt,,,Here&,
+78,6502703,comment,6496855.0,6496855.0,1,0,DrPhish,,,"&quot;I do not believe that any scientific teaching ever was more thorough, or better fitted for training the faculties, than the mode in which logic and political economy were taught to me by my father. Striving, even in an exaggerated degree, to call forth the activity of my faculties, by making me find out everything for myself, he gave his explanations not before, but after, I had felt the full force of the difficulties; and not only gave me an accurate knowledge of these two great subjects, as far as they were then understood, but made me a thinker on both.&quot;<p><pre><code>   -John Stuart Mill: Autobiography</code></pre>",1381022225.0
+79,6502702,comment,6502430.0,6502430.0,1,0,architgupta,,,What do you guys recommend for health insurance as a freelancer?\n(Short term and medium term visit),1381022199.0
+80,6502701,comment,6501942.0,6502610.0,19,0,tbrake,,,Maybe they disagree with GM business practices and don&,
+81,6502700,story,,,1,0,vipinsahu,Why every eCommerce site must use OpenERP?,http://webkul.com/blog/why-every-ecommerce-site-must-use-erp/,,1381022192.0
+82,6502699,comment,6495835.0,6499619.0,1,0,Peaker,,,Even with Swype/Kii keyboards?<p>I find they&,
+83,6502698,comment,6500577.0,6500577.0,1,0,AlexDanger,,,"Great article, and I highly recommend the rest of the articles on gwern.net if you&",
+84,6502697,comment,6502229.0,6502502.0,6,0,ricardobeat,,,"Unfortunately the FSF holds the view that a clause like that makes software &quot;non-free&quot;. See <a href=""http://www.gnu.org/licenses/license-list.en.html",
+85,6502696,comment,6502430.0,6502675.0,4,0,geofft,,,The joke is that it&,
+86,6502695,comment,6501942.0,6502247.0,4,0,shmerl,,,"If you want facts, require TPP to be open. It&",
+87,6502694,comment,6502229.0,6502415.0,7,0,mikeash,,,The official pronunciation of &quot;SQLite&quot; is &quot;ess kyoo el ite&quot;. That&,
+88,6502693,comment,6496855.0,6496855.0,1,0,SilasX,,,"I agree, but you have to have to be on guard for the <i>opposite</i> problem, which is taking too long on your tasks because &quot;you don&",
+89,6502691,comment,6502274.0,6502586.0,1,0,cz20xx,,,Some context that I couldn&,
+90,6502690,comment,6502229.0,6502672.0,20,0,eropple,,,"This is a pretty weak argument. Using &quot;KiB&quot; instead of &quot;KB&quot; is <i>precise</i>, not &quot;anti-noob&quot;. And I don&",
+91,6502689,comment,6502295.0,6502618.0,11,0,shawnz,,,"Okay, first and foremost, the algorithm obviously was never actually used in the way this story describes, because it is totally ridiculous and that is not even the point of the article.<p>But let&",
+92,6502688,comment,6502295.0,6502665.0,4,0,DanBC,,,You&,
+93,6502687,comment,6499409.0,6501715.0,2,0,jhaglund,,,"Do we call money made from investments or inheritance Welfare? In a post agrarian society, work and income are not related.",1381021722.0
+94,6502686,story,,,5,1,jgrant27,"Zed Shaw - ""The Web Will Die When OOP Dies""",https://vimeo.com/43380467,,1381021721.0
+95,6502685,comment,6502295.0,6502654.0,-3,0,MarcusBrutus,,,"> John H. Lienhard is Professor Emeritus of Mechanical Engineering and History, getting his PhD from UC Berkeley.<p>Close enough for me. Frankly I doubt that he honestly believed every word he wrote. People in high places have to routinely perform public worship of the PC god, &quot;all cultures are equal&quot;, etc.<p>Regarding the &quot;ingenuity&quot; see me reply above: <a href=""https://news.ycombinator.com/item?id=6502665"" rel=""nofollow"">https://news.ycombinator.com/item?id=6502665</a>",1381021720.0
+96,6502684,comment,6502430.0,6502430.0,1,0,ww520,,,"The Bay Area has a lot of hiking trails where not many people know.  Marine county alone has hundreds of trails.  Lots of trails in the mid-peninsula, inland, in the mountains, along the coast, along various reservoirs, lagoons, or lakes.  East Bay has lots of trails in the mountains.  Evan SF has some.  Land&",
+97,6502683,comment,6497478.0,6502040.0,2,0,etjossem,,,&quot;You sock away your SF salary for 40 years and then retire in a cheaper COL area with no state income tax.&quot;<p>Small correction -- state income tax in CA is a big deal even if you&,
+98,6502682,comment,6502430.0,6502430.0,4,0,lnanek2,,,As long as we&,
+99,6502681,comment,6499203.0,6501658.0,1,0,eliasmacpherson,,,"Initially I thought that, but I can&",
+100,6502680,comment,6495835.0,6495835.0,1,0,AndrewKemendo,,,"I think it is hilarious how Jobs basically reinvented the wheel when it came to operations security, when there have been major organizations doing secret things for decades that he could have pulled the lessons from.",1381021525.0
+101,6502679,story,,,1,0,suavepenguin,How Name Servers and DNS Records Work,http://peng.io/GFa77r,,1381021491.0
+102,6502678,comment,6502576.0,6502576.0,1,0,caphill,,,I am in the same boat. I have been working as a Web Developer for 2 years doing full-stack but PHP as the backend. Switched over to Ruby 3 months ago and the positions I did find I never heard back after applying.<p>I am now doing a Rails internship for free for a few weeks and then I am bumped to minimum wage while keeping my current Web dev job.,1381021479.0
+103,6502677,comment,6500955.0,6501465.0,1,0,dirtyaura,,,"nostradaemons, thanks for great comments in this thread.<p>We have been recently doing HTML5 app for iPad and noticed you really have to be careful with layouts and recalculate styles to get a smooth performance. We also built a rudimentary tool to run automatic layout performance tests on a real device, because the layout problems easily creep in if you don&",
+104,6502676,comment,6495835.0,6500451.0,1,0,phreanix,,,I think to do that they would have to somehow leverage the existing userbase of their mobile devices.,1381021455.0
+105,6502675,comment,6502430.0,6502652.0,5,0,cgtyoder,,,It&,
+106,6502674,comment,6501738.0,6501738.0,1,0,OafTobark,,,Within 24 hours 99% of the time. Longer for unusual circumstances.<p>Although always preferrably asap,1381021380.0
+107,6502673,comment,6501362.0,6501362.0,1,0,joe_the_user,,,I am a pretty heavy Facebook user and can&,
+108,6502672,comment,6502229.0,6502473.0,-4,0,mattmanser,,,Am I missing something about this &quot;do documentation right&quot; as while I&,
+109,6502671,comment,6502229.0,6502614.0,12,0,simscitizen,,,Use sqlite3_open_v2 with the SQLITE_OPEN_READONLY flag. It&,
+110,6502670,story,,,1,0,jaequery,These robots will soon hunt down jellyfish,http://www.fastcoexist.com/3019164/these-robots-hunt-jellyfish-and-then-liquify-them-with-rotating-blades-of-death,,1381021232.0
+111,6502669,comment,6502430.0,6502601.0,1,0,wpietri,,,"Yes, please god avoid 24 Hour Fitness. Their business model isn&",

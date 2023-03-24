@@ -1,0 +1,109 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10825717,comment,10821879.0,10825100.0,0,0,Chris_Newton,,,"If you look at it that way, we might as well write:<p><pre><code>    ",
+1,10825716,comment,10812146.0,10824766.0,0,0,Kutta,,,"Is there any reason to single out Nuprl for this though? We could slap SMT onto a wide range of elaborators (as it has been a stated goal for the Lean prover, and there has been attempts in Isabelle, Coq and Agda too if I recall correctly). Practical elaboration already involves a large amount of machinery that isn&",
+2,10825715,comment,10824064.0,10824729.0,0,0,mangecoeur,,,Getting perfectly smooth performance on a similar quad i7 16GB Macbook Pro under Firefox 43... perhaps a browser issue?,1451728619.0
+3,10825714,comment,10825575.0,10825575.0,0,0,hackercanon,,,What an incredible story. I must admit I had no idea that Churchill&,
+4,10825713,story,,,14,0,andygrunwald,Under the Hood of Redis: Strings,http://redisplanet.com/redis/under-the-hood-of-redis-strings/,,1451728567.0
+5,10825712,comment,10825441.0,10825441.0,0,0,nl,,,Note that this isn&,
+6,10825711,comment,10824994.0,10824994.0,0,0,mirimir,,,> People think we are the safety hazards. But we&,
+7,10825710,comment,10823811.0,10824542.0,0,0,jacquesm,,,I never made the &,
+8,10825709,comment,10809822.0,10824629.0,0,0,kiiski,,,"One should of course keep in mind that stories like that give a very biased view of the life of adopted children. The stories are invariably about adopted children wanting to find their &quot;real&quot; parents, because that&",
+9,10825708,comment,10824382.0,10825094.0,0,0,pjc50,,,"This, especially sel4: the microkernel is small enough for formal verification.",1451728432.0
+10,10825707,comment,10824383.0,10825163.0,0,0,sremani,,,"Sorry, I down-voted instead of up-voting.",1451728418.0
+11,10825706,comment,10812332.0,10824476.0,0,0,nl,,,Lycos (ha!) and Altavista certainly did NOT do a perfectly fine job. They were more-or-less dreadful if you actually tried to use them to find anything.,1451728395.0
+12,10825705,comment,10821865.0,10825464.0,0,0,sangnoir,,,"> Speech recognition barely improved since the 1990s.<p>I find it hard to believe, do you have any citations for that - or is that just your gut feel?<p>A cursory search shows a 26% error rate[1] for Dragon NaturalSpeaking in the year 2000 (beaten by IBM in the same report at 17%).<p>By May 2015, if Sundar Pichai is to be believed, Google has an 8% error rate[2]. In my books, 26-to-8% (or even 17-to-8%) is far from <i>barely</i> improved.<p>1. <a href=""http://www.ncbi.nlm.nih.gov/pmc/articles/PMC79041/",
+13,10825704,comment,10824064.0,10825529.0,0,0,vidarh,,,The something you&,
+14,10825703,comment,10821411.0,10822266.0,0,0,tluyben2,,,We are a startup. We collaborate fine; I think this is a myth and/or it depends on getting the right people.<p>And to that point; you can sit in an office in another city or state which costs a fraction. You are not in silicon valley just because you need to sit together in your startup right?,1451728293.0
+15,10825702,story,,,2,0,anotherquestion,Can logic be improved as Boole did to syllogism?,,,1451728288.0
+16,10825701,comment,10823811.0,10824210.0,0,0,jacquesm,,,It&,
+17,10825700,comment,10825425.0,10825630.0,0,0,pan69,,,I love Linode and I agree with you here. It does depend on the situation and I don&,
+18,10825699,comment,10824994.0,10825679.0,0,0,Symbiote,,,The truck driver caused the dangerous situation by tailgating. There&,
+19,10825698,comment,10819670.0,10822277.0,0,0,masklinn,,,It would be solved if languages using these forms didn&,
+20,10825697,comment,10822019.0,10822019.0,0,0,d-goldin,,,"Spotify - Stockholm, Sweden. Full Time, on-site.<p>Data Engineer with focus on Hadoop and infrastructure.<p>Help us figure out how to deliver a great Hadoop service and experience to a growing company that&",
+21,10825696,comment,10823811.0,10824289.0,0,0,meesterdude,,,I have noted the same thing; I do think it&,
+22,10825695,comment,10825425.0,10825596.0,0,0,pinkunicorn,,,"I jokingly commented a few days back to a friend of mine that Slack is probably the last company I would bet a billion dollars on, to succeed. To be honest, I was very very wrong - Slack is incredible! Anybody can definitely build a Slack clone - its not an out of the world engineering challenge, but it will never be Slack, it will never have the love that Slack pours into its products and dev APIs. <3 Slack!",1451727970.0
+23,10825694,comment,10825425.0,10825425.0,0,0,cpqq,,,"Work in IT. Server was stable & online for 189 days before the 25th, knew them for stability.<p>No notification from them, just a handful of downtime alerts during time with the family. They were completely gone from BGP tables in Newark.<p>Used backups and moved sites to OVH. Don&",
+24,10825693,comment,10825425.0,10825596.0,0,0,StanAngeloff,,,"I agree Linode have mishandled the situation, badly. The lack of information about the ongoing attacks is disconcerting. We have 40+ nodes in London and Frankfurt and are dreading the attacks resuming in those locations. Due to lack of information about the specifics of the attacks, the measures Linode are taking and an explanation why this has happened in the first place, we can&",
+25,10825692,comment,10824748.0,10825186.0,0,0,EdNutting,,,You&,
+26,10825691,comment,10824994.0,10825671.0,0,0,cooking_liquid,,,There are a lot of reasons for automated driving and most of them have something to do with human behaviour. Sorry for trying to put the statement about tailgating into perspective.,1451727718.0
+27,10825690,comment,10821477.0,10825481.0,0,0,JupiterMoon,,,"> Though you can get Emacs key bindings for Vim, surely?<p>Why would anyone want this?<p>EDIT: Not meaning to be abrasive. But by most accounts the strength of vim is its keybindings whilst the strength of emacs is everything about its ecosystem. Hence evil mode for emacs is a thing.",1451727678.0
+28,10825689,story,,,1,0,benevol,AP-NORC Poll: Online surveillance is OK for most,http://hosted.ap.org/dynamic/stories/U/US_AP_POLL_CIVIL_LIBERTIES_THINGS_TO_KNOW,,1451727628.0
+29,10825688,comment,10825425.0,10825568.0,0,0,jacquesm,,,Usually these are extortion schemes. Pay x bitcoins to this address or else.,1451727607.0
+30,10825687,comment,10821477.0,10825609.0,0,0,JupiterMoon,,,I think that plugins for vim can now be written in python.,1451727599.0
+31,10825686,comment,10824748.0,10824990.0,0,0,EdNutting,,,Compile our compiler against XBuild and apparently it works (according to one Reddit user). Unlikely to work with MonoDevelops default/old compiler.,1451727497.0
+32,10825685,story,,,4,1,ipselon,Will you use ReactJS with a REST service instead of GWT in Java app?,https://hashnode.com/post/will-you-use-reactjs-components-with-a-rest-service-instead-of-gwt-in-java-application-ciiwwahql0063wx53ef5qkh2y,,1451727474.0
+33,10825684,comment,10812332.0,10824071.0,0,0,ArchieT,,,"Is really trackback spamming still <i>that</i> popular amongst spammers? There are really more than 10 IPs a month? In 2015, when nobody uses trackbacks?",1451727467.0
+34,10825683,comment,10821171.0,10821171.0,0,0,jokogr,,,"Have a look at homeshick [1] as well, it seems to have similar functionality.<p>[1]: <a href=""https://github.com/andsens/homeshick"" rel=""nofollow"">https://github.com/andsens/homeshick</a>",1451727440.0
+35,10825682,comment,10825425.0,10825668.0,0,0,jacquesm,,,If you look at how interconnected stuff is these days it is really not that far away (if we haven&,
+36,10825681,comment,10822777.0,10823370.0,0,0,Narishma,,,"Strange thing to say, since this particular system was designed specifically for high-level languages like COBOL and ALGOL-60. I don&",
+37,10825680,comment,10824748.0,10824836.0,0,0,EdNutting,,,"Apologies, I committed to master instead of develop last night which caused a regression (we&",
+38,10825679,comment,10824994.0,10825671.0,0,0,mytochar,,,"Because he had to explain a situation where a driver in front of him caused a very dangerous situation and felt he had to respond in that way?<p>As much as I love driving, there will be many improvements when we don&",
+39,10825678,comment,10818560.0,10825455.0,0,0,WalterBright,,,Consumer VCRs are very complex and are modern mechanical marvels. It&,
+40,10825677,comment,10824748.0,10824992.0,0,0,EdNutting,,,Interesting to read your comment - I&,
+41,10825676,comment,10821477.0,10825559.0,0,0,jhbadger,,,I think what is being referred to Richard Stallman&,
+42,10825674,comment,10825369.0,10825369.0,0,0,TazeTSchnitzel,,,Reminds me a little of <i>Catch Me If You Can</i>.,1451727242.0
+43,10825673,comment,10825404.0,10825404.0,0,0,Uptrenda,,,Please forgive my ignorance but: what does this mean in English? Does it mean you can gain better control over your cognitive functions by realizing what activities activate them or are the results something different entirely?,1451727238.0
+44,10825672,comment,10825536.0,10825536.0,0,0,nitin_flanker,,,"When an employee leaves, it&",
+45,10825671,comment,10824994.0,10825638.0,0,0,dhoe,,,Comments like this are why I&,
+46,10825670,story,,,3,0,rompic,Show HN: Visualizing Social Networks with Sociograms harnessing your Smartphone,http://cliq.at/,,1451727127.0
+47,10825669,story,,,70,27,niallobrien,Adonis.js v2 released – Laravel for Node.js,http://adonisjs.com,,1451727112.0
+48,10825668,comment,10825425.0,10825425.0,0,0,dantiberian,,,"The brutal thing about a DDoS on a web hosting company is that it affects their business in very long lasting ways. If an ecommerce site is down they may lose sales for that day, and a small amount of customers. If a hosting provider is down then they can lose many of their customers for life.",1451727064.0
+49,10825667,comment,10820445.0,10821594.0,0,0,yuhong,,,I think it is even the default on server versions of Windows since Server 2003.,1451727056.0
+50,10825666,comment,10802088.0,10803856.0,0,0,smadge,,,"This is actually a pretty well researched and established thesis. Whether you accept it or not is up to you. Take this quote from a mainstream American publication, the Atlantic:<p>&quot;there is nothing particularly &quot;natural&quot; about viewing people with darker skin and curlier hair as inferior. Drake surveys all perceptions of people with darker skin, curlier hair, or both across history. He finds very little consistency and concludes that racism, as we know it, is basically a product of the slave trade, which is to say the seizure of power.&quot; [1]<p>This isn&",
+51,10825665,comment,10825575.0,10825575.0,0,0,tim333,,,"cache <a href=""http://webcache.googleusercontent.com/search?q=cache:xG5T5D7W_jIJ:www.harrowell.org.uk/blog/2015/12/30/other-peoples-yachts-churchill-and-his-money-or-lack-of-it/&hl=en&strip=1&vwsrc=0"" rel=""nofollow"">http://webcache.googleusercontent.com/search?q=cache:xG5T5D7...</a>",1451727032.0
+52,10825664,comment,10825425.0,10825576.0,0,0,zhte415,,,"If a competitor, their funders would likely be non-amused at their actions if publicised (even if already aware).",1451727005.0
+53,10825663,story,,,2,0,vitoc,Imagination Institute,http://imagination-institute.org/,,1451726992.0
+54,10825662,comment,10825425.0,10825642.0,0,0,AdamJacobMuller,,,Unfortunately linode hasn&,
+55,10825661,comment,10825425.0,10825596.0,0,0,manojlds,,,"I guess there is also apprehension over how much to communicate, lest the info is also uses by the perpetrators.",1451726922.0
+56,10825660,story,,,1,0,rompic,Integrated Mobility Strategies – Putting Theory into Practice,http://www.fluidtime.com/de/symposium,,1451726914.0
+57,10825659,comment,10821477.0,10825562.0,0,0,oselhn,,,"I use mostly eclipse, so maybe other IDEs already have it.<p>* Extract superclass/interface which will work on the whole codebase\n* Support for NVI - rename, change parameters, convert to virtual interface and back\n* code duplication detection (maybe exists but I never found sufficient one)",1451726805.0
+58,10825658,comment,10812332.0,10823957.0,0,0,ArchieT,,,"Right, these are js links, but they point from Google+ to Google+ — they are thus not exactly an example of js links desired to prevent user from leaving the website or at least get more information to.<p>These are pretty annoying as well, though.",1451726770.0
+59,10825657,comment,10824382.0,10825517.0,0,0,Sanddancer,,,"The past few versions have actually been swinging back to microkernel. Graphics drivers, for example, exist in user space, as well as audio drivers, etc.",1451726715.0
+60,10825656,comment,10824064.0,10824064.0,0,0,Apanatshka,,,"<i>Source: MS Paint.</i><p>haha, that&",
+61,10825655,story,,,4,0,panic,Alternative mathematical notation and its applications in calculus (2012) [pdf],https://jakubmarian.com/data/bachelor_thesis.pdf,,1451726701.0
+62,10825654,comment,10825425.0,10825632.0,0,0,dantiberian,,,"If you look at their Twitter mentions (especially earlier in the day), you will see a ton of angry people. I&",
+63,10825653,comment,10824994.0,10825535.0,0,0,mytochar,,,"He said tail-gating as in 3-4 car lengths. Admittedly, that is tailgating for a vehicle that takes forever to stop; but, this isn&",
+64,10825652,comment,10825404.0,10825404.0,0,0,max-a,,,"Anecdotal evidence about neurofeedback, especially TAGSync, always made me curious but this stuff seems to expensice to try. I am glad we are progressing at methods and evidence, maybe one day more people will be able to try it.",1451726678.0
+65,10825651,comment,10825332.0,10825563.0,0,0,nardi,,,"> It is obvious that eventually the sales of any product, even the iPhone would eventually plateau.<p>Eventually, probably, if by &quot;plateau&quot; you mean &quot;decelerate.&quot;<p>> This means of course, the stock value would be no longer determined by some fancy dreams of growth but the actual financials of the company.<p>LOL. Apple&",
+66,10825650,comment,10825618.0,10825618.0,0,0,nitin_flanker,,,"I was expecting a headline for picking the right partner. So let me add, if you&",
+67,10825649,comment,10824382.0,10825399.0,0,0,bsaul,,,Who is &quot;we&quot; ? I had the impression unikernels were still a highly experimental work in progress you could only use with ocaml and that noone had ever used in production for anything serious.,1451726624.0
+68,10825648,comment,10785367.0,10786120.0,0,0,e_modad,,,That was a great visualization. Thanks for the information lead.,1451726624.0
+69,10825647,comment,10823735.0,10825531.0,0,0,coldtea,,,><i>If you read Raskin&,
+70,10825646,story,,,1,0,janvdberg,"How Aspiro became Jay Z's music-streaming startup, Tidal",http://uk.businessinsider.com/story-of-how-aspiro-became-jay-zs-music-streaming-startup-tidal-2015-8,,1451726552.0
+71,10825645,comment,10823735.0,10825068.0,0,0,coldtea,,,"><i>Not saying either is the right one - but they are both different, so one of them (as far as apple is concerned) is wrong.</i><p>Or maybe each of them is appropriate for the (different) tasks it has to do?",1451726547.0
+72,10825644,comment,10825425.0,10825558.0,0,0,gingerlime,,,I&,
+73,10825643,comment,10823897.0,10823897.0,0,0,fleitz,,,"Very much agree, almost every time I&",
+74,10825642,comment,10825425.0,10825558.0,0,0,DCoder,,,"> <i>Who, with a lot of money, would want to hurt Linode&",
+75,10825641,comment,10824994.0,10824994.0,0,0,dschiptsov,,,It could be worse - riding a heavy loaded bike in Uttar Pratesh and Bihar. You have no idea.),1451726207.0
+76,10825640,comment,10824383.0,10825514.0,0,0,Renaud,,,Microsoft has done many shady things in its many years of existence. It&,
+77,10825639,comment,10815671.0,10821131.0,0,0,Steko,,,"You are correct and thanks for the correction, wow do I feel dumb for missing that. Maybe I can save a small scrap of face in that at least occasionally this problem contains no such clause, e.g. the xkcd version although I should read that one again before submitting this reply.",1451726166.0
+78,10825638,comment,10824994.0,10825557.0,0,0,cooking_liquid,,,"Former truck driver from germany here. Sure, you shouldn&",
+79,10825637,comment,10825425.0,10825632.0,0,0,vogt,,,I don&,
+80,10825636,comment,10821477.0,10825584.0,0,0,oselhn,,,Refactoring features presented on their web are the same as features in eclipse CDT which is free and runs almost everywhere. Visual studio code is just configurable editor not IDE. In my opinion atom or sublime are better choice.,1451726053.0
+81,10825635,comment,10823735.0,10825355.0,0,0,coldtea,,,><i>That&,
+82,10825634,comment,10822376.0,10822376.0,0,0,gauravgupta,,,"Have you tried <a href=""http://hackr.io"" rel=""nofollow"">http://hackr.io</a>?",1451725982.0
+83,10825633,comment,10825332.0,10825363.0,0,0,tujv,,,"Yes, I was confused by this as well. I think this author was looking for something bearish, and went with Ben anyway.",1451725913.0
+84,10825632,comment,10825425.0,10825596.0,0,0,alegen,,,"<a href=""https://lmddgtfy.net/?q=linode%20status"" rel=""nofollow"">https://lmddgtfy.net/?q=linode%20status</a><p>Twitter is not that relevant to be honest. I assume many customers are not active on Twitter either. I do not see why it is so important to have activity on the account when there is a dedicated page for informing customers of what is going on.<p>Also, if you look at the medium post, the tweets are mostly sorry/thank you/everything should be fine soon. No actual information on what is going on. How could you put relevant technical details in a tweet? How does a short, uninformative tweet help you more?<p>edit: also, there is up-to-date technical discussions taking place on the irc channel ",
+85,10825631,comment,10824383.0,10825519.0,0,0,sremani,,,"Please ask pertinent questions esp. about Chakra, that is within Guvrav&",
+86,10825630,comment,10825425.0,10825596.0,0,0,empressplay,,,Although I&,
+87,10825629,story,,,3,2,nitin_flanker,Popular Patent Myths,http://www.greyb.com/popular-patent-myths/,,1451725736.0
+88,10825628,story,,,3,0,JumpCrisscross,House intel committee looks into eavesdropping on Congress,http://www.politico.com/story/2015/12/house-intel-probe-wsj-217228,,1451725722.0
+89,10825627,comment,10824522.0,10825585.0,0,0,TazeTSchnitzel,,,Chrome and IE both use Windows&,
+90,10825626,comment,10824522.0,10825356.0,0,0,eko,,,"Yes, it works well with some subdomains too.",1451725615.0
+91,10825625,comment,10823735.0,10824991.0,0,0,coldtea,,,"><i>0.0029% for injuries that require an emergency room visit, not injuries at all.</i><p>If you get an &quot;emergency room visit&quot; for trying to open a package, there&",
+92,10825624,comment,10820218.0,10824367.0,0,0,modarts,,,People seriously switch languages based on the time it takes their dev environment to boot up?,1451725559.0
+93,10825623,comment,10812332.0,10812332.0,0,0,TazeTSchnitzel,,,Forgive me for lacking the time or energy to read this article. I&,
+94,10825622,comment,10821391.0,10821391.0,0,0,scottlocklin,,,"The caveats are worth reading before the rest of it. How long does it take to write down the derivative of a loss function, compared to trusting that your automatic diff did what you expected? I can tell you: not long.",1451725502.0
+95,10825621,story,,,3,1,danielovichdk,Ask HN: Front-end dev trends for 2016,,What do you expect to see in front-end development in 2016. Any revolutional new things ? Consolidatons ? Frameworks etc. ?,1451725495.0
+96,10825620,comment,10825425.0,10825581.0,0,0,rdtsc,,,> A competitor seems like a pretty obvious answer.<p>I don&,
+97,10825619,comment,10821633.0,10825504.0,0,0,DrScump,,,titles can be edited within a certain timeframe; did you try?,1451725474.0
+98,10825618,story,,,4,1,irrlichthn,Tips for Starting your own Software Business in 2016,http://www.irrlicht3d.org/pivot/entry.php?id=1483,,1451725417.0
+99,10825617,comment,10821171.0,10825329.0,0,0,vok5,,,"You could also use GNU Stow, which is a symlink farm manager. Here&",
+100,10825616,comment,10821171.0,10825338.0,0,0,chubot,,,"Yeah, but I&",
+101,10825615,comment,10822086.0,10822086.0,0,0,dakrisht,,,I&,
+102,10825614,story,,,1,0,vmorgulis,Programmer-industrial complex can't be reformed from within,https://twitter.com/jonathoda/status/678993607303516160,,1451725302.0
+103,10825613,comment,10825425.0,10825558.0,0,0,danieltillett,,,"I agree, but I am unsure of the come back stronger sentiment. This looks to be a serious attack driven by a knowledgeably adversary. I really feel for linode at this point.",1451725301.0
+104,10825611,comment,10825425.0,10825568.0,0,0,bdcravens,,,"May not be the case here, but Bitcoin ransoms are become more common.",1451725283.0
+105,10825610,comment,10823735.0,10824544.0,0,0,coldtea,,,><i>with the UI of physical things</i><p>That&,
+106,10825609,comment,10821477.0,10824783.0,0,0,iheartmemcache,,,I&,
+107,10825607,comment,10823735.0,10824718.0,0,0,derefr,,,"Mind you, there&",

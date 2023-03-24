@@ -1,0 +1,152 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8094742,story,,,17,24,a3voices,Ask HN: Why aren't there any families with a trillion dollars in assets?,,"If you graphed out family fortunes, it would resemble a power law function (similar to monthly website hits). But I&",
+1,8094741,comment,8093628.0,8093628.0,1,0,ZaneA,,,"This looks great! I tinkered with building a similar service-oriented bot, using ZeroMQ for communication (though not very robust as it would block for responses IIRC); <a href=""http://demonastery.org/2012/07/building-a-decoupled-irc-bot-part-zero/"" rel=""nofollow"">http://demonastery.org/2012/07/building-a-decoupled-irc-bot-...</a>",1406512728.0
+2,8094740,comment,8093743.0,8094327.0,1,0,vijayr,,,Don&,
+3,8094739,comment,8092273.0,8092379.0,2,0,_nullandnull_,,,"This 64-bit version of Olldbg is in the works<p><a href=""http://ollydbg.de/odbg64.html"" rel=""nofollow"">http://ollydbg.de/odbg64.html</a>",1406512673.0
+4,8094738,comment,8094351.0,8094718.0,6,0,fergusom11865,,,"1. Reorder stuff for me on instacart (would have taken 2 minutes), 2. Lookup a URL for me, 3. Lookup 10 quotes. Last one could be called &quot;iffy,&quot; but this was after texting them asking for parameters to which they responded &quot;as long as it&",
+5,8094737,comment,8094351.0,8094351.0,7,0,jimsilverman,,,unless i&,
+6,8094736,comment,8093476.0,8094671.0,1,0,e12e,,,"To be pedantic: deployed it a an <i>externa</i>l service, not necessarily a public service (I suppose to a legal entity that would not normally share license rights, such as an inividual not part of the organisation or to another organisation). Those external users would have to be given an option to access the full source with modifications.<p>As for the &quot;part of a web service&quot;-bit, I&",
+7,8094735,story,,,1,0,adamnemecek,Built with Ember.js: Showcase of projects built with Ember.js,http://builtwithember.io/,,1406512559.0
+8,8094734,comment,8093343.0,8094251.0,5,0,toast0,,,"They skirted the rules for local presence for a long time too. They had an engineering office in California, but were not charging sales tax. The office was a wholly owned subsidiary",1406512438.0
+9,8094733,story,,,2,0,bcjordan,JSmol: HTML5 molecule visualizer,http://chemapps.stolaf.edu/jmol/jsmol/jsmol.htm,,1406512347.0
+10,8094732,comment,8094351.0,8094627.0,2,0,fergusom11865,,,They have the same phone ,
+11,8094731,comment,8092321.0,8093115.0,2,0,kiram9,,,"The US Grid is split into three relatively unconnected grids, east coast, west coast, and texas. Each section has one plant designated to keep the frequency, sort of a &quot;master plant&quot; that is used to balance instant load. All of these are synchronized across the US using phaser measurement units that are timed to GPS.<p>The other cool thing about AC power is that you can send power based on the relative phase of a node on the grid. This means that a node at a lower AC voltage can send power to another node at a higher voltage by adjusting the relative phase. Mostly this is done by switching capacitor banks at various transmission nodes to adjust the reactive power component at that node.",1406512341.0
+12,8094730,comment,8094637.0,8094709.0,1,0,aaln,,,"lol, that&",
+13,8094729,comment,8093753.0,8094128.0,3,0,tjarratt,,,"Woah, I&",
+14,8094728,comment,8094559.0,8094702.0,1,0,fivedogit,,,First I&,
+15,8094727,comment,8086258.0,8086521.0,1,0,thejosh,,,"Ah yes, because FreeBSD hasn&",
+16,8094725,comment,8093476.0,8094478.0,2,0,ZenoArrow,,,That&,
+17,8094724,comment,8094307.0,8094307.0,10,0,natch,,,Nice. For tutorials like this it would be nice to see more details on the &quot;how&quot; of each step. For example:<p>&quot;We setup DNS info to point here (both NS1 and NS2...&quot;<p>That&,
+18,8094723,comment,8092938.0,8094514.0,2,0,mililani,,,"Yeah, I&",
+19,8094722,comment,8094351.0,8094712.0,2,0,staunch,,,Hey - even Jarvis needs a Jarvis!,1406512156.0
+20,8094721,comment,8094351.0,8094484.0,3,0,dang,,,> It&,
+21,8094720,comment,8093902.0,8094313.0,3,0,AJ007,,,"As would be China, Russia, the UK, and Australia. I&",
+22,8094719,comment,8094351.0,8094673.0,2,0,ryanSrich,,,This isn&,
+23,8094718,comment,8094351.0,8094704.0,1,0,pygy_,,,What was the nature of your requests?,1406512100.0
+24,8094717,comment,8094637.0,8094637.0,3,0,thrill,,,5.0 (I&,
+25,8094716,comment,8094275.0,8094275.0,3,0,bluthru,,,"Obviously Facebook wants people to feel comfortable so that people will share as much as possible, even if it&",
+26,8094715,comment,8092566.0,8093986.0,1,0,mrobataille,,,Got all 35 - I did brute forcing with a few rules:<p>1) Don&,
+27,8094714,comment,8083307.0,8083307.0,1,0,floyddebarber,,,it seems like 2 years is the average time that founders stick around after acquisition.,1406511956.0
+28,8094713,comment,8093753.0,8094682.0,2,0,shanemhansen,,,Go isn&,
+29,8094712,comment,8094351.0,8094351.0,7,0,billmalarky,,,"&quot;Meet Jarvis, Your Personal Assistant Who Never Sleeps&quot;<p>Then when I click on Live chat:<p>&quot;We&",
+30,8094711,comment,8094351.0,8094351.0,3,0,filmgirlcw,,,"See, I need to hire a personal assistant to deal with email, but I&",
+31,8094710,comment,8094351.0,8094668.0,1,0,fergusom11865,,,I&,
+32,8094709,comment,8094637.0,8094637.0,1,0,taroth,,,Nice hack. I imagine using it to see if a driver gave me a good rating or not based on the delta between my new score and old score.,1406511870.0
+33,8094708,comment,8093446.0,8093841.0,3,0,webkike,,,String Theory is only more popular because there are ted talks on it and thus people who shouldn&,
+34,8094707,comment,8093743.0,8094327.0,2,0,brk,,,"Another vote for Amy & Brian brand, FWIW.",1406511795.0
+35,8094706,comment,8094637.0,8094637.0,4,0,mrvladnov,,,"this is dope, got a 4.8",1406511766.0
+36,8094705,story,,,12,7,slyall,Why do Americans stick at Math?,http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html&hn=1,,1406511763.0
+37,8094704,comment,8094351.0,8094351.0,11,0,fergusom11865,,,"Tried it. After 3 requests, all of which would have taken less than the prescribed 15 minutes, was told it wasn&",
+38,8094703,comment,8094275.0,8094275.0,11,0,sroerick,,,Facebook thinks &quot;Privacy&quot; is controlling what your friends see.<p>Controlling what my friends see is the least of my concerns on Facebook.,1406511739.0
+39,8094702,comment,8094559.0,8094568.0,1,0,walterbell,,,Would you consider supporting OpenAnnotation or similar efforts from W3C?<p>Cold-start: convince a site with an existing audience to promote it.,1406511731.0
+40,8094701,comment,8093912.0,8093912.0,1,0,fiatjaf,,,"Are you AUTOMATING MOUSE CLICKS? I really like it, but I&",
+41,8094700,comment,8093343.0,8094329.0,0,0,TheMagicHorsey,,,"Dude, I don&",
+42,8094699,comment,8093476.0,8094002.0,2,0,e12e,,,"I seem to recall neo4j (could be it was another nosql db/company) had some strange ideas about the agpl. Of course if the <i>drivers</i> are covered by agpl and linked into your application, then you might have to create a new api &quot;border&quot; (eg:HTTP REST) between whatever code you want to license differently and the agpl server. I don&",
+43,8094698,comment,8094351.0,8094497.0,3,0,MisterBastahrd,,,Jarvis is the long-time butler of the Avengers mansion.  That&,
+44,8094696,comment,8094351.0,8094640.0,1,0,brianbreslin,,,That was the first thing that popped into my head. I have been thinking of rejoining fancyhands as I get busier.,1406511583.0
+45,8094695,comment,8093796.0,8093867.0,1,0,sadkingbilly,,,"Flippa is probably his best bet, but you&",
+46,8094694,comment,8094307.0,8094675.0,1,0,mxpxrocks10,,,cool - thanks,1406511424.0
+47,8094693,comment,8065028.0,8066081.0,1,0,gress,,,When does this magical tipping point arrive?,1406511396.0
+48,8094692,comment,8093830.0,8094387.0,2,0,ams6110,,,Unless your fusion technology is able to work directly in transport vehicles there will still be a need for petroleum based fuels for a good while. EV battery technology isn&,
+49,8094691,comment,8094307.0,8094307.0,0,0,lingben,,,"or you know, if your concern is cost, go with cdn.net and pay as you go for a kickass global cdn network<p>full disclosure, I have no business or personal connection to them",1406511381.0
+50,8094690,comment,8093796.0,8093796.0,1,0,lnanek2,,,"Unfortunately, there are thousands of sites for booking out there, although honestly, most of them just use Expedia&",
+51,8094689,comment,8092938.0,8093661.0,3,0,Stubb,,,"Another option, at least in the United States if you&",
+52,8094688,comment,8085213.0,8089638.0,1,0,thret,,,"I must admit to being ignorant of the specifics. My brother in law is a pastor, and he mentioned that he tithes/donates by CC  because it is tax deductible. He used to teach accounting, so I am sure that he understands the system.",1406511299.0
+53,8094685,comment,8094275.0,8094629.0,2,0,walterbell,,,Funny that Facebook is citing the time when they used to have more privacy options.  A bit late now.  Business model changes would have a better chance of regaining lost trust.,1406511269.0
+54,8094684,story,,,44,54,qzervaas,"Apple Featured My Game, Here's Why I Changed It",http://zervaas.com.au/blog/hexiled-feature.html,,1406511249.0
+55,8094683,story,,,1,0,sizzle,Terror Prosecutions and Muslim-Americans,http://www.newyorker.com/news/news-desk/terror-prosecution-muslim-americans,,1406511173.0
+56,8094682,comment,8093753.0,8094032.0,2,0,aikah,,,what about a Go compiler written in Go? is it bootstraped already?,1406511167.0
+57,8094681,comment,8093753.0,8094269.0,2,0,jonathanyc,,,More advanced transformers even handle direct transformation of library calls to &quot;native&quot; library calls in the target language. I think it&,
+58,8094680,comment,8092566.0,8094482.0,2,0,ppod,,,It&,
+59,8094679,comment,8094351.0,8094627.0,0,0,zyxley,,,Even the domain&,
+60,8094678,comment,8094134.0,8094352.0,2,0,girvo,,,<i>> They&,
+61,8094677,comment,8093393.0,8093652.0,1,0,subsection1h,,,"> <i>Stylus is great. Compared to Sass, I think it’s easier, more or equally powerful</i><p>In what ways is Stylus more powerful than Sass?",1406511025.0
+62,8094676,story,,,1,0,hrb1979,Predicting where you're from by how you write,http://www.csail.mit.edu/node/2283,,1406511006.0
+63,8094675,comment,8094307.0,8094307.0,1,0,fakeyfake,,,"Reminds me of this article about hosting a CDN on digitalocean for the dash documentation software.<p><a href=""http://blog.kapeli.com/a-poor-mans-cdn"" rel=""nofollow"">http://blog.kapeli.com/a-poor-mans-cdn</a>",1406511003.0
+64,8094674,comment,8094094.0,8094638.0,7,0,mikeash,,,"Somewhat similar: during the early nuclear bomb design work, people would sometimes perform criticality experiments <i>by hand</i> on plutonium cores. There were, naturally, accidents, with two people dying immediately and several others dying years later likely due to the radiation exposure.<p>See: <a href=""http://en.wikipedia.org/wiki/Demon_core"" rel=""nofollow"">http://en.wikipedia.org/wiki/Demon_core</a>",1406510987.0
+65,8094673,comment,8094351.0,8094635.0,10,0,avalaunch,,,And therein lies the problem with the whole lean movement.  You can never truly invalidate an idea.  You can only invalidate your &,
+66,8094672,comment,8093753.0,8094062.0,2,0,jerf,,,"This could be a step in that process, but in the grand scheme of things required to compile one language to another, the mere front-end parser is not generally all that significant a portion of the effort. The vast majority of the effort would be the bug-for-bug compatible implementation of PHP semantics and base libraries and functionality.<p>(&quot;Bug-for-bug&quot; here does not mean that PHP has a lot of bugs <i>per se</i>. What it is is the highest level of compatibility. An emulator of a game console strives to be &quot;bug-for-bug&quot; compatible, for instance. Programming and programming languages being what they are, anything less often turns out to be surprisingly non-linearly less useful, i.e., &quot;80% compatible&quot; isn&",
+67,8094671,comment,8093476.0,8094241.0,1,0,_delirium,,,"If someone modified the database and deployed it publicly (or as part of a webapp that was deployed publicly), they&",
+68,8094670,comment,8092566.0,8092566.0,1,0,thret,,,"This game is fun, and cute, I like it.<p>One problem with puzzles of this type though, the structure of the problem leads to the solution. If you simply play with the mechanism for re-ordering boxes, you can &",
+69,8094669,story,,,6,0,loourr,SSH with two factor authentication,http://www.howtogeek.com/121650/how-to-secure-ssh-with-google-authenticators-two-factor-authentication/,,1406510870.0
+70,8094668,comment,8094351.0,8094351.0,1,0,allanmacgregor,,,"Funny, I been working on a very similar concept",1406510850.0
+71,8094667,comment,8094651.0,8094651.0,1,0,udfalkso,,,I&,
+72,8094666,comment,8094134.0,8094612.0,5,0,baddox,,,I also don&,
+73,8094665,comment,8094351.0,8094483.0,4,0,brownbat,,,"Jarvis, spend 14 minutes coding this project. And take good notes, I may need you on this again later.",1406510799.0
+74,8094664,comment,8094544.0,8094647.0,1,0,sgdesign,,,"Definitely. The goal of the graph was to provide a visual metaphor, not to be accurate in any way.",1406510765.0
+75,8094663,comment,8093830.0,8094426.0,1,0,fennecfoxen,,,"Yes. Widespread deployment of nearly-free power would save a lot of households a lot of dollars on heating, cooling, and electric costs. It would save web hosting companies a lot of money. After a few years of additional electric-car development, it&",
+76,8094662,comment,8094351.0,8094483.0,1,0,jqm,,,The same way there can be unlimited bandwidth?\nIt just gets real slow if you turn out to be an &quot;abuser&quot;-:),1406510733.0
+77,8094661,comment,8094307.0,8094540.0,1,0,mxpxrocks10,,,added this to the article in the &quot;Todo&quot; section. thanks for the feedback.,1406510692.0
+78,8094660,comment,8093905.0,8094319.0,1,0,TheLoneWolfling,,,Insertion sort is faster for already-sorted data.<p>(Note: I am not advocating to use insertion sort!),1406510683.0
+79,8094659,comment,8092938.0,8094085.0,2,0,TheOtherHobbes,,,"This is more or less how the Royal Society started.<p>Academia should now be considered a conglomerate of business corporations, dedicated primarily to increasing profits and income and cutting costs.<p>Like other corps there&",
+80,8094657,comment,8094134.0,8094634.0,1,0,fnordfnordfnord,,,"Someone is probably playing fast and loose with terminology. There are apparently a number of optional capabilities.<p><a href=""https://info.publicintelligence.net/Harris-SurveillancePriceList.pdf"" rel=""nofollow"">https://info.publicintelligence.net/Harris-SurveillancePrice...</a><p><a href=""http://arstechnica.com/tech-policy/2013/09/meet-the-machines-that-steal-your-phones-data/"" rel=""nofollow"">http://arstechnica.com/tech-policy/2013/09/meet-the-machines...</a>",1406510606.0
+81,8094656,comment,8094134.0,8094352.0,3,0,mikeash,,,This implies that private use of a system like Stingray should be legal and completely fair game. I somehow doubt the government would agree with that.,1406510605.0
+82,8094655,comment,8093830.0,8094387.0,1,0,maratd,,,Can someone name a single time something like this has happened?,1406510576.0
+83,8094654,comment,8094299.0,8094299.0,2,0,tghw,,,"The &quot;McMaster Studies&quot; showed similar, that short sprint/rest interval training (30 second sprint, 4 minute rest, 250% of VO2 max) was equally effective as moderate long distance (90-120 minutes of 65% of VO2 max).<p><a href=""http://jp.physoc.org/content/575/3/901.full",
+84,8094653,comment,8092938.0,8094556.0,3,0,WalterBright,,,"My post is not the conventional wisdom, hence I expect the downvotes. But hear me out.<p>I said investors, not an individual. There are a lot of professional investors who full time investigate a company, in fact Wall Street is full of them. Do I really believe that you (or I) am better informed about a company&",
+85,8094652,comment,8094299.0,8094614.0,4,0,tinco,,,What conventional wisdom is that? The standard for warm up is 5 minutes isn&,
+86,8094651,story,,,9,6,panabee,Ask HN: Where are you hosting images and what are you paying monthly?,,"Given the offerings from Microsoft and Google, curious which devs are still using S3 for image hosting. Costs will obviously vary based on usage but just curious about the range (for both total and per image).",1406510516.0
+87,8094650,comment,8092784.0,8093310.0,4,0,superuser2,,,Wikileaks was engaged in a violation of that democratic country&,
+88,8094649,story,,,6,3,nnd,"Ask HN: Startup Weekend, is it worth it?",,I&,
+89,8094648,comment,8094351.0,8094563.0,2,0,CaveTech,,,"Someone has, actually [1]. Dozens of people also seem to have at least partial implementations.<p>[1] <a href=""http://imessageonandroid.com/"" rel=""nofollow"">http://imessageonandroid.com/</a>",1406510496.0
+90,8094647,comment,8094544.0,8094544.0,1,0,minimaxir,,,"> <i>Because I picked the units myself, these data points end up nicely aligned. </i><p>You&",
+91,8094646,comment,8092938.0,8094326.0,2,0,hyperbovine,,,It may not surprise you to learn that I don&,
+92,8094645,comment,8094307.0,8094452.0,1,0,mxpxrocks10,,,got this fixed. thanks for the heads up.,1406510425.0
+93,8094644,comment,8093446.0,8093944.0,2,0,chunky1994,,,Well that&,
+94,8094643,comment,8094119.0,8094492.0,1,0,yeukhon,,,"Hmm yes you are right. I should be more careful with the tone. Yes, I was merely suggesting if all possible, try outdoor instead of indoor.<p>The point of sit ups and push ups is so you can stretch your body after you wake up. I have back problem and it helps if I stretch a little every day. For many of us here on HN, sitting down on a chair for several hours straight is typical and thus any body stretching is very effective. Both are pretty exhaust exercise.<p>For elders, one of their priority is to ensure bones are strong. They can drink milk, but in addition, outdoor (sunlight) and careful body stretching are necessary.",1406510384.0
+95,8094642,story,,,4,0,cryptoz,SpaceX President Says Company Will Dominate The Solar System In 2100,http://www.businessinsider.com/spacex-will-dominate-the-solar-system-in-2100-2014-7,,1406510352.0
+96,8094640,comment,8094351.0,8094351.0,4,0,rtpg,,,What&,
+97,8094639,story,,,1,1,evaliu,Tartaric acid supplier in China,http://www.dl-tartaric-acid.com/,,1406510327.0
+98,8094638,comment,8094094.0,8094094.0,6,0,fnordfnordfnord,,,"I was told by staffers at Fermilab that it was once not uncommon for experimenters to stand in the experiment blockhouses and manually position detectors in the beam. Sometimes maybe even traversing the beam in front of the beam-dump. Not the main ring beamline of course, that would probably be fatal, but the at the Meson Test Beam line. Nowadays those areas are locked out such that breaching the area would shut off the beam before you could reach it. Of course, it was probably locked-out then as well, but now you&",
+99,8094637,story,,,323,192,aaln,How to find your Uber passenger rating,https://medium.com/@aaln/4aa1d9cc927f,,1406510323.0
+100,8094636,comment,8093446.0,8093844.0,2,0,mtdewcmu,,,I think it&,
+101,8094635,comment,8094351.0,8094627.0,6,0,lukeholder,,,This is a result of the whole lean movement. Validate your idea with customer feedback before you spend a bunch of money. Yes it means things will be a little smoke and mirrors to begin with but that doesn&,
+102,8094634,comment,8094134.0,8094419.0,1,0,mason240,,,"The article initially claims that<p>>Once these devices connect, the stingray can be used to actually eavesdrop on conversations, text messages, and web browser activity.<p>Yet further reading shows that &quot;all&quot; it can do is triangulate your position, something no where near actually intercepting data.",1406510308.0
+103,8094633,story,,,4,0,vinnyglennon,Russia Just Shelled Ukraine,https://medium.com/war-is-boring/russia-just-shelled-ukraine-7b3ffe694f73,,1406510302.0
+104,8094632,comment,8094299.0,8094299.0,5,0,doorhammer,,,Lot of mentions of whether or not the person is sedentary/just starting off.  I&,
+105,8094631,comment,8092566.0,8092566.0,3,0,michaelochurch,,,This is a really elegant game. Kudos to the designer. It&,
+106,8094630,comment,8089948.0,8090705.0,1,0,sdrothrock,,,"Can do!<p><a href=""https://github.com/jeresig/jquery.hotkeys"" rel=""nofollow"">https://github.com/jeresig/jquery.hotkeys</a><p>I&",
+107,8094629,comment,8094275.0,8094275.0,3,0,cheepin,,,Still not sold on the idea of a company whose revenue source is targeted ads caring about their user&,
+108,8094628,story,,,2,0,rfreytag,12 Things I Learned from Marc Andreessen,http://a16z.com/2014/07/21/a-dozen-things-ive-learned-from-marc-andreessen/,,1406510090.0
+109,8094627,comment,8094351.0,8094351.0,21,0,lazzlazzlazz,,,I can&,
+110,8094626,comment,8094351.0,8094477.0,1,0,lazerwalker,,,"iMessage (well, Messages.app) is scriptable on the Mac via AppleScript (see <a href=""https://github.com/lazerwalker/hubot-imessage"" rel=""nofollow"">https://github.com/lazerwalker/hubot-imessage</a>). Figuring out how to scale it might be tricky, but for the time being they could be using some Mac scripts to intercept the iMessages, shoot them off to the appropriate assistant via some other interface, and then send the resulting iMessages back through the same Mac interface.",1406510006.0
+111,8094623,comment,8077743.0,8077743.0,1,0,Chinjut,,,What are the thoughts of current mainstream economists on &quot;basic income&quot; proposals?,1406509974.0
+112,8094621,story,,,2,0,doorhammer,HIIT training programmes in highly trained endurance athletes. (abstract),http://www.ncbi.nlm.nih.gov/pubmed/11772161,,1406509968.0
+113,8094620,comment,8093324.0,8094176.0,1,0,snide,,,"Hmm, if you mean forms on the front-facing website, currently no. You can inject data into your firebase following our json formatting guide though. If you go that route, the possibilities are pretty endless.<p><a href=""http://www.webhook.com/docs/importing-custom-data/"" rel=""nofollow"">http://www.webhook.com/docs/importing-custom-data/</a>",1406509949.0
+114,8094619,comment,8094307.0,8094561.0,4,0,_delirium,,,"If you have quite low usage yes, and if you have quite high usage you probably won&",
+115,8094618,comment,8093446.0,8093844.0,2,0,chunky1994,,,"While I agree with what you are saying, I&",
+116,8094615,comment,8090996.0,8092900.0,1,0,lucasjans,,,A downvote when requesting the facts. Interesting.,1406509840.0
+117,8094614,comment,8094299.0,8094594.0,1,0,Dewie,,,Conventional wisdom says that you&,
+118,8094612,comment,8094134.0,8094366.0,2,0,ams6110,,,"Law enforcement are permitted to lie to get private information, e.g. in an interrogation. They would need to have at least probable cause if not a warrant to conduct that interrogation though.",1406509836.0
+119,8094611,story,,,1,0,jimmcslim,Deconstructing React.js's Flux,http://spoike.ghost.io/deconstructing-reactjss-flux,,1406509827.0
+120,8094610,comment,8094299.0,8094564.0,4,0,doorhammer,,,"Thanks for the summary; found it when I was looking up more info after looking at the other article (<a href=""https://news.ycombinator.com/item?id=8094119"" rel=""nofollow"">https://news.ycombinator.com/item?id=8094119</a>)<p>Most of the commentary from there probably pertains.<p>One thing I noticed in this study is that (unlike a few other articles where I couldn&",
+121,8094609,comment,8094134.0,8094424.0,4,0,jedunnigan,,,">Would it be possible to determine if your phone was connected to a Stingray instead of a regular cell phone tower?<p>Yep.<p><a href=""https://opensource.srlabs.de/projects/mobile-network-assessment-tools/wiki/Tutorial"" rel=""nofollow"">https://opensource.srlabs.de/projects/mobile-network-assessm...</a>",1406509789.0
+122,8094608,story,,,1,0,narenreddy,Wall Street's Brightest Minds Reveal The Most Important Charts In The World,http://www.businessinsider.com/bi-most-important-charts-in-the-world-2014-7,,1406509782.0
+123,8094607,comment,8094307.0,8094307.0,0,0,xxdesmus,,,I&,
+124,8094606,story,,,3,0,gregornoriskin,"Applied Architecture Patterns on the Microsoft Platform, 2nd Edition",http://www.amazon.com/Applied-Architecture-Patterns-Microsoft-Platform/dp/1849689121,,1406509731.0
+125,8094605,comment,8094351.0,8094513.0,2,0,umrashrf,,,"Not sure why was this down voted. I will clarify. By Android application I mean, a server side application which listen for incoming texts and respond to them via text msgs.",1406509712.0
+126,8094604,comment,8092938.0,8094046.0,3,0,protonfish,,,"I discovered while working as a research assistant that the post docs made about the same amount as I did and less than the secretaries (they had a union.) During my child support hearing the lady at friend of the court gave me the best unintentional advice I ever received while explaining why I had to pay my ex-wife more than I could possible afford on my salary. She said &quot;You are making much less than someone of your skills and experience should.&quot;<p>And so I was forced to change careers. Doing research was fun, but if you want to do it (or make pottery or be in a band) professionally, then I recommend your spouse has a real job.",1406509659.0
+127,8094603,comment,8093476.0,8094101.0,2,0,wlesieutre,,,"Same here, I&",
+128,8094602,comment,8093051.0,8093916.0,1,0,GFK_of_xmaspast,,,No of course not because whenever somebody whispers &,
+129,8094601,comment,8094351.0,8094582.0,3,0,daniel-cussen,,,"People.  From the bottom of the page:<p>>Light Speed, Meet Human Intelligence // College-Educated & US-Based<p>It&",
+130,8094600,comment,8094351.0,8094351.0,2,0,cheese1756,,,"Small typo on step 2 of the signup:<p>&quot;We collect your card now though, in case you want us to purchase things durring the trial.&quot; (should be &quot;during&quot; instead of &quot;durring&quot;)",1406509598.0
+131,8094599,story,,,22,9,curtis,A new project stashes carbon dioxide in the form of minerals,http://www.slate.com/articles/health_and_science/new_scientist/2014/07/carbfix_co2_storage_project_mineralize_carbon_dioxide_into_carbonates_to.html,,1406509579.0
+132,8094598,comment,8093615.0,8094169.0,1,0,anu_gupta,,,"Selling Suarez had very little to do with making a profit. If Suarez had wanted to stay at LFC, he would still be there.",1406509570.0
+133,8094597,comment,8094299.0,8094594.0,3,0,x0x0,,,participants where untrained,1406509562.0
+134,8094596,comment,8094134.0,8094364.0,1,0,harryh,,,Collecting your trash can and inspecting the contents isn&,
+135,8094595,comment,8093476.0,8094478.0,1,0,wheaties,,,It&,
+136,8094594,comment,8094299.0,8094564.0,2,0,pangram,,,"Yeah, I was surprised by the fact that such a short duration of exercise (11 minutes of exercise twice / week) could have such a large impact on health.  I wish there were more details on how much exercise each group had before the study -- my question is whether HIT on its own is good enough, or does it require normal exercise as well?",1406509518.0
+137,8094593,comment,8090493.0,8094367.0,1,0,IvyMike,,,We all know it was Tim Hortons.,1406509510.0
+138,8094592,comment,8094351.0,8094569.0,3,0,spilk,,,The easier answer is that the screenshots are faked and not actually sent through the service; they probably just renamed a real contact who happened to have an iPhone &,
+139,8094591,comment,8094307.0,8094555.0,2,0,pushrax,,,CloudFlare&,
+140,8094590,comment,8094134.0,8094534.0,4,0,fnordfnordfnord,,,I&,
+141,8094589,comment,8094307.0,8094560.0,2,0,mxpxrocks10,,,itchy trigger finger :-) didn&,
+142,8094588,comment,8092108.0,8092596.0,1,0,maurizzzio,,,thanks! I&,
+143,8094587,comment,8093775.0,8094509.0,2,0,jpatokal,,,It&,
+144,8094586,comment,8093902.0,8094313.0,3,0,xenadu02,,,"Or you know - Russia could stop meddling in Ukrainian affairs, stop shipping arms across the border, etc.<p>FYI: it isn&",
+145,8094585,story,,,1,0,luu,Young college grads' wage growth is falling farther and farther behind,http://www.vox.com/2014/7/21/5921595/young-college-grads-wage-growth-is-falling-farther-and-farther-behind,,1406509373.0
+146,8094584,comment,8093830.0,8094387.0,1,0,rpedela,,,"Distribution always take time. Even if LPP [1], achieves what they are attempting which would be a complete game changer, it would take time to distribute the fusion power plants. Or one of the other projects succeeds, same thing. In addition, the first application of fusion will be for buildings. Most base power comes from coal and natural gas not oil. So I think the Middle East will be okay for awhile. The sort of power plant LPP is developing could theoretically be used for large vehicles (trains, large planes, large ships), but you still need oil for cars, trucks, and plastic. Even then, it will take many years for the vehicle fleet to switch over to fusion or any other non-oil power source.<p>I am not worried.<p>1. <a href=""http://lawrencevilleplasmaphysics.com/"" rel=""nofollow"">http://lawrencevilleplasmaphysics.com/</a>",1406509355.0
+147,8094583,comment,8094307.0,8094546.0,1,0,mxpxrocks10,,,it can be quite a lot.  you can test using a CDN or a setup like this and the tools over at www.webpagetest.org (from Patrick Meehan - who is awesome) from different locations.,1406509337.0
+148,8094582,comment,8094351.0,8094351.0,1,0,zcase,,,Can someone tell us what kind of &quot;artificial intelligence and futuristic tech&quot; these guys have?,1406509334.0
+149,8094579,comment,8093789.0,8094244.0,1,0,ejr,,,That&,
+150,8094576,comment,8093775.0,8094407.0,4,0,jpatokal,,,"More relevantly, Google pulled out of China in 2010 after refusing to comply with censorship requirements.  They had a 31% share at the time.<p><a href=""https://en.wikipedia.org/wiki/Google_China"" rel=""nofollow"">https://en.wikipedia.org/wiki/Google_China</a>",1406509216.0

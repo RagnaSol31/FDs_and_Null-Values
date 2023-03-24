@@ -1,0 +1,128 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10961402,comment,10960617.0,10960885.0,0,0,DrScump,,,"Clicking on the &quot;web&quot; link for a given post does exactly this.  In 20+ attempts (including this article), it has always worked for me.<p>Even though I have a subscription to sfchronicle.com, this way is generally easier than logging in.",1453607914.0
+1,10961401,comment,10959193.0,10960914.0,0,0,shard,,,This is a common way to dry clothes in Korea. I&,
+2,10961400,comment,10957449.0,10957449.0,0,0,rdudekul,,,"A well thought out article on Indian startups. India has a large number of ambitious, intelligent and hard working wanna-be entrepreneurs. However at some levels cloning is preferred over creativity and fundamental thinking. So you will see multiple startups (not unlike here in the US) competing in the same space, mostly copying each other&",
+3,10961399,comment,10957780.0,10957780.0,0,0,hhw3h,,,When running a cloud based continuous deployment build it would be an awesome way to get an indication that the build successfully deployed or failed.,1453607831.0
+4,10961398,comment,10959390.0,10961012.0,0,0,Strom,,,It&,
+5,10961396,comment,10960760.0,10961069.0,0,0,bitL,,,"Unfortunately, the coworkers might not be intellectually capable of understanding it at all, not even in infinite time :-( I understand this could be a management nightmare, but some things are just &quot;given from above&quot; and you can either turn a blind eye on them and lose the race, or use them for the benefit of your people. I would choose the latter even if I can&",
+6,10961395,comment,10961039.0,10961201.0,0,0,OJFord,,,This doesn&,
+7,10961394,comment,10957315.0,10960703.0,0,0,cousin_it,,,"> <i>But classical, frequentist techniques incorporate priors implicitly: a flat prior indicating we have no information other than the data.</i><p>That&",
+8,10961393,comment,10961355.0,10961355.0,0,0,VeilEm,,,"If we get better at this and are able to create detailed enough scans of a brain maybe we can recreate that person some day, including memories and everything.",1453607739.0
+9,10961392,comment,10956656.0,10960311.0,0,0,mikeyouse,,,Wind power.. and tens of millions in tax credits.. It&,
+10,10961391,comment,10961039.0,10961039.0,0,0,OJFord,,,"System Administrator for IT Company, and freelance developer.",1453607696.0
+11,10961390,story,,,2,0,adambenayoun,Plays Well with Others,https://500hats.com/plays-well-with-others-e36ccf61483a,,1453607667.0
+12,10961389,comment,10961076.0,10961076.0,0,0,tracker1,,,"Is it really that surprising?  IPO is based on what the real value should be... is it surprising that they settle in close to that value?  For companies that are barely, if as all breaking even, who are planning on investing any intake into additional marketing rather than shoring up their platform and staffing costs better.<p>It doesn&",
+13,10961388,comment,10960760.0,10961101.0,0,0,bitL,,,"Sure, but companies like SUN have huge automated testing suites that run after each commit, as well as gazillion of branches. And the author of the code is most likely contributing plenty of those tests, if only in philosophical sense (by the hands of accompanying SDET).<p>And whether you like it or not, the best companies rise and fall with geniuses. You can&",
+14,10961387,comment,10949638.0,10949638.0,0,0,medv,,,We use it for production deployment to more than 100+ servers. \nReally fast.,1453607627.0
+15,10961386,story,,,2,0,sdas7,Academia or Industry? A Brief Guide to Jobs After the Ph.D,http://makewritelearn.com/academia-or-industry-1,,1453607609.0
+16,10961385,comment,10959920.0,10960969.0,0,0,mikestew,,,"That was the first Yourdon book I read (still have the hard-cover around somewhere), and because of that it was the last. I had the same impression as you: &quot;sky is falling&quot; garbage, and time has vindicated those of us who thought so. I know <i>of</i> Yourdon and can understand the general appreciation of the man, but because the first impression was last, I just never pursued the rest of his writing. Petty of me, I know, but there&",
+17,10961384,comment,10960310.0,10961258.0,0,0,frozenport,,,The author&,
+18,10961383,story,,,4,0,crc321,Fastpacking the John Muir Trail,https://medium.com/@craigcannon/fastpacking-the-john-muir-trail-b44b2469e62d,,
+19,10961382,comment,10951631.0,10951631.0,0,0,rdli,,,"The problem with the premise that APIs fulfill the promise of SOA is that APIs are necessary but not sufficient to describe the interaction between two services. For example, protocol semantics such as retry in case of network failure is absolutely critical to the definition of the contract. The Slack developer &quot;API&quot; is a good example -- not only do they specify your standard REST/websockets APIs, but they include semantics such as rate limiting.",1453607513.0
+20,10961381,comment,10959532.0,10959532.0,0,0,bjourne,,,"IME, optimal register allocation isn&",
+21,10961380,comment,10958079.0,10958332.0,0,0,dang,,,This account&,
+22,10961379,story,,,60,4,luu,COGENT: Certified Compilation for a Functional Systems Language,http://arxiv.org/abs/1601.05520,,1453607375.0
+23,10961378,comment,10959390.0,10959912.0,0,0,mcpherrinm,,,"Netflix still have a private API.  When they shut down the public one, Canistream.it was on the list of services that were still going to have access.",1453607266.0
+24,10961377,comment,10959046.0,10961071.0,0,0,SCAQTony,,,"Yes, I do think so:  When Marco Rubio, Jeb Bush, Donald Trump, Scott Walker, Arguably Ted Cruz endorse NSA meta data collection, yeah, it&",
+25,10961376,comment,10959390.0,10961210.0,0,0,mcpherrinm,,,I&,
+26,10961375,comment,10958079.0,10958209.0,0,0,dang,,,Please don&,
+27,10961374,comment,10958186.0,10960835.0,0,0,moonchrome,,,">and all of its usages, declarations, etc. will be renamed.<p>Along with header include statements in any file that referenced the class - so say I refactored class Foo in include/mylib/foo.hpp and it&",
+28,10961373,comment,10954380.0,10961341.0,0,0,tptacek,,,What other people upvote or downvote on HN is really none of your business.,1453607183.0
+29,10961372,comment,10958123.0,10958123.0,0,0,patio11,,,My favorite startup tradition I&,
+30,10961371,story,,,1,0,ourmandave,Honda Announces Prices for Hydrogen Powered Clarity,http://gas2.org/2016/01/23/honda-announces-prices-for-hydrogen-powered-clarity/,,1453607138.0
+31,10961370,comment,10960760.0,10961077.0,0,0,klodolph,,,"Or how about this: If you have a social problem, don&",
+32,10961368,comment,10957780.0,10960981.0,0,0,billyhoffman,,,From a business&,
+33,10961367,comment,10960310.0,10960784.0,0,0,fao_,,,"Well, the original purpose of copyright was to allow creators to earn <i>enough</i> from their works that they could <i>create more</i>. (Since then I personally feel that it has turned into a form of money-grabbing.)<p>The argument can hardly be made that this applies to Feynman. And in this case -- especially with such a treasure trove of information -- I cannot really see much of a purpose in it not being free to distribute.",1453607079.0
+34,10961364,comment,10958579.0,10959158.0,0,0,YngwieMalware,,,"I think this is what code commenting is for, though",1453606919.0
+35,10961363,comment,10960760.0,10961347.0,0,0,klodolph,,,I&,
+36,10961362,comment,10959390.0,10960647.0,0,0,popekpampam,,,Could you explain me why would you have to buy rights to emit House of Cards?,1453606891.0
+37,10961361,comment,10961191.0,10961191.0,0,0,justinclift,,,Missing &quot;(2011)&quot; on the end of that title. :(,1453606797.0
+38,10961360,comment,10952673.0,10961240.0,0,0,franciscop,,,"I know this one for JS, but not for CSS: <a href=""http://microjs.com"" rel=""nofollow"">http://microjs.com</a><p>However when I published my own css library few recommendations popped up:<p>- Pure CSS [ <a href=""http://purecss.io/"" rel=""nofollow"">http://purecss.io/</a> ]<p>- Min CSS [ <a href=""http://mincss.com/"" rel=""nofollow"">http://mincss.com/</a> ]<p>- Skeleton [ <a href=""http://getskeleton.com/"" rel=""nofollow"">http://getskeleton.com/</a> ]<p>- Picnic CSS (my own) [ <a href=""http://picnicss.com/"" rel=""nofollow"">http://picnicss.com/</a> ]",1453606755.0
+39,10961359,comment,10956638.0,10960394.0,0,0,frozenport,,,Somehow 10 million dollars per store feels cheap.,1453606742.0
+40,10961358,comment,10961039.0,10961039.0,0,0,c22,,,Webmaster?,1453606728.0
+41,10961357,comment,10961149.0,10961149.0,0,0,tracker1,,,"One thing that irked me, perhaps a bit quickly was the use of snake_case over camelCase names... it looks like it&",
+42,10961356,comment,10960760.0,10961034.0,0,0,koko775,,,(oops! sorry for the accidental flag. I was trying to reply and misclicked)<p>That&,
+43,10961355,story,,,152,89,shagunsodhani,MRI Scans of a person's brain,https://github.com/dcunited001/mri-scans,,1453606611.0
+44,10961354,comment,10958579.0,10958975.0,0,0,jonsterling,,,"Ah, OK. It&",
+45,10961353,comment,10955014.0,10960602.0,0,0,andreyk,,,Done! :),1453606568.0
+46,10961352,story,,,2,0,rmason,The roadways of the future could de-ice themselves,http://www.popularmechanics.com/technology/infrastructure/a19091/electric-road-deicing/,,1453606547.0
+47,10961351,comment,10952673.0,10961276.0,0,0,cooper12,,,"Hmm, I agree that zero configuration would be ideal, but everyone has different needs. Design can especially be opinionated, with a person deciding &quot;this is how this should be done.&quot; Of course picking a purple color doesn&",
+48,10961350,comment,10956656.0,10956656.0,0,0,Animats,,,Wind gets even better going northward from the Texas panhandle up to Canada. But there&,
+49,10961349,story,,,3,0,jmspring,Meet the guy in charge of convincing people Microsoft is not evil,http://www.businessinsider.com/microsoft-john-shewchuk-interview-2016-1,,1453606507.0
+50,10961348,comment,10960760.0,10961139.0,0,0,klodolph,,,"Yes.  I currently use Subversion at work, and the only way I keep things working smoothly is by using Git locally, and then checking changes from Git into Subversion when they&",
+51,10961347,comment,10960760.0,10961113.0,0,0,deathanatos,,,"In the general case, I agree; rebases do lose a bit of context. As a code reviewer, however, I find the reason I most often ask for a rebase & squash is that the &quot;context&quot; that I&",
+52,10961346,comment,10959074.0,10960139.0,0,0,drdeca,,,"see: &quot;It is a rhetorical statement, not a literal one.&quot;<p>I was expressing [distaste/dislike/disapproval] [for/of] moral relativism. Was this somehow not obvious to you? Are you merely feigning incomprehension? If you are, to what end? (Would you think that I would think that it benefits your reproductive fitness?)<p>> You&",
+53,10961345,comment,10954380.0,10961211.0,0,0,jsprogrammer,,,"Maybe it is you who misunderstands? I see your point, but my point is different. If you can give me the specific words of mine that you believe show a misunderstanding, I could try to clarify.",1453606359.0
+54,10961344,comment,10951584.0,10961137.0,0,0,whoopdedo,,,And what alternative do you have in mind? We could redefine how long a year is. But that would require some tricky orbital engineering and a very large rocket.,1453606330.0
+55,10961343,comment,10960760.0,10961063.0,0,0,klodolph,,,I don&,
+56,10961342,comment,10952673.0,10960845.0,0,0,franciscop,,,Note that bootstrap also requires jquery for many things which adds another 33kb for the 2.x version<p>Is 25kb for the single .css file or the .css and .js combined?,1453606295.0
+57,10961341,comment,10954380.0,10961060.0,0,0,jsprogrammer,,,Karma is just mutable state with no backing event log?<p>Edit: I would also settle for a live stream of events; don&,
+58,10961340,comment,10956638.0,10956638.0,0,0,Tiktaalik,,,Here&,
+59,10961339,comment,10951631.0,10961315.0,0,0,skylan_q,,,"Sticking to the theme about gripes about APIs, why do so many companies have APIs and no webhooks? Polling sucks. Many SaaS providers will say it&",
+60,10961338,comment,10955014.0,10960946.0,0,0,syllogism,,,In my experience it&,
+61,10961337,comment,10960123.0,10960123.0,0,0,autopov,,,How does one get &quot;seal salt&quot;?,1453606125.0
+62,10961336,comment,10951951.0,10961065.0,0,0,skybrian,,,This isn&,
+63,10961335,comment,10961213.0,10961213.0,0,0,Ezhik,,,How come Chrome does not support native notifications neither on Windows nor OS X?<p>What is the situation like on Linux?,1453606085.0
+64,10961334,comment,10951951.0,10960884.0,0,0,orionblastar,,,"Yes I learned how to program on paper. It was when computer access was expensive. We learned how to write code on paper and then go over each line with a table for variable values as we run over the code.<p>I learned BASIC on punch cards using an IBM Mainframe for the junior high school math computer club, and it got changed to the math contest club after they couldn&",
+65,10961333,comment,10951908.0,10951908.0,0,0,Marat_Dukhan,,,"Wow, this is very nice! I use UptimeRobot for one of my projects, and it took me several hours to set up the tests there. And now I configured the same tests on ping-api in just few minutes!",1453606078.0
+66,10961332,comment,10952673.0,10952673.0,0,0,franciscop,,,"Hi there, I am the creator of Picnic CSS [1], a 5kb library similar to this one. I love the page and the logo, really minimalist and clean. A couple of tips for the library:<p>- Subtle animations. It doesn&",
+67,10961331,comment,10956656.0,10960124.0,0,0,barney54,,,The lack of storage isn&,
+68,10961330,comment,10959046.0,10960083.0,0,0,ende,,,This doesn&,
+69,10961329,comment,10959390.0,10960624.0,0,0,scarboy,,,The DNS don&,
+70,10961328,comment,10960760.0,10961250.0,0,0,madeofpalk,,,"We do peer code reviews in pull requests which require at least n people to approve, as well has automated tests which run and report their status back (blocking the PR if tests fail).",1453605954.0
+71,10961327,comment,10956638.0,10959898.0,0,0,Tiktaalik,,,"Some of those Zellers locations were super premium locations. In BC one was at Oakridge Mall, which is one of the top malls in North America by sales by square foot. They also grabbed a spot at Metrotown, another very successful mall.<p>Unfortunately they also grabbed a lot of other locations that were probably underperforming. They over extended themselves.",1453605924.0
+72,10961326,comment,10948238.0,10961307.0,0,0,rpgmaker,,,That&,
+73,10961325,comment,10957013.0,10960672.0,0,0,dogma1138,,,Doesn&,
+74,10961324,comment,10952724.0,10961224.0,0,0,stevespaced,,,just web audio api&,
+75,10961323,comment,10952724.0,10961222.0,0,0,stevespaced,,,its me :)\n@stevespaced on twitter. lots of good stuff in the works,1453605821.0
+76,10961322,comment,10960872.0,10960872.0,0,0,zepto,,,"This is gibberish.  The programming tools on the iPad are already quite powerful - far better than those old basic powered micros.<p>There is also no reason to believe that XCode or the equivalent will not come to iOS now that the devices are nearly performant enough.<p>As far as a completely open system like Smalltalk goes - that was a wonderful world which I wish we lived in, but we don&",
+77,10961321,comment,10955014.0,10961264.0,0,0,Esau,,,"CRM114 in an interesting mail sorting tool, although I don&",
+78,10961320,comment,10952724.0,10961253.0,0,0,stevespaced,,,"Yep, same for the 808&",
+79,10961319,comment,10956097.0,10960258.0,0,0,SeanLuke,,,Why do you need to provide the documents?  Why not just provide links to them?  Google can do this with no legal issues: surely you can too.,1453605745.0
+80,10961318,comment,10957780.0,10960794.0,0,0,rpgmaker,,,Animated favicons are a huge distraction and suck. From the looks of it this project aims to make the favicon display useful information like notification counts instead of animated loops.,1453605700.0
+81,10961317,comment,10951631.0,10951631.0,0,0,aryehof,,,"My belief is that how to divide systems into small pieces and have them communicate technically, be reused and composed, is masking the real problem.<p>The real problem is representing and implementing a complex business problem or system <i>within</i> the service or application.<p>Technical emphasis instead of one on the business solution - of modeling the problem domain into code - is a bad smell?",1453605697.0
+82,10961316,comment,10951951.0,10961219.0,0,0,moultano,,,Seriously! Any programmer would get pilloried for working solely in single letter variable names. It&,
+83,10961315,comment,10951631.0,10951631.0,0,0,bcg1,,,The main problem with &quot;SOA&quot; is that the big software corporations (the type that often have 3 letters in their names) realized they could make millions by layering on new 1000 page &quot;standards&quot; on top of the old 1000 page standards and selling crap solutions to CIOs via golf course handshakes.<p>Now they&,
+84,10961313,comment,10960240.0,10960240.0,0,0,kazinator,,,"Good grief, headphones do not need electrical damping. This is relevant to large speakers, and only at around their resonant frequency (as mounted in the cabinet). If you&",
+85,10961312,comment,10951951.0,10961219.0,0,0,contravariant,,,I don&,
+86,10961311,comment,10956656.0,10960749.0,0,0,barney54,,,You have to be careful comparing the cost of wind to the cost of nat gas and other reliable sources of generation. You can&,
+87,10961310,comment,10930397.0,10930762.0,0,0,AznHisoka,,,"Same here. If you make it a strong password that you reuse in another site, there&",
+88,10961309,comment,10957791.0,10958258.0,0,0,jliptzin,,,Imagine how many young people would vote if we had online voting.,1453605480.0
+89,10961308,comment,10959692.0,10959692.0,0,0,DrScump,,,"You might try looking at this other thread:<p><a href=""https://news.ycombinator.com/item?id=10959523"" rel=""nofollow"">https://news.ycombinator.com/item?id=10959523</a>",1453605467.0
+90,10961307,comment,10948238.0,10960405.0,0,0,brianclements,,,I&,
+91,10961306,story,,,15,1,genediazjr,How to track down CPU issues in Node.js,http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/,,1453605314.0
+92,10961305,comment,10957780.0,10961094.0,0,0,Mahn,,,Didn&,
+93,10961304,comment,10958206.0,10959982.0,0,0,nitrogen,,,<i>Conferencing is fairly latency tolerant.</i><p>It&,
+94,10961303,comment,10960240.0,10960417.0,0,0,sprash,,,"But only if you use linear components (meaning L,C,R). Introduce just one diode and the system of diff equations needs to be solved numerically. In which case you have switch to simulations like spice anyways. Therefore there is no reason to even bother with Laplace transforms nowadays. For hobbyists (and the vast majority of professionals) I would consider it completely useless knowledge.",1453605300.0
+95,10961302,comment,10956656.0,10960114.0,0,0,barney54,,,Why should ratepayers subsidize people who put solar panels on their homes? What is wrong with paying people the wholesale rate for the electricity they generate?,1453605300.0
+96,10961301,comment,10957740.0,10959204.0,0,0,eximius,,,I think many of us would be interested in such a &quot;Theory of Errors&quot;,1453605261.0
+97,10961300,story,,,2,0,_jomo,Why Understanding Space Is So Hard,http://nautil.us/blog/this-is-why-understanding-space-is-so-hard,,1453605254.0
+98,10961299,comment,10956656.0,10961217.0,0,0,GFK_of_xmaspast,,,(a) I&,
+99,10961297,story,,,2,0,JoneyKing,Graphene uses in electronics,http://www.graphene-uses.com/graphene-uses-in-electronics/,,1453605193.0
+100,10961296,comment,10959193.0,10959193.0,0,0,jkereako,,,Good stuff. I&,
+101,10961295,comment,10956097.0,10961163.0,0,0,tomcam,,,Touché! Snark retracted. Thanks for the correction.,1453605073.0
+102,10961294,comment,10956638.0,10959792.0,0,0,Pxtl,,,Sounds like every old enterprise database I&,
+103,10961293,comment,10960240.0,10961141.0,0,0,te,,,I use an Acer C720 Chromebook running Linux to drive my virtual piano software.  I had no complaints with it&,
+104,10961292,comment,10952724.0,10952724.0,0,0,jbpetersen,,,I&,
+105,10961291,comment,10952724.0,10961222.0,0,0,jbpetersen,,,Not the programmer but collaborative beat making would be absolutely amazing.,1453604993.0
+106,10961290,comment,10957762.0,10957861.0,0,0,justinclift,,,Maybe the further development of the LED tech could be useful for creating militarily useful lasers?,1453604949.0
+107,10961289,comment,10957780.0,10961037.0,0,0,Pxtl,,,"So does this js work for IE and Safari?  If so, we&",
+108,10961287,comment,10957866.0,10961198.0,0,0,tptacek,,,"No, I&",
+109,10961286,comment,10960240.0,10960483.0,0,0,jzelinskie,,,"He/She has also inspired some other manufacturers to rethink their products. IIRC Schiit was formed when some engineers thought they could improve the O2/ODAC design on their own[0]. I own an original Schiit Stack (Magnus & Modi) and would definitely recommend them.<p>[0]: <a href=""https://news.ycombinator.com/item?id=8834176"" rel=""nofollow"">https://news.ycombinator.com/item?id=8834176</a>",1453604873.0
+110,10961284,comment,10960760.0,10961243.0,0,0,mikeash,,,"Sorry, I&",
+111,10961283,story,,,5,0,rhema,Field Notes from an Expedition into the Paleohistory of Personal Computing,https://kenhinckley.wordpress.com/2016/01/22/field-notes-from-an-expedition-into-the-paleohistory-of-personal-computing/,,1453604805.0
+112,10961282,comment,10959390.0,10961235.0,0,0,lucaspiller,,,I actually don&,
+113,10961281,comment,10959438.0,10959438.0,0,0,DrScump,,,"Invalid link.  This works:<p><a href=""http://www.legacy.com/guestbooks/nytimes/ed-yourdon-condolences/177394902?cid=full"" rel=""nofollow"">http://www.legacy.com/guestbooks/nytimes/ed-yourdon-condolen...</a>",1453604746.0
+114,10961280,comment,10901998.0,10950653.0,0,0,ediasnz,,,I think passing data will be required in some cases in order to solve the dependencies of the next view controller on the flow. Otherwise the store will have to solve these dependencies of all View Controllers which I think it&,
+115,10961279,comment,10957740.0,10959519.0,0,0,eximius,,,Aw. As a user on my phone you make me sad.,1453604706.0
+116,10961278,comment,10957655.0,10961194.0,0,0,abrowne,,,"I remember finding and using CyberDog for while. I think one of the features was the &quot;back&quot; action was fast (instead of basically reloading the previous page from scratch), which sounds boring, but then noticeable when using another browser.<p>I also seem to remember that much the team went on to work on IE for Mac, which was an entirely different code base from Windows IE.",1453604685.0
+117,10961277,comment,10960760.0,10961204.0,0,0,rbehrends,,,> This is only true if you allow commits that haven&,
+118,10961276,comment,10952673.0,10961081.0,0,0,kazinator,,,I&,
+119,10961275,story,,,4,0,svieira,Artificial Intelligence Outperforms Human Data Scientists (2015),http://spectrum.ieee.org/tech-talk/computing/software/artificial-intelligence-outperforms-human-data-scientists,,1453604618.0
+120,10961274,comment,10960760.0,10960760.0,0,0,metaphorm,,,calling things &quot;anti-patterns&quot; might itself be an &quot;anti-pattern&quot;<p>I don&,
+121,10961273,story,,,8,0,kochman,"LeChiffre, Ransomware Run Manually",https://blog.malwarebytes.org/intelligence/2016/01/draft-lechiffre-a-manually-run-ransomware/,,1453604602.0
+122,10961272,comment,10957740.0,10959153.0,0,0,eximius,,,I would love to see this program. Maybe even spend some time trying to get it to compile.,1453604568.0
+123,10961271,comment,10957655.0,10957655.0,0,0,eschaton,,,The OpenDoc sources were on the developer CDs at the time as well. It wasn&,
+124,10961270,story,,,2,0,us0r,The People's Cloud,http://www.thepeoplescloud.org/,,1453604474.0
+125,10961269,comment,10958291.0,10959906.0,0,0,mchahn,,,"> Uber drivers pay their own business expenses, vehicle and gas<p>So they should be considered to be contractors because they have to pay their own expenses?  But they wouldn&",
+126,10961268,comment,10959390.0,10959390.0,0,0,ghshephard,,,"Singapore basically sucks: 672 videos, 494 movies, 178 series<p>Compare to United States: 5677 videos, 4565 movies, 1112 series<p>You get about 1/10th of the content of the (already kind of lame) Netflix streaming Library.<p>In comparison, Netflix DVD has about 93,000 titles available.<p>Compare this to a good video rental store, which stocks around 20,000-30,000 titles (or a top end video store, like Scarecrow, which has over 120,000 titles in stock).<p>It will be interesting to see when the Various VPN providers start getting blacklisted - so far I&",

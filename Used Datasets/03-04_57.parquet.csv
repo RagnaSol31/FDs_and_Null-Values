@@ -1,0 +1,87 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7960322,comment,7959859.0,7959859.0,4,0,curiousDog,,,"Wait, Mattermark and Matterport were started by the same guy?",1404014374.0
+1,7960321,comment,7959150.0,7960093.0,1,0,wwwwwwwwww,,,depends on the software installed on both and the adversary you have in mind<p>if we&,
+2,7960320,comment,7959890.0,7960304.0,4,0,zanny,,,"This is a software mode graphics API for embedded.<p>Since almost any embedded chip will have some graphics cores, or in their absence I have no idea what you are trying to render for, a software only API is insane in this day and age. The performance differentials are so many orders of magnitude between the best CPU and the worst GPU it isn&",
+3,7960319,comment,7959660.0,7959660.0,0,0,xenadu02,,,Android&,
+4,7960318,comment,7958885.0,7959501.0,1,0,Scoundreller,,,"&quot;Toxic&quot; is a misunderstood term. Toxicity is all about dose. The water piped into my residence can be toxic despite meeting drinking water-quality guidelines. If I drank its full output continuously for just minutes, I&",
+5,7960316,comment,7959829.0,7960008.0,3,0,imrehg,,,"Well, I used to think that. Back in 2004 when it started, you <i>could</i> and wanted to see all your friends updates, and even for years afterwards. Now, it&",
+6,7960315,comment,7959859.0,7960274.0,3,0,calvin,,,"Danielle explains this clearly in the article.  Mattermark &quot;couldn’t raise a traditional Series A on acceptable terms.&quot;<p>&quot;I quickly discovered expectations for a B2B Series A were $1.5M in annual revenue run rate — we were growing fast, but still only 1/3 of the way there at the time.&quot;<p>They don&",
+7,7960314,comment,7959890.0,7960297.0,7,0,zerohp,,,"It is a software renderer, so you won&",
+8,7960313,comment,7959859.0,7960274.0,13,0,kloncks,,,"No valuation, because of convertible debt<p>No board seats<p>Not a lot of money raised, so not as dilutive as typical Series A<p>No expectation to hit &quot;Series B&quot; type metrics next time they raise",1404013778.0
+9,7960312,comment,7958885.0,7959182.0,1,0,SilasX,,,"Just something that has the high of alcohol without the disorientation, though it&",
+10,7960311,comment,7931865.0,7932960.0,1,0,sharemywin,,,There&,
+11,7960310,comment,7959268.0,7960144.0,2,0,handsomeransoms,,,"It is not useless if you have some other way to verify the key, such as the Web of Trust.",1404013726.0
+12,7960309,comment,7957989.0,7957989.0,1,0,four,,,"• iOS app using Multipeer Connectivity Framework for personal medical information communication\n• A healthcare social network\n• Curriculum for my child and I to learn programming together - without spending all the time staring at screens. Using drawings, machinery, logic problems and so on.\n• An online clearinghouse for running in Boston., Then D.C.\n• Web back-end for tracking my $$ balances from SMS/email expense itemization: I send an email for an expense, it sends back my new balance.",1404013685.0
+13,7960308,comment,7959268.0,7959816.0,2,0,handsomeransoms,,,It&,
+14,7960307,comment,7957994.0,7958864.0,1,0,taylodl,,,"I agree. Beyond being gay these people are human beings and have accomplished great things, and as such should be defined by their accomplishments rather than their sexual orientation. Until I read this article I didn&",
+15,7960306,story,,,3,0,JacobAldridge,The Impact Generation Has Arrived,http://www.forbes.com/sites/ashoka/2014/06/26/the-impact-generation-has-arrived/,,1404013568.0
+16,7960305,comment,7958885.0,7959371.0,4,0,Scoundreller,,,I suspect a lot of the anti-drug[1] lobby is heavy supported by the legal drug lobby[2]. There&,
+17,7960304,comment,7959890.0,7959890.0,1,0,Zancarius,,,I&,
+18,7960303,comment,7958583.0,7960208.0,5,0,waterhouse,,,It may be worth mentioning Paul Graham&,
+19,7960302,comment,7957801.0,7959343.0,4,0,sirsar,,,I&,
+20,7960301,comment,7958723.0,7960130.0,2,0,rayiner,,,"Your mistake is assuming that the criterion for distinguishing between unpatentable math and patentable algorithms must come from within the domain of computer science. There is no reason that has to be the case. The distinguishing criterion can be wholly external, rooted in policy concerns.",1404013322.0
+21,7960299,comment,7960099.0,7960099.0,2,0,greenyoda,,,"<i>&quot;CS can’t even be expected to cover the principles of systems you’ll encounter in the next 20 years, much less your lifetime.&quot;</i><p>The theoretical parts of computer science - computational complexity, parsing with context free grammars, etc. - are not likely to go stale any time soon. (I&",
+22,7960297,comment,7959890.0,7959890.0,4,0,keeperofdakeys,,,"Given that this is from 2002, it probably isn&",
+23,7960296,comment,7958885.0,7959487.0,1,0,Scoundreller,,,"This is more of a general comment, and not by any means specific advice to anyone:\n&quot;Binge&quot; drinking may give enough time between consumption episodes to allow the liver to heal, avoiding fatty liver diseases and cirrhosis, while daily heavy drinking may not, though this does take a long period of time to start.",1404013115.0
+24,7960295,comment,7957989.0,7957989.0,1,0,dschiptsov,,,"<a href=""http://karma-engineering.com/lab/wiki/Hybridr"" rel=""nofollow"">http://karma-engineering.com/lab/wiki/Hybridr</a><p><a href=""http://karma-engineering.com/lab/wiki/Implementation"" rel=""nofollow"">http://karma-engineering.com/lab/wiki/Implementation</a>",1404013094.0
+25,7960294,comment,7959089.0,7960205.0,3,0,stonemetal,,,"Completely different definitions of concurrency.  For Clojure what ships in the box as concurrency is multi-thread, single process concurrency(aka built around shared memory).  Erlang devs knew that would never scale beyond a single box so they didn&",
+26,7960293,comment,7959585.0,7959585.0,1,0,johnlim5847,,,Mongodb/ExpressJS/AngularJS/NodeJS,1404013001.0
+27,7960292,comment,7957989.0,7957989.0,1,0,AndyKelley,,,"I am working on groovebasin [1], an open source music player server with a web based user interface inspired by Amarok 1.4.<p>[1]: <a href=""http://groovebasin.com"" rel=""nofollow"">http://groovebasin.com</a>",1404012934.0
+28,7960289,comment,7942343.0,7946274.0,1,0,jhylau,,,good point - that feature will be rolled out within a few weeks and we&,
+29,7960288,comment,7959829.0,7960030.0,4,0,greggman,,,I don&,
+30,7960287,comment,7960270.0,7960270.0,1,0,sharemywin,,,"you can try <a href=""http://www.liquidation.com/"" rel=""nofollow"">http://www.liquidation.com/</a>",1404012726.0
+31,7960286,comment,7959859.0,7960274.0,6,0,theflyingkiwi42,,,"It was raised with convertible debt, so no valuation was given. I think that makes it a seed round instead of a Series A.",1404012712.0
+32,7960285,comment,7957801.0,7957801.0,1,0,microraptor,,,"Rather than decide which questions are the most important themselves, I wonder what results they could have gotten from running simulations with various weights on various parameters and question responses to try to come up with a correct diagnosis. At the very least the doctor&",
+33,7960284,comment,7957989.0,7957989.0,2,0,frankydp,,,"I am working on a visualization of 60k USGS historical maps that are rendered on the fly from geoPDF, which makes the server size under a TB.<p>pdfl, c++, spdy, openlayers<p><a href=""https://demo.northavenue.net"" rel=""nofollow"">https://demo.northavenue.net</a>",1404012690.0
+34,7960283,comment,7957989.0,7959842.0,1,0,fineIllregister,,,"As for 1, I&",
+35,7960282,story,,,1,0,shruubi,Think Of Those Across The Pond,http://shruubi.wordpress.com/2014/06/29/think-of-those-across-the-pond/,,1404012609.0
+36,7960281,comment,7957989.0,7957989.0,1,0,gabceb,,,"<a href=""http://www.smartvaletparking.com"" rel=""nofollow"">http://www.smartvaletparking.com</a><p>SmartValet is an app that allow people to interact with valet parking locations via mobile apps to improve their experience when valet parking their vehicles.  Some of the features of using SmartValet are paying with credit cards, requesting a car pickup and up to date information about your parked car (cost, time, etc). SmartValet also provides a dashboard for the valet parking location with awesome reports and real-time location information.",1404012596.0
+37,7960280,comment,7951132.0,7951175.0,1,0,sharemywin,,,Here&,
+38,7960279,comment,7957989.0,7958931.0,1,0,frankydp,,,"great idea, look into the eve community.<p>Also think a temporary mumble channel api would be cool, for the premium server folks.",1404012538.0
+39,7960278,story,,,1,0,001sky,Britain's 30m workers will have the right to demand flexible hours from Monday,http://www.dailymail.co.uk/news/article-2672926/Now-right-demand-flexible-working-hours-And-parents-carers-lose-colleagues-simply-want-lie-in.html,,1404012503.0
+40,7960277,comment,7958598.0,7958908.0,2,0,dublinben,,,"You can also see the border of Massachusetts perfectly clearly, likely due to the import of MassGIS data.  Surrounding states are all much lower density, until you hit Manhattan.",1404012430.0
+41,7960276,story,,,1,0,rmason,Tim O'Reilly wants tech heroes to change government,http://venturebeat.com/2014/06/24/tim-oreilly-wants-tech-heroes-to-change-government-interview/view-all/,,1404012349.0
+42,7960275,comment,7959660.0,7959872.0,1,0,pan69,,,"In web development there is this notion of Progressive Enhancement [1]. It basically means that if certain functionality is not available you either disable the features that make use of it or you implement an alternative means of making the functionality work.<p>I understand that permissions are a little bit different but I believe that a similar approach would work with permissions as well assuming that Android would supply a new advanced permissions sub system. With this, if an app isn&",
+43,7960274,comment,7959859.0,7959859.0,4,0,JimEngland,,,"This is essentially a Series A, so why call it a &quot;second seed round&quot;? Feels questionable to me.",1404012335.0
+44,7960273,comment,7959777.0,7959777.0,1,0,sghodas,,,Sweet! Love the use of unicode strings for suits.,1404012307.0
+45,7960272,comment,7959829.0,7960120.0,0,0,oldmanjay,,,Whoever is feeling it.,1404012287.0
+46,7960271,comment,7959829.0,7959993.0,3,0,richcollins,,,They ostensibly did that to make the experience better for users.  In this case they did it to make them feel worse.,1404012218.0
+47,7960270,story,,,1,1,kgc,Ask HN: What would you do with 854 iPhone / Android cases and accessories?,,I have spare inventory largely consisting of iPhone and Android cases. What&,
+48,7960269,comment,7959281.0,7960059.0,2,0,mmmm,,,"<a href=""http://despotify.sourceforge.net/"" rel=""nofollow"">http://despotify.sourceforge.net/</a><p>Not sure if it still works. If it does work it requires that your user is subscribed to Spotify Premium I believe.",1404012166.0
+49,7960268,comment,7958265.0,7958347.0,2,0,LarryMade2,,,Dude!,1404012154.0
+50,7960267,comment,7959829.0,7959829.0,0,0,xyclos,,,people still use facebook?,1404012153.0
+51,7960266,comment,7957989.0,7959217.0,1,0,dmarble,,,If you haven&,
+52,7960265,comment,7959268.0,7959268.0,6,0,dublinben,,,"Posted and criticized a month ago:<p><a href=""https://news.ycombinator.com/item?id=7958598"" rel=""nofollow"">https://news.ycombinator.com/item?id=7958598</a><p><a href=""https://news.ycombinator.com/item?id=7780488"" rel=""nofollow"">https://news.ycombinator.com/item?id=7780488</a><p>Please don&",
+53,7960264,story,,,2,0,jchesters,Why a War and Shrinking Economy Can’t Stop Syrian Innovation,http://blog.up.co/2014/02/21/war-shrinking-economy-cant-stop-syrian-innovation/,,1404012027.0
+54,7960263,comment,7957304.0,7957543.0,1,0,sharemywin,,,fair enough if you can&,
+55,7960262,comment,7959268.0,7960231.0,3,0,akerl_,,,"Except that Apple has put out 3 major updates since then, and 2 of them are free. Version numbers are a valid metric, even Debian doesn&",
+56,7960261,comment,7959268.0,7959608.0,2,0,synchronise,,,"Yes, it rolls it&",
+57,7960259,comment,7957989.0,7959879.0,1,0,Buetol,,,"Not yet, a previous vision was <a href=""http://kioto.io"" rel=""nofollow"">http://kioto.io</a> but now I&",
+58,7960258,comment,7958885.0,7959299.0,1,0,XorNot,,,I&,
+59,7960257,comment,7959660.0,7960103.0,2,0,pan69,,,I think this would only work with a new &quot;advance&quot; permissions sub-system. Introducing a new permissions sub-system has three benefits; 1) old apps will continue to work 2) the old system can be deprecated at some point in time giving developers ample time to upgrade their apps 3) new apps can start to use the new system creating more trust between the developer and the user.,1404011768.0
+60,7960256,comment,7959268.0,7959485.0,5,0,gst,,,"Not the lack of nodes, but the lack of exit nodes. It doesn&",
+61,7960255,comment,7957989.0,7960253.0,2,0,tbirdz,,,You might be able to use the filters from libavfilter,1404011578.0
+62,7960254,comment,7956304.0,7959141.0,1,0,greggman,,,I know it&,
+63,7960253,comment,7957989.0,7957989.0,2,0,nemo1618,,,"<a href=""http://github.com/NebulousLabs/mkvsynth"" rel=""nofollow"">http://github.com/NebulousLabs/mkvsynth</a><p>Non-linear script-controlled video editor for Linux; basically Avisynth reimagined for the 2010s. Our scripting system in particular is a massive upgrade from Avisynth&",
+64,7960252,comment,7958885.0,7959918.0,4,0,mike_esspe,,,"Looks like confounding factors are the reason.<p><a href=""http://www.ncbi.nlm.nih.gov/pubmed/22152665"" rel=""nofollow"">http://www.ncbi.nlm.nih.gov/pubmed/22152665</a><p>CONCLUSIONS: Among older adults who are moderate drinkers, the apparent unique effects of wine on longevity may be explained by confounding factors correlated with wine consumption.",1404011495.0
+65,7960251,comment,7958583.0,7960077.0,6,0,simoncion,,,> Can companies do that?<p>Absolutely. Drew Curtis&,
+66,7960250,comment,7958885.0,7959487.0,4,0,tangue,,,"The toxic effects of alcohol are cumulative over time, so in the long run you might be at greater risk than binge drinkers. And if you&",
+67,7960249,comment,7959268.0,7959513.0,1,0,swixmix,,,http has overhead. i recommend zmodem.,1404011363.0
+68,7960247,comment,7958313.0,7958313.0,1,0,mikhailt,,,Is there any legal dataset that would show the average settlement reward per person in the entire US legal history?,1404011289.0
+69,7960246,comment,7958108.0,7958434.0,4,0,brudgers,,,The same sort of thing that&,
+70,7960245,story,,,1,1,Impossible,VR Hackathon,http://vrhackathon.com,,1404011262.0
+71,7960244,comment,7957989.0,7957989.0,2,0,augustflanagan,,,"A friend and I launched <a href=""https://cronitor.io"" rel=""nofollow"">https://cronitor.io</a> last week (<a href=""https://news.ycombinator.com/item?id=7917587"" rel=""nofollow"">https://news.ycombinator.com/item?id=7917587</a>). It&",
+72,7960243,comment,7959828.0,7959828.0,2,0,gus_massa,,,"In Chrome 35.0.?? it says &quot;webkit&quot;, that is correct.<p>In IE 11.0 it says &quot;gecko&quot;, but it should say &quot;trident&quot;.",1404011256.0
+73,7960242,comment,7959859.0,7959859.0,20,0,imkevinxu,,,"> I’ll tell you why we took a second seed round — we were going to run out of money and couldn’t raise a traditional Series A on acceptable terms.<p>Money quote, I appreciate hearing the truth",1404011216.0
+74,7960241,comment,7957801.0,7960163.0,1,0,Scoundreller,,,And why wouldn&,
+75,7960240,comment,7954905.0,7957941.0,1,0,sharemywin,,,"If they are successful, they could lose 20%-40% equity in the business in their first round or two. If it becomes a 100M business that&",
+76,7960239,comment,7958962.0,7960107.0,0,0,DenisM,,,You&,
+77,7960238,comment,7957989.0,7958134.0,1,0,stefek99,,,Greenpeace / Animal rights defenders are now on the way<p>[just kidding],1404011015.0
+78,7960237,comment,7958723.0,7959238.0,2,0,jsmeaton,,,"I agree with you, but what about copyrightable? I don&",
+79,7960236,comment,7959660.0,7959660.0,1,0,parfamz,,,That&,
+80,7960235,comment,7957801.0,7959443.0,1,0,Scoundreller,,,"So if we had evidence that a machine was more effective or made better decisions (or had better all-cause mortality evidence) than a human clinician, you would choose the human clinician in all cases?<p>How is this any different than comparing Drug A to Drug B? You should choose the one that&",
+81,7960234,story,,,1,0,martinbc,The Buffer Culture (2013),http://www.slideshare.net/bufferapp/buffer-culture-03,,1404010935.0
+82,7960233,comment,7959281.0,7960059.0,1,0,rezistik,,,Considering how absolutely terrible the native client is for Spotify I&,
+83,7960232,comment,7958068.0,7960197.0,2,0,noonespecial,,,"I imagine it is quite easy by way of a few calls here and there when you know just who to call. For both regulations and for factories. Its always easy when you know who to call.<p>Just sayin, do both, and perhaps emphasize both. I knew just who to call to get my parts built and imported, I had no idea who to call to get permission to actually sell them. The part you don&",
+84,7960231,comment,7959268.0,7960193.0,6,0,vectorpush,,,OS version numbers are a pretty arbitrary metric. A more accurate comparison is complaining about software that doesn&,
+85,7960230,comment,7947075.0,7955697.0,1,0,boyter,,,"Sounds good to me. An exposed API is a big boon, and the lack of one is one of the main reasons I started searchcode.<p>Sure, just email me at bboyte01@gmail.com and ill be happy to discuss. Mostly it comes down to not overcrowding the UI and running on minimal hardware.",1404010855.0

@@ -1,0 +1,122 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7703523,comment,7700691.0,7701114.0,4,0,icebraining,,,"For learning and documentation, sure. But as another native Portuguese speaker, keep your code and comments in English, please! I really don&",
+1,7703522,comment,7657171.0,7657171.0,1,0,mattwritescode,,,"Backend:<p>============<p>- Django<p>- Scripting: bash, python<p>Database storage:<p>============<p>- Redis<p>- MySql<p>Webserver:<p>============<p>- Nginx<p>- gunicorn<p>Deployment:<p>============<p>- Fabric<p>- Also looking into saltstack for configuration<p>Services:<p>============<p>- Linode<p>- Digital ocean",1399370341.0
+2,7703521,comment,7703380.0,7703380.0,5,0,Trezoid,,,"Things like this always bring to light a particular side of the internet population that is fascinating to watch but very frustrating to participate in an activity &quot;against&quot;.<p>These people immediately take an incredibly negative approach for their own short term enjoyment without any apparent thought of the longer term effect of their actions, and what people will do to counter that style of behavior generally making things worse for everyone, both grierfers and legitimate players.<p>I&",
+3,7703520,story,,,2,1,lucija_m,Ex-Googlers Create Zizooboats To Make Boating Affordable,http://bizzkube.com/whats-hot/ex-googlers-set-up-zizoo-to-make-boating-affordable/,,1399370300.0
+4,7703519,comment,7698002.0,7703427.0,3,0,vidarh,,,"Volvo is the manufacturer with the highest market share, but it still &quot;only&quot; has 20% of the market, so it&",
+5,7703518,story,,,2,0,infinitnet,NTP Amplification DDoS Attacks (DrDoS),http://www.r00t-services.net/knowledgebase/19/NTP-Amplification-DDoS-Attacks-DrDoS.html,,1399370233.0
+6,7703516,comment,7702891.0,7703402.0,1,0,pjmlp,,,"Mostly the browser integrated RSS readers, I just follow a restricted set of sites.",1399370156.0
+7,7703515,comment,7703380.0,7703449.0,2,0,yread,,,"> Typically, server mods can take certain precautions to ensure that their particular areas of their Minecraft &quot;worlds&quot; can&",
+8,7703514,story,,,1,0,markcrazyhorse,17 Days left support this iPhone/iPad Application Course on Kickstarter,https://www.kickstarter.com/projects/214306041/learn-to-develop-ios-applications-for-the-iphone-i/posts/833078,,1399370078.0
+9,7703513,comment,7703188.0,7703404.0,2,0,pjmlp,,,"Why not? It is a plain JavaScript compiler optimization.<p>Google could implement such optimizations as well, instead of spending their resources into NaCL and Dart VM.",1399370039.0
+10,7703512,comment,7679431.0,7679431.0,1,0,medusalice,,,"Ankara, Turkey. FULL-TIME<p>UI/UX Developer.<p>Making enterprisey desktop Java applications beautiful, or whatever the in-word these days is for a UX-conscious person to say &quot;I would actually pay money to use this.&quot;<p>If you wanna try to push the absolute boundaries of Swing and will get a kick when no one believes that you developed the application in Swing, this kind of thing is for you. Or maybe you think that the cool things the UX designer has envisioned can&",
+11,7703511,comment,7703188.0,7703508.0,4,0,lucian1900,,,It was more fixing bugs in their JIT that were only really exercised by asm.js-like code.,1399369961.0
+12,7703510,comment,7703380.0,7703380.0,3,0,andyjohnson0,,,"Slightly OT, but the UK national mapping agency has created a minecraft model of the UK [1] (minus Northern Ireland).<p>[1] <a href=""http://www.ordnancesurvey.co.uk/innovate/developers/minecraft-map-britain.html"" rel=""nofollow"">http://www.ordnancesurvey.co.uk/innovate/developers/minecraf...</a>",1399369928.0
+13,7703509,comment,7703338.0,7703338.0,3,0,kolev,,,Bitcoin is the present of speculation.,1399369914.0
+14,7703508,comment,7703188.0,7703452.0,4,0,flohofwoe,,,"IIRC, V8 had implemented optimizations that specifically target asm.js code patterns in the past (the performance gap for asm.js code between FF and Chrome definitely got a lot smaller in 2013), they just don&",
+15,7703507,story,,,2,0,antr,The London startup scene: Why we moved our company from San Francisco,http://blog.goodaudience.com/post/84477668104/the-london-startup-scene-why-we-moved-our-company-from,,1399369870.0
+16,7703506,comment,7703338.0,7703338.0,4,0,VMG,,,"Behind paywall for me, even when in Incognito",1399369861.0
+17,7703505,story,,,1,0,bjansn,US to start testing universal Internet IDs to tackle fraud,http://www.engadget.com/2014/05/06/nstic-government-internet-id/?utm_source=Feed_Classic_Full&utm_medium=feed&utm_campaign=Engadget&?ncid=rss_full&utm_reader=feedly,,1399369854.0
+18,7703504,comment,7700192.0,7700969.0,2,0,patrickas,,,"There is a typo in the about page, under &quot;2013 Open-Source Donations&quot;, &quot;Crytocat&quot; should be &quot;Cryptocat&quot;.",1399369826.0
+19,7703502,comment,7699322.0,7703348.0,0,0,kolev,,,"No, not anymore. All you guys comment negatively and cowardly silently downvote and I&",
+20,7703501,comment,7703380.0,7703453.0,3,0,peddamat,,,It&,
+21,7703500,comment,7700740.0,7700740.0,2,0,byuu,,,The Japanese Famicom didn&,
+22,7703499,comment,7702974.0,7703488.0,0,0,shakiba,,,"The issue is not with this engine, no other HTML5 game/engine can do better in your browser.  CPU is not optimized to do what takes only a fraction of GPU.",1399369546.0
+23,7703498,comment,7702778.0,7703354.0,1,0,sarreph,,,Yeah... see my comment to @yojimbo...,1399369534.0
+24,7703497,story,,,2,0,aburan28,32% of all Bitcoins are owned by only 500 addresses,http://bitcoinrichlist.com/top500,,1399369520.0
+25,7703496,comment,7702644.0,7702644.0,1,0,mattwritescode,,,If I am in the office at work and I need to get things done I have some over ear headphones which are really good at noise cancelling.<p>I will just sit there with them on listing to nothing. Its nice as it means people will not come over and bother me; also I do not hear others working.,1399369511.0
+26,7703494,comment,7703188.0,7703188.0,2,0,marijn,,,"Does anyone have numbers handy on the amount of size linking LLVM would add to a browser? Installing llvm-3.2-dev gives me over 75mb of static libraries, but I don&",
+27,7703493,comment,7698403.0,7701200.0,1,0,antihero,,,"Yup, in my experience getting designers to work on the JSX has been a far smaller headache than I initially expected.",1399369418.0
+28,7703492,comment,7702778.0,7703061.0,2,0,sarreph,,,"Yeah... what I thought:<p>Intercepting the traffic coming out of the app shows me its making api requests to <a href=""http://api.parse.com"" rel=""nofollow"">http://api.parse.com</a> — so, basically, I would imagine it&",
+29,7703491,comment,7702891.0,7703097.0,2,0,icebraining,,,"Have you tried just putting the main website URL into your reader? Many support autodiscovery[1], as long as the site has the proper HTML tags set up.<p>[1] <a href=""http://www.rssboard.org/rss-autodiscovery"" rel=""nofollow"">http://www.rssboard.org/rss-autodiscovery</a>",1399369394.0
+30,7703490,comment,7703338.0,7703483.0,14,0,phaemon,,,Neither of these is an example of an &quot;elephant in the room&quot;. Both issues are discussed continually.,1399369363.0
+31,7703489,comment,7702891.0,7703261.0,5,0,icebraining,,,That would be a poor assumption. How can it distinguish a single user&,
+32,7703488,comment,7702974.0,7703447.0,2,0,jablan,,,That&,
+33,7703487,comment,7703380.0,7703453.0,5,0,jacquesm,,,"Back ups are good to guard against all kinds of mishaps. Still, to see something like this intentionally destroyed is really bad. It&",
+34,7703486,comment,7702891.0,7703199.0,1,0,chippy,,,"This is true - it happened at the time of them announcing fees for Google Maps. There was some management decision to go for things that directly made money at that time, and drop those things that were not growing.",1399369201.0
+35,7703485,comment,7698002.0,7701744.0,4,0,lmm,,,"Americans are always awed/terrified by the Magic Roundabout, but it&",
+36,7703484,comment,7703338.0,7703470.0,2,0,ds_,,,"<a href=""http://en.wikipedia.org/wiki/Betteridge&",
+37,7703483,comment,7703338.0,7703381.0,0,0,riffraff,,,IMVHO the larger elephant in the room is bitcoin&,
+38,7703482,story,,,1,0,jackkinsella,"Guide to Faster, Less Frustrating Debugging",http://heather.cs.ucdavis.edu/~matloff/UnixAndC/CLanguage/Debug.html,,1399369138.0
+39,7703481,comment,7702778.0,7703303.0,1,0,sarreph,,,I&,
+40,7703480,comment,7703380.0,7703464.0,9,0,Hermel,,,"Small countries like Denmark tend to have a much more well-behaved population than large countries. I.e. they queue nicer, they are more likely to return something they found, etc. (game-theoretic research suggests that such a culture is a symptom of having a high likelyhood of meeting again - thus offering more opportunities to punish bad behaviour).<p>That background might explain their optimistic expectations.",1399369061.0
+41,7703479,comment,7703319.0,7703423.0,5,0,Kiro,,,You&,
+42,7703478,comment,7700192.0,7700192.0,1,0,progamler,,,"I like to see full links, that helps me to Validate the source and sort out webpages",1399369016.0
+43,7703477,comment,7703380.0,7703380.0,4,0,bananas,,,Proving that my previously down voted to hell comment about this being a waste of money was correct...,1399368999.0
+44,7703476,story,,,1,0,miamiaali,Ganymede may harbor life,http://www.cosmosup.com/ganymede-may-harbor-life,,1399368994.0
+45,7703475,comment,7702891.0,7703325.0,2,0,icebraining,,,Does it really? I can&,
+46,7703474,comment,7702891.0,7703093.0,1,0,chippy,,,People forget about the social element of Google Reader. It never took off - the ability to follow your friends and see what they are reading - to share articles with contacts etc.<p>I&,
+47,7703472,comment,7694121.0,7696152.0,1,0,twistedpair,,,Even the B-2 bomber had a retractable radar reflector to defeat it&,
+48,7703471,comment,7693222.0,7693222.0,1,0,pastylegs,,,I wouldn&,
+49,7703470,comment,7703338.0,7703338.0,4,0,mkesper,,,No.,1399368856.0
+50,7703469,comment,7698002.0,7698002.0,1,0,hellbreakslose,,,&quot;tested live on public roads in Sweden&quot; All I saw was a guy driving that car. Didn&,
+51,7703466,comment,7702891.0,7702891.0,7,0,edanm,,,I&,
+52,7703465,comment,7703380.0,7703380.0,4,0,JetSpiegel,,,"> Moving forward, the map will have to be rebuilt. Said Hammeken, &quot;We don&",
+53,7703464,comment,7703380.0,7703380.0,4,0,Moulde,,,"Hahaha, I&",
+54,7703463,story,,,3,0,dsarle,Rovio Goes Flappy Bird,http://www.arcticstartup.com/2014/05/06/rovio-goes-flappy-bird-with-new-game-release-on-finnish-app-store,,1399368655.0
+55,7703462,comment,7702974.0,7702974.0,1,0,dikei,,,"Yet another canvas manipulation library, just like fabricjs, kineticjs and easeljs",1399368646.0
+56,7703461,comment,7698403.0,7701239.0,1,0,mantrax5,,,"Thanks, bookmarked.",1399368617.0
+57,7703460,comment,7702891.0,7703397.0,12,0,edanm,,,"While I get the sentiment, I&",
+58,7703459,comment,7703380.0,7703449.0,8,0,arb99,,,Surely whatever program they used to create it could just be run again. It used data from maps etc so it must be able to run the same input again. Although if its >1tb of data thats gonna take a while...,1399368584.0
+59,7703458,comment,7703188.0,7703404.0,6,0,Drakim,,,I don&,
+60,7703456,comment,7693995.0,7694214.0,1,0,tobylane,,,">There is nothing more that can be productively argued about this topic.<p>Is that ever a good thing to say?<p>The change is good. I never saw any mention of people disliking this in Mobile Safari, and it&",
+61,7703455,story,,,1,0,hashx,Symantec Develops New Attack on Cyberhacking,http://online.wsj.com/news/article_email/SB10001424052702303417104579542140235850578-lMyQjAxMTA0MDAwNTEwNDUyWj,,1399368459.0
+62,7703453,comment,7703380.0,7703449.0,2,0,lholden,,,Sad to say... but this is why you make backups. Things like this happen to minecraft servers all the time. :/,1399368431.0
+63,7703452,comment,7703188.0,7703188.0,8,0,mantrax5,,,"To have a meaningful &quot;victory&quot;, you want to have one of those:<p><pre><code>  1. A generic JS JIT that runs generic JS faster than another generic JS JIT.\n\n  2. ASM.JS JIT that runs ASM.JS faster than another ASM.JS JIT.\n</code></pre>\nWhat we have here is something else:<p><pre><code>  3. A generic JS JIT that runs ASM.JS faster than another generic JS JIT.\n</code></pre>\nIf people are not familiar with ASM.JS, the somewhat misleading (to the uninitiated) headline sounds more interesting than it is actually.<p>It&",
+64,7703451,story,,,2,0,femami,Rust for C++ programmers – part 5: borrowed references,http://featherweightmusings.blogspot.com.tr/2014/05/rust-for-c-programmers-part-5-borrowed.html,,1399368410.0
+65,7703450,comment,7701546.0,7703403.0,2,0,szatkus,,,My sister had that one. I had to use CPU-Z to find out its &quot;true&quot; identity (Jaguar core) :),1399368395.0
+66,7703449,comment,7703380.0,7703380.0,5,0,nutjob2,,,They didn&,
+67,7703448,comment,7703436.0,7703436.0,2,0,ozh,,,"As a metalhead, made me chuckle :) Indeed nothing new but fun anyway. What source material did you use?",1399368271.0
+68,7703447,comment,7702974.0,7703433.0,1,0,martinml,,,You probably don&,
+69,7703446,comment,7703440.0,7703440.0,1,0,k-mcgrady,,,">> &quot;As recently as Friday, Moves’s privacy policy said the company did not “disclose an individual user’s data to third parties,” without a user’s consent, unless compelled by law enforcement. The policy said it would stay in place even if Moves were acquired.<p>On Monday, the policy permitted a wider range of data sharing. “We may share information, including personally identifying information, with our Affiliates (companies that are part of our corporate groups of companies, including but not limited to Facebook) to help provide, understand, and improve our Services,” the policy says.&quot;<p>I think the moral of this story is never to trust anything a company acquired by Facebook says. Personally I love the app but I&",
+70,7703445,comment,7703088.0,7703088.0,1,0,siliconesoul,,,Look at him.,1399368184.0
+71,7703444,comment,7701178.0,7701178.0,1,0,prohor,,,"I use password hasher / generation extension for browser, which makes sort of HMAC of password with domain. Then I use few master passwords depending on sensitivity of a site. But at the end - each site has its unique very strong password.<p>Firefox: <a href=""https://addons.mozilla.org/pl/firefox/addon/password-hasher/?src=ss"" rel=""nofollow"">https://addons.mozilla.org/pl/firefox/addon/password-hasher/...</a><p>Chrome (same algorithm): <a href=""https://chrome.google.com/webstore/detail/pawhash/adgekjfphhgngpdoklolpjenmgneobfg"" rel=""nofollow"">https://chrome.google.com/webstore/detail/pawhash/adgekjfphh...</a>)",1399368171.0
+72,7703443,comment,7698597.0,7703143.0,2,0,kintamanimatt,,,I&,
+73,7703442,comment,7702891.0,7703341.0,12,0,rkwz,,,> Who wants thousands of extra &quot;emails&quot; in their inbox to check every day ?<p>This. It&,
+74,7703441,comment,7701546.0,7703333.0,1,0,ris,,,"&quot;That imposes some overhead, but in modern CPUs with gigatransistors that overhead isn&",
+75,7703440,story,,,6,1,k-mcgrady,"After Facebook Deal, Moves App Changes Privacy Policy",http://blogs.wsj.com/digits/2014/05/05/after-facebook-deal-moves-app-changes-privacy-policy/,,1399367994.0
+76,7703439,comment,7703436.0,7703436.0,1,0,GotAnyMegadeth,,,"Clickable: <a href=""https://twitter.com/RealMetalNews"" rel=""nofollow"">https://twitter.com/RealMetalNews</a>",1399367982.0
+77,7703438,comment,7684456.0,7690688.0,2,0,dspillett,,,"If you are being paranoid you might prefer to wait for ever for a good random value instead of accepting something you are even fractionally less sure of.<p>Though practically speaking, that would probably not be acceptable in most (if not all) circumstances.<p>If you <i>are</i> that paranoid then there are inexpensive true-RNGs out there (free in fact, if your CPU or other chipsets have one that is easily accessible) which can provide enough bits for all but the larger bulk requirements (i.e. generating many keys in a short space of time). You can either use one of them specifically for the process(es) that <i>definitely</i> wants absolutely true random of feed its output into the standard entropy pool.",1399367904.0
+78,7703437,comment,7700691.0,7702495.0,1,0,noufalibrahim,,,The written script has applications other than computer input. &quot;Standardising&quot; it into some variant of the latin alphabet would make it simpler and less rich. Suitable for a computer perhaps but that&,
+79,7703436,story,,,1,3,GotAnyMegadeth,Show HN: Algorithmically generated Heavy Metal headlines,,It&,
+80,7703435,comment,7700032.0,7703187.0,1,0,darklajid,,,Note that you&,
+81,7703434,comment,7698597.0,7701419.0,1,0,kintamanimatt,,,It worked out for us — it&,
+82,7703433,comment,7702974.0,7702974.0,4,0,jablan,,,"I know nothing about game development nor 2D/3D graphics, but why does an HTML animation of an airplane flying has to pin my i5 core to 100%?",1399367781.0
+83,7703432,story,,,1,0,locusm,Flying Robot Rockstars,https://www.youtube.com/watch?v=Qlqe1DXnJKQ,,1399367771.0
+84,7703431,story,,,15,2,hobo_mark,Rust for C++ programmers – part 5: borrowed references,http://featherweightmusings.blogspot.ch/2014/05/rust-for-c-programmers-part-5-borrowed.html,,1399367770.0
+85,7703430,comment,7702891.0,7702891.0,1,0,blueskin_,,,I have a whole folder full of RSS feeds. It&,
+86,7703429,comment,7703188.0,7703390.0,2,0,sanxiyn,,,Indeed that&,
+87,7703428,comment,7698597.0,7698597.0,1,0,Keats,,,Right during the Europython for the London one.<p>That&,
+88,7703427,comment,7698002.0,7699030.0,2,0,ollebro,,,It wouldn&,
+89,7703426,comment,7696459.0,7703149.0,1,0,acqq,,,"If you still believe in non-relatedness then you certainly believe that when somebody names the variable SFU in his source examples, he could have been just thinking of Microsoft&quot;s &quot;Services For Unix&quot;<p>&quot;<a href=""http://en.wikipedia.org/wiki/Windows_Services_for_UNIX"" rel=""nofollow"">http://en.wikipedia.org/wiki/Windows_Services_for_UNIX</a><p>Or &quot;nothing, just metasyntatic&quot; but absolutely no chance that he have been thinking about<p><a href=""http://en.wiktionary.org/wiki/STFU"" rel=""nofollow"">http://en.wiktionary.org/wiki/STFU</a><p>I&",
+90,7703425,comment,7697050.0,7697050.0,1,0,aesptux,,,Evernote is perfect for me.,1399367615.0
+91,7703424,comment,7703188.0,7703390.0,2,0,masklinn,,,"Er… first phrase of the page:<p>> JavaScriptCore uses LLVM for a top-tier high-throughput optimizing JIT, which we call <i>the FTL (Fourth Tier LLVM)</i>.",1399367615.0
+92,7703423,comment,7703319.0,7703396.0,8,0,chris_engel,,,"That was true, two years ago but not anymore. Its perfectly okay.",1399367607.0
+93,7703422,comment,7684456.0,7689710.0,1,0,dspillett,,,"I understand that both use the same CSPRNG and seed source(s) for entropy, the difference is one will block if those sources have not output enough information recently (the &quot;pool count&quot; is too low).<p>The <i>is</i> some genuine randomness there as the entropy sources are not (unlike the PRNG) deterministic: they take whitened fractional values from I/O timings (time between keep presses & mouse signals, and some aspects of physical drive I/O - the low bits of such timings essentially being random noise if the timer is granular enough).<p>/dev/urandom uses the CSPRNG in what-ever state it is in, /dev/random waits until it considered the CSPRNG to have been sufficiently randomly reseeded. In cases where the current situation is considered random enough (the pool count is high so /dev/random will not block) you will get the same value from either /dev/random or /dev/urandom.",1399367591.0
+94,7703420,story,,,1,0,rkda,Verification Handbook: Verifying digital content for emergency coverage,http://verificationhandbook.com/,,1399367552.0
+95,7703419,comment,7703297.0,7703297.0,2,0,saurabh,,,Dont stay up late. You will feel worse the next day. Get up early instead.,1399367552.0
+96,7703418,comment,7700192.0,7700192.0,3,0,blueskin_,,,Finally: A redesign that isn&,
+97,7703417,comment,7699322.0,7703109.0,2,0,porker,,,> can just be this in Python:<p>In PHP 5.3+ you can write:<p><pre><code>    $image_urls = array_map(function($image) {return &,
+98,7703416,comment,7700192.0,7702208.0,1,0,alexhektor,,,It does show however how hard chrome makes it to change search engines. Probably right at the line there between really hard and antitrust.,1399367410.0
+99,7703415,story,,,1,0,rkda,Investigative Journalism in the Digital Age MOOC,http://open.journalismcourses.org/,,1399367390.0
+100,7703414,comment,7703188.0,7703404.0,7,0,sanxiyn,,,"Of course V8 supports asm.js. asm.js is just JavaScript.<p>Okay, I know what you mean, but still why wouldn&",
+101,7703413,comment,7702891.0,7703375.0,18,0,amirmc,,,"Also, sync. Reading from multiple devices is frustrating if the read/favourite history isn&",
+102,7703412,story,,,3,0,otaku888,A Kickstarter for verb icons,https://www.kickstarter.com/projects/gerwitz/to-icon/,,1399367321.0
+103,7703411,comment,7702779.0,7703238.0,1,0,xerophtye,,,uhhh...  isn&,
+104,7703410,story,,,10,0,signa11,A Crash Course In Modern Hardware,http://www.infoq.com/presentations/click-crash-course-modern-hardware,,1399367254.0
+105,7703409,comment,7702891.0,7703379.0,3,0,groks,,,"At least 20 points: <a href=""http://feeds.feedburner.com/newsyc20"" rel=""nofollow"">http://feeds.feedburner.com/newsyc20</a>",1399367210.0
+106,7703408,story,,,1,0,Zynne,When AngularJS meets your HTML...,http://student.howest.be/aveline.estie/?p=107,,1399367191.0
+107,7703407,story,,,1,0,r0h1n,Finding Love on LinkedIn,http://blogs.wsj.com/atwork/2014/05/05/linkedin-dating-app-like-tinder/,,1399367180.0
+108,7703406,story,,,1,0,markcrazyhorse,"""Green"" Jet Fuel From Sunlight Developed",http://www.iflscience.com/technology/green-jet-fuel-sunlight-developed,,1399367132.0
+109,7703405,comment,7698002.0,7700222.0,3,0,ollebro,,,"We have a lot of them in Trollhättan. And roundabouts, holy shit the amount of roundabouts in this city.",1399367121.0
+110,7703404,comment,7703188.0,7703188.0,2,0,notthetup,,,Wait.. I thought V8 doesn&,
+111,7703403,comment,7701546.0,7702432.0,4,0,Already__Taken,,,This must still go on. Someone brought me a Samsung laptop an its processor made no mention of AMD anywhere. even in the pc management. It just reports as a quad core cpu.,1399367081.0
+112,7703402,comment,7702891.0,7703125.0,1,0,donniezazen,,,What&,
+113,7703401,comment,7700691.0,7701021.0,5,0,lmm,,,> who are english speakers to expect everyone to speak english?<p>I lost all awkwardness about this after meeting some Lithuanians on a train in Slovenia. If there&,
+114,7703400,comment,7698597.0,7698597.0,2,0,workoy,,,Stepping out of your hometown to do a one day workshop is going global ... yay.,1399367002.0
+115,7703399,story,,,2,0,altschuler,Gofor: Drones On Demand,http://www.gofordrones.com,,1399366996.0
+116,7703398,comment,7702891.0,7703379.0,3,0,stephen_mcd,,,"I use the web version of kouio on android every day, it&",
+117,7703397,comment,7702891.0,7703375.0,5,0,weland,,,"But setting up an RSS reader is no different from installing any application. For crying out loud, that means going to an app store for much of the RSS-reading Internet or clicking next, next and finish for the rest of it.<p>I know I sound like an elitist schmuck when I say it, but I&",
+118,7703396,comment,7703319.0,7703319.0,1,0,Kiro,,,Those &quot;like&quot; contests violate the Facebook terms and will get your page banned.,1399366887.0
+119,7703395,comment,7700192.0,7700192.0,1,0,hrvbr,,,A search engine that doesn&,
+120,7703394,comment,7698996.0,7698996.0,0,0,majani,,,"FOSS companies by design have no sustainable competitive advantages, and therefore shouldn&",

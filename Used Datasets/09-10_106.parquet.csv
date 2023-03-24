@@ -1,0 +1,115 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9275379,story,,,1,0,tomaskazemekas,Making Things Work (2009),http://www.nytimes.com/2009/06/07/books/review/Fukuyama-t.html?pagewanted=all,,1427450364.0
+1,9275378,comment,9272275.0,9274545.0,0,0,NotableAlamode,,,I&,
+2,9275377,comment,9274231.0,9274231.0,0,0,auganov,,,There&,
+3,9275376,comment,9274809.0,9274809.0,0,0,frowaway001,,,It&,
+4,9275375,comment,9273744.0,9274994.0,0,0,pron,,,Not quite. async/await are what&,
+5,9275374,story,,,4,6,throwaway7767,Are CAPTCHAs getting too hard for humans?,,I regularly browse HN through tor. As a tor user I&,
+6,9275373,comment,9275041.0,9275230.0,0,0,orf,,,According to this[1] post GitHub (or someone else in between) started changing the responses to alert(&quot;Malicious Script Detected&quot;)[2]. That&,
+7,9275372,comment,9275041.0,9275168.0,0,0,ojilles,,,GitHub enterprise,1427450134.0
+8,9275371,comment,9274932.0,9274932.0,0,0,argimenes,,,It would be interesting to see a comparison of LOGO and Madeup sample programmes ...,1427450058.0
+9,9275370,comment,9275041.0,9275258.0,0,0,rodgerd,,,"Note that it seems to be attacking two specific projects, according to the details above, one of which is to get around the restrictions of the Great Firewall of China.  It&",
+10,9275369,comment,9219293.0,9219293.0,0,0,sophiaathena379,,,interesting article.. I was just about to submit it when i found out U already did :) thx,1427450013.0
+11,9275368,comment,9274344.0,9274344.0,0,0,saluki,,,"Few people graduate exactly on time in four years.<p>Changing majors, took a semester off, took extra classes, internship etc, lighter class load while working.<p>When listing your degree I would just show the year you graduated not a start/end date, just show the year.<p>No one should be concerned about this, I wouldn&",
+12,9275367,comment,9268946.0,9269469.0,0,0,return0,,,"Yeah obviously, the point is how to find the best compromise. It&",
+13,9275366,story,,,1,0,davor_pavic,Viggo lets you 'throw' photos and contacts into the air to share with others,http://mashable.com/2015/03/24/viggo-content-sharing/,,1427449980.0
+14,9275365,comment,9275282.0,9275343.0,0,0,yannpg,,,I really believe so. I think it&,
+15,9275364,comment,9275041.0,9275312.0,0,0,mikekchar,,,It&,
+16,9275363,comment,9275041.0,9275153.0,0,0,rodgerd,,,"If people have their whole workflow in git kernel-dev style, sure.  But the reality is that for a <i>lot</i> of people their workflow is github.  Leaving them with raw git is equivalent to leaving them with nothing.",1427449879.0
+17,9275362,comment,9268981.0,9274519.0,0,0,simplegeek,,,One of my teacher used to have this written on the final exam:<p>&quot;Relax. Don&,
+18,9275361,comment,9273744.0,9274652.0,0,0,pron,,,"> Do you mean co-routines / user threads / green threads? I tend to agree it can have a serious performance boost in some cases.<p>Yes, but in this context, they provide the same performance benefits as the asynchronous techniques mentioned in the article, without all the drawbacks of the cumbersome asynchronous style.<p>> But saying that actor model is bad practice<p>The actor model is a general technique for fault-tolerance, and it&",
+19,9275360,comment,9268946.0,9270080.0,0,0,return0,,,"Its not like that at all. Planes are mostly fly by wire anyway today, so i m not sure why it would be harder to do that. You &",
+20,9275358,comment,9264873.0,9268381.0,0,0,Already__Taken,,,"Consider a fresh user installs nodejs, runs npm install <someproject>, runs npm run start. Immediately they get a problem.<p>Doesn&",
+21,9275357,story,,,240,172,colund,Learn Python the Hard Way,http://learnpythonthehardway.org/book/,,1427449734.0
+22,9275356,comment,9275244.0,9275244.0,0,0,gnurag,,,I doubt the converter would work accurately beyond the salary bellcurve.,1427449731.0
+23,9275355,comment,9274047.0,9275093.0,0,0,realusername,,,I&,
+24,9275354,comment,9265084.0,9269788.0,0,0,olavk,,,"In any case, Tim Berners-Lee wasn&",
+25,9275353,story,,,87,16,jacquesm,Zynga must face U.S. lawsuit alleging fraud tied to IPO,http://www.reuters.com/article/2015/03/26/us-zynga-lawsuit-idUSKBN0MM1XP20150326,,1427449637.0
+26,9275351,comment,9268821.0,9271578.0,0,0,arethuza,,,That sounds interesting - I&,
+27,9275349,comment,9273976.0,9273976.0,0,0,amelius,,,"This is all nice and all, but most applications use multiple paradigms, so why focus on just one of them?",1427449594.0
+28,9275348,story,,,1,0,riaface,"Virtual reality, explained with some trippy optical illusions",http://mashable.com/2015/03/26/f8-oculus-optical-illusions/,,1427449594.0
+29,9275347,comment,9275244.0,9275244.0,0,0,auganov,,,What about US insurance? Travel costs? Relocation costs? Etc.<p>The baskets of goods that most PPPs use are usually skewed towards basic necessities rather than goods that middle/upper class people spend most of their money on. So wouldn&,
+30,9275346,story,,,1,0,mmaly,"ZX Spectrum and loaders: Counters, effects, timing",http://www.uelectronics.info/2015/03/27/zx-spectrum-and-loaders-part-three/,,1427449531.0
+31,9275345,comment,9268946.0,9271734.0,0,0,ptaipale,,,"Precisely. People are proposing complex algorithmic solutions to a problem where applying such things might potentially make things worse. Generally, civil aviation is remarkably safe, and we should not go with knee-jerk potentially counter-productive reactions.<p>Airline pilots are a highly selective group of people, well trained, and they are showing every day how they work with integrity. That someone has once gone over and killed himself and others should not obscure our assessment  of the situation. We have about 88 000 departures per day in the world. We don&",
+32,9275344,story,,,2,0,nishantarora,The Startup Bug – a popular weekly newsletter for and about indian startups,http://www.thestartupbug.com,,1427449467.0
+33,9275343,comment,9275282.0,9275282.0,0,0,luxpir,,,Nice perspective. Won&,
+34,9275342,comment,9272683.0,9272683.0,0,0,bshimmin,,,"Honestly, this headline would be perfect for False Medium: <a href=""https://twitter.com/falsemedium"" rel=""nofollow"">https://twitter.com/falsemedium</a>",1427449300.0
+35,9275341,comment,9274047.0,9275305.0,0,0,aikah,,,"Well, just have a look at gosearch and see all the generic generators poping up in Go. Most developers want generics period. By the way while Java didn&",
+36,9275340,comment,9265817.0,9274180.0,0,0,mrec,,,Sounds nice. I&,
+37,9275339,comment,9272282.0,9272282.0,0,0,hmahonen,,,"Reading, exercising and when weather allows, jumping out of perfectly good airplanes.",1427449195.0
+38,9275338,comment,9268904.0,9271455.0,0,0,Johnny_Brahms,,,"Hmmm. The syntax stuff could easily be implemented using macros. I like using rackjure by Greg Hendershott:<p><a href=""http://www.greghendershott.com/rackjure/"" rel=""nofollow"">http://www.greghendershott.com/rackjure/</a><p>Adding the if statements wouldn&",
+39,9275337,story,,,1,0,jangodlewski,Do you use any of these time trackers for your freelance job?,http://blog.zintro.com/2015/03/25/top-50-time-tracking-tools-for-freelancers,,1427449171.0
+40,9275336,story,,,121,29,octatoan,Write Yourself a Scheme in 48 Hours,http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours,,1427449136.0
+41,9275335,comment,9273709.0,9275313.0,0,0,patio11,,,"I would suggest that anyone who wants to run a business approach this and other issues with a mindset of &quot;This is a problem which I can trivially solve.&quot; rather than &quot;This is a problem which would be trivially solved for me if I were member of a special elect, but given that I&",
+42,9275334,comment,9268981.0,9275316.0,0,0,hunnypot,,,Once a day is usually enough. And it&,
+43,9275333,comment,9269657.0,9272033.0,0,0,chrismcb,,,"Kitsap is across the Sound from Seattle, it is a fairly rural area. But as the author pointed out it has some nice views.",1427448859.0
+44,9275332,comment,9268946.0,9269201.0,0,0,lolo_,,,Yes this is what I said - &,
+45,9275331,comment,9268463.0,9269362.0,0,0,illumen,,,"Ok, some things that I&",
+46,9275330,comment,9264873.0,9273077.0,0,0,Already__Taken,,,I don&,
+47,9275329,comment,9270538.0,9274200.0,0,0,dwyer,,,> most of the public content is under free licenses<p>Is it? I&,
+48,9275328,comment,9254883.0,9260681.0,0,0,gotcompromised,,,Update: Still no help.,1427448643.0
+49,9275327,comment,9275041.0,9275239.0,0,0,inglor,,,Exactly! If you have a sane build process everything is always synchronized anyway.,1427448619.0
+50,9275326,comment,9274809.0,9274809.0,0,0,Dewie,,,> Maybe like me you use Fresh<p>> and you have a OCD of hitting save every 2-3 seconds as you are thinking<p>Please stop with this &quot;OCD&quot; bullshit.,1427448492.0
+51,9275325,story,,,1,0,davisbrown,How Do You Choose a Web Design Software?,http://ultimatesoftwarereview.blogspot.com/2015/03/how-do-you-choose-web-design-software.html,,1427448458.0
+52,9275324,comment,9275244.0,9275244.0,0,0,elssar,,,That&,
+53,9275323,comment,9275041.0,9275120.0,0,0,toong,,,"I was going to make point that Baidu should serve his analytics-js over https only.<p>But thinking about it, there are fails on so many levels.",1427448401.0
+54,9275322,story,,,4,0,pedrorijo91,Learning by Cloning Real Life Startup Projects,https://code4startup.com/,,1427448338.0
+55,9275321,comment,9274602.0,9275163.0,0,0,_delirium,,,There&,
+56,9275320,comment,9274860.0,9274860.0,0,0,bandrami,,,Translation: &quot;People won&,
+57,9275319,comment,9272471.0,9272471.0,0,0,mellavora,,,"Thanks, Jessica, listening to founder stories is a huge help",1427448299.0
+58,9275318,comment,9272471.0,9273137.0,0,0,mellavora,,,"At least once per week, I have an hour or two where my idea seems hopelessly stupid. You just have to power through it.<p>Like doing heavy squats. You don&",
+59,9275316,comment,9268981.0,9268981.0,0,0,anupshinde,,,I&,
+60,9275314,comment,9274145.0,9275040.0,0,0,zmonx,,,"SWI-Prolog implements a variant of the ZIP, not the WAM.",1427448230.0
+61,9275313,comment,9273709.0,9275281.0,0,0,downandout,,,"<i>>A few Internet buddies of mine did affiliate marketing, which has similar cashflow dynamics to this. If you need to charge $100k in a day, and you can demonstrate capability to pay $100k in a day, Amex will happily accommodate your business.</i><p>Possibly, but I don&",
+62,9275312,comment,9275041.0,9275207.0,0,0,toong,,,You would have made a valid point if git wasn&,
+63,9275311,comment,9272471.0,9272471.0,0,0,eddd,,,"In dropbox video, 13:30 Jessica Livingston in on mute.",1427448198.0
+64,9275310,comment,9274145.0,9274956.0,0,0,zmonx,,,"Some examples: Combinatorial optimization problems, timetabling tasks, reasoning engines, rule-based systems for the medical industry, recommender systems etc.",1427448172.0
+65,9275309,comment,9274668.0,9275278.0,0,0,dozzie,,,I&,
+66,9275308,comment,9274047.0,9274831.0,0,0,pjc50,,,I don&,
+67,9275307,story,,,2,0,tomaskazemekas,Universities: The world is going to university,http://www.economist.com/news/leaders/21647285-more-and-more-money-being-spent-higher-education-too-little-known-about-whether-it?fsrc=nlw|hig|26-03-2015|,,1427448119.0
+68,9275306,comment,9275268.0,9275268.0,0,0,ColinWright,,,"A friend of mine wrote a mouse-driven spreadsheet in a single line of BBC BASIC.  Tokenised, it was less than 254 characters.  No load or save capability, but full formulas and cell references, and demand-driven recalculation.<p>I should find, reformat, annotate, and re-implement it.  If only I had the time.  One day.",1427448099.0
+69,9275305,comment,9274047.0,9275038.0,0,0,timclark,,,I did lots of programming in Java between 1995 and 2004 when the language had no generics. I did lots of programming in C++ prior to 1995 when it barely had generics. Now I do a fair amount of programming in Go and I don&,
+70,9275303,comment,9269660.0,9270512.0,0,0,prof_hobart,,,That&,
+71,9275301,comment,9275041.0,9275296.0,0,0,tsheeeep,,,To be sure everything that we know works together we use things like npm-shrinkwrap files. We don&,
+72,9275300,comment,9275041.0,9275198.0,0,0,TeMPOraL,,,"This, or if you are evil and know that your competitor has a stupidly-designed build process that <i>depends</i> on GitHub being available - by DDoSing GitHub itself you&",
+73,9275299,comment,9271946.0,9271961.0,0,0,simon_vetter,,,"Thanks for doing this, awesome job. May I request IPv6 support?",1427447996.0
+74,9275298,story,,,1,0,markusschwed,100% European PaaS on CloudFoundry,http://www.anynines.com/,,1427447907.0
+75,9275297,comment,9275041.0,9275041.0,0,0,rdl,,,"Someone turning a widely-used third-party-hosted JS into &quot;evil&quot; seems like an incredibly difficult layer 7 DDoS to address.  Assuming you have great capacity to filter on the edge (CloudFlare, being Google, etc.), but a limited backend, it&",
+76,9275296,comment,9275041.0,9275287.0,0,0,kowdermeister,,,"Committing downloaded packages is not a bad practice. Yes, it can be a bit big, but otherwise I don&",
+77,9275295,comment,9272204.0,9274580.0,0,0,seehafer,,,The only things I would ask myself in your place are: &quot;Am I being objective in thinking I have nothing to learn from these people?&quot; (it&,
+78,9275294,comment,9273166.0,9273461.0,0,0,philtar,,,He&,
+79,9275293,story,,,2,0,shogunmike,Matrix-Matrix Multiplication on the GPU with Nvidia CUDA,http://www.quantstart.com/articles/Matrix-Matrix-Multiplication-on-the-GPU-with-Nvidia-CUDA,,1427447821.0
+80,9275292,comment,9274047.0,9274328.0,0,0,odiroot,,,"Whoa, how is Go a successor to Python, with completely different philosophy? Especially considering static typing.<p>It&",
+81,9275291,comment,9274331.0,9274673.0,0,0,pmorici,,,"Everyone know how Google makes money though, through ads.  A database company doesn&",
+82,9275290,story,,,1,0,btzll,Ninjhax: How the Nintendo 3DS was reverse engineered to run homebrew,http://smealum.net/?p=517,,
+83,9275289,comment,9275125.0,9275125.0,0,0,mobinni,,,One man&,
+84,9275287,comment,9275041.0,9275041.0,0,0,tsheeeep,,,We use bower and npm for our project. Every couple of months github is under attack by a DDoS or not working correctly leaving us with broken deploy scripts. What is the best way to fix this? We don&,
+85,9275286,comment,9274602.0,9274602.0,0,0,mellavora,,,"Interesting that this shows up on HN on the same day as:\n&quot;fantasy angel investing&quot; <a href=""http://exchangel.co/"" rel=""nofollow"">http://exchangel.co/</a>",1427447636.0
+86,9275285,comment,9275041.0,9275041.0,0,0,bitinn,,,"I have written a brief summary of issues, as a tweetstorm: <a href=""https://twitter.com/bitinn/status/581350026217013248"" rel=""nofollow"">https://twitter.com/bitinn/status/581350026217013248</a>",1427447634.0
+87,9275284,comment,9269660.0,9269660.0,0,0,misterjinx,,,"There is something very unclear to me regarding the usage of the cloud drive for kindle related stuff. I mean, until now every ebook I purchased on amazon was available on amazon cloud. Also, they offered this option to documents you sent to your device by email. How is this new cloud drive going to affect me ? They already told me in the email that the current 5 GB plan is no longer available and has been replaced with a free 3-month trial of one of the Unlimited plans. The existing documents are available to download and view but if I want to upload new files I must select one of the Unlimited plans. So no more cloud storage for kindle (of course, unless I choose to pay according to new plans) ?",1427447632.0
+88,9275283,comment,9275201.0,9275240.0,0,0,pandada8,,,actually in china many big sites are still using http in most occasion,1427447631.0
+89,9275282,story,,,3,2,yannpg,What Mahatma Gandhi Taught Me about Growth Hacking,http://yanngirard.typepad.com/yanns_blog/2015/03/what-mahatma-gandhi-taught-me-about-growth-hacking.html,,1427447622.0
+90,9275281,comment,9273709.0,9275233.0,0,0,patio11,,,"A few Internet buddies of mine did affiliate marketing, which has <i>roughly</i> similar cashflow issues.  If you need to charge $100k in a day, and you can demonstrate capability to pay $100k in a day, Amex will <i>happily</i> accommodate your business.<p>The main question is whether you can scrape together $100k~200k for your first 48 hours.  I don&",
+91,9275280,comment,9269221.0,9269221.0,0,0,sangnoir,,,"You might be experiencing imposter syndrome, and it makes you question if you deserve to be there.<p>I suffered from imposter syndrome when I got moved to a new team (same employer) by myself after a cohort was moved.I felt like I wasn&",
+92,9275278,comment,9274668.0,9275110.0,0,0,nunobrito,,,"Sure, go ahead with this approach. Now ask yourself, why aren&",
+93,9275276,comment,9270515.0,9273310.0,0,0,rm445,,,I think your list of reasons begins a couple of hundred years too late.,1427447454.0
+94,9275275,comment,9274602.0,9275253.0,0,0,s_henry_paulson,,,The bubble started long ago.<p>This is what happens when you have lots of extra money floating around and traditional investments aren&,
+95,9275273,comment,9268946.0,9271198.0,0,0,nextw33k,,,> Those don&,
+96,9275272,story,,,12,0,ColinWright,Team of Biohackers Figures Out How to Inject Your Eyeballs with Night Vision,http://mic.com/articles/113740/a-team-of-biohackers-has-figured-out-how-to-inject-your-eyeballs-with-night-vision?fb_action_ids=1028376553857113&fb_action_types=og.shares,,1427447409.0
+97,9275271,comment,9274668.0,9274668.0,0,0,nunobrito,,,"That is not circumvention, it is misappropriation. If the copyright holder gets upset enough, it will lead to a court case.",1427447367.0
+98,9275270,story,,,8,11,noyalizor,"Why you should never, ever use two spaces after a period",http://www.slate.com/articles/technology/technology/2011/01/space_invaders.html,,1427447364.0
+99,9275269,comment,9275041.0,9275258.0,0,0,brador,,,"There is the Github you see and use, then there is the Github you don&",
+100,9275268,story,,,54,11,networked,"A spreadsheet in fewer than 35 lines of Tcl/Tk, no library used",http://wiki.tcl.tk/41294,,1427447294.0
+101,9275267,comment,9260963.0,9260963.0,0,0,makemoves,,,Love it! Here is the follow up? oneloveux.com Get your project reviewd buy stoned developers and creatives,1427447293.0
+102,9275266,comment,9274602.0,9274879.0,0,0,marze,,,"There will always be people losing money in dumb investments.  But with more diverse investment in startups, we should see a greater number and variety of successful ones.",1427447285.0
+103,9275264,comment,9274602.0,9275170.0,0,0,luch,,,"Actually yes, I know an economist (working for the BCE) half-jokingly preaching it. According to him, lottery should be reserved to people who can afford to lose 10$.",1427447267.0
+104,9275262,comment,9272249.0,9272761.0,0,0,rtpg,,,"this is disingenuous. As a child, you _did_ see slopes and springs and gears and ropes and pulleys before Newton, just not in physics classes but in everyday life. Physics classes start from first principles, maybe, but in terms of what you get exposure to, the three laws of newton show up pretty late in one&",
+105,9275261,comment,9270819.0,9270819.0,0,0,malandrew,,,Why don&,
+106,9275260,comment,9275041.0,9275041.0,0,0,mitkok,,,How is this news ?,1427447190.0
+107,9275259,story,,,1,0,vt,Jailbreak Should Not Tolerate Regional Discrimination,http://blog.pangu.io/jailbreak-should-not-tolerate-regional-discrimination/,,1427447159.0
+108,9275258,comment,9275041.0,9275041.0,0,0,r3bl,,,"Why the hell would anyone launch a DDoS attack against GitHub? Seriously, the only point I see in DDoS-ing GitHub is to prove yourself that you can DDoS it.",1427447093.0
+109,9275257,story,,,1,0,hmppark7,Up Periscope – Annotated,http://krown.io/380,,1427447074.0
+110,9275256,comment,9274644.0,9274644.0,0,0,peterkelly,,,&quot;Released&quot; may be a bit of an overstatement. Here&,
+111,9275255,comment,9268946.0,9273120.0,0,0,Piskvorrr,,,"No, no, no, no. There is no technical solution to <i>this</i> non-technical issue. I understand the frustration of &quot;but surely there MUST be a scriptable way out of this,&quot; but IMNSHO there isn&",
+112,9275254,comment,9273744.0,9274104.0,0,0,polskibus,,,I&,
+113,9275253,comment,9274602.0,9274879.0,0,0,mellavora,,,"Agreed, we have just entered bubble mode.",1427446804.0

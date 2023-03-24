@@ -1,0 +1,136 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,5962395,comment,5961785.0,5962049.0,4,0,coldcode,,,We in the US are going to pay for this in the long run big time. Sadly most of us seem to not care.,1372514374.0
+1,5962394,comment,5962386.0,5962386.0,3,0,sp332,,,"Email info@ycombinator.com with your question, that&",
+2,5962393,comment,5961830.0,5962258.0,2,0,herghost,,,I don&,
+3,5962392,comment,5962205.0,5962381.0,2,0,tluyben2,,,"Thanks for the comments. To give some insight:<p>> - Keeping a free plan with limited space / limited quality (and no hotlinking - not sure you allow this)<p>We did this already; it pissed off the fans and the freeloaders came in any way. Double loss. This is already less than they had.<p>> - Separating albums between regular/+18 pictures (so if in +18 no google ads/outside of robots.txt permissions, etc)<p>Well we don&",
+4,5962391,story,,,2,0,mikecane,Paris in the Twentieth Century,http://en.wikipedia.org/wiki/Paris_in_the_Twentieth_Century,,1372514300.0
+5,5962390,comment,5962241.0,5962241.0,1,0,addlepate,,,"Incisive, well-written.",1372514268.0
+6,5962389,comment,5962205.0,5962205.0,6,0,logn,,,"> Did we make the right decision?<p>Maybe you can have procedures in place to let approved accounts stay on a free plan. If you have a user with a long track record of acceptable use, and they really want their free account, why not give it to them? You could limit this to a small user pool, say, accounts open for > 1 year and exclude all new users. It might be a fun way to reward your longtime users and develop some loyalty.",1372514263.0
+7,5962388,comment,5961349.0,5962273.0,1,0,chacham15,,,"As I understand, the problem is comparing a relatively advanced technology (classical computing) to a relatively immature technology (quantum computing). So, classical computing is fast enough to simulate quantum annealing at the speed that the quantum chip itself is able to process (because the technology is so new). This has lead people to doubt whether the chip is actually doing the quantum process or simply simulating it. Or at least that is my grasp of the situation.",1372514230.0
+8,5962387,comment,5962263.0,5962263.0,3,0,coldcode,,,It&,
+9,5962386,story,,,3,3,NSMeta,Ask HN: My IP seems to be blocked on HN?,,It&,
+10,5962385,comment,5961570.0,5962096.0,2,0,tel,,,"Take a look at <a href=""https://www.fpcomplete.com/"" rel=""nofollow"">https://www.fpcomplete.com/</a>. They&",
+11,5962384,comment,5962086.0,5962086.0,2,0,egeozcan,,,"OK, now who&",
+12,5962383,story,,,1,0,gbvb,The Size of Electronic Consumer Devices Affects our Behavior [pdf],http://www.hbs.edu/faculty/Publication%20Files/13-097_4c473e46-e91b-4c9a-9070-ff61c7f70d3a.pdf,,1372514131.0
+13,5962382,comment,5962029.0,5962292.0,1,0,Keyframe,,,I agree completely with you on all counts. He didn&,
+14,5962381,comment,5962205.0,5962205.0,1,0,raverbashing,,,"Ok, I understand this is a difficult decision, but I think you handled it well, giving the chance of them taking their photos from the site is good and fair.<p>Some alternatives I would have considered:<p>- Keeping a free plan with limited space / limited quality (and no hotlinking - not sure you allow this)<p>- Separating albums between regular/+18 pictures (so if in +18 no google ads/outside of robots.txt permissions, etc)",1372514059.0
+15,5962380,comment,5958780.0,5960256.0,1,0,timmow,,,"This seems to me to be an issue that there is some disagreement on between devs and ops people - most devs are happy to distribute software with a Gemfile and see it as a solved problem.  Ops packages tend to go the omnibus route like Chef has, or use Jruby and package as a Jar file like <a href=""http://logstash.net/"" rel=""nofollow"">http://logstash.net/</a><p>I wonder if there is anything developers can do as a community to help solve the problems these distributors feel they have?",1372514027.0
+16,5962379,comment,5961785.0,5962103.0,1,0,TimJRobinson,,,Some kind of peer to peer encrypted data storage system (think bitcoin for data) would go a long way towards solving this. You could give sub keys to sites that want to access some of this data and because it&,
+17,5962378,comment,5961785.0,5961926.0,1,0,ajuc,,,"Yes you are protected in civilized countries nobody can read your letters without your consent, no matter your citizenship. It&",
+18,5962377,story,,,3,2,Mekza,Learn PHP in Minutes,http://i.imgur.com/iyZiD.gif,,1372513970.0
+19,5962376,comment,5962132.0,5962132.0,3,0,daturkel,,,Needs the j/k shortcuts of GR!,1372513915.0
+20,5962375,comment,5962267.0,5962267.0,1,0,pdog,,,Why do you think it&,
+21,5962374,comment,5957850.0,5961136.0,1,0,leephillips,,,"Now I see what you mean: unreadable because of psychology, not technology. I think I&",
+22,5962373,comment,5962092.0,5962092.0,5,0,frozenport,,,While he doesn&,
+23,5962372,story,,,58,69,GabrielF00,"NYC Homicides Drop Sharply, Again",http://www.nytimes.com/2013/06/29/nyregion/city-homicides-drop-sharply-again-police-cite-new-antigang-strategy.html?hp,,1372513792.0
+24,5962371,comment,5962205.0,5962359.0,2,0,tluyben2,,,Thanks for the off topic; fixed that typo.<p>And yes they have; you can download all your albums very easily. I&,
+25,5962370,comment,5962151.0,5962333.0,-4,0,never_again,,,"Read my comment again. I said even though the article is <i>not</i> about ruby, Matz unfailingly starts from 1993. The headings in your article before every question makes it hard to read. The font size of the question is 3x smaller than the answer font size. Top that up with the images in between the answers.<p>My OS is Centos 6.1(32 bit) and the browser is Mozilla Firefox 10.0.1 .<p>I am sorry if this sounds aggressive. But very rarely do we get the chance to interview some amazing men. When you do(or even translate), please don&",
+26,5962369,story,,,1,0,toni,Goo.js - The HTML5 Canvas API Simplified,http://www.storminthecastle.com/projects/goo.js/,,1372513698.0
+27,5962368,comment,5962029.0,5962250.0,4,0,TheCoelacanth,,,> assuming a byte as defined in ISO/IEC 80000-13<p>C uses a different definition of byte. The C standard defines the size of a char as 1 byte.,1372513670.0
+28,5962367,comment,5961785.0,5962070.0,6,0,Kylekramer,,,"Sure, but the whole Constitution begins with &quot;We the People of the United States&quot;. You can argue that it should include non-citizens, but the constitution itself and subsequent applications are very clear that it does not. It is a somewhat odd proposition to claim the constitution of one country apply to all. Should the rest of the world have stopped drinking in 1919?<p>(Not a Republican mythmaker who loves torture, just stating the facts)",1372513667.0
+29,5962366,comment,5944207.0,5944207.0,1,0,swalsh,,,One of the most incredible things released in visual studio 2013 is a thing called Browser Link.  In the keynote they used it only for live refreshing the page.  However the way it is architected adding extensions is easy.  There&,
+30,5962365,comment,5962165.0,5962312.0,1,0,mythriel,,,from what I see 4chan is not a social network :),1372513510.0
+31,5962364,story,,,1,0,bshoults81,"Gohousee - A quick, easy way to create a website to market your house",http://gohousee.com/,,1372513485.0
+32,5962363,comment,5962205.0,5962316.0,1,0,tluyben2,,,"Thanks!<p>We are not a big site, but we have loyal fans. Unfortunately the loyal fans are mostly not of the spontaneous paying kind which landed us in making losses for many months trying to find some other way to sustain the growth. Our marketing efforts were also focused on the EU mainly because that market is already large enough.<p>Thank you both for the long term storage advice; we will probably use Glacier. We&",
+33,5962362,comment,5961785.0,5962325.0,2,0,cpursley,,,"Well, it depends on your political preference. Strong social liberty or strong economic liberty or something in between? It depends on what&",
+34,5962361,comment,5961205.0,5961982.0,5,0,StavrosK,,,"Jesus, this is amazing.",1372513448.0
+35,5962360,story,,,1,0,Create,Missing yacht Nina 'presumed sunk' off New Zealand,http://www.bbc.co.uk/news/world-asia-23110736,,1372513421.0
+36,5962359,comment,5962205.0,5962205.0,4,0,benjamincburns,,,"Off topic, but &quot;Help us to keep your albums stay online&quot; is awkwardly phrased in English. Try deleting the word &quot;stay.&quot;<p>Somewhat on topic: do your users who won&",
+37,5962358,comment,5961205.0,5961205.0,2,0,Rustan,,,"Played, donated. Thanks!",1372513413.0
+38,5962357,comment,5961205.0,5962291.0,3,0,nappy-doo,,,Have you tried mining iron with villagers?,1372513407.0
+39,5962356,story,,,1,0,DanBC,Aid worker diary: the price of gold in DRC,http://www.unocha.org/top-stories/all-stories/aid-worker-diary-price-gold-drc,,1372513357.0
+40,5962355,comment,5961785.0,5961785.0,4,0,TimJRobinson,,,As an Australian this is exactly how I feel. Over the past few weeks I&,
+41,5962354,comment,5959442.0,5962255.0,1,0,jdotjdot,,,"A little risky though, if your test is imperfect. People may work to outsmart the tests rather than actually solve the bugs.",1372513317.0
+42,5962353,comment,5961205.0,5961410.0,1,0,gnosis,,,Have you ever heard of games that don&,
+43,5962352,comment,5961205.0,5961485.0,0,0,gnosis,,,It&,
+44,5962351,comment,5961871.0,5961871.0,1,0,gshubert17,,,The documentation mentions that &quot;OSX install has become a challenge. With the Enthought transition to Canopy we cannot figure out clean install directions for 3rd party packages and therefore can no longer recommend using EPD for SpacePy.&quot; They have other directions including some using MacPorts.<p>Installation directions for Linux and Windows seem straight-forward.,1372513212.0
+45,5962350,story,,,1,0,engenhariacivil,Ferra - O Novo Projeto Residencial de Luxo de Pininfarina em Singapura,http://www.engenhariacivil.com/projeto-residencial-pininfarina,,1372513206.0
+46,5962349,comment,5961785.0,5962049.0,11,0,honzzz,,,Exactly. When I was younger I kind of admired Americans and their ideals and I automatically perceived them as the &,
+47,5962348,comment,5962263.0,5962263.0,13,0,dmix,,,"Mass surviellenace is just a symptom of a bigger problem:<p>&quot;The government has granted itself power it is not entitled to.&quot; - Edward Snowden<p>When any government starts granting itself unlimited powers, this kind of thing will keep happening. Whether it&",
+48,5962347,comment,5959358.0,5961413.0,1,0,currymesurprise,,,"To be fair to mathematics, in your example the proper notation is df = (del f/del x) dx + (del f/del y) dy, which does not suggest the possibility of cancelation.",1372513140.0
+49,5962346,comment,5962132.0,5962321.0,3,0,mosselman,,,"It is just a waste of time and talent. I mean this reader looks great, but why does it exist? Someone with this talent could have built something more useful to actually make a difference in something.<p>Google reader quits and now everybody runs to make some sort of RSS reader. The times they are a changin&",
+50,5962345,comment,5961205.0,5961519.0,3,0,gnosis,,,<i>&quot;And if someone that turned off javascript doesn&,
+51,5962344,comment,5962263.0,5962263.0,11,0,pvnick,,,"Interesting article, but the author seems to fall into the trap of the &quot;national-security conservatives&quot; implying that most of the FISC judges being Republican is somehow worse. When Edward Snowden and I voted for Obama in 2008 we would have agreed. Now it&",
+52,5962343,comment,5961554.0,5961554.0,1,0,TheSOB88,,,This just seems like wishful thinking to me. You&,
+53,5962342,comment,5961785.0,5961785.0,1,0,throwit1979,,,This is going to be a little inflammatory but it&,
+54,5962341,comment,5957294.0,5957779.0,1,0,robryan,,,Sublime Text and Textmate likely wouldn&,
+55,5962340,comment,5961785.0,5961932.0,1,0,muyuu,,,I think that&,
+56,5962339,comment,5962132.0,5962320.0,4,0,hollerith,,,>[I&,
+57,5962338,story,,,2,0,msvan,"Why China Has Two Internets, Not One, And What To Do About It",http://www.tealeafnation.com/2012/08/translation-why-china-has-two-internets-not-one-and-what-to-do-about-it/,,1372512871.0
+58,5962337,comment,5961785.0,5962070.0,2,0,randallsquared,,,"It is not at all clear that &quot;the people&quot; means &quot;people in general&quot;.   If they had meant people in general, they could have simply omitted the article, and thereby not referred to any specific group of people.",1372512851.0
+59,5962336,comment,5961785.0,5961970.0,2,0,muyuu,,,"Yep, there are several. Any EU passport makes you an E.U. citizen.",1372512836.0
+60,5962335,comment,5961554.0,5962288.0,1,0,quadrangle,,,DDG has !sp too for StartPage to get Google sans tracking,1372512826.0
+61,5962334,comment,5961785.0,5962078.0,8,0,cpursley,,,"I know from experience that Americans in fact, don&",
+62,5962333,comment,5962151.0,5962317.0,11,0,fredwu,,,"Blog author here. I am sorry you found it difficult to read. Would you mind posting more information about your set up? (OS, Firefox version?) As I&",
+63,5962332,comment,5958036.0,5958036.0,1,0,D9u,,,"I dislike the idea of &quot;private contractors&quot; having access to my data, much less government secrets.\nThese private spies provide a layer of insulation between their actions and the checks & balances which are supposed to protect us from civil rights abuses by the government.<p>I&",
+64,5962331,story,,,18,0,rogerfernandezg,Mixu's Node Book - An overview of Node: Modules and npm,http://book.mixu.net/ch8.html,,1372512725.0
+65,5962330,comment,5960512.0,5961793.0,1,0,famousactress,,,Ouch. Great point. I&,
+66,5962329,comment,5961205.0,5961839.0,3,0,MrBra,,,"Yes, just looking at the html page source is what I did, but then at first sight I couldn&",
+67,5962328,comment,5962132.0,5962320.0,8,0,stephen_mcd,,,Love this question. It&,
+68,5962327,comment,5961785.0,5962046.0,1,0,sampo,,,"Before country-level identity, you were probably identifying to your clan or tribe or somesuch.",1372512586.0
+69,5962326,story,,,2,0,gnosis,Accelerating OpenSSH connections with ControlMaster,http://archive09.linux.com/feature/54498,,1372512578.0
+70,5962325,comment,5961785.0,5962309.0,1,0,jcromartie,,,Which countries would those be? I&,
+71,5962324,story,,,1,0,seanMeverett,If An Investment Banker Could Design,http://seanmeverett.quora.com/If-An-Investment-Banker-Could-Design,,1372512498.0
+72,5962323,comment,5961205.0,5961924.0,2,0,vinceguidry,,,"Keyboard shortcuts would probably make the game too easy. But I agree, any game that keeps me going for hours has to be great!",1372512456.0
+73,5962322,comment,5962307.0,5962307.0,4,0,sp332,,,"Original article: <a href=""http://cironline.org/reports/license-plate-readers-let-police-collect-millions-records-drivers-4883"" rel=""nofollow"">http://cironline.org/reports/license-plate-readers-let-polic...</a><p>Maine, New Jersey, and Virginia have limited the use of ALPRs, and New Hampshire has banned them outright, according to <a href=""http://www.infowars.com/automated-license-plate-readers-threaten-our-privacy/"" rel=""nofollow"">http://www.infowars.com/automated-license-plate-readers-thre...</a>",1372512449.0
+74,5962321,comment,5962132.0,5962315.0,3,0,stephen_mcd,,,Why do you hate reading?,1372512436.0
+75,5962320,comment,5962132.0,5962132.0,8,0,heyitsnick,,,First question i always have - what&,
+76,5962319,story,,,2,0,ekianjo,Interactive Audiovisual Experience with the Leap Controller (HN Kansai),https://www.youtube.com/watch?v=b67QedK9jhA,,1372512365.0
+77,5962318,comment,5962132.0,5962132.0,1,0,Sujan,,,FF22 on Win7 doesn&,
+78,5962317,comment,5962151.0,5962151.0,-4,0,never_again,,,This interview was not about Ruby. I don&,
+79,5962316,comment,5962205.0,5962286.0,4,0,japhyr,,,"I have never heard of picturepush, but I will share my reaction. Your letter is straightforward and to the point, and I would appreciate that as a user. My only issue would be the timeframe.<p>Pictures are really important to people, and many people don&",
+80,5962315,comment,5962132.0,5962132.0,-3,0,mosselman,,,Stop making all these readers please.,1372512276.0
+81,5962313,comment,5961785.0,5962117.0,9,0,mosselman,,,"Welcome to the world outside of the US, there is such a thing as &",
+82,5962312,comment,5962165.0,5962165.0,1,0,arh68,,,What would your profile look like? I&,
+83,5962311,comment,5962086.0,5962272.0,5,0,thejosh,,,"Pretty much just knowyourmeme.com, most memes are completely stupid but a few are quite funny in the right context/when they originally happened.<p>Image macros though are also fascinating, they seemed to have branched out to the general public over the last year or so.",1372512193.0
+84,5962310,comment,5941219.0,5941545.0,1,0,stephanos2k,,,That&,
+85,5962309,comment,5961785.0,5961785.0,1,0,cpursley,,,I&,
+86,5962308,comment,5961785.0,5961785.0,3,0,mosselman,,,Why so black and white? US vs the rest? I don&,
+87,5962307,story,,,74,47,joshuaellinger,License-Plate Readers Let Police Collect Millions of Records on Drivers,http://www.cryptogon.com/?p=35851,,1372512122.0
+88,5962306,story,,,1,0,Libertatea,"Sharing 30 songs online cost this college student $675,000",http://www.washingtonpost.com/blogs/wonkblog/wp/2013/06/28/sharing-30-songs-online-cost-this-college-student-675000/?tid=rssfeed,,1372512100.0
+89,5962305,comment,5962086.0,5962272.0,3,0,jffry,,,"Like this? <a href=""http://consoleimagememe.neocities.org/"" rel=""nofollow"">http://consoleimagememe.neocities.org/</a>",1372512096.0
+90,5962304,comment,5961349.0,5961544.0,1,0,IanChiles,,,"Just to clarify, it&",
+91,5962303,comment,5960044.0,5961361.0,3,0,PavlovsCat,,,How can there be &quot;mutual agreements&quot; on blackmail and coercion? That&,
+92,5962302,comment,5962132.0,5962297.0,1,0,stephen_mcd,,,Yeah we&,
+93,5962301,comment,5958036.0,5960956.0,2,0,Joeri,,,Snowden&,
+94,5962300,story,,,1,0,simba-hiiipower,"Downloaded: How Napster Conquered the World, How the World Conquered Napster",http://www.fastcocreate.com/1683310/downloaded-how-napster-conquered-the-world-how-the-world-conquered-napster-and-where-we-are-,,1372511983.0
+95,5962299,comment,5941219.0,5941283.0,1,0,stephanos2k,,,"This sounds perfect, thanks for the suggestion :)",1372511968.0
+96,5962298,comment,5941219.0,5941301.0,1,0,stephanos2k,,,Thanks for the tips! Blue Ocean Strategy sounds very interesting.,1372511926.0
+97,5962297,comment,5962132.0,5962132.0,2,0,flgr,,,"While I like the list view, I&",
+98,5962296,comment,5962205.0,5962282.0,1,0,tluyben2,,,"There are some businesses, but most are consumers. The businesses (photographers mostly) already all have premium accounts as they want to upload high res pictures to show to clients.",1372511906.0
+99,5962295,comment,5941219.0,5941268.0,1,0,stephanos2k,,,"Great suggestions, I read both already. Indeed, very high-level.",1372511869.0
+100,5962294,story,,,1,0,lauratomattis,PNL o Programacin Neurolingstica: Herramienta Para Hacer Multinivel?,http://lideratunegociomultinivel.com/blog/pnl-programacion-neurolinguistica-herramienta-multinivel/,,1372511827.0
+101,5962293,comment,5941219.0,5942833.0,1,0,stephanos2k,,,"Thanks! I recently read a lot about him, must be because of his famous MicroConf presentations.",1372511821.0
+102,5962292,comment,5962029.0,5962256.0,2,0,kryten,,,Agree but Unicode is a rather complicated diversion. In a lot of circumstances it&,
+103,5962291,comment,5961205.0,5961205.0,2,0,S4M,,,"I feel slightly stuck at some point, because it&",
+104,5962290,comment,5962086.0,5962269.0,4,0,jffry,,,Or if you&,
+105,5962289,story,,,2,0,rduchnik,An Elegant jQuery Character Counter Plugin,http://wchar.websanova.com/,,1372511706.0
+106,5962288,comment,5961554.0,5961554.0,1,0,arh68,,,"I switched to DDG recently, have noticed no lag, enjoy the !g and !yt shortcuts (one less thing I have to set my browser up to do), and I really like how it puts Wikipedia at the top. But that&",
+107,5962287,comment,5962086.0,5962086.0,6,0,jffry,,,"This hack is simultaneously beautiful and horrifying.<p><pre><code>  So now, I had to find a solution where only the whitelisted\n  properties are used but in the it was fairly simple.\n  \n  I used the padding, line-height and font-size properties. I\n  set the padding on the left and right to half the width and\n  the top and bottom to the half the height of the image. I\n  then set the font-size to 1px to ensure it doesn&",
+108,5962286,comment,5962205.0,5962262.0,1,0,tluyben2,,,"We spent quite a bit of time implementing the features needed to make this step possible. We wanted to do this before the 1st of july and this is the first time they hear about it, but they have 15 days to actually get everything off and we have a  button for that. So they are not hostages; they just cannot upload new images. I will try to word this more clearly.",1372511647.0
+109,5962285,comment,5956926.0,5962152.0,1,0,happy_dino,,,"I just wanted to highlight how bizarre this discussion has become in general (nothing against you, it seems to be a common theme):<p><pre><code>    \n    I&",
+110,5962284,comment,5962132.0,5962244.0,1,0,stephen_mcd,,,"Yes to both! Apps for other devices are certainly coming, and they&",
+111,5962283,comment,5962086.0,5962268.0,3,0,ycitm,,,Looks like it: `console.image(canvas.toDataURL());`,1372511595.0
+112,5962282,comment,5962205.0,5962205.0,4,0,yesimahuman,,,I don&,
+113,5962281,story,,,1,0,rpm4321,Mouse Cloned From Single Drop of Blood,http://www.bbc.co.uk/news/science-environment-23079892,,1372511566.0
+114,5962279,comment,5962029.0,5962029.0,2,0,level09,,,"love the idea, would be cool if this can be extended like :<p>- play with youtube api in 5 minutes \n- learn how to integrate Facebook/twitter oauth in minutes \n- create a flask/monogodb API in 20 seconds<p>etc ..",1372511541.0
+115,5962278,story,,,2,0,marklit,ShowHN: How I got on the 500px.com popular page,http://aperture.marksblogg.com/get-on-500px-popular-page.html,,1372511529.0
+116,5962277,comment,5960044.0,5961156.0,1,0,sk00byd00,,,"No, I meant exactly what I wrote.",1372511492.0
+117,5962276,comment,5962132.0,5962199.0,3,0,Gmo,,,"I disagree. I get far away from any RSS reader trying to put &quot;intelligence&quot; into my feed reading. There are indeed curated communities for that (choose your own poison, obviously, HN is one of those). But no amount of machine learning will agree with me (without counting the silo effect which the more you read the same thing, the more you get of the same instead of allowing you to bump into new stuff).",1372511409.0
+118,5962275,comment,5961205.0,5962179.0,1,0,joshguthrie,,,"It was a lot of things. &quot;Stabbing-me-in-the-back&quot; was one of them, but &quot;unexpected&quot; it was not.<p>The first time I saw that &quot;You&",
+119,5962273,comment,5961349.0,5961349.0,2,0,bsaul,,,There&,
+120,5962272,comment,5962086.0,5962086.0,3,0,Tichy,,,"I can actually see myself enjoying this, for example outputting some cat pictures to soothe the pain of debugging.<p>Is there an overview of all the memes? I feel like I could update my internet knowledge a lot through this.<p>Edit: I put up a version that logs all the included memes at <a href=""http://fractality.neocities.org/memes.html"" rel=""nofollow"">http://fractality.neocities.org/memes.html</a>",1372511337.0
+121,5962271,comment,5962029.0,5962250.0,1,0,level09,,,Send a pull request :),1372511329.0
+122,5962270,comment,5961785.0,5962235.0,1,0,emiliobumachar,,,Your utopia would have a single point of failure. What if the one government gets corrupted? We could not even draw comparisons.,1372511327.0
+123,5962269,comment,5962086.0,5962265.0,1,0,tekmate,,,maybe if you build urls to images that are hard to parse with the eye as text only,1372511272.0
+124,5962268,comment,5962086.0,5962086.0,1,0,flgr,,,Would it be possible to use this to render the current state of a canvas to the console? That&,
+125,5962265,comment,5962086.0,5962086.0,1,0,level09,,,What would be some real use cases for this  (except for the fun part of it) ?,1372511147.0
+126,5962263,story,,,51,10,Libertatea,"Tomorrows Surveillance: Everyone, Everywhere, All The Time",http://techcrunch.com/2013/06/29/tomorrows-surveillance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29,,1372511085.0
+127,5962262,comment,5962205.0,5962205.0,2,0,jffry,,,"Is the letter you wrote to your users [0] the first time they are hearing this, or is your customer base broadly aware already of the issues you&",
+128,5962261,comment,5961785.0,5962063.0,18,0,tome,,,> This ideal is all but gone.<p>Doesn&,
+129,5962260,comment,5961554.0,5961988.0,1,0,narozik,,,"It is usually more about perceived speed and feels than actual speed. And giving the user a quicker feel is a user experience improvement.<p>But feeling quick to display results is worthless if you have to make 5 queries to find your results, if you actually find it, and in my experience google rarely offers what I&",
+130,5962259,story,,,1,0,fars,RunAsDate - Run a program with the specified date/time,http://www.nirsoft.net/utils/run_as_date.html,,
+131,5962258,comment,5961830.0,5962231.0,1,0,agilebyte,,,But we are not grading an English essay are we? The content of the article was quite good for a &quot;normal&quot; non-tech person.,1372510969.0
+132,5962257,story,,,65,22,scrrr,Free Speech Zone,https://en.wikipedia.org/wiki/Free_speech_zone,,1372510893.0
+133,5962256,comment,5962029.0,5962237.0,1,0,Keyframe,,,"Zed made a really good intro to C. I was surprised. My only issue with it was he introduced readers to bstring instead of something UTF, but still better than vanilla chars. I wouldn&",
+134,5962255,comment,5959442.0,5959735.0,2,0,olalonde,,,Would be cool if you could submit an automated test and your bounty was automatically awarded as soon as the test passes.,1372510851.0

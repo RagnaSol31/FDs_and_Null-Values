@@ -1,0 +1,132 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7262397,comment,7259845.0,7260936.0,5,0,hmsimha,,,"Just checked pants-selling tech jobs; none of them (in the bay area, where the majority of them are, at least) have a requirement under 3 years. The majority of them are senior roles. Was your HR person flying by the seat of their pants when they wrote the job descriptions? If not, then I must be unaware that recognizing many-to-many relationships is a skill picked up after years of employment.",1392796755.0
+1,7262396,story,,,10,3,Lavinski,"How our economy works (and doesn't work), in words and pictures",http://economixcomix.com/home/tpp/,,1392796727.0
+2,7262395,comment,7261726.0,7261726.0,2,0,lutusp,,,I feel sorry for people who don&,
+3,7262394,comment,7259845.0,7259845.0,2,0,timedoctor,,,"We find it moderately difficult, but definitely possible to find great people. The secret is NOT looking in Silicon valley and the bay area where thousands of extremely well funded companies are looking for talented developers.<p>Totally agree with the last sentiments that if you&",
+4,7262393,comment,7261508.0,7261643.0,4,0,Orangeair,,,That was the user authentication equivalent of the Jedi hand-waving mind trick.,1392796686.0
+5,7262392,comment,7255579.0,7256372.0,1,0,gcb0,,,I&,
+6,7262391,comment,7261916.0,7262377.0,1,0,L_Rahman,,,"I figured as much based on the web player, but wanted to double check anyways. Thanks for answering my question.<p>I&",
+7,7262390,comment,7261508.0,7262376.0,2,0,ArkyBeagle,,,Or you could sanitize the inputs a wee bit.<p>Just a thought. Seems like less a perturbation than rewriting a limited resource device for one feature.,1392796632.0
+8,7262389,comment,7262274.0,7262274.0,4,0,tlrobinson,,,Random related anecdote: I saw a couple people walking down the street in SF tonight with a banner that read &quot;Stop the killing in Ukraine&quot;.,1392796624.0
+9,7262388,comment,7258026.0,7259928.0,3,0,spingsprong,,,There&,
+10,7262387,comment,7262274.0,7262274.0,4,0,buf,,,"I will share this with my network. Not just for Ukraine, but for the rest of Eastern Europe like Bulgaria who suffers the same deep corruption in their governments.",1392796594.0
+11,7262386,story,,,4,4,eytanlevit,Show HN: Watch our startup's launch becoming viral – live,http://www.yevvo.com/yoovi,,1392796571.0
+12,7262385,comment,7261558.0,7261558.0,1,0,fvrghl,,,"If the friction point of using a product is polite society, then maybe it&",
+13,7262384,comment,7261523.0,7261523.0,1,0,gcb0,,,I can&,
+14,7262383,comment,7261591.0,7262196.0,2,0,rtpg,,,"I think you mean that TCO is dangerous. Besides, this is probably more of an implementation problem. Do you really want to be applying a filter like this multiple times?<p>If I had to implement this, I would just imagine that just taking your mapping, and for each key,value , do a title.replace(key,value).  I would be a &quot;good enough&quot; solution , and in the worst case you still have human editors on HN.",1392796522.0
+15,7262382,comment,7261839.0,7261839.0,1,0,hayksaakian,,,"I wish the firefox nightly app would use something like this<p>I enjoy testing out &quot;fun&quot; (sometimes buggy) features, but I hate going through the update dialog EVERY DAY.",1392796504.0
+16,7262381,comment,7261558.0,7262077.0,9,0,natch,,,I&,
+17,7262380,comment,7258009.0,7258181.0,1,0,coldtea,,,><i>Containers are something that you will run thousands or tens of thousands on a single server.</i><p>Citation needed. Who&,
+18,7262379,story,,,1,0,arauhala,Libtoys – minimalistic and stateless micro widget library,http://arauhala.github.io/libtoys/,,1392796417.0
+19,7262378,comment,7261916.0,7262372.0,1,0,dinnison,,,"ha sorry, his post got pushed down.",1392796398.0
+20,7262377,comment,7261916.0,7262334.0,2,0,dinnison,,,I don&,
+21,7262376,comment,7261508.0,7262029.0,2,0,sitkack,,,The answer is to stop using C. It doesn&,
+22,7262375,comment,7261551.0,7261651.0,2,0,kiyanwang,,,... that&,
+23,7262374,comment,7259845.0,7261123.0,2,0,usaar333,,,"> So, yes, if you want to live in a cramped condo, see your money evaporate to taxes, driving to work, private schools, and so on, you can &",
+24,7262373,comment,7262198.0,7262198.0,4,0,jmnicolas,,,"VirtualBox, Docker and Mono ... at one point you have to ask yourself isn&",
+25,7262372,comment,7261916.0,7262334.0,1,0,coldtea,,,By ignoring them I&,
+26,7262371,comment,7256893.0,7261477.0,2,0,cdcarter,,,"Mutton is an english language term for some to most lamb meats, depending on your area.",1392796207.0
+27,7262370,story,,,79,64,spolu,REPL: To JSON what Excel is to CSV,http://repl.cc,,1392796166.0
+28,7262369,story,,,1,0,vpj,Is Angel Investing Worth It?,http://gadoci.me/is-angel-investing-worth-it,,1392796156.0
+29,7262368,comment,7261977.0,7262317.0,1,0,GFK_of_xmaspast,,,"Try not to complain about your previous jobs or schooling either unless it makes a really really good story (and get confirmation on this from independent sources).<p>Like, I interview a paerson who dropped out of graduate school or left after a master&",
+30,7262367,story,,,1,0,MrEliasen,[video] 30 years of Mac,http://www.youtube.com/watch?v=NMlbUCAOEXw,,1392796143.0
+31,7262366,story,,,1,0,SanderMak,Arduino Gets Fowl with Flappy Bit,http://hackaday.com/2014/02/18/arduino-gets-fowl-with-flappy-bit/,,1392796140.0
+32,7262365,comment,7261558.0,7261558.0,2,0,UweSchmidt,,,"Politeness does not help much.<p>Glass and similar gadgets must be set up that by default so that the data is sent to a private webspace owned or rented by the user so that legally no 3rd party can run their queries against it. Users can then buy the terminator app that tells them what shoe and pant size people have - but the actual data must by default be private, everything else is simply crazy.<p>However confronting people and asking them to take off their beloved new toy, maybe one that has prescription glasses built in that they need in this situation, is incredibly difficult in most social situations.<p>Glass-wearing Saruman could laugh at your face, and ask &quot;what do we have to fear?&quot; Only thing Gandalf can do is to throw a blanket over their head and state that the usage of the data is unaccounted for and we don&",
+33,7262364,comment,7261559.0,7261961.0,2,0,anon4,,,"I used to run dwm back when I had a machine with just 256MB RAM. The source code is very clean and if you just want to edit some keybindings or the colourscheme, etc. it&",
+34,7262363,comment,7261916.0,7262320.0,3,0,dinnison,,,That&,
+35,7262362,story,,,1,0,aboutmobile,Mobile Apps for Events,http://aboutmobile.dk/products/eventbuizz/?lang=en,"Mobile Apps for Events, Tradeshows and Conferences. Mobile App for Tradeshows, Mobile Apps Conferences and Mobile Apps for Events, EventBuizz has reinvented the way to successfully organize events, conferences and large meetings. You’ll be able to host a dynamic event while being both environmentally and financially savvy by eliminating the cost of printing vast amounts of event material.",1392795997.0
+36,7262361,story,,,5,1,tilt,"StackEdit is a full-featured, open-source Markdown editor based on PageDown",https://stackedit.io/,,1392795992.0
+37,7262360,story,,,2,0,AndreyKarpov,Improving Code Readability in C++,http://derkarl.org/article/improving_code_readability_in_cpp,,1392795897.0
+38,7262359,story,,,2,0,carbonr,Download iTunes Radio as a Airplay Device using this App,http://blog.doubletwist.com/2014/02/16/itunes-radio-airplay-recorder-for-mac/,Mac users will have the ability to save iTunes radio streams for offline playback. Smartly appears as a Airplay device which records tracks to mp3,1392795884.0
+39,7262358,comment,7258866.0,7260844.0,2,0,virtualwhys,,,"Marlow is _full-time_ at Facebook, bye bye. There&",
+40,7262357,story,,,2,0,tilt,StackEdit: The Markdown editor powered by PageDown,https://github.com/benweet/stackedit/,,1392795838.0
+41,7262356,comment,7259845.0,7261414.0,1,0,Rami114,,,"Crazy, we&",
+42,7262355,comment,7261977.0,7262082.0,1,0,oebi,,,I agree that work isn&,
+43,7262354,comment,7261977.0,7262236.0,2,0,GFK_of_xmaspast,,,"Those are exactly the kinds of answers a quitter would give though.  &quot;Oh, my managers were overbearing.&quot; &quot;Oh, I wasn&",
+44,7262353,comment,7259845.0,7260611.0,7,0,robryan,,,"That is pretty insulting, especially given the subjective nature of naming things.<p>Also code complete is ancient, sure much of it is still relevant, I don&",
+45,7262352,comment,7259845.0,7261693.0,1,0,usaar333,,,"No, because in his scenario, in SF you just made $54,000 more before taxes and after 401K contributions. I have no clue what Florida tax rates are, but there is no way that after taxes that is not at least $27k more earned in SF.",1392795738.0
+46,7262351,comment,7261977.0,7261977.0,1,0,kylefox,,,The frustrating thing about learning is you often don&,
+47,7262350,comment,7257005.0,7260321.0,1,0,ArkyBeagle,,,"Language choice is secondary to methodology, but Ada does a darn fine job of checking an awful lot of methodologically useful things up front.<p>It&",
+48,7262349,comment,7262310.0,7262310.0,1,0,samweinberg,,,I guess this means it&,
+49,7262348,comment,7262274.0,7262274.0,7,0,tonyoconnell,,,I hope she won&,
+50,7262347,comment,7259757.0,7259757.0,1,0,sdgfnlk,,,"I think the best course of action is to still do the interviews, but ask the potential employer for a late start date. Personally I took about 4 months off after I finished classes. I arranged the start date of my job to be early September (I finished classes in April; probably went to same school as you, 5 year program with co-op and whatnot).",1392795688.0
+51,7262346,comment,7261680.0,7262294.0,2,0,adambrod,,,"Yes, we are charging 5k for a job placement, and then kicking back 1k to the person getting hired and $500 to a referral.<p>There&",
+52,7262345,comment,7261003.0,7261003.0,1,0,Aoyagi,,,Touch screen in cars? I&,
+53,7262344,comment,7261526.0,7262143.0,4,0,tokipin,,,indeed. here&,
+54,7262343,comment,7261526.0,7261526.0,2,0,sidcool,,,">Intelligence, beauty, and wealth used to seem like notable qualities, but now they’re commoditized by technology<p>Very well put.",1392795557.0
+55,7262342,comment,7253803.0,7262026.0,1,0,icebraining,,,"<i>yes, this can be implement with Bitcoin</i><p>No, with Bitcoin, you don&",
+56,7262341,comment,7261977.0,7262307.0,1,0,GFK_of_xmaspast,,,Where did I say it&,
+57,7262340,comment,7261977.0,7262168.0,1,0,sbilstein,,,I left my first job before a year at an extremely large software shop. It did not kill my career; just accelerated it.<p>The most important thing at any job in software is to always feel that you are improving as well as contributing to the organization&,
+58,7262339,comment,7261680.0,7262259.0,2,0,blowski,,,"Personally, I think it&",
+59,7262337,comment,7256893.0,7261410.0,2,0,chris_wot,,,I&,
+60,7262336,comment,7261775.0,7262291.0,3,0,nobodyshere,,,"Not as crazy as lack of comments from Belkin, though. But it will be even crazier if Belkin tries to sue the hacker for some reason.",1392795430.0
+61,7262335,comment,7261977.0,7261977.0,1,0,bobbles,,,"Do I really want a new job?<p>Ask yourself the following questions:<p>Do I know what is expected of me at work?<p>Do I have the materials and equipment I need to do my work right?<p>At work, do I have the opportunity to do what I do best everyday?<p>In the last seven days, have I received recognition or praise for doing good work?<p>Does my supervisor or someone at work seem to care about me as a person?<p>Is there someone at work who encourages my development?<p>At work, do my opinions seem to count?<p>Does the mission/purpose of my company make me feel my job is important?<p>Are my co-workers committed to doing quality work?<p>Do I have a best friend at work?<p>In the last six months, has someone at work talked to me about my progress?<p>This last year, have I had the opportunity at work to learn and grow?",1392795424.0
+62,7262334,comment,7261916.0,7261916.0,4,0,L_Rahman,,,How are you handling issues related to copyright? I don&,
+63,7262333,comment,7261591.0,7262058.0,3,0,faddotio,,,"Based on the nitpicking, I thought it was!",1392795403.0
+64,7262332,comment,7261526.0,7261758.0,5,0,chkpt,,,"This is just not true. Most Ivy Leaguers maintain their high school level anxieties and fears no matter how much money they make or networks they break into. They are, generally speaking, still intimidated by the same fear of inadequacy that dominated their campus when they were undergrads.",1392795297.0
+65,7262331,comment,7223969.0,7227962.0,1,0,sitkack,,,"Dude, you write good.",1392795161.0
+66,7262330,comment,7261977.0,7261977.0,1,0,Aloha,,,I&,
+67,7262329,comment,7262156.0,7262156.0,1,0,lutusp,,,> The Napolean Dynamite Problem<p>1. It&,
+68,7262328,comment,7261526.0,7261966.0,3,0,ngpio,,,> it&,
+69,7262327,comment,7259845.0,7260398.0,3,0,zura,,,"Mitigating risk by contract-to-hire <i>might</i> be reasonable in some European countries where firing is rather complicated. But, what&",
+70,7262326,comment,7261559.0,7261846.0,6,0,cwzwarich,,,They get a speedup from eliminating the indirection used for calls across dylibs. From the sound of it they&,
+71,7262325,comment,7261003.0,7261361.0,2,0,joeblau,,,Bret deploys utter brilliance every time.,1392794990.0
+72,7262324,comment,7261977.0,7261977.0,1,0,ciscoriordan,,,Since it&,
+73,7262323,comment,7259654.0,7261280.0,5,0,kosei,,,"The last game that studio published was 6 years ago - Bioshock in 2007; Bioshock 2 was shipped by another studio. If they had 100+ employees (not unreasonable for a AAA game studio), they could have incurred personnel costs of $60M+ for the game&",
+74,7262322,comment,7261526.0,7261526.0,2,0,polarix,,,"> Love, values, interests, goals.<p>Perhaps names for one&",
+75,7262321,comment,7259845.0,7260002.0,1,0,eru,,,Why?  It&,
+76,7262320,comment,7261916.0,7262304.0,7,0,epaga,,,"Great stuff, thanks for the info.<p>This is not the first time I&",
+77,7262319,comment,7259845.0,7260952.0,4,0,EpicEng,,,"Would they though?  That would be admitting that the problem was with <i>them</i>, something many people are not willing to do.",1392794923.0
+78,7262318,story,,,1,0,jjude,Disrupt an industry through Deflationary Economics | Culttt,http://culttt.com/2014/02/19/disrupt-industry-deflationary-economics/,,1392794855.0
+79,7262317,comment,7261977.0,7262190.0,1,0,skuunk1,,,Upvoting this. Never ever complain about your current job when interviewing for a new job. Always spin it in a positive way. People in the new job won&,
+80,7262316,story,,,1,0,rnyman,Use Sass or Less? Live Editing in Firefox DevTools,https://hacks.mozilla.org/2014/02/live-editing-sass-and-less-in-the-firefox-developer-tools/,,
+81,7262315,comment,7261558.0,7261558.0,2,0,Sanctor,,,"The person in the video is wildly unpresentable. I could not keep watching past one minute or so.<p>As for Google Glass, I can&",
+82,7262314,comment,7261559.0,7262096.0,4,0,nicolast,,,Ever looked at Nix and NixOS?,1392794758.0
+83,7262313,comment,7259845.0,7260839.0,1,0,s_husso,,,I do agree that you or your (extended) network don&,
+84,7262312,story,,,1,0,ppolsinelli,An indie game on Da Vinci and the Renaissance,http://designagame.eu/2014/02/day-vinci-presenting-genio/,,1392794708.0
+85,7262311,comment,7261839.0,7261839.0,1,0,cfolgar,,,"As someone who is new to this side of Android, I find this proof of concept intriguing and incredibly educational.  While it is certainly true that potential security problems may arise from implementing something like this in your app, it is good to know that the developer is working hard to iron some of the problems out.  For me, the value in this concept lies in the provided insight of seeing an app being significantly updated in such a short span of time with absolutely no interruption to the user.<p>On another note: lets keep in mind the fact that this was built within 24 hours by a motivated young student at a recent collegiate hackathon (I was there to see the presentation).  It is, after all, a great hack that really shows the spirit of hacking.",1392794692.0
+86,7262310,story,,,5,4,carbonr,GameBoy Advance Emulator coming to iOS 7. No Jailbreak required,http://gba4iosapp.com/,Remember GBA4iOS? It was a gameboy advance emulator on iOS that used a AppStore enterprise bug to bring emulator to everyone without a jailbreak. Apple closed that bug but now its back with version 2.0 and the website has a countdown which will finish tonight.,1392794691.0
+87,7262309,story,,,2,0,f_salmon,Merkel and Hollande to talk about avoiding US servers,http://www.itworld.com/security/405353/merkel-and-hollande-talk-about-avoiding-us-servers,,1392794676.0
+88,7262308,comment,7261523.0,7262289.0,2,0,kristopolous,,,"Ah ok.  So then it looks like that over half of the android phones listed here for sale right now: <a href=""http://www.frys.com/ads/page16",
+89,7262307,comment,7261977.0,7262168.0,4,0,a3n,,,"So why is it OK for a company to &quot;fire fast&quot;, but it&",
+90,7262306,comment,7252176.0,7260501.0,1,0,brokenparser,,,"No need for Google, just use man.",1392794540.0
+91,7262304,comment,7261916.0,7262284.0,16,0,dinnison,,,I&,
+92,7262303,story,,,1,0,jansanchez,Big Oil and Bad Air on the Texas Prairie,http://stories.weather.com/fracking,,1392794453.0
+93,7262302,comment,7261559.0,7261559.0,7,0,mrich,,,They missed a chance to call a project &,
+94,7262301,comment,7261659.0,7262277.0,3,0,seanmcdirmid,,,"That is definitely the myth, where is the non-anecdotal evidence that this statement is actually true?",1392794397.0
+95,7262300,comment,7258905.0,7259822.0,2,0,pyrocat,,,Precisely.,1392794385.0
+96,7262299,story,,,1,0,ghosh,Bill Gates Is Right: Corruption Isn't the Biggest Aid Problem ,http://www.businessweek.com/articles/2014-02-03/bill-gates-is-right-corruption-isnt-the-biggest-aid-problem,,
+97,7262298,comment,7261916.0,7262283.0,2,0,dinnison,,,"Just saw your subscription, thanks!",1392794295.0
+98,7262297,comment,7261641.0,7262007.0,1,0,baddox,,,If King&,
+99,7262296,comment,7261523.0,7262214.0,3,0,tadfisher,,,"As the Android ecosystem is somewhat decentralized, it&",
+100,7262295,comment,7261559.0,7261559.0,1,0,anon35,,,"Static linking also relative in a discussion about coupling and OS dependencies : <a href=""http://unix.stackexchange.com/a/38914/17683"" rel=""nofollow"">http://unix.stackexchange.com/a/38914/17683</a>",1392794192.0
+101,7262294,comment,7261680.0,7262230.0,1,0,epaga,,,"I would assume that the $1000 are covered by the hiring company paying them a higher sum for the referral of the applicant.<p>If the $1000 are coming from a larger sum being paid to them by the hiring company, I see no scam possibility (but maybe I&",
+102,7262293,comment,7260332.0,7260332.0,1,0,the_cat_kittles,,,"there are nascent technologies for refining silicon into solar grade that are like 30-50% cheaper than what is currently used, they just need to be brought up to production scale. So,  to answer the title- no",1392794131.0
+103,7262292,comment,7261680.0,7261680.0,1,0,aashaykumar92,,,"Funny, I applied to YC with this exact idea. Unfortunately, I had barely done any work other than thinking through the idea so, understandably, nothing came of it but glad to see someone went through with it...good luck!",1392794068.0
+104,7262291,comment,7261775.0,7261775.0,2,0,joeblau,,,The dub step light hack was pretty crazy.,1392794066.0
+105,7262290,story,,,11,11,dhimant,A Bicycle That Rides On Water. Invented By a 60 Year Old Man from India,http://www.thebetterindia.com/9335/saidullah-inventor-amphibious-cycle/,,1392794053.0
+106,7262289,comment,7261523.0,7262271.0,0,0,dobbsbob,,,only works on android < 4.2 with the stock browser and shady apps that have ads. A lot of devices out there are people with 3yr contracts still running vuln unpatched versions though,1392794040.0
+107,7262287,story,,,1,0,tagawa,Web Audio API book by Boris Smus now available free online,http://chimera.labs.oreilly.com/books/1234000001552,,1392794018.0
+108,7262286,comment,7261526.0,7261526.0,3,0,ngpio,,,A response to Jamil Elie Bou Kheir&,
+109,7262285,comment,7261508.0,7261890.0,1,0,mariuolo,,,With consumer gear it&,
+110,7262284,comment,7261916.0,7261916.0,9,0,epaga,,,Congratulations! What did you do to market the app? Just stick it in the store? Or did you get blogs to do write-ups?<p>It seems like discovery has always been a huge problem for app developers.,1392793892.0
+111,7262283,comment,7261916.0,7261916.0,2,0,shriphani,,,I liked the first song I heard on your website and signed up. Very nicely done!,1392793826.0
+112,7262282,comment,7244109.0,7262199.0,1,0,singingfish,,,> Only if you change the definition of &quot;scientific knowledge&quot; to something much more vague that is not the definition agreed upon by scientists.<p>Oh dear.  I&,
+113,7262281,comment,7259845.0,7260008.0,1,0,argonaut,,,<i>What</i> prevents a company from not paying you the salary you&,
+114,7262280,comment,7256893.0,7261477.0,1,0,PhasmaFelis,,,&quot;Chicken&quot; is the same.,1392793789.0
+115,7262279,comment,7257009.0,7258611.0,2,0,vtanase,,,"I have to agree here, transparency is key, trust is a very important part of human relations. You build this by starting with a couple of tasks where you pay the subcontractors hourly rate, to feel each other out, but you need to make sure you are clear about what you want after that: project based work, help on various tasks with an hourly pay model etc.<p>Since good subcontractors are hard to find you should not treat them as interchangeable pieces and try to get the lowest rate possible. Being transparent will go a long way towards building a professional relationship that will allow you to collaborate long term on multiple projects.<p>On this note, I would be interested in hearing what you are looking for as I would enjoy doing some subcontracting considering I do not really enjoy the whole client dance. You can find my e-mail in my profile.",1392793782.0
+116,7262278,comment,7261680.0,7262046.0,1,0,adambrod,,,This seems to be happening on Android&,
+117,7262277,comment,7261659.0,7262208.0,3,0,pjmlp,,,It applies to the bloat in software development nowadays with layers on top of layers that seldom add any real value to the product.,1392793757.0
+118,7262276,comment,7261916.0,7262256.0,4,0,dinnison,,,"It was my first ever app, so I admittedly wasn&",
+119,7262275,comment,7257685.0,7258187.0,1,0,tropicalmug,,,What tools would you suggest for doing this?  Or even what algorithms to implement for doing this sort of work?,1392793731.0
+120,7262273,comment,7261977.0,7261977.0,4,0,jey,,,"Jeff Bezos had some thoughts on this: <a href=""https://www.youtube.com/watch?v=jwG_qR6XmDQ"" rel=""nofollow"">https://www.youtube.com/watch?v=jwG_qR6XmDQ</a><p>Personally, I think you should get out of there before your brain turns to mush and falls out. Other posters are telling you to instead perceive it as a blessing to work on these things that you find mundane and boring, but I strongly disagree. To quote Paul Graham, &quot;If you&",
+121,7262272,comment,7261916.0,7262262.0,1,0,dinnison,,,"Sweet thanks for checking it out. Working on a redesign for the web version too, not quite as slick as I&",
+122,7262271,comment,7261523.0,7261523.0,2,0,kristopolous,,,"The code is here: <a href=""https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/android/browser/webview_addjavascriptinterface.rb"" rel=""nofollow"">https://github.com/rapid7/metasploit-framework/blob/master/m...</a><p>I can&",
+123,7262270,story,,,1,0,aboutmobile,Mobile Apps for insurance and damage services,http://aboutmobile.dk/products/docu-app/docu-app-forsikring/?lang=en,"Mobile Apps for insurance and damage services, Mobile Apps for Risk Assessment. Docu-App Insurance addresses the challenges facing the insurance industry. Insurance agents gain a competitive edge, receiving a quick overview of the underwriting process.",1392793582.0
+124,7262269,comment,7261559.0,7261952.0,6,0,DougMerritt,,,"I remember, but these days the parallel to working set size  (depending on the app) is fitting things in cache, or at least cache-awareness -- which some people aim for, but is largely an ignored issue. Page thrashing versus cache thrashing.<p>An issue both back then and today is potentially that dynamic linkage often ends up using an indirection table, unlike static linkage with simple fixups, which then adds at least the cost of an indirection to each function call.<p>Sometimes that overhead is swamped by other factors, sometimes it&",
+125,7262267,story,,,2,0,thefreeman,Javapocalypse THE JAVA dooms day,https://www.youtube.com/watch?v=e-hYvdDGfNg,,1392793460.0
+126,7262266,comment,7260332.0,7260332.0,2,0,Egregore,,,"As an active user of silicon-based solar in self sustained home I would say that we need a more efficient and cheap battery technology. By cheap I mean cost/cycles, current lead acid batteries offer less than 1000 cycles considering 30% usage, improving number of cycles 10 fold and usage to 100% would be great.",1392793434.0
+127,7262265,comment,7256893.0,7258645.0,2,0,mhartl,,,Your suggestion is essentially the &quot;grandmother hypothesis&quot; mentioned in the parent comment.,1392793405.0
+128,7262264,story,,,2,0,dogsmeow,Clickdrive Is One On-Board Device To Rule All Your Driving Apps,http://techcrunch.com/2014/02/11/clickdrive/,,1392793334.0
+129,7262263,comment,7257815.0,7261482.0,1,0,lutusp,,,> Science most definitely has a status quo - that&,
+130,7262262,comment,7261916.0,7261916.0,7,0,psteinweber,,,There&,

@@ -1,0 +1,127 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9636741,comment,9636292.0,9636292.0,0,0,dublinben,,,Anonymously report to plaintextoffenders.com?,1433131179.0
+1,9636740,comment,9630463.0,9632315.0,0,0,doobwa,,,"Spearmint, for example: <a href=""https://github.com/JasperSnoek/spearmint/blob/master/spearmint-lite/ExperimentGrid.py",
+2,9636739,comment,9636605.0,9636605.0,0,0,mayukh,,,Here&,
+3,9636738,comment,9633921.0,9636708.0,0,0,jkarneges,,,"ZeroMQ sockets can connect or bind, and this is independent of the socket type. If you want to load balance requests against a dynamic number of responders, just have the responders connect their REP sockets to a set of bound REQ sockets.",1433131098.0
+4,9636737,story,,,7,0,raccoonone,Debugging JVM Safepoint Pauses,http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/,,1433131087.0
+5,9636736,comment,9630463.0,9632421.0,0,0,doobwa,,,"I think you mean <a href=""https://www.whetlab.com/"" rel=""nofollow"">https://www.whetlab.com/</a>",1433131084.0
+6,9636735,comment,9635174.0,9635640.0,0,0,sliverstorm,,,I think it&,
+7,9636734,comment,9625048.0,9628327.0,0,0,panglott,,,"English is perhaps the most successful world interlanguage in the history of the world. My point is that, it would still be considered a failure by the standards that Esperanto set for itself. I take that more as an indication that Esperanto&",
+8,9636733,comment,9635256.0,9635256.0,0,0,hackuser,,,I&,
+9,9636732,comment,9635784.0,9635922.0,0,0,ChristianGeek,,,Just make sure it&,
+10,9636731,comment,9624737.0,9626917.0,0,0,kordless,,,Howdy! You can email me or ping me on Twitter or my email is {{my_handle_ here}}@giantswarm.io. Twitter same.,1433131007.0
+11,9636730,comment,9635063.0,9636444.0,0,0,schoen,,,Is the Coq bug you&,
+12,9636729,comment,9634082.0,9634542.0,0,0,kordless,,,"Absolutely. The arrow is a dynamic, nearly independed system while it&",
+13,9636728,comment,9635276.0,9635276.0,0,0,scrollaway,,,> Think about the correct mime type for WOFF 2.0 files (Google uses font/woff2. W3C recommends application/font-woff2):<p>Heh. I&,
+14,9636727,comment,9635551.0,9636126.0,0,0,e12e,,,"As I mentioned on a related thread [ed:1], I&",
+15,9636726,story,,,4,7,tlong,Ask HN: How do you monitor uptime?,,I&,
+16,9636725,comment,9625048.0,9628779.0,0,0,panglott,,,There are lots of things more immediately valuable than badly-learned languages. But languages learned well seem to measurably improve a person&,
+17,9636724,comment,9634786.0,9636184.0,0,0,pdkl95,,,While I don&,
+18,9636723,comment,9631825.0,9633760.0,0,0,dragonwriter,,,> You&,
+19,9636722,comment,9635230.0,9636241.0,0,0,danjayh,,,"And why is this useful? Well, for high-level folks, pointers are used for roughly the same thing as reference variables in other languages.<p>For low-level folks, sometimes you need to be able to read from / write to a specific address in memory. So if you have, for instance, a system clock device that always give you the current time if you read address 0x1234, you might do something like this:<p>uint64 system_time;<p>uint64 <i>system_time_device = 0x1234; // A pointer to the system time device...<p>system_time = </i>system_time_device; // read the contents of the memory at address 0x1234 to get the time",1433130743.0
+20,9636721,story,,,2,0,ekianjo,"Typeplate.css, a Typographic Starter Kit",http://typeplate.com/.,,1433130694.0
+21,9636720,comment,9634610.0,9636419.0,0,0,anilgulecha,,,Interesting take.<p>I&,
+22,9636718,comment,9636104.0,9636688.0,0,0,dheera,,,"For job-seeking engineers, it would be interesting to then write another script that filters for only the posts in the correct formatting. This at least gives some level of comfort that you&",
+23,9636717,comment,9633921.0,9635009.0,0,0,dublinben,,,"Not least when the empty set symbol (∅) exists, and would be more appropriate.  This is almost as bad as the metal umlaut.[0]<p>[0] <a href=""https://en.wikipedia.org/wiki/Metal_umlaut"" rel=""nofollow"">https://en.wikipedia.org/wiki/Metal_umlaut</a>",1433130524.0
+24,9636716,comment,9635037.0,9635037.0,0,0,keithwhor,,,"Neat! I did this a couple of years ago. My version is here (choose &quot;Acoustic Guitar&quot;). Your version is a little more automated in note production, but definitely more robust and a bit catchier. ;)<p><a href=""http://www.keithwhor.com/music/"" rel=""nofollow"">http://www.keithwhor.com/music/</a>",1433130475.0
+25,9636715,comment,9636292.0,9636377.0,0,0,sigden,,,What legitimate use case is there for implementing a 2-way encryption method over a hash function for passwords?,1433130399.0
+26,9636714,comment,9635076.0,9636073.0,0,0,EarthLaunch,,,> That&,
+27,9636713,comment,9635174.0,9635488.0,0,0,vasilipupkin,,,"Certain qualities like narcissism are not measurable precisely, so he created the next best thing, which is precisely defined according to a formula, and, hopefully, correlates highly with true narcissism.  This is exactly how do you social science research",1433130388.0
+28,9636712,comment,9636292.0,9636377.0,0,0,dwelch2344,,,"Also, there is no good reason to use 2 way encryption on passwords anyways. It goes against every security best practice.",1433130299.0
+29,9636711,comment,9634913.0,9634913.0,0,0,Blackthorn,,,"I think this is a similar (though more annoying) issue to what we go through in engineering at times. Before coding, my workplace likes to draft up design documents that specify the what, the why, and (sometimes) the how of what we&",
+30,9636710,comment,9626985.0,9631964.0,0,0,ChrisLomont,,,>Are &,
+31,9636709,comment,9636450.0,9636564.0,0,0,justanother,,,"Anyone with an Internet connection can now see from Congressional-level reports that Saudi hijackers received embassy-level support from the Saudi government for their actions, or that the Iraqi &",
+32,9636708,comment,9633921.0,9633921.0,0,0,lobster_johnson,,,I&,
+33,9636707,comment,9636104.0,9636104.0,0,0,shawnps,,,"Is there a way to be more clear about whether the company will  apply for an H1B for a candidate, as opposed to sponsoring an existing one? I have a lot of friends who talk to companies that end up saying, &quot;we only sponsor existing visas.&quot;",1433130244.0
+34,9636706,comment,9634966.0,9636513.0,0,0,hueving,,,way to miss the point. Part of a language selection for a real -world project is based on the libraries available for it. If I&,
+35,9636705,story,,,8,1,luu,The Internet's Original Sin (2014),http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true,,1433130189.0
+36,9636704,comment,9636183.0,9636638.0,0,0,tmuir,,,"The push is completely driven by time/resource concern.<p>The thing is, I&",
+37,9636703,comment,9636149.0,9636149.0,0,0,brudgers,,,"[IANAL]<p>Nothing will keep you from getting sued if you are in the US since anyone can sue anyone. Liability is another matter since it is determined in a court not merely by allegation.<p>There are two general tools for dealing with allegations of liability. One is indemnity clauses in your contract. The other is insurance. The third tool is protection of assets (typically via a fictitious person).<p>Thus the three other members of your business team: lawyer, insurance agent, and account should be consulted to create a sound strategy.<p>Good luck.",1433130108.0
+38,9636702,comment,9635244.0,9636522.0,0,0,curun1r,,,Two points:<p>- I was giving advice to someone asking how to ask for a raise. Asking for a raise is always going to be somewhat adversarial. Either it&,
+39,9636701,comment,9636450.0,9636564.0,0,0,geophile,,,The intelligence wasn&,
+40,9636700,comment,9635230.0,9636334.0,0,0,caipre,,,It&,
+41,9636699,story,,,3,0,fpvracing,New subreddit for product / part sourcing and working with foreign manufacturers,http://www.reddit.com/r/ProductSourcing,,1433129945.0
+42,9636698,comment,9635205.0,9636657.0,0,0,tedunangst,,,"He makes some interesting observations, but stretches some of the conclusions quite a bit. Basically suffers from a lot of confirmation bias. Tends to ignore or overlook contradictory evidence.",1433129932.0
+43,9636696,story,,,2,0,Mitchhhs,The first complex life on Earth got eaten to extinction,http://www.newscientist.com/article/dn27415-the-first-complex-life-on-earth-got-eaten-to-extinction.html?utm_content=buffer70005&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,,
+44,9636695,comment,9634966.0,9636683.0,0,0,dragonwriter,,,> Doesn&,
+45,9636694,comment,9636450.0,9636450.0,0,0,0xCMP,,,Don&,
+46,9636692,comment,9635168.0,9636663.0,0,0,ctdonath,,,"Still have mine (two actually, one button-operated and one touchscreen). About the same size and cost as an Apple Watch. Fabulous idea, brutal to use.",1433129771.0
+47,9636691,comment,9634786.0,9636152.0,0,0,pdkl95,,,Hmm... as the multiple down-voters left no explanation... I wonder which motivation is more likely: cell-phone addicts that don&,
+48,9636690,comment,9633921.0,9634884.0,0,0,dhaivatpandya,,,This is not entirely accurate. The difference is that ZeroMQ doesn&,
+49,9636689,comment,9636183.0,9636183.0,0,0,brudgers,,,"My advice as a random person on the internet, let it go.<p>1. If it is nine women making a baby in a month, then it&",
+50,9636688,comment,9636104.0,9636104.0,0,0,msvan,,,This is not going to work unless it is enforced by software running on the HN servers. Many of the hiring posts are posted by non-hackers who don&,
+51,9636687,comment,9634610.0,9636257.0,0,0,est,,,"To be fair, in Linux, X window GUI sucks in general. For Mac system, everything besides Quicktime sucks.<p>Also NPAPI sucks compared with ActiveX.<p>Flash in its original popularity was its vector animation streaming capability, think SVG withe a timeline with streaming. Plus a decent ECMA scripting environment, and later hardware accelerated 3D apis and C++ compilation support. It&",
+52,9636686,comment,9635230.0,9636388.0,0,0,dmix,,,"Or, you know, old-school &",
+53,9636685,comment,9636605.0,9636605.0,0,0,_kst_,,,Part 3:<p>&quot;Wait a tic... Where&,
+54,9636684,comment,9634808.0,9635876.0,0,0,andrewchambers,,,It lets you interact with a version of webkit via python. Useful for writing programs to interact with websites that normally require a user to press buttons.,1433129568.0
+55,9636683,comment,9634966.0,9636427.0,0,0,Myrmornis,,,"I agree, I like R and python for certain things. (python for most things and R for statistics and visualization).<p>However, I really don&",
+56,9636682,story,,,6,0,mofle,Sci-Fi worth consuming,https://github.com/sindresorhus/awesome-scifi,,1433129508.0
+57,9636681,comment,9635230.0,9635230.0,0,0,smilefreak,,,"These slides are great, I was thinking of presenting something similar to a bioinformatics lab group I am a part of. Could I adapt some of these slides?",1433129508.0
+58,9636680,comment,9635230.0,9636013.0,0,0,kyllo,,,"Of course the problem is, if you&",
+59,9636679,comment,9636605.0,9636605.0,0,0,hoodoof,,,">>Let me start by saying that unlike Mr. Shaw, I am not a writer. I&",
+60,9636678,story,,,117,25,joubert,Pixar’s Rules of Storytelling (2013),http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/,,1433129422.0
+61,9636677,comment,9635256.0,9636391.0,0,0,throwawaykf05,,,"Yahoo has actually regressed in that respect. Previously, Yahoo mail, like Hotmail, did not mine your email content for displaying targeted ads. In 2011, Yahoo changed their policies and started displaying &quot;relevant ads&quot;.",1433129396.0
+62,9636675,comment,9634966.0,9634966.0,0,0,Tycho,,,iPython Notebook is great. Making it the norm for exploring/teaching ideas in a coding context is a great trend.<p>One other thing I hope comes along is annotated mathematical formulas/expressions. Any time I see a mathematical symbol I want to be able to hover over it and get its definition (in the context it&,
+63,9636674,comment,9635452.0,9635842.0,0,0,colordrops,,,You haven&,
+64,9636673,story,,,2,0,amitlan,"Goodbye jsonb_replace, hello jsonb_set (Postgres)",http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html?m=1,,1433129290.0
+65,9636672,comment,9636450.0,9636666.0,0,0,dragontamer,,,"Intelligence does jack diddly crap. If a spy spies on you, you&",
+66,9636671,comment,9634634.0,9636601.0,0,0,jdswain,,,"The 68000 really took over from the 6502, even though it was completely incompatible. There is a 16-bit 6502, called the 65816, from WDC. They are still in production today and were used in some very high volume applications, like the SuperNES game console, but only really in the Apple IIgs personal computer. By the time the 65816 came out the 68000 was well established both in workstations and in the Atari ST, Commodore Amiga, and the Macintosh. The 68000 family had a long life and competed quite well against x86 for a while.",1433129246.0
+67,9636670,comment,9623281.0,9627291.0,0,0,lsaferite,,,I&,
+68,9636669,comment,9636369.0,9636554.0,0,0,pakile,,,Thanks.  This was very helpful.  I had no idea it was even possible to get a new SSN.  Mind if I ask:<p>- Did you find any 3P services like AllClear ID compelling/useful? Sounds like Consumer Reports isn&,
+69,9636668,comment,9635452.0,9636571.0,0,0,dragonwriter,,,"> Bitcoin whitepaper was released in 2008. Before that even the concept of cryptocurrency hardly existed.<p>Digital currency was, as I understand, the application usually highlighted for secure (cryptography-based) distributed capability-based computing, as typified by the E programming language in 1997. Not sure if there are precedents going back further or not.",1433129168.0
+70,9636667,comment,9635452.0,9636599.0,0,0,colordrops,,,The technologies used for both bitcoin the internet have been in development for thousands of years.,1433129140.0
+71,9636666,comment,9636450.0,9636639.0,0,0,jqm,,,Intelligence also overthrows societies and destroys lives for raw material gain in the hands of those who would use it for such.<p>Can we assume white knights are in charge here?,1433129139.0
+72,9636665,comment,9635076.0,9635875.0,0,0,alextgordon,,,"Most people can tell a crackpot when they see one. Symptoms include incoherent rambling, wild exaggerations and a lust for attention.",1433129079.0
+73,9636664,comment,9635452.0,9636220.0,0,0,colordrops,,,I&,
+74,9636663,comment,9635168.0,9635168.0,0,0,joshu,,,"Remember the Franklin Rex? It was an organizer in a PCMCIA slot?<p><a href=""http://en.wikipedia.org/wiki/REX_5000"" rel=""nofollow"">http://en.wikipedia.org/wiki/REX_5000</a>",1433129024.0
+75,9636662,comment,9634742.0,9635832.0,0,0,tawm,,,Could you elaborate on the stability part of your comment?,1433128988.0
+76,9636661,comment,9635168.0,9635168.0,0,0,biot,,,Takes me back to my Casio Databank watch... now that was a serious piece of geek equipment. :),1433128977.0
+77,9636660,comment,9635174.0,9636185.0,0,0,danieltillett,,,"Yes, but I was referring to the making up a method section of their complaint.",1433128949.0
+78,9636659,comment,9635076.0,9636239.0,0,0,dpe82,,,Going by CPI it&,
+79,9636657,comment,9635205.0,9636411.0,0,0,wodenokoto,,,> Jared Diamond speculates various reasons for why the people there didn&,
+80,9636656,comment,9635452.0,9636311.0,0,0,corv,,,Works fine for me without holding. The price doesn&,
+81,9636655,comment,9622711.0,9622711.0,0,0,benchoud,,,What is the xhamster link to URL of the video?,1433128903.0
+82,9636654,comment,9636450.0,9636450.0,0,0,aburan28,,,Why do people think that surveillance is going to thwart real terrorist attacks? Terrorists are not stupid. Bin Laden stopped using his satellite phone in 1999 and the NSA did not intercept a single piece of audio intercept data from Bin Laden ever again. The 9/11 hijackers were mostly engineers and barely even touched technology. HUMINT is the only way to catch real terrorists IMO.,1433128839.0
+83,9636653,comment,9624476.0,9636393.0,0,0,nickpsecurity,,,"Thanks for that excellent explanation of the terms in question about North-South, etc. It gives me a good visual perspective of it, too. Awesome. :)",1433128812.0
+84,9636652,comment,9635452.0,9636599.0,0,0,AnonNo15,,,Note the difference - &quot;technologies used in Bitcoin were in development for X years&quot; vs. &quot;Internet as a whole concept of network of network was in development for Y years&quot;.,1433128780.0
+85,9636651,comment,9626985.0,9628604.0,0,0,tghw,,,He wasn&,
+86,9636650,comment,9636450.0,9636450.0,0,0,chx,,,The EFF felt it needed to mention it&,
+87,9636649,comment,9632070.0,9633644.0,0,0,toomuchtodo,,,Interesting! It&,
+88,9636648,story,,,2,0,nepstein,Type 'git open' in Terminal to open the GitHub repo in the browser,https://github.com/paulirish/git-open?utm_content=buffer19868&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,,1433128714.0
+89,9636647,comment,9636450.0,9636564.0,0,0,jqm,,,While agreeing faulty intelligence was probably responsible for the Iraq war I don&,
+90,9636646,comment,9634966.0,9636626.0,0,0,graffitici,,,I realize this is sarcasm; what&,
+91,9636645,comment,9636341.0,9636341.0,0,0,paulhauggis,,,Why would any business want to use a system like this?  I don&,
+92,9636644,comment,9636450.0,9636450.0,0,0,ScottBurson,,,"Thank you, Edward Snowden.",1433128634.0
+93,9636643,comment,9624361.0,9624724.0,0,0,acjohnson55,,,"Great point, my bad!",1433128627.0
+94,9636642,comment,9634786.0,9636403.0,0,0,thomaskcr,,,Same-ish experience (in DE) -- I hadn&,
+95,9636641,comment,9635244.0,9636621.0,0,0,mildbow,,,"Haha. Yeah, often times it does feel like the grass is greener on the other side.<p>Which is why having an actual offer is great to bolster your asking  number <i>and</i> your commitment to your current employer.<p>Either way, it&",
+96,9636640,story,,,2,0,zhuxuefeng1994,"Uber will let drivers track your location, but only if you agree",http://www.engadget.com/2015/05/31/uber-privacy-policy-changes/,,1433128574.0
+97,9636639,comment,9636450.0,9636623.0,0,0,dragontamer,,,"So we stop spying on people?<p>Let me ask you: do you think it is better or worse that we _know_ about ISIS?<p>Mind you, Obama knows enough about ISIS that he is confident to keep troops out of the Middle East. Would he have that confidence if it weren&",
+98,9636638,comment,9636183.0,9636183.0,0,0,macroburno10000,,,"Talk to them early now. I still distrust about the consultants. Understand there may be other reasons for desire to outsource (personal connection, returning favour, step towards more work with consultants in future.) Make your offer not just something that will make you look great and will also make your manager look great and their life easier. Here&",
+99,9636637,comment,9631773.0,9632403.0,0,0,kleer001,,,"fair enough, that&",
+100,9636636,comment,9635230.0,9636462.0,0,0,TheLoneWolfling,,,Yep.<p>It&,
+101,9636635,comment,9635452.0,9636538.0,0,0,natrius,,,You&,
+102,9636634,comment,9634966.0,9636626.0,0,0,tadlan,,,Or use pymc 3 for the bayes equivalent. It&,
+103,9636633,comment,9614128.0,9618544.0,0,0,throwawaykf05,,,"I am somewhat familiar with the history of these cases, and I would disagree that most lawyers thought it settled because this case is subtly but significantly different. The Sega etc. cases were about <i>binary</i> interoperability, which I&",
+104,9636632,comment,9623119.0,9627475.0,0,0,csa,,,"I suggest checking out the blog at <a href=""https://michaelochurch.wordpress.com/"" rel=""nofollow"">https://michaelochurch.wordpress.com/</a>.<p>He has written a ton of stuff about VCs, programmers, etc. His riffs on the Gervais Principle are really good. He followed that up with some other gold.<p>The scale-of-10 stuff is his concept of how there is a mismatch of skill and power in the tech business world -- particularly between the programmer and the business folks. For example, highly-rated business people don&",
+105,9636631,comment,9635174.0,9635782.0,0,0,m_mueller,,,Speaking for GP: The problem with the word &,
+106,9636630,comment,9634462.0,9636044.0,0,0,visarga,,,"We understand machine learning itself, it&",
+107,9636628,comment,9634966.0,9636371.0,0,0,graffitici,,,xlwings looks absolutely amazing. Thanks for pointing it out!,1433128163.0
+108,9636627,comment,9624476.0,9636474.0,0,0,nickpsecurity,,,Haha I feel you on that. It&,
+109,9636626,comment,9634966.0,9634966.0,0,0,jtth,,,Python: We Still Can&,
+110,9636624,comment,9635174.0,9636526.0,0,0,mildbow,,,"Lots of things here so my response is going to be a little jumbled :)<p>Yeah, regression to mean definitely a thing. It can topple justifiably confident people and/or prop up frauds.<p>In my experience, decision by committee has never worked when times are tough. When times are tough you just need to be able to trust your leadership to know what they are doing and not micro manage them (and not have them micro-manage you).<p>When times aren&",
+111,9636623,comment,9636450.0,9636564.0,0,0,zanny,,,"> faulty intelligence is to blame for the Iraq war, it&",
+112,9636622,comment,9636620.0,9636620.0,0,0,ChuckMcM,,,"This video is good too: <a href=""https://www.youtube.com/watch?v=kumEJtsHuQo&feature=youtu.be"" rel=""nofollow"">https://www.youtube.com/watch?v=kumEJtsHuQo&feature=youtu.be</a><p>Something about watching a small robot launch another flying robot amazes me. It also makes my old servo based hexapod robot look like a snail that goes so very slowly.",1433127940.0
+113,9636621,comment,9635244.0,9636085.0,0,0,thedz,,,I&,
+114,9636620,story,,,8,1,ChuckMcM,Hexapod robot launches an ornithopter robot [pdf],http://robotics.eecs.berkeley.edu/~ronf/PAPERS/crose-icra15.pdf,,1433127858.0
+115,9636619,comment,9635551.0,9636509.0,0,0,geofft,,,We don&,
+116,9636618,comment,9635244.0,9636039.0,0,0,thedz,,,"Echoing what click170 said, if the only (or only effective way) of making my employer take my raise requests seriously is to come to them with another offer, then chances are I&",
+117,9636617,comment,9634729.0,9634729.0,0,0,reagency,,,"So,what <i>could</i> possibly go wrong? Dshr didn&",
+118,9636616,comment,9636500.0,9636500.0,0,0,axg,,,"Pictures: <a href=""http://windows.microsoft.com/en-us/windows-10/feature-images"" rel=""nofollow"">http://windows.microsoft.com/en-us/windows-10/feature-images</a>",1433127769.0
+119,9636615,comment,9568904.0,9568904.0,0,0,chovy,,,Is the code on github?,1433127759.0
+120,9636614,comment,9635256.0,9635256.0,0,0,shiv86,,,"It would be great if they could start by fixing their API and actually repond to developers on their forums: <a href=""https://developer.yahoo.com/forums/",
+121,9636613,comment,9636450.0,9636594.0,0,0,late2part,,,We should work to sunset these earlier.,1433127680.0
+122,9636612,comment,9635305.0,9635793.0,0,0,tagawa,,,Maybe this would be better marketed as a cheatsheet.,1433127670.0
+123,9636611,comment,9620207.0,9620879.0,0,0,phonon,,,Trinet can definitely do this. (It&,
+124,9636610,comment,9635205.0,9636457.0,0,0,branchless,,,thanks just signed up for this for French. Let&,
+125,9636609,comment,9636450.0,9636450.0,0,0,late2part,,,"Hoooray!  Now, the real fight begins!",1433127628.0

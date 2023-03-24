@@ -1,0 +1,96 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9280563,comment,9280450.0,9280450.0,0,0,yazin,,,&quot;Compare this to a model where the hacker needs to compromise companies individually.&quot;<p>You don&,
+1,9280562,comment,9280490.0,9280490.0,0,0,pixeloution,,,Interesting read - I do find it odd the author was worried over spending a few hundred dollars in The search for what should be a six figure position.,1427518783.0
+2,9280561,comment,9277343.0,9278723.0,0,0,prawn,,,I&,
+3,9280560,comment,9280058.0,9280495.0,0,0,jes5199,,,have you been doing REST over something other than HTTP?,1427518639.0
+4,9280559,comment,9278524.0,9279135.0,0,0,arohner,,,And my point is that everything isn&,
+5,9280558,story,,,4,0,bentanweihao,Ruby Block Patterns and How to Implement File.open,http://benjamintan.io/blog/2015/03/28/ruby-block-patterns-and-how-to-implement-file-open/,,1427518583.0
+6,9280557,comment,9280058.0,9280228.0,0,0,jes5199,,,"There was an unversioned spec posted for months that looked usable, then suddenly they announced a complete rewrite as &quot;RC2&quot;. Calling it a relase candidate was misleading, though - almost everything got changed again for &quot;RC3&quot;.",1427518575.0
+7,9280556,comment,9277042.0,9279136.0,0,0,MCRed,,,"This is elixir, but can be called from erlang:\n<a href=""https://github.com/nirvana/flaky/"" rel=""nofollow"">https://github.com/nirvana/flaky/</a><p>It gives a unique value from any node in a cluster of nodes running this-- without any coordination-- such that you can guarantee they are sortable in order of creation.  (to a small increment of fungibility-- two flakes created on different nodes in the same millisecond might be out of order, but they will be unique and in order with any flakes created in other milliseconds.)",1427518528.0
+8,9280555,comment,9278704.0,9278704.0,0,0,enthdegree,,,"Some day, in the distant future, 2015, development of all new startup projects&",
+9,9280554,comment,9278791.0,9278923.0,0,0,MichaelCrawford,,,I won&,
+10,9280553,comment,9278791.0,9278791.0,0,0,MichaelCrawford,,,There are a lot of otherwise appealing jobs that I don&,
+11,9280552,story,,,1,0,qw3rtman,Comprehensive HTTP Status Code Information on the Command Line!,https://github.com/qw3rtman/hsc-cli,,1427518333.0
+12,9280551,comment,9277753.0,9277753.0,0,0,smilekzs,,,The interior reminded me of the magical tents in Harry Potter movies.,1427518323.0
+13,9280550,story,,,1,0,jonbaer,Festo has BionicANTs communicating by the rules for tasks,http://phys.org/news/2015-03-festo-bionicants-tasks.html,,1427518318.0
+14,9280548,comment,9280115.0,9280115.0,0,0,fsk,,,You mention equity?  What percentage vested are you?  How do you know it isn&,
+15,9280547,comment,9280546.0,9280546.0,0,0,homarp,,,"a book maybe ?\nsee <a href=""http://www.reddit.com/r/electronics/wiki/beginners"" rel=""nofollow"">http://www.reddit.com/r/electronics/wiki/beginners</a>",1427518166.0
+16,9280546,story,,,1,2,shire,Ask HN: How to learn Electrical Theory?,,Where is a good place to learn Electrical theory? Basic stuff like Ohm&,
+17,9280545,comment,9279024.0,9280174.0,0,0,dominotw,,,>&quot;Professional activist&quot; is a now career<p>There is also a whole new careers like &,
+18,9280544,comment,9265817.0,9269662.0,0,0,drdeadringer,,,"> the &quot;friendly strangers&quot; in my life, Facebook, &c<p>In my immediate area, there are folks who know me by face//habits//&c. The neighbours, the comic shop folks, the owner//operators of area restaurants, and so forth... I may not know them on a deep level, but we encounter each other on a semi-regular basis and have a measure of quality in our contact which we both enjoy.<p>Medium-for-its-purpose type of deal.",1427517910.0
+19,9280543,comment,9276605.0,9278818.0,0,0,Danieru,,,"No, not really, no one would contest that Mac and Windows are the two most popular OSes.<p>Edit: still a fine joke, but not funny for the ambiguity.",1427517790.0
+20,9280542,comment,9280131.0,9280353.0,0,0,hrehhf,,,"In addition, an LLC is incredibly easy with regard to paperwork and effort compared to a corporation, and gives the owner(s) limited liability as well as tax advantages (vs sole proprietorships or partnerships).",1427517710.0
+21,9280541,comment,9278819.0,9280412.0,0,0,adjaldkjasldj,,,"Oh right, this is the place where you make a crazy claim and back it up by a Wikipedia link instead of an argument! ;)<p>What I meant is that, no, I don&",
+22,9280540,story,,,1,0,erbdex,Castlegafa on Windows 93,http://www.windows93.net/,,
+23,9280539,comment,9265084.0,9275663.0,0,0,cplease,,,ok bro.,1427517682.0
+24,9280538,comment,9277370.0,9278785.0,0,0,ShaneWilton,,,I&,
+25,9280537,comment,9275771.0,9278022.0,0,0,invisible,,,But if users just click OK multiple times it still means more requests (since it was happening every 2secs).,1427517631.0
+26,9280536,comment,9280131.0,9280501.0,0,0,vicbrooker,,,My critique of the model is more that outsourcing will get expensive quickly. The founder of this product 120+ schools to support with 30k. Many of these schools are expecting lifetime support: they paid a one time $250 fee. It&,
+27,9280535,comment,9275771.0,9277060.0,0,0,westiseast,,,"I totally agree with you - the Chinese government has some right to protect their sovereignty, but if github or the American way of life is so offensive, then block the website and tools outright. I live here too, and it&",
+28,9280534,comment,9274194.0,9274615.0,0,0,Techcircul,,,@CyberFonic<p>Do you have any experience with Geek Squad or customer support tickets?,1427517510.0
+29,9280533,comment,9269221.0,9270789.0,0,0,D-Coder,,,"Another small practical tip: Instead of asking questions 10x/day, arrange a daily chat (maybe half an hour) so you can combine them and interrupt only once a day.",1427517499.0
+30,9280532,comment,9279585.0,9279585.0,0,0,fsk,,,"The reason most scientists do routine safe work is that they need to publish a certain number of papers per year to get or keep their job.<p>If you work on something important, spend a couple years on it, and go nowhere, your career may be over.<p>It also was different 50 years ago, when almost any scientist with a PhD could get a decent tenure-track job.  Now, there&",
+31,9280531,comment,9275464.0,9277289.0,0,0,NeutronBoy,,,"> videogames cost a ridiculous amount<p>Yes, but it&",
+32,9280530,story,,,8,0,newman314,Blekko: Search Engine Joins IBM's Watson Team,http://searchengineland.com/goodbye-blekko-search-engine-joins-ibms-watson-team-217633,,1427517342.0
+33,9280529,comment,9262854.0,9275048.0,0,0,cplease,,,Where did I hold it out as a model? I said we&,
+34,9280528,comment,9275940.0,9277524.0,0,0,jrapdx3,,,Using web2a is a great idea.  I&,
+35,9280527,comment,9280058.0,9280223.0,0,0,bokchoi,,,Let&,
+36,9280526,comment,9278704.0,9280229.0,0,0,edwinnathaniel,,,Such as...?,1427517256.0
+37,9280525,comment,9280466.0,9280466.0,0,0,skidoo,,,spam spam spam loser admins spam spam.,1427517251.0
+38,9280524,comment,9279338.0,9279338.0,0,0,MichaelCrawford,,,I used to start my grandfather&,
+39,9280523,story,,,1,0,zoskia,AngelPad is rated ,,,
+40,9280522,comment,9278704.0,9280413.0,0,0,abalone,,,> I&,
+41,9280521,comment,9279243.0,9280024.0,0,0,cantrevealname,,,"> Just set all regular bills on auto<p>I realize that opinions on this differ, but I think that automatic bill payment is a <i>horrible</i> security practice.<p>Just last week I was paying with credit card in which the merchant punched in $5504 by accident instead of $504. Had I not noticed it right away, at least I&",
+42,9280520,comment,9277370.0,9280213.0,0,0,pepr,,,That&,
+43,9280519,comment,9278704.0,9280110.0,0,0,alexhill,,,"Check this out: <a href=""https://twitter.com/migueldeicaza/status/581068613542649856"" rel=""nofollow"">https://twitter.com/migueldeicaza/status/581068613542649856</a>",1427517107.0
+44,9280517,comment,9277370.0,9280436.0,0,0,eropple,,,It&,
+45,9280515,comment,9280467.0,9280467.0,0,0,skidoo,,,spam.,1427517009.0
+46,9280513,story,,,2,0,benbreen,Gender neutrality in genderless languages,http://en.wikipedia.org/wiki/Gender_neutrality_in_genderless_languages,,1427516929.0
+47,9280512,comment,9271974.0,9274771.0,0,0,dustinrcollins,,,"We have been audited by a 3rd party and incorporated all of their suggestions in the latest 4.4 release.<p><a href=""http://blog.conjur.net/conjur-4-4-released"" rel=""nofollow"">http://blog.conjur.net/conjur-4-4-released</a><p>One of their stipulations for the audit was that we don&",
+48,9280511,comment,9277370.0,9277370.0,0,0,alfredxing,,,"Slack <i>is</i> growing their security team, if you want to help them improve the security of the product: <a href=""https://slack.com/jobs/dfd75111/security-engineer"" rel=""nofollow"">https://slack.com/jobs/dfd75111/security-engineer</a>",1427516875.0
+49,9280510,comment,9277753.0,9280184.0,0,0,tonyarkles,,,"And some are even offering tax credits to move there. Pardon the ugly link, it seems the main town website is currently down. <a href=""http://webcache.googleusercontent.com/search?q=cache:GyiysDwTCdgJ:allan.ca/moving/population-growth/+&cd=1&hl=en&ct=clnk&gl=ca"" rel=""nofollow"">http://webcache.googleusercontent.com/search?q=cache:GyiysDw...</a><p>As a curiosity, are you from around here? I&",
+50,9280509,comment,9275771.0,9276347.0,0,0,jamiesonbecker,,,"Google made a choice.<p>You can always fight, even if you believe you will lose.",1427516842.0
+51,9280507,comment,9273525.0,9277148.0,0,0,xbmcuser,,,<p><pre><code>   All those projects it dropped were consumer facing. These are programing languages being used inside google to increase productivity making a comparison between the two is a straw mans argument.</code></pre>,1427516671.0
+52,9280506,comment,9280058.0,9280211.0,0,0,drostie,,,"At Gragg, I&",
+53,9280505,comment,9277269.0,9279117.0,0,0,Dylan16807,,,"If I paint my car an ugly color, it&",
+54,9280504,comment,9280490.0,9280490.0,0,0,yazin,,,"Author here, let me know if you&",
+55,9280503,comment,9277269.0,9279977.0,0,0,rdtsc,,,There are different classes of users. Above average users will notice.<p>My mom for example won&,
+56,9280502,comment,9278704.0,9280240.0,0,0,malkia,,,I&,
+57,9280501,comment,9280131.0,9280131.0,0,0,swatow,,,To me it&,
+58,9280500,comment,9266277.0,9266277.0,0,0,ylem,,,"Some people have brought up the idea that people should not enter into a PhD program if they are interested in money.  I agree, but the problem goes beyond that.   For those of us who are fortunate to find permanent positions doing research, it&",
+59,9280499,comment,9277269.0,9280447.0,0,0,Dylan16807,,,1. Not true if that link replaced one that said http via an automatic process.  Such as HTTPS Everywhere or a search engine doing the wrong thing.<p>2. Certificate errors are much more confusing than a failure to connect.,1427516330.0
+60,9280498,comment,9276642.0,9277852.0,0,0,tsotha,,,"No, it isn&",
+61,9280497,comment,9271974.0,9275664.0,0,0,dustinrcollins,,,When using Hosted Chef you can&,
+62,9280496,comment,9277370.0,9277487.0,0,0,sukilot,,,"If they dont encrypt <i>storage</i> they are highly negligent. Index and search are done in RAM,which is slightly harder to steal than disk data.",1427516282.0
+63,9280495,comment,9280058.0,9280058.0,0,0,daliwali,,,"Oh boy, cue the haters. I&",
+64,9280494,story,,,2,0,sea6ear,Teaching Programming Languages in a Post-Linnaean Age [pdf],http://cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/paper.pdf,,1427516213.0
+65,9280493,comment,9277572.0,9280122.0,0,0,iopq,,,"you can easily add a number to a char in C and get a jibberish character, which is why C is a weakly typed language",1427516188.0
+66,9280492,comment,9275464.0,9278894.0,0,0,CamperBob2,,,"The question is, how many <i>careers</i> did Hoover kill?",1427516125.0
+67,9280491,comment,9280131.0,9280457.0,0,0,morgante,,,"Are you still looking for contract work? If so, email morgante@cafe.com.",1427516116.0
+68,9280490,story,,,2,2,yazin,How I Hired the Best CTO for Our Startup,http://blog.whitepayments.com/how-i-hired-the-best-cto-for-white/,,1427516074.0
+69,9280489,comment,9277370.0,9278785.0,0,0,bdamm,,,Joining the chorus; I&,
+70,9280488,comment,9278524.0,9278524.0,0,0,gumby,,,Not sure why it&,
+71,9280487,comment,9279621.0,9279621.0,0,0,drfuchs,,,"The precursors to TeX (1978-82) and Metafont (1979-83) are good examples of complete, non-trivial Sail programs.  Both were written by Donald Knuth; the sources for prototype-TeX are in <a href=""http://www.saildart.org/[TEX,DEK]"" rel=""nofollow"">http://www.saildart.org/[TEX,DEK]</a> (see the latest rev of each TEX*.SAI file); while prototype-MF is in <a href=""http://www.saildart.org/[MF,DEK]"" rel=""nofollow"">http://www.saildart.org/[MF,DEK]</a>",1427515970.0
+72,9280486,comment,9279587.0,9279587.0,0,0,MichaelCrawford,,,"I have a BA in Physics from UC Santa Cruz, and attended grad school with the intention of working on a search for non-conservation of lepton number at CERN, however my mental illness (Bipolar-Type Schizoaffective Disorder) led to my leaving grad school.<p>I&",
+73,9280485,story,,,1,0,luu,Technical talks should be recorded,http://blog.printf.net/articles/2013/05/22/technical-talks-should-be-recorded/,,1427515926.0
+74,9280484,comment,9279024.0,9279515.0,0,0,naturalrecursin,,,"100% agree with you. I actually regularly tell my female friends that their is no better time for them to get into the tech industry. As long as they can match the &quot;average ability&quot; then they can pretty much get their pick of the jobs, as well as countless benefits in their schooling.<p>I&",
+75,9280483,comment,9280131.0,9280309.0,0,0,patio11,,,A sole proprietorship exists as soon as you say it does in many jurisdictions.  That&,
+76,9280482,comment,9280131.0,9280397.0,0,0,japhyr,,,What&,
+77,9280481,comment,9277269.0,9278202.0,0,0,rdtsc,,,"It is a GUI problem. How it is presented to the user.<p>Typical mildly advanced user thinks this way:<p>I see <a href=""https://"" rel=""nofollow"">https://</a> in URL bar and no scary red/yellow untrusted cert dialog? -- Ok I am all set to type my credit card number in.<p>There are the green brackground in there too, which I forget what it means, but it presumes some extra &quot;security/authentication&quot; thing.<p>What should the encrypted but not authenticated mode show? <a href=""https://"" rel=""nofollow"">https://</a> with a yellow or gray bar? Try to teach the user about is the difference between authenticated vs encrypted. Warn them once and put a &quot;Got it, do not bother me again&quot; dialog.<p>Remember windows vista with &quot;deny or allow?&quot; dialog every single time you did anything with your computer. The intent was good but how the users perceived it was the problem. Here it is the same problem.",1427515885.0
+78,9280480,comment,9256082.0,9264778.0,0,0,serve_yay,,,"Again, not sure about PHP. But no, JS is strongly typed. What you&",
+79,9280479,comment,9277370.0,9279578.0,0,0,mbrubeck,,,"(And more importantly in practice, the <i>implementations</i> of these algorithms aren&",
+80,9280478,comment,9275383.0,9278296.0,0,0,pnathan,,,Yes and no. It&,
+81,9280476,comment,9280131.0,9280409.0,0,0,lucaspiller,,,"Depending on where you are based, but in a lot of cases yes. Insurance is all about reducing financial risk, if you are willing to take that on yourself (and your customers are ok with it) then you don&",
+82,9280475,comment,9277269.0,9279770.0,0,0,lotu,,,What part of <i>passive</i> did you miss?,1427515664.0
+83,9280474,comment,9279338.0,9279338.0,0,0,bramgg,,,"Side question, am I crazy or has YC just removed this semi-iconic question from their application page?",1427515632.0
+84,9280473,comment,9276123.0,9279853.0,0,0,serve_yay,,,I&,
+85,9280472,comment,9276123.0,9279864.0,0,0,gress,,,"The first two of those statements do seem to be implied by the quote from Jobs, but the third seems like something you made up.  What part of the quote justifies it?",1427515483.0
+86,9280471,comment,9279024.0,9280445.0,0,0,Smoofer,,,There&,
+87,9280470,comment,9279963.0,9279963.0,0,0,MichaelCrawford,,,"Art photography, mostly industrial photography - stuff like close-ups of railroad car wheels.<p>I&",
+88,9280468,comment,9279024.0,9279158.0,0,0,sukilot,,,It&,
+89,9280465,comment,9275041.0,9275041.0,0,0,TACIXAT,,,"The internet is so cool. I hope no one ever fixes the ability for shit to go crazy online. It makes me so happy to be alive in the age of data leaks, ddosses, and malware. It&",
+90,9280464,story,,,1,0,jstreebin,EasyPost (YC S13) hiring front end devs,https://www.easypost.com/jobs,,1427515334.0
+91,9280463,comment,9280131.0,9280448.0,0,0,jabo,,,"Yes, of course. I should&",
+92,9280461,comment,9279639.0,9280134.0,0,0,gojomo,,,"This is fascinating to me; as is the Galton reference ~gwillen points out, which suggests about 3% of people don&",
+93,9280460,comment,9277905.0,9280087.0,0,0,101914,,,Danger &quot;v1&quot; (hiptop) was NetBSD.  True?<p>Danger &quot;v2&quot; is Linux.  True?<p>Microsoft acquired Danger only to eliminate competition.  True?<p>I still remember their advert seeking NetBSD developers after the acquisition.  I wonder if they ever found one who was interested?,1427515291.0
+94,9280458,comment,9238839.0,9249092.0,0,0,getsat,,,"Good point, thanks!",1427515220.0

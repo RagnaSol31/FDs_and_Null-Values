@@ -1,0 +1,114 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10825488,comment,10822995.0,10823332.0,0,0,josegonzalez,,,I&,
+1,10825487,comment,10825332.0,10825407.0,0,0,jedmeyers,,,"The majority of iPhone users have no desire nor ability to understand the engineering genius that went into the internal  design, and that is fine. And that is why Apple don&",
+2,10825486,comment,10825323.0,10825323.0,0,0,grondilu,,,Can&,
+3,10825484,comment,10812332.0,10812332.0,0,0,xdinomode,,,I disagree and here&,
+4,10825483,comment,10817359.0,10818109.0,0,0,r00fus,,,But haven&,
+5,10825482,story,,,10,0,otoburb,A (MirageOS OCaml) Unikernel Firewall for QubesOS,http://roscidus.com/blog/blog/2016/01/01/a-unikernel-firewall-for-qubesos/,,1451721336.0
+6,10825481,comment,10821477.0,10824933.0,0,0,michel-slm,,,"I guess the reasoning is switching to a modal editor takes more to get used to than switching to another non-modal one. Though you can get Emacs key bindings for Vim, surely?",1451721321.0
+7,10825480,comment,10822043.0,10822043.0,0,0,eccstartup,,,rm -rf /usr/lib/python3.<i>/site-packages/capstone</i><p>???,1451721318.0
+8,10825479,comment,10821865.0,10824567.0,0,0,hyperpallium,,,"All computer science is AI, including before computers existed. Boole even called his logic the &quot;Laws of Thought&quot;. It&",
+9,10825478,story,,,1,0,jmduke,May the App Store Be With You,https://medium.com/@benricem/may-the-app-store-be-with-you-83edf39299d2,,
+10,10825477,comment,10822861.0,10824339.0,0,0,BuckRogers,,,"It is, but if you have to do a rewrite anyway?<p>The real gem in the rough with Python2 is PyPy4. You don&",
+11,10825476,comment,10824383.0,10825367.0,0,0,morebetterer,,,Good stuff.<p>Looking forward to the neutral binding layer for different javascript engines for Node.<p>Ideally for a given platform a native Node module should be ABI compatible with v8 Node or Chakra node - without the need for recompilation.,1451720962.0
+12,10825475,comment,10824382.0,10824382.0,0,0,jeffdavis,,,This discussion would be more interesting in the context of major new developments in OS kernels.<p>Microkernels are basically solving an engineering problem. That&,
+13,10825474,comment,10823735.0,10824296.0,0,0,xshift,,,Where/how do I learn good design? I&,
+14,10825473,comment,10823735.0,10824993.0,0,0,sdoering,,,May I ask why? Is there anything wrong with that book from a developer&,
+15,10825472,comment,10825332.0,10825332.0,0,0,rasputhin,,,&,
+16,10825471,comment,10818560.0,10818560.0,0,0,JacobAldridge,,,"Back in 2003, me and some mates set the Guinness World Record for non-stop movie watching (we clocked in at &",
+17,10825470,comment,10822019.0,10822019.0,0,0,latestdatabase5,,,"We hiring for my website affiliat marketing. Our website name <a href=""http://www.latestdatabase.com/"" rel=""nofollow"">http://www.latestdatabase.com/</a>",1451720751.0
+18,10825469,comment,10824064.0,10824996.0,0,0,oofabz,,,"The demo that zooms in and out of a PDF is much faster than it would be with CPU rendering. When you zoom in and out in an existing PDF viewer, it takes much longer than 1/60 sec to re-rasterize the page.<p>The CPU takes a long time to rasterize fonts. It only seems fast because the glyphs are cached. If you need text drawn in so many different sizes, like in that demo, the cache is not as effective.",1451720706.0
+19,10825468,comment,10825332.0,10825379.0,0,0,BinaryIdiot,,,> what is the obsession with growth<p>Growth means return on investment. You gotta go in the public markets if you want to make a good return. That or dividends or a company being sold (which is obviously not going to happen to Apple).,1451720654.0
+20,10825467,comment,10821986.0,10825406.0,0,0,uniacid,,,"Travis, likewise.. I&",
+21,10825465,comment,10825332.0,10825366.0,0,0,BinaryIdiot,,,> am I the only one who considers the markets obsession of endless growth as absurd?<p>Likely not however we&,
+22,10825464,comment,10821865.0,10825247.0,0,0,frik,,,Speech recognition barely improved since the 1990s.<p>We had Dragon natural speaking on a 133MHz Win95 PC (offline of course). After training it for like 10min it worked better or equal as good as Ford&,
+23,10825463,comment,10823735.0,10824896.0,0,0,knughit,,,Thanks again for your incredible work on SimCity.,1451720417.0
+24,10825462,story,,,2,0,nafizh,A Beginner's Python Tutorial,http://sthurlow.com/python/,,1451720417.0
+25,10825461,comment,10823811.0,10824740.0,0,0,tedmiston,,,Whoops!  I&,
+26,10825460,comment,10815673.0,10818307.0,0,0,r00fus,,,"T-Mobile had jump and jump-on-demand. The latter is most similar to AT&T next 18, but less expensive and allows 3 phone changes a year.",1451720378.0
+27,10825459,comment,10822021.0,10822021.0,0,0,coderKen,,,"Location: Lagos, Nigeria<p>Remote: Yes, preferred<p>Willing to relocate: No<p>Technologies: JavaScript(NodeJS, AngularJS, ReactJS), HTML5, CSS3, Python(Flask) with a lot of Android experience: <a href=""https://goo.gl/dMY4Yr"" rel=""nofollow"">https://goo.gl/dMY4Yr</a><p>Resume/CV: <a href=""http://goo.gl/RR2Uw5"" rel=""nofollow"">http://goo.gl/RR2Uw5</a><p>Email: see resume or website",1451720374.0
+28,10825458,story,,,3,0,hamhamed,Every seed stage founder should send monthly investor updates,https://medium.com/on-startups/every-seed-stage-founder-should-send-monthly-investor-updates-e4d7380881f4,,1451720358.0
+29,10825456,comment,10824382.0,10825428.0,0,0,derefr,,,"Not social pressure; rather, Microsoft&",
+30,10825455,comment,10818560.0,10818560.0,0,0,jcrawfordor,,,"VCRs behaved a little odd surrounding pausing. You probably remember back in the day - a paused VCR would show the frame it was paused on, but usually poorly, with some noise, a bit out of alignment.<p>This is related to the mechanical design of VHS tapes and the player. VCRs use helical scanning. What this means is that each frame of video is recorded on the VHS tape in a linear track that runs diagonally across the tape. Inside the VHS player, you may remember seeing a drum in the back that seems at an off angle. This is the helical read drum: it spins at a very high speed as the tape is pulled around it, and the combination of the slanted head drum spinning and the tape moving along it at a lower speed results in the heads mounted to the drum tracing these diagonal lines on the tape.<p>The TV draws to the screen continuously, 29.97 times per second, and draws whatever is coming on the analog video input at that moment. So for the image to remain when you have paused the tape, the VCR must continuously play the same frame back to the television. This requires keeping the drum moving and alternating the tape drive (the capstan motor) back and forth very rapidly to try to keep the same helical track aligned with the head over and over. This never quite works right, leaving a noisy signal that often has a bit of a shake as the tracking goes in and out each frame. Additionally, the capstan rapidly switching directions can damage the tape, which is why most VCRs will switch to Stop after being paused for a few minutes.<p>Laserdiscs had this problem much worse, as there was simply no practical way to get the disc back to the beginning of a frame quickly enough to rescan it. Higher-end laserdisc players could show a freeze-frame, but they did it with an electronic framebuffer that was digitally replayed to the TV. I wonder if there may have been higher-end VCRs with this same technology, but I haven&",
+31,10825454,comment,10812332.0,10824511.0,0,0,jhanschoo,,,Your comment has me interested. What years are you describing?,1451720208.0
+32,10825453,comment,10825425.0,10825425.0,0,0,gingerlime,,,I honestly love Linode and am sure they&,
+33,10825452,comment,10822020.0,10822020.0,0,0,coderKen,,,"SEEKING WORK<p>Location: Lagos, Nigeria<p>Remote: Yes<p>Full stack developer, 4years+ experience<p>JavaScript(NodeJS, AngularJS, ReactJS), HTML5, CSS3, Python(Flask)<p>Devops: Azure, comfortable in Linux environtment (Ubuntu)<p>Git: <a href=""https://goo.gl/oYbi8F"" rel=""nofollow"">https://goo.gl/oYbi8F</a><p>website: <a href=""http://goo.gl/OmEpz8"" rel=""nofollow"">http://goo.gl/OmEpz8</a><p>Resume: <a href=""http://goo.gl/RR2Uw5"" rel=""nofollow"">http://goo.gl/RR2Uw5</a><p>Email: see resume or website<p>Have experience working remotely for startups, will function best as a front-end developer.",1451720173.0
+34,10825451,comment,10824382.0,10824911.0,0,0,derefr,,,That doesn&,
+35,10825450,comment,10821154.0,10821154.0,0,0,rozuur,,,Happy new year!,1451720051.0
+36,10825449,comment,10821865.0,10823638.0,0,0,rdtsc,,,AI is like magic.<p>If you don&,
+37,10825448,story,,,2,0,inopinatus,Render React with Phoenix,http://blog.overstuffedgorilla.com/render-react-with-phoenix/,,1451720001.0
+38,10825447,comment,10821477.0,10825083.0,0,0,jlebar,,,I&,
+39,10825446,comment,10812332.0,10823273.0,0,0,frik,,,Many new users simple don&,
+40,10825445,story,,,1,0,F_J_H,Fred Wilson: What is going to happen in 2016?,http://avc.com/2016/01/what-is-going-to-happen-in-2016/,,1451719774.0
+41,10825444,comment,10821391.0,10825263.0,0,0,abecedarius,,,"Is that blowup perhaps an artifact of displaying the result as an expression, but where the result as an internal data structure is more compact, because of sharing? That&",
+42,10825443,comment,10821477.0,10825313.0,0,0,tomjakubowski,,,> That being said very few C++ IDE&,
+43,10825442,comment,10817157.0,10817157.0,0,0,jbott,,,"One of the authors has additional information posted here: <a href=""http://pjreddie.com/darknet/yolo/"" rel=""nofollow"">http://pjreddie.com/darknet/yolo/</a>",1451719719.0
+44,10825441,story,,,11,1,wingsonfire,Face recognition and emotion detection with R,http://flovv.github.io/Image-Recognition/,,1451719710.0
+45,10825440,story,,,43,9,anemani10,Let’s Move Beyond Open Data Portals,https://medium.com/civic-technology/rethinking-data-portals-30b66f00585d,,
+46,10825439,comment,10824988.0,10825207.0,0,0,DrScump,,,Same with people who post something that&,
+47,10825438,story,,,132,131,bronz,Gas Theft Gangs Fuel Pump Skimming Scams,http://krebsonsecurity.com/2015/11/gas-theft-gangs-fuel-pump-skimming-scams/,,1451719591.0
+48,10825437,comment,10822861.0,10824591.0,0,0,antod,,,Yes. 2.7 won&,
+49,10825436,comment,10822086.0,10822086.0,0,0,coderKen,,,I have found work as a remote developer (on contract not full-time) through this thread.\nThe challenge is actually finding remote work. It would be nice if there was something that could make the search better.,1451719446.0
+50,10825435,comment,10818560.0,10824463.0,0,0,knughit,,,"Before digital cable, cable signals were scrambled in a similar way to prevent pirate receivers.",1451719427.0
+51,10825434,comment,10825261.0,10825261.0,0,0,bdcravens,,,"Worth noting: &quot;You’ll notice that Windows versions are split separately, unlike OS X. Many of the vulnerabilities across various Windows versions are the same, so there is undoubtedly a lot of overlap. The argument for separating them is probably one of market share, though that’s a hard one to agree to, given that Android and iOS are not split into separate versions. This is the nature of CVEs.&quot;",1451719384.0
+52,10825433,comment,10821875.0,10825398.0,0,0,morebetterer,,,I am fully aware of that. I had to port orphaned NAN1 code to the new v8 API which I found easier to work with than NAN2.,1451719346.0
+53,10825432,comment,10824522.0,10825356.0,0,0,jmhodges,,,You add multiple domains to the Server Alternative Names of your CSR.,1451719335.0
+54,10825431,comment,10825215.0,10825215.0,0,0,zhte415,,,You seem to be describing at least 2 things:<p>Rising to a level of ineffectiveness: Employees rise through an organisation until they&,
+55,10825430,story,,,2,0,jseliger,First Comes Sex Talk with These Renegades of Couples Therapy,http://www.nytimes.com/2015/07/05/fashion/first-comes-sex-talk-with-these-renegades-of-couples-therapy.html,,1451719290.0
+56,10825429,comment,10812332.0,10823822.0,0,0,frik,,,"Yes, very annoying. It&",
+57,10825428,comment,10824382.0,10825410.0,0,0,agumonkey,,,"So because of social pressure, from 3.1 to Me, Windows had to cave down to VxD model shipped by manufacturers even though they had an adequate layer in place ? that is .. something.",1451719239.0
+58,10825427,comment,10824382.0,10825258.0,0,0,Absentinsomniac,,,"Yes I did, my fault.",1451719214.0
+59,10825426,comment,10821391.0,10825394.0,0,0,abecedarius,,,"Yes, that&",
+60,10825425,story,,,106,75,gingerlime,Linode DDoS continues – Atlanta down for 16+ hours,http://status.linode.com/incidents/cbbcjnhhpkgm,,1451719174.0
+61,10825424,comment,10817214.0,10825047.0,0,0,Absentinsomniac,,,Unless you get sound canceling headphones.,1451719147.0
+62,10825423,comment,10821865.0,10825146.0,0,0,dllthomas,,,That&,
+63,10825422,story,,,1,0,siddharthdeswal,You don’t need od6 when working with Google Sheets JSON,http://deswal.org/life/you-dont-need-od6-when-working-with-google-sheets-json/,,1451719089.0
+64,10825421,comment,10821422.0,10821422.0,0,0,mpnordland,,,Funny that this should come up as I am currently building a game master assist for Cosmic Patrol (cosmic-patrol.com). I&,
+65,10825420,comment,10823499.0,10824180.0,0,0,marak830,,,"Honest question, how much does an ad cost per 1000 impression(i think thats how its costed?).<p>I would imagine its that cost.<p>That is how much their being paid by the advertisers to keep the information open(as opposed via a paywall).<p>Im not sure how everyone else sees it, but thats my impression.",1451719006.0
+66,10825419,comment,10825243.0,10825243.0,0,0,ieee8023,,,"&quot;BlindTool watches Star Wars&quot; <a href=""https://www.youtube.com/watch?v=52mYEkmBX30"" rel=""nofollow"">https://www.youtube.com/watch?v=52mYEkmBX30</a> it calls Chewbacca a Yorkshire Terrier.",1451718952.0
+67,10825418,comment,10822140.0,10824853.0,0,0,chris_wot,,,Fair call.,1451718896.0
+68,10825417,comment,10821986.0,10825377.0,0,0,traviswebb,,,"They are still working on Treeline full-time as far as I know, and for the foreseeable future.",1451718892.0
+69,10825416,comment,10824382.0,10824382.0,0,0,platform,,,"I expect micro kernels will be more prevalent in the future.\nHardware platforms will have to evolve to have more physical independence and redundancy (both by replication, and different-vendor components assigned to have same functions).  \nI am of a view, that micro-kernels are better positioned to manage those types of hardware platforms",1451718863.0
+70,10825415,comment,10825332.0,10825381.0,0,0,UnoriginalGuy,,,A 40% increase over today&,
+71,10825414,comment,10822298.0,10823803.0,0,0,jqm,,,History is interesting otherwise I generally agree that much of the humanities are opinions masquerading as knowledge.<p>It&,
+72,10825413,comment,10817214.0,10817214.0,0,0,ehudla,,,"Contrary to what he writes, I don&",
+73,10825412,comment,10821986.0,10825333.0,0,0,traviswebb,,,It will be awhile before it&,
+74,10825411,comment,10822298.0,10823703.0,0,0,haliax,,,What town?,1451718836.0
+75,10825410,comment,10824382.0,10825217.0,0,0,derefr,,,Windows 3.1 had a VMM that could have isolated drivers just fine. But the drivers that people needed to run were DOS drivers that were shoddily written with precisely-controllable (i.e. non-virtualizable) interrupts in mind. &quot;Consumer&quot; Windows couldn&,
+76,10825409,comment,10822777.0,10822777.0,0,0,csense,,,If the first machines which had segmentation existed in the early &,
+77,10825408,story,,,1,0,DiabloD3,An integrative theory of anterior cingulate cortex function [pdf],https://ncclab.princeton.edu/files/2014/02/the-expected-value-of-control.pdf,,1451718769.0
+78,10825407,comment,10825332.0,10825332.0,0,0,wvenable,,,The iPhone 6S is truly an amazing piece of hardware; there is so much internal enhancement over the iPhone 6.  Yet Apple hardly hyped it in that way.  I got my wife a 6S for Christmas and what convinced me was what I know about it <i>that didn&,
+79,10825406,comment,10821986.0,10825311.0,0,0,pdappollonio,,,I&,
+80,10825405,comment,10821986.0,10825362.0,0,0,traviswebb,,,Hopefully. We&,
+81,10825404,story,,,37,6,DiabloD3,Cognitive enhancement through real-time fMRI neurofeedback,http://www.sciencedirect.com/science/article/pii/S2352154615000625,,1451718617.0
+82,10825403,comment,10823499.0,10824457.0,0,0,marak830,,,"I dont know if i agree (im on the fence), but he did mebtiob spammy click bait titles.<p>There would be a hell of ablot less of those if there were no ad revenue(as ads are loaded when you enter they authors dobt care if you read those spammy articles, just load the damn page).<p>I would like to velieve this is true, but im not sure it would be(in the case of getting well written articles without ads).",1451718600.0
+83,10825402,story,,,6,0,DiabloD3,Effects of strategy on visual working memory capacity [pdf],https://www.researchgate.net/profile/Jesse_Bengson2/publication/279727747_Effects_of_strategy_on_visual_working_memory_capacity/links/55b1248808ae092e964fe35d.pdf,,1451718564.0
+84,10825401,story,,,1,0,DiabloD3,"Guanfacine, but Not Clonidine, Improves Planning and Working Memory Performance",http://www.nature.com/npp/journal/v20/n5/full/1395310a.html,,1451718526.0
+85,10825400,comment,10824383.0,10825300.0,0,0,jjm,,,"Hey guys, It&",
+86,10825399,comment,10824382.0,10825270.0,0,0,derefr,,,That was the trend five years ago. We&,
+87,10825398,comment,10821875.0,10825358.0,0,0,Zarel,,,"The point is that NAN2 is compatible with old versions of Node and io.js, not that NAN2 is compatible with NAN1.<p>This is bolded in the article we&",
+88,10825397,comment,10824382.0,10825148.0,0,0,asynchronous13,,,"a) there are microkernel-based operating systems that are available right now. QNX and Green Hills, for example. There aren&",
+89,10825396,comment,10824382.0,10825203.0,0,0,derefr,,,> monolithic kernels ... are the only type that have been commercially successful<p>Both Windows and OSX have (somewhat-compromised) microkernels at their core. As do the operating systems for most game consoles.,1451718392.0
+90,10825395,comment,10824064.0,10824996.0,0,0,piotrkaminski,,,Don&,
+91,10825394,comment,10821391.0,10825185.0,0,0,klipt,,,> I think if you made up a DAG-adapted symbolic differentiator<p>That&,
+92,10825393,comment,10825332.0,10825332.0,0,0,UnoriginalGuy,,,I&,
+93,10825392,comment,10821411.0,10825230.0,0,0,phamilton,,,"First, they do increase. Capped at 2%, correlated to inflation.<p>Second, I agree on the inheritance piece. That is a problem.",1451718353.0
+94,10825391,comment,10825332.0,10825332.0,0,0,DGAP,,,"Two points:<p>One, it&",
+95,10825390,comment,10824383.0,10825336.0,0,0,gauravseth,,,Not sure what gave you the impression of not having a clear roadmap. All I said was we&,
+96,10825389,comment,10812332.0,10824997.0,0,0,frik,,,"The original Wiki / WikiWiki / WikiWikiWeb started way before Google, in 1995: <a href=""https://en.wikipedia.org/wiki/WikiWikiWeb"" rel=""nofollow"">https://en.wikipedia.org/wiki/WikiWikiWeb</a><p>Even Wikipedia used that software in the beginning, as did many other projects. As MediaWiki and Wikipedia got more well known, many sites upgraded their Wiki to MediaWiki.",1451718294.0
+97,10825388,comment,10822995.0,10825017.0,0,0,tracker1,,,"But not for signing into the website, and adding notes for a pull request, or filing a bug/issue/feature request.",1451718290.0
+98,10825387,story,,,1,0,DiabloD3,Double virus infection to the prefrontal network of the macaque brain,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4507872/,,1451718282.0
+99,10825386,comment,10824382.0,10825373.0,0,0,derefr,,,I&,
+100,10825385,comment,10821670.0,10825286.0,0,0,thaumasiotes,,,"> It is intuitively obvious that requiring probabilities to sum to 1 is rather arbitrary (any other number would seem to do as well)<p>Well, you have basically two choices -- one and zero. Any nonzero real number is trivially equivalent to 1.<p>It&",
+101,10825384,comment,10812332.0,10825368.0,0,0,wgx,,,I guess that&,
+102,10825383,comment,10825332.0,10825366.0,0,0,forrestthewoods,,,If I were an investor in your company and I got a healthy dividend from that gross margin then that&,
+103,10825382,comment,10822861.0,10824090.0,0,0,BuckRogers,,,"Have you tried Elixir? If so, just wondering if you found the learning curve to be as difficult as Erlang.",1451718179.0
+104,10825381,comment,10825332.0,10825332.0,0,0,enos_feedler,,,apple stock will hit a high of $144.42 USD per share this year. You heard it here first.<p><i>EDIT</i> add &quot;this year&quot;,1451718168.0
+105,10825380,comment,10821391.0,10825283.0,0,0,klipt,,,"Symbolic calculates the symbolic representation of the derivative, autodiff just calculates the (numerical value of the) derivative by adjusting the computation graph.",1451718150.0
+106,10825379,comment,10825332.0,10825332.0,0,0,mrmondo,,,I&,
+107,10825378,comment,10825332.0,10825332.0,0,0,arcticbull,,,Ah it&,
+108,10825377,comment,10821986.0,10825333.0,0,0,stephengoodwin,,,"The last time I checked in on Sails.js about 9 months ago, Mike McNeil, Cody Stoltman, and Scott Gress had just gotten back from YC for Treeline (<a href=""http://treeline.io"" rel=""nofollow"">http://treeline.io</a>).[1]<p>[1] <a href=""https://www.crunchbase.com/organization/the-treeline-company"" rel=""nofollow"">https://www.crunchbase.com/organization/the-treeline-company</a>",1451718101.0
+109,10825376,comment,10825332.0,10825332.0,0,0,melted,,,One thing about Apple is this: they _always_ have a plan. Count on it. It&,
+110,10825375,comment,10824383.0,10824913.0,0,0,comex,,,"> When Chakra is open-source and cross-platform, its differentiating &quot;killer&quot; features will be merged into node&",
+111,10825374,comment,10825332.0,10825332.0,0,0,hackaflocka,,,&quot;iPhone sales could go negative for the first time in history.&quot;<p>Growth. You mean sales growth. So call it that. There&,
+112,10825373,comment,10824382.0,10824382.0,0,0,nqzero,,,,

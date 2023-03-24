@@ -1,0 +1,117 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8555645,comment,8555327.0,8555534.0,0,0,3rd3,,,Can you give some examples of the boring standard font vs. more sophisticated Chinese font faces?,1415091477.0
+1,8555644,comment,8555550.0,8555641.0,0,0,zaroth,,,Not even thinking about the buffers being used to actually store your data is more like it.,1415091445.0
+2,8555643,comment,8555183.0,8555183.0,0,0,32faction,,,"Aerospace Engineering major here. People may be quick to dismiss space travel, and overall innovations and advancements in space technology due to its high cost and (seemingly) dangerous tests that companies do to test new technologies. Take the very recent Antares launch failure and Virgin Galactic&",
+3,8555642,story,,,9,2,lizxrice,Analytics product for API developers,http://github.com/apinalytics/apinalytics,,1415091341.0
+4,8555641,comment,8555550.0,8555550.0,0,0,barrkel,,,Not using exponential growth in buffers / vectors / other contiguously allocated collections is a rookie mistake. It shouldn&,
+5,8555640,comment,8553223.0,8553223.0,0,0,Gravityloss,,,I&,
+6,8555639,comment,8555158.0,8555453.0,0,0,capkutay,,,&quot;they all sucked at tech but thought they didn&,
+7,8555638,comment,8550193.0,8553444.0,0,0,kingzain,,,Fair enough. Choose the lesser of all evils. Tells us a lot about humanity and what it has come to. Sad though isn&,
+8,8555637,comment,8555550.0,8555550.0,0,0,bhaak,,,"From the comments, the linked SO question is probably better a treat of the title than the article:\n<a href=""http://stackoverflow.com/questions/1100311/what-is-the-ideal-growth-rate-for-a-dynamically-allocated-array"" rel=""nofollow"">http://stackoverflow.com/questions/1100311/what-is-the-ideal...</a><p>I would have guessed by now it is common knowledge that you should grow your buffers exponentially. The only question being by how much?<p>For general usage it seems 1.5 is usually used but another factor could be better if you have different constraints for reallocating and memory fragmentation or value them differently.",1415091228.0
+9,8555636,story,,,1,0,unhammer,Second Version of the Content Translation Tool,https://blog.wikimedia.org/2014/11/03/announcing-the-second-version-of-the-content-translation-tool/,,1415091179.0
+10,8555635,comment,8555550.0,8555621.0,0,0,AndrewDucker,,,Yes.  I&,
+11,8555634,story,,,1,0,koolhead17,A Guide to Developer Contributions in the OpenStack Juno Blueprints,http://thenewstack.io/a-guide-to-developer-contributions-in-the-openstack-juno-blueprints/,,1415091088.0
+12,8555633,comment,8529278.0,8531641.0,0,0,logicallee,,,"So, I was actually making a joke :)",1415091083.0
+13,8555632,comment,8555608.0,8555608.0,0,0,seren,,,"Interesting, I had never made the relation between referer and advertising, which seems pretty obvious in retrospect.<p>This parts makes me a bit uneasy.<p>> The frustration here is that search, apps and HTTPS traffic all represent different types of readers arriving at The Guardian for different reasons — and not knowing that data hurts the Guardian&",
+14,8555631,comment,8551516.0,8555076.0,0,0,antirez,,,Thanks a lot for independent confirmation of the issue.,1415091047.0
+15,8555630,comment,8555398.0,8555398.0,0,0,danbee,,,&quot;email-instant reflexes&quot; < This isn&,
+16,8555629,comment,8551724.0,8554132.0,0,0,gingerman,,,Curious to see how this works out.,1415090876.0
+17,8555628,comment,8555285.0,8555285.0,0,0,Lrigikithumer,,,You&,
+18,8555627,story,,,7,5,lurchinurchin,Ask HN: Career advice sought; am I having a quarter-life crisis?,,"Hello,<p>I am a late-twenty-something software engineer who works for one of the major tech companies. Lately I find myself dreaming about having taken a different path; specifically, I wonder what my life would have been like if I had become a scientist. Realistically it is too late for me to do an about-face, but I&",
+19,8555626,comment,8555285.0,8555285.0,0,0,NKCSS,,,One of the best reads in a while; such a fun and wel written piece!,1415090819.0
+20,8555625,comment,8555168.0,8555168.0,0,0,borplk,,,People holding &quot;Javascript crypto considered harmful&quot; signs marching in 3 .. 2 ... 1 ...,1415090819.0
+21,8555623,comment,8554882.0,8554882.0,0,0,freddealmeida,,,I certainly don&,
+22,8555622,comment,8555158.0,8555554.0,0,0,dqdo,,,MBA stands for &quot;more bad advice&quot;. The current MBA curriculum is mainly based on knowledge that we know in the 1980s. Most of the advance science and management processes that we have developed since then are not in the curriculum. So basically the MBA students are unfortunately learning outdated knowledge - half of which is wrong.,1415090800.0
+23,8555621,comment,8555550.0,8555550.0,0,0,rinon,,,Is there a reason the link is directed to a comment?,1415090780.0
+24,8555620,comment,8555285.0,8555285.0,0,0,snowmaker,,,Awesome post!<p>We&,
+25,8555619,comment,8555398.0,8555602.0,0,0,ISL,,,"Looks like 5000-feet-per-minute gearing was possible in 1922 [1]. Doing it with a linear track will be harder, but I don&",
+26,8555618,story,,,1,0,yiedyie,How to explore Wikipedia and other Wikimedia offline,http://softwarerecs.stackexchange.com/q/11665/1,,1415090698.0
+27,8555617,comment,8555158.0,8555541.0,0,0,yen223,,,"Help me out here, because I have a very tough time imagining a world where society is worse off because financial companies didn&",
+28,8555616,comment,8554793.0,8555306.0,0,0,drmilsurp,,,I think the theme is really power on demand. I don&,
+29,8555615,comment,8555327.0,8555327.0,0,0,desdiv,,,I couldn&,
+30,8555614,comment,8555611.0,8555611.0,0,0,valevk,,,This is really an amazing read. I can&,
+31,8555613,comment,8551942.0,8551942.0,0,0,spb,,,"It seems to me there are two components involved in being a successful disruptor:<p>1. Be competent at what you do.\n2. Have your main competitor be grossly incompetent.<p>What this article and its successor indicate is that Netflix satisfied both of these criteria: when, in 2007, Blockbuster had a fairly sensible Netflix-style plan in place, Carl Icahn instated a new CEO who chose to completely demolish it. Had Blockbuster not done this, it&",
+32,8555612,comment,8552487.0,8553120.0,0,0,j_lev,,,"One of the Lectures encouraged new startups to come up with something that other startups would find useful. Indeed, it seems like a good 60-70% of startups fall into this &quot;startup tools&quot; category.",1415090551.0
+33,8555611,story,,,7,1,valevk,The Stuxnet Dossier (2010) [pdf],http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/w32_stuxnet_dossier.pdf,,1415090519.0
+34,8555610,comment,8552296.0,8552515.0,0,0,guardian5x,,,Not sure why this is downvoted. I would like to see Google to support Windows Store. Offering the best possible cross-platform support ist definately not evil.,1415090516.0
+35,8555609,comment,8555183.0,8555183.0,0,0,sanxiyn,,,It isn&,
+36,8555608,story,,,53,69,xvirk,The Guardian Is Being Swamped with 'Dark Traffic',http://uk.businessinsider.com/the-guardians-dark-social-traffic-problem-2014-10,,1415090427.0
+37,8555607,comment,8552296.0,8554976.0,0,0,EGreg,,,I&,
+38,8555606,story,,,2,0,m545,"In Docker We Trust? Containerization, Security and Trust Models",http://guardtime.com/blog/in-docker-we-trust-containerization-security-and-trust-models,,1415090242.0
+39,8555605,comment,8550829.0,8551257.0,0,0,noselasd,,,There&,
+40,8555604,comment,8553645.0,8554659.0,0,0,antirez,,,"Converging to a single value (which is a liveness property) and what the values will contain (which are usually safety properties) are different stories... when the partition heals, if the nodes detect they have a different version for a given piece of data, they can just remove it, and the system is convergent, which means it is eventually consistent (a liveness property). <i>What</i> happens in the merge function instead provides additional safety properties. For example in the case of a CRDT that models a Set type, with the merge function that is &quot;union of all the values in the nodes&quot;, you can state the safety property that if a Set element X was added into a node, at no time will happen that the nodes will be able to talk again, and the system will converge into a Set which excludes such value X.",1415090235.0
+41,8555603,comment,8555327.0,8555327.0,0,0,iSnow,,,"I like this breed of fonts, they remind me of the LaTeX &quot;Computer modern&quot; and Garamond of old.",1415090203.0
+42,8555602,comment,8555398.0,8555593.0,0,0,Cthulhu_,,,Has that ever been done? I can imagine it&,
+43,8555601,comment,8555158.0,8555555.0,0,0,joshu,,,"there are occasional exceptions, but it&",
+44,8555600,comment,8550912.0,8552815.0,0,0,jbergens,,,You also get a step-wise path to rewrite the applications. Going to Scala would probably be a complete re-write which is risky and time consuming. I don&,
+45,8555599,comment,8553023.0,8553943.0,0,0,205guy,,,My brain always stumbles on the loose-lose pair. I don&,
+46,8555598,comment,8554793.0,8554793.0,0,0,acd,,,"I think you can eliminate turbo lag with electrical turbo chargers.<p>I wish we can take experimental engines and race them. \nSo you could score points not only for fastest time but also for cleanest engine.<p>Here is a 450hp 2.0Liter Volvo turbo engine\n<a href=""http://www.speedhunters.com/2014/10/triple-boost-volvos-450hp-2-0l-four/"" rel=""nofollow"">http://www.speedhunters.com/2014/10/triple-boost-volvos-450h...</a>",1415090031.0
+47,8555597,story,,,2,0,chug2k,Flipping pancakes with mathematics (2013),http://www.theguardian.com/science/blog/2013/nov/14/flipping-pancakes-mathematics-jacob-goodman,,1415090005.0
+48,8555596,comment,8555115.0,8555140.0,0,0,MarkMc,,,"I have to disagree: It may be legal and in your self interest, but I don&",
+49,8555595,comment,8548035.0,8550991.0,0,0,bildung,,,Whether or not China is socialist or capitalist doesn&,
+50,8555594,comment,8552487.0,8553355.0,0,0,potatoyogurt,,,Totally. I&,
+51,8555593,comment,8555398.0,8555398.0,0,0,ISL,,,The 3.1 second 0-60 time is the equivalent of a 0-60 distance of 136 feet. That&,
+52,8555592,comment,8553023.0,8554381.0,0,0,om2,,,Other interpretations of quantum mechanics do not generally violate Bell&,
+53,8555590,comment,8554084.0,8555352.0,0,0,pjmlp,,,"Any Turing complete language can be used for writing compilers/interpreters, it is just harder in some than other.<p>Python is actually pretty neat for doing it and you even have tools like PyPy (with RPython) to write a JIT for the language if you wish.",1415089671.0
+54,8555589,comment,8536686.0,8550632.0,0,0,benjamincburns,,,> Actual complexity is rarely justified by requirements I find. Unless I&,
+55,8555588,comment,8554084.0,8555523.0,0,0,Theyeard,,,"Parsing, evaluating, continuations and CPS... it seems similar to this language: <a href=""https://curiosity-driven.org/continuations",
+56,8555587,comment,8550315.0,8550631.0,0,0,oriste,,,"I had a similar experience. Not to discourage or demoralise you, but keep a close check on your cardiovascular system. I had 3 relapses (stenosis) since my first stents in October 2010. Did (and continue to do so) all the right things, have all the right measurements, blood and fat values. Yet every year in January/February I&",
+57,8555586,comment,8554011.0,8555128.0,0,0,e12e,,,"Yeah, as far as I&",
+58,8555585,comment,8553549.0,8553549.0,0,0,atmosx,,,I&,
+59,8555584,comment,8555079.0,8555509.0,0,0,dnet,,,"Yes, see <a href=""http://blogs.msdn.com/b/oldnewthing/archive/2004/05/19/134937.aspx"" rel=""nofollow"">http://blogs.msdn.com/b/oldnewthing/archive/2004/05/19/13493...</a>",1415089588.0
+60,8555583,comment,8555079.0,8555574.0,0,0,afro88,,,That&,
+61,8555581,comment,8555327.0,8555327.0,0,0,Doctor_Fegg,,,The parallel that springs to mind is that they look very similar to the NLQ fonts (&,
+62,8555580,comment,8554084.0,8554084.0,0,0,pjmlp,,,This is great! Specially the AST viewer.<p>Any inspiration from the Tiger book for the language?,1415089533.0
+63,8555579,story,,,3,0,kallesverige,Graphics performance makes User Experience,http://www.mobiledevandtest.com/testdroid/7982/mobile-game-testing-part-3-graphics-performance-and-ux-with-automation,,1415089527.0
+64,8555578,comment,8555079.0,8555543.0,0,0,dnet,,,"1. git uses SHA-1, not MD5; former has problems, but is still better than latter<p>2. git stores the length of a blob before hashing [1] which makes it harder (but not impossible) to perform such attacks [2]<p>[1] <a href=""http://www.git-scm.com/book/en/v2/Git-Internals-Git-Objects",
+65,8555577,comment,8555398.0,8555398.0,0,0,ck2,,,When is the Model X shipping?<p>I can&,
+66,8555576,comment,8549823.0,8549823.0,0,0,federkasten,,,"We (Xcoo, Inc.) are using Clojure since 2013.<p><a href=""https://xcoo.jp"" rel=""nofollow"">https://xcoo.jp</a><p>Our products using Clojure are :<p>- &quot;Chrovis&quot;, which is a bio-informatics web application that analyzes and visualizes huge genome data sets <a href=""https://chrov.is"" rel=""nofollow"">https://chrov.is</a><p>- &quot;Hacker News Hack&quot;, which is a web application that shows HN with categories and popularity <a href=""http://newshack.io"" rel=""nofollow"">http://newshack.io</a>",1415089437.0
+67,8555575,story,,,5,1,omnibrain,Forest Play-Groups in Switzerland (2012),http://www.cbsnews.com/news/why-my-child-will-be-your-childs-boss/,,1415089435.0
+68,8555574,comment,8555079.0,8555079.0,0,0,barrkel,,,"Of course, algorithms like md5 are still useful when not used as cryptographic functions. For example, they can be used for duplicate detection across a large data set. Unless the data set is under control by an attacker, and they have something to gain by creating a collision, there&",
+69,8555573,comment,8555285.0,8555285.0,0,0,phloxicon,,,I love the passion Bob puts into his work. This is such a fine book. I&,
+70,8555572,comment,8550912.0,8553694.0,0,0,dragonbonheur,,,"There is another BASIC that compiles to Java and is more actively developed than Jabaco :B4J <a href=""http://www.basic4ppc.com/android/b4j.html"" rel=""nofollow"">http://www.basic4ppc.com/android/b4j.html</a><p>Also for cross-platform development there are even dialects that compile to HTML+JS:  <a href=""http://pewtersoftware.com/browserbasic/"" rel=""nofollow"">http://pewtersoftware.com/browserbasic/</a><p>And other platforms: <a href=""http://www.monkey-x.com"" rel=""nofollow"">http://www.monkey-x.com</a>",1415089396.0
+71,8555571,comment,8548541.0,8550842.0,0,0,bildung,,,<i>bullshit.</i><p>Thanks for that insightful reply.,1415089393.0
+72,8555570,comment,8555158.0,8555158.0,0,0,palosanto,,,"Well, shit. How are any of us toiling away in tech going to create value now?",1415089313.0
+73,8555569,comment,8555327.0,8555525.0,0,0,kneeko,,,"This article draws some parallels between English and Simplified Chinese fonts:<p><a href=""http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/"" rel=""nofollow"">http://www.kendraschaefer.com/2012/06/chinese-standard-web-f...</a>",1415089244.0
+74,8555568,comment,8550912.0,8551865.0,0,0,jbergens,,,C,
+75,8555567,comment,8552487.0,8553087.0,0,0,alva,,,ridiculously cheap compared to London!,1415089077.0
+76,8555566,comment,8555285.0,8555285.0,0,0,krat0sprakhar,,,What an awesome post! Totally loved reading about how you typesetted the book. Thanks for sharing the video as well.<p>Would it be too much to ask you to share a single page in PDF (of the final copy) so that I too can<p>> <i>zoom into 1000% and drool over Sina Nova.</i> :D,1415089073.0
+77,8555565,story,,,1,0,jmadsen,Where are all the Somali pirates?,http://mashable.com/2014/11/02/somali-pirates-years/,,1415089058.0
+78,8555564,comment,8555079.0,8555466.0,0,0,baddox,,,While that&,
+79,8555563,comment,8555285.0,8555371.0,0,0,pjmlp,,,"Yes, because ebook readers are crap at displaying PDFs and I cannot sit at the computer the whole day.<p>Additionally, ebook readers are much better for the eyes.",1415089038.0
+80,8555562,comment,8553435.0,8553435.0,0,0,rudimental,,,"Keep a running log of anything that seems missing or any problem you encounter. Extend it to people you are close to, family, friends, colleagues, people you admire. Keep this somewhere you can access easily and from everywhere, like Evernote. What problems do people have? What could be easier? What could make something better? You&",
+81,8555561,comment,8540475.0,8554298.0,0,0,giltene,,,Um. There are 30 years worth of academic publications covering concurrent compacting collectors that don&,
+82,8555560,comment,8555241.0,8555462.0,0,0,charlysisto,,,That&,
+83,8555559,comment,8550511.0,8554433.0,0,0,cowabunga,,,Actually no as that signs the communications and not the software. If the target server is compromised then you are screwed. Also for example there is no guarantee that github.com isn&,
+84,8555558,comment,8550912.0,8554261.0,0,0,pjmlp,,,"When you are a .NET shop with C++, C",
+85,8555557,comment,8550912.0,8552135.0,0,0,jbergens,,,I suppose the value is that you don&,
+86,8555555,comment,8555158.0,8555489.0,0,0,ronilan,,,Yah bookmark it. Always beware of those who have acquired some knowledge and the credentials for such. So that&,
+87,8555554,comment,8555158.0,8555520.0,0,0,easytiger,,,MBA courses are now being promoted in Europe and many people see it as a cancer,1415088744.0
+88,8555552,comment,8555503.0,8555503.0,0,0,rev_null,,,&quot;I came here to HAVE_ARGUMENT!&quot;<p>&quot;Oh! I&,
+89,8555551,comment,8555547.0,8555547.0,0,0,Jekyll,,,According to the UK agency &quot;...privacy has never been an absolute right and the debate about this should become a reason for postponing urgent and difficult decisions&quot;<p>This article seems like a clever bit of propoganda to justify increasing surveillance,1415088722.0
+90,8555550,story,,,231,165,AndrewDucker,Please grow your buffers exponentially,http://blog.mozilla.org/nnethercote/2014/11/04/please-grow-your-buffers-exponentially/,,1415088624.0
+91,8555549,comment,8553645.0,8553937.0,0,0,darkr,,,"Riak (enterprise version) does that, and has pluggable stores (albeit limited to in-memory, bitcask + eleveldb)",1415088593.0
+92,8555548,comment,8555158.0,8555453.0,0,0,hwang89,,,I&,
+93,8555547,story,,,2,1,Jekyll,“The web is a terrorist's command-and-control network of choice” – GCHQ Director,http://www.ft.com/cms/s/2/c89b6c58-6342-11e4-8a63-00144feabdc0.html,,
+94,8555546,comment,8555285.0,8555285.0,0,0,keeptrying,,,I love posts like this which exude the joy and pain of a perfectionist. Congrats on getting it done :) ...,1415088541.0
+95,8555545,comment,8550912.0,8552391.0,0,0,dragonbonheur,,,In BASIC there is no Begin.,1415088518.0
+96,8555544,comment,8553645.0,8553645.0,0,0,RealCasually,,,"Perhaps I missed it, but is there any discussion on how their sharding mechanism works? How do they define a shard and where is ownership of various shards managed so a &quot;non-owning node can redirect to an owning node&quot;?",1415088499.0
+97,8555543,comment,8555079.0,8555079.0,0,0,crystaln,,,I&,
+98,8555542,comment,8554768.0,8554972.0,0,0,slavik81,,,"Yes, but that &",
+99,8555541,comment,8555158.0,8555514.0,0,0,7Figures2Commas,,,"Yeah, it&",
+100,8555540,comment,8555079.0,8555447.0,0,0,13,,,"It would be a lot cheaper to approach industries which already have very large FPGA clusters (weather forecasting do, for example) and rent some compute time on them with your own bitsteam. Problems like this are embarrassingly parallel and very suited to hardware based attacks, given sufficient financial motivation. Time for a kickstarter, maybe?",1415088409.0
+101,8555539,comment,8550912.0,8551269.0,0,0,jbergens,,,"They are working on .NET Native which does some of that.\n<a href=""http://blogs.msdn.com/b/dotnet/archive/2014/04/02/announcing-net-native-preview.aspx"" rel=""nofollow"">http://blogs.msdn.com/b/dotnet/archive/2014/04/02/announcing...</a>",1415088353.0
+102,8555538,story,,,1,0,bernardlunn,Why Angel List Syndicates Could Change the Asset Management Industry,http://fintech4us.wordpress.com/2014/11/04/why-angel-list-syndicates-could-change-the-asset-management-industry/,,1415088338.0
+103,8555537,comment,8554084.0,8554084.0,0,0,kensai,,,"Since some 150 lines are comments or blank, it&",
+104,8555535,comment,8540475.0,8554506.0,0,0,giltene,,,The 2011 C4 paper doesn&,
+105,8555534,comment,8555327.0,8555327.0,0,0,vincvinc,,,"Spotting the particulars of what people native to a different script do when using another is one of my hobbies.<p>- East-asian students will have a hard time spotting typos even in important words as their own name<p>- Even on designs with the most extravagant typography choices for their native fonts, choices for roman fonts are not prioritized<p>- &quot;Letter people&quot; do the same thing the other way around (&quot;OK, we got a nice asian feel to this poster ... now to add some cool chinese characters... done&quot;) It&",
+106,8555533,comment,8555065.0,8555065.0,0,0,nkurz,,,"Nice article, and wonderful graphs!<p>I&",
+107,8555532,comment,8548035.0,8553843.0,0,0,zanny,,,"There is a reason we usually prefix BI with universal. No, there are few programs that are legitimately universal, but every instance of non-universality you describe just describes a bureaucratic overhead nightmare that severely cripples any potential efficiency of a public works project.<p>The jump is not from anarchy to UBI. It is from conditional basic income to unconditional.<p>Also, I might be mixing up my district nines and section eights. I wonder why...",1415088156.0
+108,8555531,comment,8550193.0,8553166.0,0,0,kbart,,,"Another one:\n<a href=""http://www.infoworld.com/article/2608141/internet-privacy/snowden--the-nsa-planted-backdoors-in-cisco-products.html"" rel=""nofollow"">http://www.infoworld.com/article/2608141/internet-privacy/sn...</a>",1415088151.0
+109,8555530,comment,8554768.0,8555046.0,0,0,colechristensen,,,When you&,
+110,8555529,comment,8555168.0,8555168.0,0,0,maninalift,,,"This appears not to actually solve the hard problems of cryptography. It simply generates a random key, them XORs your message with it.<p>The key and the message are independently just random data and don&",
+111,8555528,comment,8552487.0,8554425.0,0,0,quanticle,,,Honest question: how does one get started working remotely? I understand that it&,
+112,8555527,story,,,3,0,sleepyhead,The Pirate Bay Co-founder Arrested in Nong Khai,http://www.nationmultimedia.com/national/The-Pirate-Bay-co-founder-arrested-in-Nong-Khai-30246926.html,,1415088037.0
+113,8555526,story,,,1,0,hunvreus,"Recognizing Criticism, Contempt, Defensiveness, and Stonewalling",http://www.gottmanblog.com/2013/04/the-four-horsemen-recognizing-criticism.html,,1415088033.0
+114,8555525,comment,8555327.0,8555327.0,0,0,graup,,,"> I assume this is similar for Japanese and Korean<p>FYI Korean script (Hangul) is actually an alphabet, so relatively easy to type.<p>Still, the topic of font choices remains interesting. While we have been accustomed to very differently looking typefaces for Roman scripts for a few hundred years, we know relatively little about CJK fonts. Does anyone know a good article describing Asian font choices in English?<p>It&",
+115,8555524,comment,8552487.0,8553849.0,0,0,FranOntanaya,,,"Everybody expects a greater fool will move in after them, it&",

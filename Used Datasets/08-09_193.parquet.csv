@@ -1,0 +1,139 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10619806,story,,,1,0,burritofanatic,The Transatlantic Accent,http://www.williamha.com/the-transatlantic-accent/,,1448355581.0
+1,10619805,story,,,3,0,scepticer,Show HN: App monitoring for Azure cloud services and Azure virtual machines,https://ruxit.com/azure-monitoring/,,1448355522.0
+2,10619804,story,,,1,0,AlikhanPeleg,8 Tools to Load Test Your Website,http://www.browseemall.com/Blog/index.php/2015/11/24/8-tools-to-load-test-your-website/,,1448355491.0
+3,10619803,comment,10619795.0,10619795.0,0,0,easytiger,,,Hard not to be cynical really isn&,
+4,10619802,comment,10615652.0,10618346.0,0,0,rahimnathwani,,,"<a href=""https://news.ycombinator.com/item?id=10482128"" rel=""nofollow"">https://news.ycombinator.com/item?id=10482128</a>",1448355444.0
+5,10619801,story,,,2,0,jimsojim,Google Brings Street View to the Ancient City of Petra,http://techcrunch.com/2015/11/23/petra-view/,,1448355402.0
+6,10619800,comment,10619336.0,10619485.0,0,0,LeoPanthera,,,Which parts do you think are lies?,1448355331.0
+7,10619799,comment,10617681.0,10618674.0,0,0,tehmaco,,,Or that a hardware jumper needs to be set on the motherboard before any firmware updates can be done.,1448355329.0
+8,10619798,comment,10613213.0,10619776.0,0,0,kccqzy,,,I don&,
+9,10619797,story,,,64,5,easytiger,CppMem: Formalised Interactive C/C++ memory model,http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/,,1448355297.0
+10,10619796,comment,10612039.0,10612039.0,0,0,radoslawc,,,"&quot;Work hard. Have fun. Make history&quot; this was cringe worthy, like from Veridian Dynamics commercials (<a href=""https://www.youtube.com/watch?v=kHuVS5OAo6k&list=PLFA32C1347789C3D0"" rel=""nofollow"">https://www.youtube.com/watch?v=kHuVS5OAo6k&list=PLFA32C1347...</a>) but irl not comedy show",1448355203.0
+11,10619794,comment,10614723.0,10619507.0,0,0,grn,,,I&,
+12,10619793,comment,10617681.0,10619599.0,0,0,jbverschoor,,,wake up,1448355174.0
+13,10619792,comment,10614723.0,10619636.0,0,0,mootothemax,,,">Those light map images are based on the premise that 5pm is a reasonable time for sunset, which is something I disagree with.<p>When daylight savings rolls around each year, I always make the same comment: <i>god it feels civilized to be going home when it&",
+14,10619790,story,,,13,2,attheodo,Esthonia open-sources its e-voting system on GitHub (2013),http://arstechnica.com/tech-policy/2013/07/estonia-publishes-its-e-voting-source-code-on-github/,,1448355108.0
+15,10619789,comment,10613295.0,10613295.0,0,0,vt240,,,"I found the comments section following this article is especially funny.  My favorite, the thread claiming that lead poisoning is the <i>only</i> statistic correlated with the violent crime rate...  The authors proof- a single academic pre-print.  I love the new internet science.",1448355101.0
+16,10619788,comment,10613453.0,10613453.0,0,0,rwmj,,,I think the lesson is - if you&,
+17,10619787,story,,,1,0,cjg,What happens when stars collide,http://www.alphr.com/space/1001802/what-happens-when-stars-collide-were-about-to-find-out,,1448354944.0
+18,10619786,comment,10614723.0,10614723.0,0,0,bufordsharkley,,,The biggest flaw with this visualization is that it doesn&,
+19,10619785,comment,10617818.0,10619506.0,0,0,polymatter,,,"Programmers, accountants, owner, medieval and apprentices are all capitalized where I would leave them uncapitalized. It feels random to me. I put it down to a different writing style.",1448354812.0
+20,10619784,comment,10618269.0,10618923.0,0,0,morgante,,,> I wouldn&,
+21,10619783,comment,10619336.0,10619743.0,0,0,junto,,,I&,
+22,10619782,comment,10618269.0,10619207.0,0,0,morgante,,,Except there aren&,
+23,10619781,story,,,2,0,bra-ket,DARPA opens Robotics Fast Track applications for non-traditional researchers,https://rft.osrfoundation.org/,,1448354727.0
+24,10619780,comment,10614573.0,10618624.0,0,0,nrinaudo,,,"I fear I must be misunderstanding your points. Are you really stating that, in order to know what you can do with data, you need just need to inspect it at <i>runtime</i>? Or that types only protect you from typos?<p>Types allow the compiler to do a lot of validation before your code is even executed, removing whole classes of bugs before they even have a chance to manifest themselves. You thought that value was an int and divided it by two? It was a string. I&",
+25,10619778,comment,10609762.0,10609762.0,0,0,panorama,,,I&,
+26,10619777,comment,10593607.0,10594323.0,0,0,spurgu,,,"Tallinn as well: <a href=""http://soiduplaan.tallinn.ee/",
+27,10619776,comment,10613213.0,10613213.0,0,0,foxhedgehog,,,Shakespeare loves to do this: &quot;Whether &,
+28,10619774,comment,10613341.0,10613341.0,0,0,gloves,,,"Cynical view - can we expect the manufacturer of the $100,000 machine to be sponsoring (buying out) this research any time soon?",1448354561.0
+29,10619773,comment,10613713.0,10619714.0,0,0,axx,,,"Oh, my mistake. Even better!",1448354536.0
+30,10619772,comment,10619768.0,10619768.0,0,0,gloves,,,"Duane is holding an AMA with Business of Software today at 3PM GMT, 10AM EST here: <a href=""https://plus.google.com/events/cp9b76enlqncprqaa6tdvvlbih4"" rel=""nofollow"">https://plus.google.com/events/cp9b76enlqncprqaa6tdvvlbih4</a>",1448354460.0
+31,10619771,comment,10614723.0,10614723.0,0,0,jkot,,,There is nothing to love about DST. It just messes up sleep cycle and daily routine. When you will have small children you will understand.,1448354451.0
+32,10619770,comment,10613213.0,10619755.0,0,0,function_seven,,,"Ha, yup. I think a good corollary is prefix vs. infix notation in programing languages. With prefix (or RPN) notation, it&",
+33,10619769,comment,10614649.0,10614649.0,0,0,moconnor,,,One of the criticisms of &quot;top&quot; is that it clears the screen and you cannot turn this off. &quot;top -b&quot; works fairly well for this.,1448354432.0
+34,10619768,story,,,5,2,gloves,"My Night with the DEA and 6,500 Ecstasy Tablets",https://medium.com/@duanejackson/my-night-with-the-dea-and-6-500-ecstasy-tablets-72c5fb95bc03,,1448354415.0
+35,10619767,comment,10618458.0,10619649.0,0,0,dreyfiz,,,"Sorry for the tone of my replies, seivan, you&",
+36,10619766,comment,10618269.0,10618269.0,0,0,hellofunk,,,"Another day, another story of an Asian nation that deeply feers the personal expression and curiosity of its citizens. Thailand, Singapore, China... how privileged so many of us are, taking for granted that we grew up in a culture where that particular level of explicit distrust does not exist.",1448354373.0
+37,10619765,comment,10619336.0,10619444.0,0,0,pieter_mj,,,When you&,
+38,10619764,comment,10614532.0,10619680.0,0,0,lqdc13,,,I&,
+39,10619763,comment,10613575.0,10619558.0,0,0,mrob,,,If you&,
+40,10619762,story,,,2,0,hauck-d,MongoDB training machine – provisioned by ansible,https://blog.hauck.io/mongodb-ansible-virtual-machine/,,1448354311.0
+41,10619761,comment,10619578.0,10619736.0,0,0,rspeer,,,I&,
+42,10619759,story,,,6,0,b13n1u,Show HN: PanteraS – Platform as a Service in a box,https://github.com/eBayClassifiedsGroup/PanteraS,,1448354226.0
+43,10619757,comment,10614723.0,10614723.0,0,0,iopq,,,"Ugh, waking up at 6:30 AM. I&",
+44,10619756,comment,10618787.0,10618787.0,0,0,okcs,,,Automate This by Christopher Steiner. I&,
+45,10619755,comment,10613213.0,10613213.0,0,0,dandare,,,As a non native speaker I struggled greatly until I learned that this is a thing in English language.,1448354068.0
+46,10619754,comment,10618269.0,10619652.0,0,0,chvid,,,"There has been two major attacks possibly related to Xinjiang lately. The 2014 Kunming attacks and the 2015 Bangkok bombings.<p>In Chinese perspective these are acts of international terrorism related to islamist jihad (ISIS, Al Queda etc.). And talk about Xinjiang seperation from China would be what we in the west call &quot;hate speech&quot; since it possibly would entail cleansing of Han-chinese from the region.<p>However this perspective is not shared by the west which is probably why the Chinese government cannot get the same services from Google and Facebook that countries like USA or France can when comes to censoring hate speech or get logs on suspected terrorist.<p>Hence they have to resort to more primitive ways.",1448354065.0
+47,10619753,comment,10613359.0,10613359.0,0,0,cellover,,,"These images are amazing.<p>If you are interested in the subject I highly recommand the documentary about the whole survival trip:<p>The Endurance (2000) - <a href=""http://www.imdb.com/title/tt0264578/"" rel=""nofollow"">http://www.imdb.com/title/tt0264578/</a>",1448354062.0
+48,10619752,comment,10613725.0,10619682.0,0,0,raquo,,,Correct me if I&,
+49,10619751,story,,,1,0,millisecond,Roost (YC S14) is hiring a senior dev in NYC to build the future of the web,,"Roost:<p>- Is the leading SaaS provider of web push notifications.<p>- Is currently handling over 100k requests / minute.  Scale and speed are incredibly important to us.<p>- Well funded, high growth.<p>We’re looking for a senior engineer who:<p>- Has experience with AWS cloud technologies.<p>- Prefer deep experience with node and/or Java.<p>- Takes scaling incredibly seriously.<p>- Experience with NoSQL databases at large scale.<p>- Experience in and willing to help with ops.<p>-Wants autonomy to create awesome products<p>Benefits:<p>-Flex vacation policy<p>-Manhattan offices<p>-Healthcare<p>-Competitive equity<p>Email casey@goroost.com with resume for more information.",1448354011.0
+50,10619750,comment,10612779.0,10619679.0,0,0,HappyTypist,,,"Maybe as someone who represents 98.5% of the field, you should stop pretending to speak for the 1.5%. Have you ever thought that there may be selection bias in play regarding the &quot;even females I know?&quot; Notwithstanding that, what is your <i>n</i> that you&",
+51,10619749,comment,10613575.0,10619113.0,0,0,mrob,,,I also dislike unreliable image processing algorithms. Consistent minor artifacts are less distracting than occasional major artifacts. It&,
+52,10619748,story,,,2,0,gloves,"AMA with Kashflow Founder, Pride of Britain, Ex-Drug Trafficker – Duane Jackson",https://plus.google.com/events/cp9b76enlqncprqaa6tdvvlbih4,,1448353976.0
+53,10619747,comment,10618458.0,10619649.0,0,0,dreyfiz,,,"Recognize anyone you know? <a href=""http://members.shaw.ca/jeanaltemeyer/drbob/TheAuthoritarians.pdf"" rel=""nofollow"">http://members.shaw.ca/jeanaltemeyer/drbob/TheAuthoritarians...</a>",1448353966.0
+54,10619746,story,,,4,0,burritofanatic,If You Want an “A-” Tech Career: Stay Where You Are,http://www.williamha.com/if-you-want-a-a-tech-career-stay-where-you-are/,,1448353951.0
+55,10619745,comment,10615988.0,10615988.0,0,0,Avalaxy,,,"They are used a lot with Bitcoin, whatsapp uses them for pairing with the web interface, authenticator uses them to import keys.<p>I think they&",
+56,10619744,comment,10593607.0,10597688.0,0,0,donkeyd,,,I&,
+57,10619743,comment,10619336.0,10619479.0,0,0,INTPenis,,,"If you worked for customer support then you know how much longer calls can take when people are looking for the service tag.<p>They were speaking for online support, where no support agent is available to guide the customer through finding the service tag.<p>I believe they had good intentions but it was very poorly executed.",1448353898.0
+58,10619742,comment,10619336.0,10619427.0,0,0,Mchl,,,My experience as an empolyee of a huge manufacturer of consumer electronics says the same.,1448353883.0
+59,10619741,comment,10618458.0,10619649.0,0,0,dreyfiz,,,"Oh, so you&",
+60,10619740,comment,10613359.0,10619264.0,0,0,wycx,,,"In addition, I suggest &quot;In the Kingdom of Ice&quot; by Hampton Sides, about a US expedition to the Arctic in the late 1870s. Those guys had really, really bad luck.<p><a href=""https://en.wikipedia.org/wiki/In_the_Kingdom_of_Ice"" rel=""nofollow"">https://en.wikipedia.org/wiki/In_the_Kingdom_of_Ice</a><p>I just finished and recommend Anthony Brandt&",
+61,10619739,comment,10603298.0,10618485.0,0,0,spooningtamarin,,,"<a href=""https://community.sony.co.uk/t5/blog-news-from-sony/inside-4k-what-is-x-reality-pro/ba-p/1346224"" rel=""nofollow"">https://community.sony.co.uk/t5/blog-news-from-sony/inside-4...</a><p>They won&",
+62,10619737,comment,10614723.0,10619487.0,0,0,Kiro,,,"Still, the author makes it sound like this would some kind of crazy thing when it&",
+63,10619736,comment,10619578.0,10619578.0,0,0,mcv,,,Anything interesting in their database?,1448353836.0
+64,10619734,comment,10614723.0,10619710.0,0,0,meric,,,"9pm sunset would be great, I sleep at midnight. I&",
+65,10619733,comment,10614723.0,10614723.0,0,0,Kiro,,,"> but I’ll grant that waking up before the sun is miserable<p>Uhm, where I live this is inevitable most winter months. I don&",
+66,10619732,comment,10613713.0,10619317.0,0,0,capitalsigma,,,"vim scp:// works for me (ubuntu here). Tramp I had an issue with, too, not sure what the deal with that is. My emacs is acting up a bit today.<p>I think scp being slow probably has more to do with his/her hosting than implementation. My post went through just fine so I&",
+67,10619731,comment,10612516.0,10617553.0,0,0,lomnakkus,,,I think you&,
+68,10619730,comment,10615549.0,10617171.0,0,0,jinst8gmi,,,"CNN has it too, it&",
+69,10619729,comment,10617308.0,10617308.0,0,0,chrido,,,That&,
+70,10619728,comment,10618255.0,10618255.0,0,0,echlebek,,,"This is a comically myopic viewpoint, bordering on offensive to those of us who live in the (very large) world outside of Silicon Valley.<p>There are some really amazing places and people out there. You can have an excellent life and career without ever travelling to California. Or even the USA! I don&",
+71,10619727,story,,,1,0,alphonse23,Trend-spotting: The humanoid condition,http://www.theworldin.com/article/10515?fsrc=scn/tw/wi/bl/ed/theworldin2016,,1448353671.0
+72,10619725,comment,10616989.0,10618702.0,0,0,ww520,,,"May be I got it the wrong.  Are the time spent on the bid processing portion (CPU bounded) or the network messaging and connection handling portion (IO bounded)?  When talking about eventlib and nginx, I assume the network messaging and connection handling are relevant.  In that case 168K requests/sec doesn&",
+73,10619724,comment,10613518.0,10617155.0,0,0,creshal,,,"> Systemd replaces a lot more of the system than other init systems - for example, it has it&",
+74,10619723,comment,10613518.0,10619684.0,0,0,mjg59,,,"Yes. The Red Hat support contract indicates that sharing RHEL binaries with someone else will result in Red Hat terminating support for you (something that I find incredibly offensive and objectionable), but if you give the binaries to someone else then they can give them to anybody else they want to.",1448353631.0
+75,10619721,comment,10619578.0,10619578.0,0,0,sklogic,,,Administrative measures against SQL injection. Totally makes sense. Very much in line with the very logic of this kind of people.<p>The sad part is that this is exactly the psychotype that rules this world.,1448353571.0
+76,10619720,comment,10619336.0,10619504.0,0,0,mattlutze,,,Might get more visibility or traction if you get in touch with PR. Particularly if Dell has been less responsive in the past.,1448353551.0
+77,10619719,comment,10615918.0,10619458.0,0,0,madeofpalk,,,"So there are lots of folders and files in their server dir <a href=""https://github.com/Automattic/wp-calypso/tree/master/server"" rel=""nofollow"">https://github.com/Automattic/wp-calypso/tree/master/server</a> - but from what I can tell they&",
+78,10619717,comment,10612685.0,10615555.0,0,0,ya3r,,,being in the same context is some kind of order.,1448353447.0
+79,10619716,comment,10616235.0,10617732.0,0,0,Tiksi,,,I can&,
+80,10619714,comment,10613713.0,10619696.0,0,0,capitalsigma,,,"This is open source, I have no idea what you&",
+81,10619713,comment,10619274.0,10619533.0,0,0,notg,,,You can check your logs within the app and not only in the console. Also it&,
+82,10619712,comment,10617681.0,10619624.0,0,0,jorangreef,,,"&quot;How do you handle massive traffic spikes?&quot;<p>Well, how would you handle massive traffic spikes? Through a combination of vertical and horizontal scaling? Through having excess capacity? Except that I would probably want to start with something fast and inexpensive to begin with.<p>If you wait until the spike hits before you spin up your VM you&",
+83,10619711,comment,10615107.0,10619622.0,0,0,var_eps,,,"Why is the rate change important? For two main reasons:\n1) it signals the intention of the FED to actively use its tools to manage the growth of the economy as opposed to uncritically encouraging it;\n2) even a token charge decreases the demand for what was once free and breaks a crucial psychological barrier for further increases in the future (see point 1; also, the freemium model in apps for an analogy).<p>So any change upwards really matter after nearly a decade of decreases and the zero-bound rates.<p>Basis points communicate the absolute change rather than the relative change to remove ambiguity. For example, consider a 1% interest rate: if it goes up by 100 BPS, the new rate is 2%; if by 1%, the new rate is 1.01%.",1448353342.0
+84,10619710,comment,10614723.0,10619636.0,0,0,paulojreis,,,"Where I live (Portugal), I&",
+85,10619709,comment,10614078.0,10619635.0,0,0,zurn,,,Signals are not generally used for IPC on Linux. Also you can handle them orderly along with other fd events using the standard & portable self-pipe pattern or Linux-specific signalfd.,1448353270.0
+86,10619708,story,,,1,0,goodmachine,Formcard – meltable thermoplastic in card form,https://www.kickstarter.com/projects/formcard/formcard-melt-mould-make-mend,,1448353204.0
+87,10619707,comment,10619336.0,10619336.0,0,0,HappyTypist,,,I&,
+88,10619706,comment,10613063.0,10619268.0,0,0,sklogic,,,"His name was all over the physics textbooks, probably even more frequently than Maxwell, so he is not entirely forgotten.",1448353123.0
+89,10619705,comment,10610834.0,10618588.0,0,0,mburns,,,That is indeed the first detail of the first proposal mentioned (Mars Direct).<p>It doesn&,
+90,10619704,comment,10613725.0,10619428.0,0,0,pjmlp,,,I already write client side with Swing and JavaFX....,1448353086.0
+91,10619703,story,,,1,0,trymas,WordPress.com Gets a New Face and Joins the JavaScript Age,http://www.wired.com/2015/11/wordpress-com-gets-a-new-face-and-joins-the-javascript-age/,,
+92,10619702,comment,10614723.0,10619507.0,0,0,zanny,,,"Tangentially related, there are also studies showing that schools that force kids to get up at 6:30 also produce lower performing students because kids stay up late everywhere and then never get enough sleep.<p>If you want to keep the public school work week, it would make significantly more sense being 9-5 or even 10-6 Monday to Thursday rather than 8-3 Monday to Friday.<p>We aren&",
+93,10619701,comment,10613295.0,10613295.0,0,0,McGlockenshire,,,"You can contrast this story with another Fairchild Superfund site, this time in south San Jose on Bernal.<p><a href=""http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/ViewByEPAID/CAD097012298"" rel=""nofollow"">http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/ViewByEPAID/CA...</a><p>I grew up a few miles from here, close enough that my parents were worried about the contamination.  Thankfully the well supplying our neighborhood wasn&",
+94,10619700,comment,10619578.0,10619670.0,0,0,ucho,,,They won&,
+95,10619699,comment,10613575.0,10613575.0,0,0,ars,,,Am I in the minority in finding Judder very distracting? And film grain too for that matter? Or overly dark night scenes?<p>The better my monitor the more distracting those things are - I never used to notice them on CRT&,
+96,10619698,comment,10619648.0,10619648.0,0,0,jmnicolas,,,I can&,
+97,10619697,comment,10614723.0,10619576.0,0,0,rtpg,,,>Daylight savings isn&,
+98,10619696,comment,10613713.0,10613713.0,0,0,axx,,,"It would be neat to have different layouts to choose from (maybe similar to jekyll with a &quot;layout: xyz&quot; parameter).<p>Besides that i really like the idea. Reminds me a little of the old-style BBS communities. Even though i understand that people need to make money, a project like this would gain much more from being open source. It would give more people the possibility to run a service like this and everyone would profit from further developments.<p>But that&",
+99,10619695,story,,,154,70,Mojah,What is a 'unikernel'?,https://ma.ttias.be/what-is-a-unikernel/,,1448352916.0
+100,10619694,comment,10613250.0,10613250.0,0,0,alphonse23,,,"I wanted to point out, though somebody changed the title, this is the first paper written on using Monads in programming. It&",
+101,10619693,story,,,1,0,ShaunFinglas,Throw Code Away,http://blog.shaunfinglas.co.uk/2015/11/throw-code-away.html,,1448352872.0
+102,10619692,comment,10613295.0,10613295.0,0,0,userbinator,,,"I suppose one of the reasons why they thought it was harmless for so long could be that trichloroethylene really does smell good and not at all repugnant, so people are less inclined to notice its presence or be concerned about it. It&",
+103,10619691,comment,10613295.0,10613295.0,0,0,DrScump,,,Interesting that they don&,
+104,10619690,comment,10617681.0,10619253.0,0,0,insertnickname,,,That sounds like a silly license scheme to me.,1448352754.0
+105,10619689,comment,10614723.0,10614723.0,0,0,tmd83,,,Since its hackernews I think its fair to comment that I hate it because it makes the already difficult time programming even more difficult. Now I don&,
+106,10619688,comment,10617986.0,10617986.0,0,0,meir_yanovich,,,Look for company&,
+107,10619687,comment,10613813.0,10619158.0,0,0,agildehaus,,,Gmail and Inbox only classify email into certain categories.  You cannot specify your own and have it learn over time.,1448352635.0
+108,10619686,story,,,18,1,jimsojim,Understanding CPU caching and performance,http://arstechnica.com/gadgets/2002/07/caching/,,1448352610.0
+109,10619685,comment,10616989.0,10618763.0,0,0,fit2rule,,,I also would love to know details about this .. very impressive stats!,1448352601.0
+110,10619684,comment,10613518.0,10618437.0,0,0,felipeerias,,,Can you use RHEL&,
+111,10619683,comment,10617308.0,10618205.0,0,0,seivan,,,Out of curiosity what would ways to mitigate that? Real Estate appreciation/rent or index funds?,1448352574.0
+112,10619682,comment,10613725.0,10619569.0,0,0,stewbrew,,,AFAIK javascript support is put on hold until 1.0 is reached. Kotlin/JS doesn&,
+113,10619681,comment,10614723.0,10614723.0,0,0,NDizzle,,,5pm is a horrible time for sunset. When are you going to play catch with your kids?!,1448352545.0
+114,10619680,comment,10614532.0,10614532.0,0,0,zanny,,,"Hopefully the kernel driver rewrite pays off, and not just in time saved supporting separate Catalyst and free kernel modules. AMD on Linux is infamously slow, and while their Windows driver situation has never been particularly good, they get crushed by Nvidia.<p>Thats also bad, because they are also the most freedom hostile major hardware manufacturer on the market. Some other contenders like Broadcom, Intel, and Qualcomm all participate some engineer time somewhere in the open stack, albeit not across all their products, but literally nothing Nvidia makes is open at all, and they even go the extra mile nowadays to use signed drivers to stop Nouveau development.<p>Anyone who cares about eventually seeing a world where GPU programming is as open as CPU is (was) also cares to see AMD succeed on Linux, being the only major discrete GPU developer out there besides Nvidia, and whose legacy IP has gone into the largest mobile GPUs on Android as well (Adreno). They might have proprietary power management firmware on their cards, but at least they publish the ISA. Can you imagine a CPU without an open instruction set?",1448352524.0
+115,10619677,story,,,1,0,rmason,3 D printer uses clay to change shape,http://www.bbc.com/news/technology-34765799,,1448352480.0
+116,10619676,story,,,10,4,astaroth360,Scientists create new strain of malaria-blocking mosquito,http://universityofcalifornia.edu/news/uc-scientists-create-malaria-blocking-mosquitoes,,1448352445.0
+117,10619675,story,,,36,11,boni11,Android malware drops Banker from PNG file,http://b0n1.blogspot.com/2015/11/android-malware-drops-banker-from-png.html,,1448352437.0
+118,10619674,story,,,2,0,astaroth360,Planned Parenthood Sues Texas in Dispute Over Funding for Clinics,http://www.nytimes.com/2015/11/24/us/planned-parenthood-sues-texas-in-dispute-over-funding-for-clinics.html?_r=0,,1448352415.0
+119,10619673,comment,10619578.0,10619578.0,0,0,pudo,,,Someone should inform the other authorities that these authorities aren&,
+120,10619672,comment,10619578.0,10619578.0,0,0,jackjeff,,,Lol. Incompetence has no limits.,1448352380.0
+121,10619671,story,,,3,0,lx,Out of the Tar Pit (2006) [pdf],https://raw.githubusercontent.com/papers-we-love/papers-we-love/master/design/out-of-the-tar-pit.pdf,,1448352349.0
+122,10619670,comment,10619578.0,10619578.0,0,0,jacobriers,,,Any bets on how long it will take for them to fix this?,1448352332.0
+123,10619669,comment,10614723.0,10619507.0,0,0,barrkel,,,When I was a kid I went to a country school and lessons didn&,
+124,10619668,comment,10613575.0,10619563.0,0,0,nitrogen,,,That 600Hz number is basically meaningless.  There is no 600Hz motion interpolation being done; it&,
+125,10619667,story,,,2,1,rmason,Hacker Claims He Gave FBI Info That Led to Killing of ISIS Leader,http://www.buzzfeed.com/josephbernstein/hacker-claims-he-gave-fbi-info-that-led-to-killing-of-isis-l,,
+126,10619666,comment,10613341.0,10613341.0,0,0,Rubu,,,"Full paper: <a href=""https://www.osapublishing.org/optica/abstract.cfm?uri=optica-2-11-965"" rel=""nofollow"">https://www.osapublishing.org/optica/abstract.cfm?uri=optica...</a>",1448352214.0
+127,10619665,story,,,4,0,astaroth360,Dell security error widens as researchers dig deeper,http://www.pcworld.com/article/3008240/dell-security-error-widens-as-researchers-dig-deeper.html,,1448352204.0
+128,10619664,story,,,1,0,rmason,"Bing Maps now shows road conditions in 11 countries using 35,000 cameras",http://www.canadianreviewer.com/cr/2015/11/23/bing-maps-now-shows-road-conditions-in-11-countries-using-35.html,,1448352174.0
+129,10619663,comment,10615549.0,10618213.0,0,0,pjmlp,,,"Then they will need to change their official statement that only Java matters, as communicated at Google IO 2014 Android Fireside.",1448352163.0
+130,10619662,comment,10613713.0,10619414.0,0,0,e12e,,,"It would probably make more sense, and be more likely to get 15 people to donate $10 a year (as a one-time donation, with a new 15 people donating $10 the next).<p>I&",
+131,10619661,story,,,18,1,anigbrowl,Cuisine and empire,http://www.eugenewei.com/blog/2015/8/18/cuisine-and-empire,,1448352148.0
+132,10619660,comment,10617681.0,10618968.0,0,0,XorNot,,,ROM based NIC? Why not? If you&,
+133,10619659,comment,10619578.0,10619578.0,0,0,PeterNorth,,,"well, now they will know.",1448352109.0
+134,10619658,comment,10612226.0,10615275.0,0,0,ben_bai,,,That&,
+135,10619657,comment,10609260.0,10616931.0,0,0,ptaipale,,,"> There ARE some HOAs that fine home owners for lacking green lawns.<p>One would expect that in circumstances of drought, a city or state government should be able to mandate such HOA rules void.",1448352100.0
+136,10619655,comment,10613575.0,10619113.0,0,0,function_seven,,,> I think I would be considerably less distracted by frame interpolation if it didn&,
+137,10619654,story,,,1,0,astaroth360,LA County Residents to Speak on Sick-Making Natural Gas Leak,http://abcnews.go.com/US/wireStory/la-county-residents-speak-sick-making-natural-gas-35385333,,1448352037.0

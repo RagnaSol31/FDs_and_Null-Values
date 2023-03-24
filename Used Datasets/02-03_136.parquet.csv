@@ -1,0 +1,108 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6531213,comment,6525824.0,6526174.0,3,0,wisty,,,The Freakonomics guys and Jared Diamond are more or less scientists. Malcolm Gladwell is a journalist. There&,
+1,6531212,comment,6529484.0,6530933.0,4,0,bickfordb,,,Many MySQL applications expect results to be delivered in primary key order if no &quot;order by&quot; clause is supplied,1381460185.0
+2,6531210,comment,6530924.0,6530960.0,5,0,njharman,,,They&,
+3,6531209,story,,,2,0,sherm8n,How to work with remote developers and be more productive than in an office,http://blog.goodsense.io/2013/10/10/how-to-work-with-a-remote-team-and-be-more-productive-than-in-a-physical-office,,1381459982.0
+4,6531207,comment,6531036.0,6531036.0,1,0,andrewfong,,,A couple of key flaws here:<p>* There isn&,
+5,6531206,story,,,1,1,elleferrer,The Company That Makes Viagra Has More Cash on Hand Than the U.S. Government,http://www.slate.com/blogs/future_tense/2013/10/10/debt_ceiling_viagra_maker_pfizer_has_more_cash_on_hand_than_federal_government.html,,1381459925.0
+6,6531205,story,,,1,0,fire4ever,"Tanay Jacksons ""In the Spotlight video Promo is AMAZING",http://youtu.be/3-907t5-DdE,"Tanay Jackson, Neice of Pop Superstar Michael Jackson released a promo video for her single &quot;In the Spotlight&quot; and it is Amazing.",1381459923.0
+7,6531204,story,,,7,1,ardan-bkennedy,Why I Think Go Package Management Is Important,http://dave.cheney.net/2013/10/10/why-i-think-go-package-management-is-important,,1381459735.0
+8,6531203,comment,6531030.0,6531160.0,2,0,duncanbeevers,,,"Nope. You can attach a handler to window.onerror manually that pushes its error to the notifier, but errors handled this way won&",
+9,6531202,comment,6530846.0,6531087.0,4,0,lelandbatey,,,"Well, I see you&",
+10,6531201,comment,6530449.0,6531073.0,3,0,011011100,,,"Starting off by saying a bunch of vague things and then mentioning quantum mechanics is a really good way of turning away most readers. Do you want to have a constructive conversation, where you communicate concrete and meaningful things, or do you want to just give off the appearance of sophistication?",1381459679.0
+11,6531200,story,,,1,0,iambateman,Today is Launch Day -- Sort of.,http://iambateman.com/today-is-launch-day/,,1381459619.0
+12,6531199,comment,6531036.0,6531036.0,1,0,gmuslera,,,Lets sleep in the lion&,
+13,6531198,story,,,2,1,gabrielrotbart,Melbourne Remote Control Tourist,http://remotecontroltourist.com,,1381459559.0
+14,6531197,comment,6529298.0,6529821.0,6,0,clarky07,,,"You just said in the start of this thread that you use flipboard and only flipboard for your news. If that is true, he loses absolutely nothing by you not reading his content on flipboard.",1381459557.0
+15,6531194,comment,6530846.0,6531087.0,11,0,tomsaffell,,,">flush with urine smells, mentally ill homeless, an embarrassing public transportation system<p><pre><code>  urine: no worse than London, where I moved form.\n  mentally-ill: more than London, and it doesnt bother me\n  transportation: bad enough that (as in London) I ride a bike everywhere\n  weather: better\n  start-up friendliness: much better (than when i left in &",
+16,6531193,comment,6529948.0,6531023.0,1,0,joshdotsmith,,,I&,
+17,6531192,comment,6530924.0,6531185.0,4,0,jason_slack,,,"I was just working on this: wget -r -A.pdf <a href=""http://twvideo01.ubm-us.net/o1/vault/GD_Mag_Archives/"" rel=""nofollow"">http://twvideo01.ubm-us.net/o1/vault/GD_Mag_Archives/</a><p>but getting a 403 (forbidden). Now I see I should have tried <a href=""http://gdcvault.com/gdmag"" rel=""nofollow"">http://gdcvault.com/gdmag</a> instead of copying the link from right clicking and saying &quot;Save As&quot;<p>You do have a few more flags than I do. I should look those up.<p>Edit: Thanks for expanding your post to explain all the flags. Very helpful.",1381459400.0
+18,6531191,comment,6530572.0,6531168.0,1,0,sliverstorm,,,Only on machines with SoC&,
+19,6531190,comment,6529850.0,6530746.0,3,0,jarek,,,Not having foreign keys to your profile all over the place would be a vast improvement though,1381459359.0
+20,6531189,comment,6530572.0,6531146.0,5,0,sliverstorm,,,It isn&,
+21,6531188,story,,,1,0,quistuipater,Stormpath does your app's user management for you,http://www.networkworld.com/community/blog/stormpath-does-your-apps-user-management-you,,1381459211.0
+22,6531187,comment,6530924.0,6530924.0,-1,0,hayksaakian,,,Would be nice if I could search the contents.,1381459202.0
+23,6531186,story,,,1,0,sitver,Pet Pluto? Disney's Latest Creation Brings the sense of Feeling To Touchscreens,http://www.appstorechronicle.com/2013/10/pet-pluto-disneys-latest-creation-brings-feeling-touchscreen.html,,1381459144.0
+24,6531185,comment,6530924.0,6530924.0,34,0,meritt,,,"If you want to download all the PDFs to your current working directory:<p><pre><code>    wget -rH -nd -Dubm-us.net -Apdf http://gdcvault.com/gdmag\n</code></pre>\nEdit: for the curious, the flags are:<p><pre><code>    -r recursively retrieve all the links on the page\n    -H span hosts (default would stay with gdcvault.com only)\n    -nd don&",
+25,6531184,comment,6530536.0,6531040.0,3,0,bradleyjg,,,Heck it&,
+26,6531183,comment,6530641.0,6530641.0,2,0,csixty4,,,"At the risk of this coming off pretty damn snarky, it&",
+27,6531182,comment,6530536.0,6531033.0,3,0,outside1234,,,Is that bad though?   We&,
+28,6531181,comment,6530449.0,6530449.0,5,0,mindcrime,,,How do I motivate myself?  That&,
+29,6531180,comment,6526098.0,6526330.0,1,0,MaulingMonkey,,,&quot;Think how many polite one-liner &,
+30,6531179,comment,6529905.0,6530521.0,2,0,philwelch,,,"I think you have your timelines mixed up a bit. In 1995, right before the tech bubble, programming was definitely low prestige and women were definitely already well educated, earning about half of the college degrees.<p>In fact, there&",
+31,6531178,comment,6525647.0,6526460.0,1,0,piratebroadcast,,,"Thanks! No worries, I do love it",1381459024.0
+32,6531177,comment,6526876.0,6527305.0,2,0,amerika_blog,,,"I generally cite the triad as thus: Bathory, Hellhammer and Slayer, all of which had releases in the 1983-1984 period. Sodom is also important. Death, less so, since its demo at that point sounded more like speed metal (it was only after the time spent with Repulsion, formerly Genocide, that Chuck hit on the death metal formula). If we&",
+33,6531176,story,,,1,0,rymohr,Apologies,http://blog.saltybits.co/2013/10/09/apologies.html,,1381459008.0
+34,6531175,story,,,1,0,yathit,Javascript full text search library,https://github.com/yathit/ydn-db-fulltext,Javascript full text search library,1381459006.0
+35,6531174,comment,6530846.0,6531153.0,4,0,strlen,,,By most Americans&,
+36,6531173,comment,6529749.0,6530220.0,3,0,tannerj,,,"I watched the same video, love Adam and Tested.com, my favorite aspect of the pen is how small it is when you put the cap on. Fits in my pocket and I can&",
+37,6531172,comment,6526918.0,6528538.0,1,0,piratebroadcast,,,+1 for a Rails demo app,1381458954.0
+38,6531171,comment,6529757.0,6529757.0,1,0,shiven,,,"Damn paper is hidden behind piece-of-shit paywall! Paying the Impact Factor Tax, supporting an exploitative business model.<p>Press release is, well, public:<p><a href=""https://news.ycombinator.com/item?id=6528221"" rel=""nofollow"">https://news.ycombinator.com/item?id=6528221</a>",1381458900.0
+39,6531170,comment,6530846.0,6531087.0,25,0,wheels,,,<p><pre><code>  > a terrible male-to-female ratio\n</code></pre>\nSan Francisco&,
+40,6531169,comment,6529298.0,6529298.0,2,0,andrewfong,,,Is there a reason content providers can&,
+41,6531168,comment,6530572.0,6530834.0,1,0,cma,,,"AMD/ATI is in all new major consoles, and with what they are trying to do with &quot;Mantle&quot;, things may radically change, and more PC&",
+42,6531167,comment,6524385.0,6526140.0,1,0,kllrnohj,,,"Simplified IO is a library feature, not a language feature, and Android has its own IO stuff anyway.<p>Diamond type inference is cute, but hardly important. You could do the same thing with a save macro in your IDE.<p>Try with resources is about the only thing in that list that would be actually useful in Android.<p>> Any Java library targeted for Java 7, even without the new language features, is also not usable in Android projects, because Dex cannot understand the new Java 7 bytecodes.<p>So target Java 6 if you&",
+43,6531166,comment,6530449.0,6530449.0,3,0,mzarate06,,,I only work on projects I have a deep interest or passion for.  Nothing kills motivation more than non-interesting work.  A close second is ensuring you&,
+44,6531165,comment,6528031.0,6530165.0,1,0,jrochkind1,,,"Hmm, I&",
+45,6531164,comment,6530846.0,6531058.0,1,0,tomsaffell,,,"That, and cities have a higher standard-deviation than suburbs on pretty much any variable you choose to measure: house price, income, race, price of gas, education level, price of a haircut... In my experience cites have the best and worse of all that life offers. Suburbs are mediocre.",1381458780.0
+46,6531163,comment,6530449.0,6531130.0,4,0,udit99,,,Have you tried releasing your project in small iterations instead of waiting for a year? Having users use the product that you&,
+47,6531162,comment,6528221.0,6528221.0,1,0,shiven,,,"Damn paper is hidden behind piece-of-shit paywall! Paying the Impact Factor Tax, supporting an exploitative business model.",1381458736.0
+48,6531161,comment,6528031.0,6529243.0,1,0,jrochkind1,,,> it is faster and easier to create a new connection each time.<p>Unless you&,
+49,6531160,comment,6531030.0,6531030.0,1,0,k3n,,,Does it handle uncaught errors such as a window.onerror function might do?,1381458702.0
+50,6531159,comment,6528031.0,6528679.0,1,0,jrochkind1,,,"Oh yeah, I didn&",
+51,6531158,comment,6529484.0,6531070.0,1,0,dunham,,,"Unless, of course, the secondary index has all of the columns you need to execute your query.  (Sometimes it can help to add an extra column or two to your secondary index if you want to avoid the extra lookup.)<p>sqlite3 stores rows in an integer primary key index.  If you do not specify an &quot;integer primary key&quot; column, it synthesizes one behind the scenes (essentially a rowid) and your primary key lookups end up going through two indexes.",1381458674.0
+52,6531157,comment,6530449.0,6531130.0,8,0,sunir,,,What if I gave you one hundred dollar bills and said this is all the money you had to spend. Once it&,
+53,6531156,comment,6531144.0,6531144.0,3,0,tlongren,,,Going to bed. Any questions I&,
+54,6531155,comment,6530846.0,6531058.0,2,0,strlen,,,Historically this isn&,
+55,6531154,story,,,1,0,plentz,The museum of Mario,http://mario.ign.com/,An interactive experience exploring the many eras of Mario. Turn on the audio and click around to find hidden interactions!,1381458591.0
+56,6531153,comment,6530846.0,6531042.0,3,0,thaumasiotes,,,"Judging by google maps, there are several Walmarts within a 12-14 mile radius of the Sutter-Stockton garage. (All on the east side of the bay, as you might have expected.)  The traffic estimates are roughly 30 minutes.<p>For comparison, my family lives in a &quot;suburb&quot; 20 minutes or more away from <i>everything</i> (and 25 miles / 40 minutes from the nearest Walmart).  I wouldn&",
+57,6531151,comment,6530572.0,6530776.0,3,0,hug,,,"Understandably this is all purely anecdotal, but installing fglrx using smxi on Crunchbang 11 was actually a relatively painless experience.<p>My gaming machine has always been in &quot;Windows only&quot; territory due to the fact that I tend to run configurations that are slightly outlying -- my current machine has three monitors and two AMD 6970 videocards, with two monitors attached to one videocard, one attached to the other. I was incredibly surprised to find that this configuration worked &",
+58,6531150,comment,6529262.0,6529416.0,1,0,stevekinney,,,Awesome sauce.,1381458437.0
+59,6531149,story,,,1,0,matbeeche,Founder Interview: OneFlare.com ,http://www.shoestring.com.au/2013/10/founder-interview-oneflare-com/,,1381458434.0
+60,6531148,comment,6528733.0,6529702.0,3,0,nl,,,Possibly people switching to Windows 8 and trying out IE.,1381458424.0
+61,6531147,story,,,1,0,darioml,Year in tech - back to university,http://dario-ml.com/pinhome/2013/10/07/a-summer-of-startup.html,My experience at a London startup and being back at university,1381458417.0
+62,6531146,comment,6530572.0,6530726.0,6,0,twiceaday,,,"There is a rumour floating around that Mantle, a new low level gpu api from AMD launching on desktops soon, is the same api the next gen consoles are using. All they have to do is launch with strong linux support and they will own all three next gen platforms.",1381458415.0
+63,6531145,story,,,1,0,jmacofearth,New Social Business: Merely a Buzzword or Something Revolutionary?,http://uber.la/2012/05/new-social-business/,,1381458373.0
+64,6531144,story,,,12,6,tlongren,I'm Going to Jail,http://www.longren.org/im-going-to-jail/,,1381458300.0
+65,6531143,story,,,1,0,betterunix,What do we get for that DRM?,http://programming.oreilly.com/2013/10/what-do-we-get-for-that-drm.html,,1381458200.0
+66,6531142,comment,6531036.0,6531036.0,1,0,transfire,,,"&quot;Syrian Electronic Army&quot; Seriously? Oh, obviously it must the Syrians. I mean, it wouldn&",
+67,6531141,story,,,3,0,channi, /etc/passwd illustrated for beginners,http://channikhabra.blogspot.com/2013/10/etcpasswd-illustrated.html,,1381458163.0
+68,6531140,story,,,1,0,evo_9,Valve's Steam Box: a true console contender?,http://www.edge-online.com/news/valves-steam-box-a-true-console-contender/,,1381458053.0
+69,6531139,comment,6530449.0,6530777.0,10,0,runawaybottle,,,"I love Elon Musk, but jesus christ, way to make the rest of us feel utterly human.",1381458047.0
+70,6531138,comment,6529929.0,6530961.0,7,0,csixty4,,,OMG it just sank in that there are people who might be too young to know that movie exists. Yes! See it as soon as you can. It&,
+71,6531136,comment,6526387.0,6529067.0,1,0,kijin,,,"The Ptolemaic model was not conclusively proven to be false until parallax was verified. Every discovery before parallax could be accommodated by some or other variation of the Ptolemaic model, and such variations did in fact proliferate in geocentrism&",
+72,6531135,comment,6529905.0,6530778.0,1,0,scott_s,,,Which is fair enough. I&,
+73,6531134,comment,6521885.0,6530903.0,1,0,tedks,,,">Humans are the exception that proves the rule,<p>You know, this phrase actually means &quot;an exception that makes the rule more specific,&quot; not &quot;a counterexample that mysteriously makes the rule more likely.&quot;<p>>To give the example I already gave in my essay, evolution may or may not have hit the lucky path, but if it did, because it disables perception of danger, the goofy lucky people would be quickly eliminated by Inspector Darwin.<p>This is a post-hoc justification, not an advance prediction, and not a finding of a focused research campaign. As is the rest of this article.<p>You haven&",
+74,6531133,comment,6529850.0,6530990.0,3,0,scott_s,,,"Which is fine - people make an exception for you. But the original point was that <i>other</i> people use Facebook to schedule things, and the response was &quot;Well, <i>I</i> schedule things over email and text.&quot; Which misses the point, because we&",
+75,6531132,comment,6530449.0,6530449.0,1,0,matwood,,,"<i>When I rest I feel utterly lifeless except that my throat burns when I draw breath...I can scarcely go on.  No despair, no happiness, no anxiety.  I have not lost the mastery of my feelings, there are actually no more feelings.  I consist only of will.</i> - Messner on the first solo ascent of Everest<p>There is no secret, it is willpower.  Every person draws willpower from their own unique place.  Find yours.",1381457806.0
+76,6531131,comment,6531002.0,6531002.0,1,0,kellishaver,,,"Being legally blind, myself, I found a way to use my iPhone to help with my distance vision a while back. -- I point it at the thing I&",
+77,6531130,comment,6530449.0,6530449.0,12,0,lifeformed,,,I feel like I&,
+78,6531129,comment,6530536.0,6530536.0,2,0,spullara,,,Most successful funds place the majority of their dollars in follow-on rounds for their earlier investments.,1381457745.0
+79,6531128,comment,6526387.0,6530408.0,1,0,kijin,,,"A lot of benign facts are used in textbook political propaganda, too. More ice in North Pole this year! Global warming must be false! Doesn&",
+80,6531127,comment,6530846.0,6531010.0,24,0,thurn,,,"For an <i>international</i> audience, &quot;The City&quot; means London&",
+81,6531126,comment,6529905.0,6530923.0,1,0,scott_s,,,I don&,
+82,6531125,comment,6530641.0,6530641.0,1,0,forgottenpass,,,Look at it this way OP: Why haven&,
+83,6531124,comment,6529749.0,6531007.0,3,0,EdwardDiego,,,"> Yes, globalization has serious downsides  but only because it happens with nations still existing<p>So...<p>A) What do you propose in lieu of nations\nB) How does your proposal in (A) fix the issue of disparate living costs across the globe? It costs less to hire an Indian developer than it does to hire an Australian developer than it does to hire a German developer. When we abolish nations, how will this be resolved?",1381457609.0
+84,6531123,comment,6530449.0,6530449.0,1,0,swayvil,,,"Focus is brother to blindness, just saying.",1381457575.0
+85,6531122,comment,6530536.0,6530536.0,-2,0,twiceaday,,,Reminds me of a joke<p>Time flies like an arrow. Fruit flies like a banana.,1381457525.0
+86,6531121,comment,6530846.0,6531011.0,5,0,dougbright,,,Am I the only one who thought London?,1381457513.0
+87,6531120,comment,6524389.0,6527449.0,1,0,xenophonf,,,I don&,
+88,6531119,comment,6530979.0,6530979.0,4,0,nl,,,Interesting.<p>There&,
+89,6531118,comment,6530846.0,6531042.0,2,0,spullara,,,I think you salary statistic is probably in rural favor unless adjusted for cost of living...,1381457450.0
+90,6531117,comment,6530846.0,6531055.0,2,0,strlen,,,The &quot;My girlfriend and I&quot; part -- SF is great if you&,
+91,6531116,comment,6530846.0,6530846.0,7,0,rocky1138,,,"Can we get this title updated to reflect that they mean San Francisco? As it stands, it&",
+92,6531115,story,,,1,0,glazemaster,...because the only thing GTA V doesn't allow is bondage and humiliation.,http://www.machinered.com/2013/10/enter-dominatrix-enters-saints-row-iv-october-22nd/,,1381457215.0
+93,6531114,story,,,3,0,flavmartins,Comment moderation and the (anti-) social Web,http://www.dailydot.com/opinion/anti-social-web-free-speech-whitney-phillips-comments/,,1381457188.0
+94,6531113,comment,6528900.0,6530429.0,1,0,auctiontheory,,,"On a similar note, you generally shouldn&",
+95,6531112,story,,,1,0,flavmartins,"Unu, Yet Another Android Gaming Device, Ships by November",http://allthingsd.com/20131010/unu-yet-another-android-gaming-device-ships-by-november/?mod=atd_homepage_carousel,,1381457143.0
+96,6531111,comment,6530528.0,6530733.0,1,0,waxenfigurine,,,"Perhaps the author can come to an agreement with Spotify to integrate their service under different licensing terms. It might run into money, but that can be cast positively as forcing more clarity for the revenue model.",1381457128.0
+97,6531110,story,,,2,0,flavmartins,Domo CEO Josh James Is Keeping Quiet About His Company. Deal With It.,http://allthingsd.com/20131010/domo-ceo-josh-james-is-keeping-quiet-about-his-company-deal-with-it/?mod=atd_homepage_carousel,,1381457103.0
+98,6531109,comment,6530402.0,6530402.0,1,0,thedrbrian,,,It&,
+99,6531108,comment,6529749.0,6530973.0,6,0,justin66,,,"Or better yet, discard the loaded terminology and ask that laborer, his parents, and if possible their parents if the post-WWII economic order has lived up to its promise in their country. As with most real world problems the answer will probably be pretty mixed and the blame for failings won&",
+100,6531107,comment,6529639.0,6529639.0,1,0,malandrew,,,Interesting topic and relevant to SF for a non-obvious reason. Most people don&,
+101,6531106,story,,,1,0,mcrios2,Which companies allow you to apply for internships with programming challenges?,,I&,
+102,6531105,comment,6531030.0,6531030.0,1,0,bvirkler,,,"Missing a closing paren on the Airbrake.try example.  Otherwise, looking good!",1381456936.0
+103,6531104,comment,6530572.0,6530955.0,2,0,yeukhon,,,It really does. I always think Chromebook is pretty bad in this decade given how terrible Internet speed is outside your super fast office connection.,1381456901.0
+104,6531103,comment,6531030.0,6531051.0,1,0,benarent,,,"Thanks dbreaker. Any questions, email me or Duncan.",1381456899.0
+105,6531102,comment,6531030.0,6531096.0,1,0,benarent,,,"Thanks Tom. We really welcome your feedback, any questions or issues please open an issue on github <a href=""https://github.com/airbrake/airbrake-js"" rel=""nofollow"">https://github.com/airbrake/airbrake-js</a>",1381456883.0
+106,6531101,comment,6529298.0,6529821.0,2,0,alan_cx,,,"So, using it is marketing. Now they have their market, and exposure. So, that part of their marketing, using that marketing vehicle is over. So, even more it seems to make sense to ditch it and perhaps move on to something else. You dont have to keep doing the same thing the same way.<p>Also, to that end, it seems to have failed. They want people on their site, and Flipboard apparently isn&",

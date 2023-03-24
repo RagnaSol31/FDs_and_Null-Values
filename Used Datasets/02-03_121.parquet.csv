@@ -1,0 +1,106 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8123860,comment,8123520.0,8123638.0,1,0,meowface,,,This was one of the least detailed and helpful disclosures I&,
+1,8123859,comment,8114879.0,8123816.0,2,0,cgio,,,"Unfortunately, and as I share in my other post I have some experience in this, a parent&",
+2,8123858,comment,8114879.0,8114879.0,1,0,tmosleyIII,,,"My 7yr old son is autistic and so much of what this article says and what others have commented, has been the same wild ride for us. He is a happy happy little person that wants to laugh and be loved (and eaten my Zombie Dad once in awhile.)<p>For the other parents out there, I don&",
+3,8123857,comment,8104365.0,8104583.0,1,0,rich2892,,,"ycombinator: Pitch<p>Hi, I see you guys are interested in making an MMORPG language learning game. It&",
+4,8123856,comment,8118186.0,8118186.0,1,0,dajohnson89,,,DC&,
+5,8123855,comment,8123599.0,8123599.0,1,0,psgbg,,,"<a href=""https://www.youtube.com/watch?v=UpDJ1OceTtQ"" rel=""nofollow"">https://www.youtube.com/watch?v=UpDJ1OceTtQ</a><p>Argentina 1997. Not a new idea. In this case was a kind of joke.",1406948145.0
+6,8123854,comment,8122460.0,8122460.0,1,0,cpenner461,,,I&,
+7,8123853,story,,,2,1,chegra,Be on a plane,https://medium.com/@xyzgra/be-on-a-plane-ca360a2a2f59,,1406948133.0
+8,8123852,comment,8118696.0,8123404.0,1,0,marcosdumay,,,"> The characteristics of Python you just mentioned are only specific to it in cases when they are erroneous.<p>They are explicit at the official documentation, if they got there by error, they are official features now.<p>> They basically all evaluate to &quot;Python isn&",
+9,8123851,comment,8123436.0,8123709.0,1,0,the_decider,,,Initial code will be available on GitHub Sunday evening.,1406948092.0
+10,8123850,comment,8123730.0,8123730.0,1,0,mcphage,,,"> who have virtually no interest in evolving the human race<p>Well, I&",
+11,8123849,comment,8123207.0,8123207.0,5,0,walterbell,,,Can you compare ZeroTier with Skype&,
+12,8123848,comment,8123820.0,8123820.0,1,0,ollyfg,,,"For me, I think for a while until I find something that I really want to make, or something that bugs me that I can fix, and even if it&",
+13,8123847,comment,8113889.0,8117947.0,1,0,scardine,,,"It was way oversimplified, but I was not trying to write a PHD dissertation on economics. :-)<p>Both plans were perceived by the laymen as a new currency worth 1 dollar and that helped stopping the inertial indexation of their economies (there! somebody from a stable economy will hardly understand what indexation was like).",1406947978.0
+14,8123845,comment,8123152.0,8123805.0,2,0,irungentoo,,,The majority of NATs can be hole punched.<p>If you can&,
+15,8123844,comment,8122911.0,8123559.0,1,0,walterbell,,,"Is there a TV/Movie equivalent to <a href=""http://en.m.wikipedia.org/wiki/MusicBrainz"" rel=""nofollow"">http://en.m.wikipedia.org/wiki/MusicBrainz</a> ?",1406947786.0
+16,8123843,comment,8122731.0,8122731.0,1,0,Mc_Big_G,,,A mobile app for timing your stretches. My daughter had to do some physical therapy so I did the stretches with her and got tired of counting and keeping track. Should be in the play store Monday.,1406947740.0
+17,8123842,comment,8123036.0,8123646.0,1,0,acheron,,,"Oh man, thanks for that. The v.22bis (2400bps) one made me flashback hard.",1406947628.0
+18,8123841,story,,,3,0,fiskiran,Samwer brothers planning IPO,http://www.forbes.com/sites/ryanmac/2014/07/31/samwer-brothers-billionaires-rocket-internet-ipo/,,1406947522.0
+19,8123840,comment,8123152.0,8123831.0,6,0,pikdum,,,"From what I understand, XMPP is decentralized, whereas Tox is distributed.<p><a href=""http://cffn.ca/img/articles/Centralized-Decentralized-And-Distributed-System.jpg"" rel=""nofollow"">http://cffn.ca/img/articles/Centralized-Decentralized-And-Di...</a>",1406947521.0
+20,8123839,comment,8115878.0,8117361.0,2,0,wingspan,,,"In case anyone is looking for this: <a href=""https://nicolasamiot.wordpress.com/2013/07/25/inkscape-native-version-for-os-x-ml/"" rel=""nofollow"">https://nicolasamiot.wordpress.com/2013/07/25/inkscape-nativ...</a>",1406947500.0
+21,8123838,comment,8123614.0,8123614.0,1,0,dottrap,,,It&,
+22,8123837,comment,8123365.0,8123558.0,20,0,yohanatan,,,You should work on the Linux kernel.,1406947435.0
+23,8123836,comment,8123512.0,8123512.0,6,0,yanowitz,,,This paper is a tour de force. Well worth the read.<p>Two things I wonder about:<p>1. Is the extra overhead of the fast path worth incurring on every call for most use cases or should you only stall with a Postgres system?<p>2. What were the false starts in his analysis? How did he bail from them? What are the insurmountable bottlenecks?,1406947410.0
+24,8123835,comment,8123436.0,8123806.0,1,0,roganartu,,,I didn&,
+25,8123834,comment,8121454.0,8122592.0,5,0,seanmcdirmid,,,"Someday, I hope someone will say &quot;Am I reading this right? You used to not be able to see your code execute as you were editing it? My god, that sounds horrible.&quot;<p>There is a lot of technology advancement (in software and hardware) that we just take for granted today, and will tomorrow!",1406947348.0
+26,8123833,comment,8123512.0,8123512.0,10,0,emaste,,,"This is an updated version of the report originally discussed in <a href=""https://news.ycombinator.com/item?id=7956796"" rel=""nofollow"">https://news.ycombinator.com/item?id=7956796</a><p>Some memory debugging options were inadvertently left enabled in the original investigation.  This report covers the testing redone with the diagnostics disabled.",1406947332.0
+27,8123832,comment,8123152.0,8123368.0,1,0,hobarrera,,,"How is it superior to existing IM protocols (eg: XMPP)?<p>The article comapres it to skype, which is popular, but, techonologically, one of the worst protocols around.",1406947269.0
+28,8123831,comment,8123152.0,8123247.0,3,0,hobarrera,,,As is XMPP. Does Tox actually offer any advantages?,1406947207.0
+29,8123830,comment,8121454.0,8123182.0,0,0,JadeNB,,,"Eponysterical (<a href=""http://metachat.org/index.php/2005/11/16/did_we_ever_decide",
+30,8123829,story,,,1,0,michalu,Invention vs. Innovation,http://www.appsterhq.com/value-of-your-startup-idea,,1406947131.0
+31,8123827,comment,8121454.0,8123279.0,4,0,JadeNB,,,>  I don&,
+32,8123825,story,,,2,0,gregrata,'Thatcher gene' key to thriving on less sleep,http://www.theage.com.au/world/thatcher-gene-key-to-thriving-on-less-sleep-20140802-zzp9q.html,,1406947047.0
+33,8123824,comment,8114922.0,8123411.0,1,0,001sky,,,"As a point of history, this may be of interest<p><a href=""https://en.wikipedia.org/wiki/Plausible_deniability"" rel=""nofollow"">https://en.wikipedia.org/wiki/Plausible_deniability</a><p><i>Plausible deniability is a term coined by the CIA in the early 1960s to describe the withholding of information from senior officials in order to protect them from repercussions in the event that illegal or unpopular activities by the CIA became public knowledge.</i><p>You are dealing with purposeful behaviour. One mans &",
+34,8123823,comment,8113889.0,8114212.0,2,0,speeder,,,"It was fixed from 1994 to 1998 if I remember correctly, it became floating after the Asiatic crisis.",1406947044.0
+35,8123822,comment,8120079.0,8120079.0,1,0,147,,,SEEKING WORK - Remote or on-site Chicago near loop.<p>I WILL BUILD YOUR MVP FOR YOU.<p>I have 3.5 years of Ruby on Rails experience and 2.5 years of Clojure. I like working with SaaS and building MVP&,
+36,8123821,comment,8122171.0,8122396.0,1,0,ishansharma,,,Thank you for the link. I was wandering why would a site write about an app but not link to it?,1406947000.0
+37,8123820,story,,,3,8,cmstoken,Ask HN: How to get motivated to code?,,"Hello HN,<p>I haven&",
+38,8123819,comment,8123450.0,8123450.0,1,0,freeslugs,,,Omg! wow this is insane. nice job guys! :),1406946874.0
+39,8123818,comment,8123436.0,8123767.0,1,0,jnbiche,,,"I agree.  When I see &quot;hacker proof&quot;, I usually assume it&",
+40,8123817,comment,8123520.0,8123745.0,3,0,flaviojuvenal,,,"Django 1.3 or lower. Django uses PBKDF2 [1] since 1.4 (March 23, 2012) [2].<p>[1] <a href=""https://docs.djangoproject.com/en/1.5/topics/auth/passwords/",
+41,8123816,comment,8114879.0,8123775.0,2,0,obituary_latte,,,">“When I wanted to flap, I’d put my hands in my pockets. I think I came up with that on my own. It was frustrating for those two years. It was like smiling and then someone telling you that you shouldn’t smile, that smiling was wrong. Remembering to put my hands in my pockets made me less excited because I had to think about it so much. But as time goes on, you get in the habit. So by the time I was 10 or 11, I wasn’t even feeling the urge to flap.”<p>I didn&",
+42,8123815,comment,8123036.0,8123036.0,1,0,jcliff,,,loved the dial up modem one. what a throwback.,1406946788.0
+43,8123814,comment,8123436.0,8123753.0,1,0,the_decider,,,"Ideally, one would combine the protocol with some sort of address exchange criteria. You hold an address with $100 worth of bitcoins. The coffee costs $2. The coffee shop holds an address with $98 worth of bitcoins. You initiate the transaction, effectively swapping the addresses and paying for the coffee. Of course, this presupposes a preset group of prepaid addresses. But what is to stop ys from generating hundreds of prepaid addresses (other than the required finances of course), each ranging from say $50 to $120, and promoting their their general circulation, for the purposes of easier exchange?",1406946757.0
+44,8123813,comment,8123319.0,8123731.0,1,0,johnnyb9,,,"There were probably other deciding factors beyond economics, such as carbon footprint.",1406946687.0
+45,8123812,comment,8123450.0,8123797.0,2,0,tptacek,,,He&,
+46,8123811,comment,8117432.0,8118298.0,2,0,mschuster91,,,"Oh, believe me, I&",
+47,8123810,comment,8122955.0,8123162.0,1,0,sixQuarks,,,"now, this is a much better worded question.  I stand corrected, the question is not stupid.  The scenario was not the best one.",1406946586.0
+48,8123809,comment,8120973.0,8122154.0,4,0,jnbiche,,,I didn&,
+49,8123808,comment,8120975.0,8122043.0,1,0,lazylizard,,,"imo, the dark knight is a good movie despite it being a comic book superhero movie. v for vendetta too.",1406946514.0
+50,8123806,comment,8123436.0,8123767.0,1,0,eximius,,,time based leads to logistical problems. &,
+51,8123805,comment,8123152.0,8123602.0,2,0,walterbell,,,Does only the one-time signalling handshake go to a TCP node (NAT hole punching) or does all traffic?  Are these TCP nodes similar to Skype &quot;super-peers&quot; - how are they selected?<p>Virtually all consumers are behind NAT devices.,1406946409.0
+52,8123804,comment,8123152.0,8123721.0,1,0,notsecure,,,"The website should be completely functional with JS disabled (and it is for me), what issues do you get?<p>Note: I&",
+53,8123803,comment,8114879.0,8122620.0,2,0,Maken,,,I can&,
+54,8123802,comment,8121763.0,8122796.0,1,0,cma,,,Everyone seems to go out of their way to have their skybox code screw up 3dVision.,1406946364.0
+55,8123801,comment,8114879.0,8122695.0,4,0,craigching,,,I have been through concerns about autism with my son who is now three.  My wife and I have had long conversations about it.  My attitude has always been &quot;let&,
+56,8123800,comment,8122979.0,8123208.0,2,0,anigbrowl,,,I&,
+57,8123799,comment,8120070.0,8122402.0,1,0,hijinks,,,"Its not really killing anything its just migrating to devops..  If you are the just i rake and stack servers.. ya its harder and harder to find a job. If you are more the devops linux admin type then its extremely easy to find a job. My advice, don&",
+58,8123798,comment,8121484.0,8121484.0,1,0,AjithAntony,,,Does Chrome on Mac have smooth scrolling?   Chrome on Windows does not.  I assume the scrolling animation designs are only popular becuase it looks pretty on the macs that the designers are using to create them.,1406946210.0
+59,8123797,comment,8123450.0,8123749.0,4,0,AgentConundrum,,,"I believe this is what tptacek is referring to: <a href=""https://news.ycombinator.com/item?id=8104407"" rel=""nofollow"">https://news.ycombinator.com/item?id=8104407</a>",1406946196.0
+60,8123796,story,,,1,0,walkerLot,Americans fear pandemic as Ebola patients evacuate to Atlanta ,,,
+61,8123795,story,,,1,0,zvanness,Hostile media effect,http://en.wikipedia.org/wiki/Hostile_media_effect,,1406946172.0
+62,8123794,comment,8120824.0,8121414.0,1,0,thwarted,,,"Is this why you see a lot of web pages that are some mid-shade grey background with another mid-shade grey text, resulting in extremely low contrast and increased difficulty in reading?",1406946165.0
+63,8123793,story,,,2,0,sew,Three myths about the brain,http://www.nytimes.com/2014/08/03/opinion/sunday/three-myths-about-the-brain.html?hp&action=click&pgtype=Homepage&module=c-column-top-span-region&region=c-column-top-span-region&WT.nav=c-column-top-span-region,,1406946158.0
+64,8123792,story,,,12,5,georgem12,Ask HN: How would you design a reporting API? How would you research it?,,I&,
+65,8123791,comment,8123319.0,8123731.0,1,0,anigbrowl,,,I doubt they&,
+66,8123790,story,,,5,1,lettergram,Motoric cognitive risk syndrome,http://www.neurology.org/content/early/2014/07/16/WNL.0000000000000717.short?sid=20996e9a-9642-4870-b1fe-c7f1926407fc,,1406946054.0
+67,8123788,comment,8118696.0,8122181.0,2,0,coolsunglasses,,,I&,
+68,8123787,comment,8121454.0,8121454.0,4,0,cheez,,,Here is to another 30 years of Emacs.,1406945993.0
+69,8123786,comment,8123563.0,8123563.0,2,0,pktgen,,,"> When Alex Pineda’s bosses decided their employees could work wherever they wanted, the web developer didn’t park his laptop at home or at the neighbourhood coffee shop. He left for Paris.\n> “If it doesn’t really matter where I am,” he figured, “then why am I in my own apartment instead of a place in Europe?”<p>What are the legal implications of this? Technically, this would mean this guy&",
+70,8123785,comment,8123520.0,8123741.0,8,0,jeffbryner,,,"It was requested in <a href=""https://bugzilla.mozilla.org/show_bug.cgi?id=932869"" rel=""nofollow"">https://bugzilla.mozilla.org/show_bug.cgi?id=932869</a>",1406945916.0
+71,8123784,comment,8122197.0,8122197.0,1,0,chazu,,,Saved as toread. Just wanted to say I love the title.,1406945874.0
+72,8123783,comment,8121340.0,8121740.0,1,0,ulisesrmzroche,,,I was gonna say something similar but you said it best. Moving to a lower cost city is actually a competitive advantage because the scope of the project determines its pricing.,1406945852.0
+73,8123782,comment,8114879.0,8123656.0,6,0,gliese1337,,,Ditto. I&,
+74,8123781,comment,8123520.0,8123638.0,15,0,jvehent,,,"A process failed, and the DB dump that is published to help contributors improve the MDN site got out unsanitized. The sanitization/publication process will be redesigned to include stricter controls. For now, it is shut down.<p>MDN has been using persona for a while now, meaning that most accounts don&",
+75,8123780,comment,8122171.0,8122171.0,2,0,sivanmz,,,Why does it need to upload all my data and track my location on their server?,1406945732.0
+76,8123779,comment,8113889.0,8123675.0,1,0,TheOtherHobbes,,,I&,
+77,8123778,comment,8123319.0,8123731.0,2,0,fancyketchup,,,"The article did say that the ice is kept below ground.  Perhaps, if it <i>is</i> economically efficient, it is because below-grade real estate is less valuable?  I&",
+78,8123777,story,,,2,0,ashwin_kumar,"Leanpub – Publish Early, Publish Often",https://leanpub.com/,,1406945659.0
+79,8123776,comment,8123520.0,8123738.0,4,0,ygjb,,,"also the feature was built a long time ago.<p>current standards for sites not using persona are here: <a href=""https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines"" rel=""nofollow"">https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines</a>",1406945648.0
+80,8123775,comment,8114879.0,8114879.0,4,0,craigching,,,"I debated posting this, but there is one part of the article that really resonated with me:<p><i>I asked him if there was anything he missed about being autistic. “I miss the excitement,” he said. “When I was little, pretty often I was the happiest a person could be. It was the ultimate joy, this rush in your entire body, and you can’t contain it. That went away when my sister started teasing me and I realized flapping wasn’t really acceptable.</i><p>I have a son that &quot;flaps&quot; and we have been concerned about autism for about a year and a half now, since he turned two.  He has <i>some</i> autism signs, but our developmental ped says not the <i>classic</i> signs.  He can do eye contact, he is social, but he didn&",
+81,8123774,comment,8122883.0,8123054.0,2,0,akg_67,,,"IMO this is the most realistic and cost effective solution to problem. Most restaurant  POS systems that handles reservation, seating and billing should be able to provide needed info.<p>Any RFID or sensor base system will be complex, cumbersome and costly. Any passive sensor will require manual scanning. Any active sensor system with receiver will be expensive specially for restaurant with large seating area.<p>Another option may be an incentive based passive RFID sticker. A guest receives a sticker upon arrival and gets some sort of incentive/reward on scanning the sticker at exit. Then you can capture the time in the restaurant or on the table.",1406945632.0
+82,8123773,story,,,2,0,lettergram,NASA: Engine Using Microwaves Bouncing in a Closed Container Works,http://ntrs.nasa.gov/search.jsp?R=20140006052,,1406945627.0
+83,8123772,comment,8114879.0,8123117.0,8,0,mcphilip,,,I just wanted to say thank you for writing this up.  My sister has Downs Syndrome and is very low functioning.  She blossomed into a really happy and loving individual once our family stopped focusing mainly on &,
+84,8123770,story,,,6,1,lonre,Matz: My vague plan for Ruby GIL,https://twitter.com/yukihiro_matz/status/495219763883163648,,1406945523.0
+85,8123769,story,,,1,0,3dprinting,Da vinci 1.0 3D printer is being given away,http://www.3dprintingforum.org/threads/293-A-Da-Vinci-1-0-3D-Printer-Giveaway!,,1406945485.0
+86,8123768,comment,8123022.0,8123370.0,1,0,dang,,,Thank you. Burying this one as a dupe.,1406945433.0
+87,8123767,comment,8123436.0,8123436.0,2,0,roganartu,,,Call it knee-jerk but I personally dislike systems that refer to themselves as hacker proof. I can&,
+88,8123766,comment,8122911.0,8122911.0,1,0,chandika,,,Awesome! Also - wouldn&,
+89,8123764,comment,8120085.0,8120085.0,1,0,blahshaw,,,"Location: Portland, OR<p>Remote: I&",
+90,8123763,comment,8120085.0,8122127.0,1,0,justplay,,,I like your attitude,1406945282.0
+91,8123762,story,,,23,2,luu,Design and layout of a quadcopter control board (2012),http://jennerhanni.net/2012/03/quadcopter-control-board/,,1406945274.0
+92,8123760,comment,8122995.0,8123459.0,1,0,jonmrodriguez,,,Completely agree.  My grandma is afraid of driving & flying but she loves to watch travel TV shows.  I think a VR headset with travel content would be great for people like her and would really improve her quality of life.,1406945266.0
+93,8123759,comment,8121340.0,8121340.0,1,0,hijinks,,,I&,
+94,8123758,comment,8117348.0,8118343.0,1,0,Natsu,,,"Exactly right.  If 1% of 100 patents are bad, there&",
+95,8123757,comment,8114879.0,8122963.0,2,0,Jupe,,,"Having kids is a gamble. Having a child diagnosed with Autism (as my won was at the age of 2) is a gamble as well. We lost the first bet, but like you, seem to be doing better on the second one.<p>We (my wife and I) wagered nearly everything - our financial resources, career changes, intense daily effort for years, endless therapies (PLAY, ABA, RDI, OT, PT, Aqua, you name it), and the gamble has &quot;paid off&quot;. Upon first meeting few would pick up on our son&",
+96,8123756,comment,8123450.0,8123616.0,11,0,oniTony,,,"> for fear of &quot;FuckItDB&quot; appearing in an exception call trace that a client might see.<p>Just wrap it with FuckIt.py (previously discussed at <a href=""https://news.ycombinator.com/item?id=6858855"" rel=""nofollow"">https://news.ycombinator.com/item?id=6858855</a> ) &quot;to make sure your Python code runs whether it has any right to or not&quot;",1406945092.0
+97,8123755,comment,8121652.0,8123412.0,1,0,brendano,,,What does derivative work mean?  Why is a graph or data summary not a derivative work?,1406945001.0
+98,8123754,comment,8122979.0,8123409.0,0,0,bronson,,,"Unfortunately, Google disagrees with you.  They&",
+99,8123753,comment,8123436.0,8123436.0,1,0,eximius,,,"Really interesting and great work, but it by no means solves the &",
+100,8123752,comment,8114879.0,8123126.0,1,0,craigching,,,"Not that I disagree with there being operant conditioning going on, but &quot;tldr operant conditioning&quot; does not sum up that article <i>at all</i>.  Also, not that I agree that with the downvotes, but I do think that &quot;how you train a puppy&quot; isn&",
+101,8123751,story,,,1,0,hari_sem3,"Ecommerce is evolving, and not the way you think it is",https://medium.com/@Semantics3/e-commerce-is-evolving-and-not-the-way-you-think-it-is-f16bfca6470b,,1406944883.0
+102,8123749,comment,8123450.0,8123695.0,2,0,tptacek,,,Track down what &,
+103,8123748,comment,8123152.0,8123341.0,6,0,dredmorbius,,,"&quot;Secure&quot; is a lot of things.<p>&quot;Secure against bulk surveillance&quot; is a big push in a lot of areas, it&",
+104,8123747,comment,8123520.0,8123741.0,4,0,jvehent,,,It&,

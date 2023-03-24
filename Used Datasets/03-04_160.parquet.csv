@@ -1,0 +1,141 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6209868,comment,6209121.0,6209831.0,10,0,markdotto,,,"True, we could be louder about that. I&",
+1,6209867,comment,6209569.0,6209861.0,1,0,jlgreco,,,"Except scooters are wildly more practical than Segways, and a pneumatic tube at the proposed scale simply doesn&",
+2,6209866,comment,6208121.0,6208121.0,2,0,mikegagnon,,,"This work does a great job espousing the Visual Information-Seeking Mantra: &quot;Overview first, zoom and filter, then details-on-demand,&quot; a cornerstone of effective visualization . <a href=""http://www.infovis-wiki.net/index.php/Visual_Information-Seeking_Mantra"" rel=""nofollow"">http://www.infovis-wiki.net/index.php/Visual_Information-See...</a>",1376452734.0
+3,6209865,comment,6209767.0,6209767.0,3,0,oofabz,,,"I use GNU Parallel. I like it because its interface is simple - input is piping filenames to it, just like xargs, and output is nicely collated to the screen.<p>I used to use ppss, which does the core task just as well, but the interface is more complex.<p>I mostly use these tools to optimize large numbers of PNGs before deployment, using optipng, pngout, and/or my own lossypng. These programs take a while to run so using all my cores gets the job done a lot quicker.",1376452699.0
+4,6209864,comment,6203805.0,6209761.0,7,0,darkmighty,,,Pseudoscience? Here?<p>Placebo pills seem a lot less time consuming than the suggested above...,1376452688.0
+5,6209863,comment,6208823.0,6209819.0,1,0,keda,,,ah. cool. I remember seeing it somewhere. thanks for the tip.,1376452645.0
+6,6209862,story,,,1,0,faireal112,Y Combinator: Bookmarklet,http://ycombinator.com/bookmarklet.html,,1376452486.0
+7,6209861,comment,6209569.0,6209621.0,1,0,justin66,,,> The proposed Hyperloop&,
+8,6209860,comment,6208419.0,6208419.0,6,0,MichaelMoser123,,,I did not understand the &,
+9,6209859,comment,6208823.0,6209828.0,1,0,jacques_chester,,,Here&,
+10,6209858,comment,6205540.0,6205540.0,1,0,ababab,,,"I have no affiliation, but I&",
+11,6209857,comment,6208419.0,6209749.0,1,0,foobarbazqux,,,"If I give you Tivoized BSD code, this is open source but not free software, at least since GPLv3.",1376452447.0
+12,6209856,comment,6209569.0,6209662.0,5,0,marshray,,,Musk&,
+13,6209855,comment,6208967.0,6209174.0,1,0,eugenez,,,"They should all be back now. If not, trouble you to post the app IDs?",1376452425.0
+14,6209854,comment,6209767.0,6209767.0,13,0,rcthompson,,,i use GNU parallel exclusively in place of xargs simply because it has --dry-run.,1376452397.0
+15,6209853,comment,6207622.0,6208248.0,2,0,localhost,,,The Jawbone Up bracelet figures out when I&,
+16,6209852,comment,6208121.0,6209800.0,1,0,bryang,,,If only they did this for Pixar films and then you could&,
+17,6209851,comment,6208967.0,6209354.0,1,0,eugenez,,,"Both of these are back, just verified.",1376452362.0
+18,6209850,comment,6209015.0,6209015.0,2,0,Patrick_Devine,,,It&,
+19,6209849,comment,6208121.0,6209755.0,1,0,bryang,,,Interesting points you bring up.... I&,
+20,6209848,comment,6201586.0,6209700.0,1,0,tempestn,,,This is covered in some detail in the proposal.  The capsules will be able to stop in the event of an emergency without hitting capsules in front or crushing passengers.,1376452285.0
+21,6209847,comment,6209569.0,6209569.0,4,0,thufry,,,Predictions of technology from long ago just aren&,
+22,6209846,story,,,1,0,kunle,Fukushima Radiation Affecting Americans And Theres No Way To Stop It,http://elitedaily.com/news/world/breaking-news-fukushima-radiation-affecting-americans-and-theres-no-way-to-stop-it/,,1376452150.0
+23,6209845,comment,6209689.0,6209689.0,2,0,mmaunder,,,Cashflow.,1376452147.0
+24,6209844,comment,6209613.0,6209692.0,5,0,VladRussian2,,,what is protection from &quot;pump and dump&quot; here? He isn&,
+25,6209843,comment,6207230.0,6207547.0,0,0,ricardobeat,,,Why do you feel node modules are a hack? They are part of node.js core and have very well-defined behavior. Most developers prefer them over the proposed `import` syntax in ES6.<p>I have nothing but praise for NPM - it&,
+26,6209842,comment,6201495.0,6208565.0,1,0,lsc,,,">Let me tell you who the savers are: mostly retirees (401k), elderly people who use their life savings to pay the bills, etc, and others like successful businessmen who just want to save. I just don&",
+27,6209841,comment,6208419.0,6209301.0,3,0,statusgraph,,,This is exactly GCC&,
+28,6209840,comment,6208078.0,6208631.0,3,0,krichman,,,"What the fuck, NSLs have taken down the first and fourth amendments and are turning towards the third.",1376452058.0
+29,6209839,comment,6208078.0,6209779.0,1,0,SoftwareMaven,,,If somebody sells me a service saying they can&,
+30,6209838,comment,6208419.0,6209820.0,1,0,foobarbazqux,,,"It has to be &quot;GPL-compatible&quot; though, which means whoever you give it to can convert it to the GPL by adding the extra conditions of the GPL to it.",1376452002.0
+31,6209837,comment,6208121.0,6209776.0,1,0,bryang,,,Definitely a good comparison....<p>And it will be an odd thing though when you have a coffee table with an ipad instead of books... I think that&,
+32,6209836,comment,6208967.0,6209322.0,1,0,chrisblizzard,,,Apparently I lied here.  Now it should be restored.,1376451957.0
+33,6209835,comment,6209689.0,6209689.0,7,0,mikeknoop,,,"There is good advise in this list. But I also know counter-examples from &quot;successful&quot; startups for many of the points.<p>Given that, I&",
+34,6209834,comment,6209576.0,6209576.0,1,0,e3pi,,,"&quot;[The subpoena] is extremely broad and onerous....While the [Department of Financial Services] says they want to have a conversation with the industry, their actions speak the language of aggressive litigation.&quot;<p>Sets that expected tone of heavy handed future `presumed guilty&",
+35,6209833,comment,6208078.0,6208078.0,3,0,vpeters25,,,I&,
+36,6209832,comment,6207622.0,6207937.0,1,0,Yhippa,,,You&,
+37,6209831,comment,6209121.0,6209813.0,5,0,joeblau,,,Is there a way to communicate that to users better?  I don&,
+38,6209830,story,,,1,0,jpatel3,Herschel Discovers Infrared Light,http://www.theopencurriculum.org/resources/599/,,1376451905.0
+39,6209829,comment,6208967.0,6209816.0,1,0,chrisblizzard,,,"OK, thanks.  As of a couple of minutes ago we finished running the last job to restore the IDs.  If you can still find one that&",
+40,6209828,comment,6208823.0,6209609.0,1,0,hueyp,,,Can you include a sample of a template with your custom directive?  I&,
+41,6209826,comment,6209689.0,6209801.0,2,0,franz12,,,Question is whether that corner cafe falls into the category of a startup or not.,1376451842.0
+42,6209825,comment,6208419.0,6208871.0,1,0,rickjames28,,,The only thing you have a say in is code that you have copyright on.,1376451839.0
+43,6209824,comment,6208681.0,6208681.0,4,0,FurrBall,,,A 50% pay increase? Go for the money.<p>Don&,
+44,6209823,comment,6208967.0,6209615.0,1,0,chrisblizzard,,,These should now be restored.  Can you double check for us?,1376451830.0
+45,6209822,comment,6206625.0,6208063.0,3,0,mattwrench,,,My suggestion for all non-fiction writing is On Writing Well by William Zinsser. It&,
+46,6209821,comment,6209689.0,6209801.0,6,0,jfarmer,,,He&,
+47,6209820,comment,6208419.0,6209580.0,1,0,rickjames28,,,"<i>You have to license any code that links with GPL code under the GPL. This does not prevent you from dual-licensing your own portion of the code base, or shipping non-GPL, non-linked code as part of the same product (Although in the case of things like DLL plugins it gets a bit hazy)</i><p>Actually, that&",
+48,6209819,comment,6208823.0,6209805.0,2,0,zakj,,,"Due to <a href=""https://github.com/angular/angular.js/commit/5599b55b"" rel=""nofollow"">https://github.com/angular/angular.js/commit/5599b55b</a>, you&",
+49,6209818,comment,6208967.0,6208967.0,3,0,eugenez,,,"Hi, I work at Facebook along with Chris. All of the accounts and apps should now be restored. If any are not (and were disabled between 3pm and 5pm PST today), please let me know the app ID and I will investigate. My sincere apologies this happened - we are looking into ways of making sure this cannot happen again.",1376451748.0
+50,6209816,comment,6208967.0,6209783.0,1,0,alexkehayias,,,I put them in the comments as you suggested. The main one was just restored 288731291242658. I don&,
+51,6209815,comment,6207230.0,6209383.0,1,0,ricardobeat,,,A closure. That&,
+52,6209814,story,,,2,0,bobwaycott,Apple acquires Matcha.TV,http://blogs.wsj.com/digits/2013/08/13/apple-acquires-matcha-tv/tab/print/,,1376451616.0
+53,6209813,comment,6209121.0,6209312.0,14,0,markdotto,,,v3 will ship with a v2-ish theme that you can optionally enable.,1376451611.0
+54,6209812,comment,6194563.0,6195762.0,2,0,seagreen,,,"Just wanted to let you know that this comment of yours from last year was a huge help: <a href=""https://news.ycombinator.com/item?id=4476649"" rel=""nofollow"">https://news.ycombinator.com/item?id=4476649</a><p>Thanks!",1376451563.0
+55,6209811,comment,6208419.0,6209693.0,9,0,cperciva,,,"<i>Before the GPL life was nasty, brutish and short.</i><p>... never mind that GNU was around for 6 years, and BSD was around for 12 years before the GPL was published.",1376451559.0
+56,6209810,comment,6175205.0,6175374.0,1,0,rdl,,,"New York is probably even stronger than the Bay Area for this kind of service, but there are entrenched competitors there.<p>College campuses, big industrial parks, and maybe military bases would be my next pick after NYC and SFBA.  Another interesting market might be events -- during Sturgis, or Oshkosh, or other vents, running something like Instacart would work, while it wouldn&",
+57,6209809,comment,6201082.0,6207965.0,2,0,devinhalladay,,,That&,
+58,6209808,comment,6209121.0,6209574.0,6,0,ethanbond,,,I don&,
+59,6209807,comment,6209713.0,6209788.0,3,0,bryanh,,,"<a href=""https://github.com/html5lib/html5lib-python/issues/105"" rel=""nofollow"">https://github.com/html5lib/html5lib-python/issues/105</a> seems to imply that such a thing is possible. I am unsure about the requirement for lxml. I was under the impression that lxml is an optional walker, the default is the slower pure python walker.",1376451454.0
+60,6209806,comment,6201586.0,6209596.0,2,0,VladRussian2,,,"You are right, my bad with the low pressure speed of sound . Anyway the high transonic flow isn&",
+61,6209805,comment,6208823.0,6208823.0,2,0,keda,,,"Interesting enough, looks like there are changes to routeProvider that&",
+62,6209804,comment,6173358.0,6173358.0,1,0,rdl,,,I&,
+63,6209803,comment,6206417.0,6208723.0,-2,0,forrestthewoods,,,A whole $2 a month! You&,
+64,6209802,story,,,4,0,owenwil,Android is better? Not if you look deeper,http://owened.co.nz/android-is-better-not-if-you-look-deeper?beta=1,,1376451266.0
+65,6209801,comment,6209689.0,6209689.0,24,0,beachstartup,,,"> If it doesnt augment the human condition for a huge number of people in a meaningful way, its not worth doing.<p>this is the kind of arrogance i find disheartening about these kinds of lists.  really - things aren&",
+66,6209800,comment,6208121.0,6209332.0,1,0,alanctgardner2,,,I wasn&,
+67,6209799,comment,6207950.0,6208984.0,1,0,yk_42,,,Is there an obvious trick to 8a that I&,
+68,6209798,comment,6205271.0,6205555.0,1,0,bostonvaulter2,,,That was only opened 6 days ago. Seems premature to be complaining about it.,1376451114.0
+69,6209797,story,,,1,0,IndianGuru,Sinatra: Some Questions from Ruby Newbies,http://rubylearning.com/blog/2013/08/14/sinatra-some-questions-from-ruby-newbies/,,1376451094.0
+70,6209796,comment,6208419.0,6208901.0,1,0,pydave,,,> Both terms encompass both copyleft and non-copyleft (all-permissive) licensing.<p>Then what&,
+71,6209795,comment,6208121.0,6209101.0,2,0,alanctgardner2,,,You&,
+72,6209794,comment,6208831.0,6208831.0,1,0,mugenx86,,,From Ichan&,
+73,6209793,comment,6206417.0,6209763.0,1,0,vinceguidry,,,You said your approach was to &quot;make a bunch of movies for not a lot of money.&quot; No one&,
+74,6209792,comment,6209613.0,6209692.0,8,0,voltagex_,,,"There is something very, very wrong with the world.",1376450819.0
+75,6209791,comment,6207131.0,6209592.0,1,0,mindcrime,,,"Aaah, I see.  Not sure if the page was updated, or if I overlooked that bit. But at any rate, it&",
+76,6209790,comment,6209613.0,6209613.0,0,0,yuhong,,,I hope more CEOs and other executives do this too.,1376450794.0
+77,6209789,comment,6205171.0,6209716.0,1,0,geuis,,,I&,
+78,6209788,comment,6209713.0,6209721.0,2,0,voltagex_,,,"From a quick glance, it looks like you&",
+79,6209787,story,,,1,0,mxpatel29,"Dear Project Manager, I Hate You",http://blog.raavel.com/2013/08/13/project-manager/,,1376450755.0
+80,6209786,comment,6205126.0,6208969.0,2,0,nadabu,,,Why would you have no idea? If you&,
+81,6209785,comment,6209569.0,6209569.0,3,0,_ZeD_,,,should I mention futurama?,1376450719.0
+82,6209784,comment,6208603.0,6209765.0,5,0,greglindahl,,,"blekko attempted to implement crawling a local copy, and it was a PITA. We&",
+83,6209783,comment,6208967.0,6209748.0,1,0,chrisblizzard,,,Do you have some app ids so I can go and see what&,
+84,6209782,comment,6208967.0,6209739.0,1,0,chrisblizzard,,,The short term plan was to make sure that we got developers up and running again.  I know for a fact we&,
+85,6209780,story,,,4,1,yapcguy,Larry Ellison: Google's Larry Page acted 'evil',http://news.cnet.com/8301-1023_3-57598279-93/oracles-larry-ellison-googles-larry-page-acted-evil/,,1376450515.0
+86,6209779,comment,6208078.0,6208251.0,1,0,rossjudson,,,I don&,
+87,6209778,comment,6208603.0,6209206.0,2,0,jjwiseman,,,"There are at least 2.5M English wikipedia pages indexed in the crawl:<p><pre><code>  $ cci_lookup org.wikipedia.en | wc -l\n  2516956\n</code></pre>\n(See <a href=""https://github.com/wiseman/common_crawl_index"" rel=""nofollow"">https://github.com/wiseman/common_crawl_index</a>, but note that the index is incomplete.)",1376450495.0
+88,6209776,comment,6208121.0,6209587.0,2,0,pauldino,,,It&,
+89,6209775,comment,6207649.0,6208477.0,3,0,joshrivers,,,"This.<p>Kids watch adults to learn the adult behaviors that lead to safety, community, and procreative success. If the only lesson they ever learn is that their behavior when bored is the center of the universe, they are going to have a hard time as adults.<p>Around your children, you should behave in a way that is reasonable and ethical and safe for an adult to behave. You should also make it your first and highest priority that they don&",
+90,6209774,comment,6208419.0,6208419.0,8,0,stox,,,"Be glad for the rise of Clang/LLVM. When there is a serious competitor, quality will stay higher and the projects will evolve faster. ie. Clang will force gcc to become better. gcc will force Clang to become better. End result, we all WIN!",1376450430.0
+91,6209773,comment,6203805.0,6208904.0,1,0,bostonvaulter2,,,Did you eventually get better at typing on the Kinesis?,1376450413.0
+92,6209772,story,,,2,0,happyman,x265 Project Announcement,http://forum.doom9.org/showthread.php?t=168301,,1376450328.0
+93,6209771,comment,6207230.0,6209756.0,1,0,rdtsc,,,Yeah I agree with Ryan&,
+94,6209770,comment,6208603.0,6209725.0,2,0,boyter,,,To be honest a simple crawler is a very simple thing to write. If someone had issues getting that going I think they are going to have issues with the data volume anyway. LisaG answered why the 3 million data set though and I agree with the reasoning.,1376450312.0
+95,6209769,comment,6208078.0,6209367.0,1,0,ceol,,,<i>> Thats a huge stretch and abuse of logic IMHO. Don&,
+96,6209768,story,,,2,0,lostbit,Evernote and Telefonica announce global partnership,http://blog.evernote.com/blog/2013/08/13/evernote-and-telefonica-announce-global-partnership/,,1376450275.0
+97,6209767,story,,,100,28,vsbuffalo,GNU Parallel  The command line power tool,http://www.slideshare.net/fscons/gnu-parallel-ole-tange,,1376450254.0
+98,6209766,comment,6208603.0,6209678.0,2,0,boyter,,,"Fair point and makes sense. If you publish the rank along with the data itself that would be very useful. Perhaps having a few sets of data? 3 million top pages, 3 million deep pages etc...<p>Personally I would like to see around 20-100 million pages or whatever is about 500-1000GB. That&",
+99,6209765,comment,6208603.0,6209435.0,4,0,gojomo,,,"Yes and no.<p>Some crawlers are most interested in freshest versions of the most inlinked articles, or in the exact HTML presentation at Wikipedia.<p>The monthly full raw wikitext dumps don&",
+100,6209764,comment,6209121.0,6209552.0,3,0,jafaku,,,> for developers to build their designs<p>Don&,
+101,6209763,comment,6206417.0,6209680.0,2,0,TylerE,,,"The thing is, if you&",
+102,6209762,comment,6207230.0,6209695.0,2,0,pcunite,,,Wow ... thanks for the info!,1376450168.0
+103,6209761,comment,6203805.0,6205810.0,0,0,read,,,"The most surprising information I discovered curing RSI is:<p><a href=""http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.html"" rel=""nofollow"">http://aaroniba.net/articles/tmp/how-i-cured-my-rsi-pain.htm...</a><p>which recommends<p><a href=""http://www.amazon.com/Mindbody-Prescription-Healing-Body-Pain/dp/0446675156"" rel=""nofollow"">http://www.amazon.com/Mindbody-Prescription-Healing-Body-Pai...</a>",1376450168.0
+104,6209760,comment,6209613.0,6209696.0,3,0,rdl,,,"Thankfully their new 2FA actually looks decent, although presumably you could just go after a known user&",
+105,6209759,comment,6203805.0,6206350.0,1,0,krisc,,,He mentions that in the video. The way Lisps are structured make it simpler for voice recognition.,1376450150.0
+106,6209758,comment,6208121.0,6209052.0,1,0,batgaijin,,,Well I mean he did invent cellular automata.,1376450103.0
+107,6209757,comment,6208419.0,6208738.0,3,0,6ren,,,"gcc 4.2.1 was the last version to use GPLv2. Later versions switched to GPLv3, which the BSD guys couldn&",
+108,6209756,comment,6207230.0,6209411.0,2,0,msutherl,,,> And I don&,
+109,6209755,comment,6208121.0,6208121.0,0,0,bjterry,,,"It is a meme that movies have all settled on using a blue/teal and orange color palette nowadays, but that doesn&",
+110,6209754,comment,6206417.0,6208882.0,3,0,mason55,,,"The tough part about that for the networks is building out the infrastructure and giving up all the free advertising that the cable companies give them.<p>By packaging their content as a standalone service, a la HBO Go, they&",
+111,6209753,comment,6208419.0,6209687.0,2,0,foobarbazqux,,,"In particular, Apple shipped GCC with Darwin.",1376449942.0
+112,6209752,comment,6208681.0,6208681.0,3,0,RogerL,,,"My advice is that it is time to interview them. Why do they do what they do, what are their pain points, are they open to trying X to fix pain point Y, and so on. Interviewing is a two way street, and it may just be how you ended up wording your question, but I don&",
+113,6209751,comment,6208419.0,6209110.0,8,0,ajross,,,"No, it&",
+114,6209750,comment,6207230.0,6208812.0,6,0,msutherl,,,"Yo, the point is that the complexity is there because the well-intentioned and simple underlying systems were not properly scaled to meet the demands of modern applications. At no point does he suggest that you should eschew the tools that are in place to maintain the current complexity  that would be nonsensical, as you pointed out. He&",
+115,6209749,comment,6208419.0,6209110.0,3,0,air,,,That&,
+116,6209748,comment,6208967.0,6208967.0,1,0,alexkehayias,,,FYI this issue still isn&,
+117,6209747,comment,6209613.0,6209613.0,4,0,Aloha,,,"That make me giggle, just the whole mix of twitter and an SEC notice.",1376449849.0
+118,6209746,comment,6208823.0,6208823.0,5,0,dolphenstein,,,"Sipping on my morning coffee and reading HN. First Bootstrap RC2, and now AngularJS 1.2. I&",
+119,6209745,comment,6209121.0,6209285.0,4,0,lubos,,,"<a href=""https://github.com/eternicode/bootstrap-datepicker"" rel=""nofollow"">https://github.com/eternicode/bootstrap-datepicker</a>",1376449754.0
+120,6209744,comment,6209449.0,6209449.0,1,0,TaqPolymerase,,,"Looks awesome, as does 8tracks which I hadn&",
+121,6209743,comment,6206417.0,6209457.0,1,0,mason55,,,<i>> Aren&,
+122,6209742,comment,6205840.0,6206463.0,2,0,voltagex_,,,And flatten the battery on my laptop/phone faster.,1376449732.0
+123,6209741,comment,6208419.0,6208419.0,1,0,hclose,,,It could be nice to cross-compile for OSX/iOS on FreeBSD.  I could do without the Xcode bloat.,1376449717.0
+124,6209740,comment,6201586.0,6202800.0,1,0,nardi,,,"Neon -> 2,090mph<p>Krypton -> 2505mph<p>Xenon -> 2,438mph<p><a href=""http://www.wolframalpha.com/input/?i=speed+of+sound+in+neon"" rel=""nofollow"">http://www.wolframalpha.com/input/?i=speed+of+sound+in+neon</a><p><a href=""http://www.wolframalpha.com/input/?i=speed+of+sound+in+krypton"" rel=""nofollow"">http://www.wolframalpha.com/input/?i=speed+of+sound+in+krypt...</a><p><a href=""http://www.wolframalpha.com/input/?i=speed+of+sound+in+xenon"" rel=""nofollow"">http://www.wolframalpha.com/input/?i=speed+of+sound+in+xenon</a><p>But even Neon (which is more abundant in the atmosphere than Helium) would cost ridiculous amounts of money to use.",1376449704.0
+125,6209739,comment,6208967.0,6208967.0,1,0,cdcarter,,,"In terms of response, chrisblizzard has done almost a better job than Twilio did last month. Do we expect a full post-mortem, or is that where facebook will fall short?",1376449702.0
+126,6209738,comment,6208419.0,6208961.0,1,0,quinnchr,,,"Ah so if you think you have the right to the fruit of your labor, I assume that means you&",
+127,6209737,comment,6208547.0,6209398.0,1,0,Aloisius,,,Woops. I didn&,
+128,6209736,comment,6205126.0,6209393.0,2,0,nadabu,,,"Yes, code that&",
+129,6209735,comment,6209706.0,6209706.0,1,0,mflindell,,,They must have heard that todays smartphones have the same power as the Apollo computer. I cant wait for the &quot;launch&quot;,1376449603.0
+130,6209734,comment,6204867.0,6204950.0,1,0,DarkStar851,,,"Weird... MICROSOFT.COM.IS.A.STEAMING.HEAP.OF.FUCKING-BULLSHIT.NET, A.STEAMING.HEAP.OF.FUCKING-BULLSHIT.NET won&",
+131,6209733,comment,6208681.0,6208681.0,1,0,goofygrin,,,Some people -- myself included -- think TDD is not a good way to develop software.  And I use SVN and TFS... I&,
+132,6209732,story,,,1,0,tokenadult,A Critique of the Structure of U.S. Elementary School Mathematics (.PDF),http://www.lipingma.net/math/Ma-Critique-March-19-2013.pdf,,1376449474.0
+133,6209731,story,,,1,0,janekk,Clouds with Silver Lining: Freemium Text Analytics,http://blog.datacracker.com/clouds-with-silver-lining-freemium-text-analytics/,,1376449470.0
+134,6209730,comment,6207649.0,6209566.0,1,0,krichman,,,"Haha, how far has society fallen that not being distracted by something is considered out-of-the-ordinary respectful?<p>I agree with you, I think I&",
+135,6209729,comment,6208419.0,6209595.0,4,0,krrrh,,,"Not true. Just see MySQL for one example. Before Oracle bought MySQL AB (for $1 billion) their revenues on commercial support for their largely GPLv2 software was in the tens of millions. The same may already be true for Monty Program AB who provide commercial support for MariaDB. The closer you get to infrastructure, the more being open source is a competitive advantage.",1376449466.0
+136,6209728,comment,6207529.0,6209158.0,1,0,jack-r-abbit,,,"Well, you didn&",
+137,6209727,comment,6208419.0,6208922.0,2,0,gaadd33,,,Why do you feel that? There&,
+138,6209726,comment,6209053.0,6209672.0,2,0,JasonSage,,,"You, sir, just made my night.",1376449311.0
+139,6209725,comment,6208603.0,6209484.0,2,0,frederi,,,Just because you can do it without much effort doesn&,

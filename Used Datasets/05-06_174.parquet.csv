@@ -1,0 +1,109 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9412484,comment,9409934.0,9410930.0,0,0,unholiness,,,That&,
+1,9412483,story,,,2,0,techieinafrica,Report Xenophobic Incidents in South Africa Online,http://reportxenophobia.iafrikan.com,,1429595969.0
+2,9412482,comment,9408626.0,9409906.0,0,0,cbsmith,,,"There is a world of difference between layer-3/4 style load balancers and layer-7 load balancers. If you want to do it right, you often employ both.",1429595952.0
+3,9412481,comment,9409815.0,9412449.0,0,0,rcfox,,,"While C is not an &quot;object-oriented&quot; language, it does have a concept of an object: <a href=""http://port70.net/~nsz/c/c99/n1256.html",
+4,9412480,comment,9408626.0,9410843.0,0,0,cbsmith,,,> It&,
+5,9412478,comment,9395563.0,9395563.0,0,0,U0001f62d,,,This is literal cancer on the tech industry.,1429595854.0
+6,9412477,comment,9411877.0,9412236.0,0,0,StavrosK,,,"> since I use pine, and my engineers at rsync.net also use pine, not one single intra-company email has ever traversed the Internet. Ever.<p>What does the mail client have to do with this? I use Thunderbird with Gmail, and, since all of my contacts use Gmail, not one single email has ever traversed the Internet, ever.<p>With TLS-enabled mail servers, this isn&",
+7,9412476,comment,9409934.0,9410990.0,0,0,surrealize,,,Call me HTML,1429595794.0
+8,9412475,comment,9412157.0,9412395.0,0,0,raverbashing,,,Or splitting it into several files,1429595779.0
+9,9412474,comment,9410968.0,9411788.0,0,0,derefr,,,"I wonder, then, if the levels of myopia and SAD/circadian disruption are correlated. The calibration of one&",
+10,9412473,comment,9409934.0,9412315.0,0,0,korethr,,,I disagree. It&,
+11,9412472,story,,,2,0,xai3luGi,My latest ten months working on G'MIC,http://opensource.graphics/latest-ten-months-working-on-gmic/,,1429595752.0
+12,9412471,comment,9410968.0,9412448.0,0,0,trhway,,,">Getting all children outside for three hours every day is not realistically possible, and wouldn&",
+13,9412470,comment,9408626.0,9412343.0,0,0,cbsmith,,,I&,
+14,9412469,comment,9412157.0,9412157.0,0,0,hkmurakami,,,Definitely not surprised that the author is John Conway (and his coauthor). I took his course on Linear Algebra back in the day -- the man is a veritable real life troll (in a good way),1429595605.0
+15,9412468,comment,9409815.0,9412449.0,0,0,aidenn0,,,C absolutely does have objects.,1429595599.0
+16,9412467,comment,9408881.0,9411115.0,0,0,ReversedGif,,,"Can you find the &quot;programming and layout specs docs,&quot; online or physical copies? I can&",
+17,9412466,comment,9407874.0,9410513.0,0,0,mathattack,,,"I hear you.  There is a distinctly different skill set between &quot;Pushing the boundary of human knowledge&quot; and &quot;Teaching an intro class well.&quot;  Universities and tenure have historically been built on this being a high correlation.  Reality is that sometimes it happens, sometimes not.  Universities need to decouple the teaching from the research.  Some of that is leveraging the best pure teachers available.<p>At my grad school, the joke was that Nobels were more important for admissions than academics.",1429595546.0
+18,9412465,comment,9405284.0,9406859.0,0,0,nness,,,"Which would actually be somewhat helpful, come to think of it...",1429595515.0
+19,9412464,comment,9412224.0,9412381.0,0,0,devnonymous,,,"For the cli, my muscle memory got used to Ctrl+A/Ctrl-E long before I heard of `set -o vi` and that made using the vi-mode in bash cumbersome, so I switched back. YMMV thought. That said, I learned about the `Ctrl+X+Ctrl-E` keybinding and the `fc` command and that has proved to be quite useful.",1429595515.0
+20,9412463,comment,9412442.0,9412442.0,0,0,angersock,,,"Quite agreed. Suggesting that downvotes were appropriate for signalling disagreement instead of civility is one of the few mistakes pg has made on an otherwise excellent site.<p>In the meantime, though, post fearlessly, argue soundly, and hope for the best.",1429595476.0
+21,9412461,comment,9409934.0,9412234.0,0,0,unholiness,,,"I think his point is that we have no idea how long people will enjoy any of the music created today, nor can we really say how much people will be listening to classical music 100 years from now. Music from the 14th century is certainly more battle-tested, but there&",
+22,9412460,comment,9407874.0,9407874.0,0,0,mathattack,,,"Thanks for sharing!<p>Part 1 -> <a href=""http://www.stanforddaily.com/2015/04/15/a-look-at-stanford-computer-science-part-i-past-and-present/"" rel=""nofollow"">http://www.stanforddaily.com/2015/04/15/a-look-at-stanford-c...</a>",1429595414.0
+23,9412459,comment,9411432.0,9412054.0,0,0,Matthias247,,,WAMP and SignalR also come to my mind,1429595411.0
+24,9412458,story,,,1,0,sarahf,"To learn which rapper is the most prolific weed enthusiast, we turned to science",https://medium.com/cuepoint/getting-high-with-data-in-hip-hop-6a0a6da317bb?section=%5Bobject%20Object%5D,,1429595406.0
+25,9412457,comment,9412157.0,9412157.0,0,0,geofft,,,Can someone explain Figure 2 from this paper? (If you didn&,
+26,9412456,comment,9406749.0,9407597.0,0,0,mathattack,,,"This is true.  But even if just 5-10% of the population is DIFM, that&",
+27,9412455,comment,9409423.0,9412427.0,0,0,jschlatter,,,LiteIDE was probably using gdb as a backend. gdb is not a very reliable debugger as of the last few Go releases. Here&,
+28,9412454,comment,9410444.0,9411858.0,0,0,emmelaich,,,"Better would be Augeas.<p><a href=""http://augeas.net/docs/references/lenses/files/ssh-aug.html"" rel=""nofollow"">http://augeas.net/docs/references/lenses/files/ssh-aug.html</a>",1429595316.0
+29,9412453,comment,9408942.0,9410655.0,0,0,imglorp,,,"> An external service will be legally subject to subpoenas, so pawning it off doesn&",
+30,9412452,comment,9412157.0,9412318.0,0,0,Dylan16807,,,"Hmm, I think I would make mine referential.  &quot;Baby shoes&quot;<p>Let 2 words imply 6.",1429595236.0
+31,9412451,comment,9407514.0,9412190.0,0,0,dalke,,,"I have no direct experience of how cowboy, etc. is used, outside of going to the rodeo.<p>The research I did earlier was based on the Wikipedia entry for &quot;cowboy&quot; and verification that it&",
+32,9412450,comment,9410452.0,9411693.0,0,0,dmnd,,,If you add a throttle it might be ok even if there&,
+33,9412449,comment,9409815.0,9412173.0,0,0,Gibbon1,,,An of course plain C does not have &,
+34,9412448,comment,9410968.0,9412129.0,0,0,leoc,,,"Yes. Trying to fix myopia by getting children exposed to more sunlight is a bit of a &quot;let them eat single-source organic asparagus&quot; response: it makes would-be social reformers feel good, but it&",
+35,9412447,comment,9410592.0,9412302.0,0,0,fallinghawks,,,"Given the English language fluency displayed so far, I&",
+36,9412446,comment,9412192.0,9412251.0,0,0,damian2000,,,"No, I&",
+37,9412445,comment,9409934.0,9410828.0,0,0,kordless,,,Ebb and flow.,1429594760.0
+38,9412442,story,,,33,58,robgibbons,Tell HN: Downmodding needs to die,,"Dear HN,<p>I have always considered HN, as a community, to be a place of great insight, interesting viewpoints, and otherwise extremely relevant information. I have enjoyed many conversations, and had even more educational moments, thanks to its users.<p>But we seriously need to talk about the downmods.<p>Downmodding, on its own, is harmless. Allowing users to downmod each other, as a means of curbing abuse, is an invaluable tool: self-policing of users has obvious merits which should be rightly acknowledged. However, downmodding as a means of pure disagreement should be unconditionally banned on Hacker News. The fact that downmodding is an acceptable means of expressing disagreement is a disservice to public commentary. If a comment is relevant and non-abusive, there is no reason it should ever be downmodded.<p>In other words: If you are downmodding out of disagreement, you should not have downmod privileges. If you don&",
+39,9412441,comment,9409934.0,9410535.0,0,0,dasil003,,,"The irony is that a digital information is theoretically lossless, but in practice software and hardware changes so fast that it is one of <i>the</i> most ephemeral things humanity has ever created.<p>So if you got into programming because you wanted to create something lasting, I think you are destined to be disappointed.  But then again, all human endeavor, and indeed everything in our human experience, even the seas and the mountains and the stars are all ephemeral on some time scale.  As the Buddhists say, the temporary nature of things is unavoidable and neutral, it&",
+40,9412440,comment,9410092.0,9411486.0,0,0,seekingcharlie,,,+1 for A Single Man.,1429594644.0
+41,9412439,comment,9409854.0,9412167.0,0,0,mattchamb,,,"Just to note, that even Netflix makes mistakes with global content licencing.\nIn New Zealand (where netflix has recently launched) they have sold the rights to House of Cards so even though they own the content, they cannot stream House of Cards.",1429594593.0
+42,9412438,comment,9409794.0,9412017.0,0,0,burkaman,,,I mean that you need to acknowledge the concept of race. Say you&,
+43,9412437,comment,9409744.0,9412146.0,0,0,dplarson,,,"I think the author revised the figure(s) between the time of the parent comment (by gcr) and your comment. At least, the A * B = C figure&",
+44,9412436,story,,,1,0,xuding,How to market daily your deal site?,http://www.getsimpledeal.com/articles/how_to_market_daily_deal_site,,1429594527.0
+45,9412435,story,,,2,0,amitmittal1993,Elon Musk Planned to Sell Tesla Motors to Google,http://www.craveonline.com/lifestyle/tech-and-gadgets-news/848687-elon-musk-planned-sell-tesla-motors-google,,1429594454.0
+46,9412434,comment,9409934.0,9410535.0,0,0,trustfundbaby,,,"Programmers are indeed like writers, but some of us get to write Beowulf, some others get to write college term papers and the rest of us lie somewhere in between.",1429594418.0
+47,9412433,comment,9408499.0,9410113.0,0,0,richsin,,,"Hey,<p>This sounds like a solid road map. Do you mind giving some insight as to how you learned VBA/Excel enough to consult and where you found your consulting/contractor gigs?<p>Thanks!",1429594385.0
+48,9412432,comment,9409684.0,9412010.0,0,0,Cloudy,,,"The Third Los Angeles is really about how the internet has allowed awareness of otherwise buried treasures of LA to be lost in the noise. The greater Los Angeles area is becoming somewhat what it was intended to be, with the hundreds of surrounding cities converging upon LA as a magnet. Whenever I&",
+49,9412431,comment,9408052.0,9409534.0,0,0,lukaslalinsky,,,The general idea of PPAs is that they are &quot;personal&quot;. You don&,
+50,9412430,comment,9407721.0,9408472.0,0,0,beedogs,,,"> Amazon does 320 kBPS, but it&",
+51,9412429,comment,9410592.0,9412311.0,0,0,curiousDog,,,The income disparity is huge in India. There&,
+52,9412428,comment,9409794.0,9411737.0,0,0,hackuser,,,"> Imprisonment for a crime is not discrimination.<p>I wish it was so. Consider however:<p>* Many laws are and have been discriminatory. For example, laws banning minority activites such as homosexual sex or interracial marriage; laws imprisoning Japanese in WWII or banning forms of political speech in many eras; laws banning peaceful protest during political conventions; laws that penalize poor people&",
+53,9412427,comment,9409423.0,9409423.0,0,0,Rapzid,,,Curious.. I used debugging in LiteIDE a while back and it seemed to work well.  Anyone else using it successfully?,1429594102.0
+54,9412426,comment,9409423.0,9409526.0,0,0,IndianAstronaut,,,What is the difference between the generators in Python vs Go?,1429594081.0
+55,9412425,comment,9409684.0,9409684.0,0,0,sologoub,,,"Much of the rail expansion is rather disappointing. For example in expo phase 2, closer you get to ocean the better spaced the stations are (closer together), but between Bundy and sepulveda, there are no stations and little sane way to go in between, yet Bundy station is less than a mile away from 26th st station.<p>To add insult to injury, I recently followed the much touted bike path that is supposed to connect to existing SM bike paths at 17th street, but the damned thing ends at Cloverfield with no way that I can tell of safely getting to 17th street or anywhere near a designated bike lane. And no, I do not consider it safe to try and ride on Olympic blvd without a protected lane...",1429594072.0
+56,9412423,comment,9411877.0,9411963.0,0,0,nness,,,"Some brainstorming:<p>- Could be used for entrapment, that is to say, could send over potentially criminal information and argue that the user did in fact &quot;receive&quot; it since it was read.<p>- If you could inject your own tracker into someone else&",
+57,9412422,comment,9412397.0,9412397.0,0,0,orangepenguin,,,Maybe I&,
+58,9412421,comment,9408439.0,9411969.0,0,0,wingerlang,,,"Unless the color is random each day, which would make more sense wouldn&",
+59,9412420,comment,9411935.0,9412321.0,0,0,brandonmenc,,,You&,
+60,9412419,comment,9410592.0,9410592.0,0,0,krnaveen,,,Don&,
+61,9412418,comment,9412260.0,9412260.0,0,0,explosion,,,"I wish there was a way to tell which pip installs were done by humans vs. by automated tools. It would be interesting to track what people are doing by hand vs. what machines are doing. I suppose that may be impossible to implement, though.<p>These graphs are very insightful. Thanks for offering us some visibility into the Python package download picture.",1429593942.0
+62,9412417,comment,9412157.0,9412375.0,0,0,anigbrowl,,,Needs motivation.,1429593933.0
+63,9412416,comment,9412192.0,9412192.0,0,0,greenyoda,,,<i>&quot;What I didn&,
+64,9412415,comment,9402093.0,9402229.0,0,0,pbreit,,,What mess? The article confirmed that it&,
+65,9412414,comment,9409684.0,9412010.0,0,0,gamblor956,,,The LA river revitalization project is a decades-long project that just began 4 years ago.  It&,
+66,9412413,comment,9412157.0,9412349.0,0,0,anigbrowl,,,"Yeah, leaving that out of the article makes the whole thing meaningless and pretentious. Frankly I&",
+67,9412411,story,,,2,0,sandeepeecs,"Sleepless in startup: Entrepreneurs succumb to depression, stress",http://economictimes.indiatimes.com/news/emerging-businesses/startups/sleepless-in-startup-entrepreneurs-succumb-to-depression-stress/articleshow/46994961.cms,,1429593647.0
+68,9412410,comment,9411432.0,9411724.0,0,0,girvo,,,"In my experience, yes, pretty much! It&",
+69,9412408,comment,9411408.0,9411408.0,0,0,dschiptsov,,,"I would suggest a small addition -<p><a href=""https://archive.org/details/Sarvepalli.Radhakrishnan.Indian.Philosophy.Volume.1-2"" rel=""nofollow"">https://archive.org/details/Sarvepalli.Radhakrishnan.Indian....</a><p>The first volume, at least.)",1429593515.0
+70,9412407,comment,9408237.0,9411243.0,0,0,neutronicus,,,"Yeah, looking at the PRL, it sounds like they&",
+71,9412406,comment,9411935.0,9412286.0,0,0,nostrademons,,,"Google had (has?) an informal &quot;just for fun&quot; Meyers-Briggs type badge on the Intranet.  Among people who participate, roughly 65% are either INTJ, INTP, or ENTJ, with a further 10% ENTP.  INTJs alone made up about 30% of the company, vs. about 3% of the general population.  Only about 10-15% were an S of any type (vs. about 75% of the population).<p>Yes, there&",
+72,9412405,comment,9411962.0,9412361.0,0,0,downandout,,,"Yes, you must show a Google user the same page that the Googlebot sees or you risk being de-indexed altogether (they&",
+73,9412404,comment,9409934.0,9411186.0,0,0,pjc50,,,I&,
+74,9412403,comment,9410452.0,9411598.0,0,0,flashman,,,I&,
+75,9412402,comment,9408750.0,9412380.0,0,0,ratsz,,,Do elephants have a chin since they use their trunk as an eating utensil?,1429593313.0
+76,9412401,comment,9408237.0,9410906.0,0,0,neutronicus,,,"Nah, if you read the PRL it&",
+77,9412400,comment,9411935.0,9412179.0,0,0,jfoutz,,,You&,
+78,9412399,comment,9408052.0,9410913.0,0,0,stephenr,,,"The suggestion to use `postpone` (by which i assume you mean `postpone --debian` ?) to trigger automatatic updates is very interesting, and led me to look into it further, only to discover it&",
+79,9412398,story,,,166,83,henrik_w,Modern Extreme Programming,http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/,,1429593236.0
+80,9412397,story,,,3,3,kordless,Robot captures glow inside Fukushima,http://www.cnn.com/2015/04/20/asia/japan-fukushima-second-robot/,,1429593233.0
+81,9412396,comment,9407721.0,9409530.0,0,0,Gigablah,,,You probably won&,
+82,9412395,comment,9412157.0,9412349.0,0,0,flashman,,,"Ah, this is like cheating on a compression test by encoding information in the filename.",1429593177.0
+83,9412394,comment,9409681.0,9411410.0,0,0,Synaesthesia,,,LSD could have many therapeutic applications - especially for challenging existing doctrines and with managing addictions. But the government probably didn&,
+84,9412393,comment,9409987.0,9412354.0,0,0,convexfunction,,,"Would you really expect that a large majority of people who are interested in immortality, are interested in it because they <i>don&",
+85,9412392,comment,9408237.0,9411700.0,0,0,neutronicus,,,> (An American antenna expert updated one of the equations around 20 years ago based on his experiments in antenna performance.)<p>What are you talking about?,1429592997.0
+86,9412391,story,,,1,0,moks,Distributed Semaphores with RabbitMQ,https://www.rabbitmq.com/blog/2014/02/19/distributed-semaphores-with-rabbitmq/,,1429592997.0
+87,9412390,comment,9410700.0,9410700.0,0,0,orangepenguin,,,Was expecting some niche variation on RHEL.,1429592958.0
+88,9412389,comment,9409684.0,9412122.0,0,0,smelendez,,,I&,
+89,9412388,comment,9409987.0,9412354.0,0,0,xaver,,,Stockholm syndrome: the secret to happiness ;P,1429592941.0
+90,9412387,comment,9400280.0,9400280.0,0,0,BorisMelnik,,,since the program isn&,
+91,9412386,comment,9410592.0,9411900.0,0,0,cazum,,,Hi MasonLove.<p>My name is Arnold Cosgrove. I&,
+92,9412385,comment,9409854.0,9412360.0,0,0,aidenn0,,,"Oh, I see what you&",
+93,9412384,comment,9412157.0,9412349.0,0,0,acadien,,,Also why didn&,
+94,9412383,comment,9410548.0,9412292.0,0,0,mytochar,,,"Yes, please! Someone with more knowledge on the subject please enlighten us! It looks really cool to me, but I don&",
+95,9412382,story,,,1,1,shadowfax92,Show HN: Simplifying searching on Android - Bean Search,https://play.google.com/store/apps/details?id=in.beanify.beansearch,,1429592597.0
+96,9412381,comment,9412224.0,9412224.0,0,0,laex,,,Learned a new trick from this article - using VI from command shell. I&,
+97,9412380,comment,9408750.0,9408750.0,0,0,keithwhor,,,Would like to point out that we&,
+98,9412379,comment,9379078.0,9380037.0,0,0,manicdee,,,"How sure are you of that?<p>What if it turns out that the brain is only a user interface and hardware abstraction layer to the body, with &quot;you&quot; actually being a colony of microbes living in the body (mainly the gut)?",1429592538.0
+99,9412378,comment,9410592.0,9411900.0,0,0,downandout,,,It&,
+100,9412376,comment,9410592.0,9412340.0,0,0,thaumaturgy,,,Good point.,1429592474.0
+101,9412375,comment,9412157.0,9412318.0,0,0,biot,,,I don&,
+102,9412374,comment,9412157.0,9412318.0,0,0,est,,,For Americans?,1429592455.0
+103,9412373,comment,9405753.0,9405753.0,0,0,reality_czech,,,Most common Y Combinator rejection reasons:<p>1. Facebook is already the best &quot;Facebook for X&quot;.<p>2. The founders are old enough to know better.<p>3. Co-founder looks like an extra from &quot;Wayne&,
+104,9412372,comment,9408750.0,9411952.0,0,0,keithwhor,,,"Having a large / strong jaw and chin is correlated with higher testosterone levels and is a secondary sexual characteristic in males. Higher testosterone levels are correlated with a weakened immune response.<p>So yes, a &quot;manly chin&quot; may very well have been selected for on the basis of showing the strength of the individual by artificially handicapping them (being genetically &quot;rich enough&quot; as you put it).<p>Interestingly, beards act to further emphasize the chin. And we&",
+105,9412371,comment,9410592.0,9412352.0,0,0,thaumaturgy,,,I&,
+106,9412370,comment,9409684.0,9411970.0,0,0,skosuri,,,"I walk 2.5 miles everyday from UCLA to my place in West LA.  That said, everyone looks at me weird.",1429592431.0
+107,9412369,comment,9411877.0,9412074.0,0,0,robgibbons,,,I know first-hand of some recruiters who use email opens as yet another metric to gauge potential candidates. If you open emails but don&,

@@ -1,0 +1,111 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8750735,story,,,4,1,jpgvm,"Why are threads on the hostage situation in Sydney, Australia being flagkilled?",,Similar events are not subjected to this sort of blanket blackout. I don&,
+1,8750734,comment,8749619.0,8750584.0,0,0,arrrg,,,I think that eventually would be measured in centuries or more. If we are able to solve the engineering challenge of terraforming Mars in the first place this kind of continual housekeeping won’t be an issue.,1418619589.0
+2,8750733,comment,8749697.0,8750326.0,0,0,baddox,,,There is nothing ironic about Snowden living in Russia. He&,
+3,8750732,comment,8750354.0,8750691.0,0,0,shriramkmurthi,,,"@taeric, by &quot;the book&quot; do you mean SICP or HtDP? HtDP was used for a few years at Georgia Tech, and then that stopped. There are various views on why. (-:",1418619534.0
+4,8750731,comment,8750363.0,8750580.0,0,0,dorfsmay,,,"Or good Python3 support for that matter, sigh...",1418619507.0
+5,8750730,comment,8750354.0,8750716.0,0,0,shriramkmurthi,,,PLAI&,
+6,8750729,comment,8750309.0,8750519.0,0,0,manacit,,,"To put it bluntly, because I don&",
+7,8750728,comment,8750354.0,8750691.0,0,0,taeric,,,"Fair enough.  And I hasten to add that I do not have any counter evidence.  I think I heard rumors of the book when I was at gatech in the late 90s.  Never took a course in that book, though.  I wasn&",
+8,8750727,comment,8749323.0,8750146.0,0,0,x0x0,,,"you are underestimating the price of that by at <i>least</i> an order of magnitude.  That is one of the biggest reasons people like R.  R also has the notion of NA, which is different than NaN, built into the language.<p>The other huge reason for R adoption is it makes running stat analyses very simple, so for all the people who aren&",
+9,8750726,comment,8749619.0,8750170.0,0,0,protomyth,,,> The point that you&,
+10,8750725,comment,8750210.0,8750532.0,0,0,quotemstr,,,I wish people would stop bringing up mmap as a performance panacea. It&,
+11,8750723,story,,,49,49,kamaal,Bioinformatics and the joy of Perl6,http://perl6advent.wordpress.com/2014/12/15/day-15-bioinformatics-and-the-joy-of-perl6/,,1418619250.0
+12,8750722,story,,,4,2,rk1987,Something is wrong with DNS resolver in Windows update,,All browser takes around 5-10s for &quot;resolving host&quot; while loading any website. Having this in windows 7 but it&,
+13,8750721,comment,8749657.0,8749657.0,0,0,theseanz,,,Dec 94 == freshman year of high school for me. This is definitely going to be a nostalgiafest.,1418619216.0
+14,8750720,story,,,56,10,otoburb,A panoramic tour of Factor,http://andreaferretti.github.io/factor-tutorial/,,1418619213.0
+15,8750719,comment,8748534.0,8748534.0,0,0,abalashov,,,That&,
+16,8750718,comment,8749793.0,8749935.0,0,0,acomjean,,,I&,
+17,8750717,comment,8750391.0,8750391.0,0,0,jajaja123,,,Irrelevant - storage is going to be all-flash pretty soon anyway!,1418619090.0
+18,8750716,comment,8750354.0,8750354.0,0,0,zodiac,,,@shriramkmurthi may I know what license PLAI and PAPL are released under? I couldn&,
+19,8750715,comment,8750670.0,8750670.0,0,0,ooOOoo,,,"Why are there so many unrelated projects named spark?\n- <a href=""https://spark.apache.org"" rel=""nofollow"">https://spark.apache.org</a>\n- <a href=""http://spark.io/"" rel=""nofollow"">http://spark.io/</a>\n- <a href=""http://sparkjava.com/"" rel=""nofollow"">http://sparkjava.com/</a>",1418619086.0
+20,8750713,comment,8750363.0,8750682.0,0,0,andrewstuart,,,This sort of argument is very odd. Amazon can&,
+21,8750712,comment,8732891.0,8747335.0,0,0,hyc_symas,,,You were already losing credibility due to your inattention to detail. I never mentioned performance anywhere in this thread. It&,
+22,8750711,comment,8749922.0,8750504.0,0,0,davidtanner,,,You should figure out exactly where she went wrong in her estimate and email her - I&,
+23,8750710,comment,8750309.0,8750663.0,0,0,gatsby,,,"Yeah, I like Opendoor a lot. They have the potential to build a huge company because there&",
+24,8750708,comment,8750542.0,8750542.0,0,0,ankurdhama,,,"The so called toy problems are &quot;generalization&quot; of many real-world problems. Which means if you could solve these problems efficiently then that (single) algorithm can be used to solve problem in different areas of engineering, physics, biology, chemistry, shipping etc. Ask any of the professional in these areas and the &quot;real world&quot; problem that they would describe are basically NP-complete problem i.e the solution space is huge and the only way they are trying to solve them as of now is using brute force i.e try each possible solution and check if it works or not, which is obviously not an efficient way. Most of the time the problems are kind of optimization problems - &quot;How to use the resources I have to make most of it&quot; OR finding the right combination - &quot;What sort of composition of all the chemicals would produce the desired effect?&quot;<p>Once in a while a breakthrough happen in these areas and some problems are now become simple but that doesn&",
+25,8750707,comment,8750320.0,8750320.0,0,0,forgottenpass,,,"I can sympathize, but shouldn&",
+26,8750706,story,,,1,0,staunch,How Iranian air crews used the F-14 against Iraqi attackers,http://www.airspacemag.com/military-aviation/persian-cats-9242012/?no-ist,,1418618817.0
+27,8750705,story,,,17,5,joeyespo,Identical Twins' Genes Are Not Identical,http://www.scientificamerican.com/article/identical-twins-genes-are-not-identical/,,1418618814.0
+28,8750704,comment,8750309.0,8750679.0,0,0,gatsby,,,"True, all good points. Sama&",
+29,8750703,story,,,2,0,evanb,"Sowing Mayhem, One Click at a Time",http://www.nytimes.com/2014/12/15/business/media/sowing-mayhem-one-click-at-a-time.html,,1418618778.0
+30,8750702,comment,8749605.0,8750291.0,0,0,NickNameNick,,,They aren&,
+31,8750701,comment,8749129.0,8749129.0,0,0,nemothekid,,,"I ran the program counter_race.c, messing around with the NUM_THREADS. From what I can understand, in a perfect world the expected number should be 10,000,000. Is it an error that the article says 20,000,000?",1418618765.0
+32,8750700,comment,8749605.0,8749605.0,0,0,Animats,,,"This company has been in business since 1989, and has never produced anything.  Here&",
+33,8750699,comment,8750354.0,8750553.0,0,0,shriramkmurthi,,,"With all due respect to @pgbovine, it is intended as a spiritual successor to both, but is also its own thing. It is being built atop the design methodology of HtDP, which SICP sorely lacks. It has some topical overlap with SICP. But it has an entire second textbook contained in there about the study of programming languages, which neither SICP nor HtDP has. Hence the title: P _and_ PL. It&",
+34,8750698,comment,8750363.0,8750682.0,0,0,andrewstuart,,,"Not widely enough adopted, and yet Docker is built with it. So golang ultimately is a technology that Amazon has bet the farm on.",1418618699.0
+35,8750697,comment,8750354.0,8750687.0,0,0,shriramkmurthi,,,The paper&,
+36,8750696,comment,8749697.0,8750509.0,0,0,01Michael10,,,The US revoked his passport but they didn&,
+37,8750695,comment,8750309.0,8750546.0,0,0,techsupporter,,,This is exactly it for me.  I don&,
+38,8750694,comment,8749782.0,8750202.0,0,0,_almosnow,,,"Ok, I was asking because if you meant &quot;math&quot; as in &quot;geometry&quot; you could just go directly into how OpenGL does his stuff or many of the higher level graphics languages like (the preivously mentioned) Processing or three.js.<p>BUT, if you mean &quot;math&quot; as in &quot;abstract math&quot; (which I believe is what you do) I don&",
+39,8750693,story,,,11,0,oski,The software scientist,http://www.evanmiller.org/the-software-scientist.html,,1418618556.0
+40,8750692,comment,8750320.0,8750674.0,0,0,saosebastiao,,,"Likewise. Same goes for his portrayal of conservatives, where the only intelligent conservative on the planet is Will McAvoy, who happens to only hold viewpoints where there is some very convenient common ground with democrats.",1418618515.0
+41,8750691,comment,8750354.0,8750688.0,0,0,shriramkmurthi,,,It&,
+42,8750690,comment,8750354.0,8750633.0,0,0,shriramkmurthi,,,What @pgbovine said. (-:,1418618476.0
+43,8750689,comment,8750354.0,8750662.0,0,0,shriramkmurthi,,,"PLAI is almost completely subsumed into PAPL. With each revision, though, the PLAI material gets reorganized and distributed across PAPL, so at some point it will no longer be an identifiable subset. The idea is that programming inspires new programming languages, while programming languages help us make sense of programs. Therefore, the two should be tightly intertwined. The first edition of PLAI tried one way to achieve this synthesis (but didn&",
+44,8750688,comment,8750354.0,8750614.0,0,0,taeric,,,I am curious what evidence there is that SICP is responsible for &quot;[many introductory] courses quickly disappeared again due to shortcomings of the book and the whimsies of Scheme.&quot;,1418618325.0
+45,8750687,comment,8750354.0,8750614.0,0,0,yzzxy,,,"Interesting...<p>It seems to me that FP is having quite a renaissance recently, which could limit the relevance of that paper&",
+46,8750685,story,,,5,8,jweir,Uber Free Rides During the Sydney Siege,http://blog.uber.com/sydneysiege,,1418618231.0
+47,8750684,comment,8750127.0,8750127.0,0,0,Scene_Cast2,,,"If anyone is interested in atonal / micro-tonal / quarter-tonal music, check out Wyschnegradsky - he&",
+48,8750683,comment,8749619.0,8750673.0,0,0,a8da6b0c91d,,,There was one fairly low budget attempt. Nobody ever said it was going to work the first time. I can imagine it taking 25 years to iron out all the kinks.<p>It&,
+49,8750682,comment,8750363.0,8750506.0,0,0,tgeek,,,"there are languages inside of Amazon that are first class citizens (java & ruby mostly, node.js more now). Go is too new, moving too fast, and hasn&",
+50,8750681,comment,8750678.0,8750678.0,0,0,greenyoda,,,"The URL just points back to the HN article.<p>It looks like the URL should be the following, which is a freely downloadable PDF from 1973 with the right title:<p><a href=""https://dl.acm.org/citation.cfm?id=362534"" rel=""nofollow"">https://dl.acm.org/citation.cfm?id=362534</a>",1418618054.0
+51,8750680,comment,8748915.0,8749861.0,0,0,yummyfajitas,,,So from what little I&,
+52,8750679,comment,8750309.0,8750521.0,0,0,fludlight,,,The barrier to new development in SF isn&,
+53,8750678,story,,,10,3,brudgers,The Programmer as Navigator (1973) [pdf],http://www.jdl.ac.cn/turing/pdf/p653-bachman.pdf,,1418617812.0
+54,8750677,comment,8750419.0,8750419.0,0,0,kayman,,,I&,
+55,8750676,comment,8747574.0,8748929.0,0,0,justin66,,,Good point about the Detainee Treatment Act of 2005 and Military Commissions Act of 2006. I&,
+56,8750675,comment,8749164.0,8749840.0,0,0,cgio,,,"I will disagree and note that over-analysis of language is needed when language becomes arbitrary, such as in your statement:<p><i>rigidly assign a particular arrangement of physical processes to a single entity &quot;cloud&quot; leads to the nonsense you see here.</i><p>I have difficulty understanding what you mean and therefore I will need to analyse your use of terminology if I am to respect your opinion. You make some implicit assumptions which are very challenging. E.g. you say<p><i>A cloud exists when someone can say &quot;that&",
+57,8750674,comment,8750320.0,8750320.0,0,0,GabrielF00,,,"FWIW, I&",
+58,8750673,comment,8749619.0,8750525.0,0,0,IndianAstronaut,,,"They have already tried to seal off humans to see if they could survive in a closed habitat for years. They failed.<p>Until we figure out a way to generate food without the use of plants and animals, we cannot explore space. The overhead of having to maintain plants and animals for food is just too great to make sustainable living elsewhere in the solar system feasible.",1418617720.0
+59,8750672,story,,,16,3,c0nrad,Conks,http://c0nrad.io/conks/,,1418617700.0
+60,8750671,comment,8749061.0,8749606.0,0,0,wvenable,,,Except that they didn&,
+61,8750670,story,,,6,1,g42gregory,Spark – A tiny Sinatra inspired framework for web applications in Java 8,http://sparkjava.com/,,1418617691.0
+62,8750669,story,,,8,0,krampian,"FTC will target patent trolls, commissioner says",http://www.pcworld.com/article/2858392/ftc-will-target-patent-trolls-commissioner-says.html,,1418617681.0
+63,8750668,comment,8748467.0,8750471.0,0,0,spacehome,,,"Alleviates symptoms of chemo, yes, but curing cancer?  Is this a recent finding?",1418617640.0
+64,8750667,comment,8750320.0,8750320.0,0,0,AxisOfEval,,,"Slicing, dicing and reporting on data available in the public domain is NOT helping criminals. It doesn&",
+65,8750666,comment,8749061.0,8749061.0,0,0,saosebastiao,,,I&,
+66,8750664,comment,8748637.0,8749501.0,0,0,sohkamyung,,,"Not quite what you mean, but this is still fun. JK Brickworks on a LEGO particle accelerator [ <a href=""http://jkbrickworks.com/lego-particle-accelerator/"" rel=""nofollow"">http://jkbrickworks.com/lego-particle-accelerator/</a> ], the LEGO particle being accelerated here is a LEGO soccer ball.",1418617585.0
+67,8750663,comment,8750309.0,8750521.0,0,0,cmelbye,,,There&,
+68,8750662,comment,8750354.0,8750354.0,0,0,makmanalp,,,"His other book was PLAI which was pretty cool: <a href=""http://cs.brown.edu/courses/cs173/2012/book/"" rel=""nofollow"">http://cs.brown.edu/courses/cs173/2012/book/</a><p>I worked through it for a class, and I distinctly remember a moment where I thought &quot;what the fuck - did I just write a working type inferencer?&quot;. It has a great way of simplifying things to the point where adding a complex new language feature isn&",
+69,8750661,comment,8750431.0,8750576.0,0,0,girvo,,,"A lot of other industries have regulation in place to stop price gouging during emergencies, such as this one. I&",
+70,8750660,story,,,5,0,priteshjain,Materialize CSS - Material Design,http://materializecss.com/mobile.html,,1418617459.0
+71,8750659,comment,8750309.0,8750521.0,0,0,jakozaur,,,"Housing shortage is usually a problem, when it&",
+72,8750657,comment,8749697.0,8750208.0,0,0,javajosh,,,"It would be <i>morally wrong</i> if he did, but foolish, I&",
+73,8750656,comment,8748598.0,8749165.0,0,0,ploxiln,,,It&,
+74,8750655,comment,8749488.0,8750044.0,0,0,m_mueller,,,I&,
+75,8750654,comment,8749605.0,8749605.0,0,0,BendertheRobot,,,"But, what about the carbon impact of this?\nIt will only be available for one percenters, no?",1418617269.0
+76,8750653,story,,,10,2,robn_fastmail,Putting the Fast in FastMail,http://blog.fastmail.com/2014/12/15/dec-15-putting-the-fast-in-fastmail-loading-your-mailbox-quickly/,,1418617257.0
+77,8750652,comment,8750127.0,8750127.0,0,0,jashar1,,,"<a href=""http://offtonic.com/synth/"" rel=""nofollow"">http://offtonic.com/synth/</a>",1418617228.0
+78,8750651,story,,,29,5,mijia,ModelQ is a code generator for creating Golang codes to access RDBMS,https://github.com/mijia/modelq,,1418617176.0
+79,8750650,comment,8748658.0,8749593.0,0,0,kragen,,,"While your avoidance is understandable, given Broadcom&",
+80,8750649,comment,8749323.0,8750232.0,0,0,hadley,,,"The whole R sucks as a language thing is getting pretty old. There is some things that R is really good at, there are some things that Python is really good at. Just because R comes from a somewhat unusual ancestry (firmly rooted in functional programming with immutable data structures and generic function style OO) doesn&",
+81,8750648,comment,8749782.0,8750590.0,0,0,codygman,,,"For 2D, I don&",
+82,8750647,comment,8748658.0,8749060.0,0,0,mcpherrinm,,,"The Novena board looks pretty shiny for this.  Mine should come in any day, and I plan to at least try it out for this purpose.  Unfortunately it isn&",
+83,8750646,comment,8748658.0,8749601.0,0,0,kragen,,,"Most SD and μSD cards have embedded microcontrollers <a href=""http://www.bunniestudios.com/blog/?p=3554"" rel=""nofollow"">http://www.bunniestudios.com/blog/?p=3554</a> — I wonder how much of the corrupted-sector problems you were getting are really just bugs in their firmware?  Or things that could be worked around with better firmware?",1418616966.0
+84,8750645,comment,8750354.0,8750633.0,0,0,pgbovine,,,read the linked paper :),1418616959.0
+85,8750644,story,,,7,0,krat0sprakhar,The Pyret Programming Language,http://www.pyret.org/,,1418616854.0
+86,8750643,story,,,5,0,jack_axel,Digital giants get bigger at the expense of the small blog sites,http://www.theguardian.com/media/media-blog/2014/dec/14/digital-giants-small-blog-sites-buzzfeed-vice-mashable,,1418616806.0
+87,8750642,comment,8747574.0,8749057.0,0,0,justin66,,,"War criminals who would have been shot for abandoning their posts (almost all of the low-level guys fall into that category) have been, and continue to be, prosecuted for those crimes. It&",
+88,8750641,comment,8750363.0,8750624.0,0,0,wye,,,What an awful name for such a useful project.,1418616761.0
+89,8750640,comment,8750363.0,8750566.0,0,0,wye,,,"<a href=""https://stackoverflow.com/questions/12806386/standard-json-api-response-format"" rel=""nofollow"">https://stackoverflow.com/questions/12806386/standard-json-a...</a>",1418616729.0
+90,8750639,comment,8749264.0,8749784.0,0,0,rjayatilleka,,,I haven&,
+91,8750638,comment,8750210.0,8750532.0,0,0,userbinator,,,mmap() has no way of knowing how much you&,
+92,8750637,story,,,55,5,itissid,Making Postgres coding and testing fun,https://github.com/itissid/pypgTAP,,1418616660.0
+93,8750635,comment,8749647.0,8750203.0,0,0,ggreer,,,"How much harm do you think would be done if a popular species of tree in the US went extinct over the course of a few decades? Do you think ecosystems would collapse? Do you think the economy would suffer?<p>Turns out, this actually happened. 100 years ago, the American Chestnut tree accounted for 25% of all trees in north america. There used to be over 4 billion of them, then 99.9999% were killed by a blight. Today, only a few thousand exist in isolated groves. Few in the US know about this. People go hiking in the Appalachians and think, &quot;Ah, such pristine nature.&quot; It is telling that such a profound extinction scarcely registers on any national measurement of health, quality of life, or economic prosperity.<p>As I said, most of the species we need to survive are domesticated. And most of the others we need are so prevalent and resilient that they&",
+94,8750634,comment,8748467.0,8750361.0,0,0,syllogism,,,"But how do you propose they buy them, when the legal highs are indistinguishable from them at a glance, and are cheaper and easier for dealers to buy?",1418616568.0
+95,8750633,comment,8750354.0,8750614.0,0,0,krat0sprakhar,,,How is HtDP opposed to the SICP philosophy? From my reading both come off as espousing the more or less same ideas for building programs.,1418616565.0
+96,8750631,comment,8749619.0,8750529.0,0,0,avmich,,,"If both robotics and human spaceflight will become cheap enough, even the fact that, say, robotic flights are fixed times cheaper won&",
+97,8750630,story,,,161,92,epenn,A New Physics Theory of Life,http://www.quantamagazine.org/20140122-a-new-physics-theory-of-life/,,
+98,8750628,comment,8748467.0,8750045.0,0,0,ChrisGranger,,,There&,
+99,8750627,comment,8750306.0,8750306.0,0,0,justintbassett,,,&quot;How do you know what you know?&quot;<p>Don&,
+100,8750626,story,,,6,0,juanplusjuan,Nobel Peace Prize 2014,http://www.nobelprize.org/nobel_prizes/peace/laureates/2014/,,1418616282.0
+101,8750624,comment,8750363.0,8750571.0,0,0,Maxious,,,"&quot;Swagger is a simple yet powerful representation of your RESTful API.&quot; <a href=""http://swagger.io/"" rel=""nofollow"">http://swagger.io/</a>",1418616238.0
+102,8750623,comment,8748362.0,8750616.0,0,0,etherael,,,"Interesting perspective, I agree with your observations, but I don&",
+103,8750622,story,,,6,3,softdev12,Single-Pilot Cockpits Floated in NASA Study,http://www.wsj.com/articles/single-pilot-cockpits-floated-in-nasa-study-1418611930,,1418616223.0
+104,8750621,comment,8749619.0,8750448.0,0,0,avmich,,,"Going to Mars, you have the following options right now.<p>You can shield the spacecraft from radiation with passive mass. That&",
+105,8750620,comment,8748267.0,8749633.0,0,0,miohtama,,,I totally agree. Nexus 5 is on the upper end of the large form factor. Also N5 has been the best value for your money of my phones by far margin.,1418616186.0
+106,8750619,comment,8749697.0,8750422.0,0,0,cpncrunch,,,I understand very well why he&,
+107,8750618,story,,,9,0,wallflower,The Lives of Millennial Career Jugglers,http://www.nytimes.com/2014/12/07/fashion/the-lives-of-millennial-career-jugglers.html,,1418616037.0
+108,8750617,comment,8749931.0,8750402.0,0,0,e12e,,,"Interesting. However:<p>> TLS 1.2 only (...)\n> Browser support: Getting better, most browsers support TLS 1.2 now, but not all support the stronger AES256 encryption modes.<p>It&",
+109,8750616,comment,8748362.0,8749616.0,0,0,jholman,,,I&,

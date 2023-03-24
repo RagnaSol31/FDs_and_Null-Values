@@ -1,0 +1,8 @@
+,Implementation smell,Namespace,Class,File,Method,Description
+0,Long Method,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The method has 148 lines of code.
+1,Magic Number,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The following statement contains a magic number: tag.BeatsPerMinute = 120;
+2,Magic Number,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The following statement contains a magic number: tag.DiscCount = 2;
+3,Magic Number,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The following statement contains a magic number: tag.Track = 5;
+4,Magic Number,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The following statement contains a magic number: tag.TrackCount = 10;
+5,Magic Number,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The following statement contains a magic number: tag.Year = 1999;
+6,Magic Number,Debug,Program,C:\research\architectureSmells\repos\mono_taglib-sharp\src\Debug\Program.cs,Main,The following statement contains a magic number: Array.Resize (ref pics' 2);

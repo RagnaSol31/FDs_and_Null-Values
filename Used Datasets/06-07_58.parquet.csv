@@ -1,0 +1,88 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8206179,comment,8202170.0,8202170.0,2,0,unclebucknasty,,,"Lucene-based search (i.e. Elasticsearch, CloudSearch, etc.) strikes me as overly complex from a dev&",
+1,8206178,comment,8205366.0,8206100.0,1,0,prawn,,,Thanks for the info and links.,1408604240.0
+2,8206177,story,,,5,0,foulas,How to run your own e-mail server with your own domain,http://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/2/,,1408604230.0
+3,8206176,comment,8195223.0,8198837.0,1,0,the_solution,,,Chopping down trees to make room for wind farms is certainly dumb. If you take a closer look that is yet another story about the dangers of subsidies.<p>&quot;nuclear fuel is 2 million times more energy dense than any other fuel&quot;<p>Citation needed. Also i don&,
+4,8206174,comment,8206038.0,8206038.0,7,0,_delirium,,,"The manual to this publishing system, discussing how its markup/programming language is implemented as a custom Racket language, is pretty interesting: <a href=""http://mbutterick.github.io/pollen/doc/"" rel=""nofollow"">http://mbutterick.github.io/pollen/doc/</a>",1408604115.0
+5,8206173,story,,,12,5,jobriant11,My Car Got Broken Into – How an Arduino Kit Recovered 65% of My Stuff,http://jeremyobriant.com/my-car-got-broken-into-how-an-arduino-kit-inadvertantly-recovered-65-of-my-stuff/,,1408604028.0
+6,8206172,comment,8202284.0,8202284.0,1,0,espeed,,,"Simpleflake is a 64 bit alternative <a href=""http://engineering.custommade.com/simpleflake-distributed-id-generation-for-the-lazy/"" rel=""nofollow"">http://engineering.custommade.com/simpleflake-distributed-id...</a>",1408604011.0
+7,8206171,comment,8205758.0,8206143.0,3,0,paulrosenzweig,,,English-language newspapers in China don&,
+8,8206170,comment,8204007.0,8204552.0,1,0,anon4,,,When &quot;cannot happen&quot; happens:<p>1. stop everything<p>2. coredump (if applicable)<p>3. return -1 from main,1408603925.0
+9,8206168,comment,8204007.0,8205694.0,3,0,jacquesm,,,&,
+10,8206167,comment,8206038.0,8206038.0,4,0,qewrffewqwfqew,,,That&,
+11,8206166,story,,,1,0,grej,"In wake of Ferguson shooting, calls escalate for cops to wear body cams",http://arstechnica.com/tech-policy/2014/08/in-wake-of-ferguson-shooting-calls-escalate-for-cops-to-wear-body-cams/,,1408603814.0
+12,8206165,comment,8206147.0,8206147.0,2,0,vitovito,,,"<a href=""http://decksetapp.com/"" rel=""nofollow"">http://decksetapp.com/</a> does this from Markdown.<p>If you don&",
+13,8206164,comment,8206161.0,8206161.0,1,0,tnhowe,,,Really great read!,1408603731.0
+14,8206163,story,,,1,0,grej,FCC Republican wants to let states block municipal broadband,http://arstechnica.com/business/2014/08/fcc-republican-wants-to-let-states-block-municipal-broadband/,,1408603730.0
+15,8206162,story,,,4,5,andrewstuart,Tell HN: The joy of 100 to 1 backup compression: 8.3M to 70K,,Dear HN<p>I wish to share the joy deep in my heart that I have found from using lrzip http://ck.kolivas.org/apps/lrzip/<p>My Postgres database dumps are compressed more than 100 to 1.  So nice.<p><pre><code>  (venv2.7)username@ip-x-x-x-x:~/backupscripts/16303$ ls -lah\n  total 8.4M\n  drwxrwxr-x 2 user 4.0K Aug 21 .\n  drwxrwxr-x 3 user 4.0K Aug 21 ..\n  ---------- 1 user 8.3M Aug 21 singlepageguru_db_21-Aug-2014-06:00\n  ---------- 1 user  70K Aug 21 singlepageguru_db_21-Aug-2014-06:00.lrz\n  (venv2.7)username@ip-x-x-x-x:~/backupscripts/16303$</code></pre>,1408603717.0
+16,8206161,story,,,2,1,tnhowe,How to Exploit Eye Tracking Technology to Improve User Experience,http://www.kwasistudios.com/eye-tracking/,,1408603711.0
+17,8206160,comment,8205366.0,8205829.0,5,0,eru,,,> [...] and a population that has endured great hardship in living memory but emerged with concrete benefits such as mass literacy and for the most part improved material wealth.<p>Sort-of.  The concrete benefits came when they stopped the greatest self-inflicted hardships.,1408603710.0
+18,8206159,story,,,1,0,grej,San Francisco Water Source Subject of Lawsuit,http://abc30.com/politics/san-francisco-water-source-subject-of-lawsuit/273217/,,1408603678.0
+19,8206158,comment,8205966.0,8205966.0,2,0,zxcdw,,,Occam&,
+20,8206157,comment,8196343.0,8196343.0,2,0,woebtz,,,"Workflowy (<a href=""https://workflowy.com/"" rel=""nofollow"">https://workflowy.com/</a>) is my goto for keeping lists, planning, and tracking my work/project logs.<p>For work, I have a section structured as such:\nWork > {CLIENT} > {YEAR} > {MONTH} > {DAY, HOURS, SUMMARY}<p>e.g. A day&",
+21,8206155,comment,8206034.0,8206034.0,2,0,onedev,,,Their website and apps are really bad....but what keeps me coming back is the incredible incredible content. I&,
+22,8206154,comment,8206034.0,8206034.0,3,0,spacefight,,,"Same link, no paywall:\n<a href=""http://www.nytimes.com/2014/08/21/business/media/popular-and-free-soundcloud-is-now-ready-for-ads.html?partner=rss&emc=rss"" rel=""nofollow"">http://www.nytimes.com/2014/08/21/business/media/popular-and...</a>",1408603441.0
+23,8206153,comment,8205966.0,8206151.0,3,0,eru,,,"Oh, but Tit-for-Tat didn&",
+24,8206152,comment,8205966.0,8206118.0,1,0,eru,,,"I think the moral is that in this case reliability wins.  (And in this case, strapping a shell loop around your program that restarts it every n seconds would have worked.)",1408603381.0
+25,8206151,comment,8205966.0,8205966.0,3,0,jostmey,,,The story is not that far fetched. Decades ago (I think) there was a computer simulated game designed to play out what is called the Prisoner&,
+26,8206150,comment,8205966.0,8205966.0,4,0,mherrmann,,,What does this have to do with entropy?,1408603321.0
+27,8206149,comment,8205043.0,8205043.0,2,0,barrystaes,,,"If our universe was inside a &quot;black hole&quot; seen from the outside, how would we ever know?<p>For al we know the percieved timescale of the big bang and the time since it is just timedialation, and that black hole might even exists in more than 3D.",1408603317.0
+28,8206148,comment,8205929.0,8205929.0,1,0,greenyoda,,,"This is the fourth posting of this article in the last couple of days:<p><a href=""https://hn.algolia.io/",
+29,8206147,story,,,7,11,joeclark77,Ask HN: Text-based PPT alternative?,,Is there any good way to generate slide presentations from text files?  I&,
+30,8206146,comment,8202992.0,8204848.0,1,0,mcfunley,,,"IRC on the web with tons of work-relevant integrations. And an easy API, emojis, searchable history, etc. It&",
+31,8206145,story,,,4,0,acabrahams,Entrepreneurship as an Ethical Choice,http://jennybrennan.com/2014/08/20/Entrepreneurship-as-an-Ethical-Career-Choice/,,1408603139.0
+32,8206144,comment,8203164.0,8206090.0,2,0,vdaniuk,,,"Nope, I didn&",
+33,8206143,comment,8205758.0,8205758.0,7,0,thaumasiotes,,,> Wei had only recently returned from a reëducation camp<p>They&,
+34,8206142,comment,8205042.0,8205574.0,1,0,vacri,,,"Well, I wouldn&",
+35,8206141,comment,8204126.0,8204126.0,1,0,narsil,,,"Nice app. Plupload (<a href=""https://github.com/moxiecode/plupload"" rel=""nofollow"">https://github.com/moxiecode/plupload</a> ) is an open source library that also allows you to upload large files. I&",
+36,8206140,story,,,154,84,r_ms,Codefights,http://www.codefights.com,,1408602964.0
+37,8206139,story,,,84,56,simoncoulton,Show HN: Perspective Mockups – Hipster-as-fuck perspectives for your mockups,http://perspectivemockups.com/,,1408602891.0
+38,8206138,comment,8204007.0,8205116.0,1,0,lmm,,,"> As for the argument why not send -2 instead, well guess what? Other negative values also have a meaning. Negative values in kill send signal to a process group instead of a process.<p>That&",
+39,8206137,comment,8203472.0,8206084.0,1,0,yoodenvranx,,,I am not sure if cats are a good idea for this. But what about rats? Could we teach them to do image recognition? Perhaps it could answer questions like &quot;is there a cat in this picture?&quot;. Since rats are quite small this approach could scale well.,1408602801.0
+40,8206136,comment,8205445.0,8205445.0,2,0,FrankenPC,,,"I thought time, at the bare iron of the universe, was the slow but sure thermodynamic change into a state of pure information.  What&",
+41,8206135,comment,8204915.0,8205625.0,3,0,wyager,,,Should we not hold the government to a higher standard than random individuals?,1408602697.0
+42,8206134,comment,8203885.0,8204426.0,2,0,deciplex,,,And all you need to do is keep a potentially deadly piece of consistently underestimated hardware in heavily-trafficked areas!,1408602638.0
+43,8206133,comment,8205043.0,8205240.0,2,0,wyager,,,">First of all Science and Religion are not competing for adherents.<p>In practice, how are they not? There are at least 3 major classes of popular religions that claim that the earth is only 6000 years old, among a smattering of other objectively false claims. One cannot correctly claim these facts are or might be true and also observe the scientific method.<p>Yes, a hypothetical religion that posits nothing more than &quot;there is a god&quot; would not technically directly contradict the known body of scientific knowledge, but it would still contravene the scientific method.",1408602589.0
+44,8206132,story,,,1,0,naama,Customize the Export File Format in SSRS,http://www.madeirasql.com/customizing-file-format-in-ssrs/?utm_content=buffere39a9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,,1408602541.0
+45,8206131,comment,8205758.0,8206082.0,5,0,jjoonathan,,,"Wow:<p>> When People’s Daily, a newspaper that acts as a Chinese government mouthpiece, posted an online questionnaire asking readers to rate their reaction to the murder, as a smiley face, a sad face, or an angry face, sixty-five per cent of readers chose the smiley face.<p>After having read the accounts of what their health care system is like, it&",
+46,8206130,comment,8204034.0,8205193.0,1,0,_benedict,,,"Also, there is a paucity of information with which to draw conclusions as to the quality of software you are buying into (whether literally or figuratively) in order to make informed decisions, and there are rarely adequate resources assigned when making the decision to investigate potential problems (or the expertise to do so effectively). This is all confounded further by marketing departments putting out a lot of misleading information.",1408602424.0
+47,8206129,comment,8205366.0,8205785.0,1,0,legulere,,,It&,
+48,8206128,comment,8203062.0,8203062.0,1,0,jedisct1,,,"And a C implementation: <a href=""https://github.com/jedisct1/spritz"" rel=""nofollow"">https://github.com/jedisct1/spritz</a>",1408602409.0
+49,8206127,comment,8205966.0,8205966.0,4,0,akjetma,,,That dumb kid&,
+50,8206126,comment,8203425.0,8205457.0,1,0,pdonis,,,"&quot;More energy&quot; can mean two different things. In the case of sound, only one of those meanings--the amplitude of the wave--is relevant: soft sounds have lower amplitude and loud sounds have higher amplitude. The frequency of the wave, as jessaustin pointed out, is independent of how soft or loud it is, and for sound, there isn&",
+51,8206125,comment,8206038.0,8206038.0,6,0,cturner,,,"The top reason here could been written - lisp is more expressive. You can find ways to express an idea that make sense now, and which are readable. Macros is a different part of the same idea.<p>--<p>Maybe I&",
+52,8206124,story,,,55,56,dkarapetyan,Dynamically Typed Languages (2009),http://tratt.net/laurie/research/pubs/html/tratt__dynamically_typed_languages/,,1408602347.0
+53,8206123,comment,8206038.0,8206038.0,14,0,aaronbrethorst,,,From what I&,
+54,8206121,comment,8201707.0,8205519.0,2,0,dgellow,,,There is the web-mode for emacs [1] to manipulate files with different languages. It is oriented for editing templates but something more general should be possible.<p>Currently I am using it a lot to write React&,
+55,8206120,story,,,1,0,dboles99,Sid Meier's Civilization | Official Civ Site | 2K,http://www.civilization.com/en/buy/?game=1&region=1&platform=7&retailer=426,,1408602229.0
+56,8206119,story,,,13,0,notpg,gitignore.io - Create useful .gitignore files for your project,http://www.gitignore.io/,,1408602199.0
+57,8206118,comment,8205966.0,8205966.0,1,0,ragesh,,,"So, the moral of the story is that your code should do one thing and do it well.",1408602199.0
+58,8206117,comment,8176464.0,8178887.0,1,0,T-hawk,,,I bet it was a Javascript system that tried to interpret month numbers of 08 and 09 as octal because of the leading zero.  Am I close?,1408602148.0
+59,8206116,story,,,2,0,johnnyalex91,Style Jukebox – High-Fidelity Music Streaming Service,http://www.get-jukebox.com,,1408601952.0
+60,8206115,story,,,3,0,zekers,Valleyball – a fantasy VC league,http://valleyball.co/,,1408601873.0
+61,8206114,comment,8205366.0,8205614.0,2,0,fludlight,,,"<a href=""http://en.wikipedia.org/wiki/1997_Asian_financial_crisis"" rel=""nofollow"">http://en.wikipedia.org/wiki/1997_Asian_financial_crisis</a>",1408601868.0
+62,8206113,comment,8205366.0,8205971.0,3,0,contingencies,,,"Company must have been <a href=""http://en.wikipedia.org/wiki/Suntech_Power"" rel=""nofollow"">http://en.wikipedia.org/wiki/Suntech_Power</a> I think.",1408601786.0
+63,8206112,story,,,2,0,signa11,Resolutions for programmers (2012),http://matt.might.net/articles/programmers-resolutions/,,1408601740.0
+64,8206111,story,,,49,2,mzehrer,Cybersecurity as Realpolitik,http://geer.tinho.net/geer.blackhat.6viii14.txt,,1408601730.0
+65,8206110,comment,8203857.0,8205467.0,3,0,pflanze,,,I&,
+66,8206108,comment,8203857.0,8206021.0,1,0,Panino,,,"<i>I like nic.cz because they are utilising dnscurve.</i><p>Unless I misunderstand you, unfortunately this is not the case.  A quick way to check if a domain supports authoritative DNSCurve service is to do e.g.<p>$ dig +short ns dnscurve.org<p>You&",
+67,8206107,comment,8204915.0,8205789.0,3,0,hnha,,,> NSA isn&,
+68,8206106,comment,8203425.0,8204286.0,1,0,pdonis,,,If you&,
+69,8206105,comment,8193754.0,8197199.0,1,0,stormbrew,,,"RAII is a form of automatic resource management, it&",
+70,8206104,story,,,1,0,ranchitkumar,Exploring a new place,http://thenextweb.com/apps/2014/08/17/moovit-now-provides-trip-information-as-you-ride-public-transport/,,1408601548.0
+71,8206103,story,,,1,0,mzehrer,Tessel Faster Better Stronger,http://blog.technical.io/post/95294380547,,1408601531.0
+72,8206102,comment,8200878.0,8203569.0,1,0,retr0h,,,Knowledge from having worked there.,1408601516.0
+73,8206101,story,,,1,0,signa11,Yacc is dead: An update,http://matt.might.net/articles/parsing-with-derivatives/,,1408601467.0
+74,8206100,comment,8205366.0,8205971.0,3,0,fludlight,,,Investment decisions aren&,
+75,8206099,comment,8203857.0,8205556.0,2,0,ynezz,,,"Yes, it&",
+76,8206098,comment,8204915.0,8205611.0,1,0,innguest,,,I see what you and shiven mean.\nI agree those <i>partial</i> deregulations are bad. I say partial because that&,
+77,8206097,comment,8205760.0,8206039.0,1,0,gwillen,,,"Eh, I think that&",
+78,8206096,comment,8204833.0,8205590.0,2,0,dkhar,,,"In my experience, the Thai restaurants around me (East coast US) like to make their sauces very oil/butter heavy, which contributes to the second phenomenon you alluded to. I&",
+79,8206094,comment,8202168.0,8205401.0,1,0,ejain,,,"Sure, an epoch timestamp can be translated to any time zone, but what was the original time zone?<p>Consider these questions: Do I use Uber more often before or after noon? Is this a photo of a sunrise or a of a sunset? How late do I typically go to bed?<p>In the case of Uber we could try to guess the time zone from the coordinates, but it&",
+80,8206093,story,,,9,1,fla,Why we can execute JavaScript through Rundll32,http://thisissecurity.net/2014/08/20/poweliks-command-line-confusion/,,1408601202.0
+81,8206092,story,,,1,0,tvvocold,JavaZone 2014: Game of Codes,http://www.youtube.com/watch?v=UvyTf5xvaXM,,1408601202.0
+82,8206091,story,,,1,0,mzehrer,Try optimising the memory consumption first,http://vanillajava.blogspot.com/2014/08/try-optimising-memory-consumption-first.html,,1408601171.0
+83,8206090,comment,8203164.0,8205879.0,2,0,dang,,,"Oh my hot-headed, un-Bayesian friends: do you really think we&",
+84,8206089,comment,8205754.0,8205956.0,1,0,frozenport,,,Its worse. I do C++ programming for E&M and am told I don&,
+85,8206087,comment,8205760.0,8206039.0,1,0,dragonbonheur,,,Wonderful ad hominem attack. Now please prove how this man is a &quot;crackpot&quot; like you&,
+86,8206086,comment,8202443.0,8204885.0,1,0,programminggeek,,,"Well, bosses have been known to threaten to fire workers if they are found to be discussing how much money they work. People act as if it would be impossible to work at a company where people could know what other people make.<p>Yet, public school teachers have a pay schedule that is pretty cut and dry, government workers&",

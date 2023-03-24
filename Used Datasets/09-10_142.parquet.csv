@@ -1,0 +1,108 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10565142,comment,10565093.0,10565093.0,0,0,somecoder,,,Cool! Would love to see the source. Would you be willing to post it to GitHub or somewhere else?,1447495194.0
+1,10565141,comment,10556869.0,10556869.0,0,0,nvartolomei,,,"Why `Array.prototype.slice.call(xs, 1)` for tail operation?",1447495187.0
+2,10565140,comment,10562019.0,10562019.0,0,0,mdpm,,,"tangential, but spaceengine is awesome.",1447495166.0
+3,10565139,comment,10565122.0,10565122.0,0,0,mengjiang,,,All the things companies do to keep the prized programmers happy.,1447495142.0
+4,10565138,comment,10545118.0,10547115.0,0,0,abricot,,,I only ever use my server to forward emails for certain addresses. No clients ever contact it.,1447495138.0
+5,10565137,comment,10563540.0,10565121.0,0,0,littletimmy,,,"Or it means that the US has a double-standard approach where it stabilizes favorable dictatorships (Saudi, Qatar, Kuwait) and destabilizes unfavorable dictatorships (Libya, Iraq) and democracies (Egypt 60s, Iran 50s).<p>How about getting out of other people&",
+6,10565136,comment,10555672.0,10565108.0,0,0,WalterBright,,,"Moving it incurs capital gains taxes.<p>Even if you passively invest in a mutual fund, the funds internal transactions show up as capital gains that get reported to the IRS, and you have to pay the tax.",1447495100.0
+7,10565135,comment,10562105.0,10564599.0,0,0,Too,,,The print must have been the easiest function of them all to convert automatically with 2to3 since in py2 it&,
+8,10565134,comment,10556731.0,10561337.0,0,0,icebraining,,,"But the question is, <i>why</i> did those few get to own so much of the capital?<p>If the thing we had was already capitalism, then doesn&",
+9,10565133,comment,10563540.0,10564315.0,0,0,Asbostos,,,"Several of my friends, neighbors and family members have died. In none of those cases did I hear about it on the news and call to make sure it wasn&",
+10,10565132,story,,,4,0,DiabloD3,Casualty of YouTube’s “Contractual Obligations”: Users’ Free Speech,https://www.eff.org/deeplinks/2015/11/casualty-youtubes-contractual-obligations-users-free-speech,,1447494961.0
+11,10565131,comment,10555672.0,10564918.0,0,0,cousin_it,,,"Maybe there could be some technical result like &quot;if everyone in the market assumes distribution X and trades accordingly, that makes the real distribution more fat-tailed than X&quot;? No idea if something like that could be true...",1447494910.0
+12,10565129,comment,10556869.0,10556869.0,0,0,sjclemmy,,,I found the way the examples are written confusing at first glance. \nI think the norm is to call the function and then show the returned output.\ne.g.<p>instead of<p>1/4 === comp(1)<p>do<p>comp(1)<p>// returns 1/4<p>This might be my personal preference but it&,
+13,10565128,comment,10565122.0,10565122.0,0,0,btiede,,,I&,
+14,10565127,comment,10535310.0,10537987.0,0,0,iofj,,,I&,
+15,10565126,comment,10556049.0,10556049.0,0,0,xux,,,That&,
+16,10565125,story,,,3,0,alexandrerond,Claimed breakthrough in graph isomorphism algorithm,http://technologyreview.com//news/543511/claimed-breakthrough-slays-classic-computing-problem-encryption-could-be-next/,,1447494750.0
+17,10565124,comment,10562986.0,10564510.0,0,0,stone-monkey,,,There&,
+18,10565123,comment,10562105.0,10564800.0,0,0,pjmlp,,,"Wrong.<p>.NET provides all the tools to write cache friendly programs.<p>That many devs use it like Java is another matter.<p>If we include high integrity systems there is Ada as well, even though it is a niche.",1447494692.0
+19,10565122,story,,,3,3,mengjiang,Gaming company provide their overworked programmers with back rubs,http://shanghaiist.com.proxy.parle.co/2015/11/12/company_hires_girls_to_give_back_rubs.php,,1447494667.0
+20,10565121,comment,10563540.0,10564723.0,0,0,sampo,,,> <i>stop supporting terrorist regimes like Saudi Arabia.</i><p>In your earlier comment you wrote:<p>> <i>Stop destabilizing Arab countries</i><p>Isn&,
+21,10565120,comment,10555319.0,10564966.0,0,0,adsche,,,"And, at least for me, it became much better. It used to have a lot of glitches and weirdnesses, mostly in Firefox on Linux, now its very nice. I like it a lot.",1447494630.0
+22,10565119,comment,10556637.0,10565066.0,0,0,lisper,,,"Yes, of course, but so what?  It is still not true that &quot;Everything you will ever experience is all in your head.&quot;",1447494619.0
+23,10565118,comment,10559776.0,10564571.0,0,0,kybernetikos,,,"This is not an assumption, it&",
+24,10565117,comment,10564537.0,10564537.0,0,0,NameNickHN,,,Why is this a thing? Why is someone trying to create a trend that we need to follow.<p>I make sure my sites work with and without www. In HTML documents it doesn&,
+25,10565116,comment,10555791.0,10565079.0,0,0,stesch,,,With all these different implementations how hard is it to access C libraries and/or make modules that use C?,1447494480.0
+26,10565115,comment,10562986.0,10564525.0,0,0,tvm,,,"This can be somewhat misleading.<p>eg.,:<p><a href=""http://www.theguardian.com/news/datablog/2012/jul/22/gun-homicides-ownership-world-list"" rel=""nofollow"">http://www.theguardian.com/news/datablog/2012/jul/22/gun-hom...</a><p>Brazil, Italy etc. - significantly lower percentage of firearms between citizens (say compared to USA), yet there are percentually more homicides performed with firearm.",1447494469.0
+27,10565114,comment,10555319.0,10565020.0,0,0,adsche,,,"I used to feel the same way, but that changed when I got a higher resolution display. Now (for me) it&",
+28,10565113,comment,10562019.0,10564903.0,0,0,Mithaldu,,,They are boring when the player&,
+29,10565112,comment,10562019.0,10562975.0,0,0,XorNot,,,Also relativity and speed of light are pretty unnecessary in a chemical-rocketry simulator.,1447494347.0
+30,10565111,comment,10562207.0,10564360.0,0,0,andrewaylett,,,"Most of them, yes.  There are a couple that are just on/off, like wake locks.",1447494328.0
+31,10565110,story,,,2,0,velmu,Slush Smackdown: Code school on steroids,http://www.slushsmackdown.com,,1447494326.0
+32,10565109,comment,10563540.0,10563781.0,0,0,DrScump,,,Those are not mutually exclusive conditions . One does not need to be native-born to be a citizen or legal resident.,1447494307.0
+33,10565108,comment,10555672.0,10565065.0,0,0,nextweek2,,,Investment funds will offer a cash investment option. This invests in currencies. Along with government bonds it&,
+34,10565106,comment,10562986.0,10562986.0,0,0,atmosx,,,"I hold equally responsible the extremist groups (ISIS, Al Qaida, etc.) and entirety of western and eastern governments (USA gov, EU, UK gov, China gov, Rus gov, France gov and my country&",
+35,10565105,comment,10559776.0,10563174.0,0,0,pjmlp,,,Not if startup time matters or if you need to deploy into systems where dynamic linking is not possible.<p>The majority of the commercial third party JVM vendors do offer AOT as part of their toolchain.<p>Similarly .NET always had a JIT/AOT model. The novelty with .NET Native is static compilation and integration of the Visual C++  backend.<p>I don&,
+36,10565104,comment,10563615.0,10564917.0,0,0,Corrado,,,"Yes, that&",
+37,10565103,story,,,1,0,chei0aiV,Corporate Monopoly,http://www.globaljustice.org.uk/infographics/corporatemonopoly/,,1447494125.0
+38,10565102,comment,10555710.0,10557889.0,0,0,pedalpete,,,I wasn&,
+39,10565101,comment,10564895.0,10564895.0,0,0,NameNickHN,,,In this context the word simply translates to attitude as mentioned in the article. Why not using that?,1447494104.0
+40,10565100,comment,10555672.0,10564970.0,0,0,vasco,,,Catching a falling knife is always a good idea.,1447493954.0
+41,10565099,comment,10563540.0,10564981.0,0,0,0mbre,,,Well you can wonder why did these people act irrationaly? Could these behaviour have been detected? Could they have been helped out of this narrowed point of view of thinking that killing innocent is the right thing to do ? I don&,
+42,10565097,comment,10554327.0,10564647.0,0,0,ChrisGranger,,,Perhaps we&,
+43,10565096,comment,10565094.0,10565094.0,0,0,Postagain,,,"PostAgain is coming with new innovative fully integrated features combining the ability of instant chat with the most popular features of current social media along with browsing by content through online TV channels.<p>Not only real time Instant message, chat, create groups, share multimedia messages, but its social integrated IM, any post from channels followed or content searches, can be sent to your contacts via a chat room or group chat using PostAgain&",
+44,10565095,comment,10563862.0,10564914.0,0,0,josegonzalez,,,They only <i>just</i> released version 0.1.,1447493824.0
+45,10565093,story,,,2,1,velmu,Test if your site runs on HTTP/2,http://http2check.me,,1447493740.0
+46,10565092,comment,10556637.0,10556637.0,0,0,benevol,,,"Pain reduction is just one benefit.<p>Another one is stress reduction, leading to a stronger immune system, less asthma, improved digestion, etc.<p>The main point is probably that you rewire your brain: <a href=""http://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/"" rel=""nofollow"">http://news.harvard.edu/gazette/story/2011/01/eight-weeks-to...</a> which means doing it on a regular basis improves your hardware, not just your software.<p>You will end up managing your emotions more efficiently, which is extremely useful for people who need to stay away from d e p r e s s i o n and a n x i e t y.",1447493642.0
+47,10565091,comment,10565086.0,10565086.0,0,0,Oatseller,,,I couldn&,
+48,10565089,story,,,1,0,kostarelo,The Configuration Service,http://kostasbariotis.com/the-configuration-service/,,1447493621.0
+49,10565088,comment,10555689.0,10555689.0,0,0,evaso,,,Wonderful product!!!,1447493604.0
+50,10565086,story,,,1,1,Oatseller,Patent suit filed in New Jersey targets Yahoo,http://www.nj.com/business/index.ssf/2015/11/patent_suit_filed_in_nj_targets_yahoo_report_says.html,,1447493590.0
+51,10565084,comment,10564825.0,10564825.0,0,0,lgas,,,"Betteridge says no, others say yes.",1447493540.0
+52,10565083,comment,10563540.0,10565044.0,0,0,warsheep,,,"Interesting articles, thanks!",1447493514.0
+53,10565082,comment,10563615.0,10563615.0,0,0,Corrado,,,I like the idea of specialized post types.  One of my favorites is the Repos (source code repository) post.  Having specialized places for different types of content is pretty cool.  I realize that it&,
+54,10565081,comment,10556332.0,10563284.0,0,0,tempestn,,,I actually had difficulty finishing the article because it kept making me want to go get something productive done.,1447493405.0
+55,10565080,comment,10563540.0,10564982.0,0,0,0mbre,,,Well obvioysly to someone irrational every of his action seem rational.<p>The point is that for a phycologicaly healthy and balanced human being these actions can not be called rational by any stretch of logic,1447493393.0
+56,10565079,comment,10555791.0,10565029.0,0,0,rurban,,,"Faster than Perl5 with Moose, but slower than similar languages with similar features. \nBut there are not many with this impressive feature set.",1447493386.0
+57,10565078,comment,10558018.0,10562662.0,0,0,anandr2013,,,"I also really like how Terrence Malick uses sound. Especially Badlands, where the sounds (and lack of it) perfectly conveys a sense of small town ness.",1447493338.0
+58,10565077,comment,10556332.0,10556332.0,0,0,tempestn,,,The first talk under the Getting Things Done section mentioned something that&,
+59,10565076,story,,,2,0,somecoder,Use Docker for Fast WordPress Development Environments,https://longren.io/use-docker-for-fast-wordpress-development-environments/,,1447493246.0
+60,10565075,comment,10554744.0,10562366.0,0,0,DanielBMarkham,,,"Thank you for reminding us of this. This was also in the book, and I forgot to mention it. It&",
+61,10565072,comment,10558436.0,10562097.0,0,0,gingerlime,,,"Thanks for taking the time to explain... Sorry to nitpick, but I&",
+62,10565071,comment,10555672.0,10564267.0,0,0,WalterBright,,,It&,
+63,10565070,comment,10562105.0,10563649.0,0,0,alkonaut,,,"This is really a flaw in Google, not stackoverflow (maybe at SO too, depending on how their search is ranked).<p>The relevance of a page at StackOverflow is less relevant if it is 5years old than if it is 1 year old, even if the page rank based on links is higher. I&",
+64,10565069,comment,10556637.0,10565055.0,0,0,stone-monkey,,,"Can that really substitute as a placebo, though? I&",
+65,10565067,comment,10558369.0,10558369.0,0,0,floatrock,,,"The Daily/Weekly/Monthly/Yearly summary is interesting.<p>These are all rates, so presumably they&",
+66,10565066,comment,10556637.0,10565063.0,0,0,DanBC,,,"But some people esperience pain without the external cause.  No sledge hammers, no cancer, no disease, but pain is present.",1447492916.0
+67,10565065,comment,10555672.0,10564880.0,0,0,WalterBright,,,The trouble with switching to cash is then you&,
+68,10565064,comment,10563540.0,10563973.0,0,0,rquantz,,,I actually think you&,
+69,10565063,comment,10556637.0,10565027.0,0,0,lisper,,,It&,
+70,10565062,comment,10563540.0,10564889.0,0,0,tajen,,,"The risk in France is for the battle to happen on its land. There is a lot of racism and there is also a lot of e.g. Algerian people burning the French flag here and a lot of resentment. There are most well-integrated and well-considered Muslim people here, but there is also a minority we&",
+71,10565061,comment,10564907.0,10564907.0,0,0,Too,,,"<a href=""https://github.com/sickill/git-dude"" rel=""nofollow"">https://github.com/sickill/git-dude</a><p>This one is pretty similar and slightly more readable imo (if shell-scripts can ever be considered readable). Just replace the notify-function with whatever you want to execute instead.",1447492695.0
+72,10565060,story,,,178,226,randomname2,State of emergency in France,https://gist.github.com/fasterthanlime/faa2ae629d22f325beb7,,1447492652.0
+73,10565059,comment,10555319.0,10565020.0,0,0,noelwelsh,,,"Agreed, subject to caveats. I don&",
+74,10565058,comment,10556637.0,10564910.0,0,0,austinjp,,,"The &quot;all in your head&quot; element is <i>always</i> present. Trials seek to discover an effect <i>beyond</i> this, not instead of it.",1447492642.0
+75,10565057,comment,10564907.0,10564907.0,0,0,zwischenzug,,,"I did this recently as a more generalised service for tracking changes to the output of commands:<p><a href=""https://github.com/ianmiell/alert-on-change/blob/master/README.md"" rel=""nofollow"">https://github.com/ianmiell/alert-on-change/blob/master/READ...</a><p>It adds the concept of degree of change to the output triggering an alert.",1447492606.0
+76,10565056,story,,,1,0,aaronbrethorst,Saving the iPad,http://blog.jaredsinclair.com/post/133180873570/saving-the-ipad,,1447492590.0
+77,10565055,comment,10556637.0,10564955.0,0,0,nroets,,,Some meditation teachers concentrate on Buddhist teachings that&,
+78,10565054,comment,10556637.0,10564955.0,0,0,lisper,,,"Use an activity-based sham therapy as the control, and have it administered by someone who believes it works.  Waving magnets over the subject&",
+79,10565051,comment,10563540.0,10565001.0,0,0,scrollaway,,,"Possible, yes. Efficient, not really. If they don&",
+80,10565050,comment,10555319.0,10565020.0,0,0,mimo84,,,"I feel the other way around: I prefer serif fonts in general, however well designed websites should not have any issue with the font style chosen, as long as the basics of design and human vision are respected; e.g. contrast ratio, size, line heights etc.",1447492351.0
+81,10565049,comment,10555319.0,10565020.0,0,0,andyfleming,,,"I think it can feel like an abrupt change compared to browsing the rest of the web, but I think if you spend some time with it, you&",
+82,10565048,comment,10562207.0,10564992.0,0,0,SeanDav,,,Yes - exactly that.,1447492272.0
+83,10565047,comment,10562207.0,10564792.0,0,0,emsy,,,"iOS has this for years without a problem, so Google has to find a better reason why they screwed this up for so long.",1447492267.0
+84,10565046,comment,10558018.0,10562516.0,0,0,cpeterso,,,Disney and Dalí&,
+85,10565045,comment,10554815.0,10564690.0,0,0,anandr2013,,,"I also think this is a very Campbellian view of heroes. Most of the people I consider as heroes (Einstein, for example), have nothing to do with tragedy (unless of course, you consider the whole human condition thing as being a tragedy)",1447492212.0
+86,10565044,comment,10563540.0,10565010.0,0,0,threeseed,,,Why would you be surprised Israel&,
+87,10565043,comment,10563540.0,10563927.0,0,0,ordinary,,,"I have never heard of this, which is scary in itself. Or maybe it isn&",
+88,10565042,comment,10555672.0,10564884.0,0,0,imrehg,,,"Taking too much risk I understand, but what does it mean taking too little risk in this context?",1447492161.0
+89,10565041,comment,10562207.0,10563099.0,0,0,fredrik-j,,,I have to add that the Facebook app does not have to have or ask for any permission at all to let the user pick an image to publish in their stream. It can use Android Intents to delegate to the user&,
+90,10565040,comment,10555672.0,10564277.0,0,0,semi-extrinsic,,,"There seems to have been a push recently, among the news sites who want to be seen as respectable, to be transparent about edits, updates and even retractions of articles. I, for one, welcome this change.",1447492153.0
+91,10565039,comment,10556637.0,10564955.0,0,0,austinjp,,,"This is why trials designs other than RCT can be appropriate. For example, one group could be randomised to receive meditation therapy now, and another group would receive it later. Ethically this is more comfortable  too, since neither group is denied a potentially effective treatment.<p>I wonder if there is a well tested, robust placebo for meditation. Time to trawl the literature for protocols and designs.",1447492152.0
+92,10565038,comment,10563540.0,10564608.0,0,0,oh_sigh,,,How about chamberlains negotiations with Hitler?,1447492149.0
+93,10565037,comment,10563540.0,10563860.0,0,0,oh_sigh,,,How do you know? Imagine another 700m people even poorer than they are now. That might breed extremism\n I&,
+94,10565036,story,,,3,0,DiabloD3,EFF files brief calling for greater law enforcement transparency,https://www.eff.org/deeplinks/2015/11/eff-files-brief-calling-greater-law-enforcement-transparency,,1447492015.0
+95,10565035,comment,10564907.0,10565022.0,0,0,oxplot,,,"That only gives you the commit for the head of the branches. If there were multiple commits since you checked last, you&",
+96,10565034,comment,10563540.0,10564065.0,0,0,qb45,,,"Apparently, armed citizens can help in some cases. Three armed people stopped a nuthead shooting in train in France:<p><a href=""http://www.theguardian.com/world/2015/aug/21/amsterdam-paris-train-gunman-france"" rel=""nofollow"">http://www.theguardian.com/world/2015/aug/21/amsterdam-paris...</a>",1447491978.0
+97,10565032,story,,,26,8,davidgerard,Why Hackers Must Eject the SJWs,http://esr.ibiblio.org/?p=6918,,1447491913.0
+98,10565031,comment,10555672.0,10564543.0,0,0,leaveyou,,,Higher minimum wage ??? So you want to punish the job creators for being successful ? Everyone knows that trickle down is the way to go. If it fails to trickle down you need to &quot;inject&quot; more money into the economy until it trickles down /s,1447491910.0
+99,10565029,comment,10555791.0,10555791.0,0,0,visarga,,,How fast is Perl 6 nowadays?,1447491877.0
+100,10565028,comment,10562679.0,10563480.0,0,0,celticninja,,,"I am in no way defending them, I agree with your sentiments entirely. But that doesn&",
+101,10565027,comment,10556637.0,10564910.0,0,0,austinjp,,,Everything you will ever experience is all in your head.<p>No snark intended. This is a potent insight in pain science.,1447491801.0
+102,10565026,comment,10563540.0,10564162.0,0,0,tajen,,,"Please stop with the Rainbow Warrior story, it&",
+103,10565025,comment,10562207.0,10564841.0,0,0,icelancer,,,What ever came of BadBIOS? Was it actually legitimate?,1447491708.0
+104,10565024,comment,10563540.0,10563812.0,0,0,threeseed,,,"> Multiculturalism has never, at any time in human history, worked anywhere<p>What a load of complete and utter nonsense. I am embarrassed to even see that link on this site.<p>Multiculturalism is working just fine in Australia right now. In fact it is largely how this country was built. And just like most Western countries we have a fringe right who are xenophobic and anti immigrant but by and large the population welcomes different cultures and the benefits they bring.",1447491692.0
+105,10565023,comment,10558436.0,10559098.0,0,0,bartvk,,,> Owncloud is cool but very buggy<p>That&,
+106,10565022,comment,10564907.0,10564907.0,0,0,fenollp,,,Stupidly inefficient. `git ls-remote --heads --tags ‹URL›`,1447491608.0

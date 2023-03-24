@@ -1,0 +1,138 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9424942,comment,9424563.0,9424563.0,0,0,patio11,,,There are also a few cafes which are laptop friendly.  (That&,
+1,9424941,comment,9421932.0,9424293.0,0,0,byoung2,,,I would question anyone who cites IE6 as a reason for coding a certain way in 2015. IE6 hasn&,
+2,9424940,comment,9424037.0,9424864.0,0,0,markc,,,You don&,
+3,9424939,comment,9424654.0,9424797.0,0,0,michaelmior,,,"Something like the Unlicense[0] seems like a viable alternative.<p>[0] <a href=""http://unlicense.org/"" rel=""nofollow"">http://unlicense.org/</a>",1429761467.0
+4,9424938,comment,9423545.0,9424627.0,0,0,munificent,,,> I don&,
+5,9424937,comment,9420837.0,9423876.0,0,0,laxatives,,,Its trained for the response of a particular commentator (presumably a Habs fan).,1429761434.0
+6,9424936,comment,9424037.0,9424833.0,0,0,apaprocki,,,That&,
+7,9424934,comment,9424590.0,9424688.0,0,0,michaelmior,,,True. I did find it odd how closely the screenshot resembles Google Docs though. Granted there&,
+8,9424933,comment,9423680.0,9424394.0,0,0,jacquesm,,, That&,
+9,9424932,comment,9424037.0,9424873.0,0,0,dget,,,To be fair... the price was artificially kept at $0.05 from when the subway system was opened in 1904 until some point in the 50&,
+10,9424931,comment,9420991.0,9420991.0,0,0,ChuckMcM,,,Excellent writeup.<p>My favorite part is the suggestion to get your top three priorities and then throw out two and three. No startup can survive trying to be three things at once.,1429761061.0
+11,9424930,comment,9421932.0,9424658.0,0,0,byoung2,,,"<i>Stuff like Function.prototype.bind can be easily found By Googling. You want candidates who can adapt to the unknown.</i><p>That is true, but it is a warning sign that someone with 10 years of working with Javascript has never had to use those functions (even if they had to Google it 5 years ago, they should remember it now). It would be like hiring a driver with 10 years of experience who didn&",
+12,9424929,comment,9423545.0,9424777.0,0,0,vitaut,,,"When you develop something you consider not only the features of the language itself, but also the availability of libraries in this particular language. There is a large amount of high-quality C++ libraries and C++ can consume C libraries seamlessly. In most other languages you need to write often unsafe bindings to connect to C.<p>D simply doesn&",
+13,9424928,comment,9423545.0,9424777.0,0,0,aric,,,"D is a better alternative for many people. Speaking of Scott Meyers, C++, and D, his talk at DConf 2014 was humorous and you&",
+14,9424927,comment,9424171.0,9424877.0,0,0,Alex3917,,,">  The &quot;comprehensive&quot; studies still show that SSRIs are effective<p>From the article:<p>&quot;Most of the studies were supported by funds from pharmaceutical companies and were of short duration.&quot;<p>In other words, what they are saying is that the published research papers show efficacy for SSRIs, which is completely different from saying that the research shows that SSRIs are effective.",1429761012.0
+15,9424925,story,,,2,0,dan_siepen,Show HN: What do you think of this idea of curating hackathons worldwide?,http://welovehackathons.com/,,1429760924.0
+16,9424924,comment,9422721.0,9423529.0,0,0,techdragon,,,"Going along with assumption A is obstinate and we live in a world where the U.S. Not only assumes B is false, but add assumption C &quot;anyone who isn&",
+17,9424923,story,,,2,1,Errorcod3,Ask HN: Are reposts an issue?,,"I have seen quite a few posts on the Chinese modifying embryos.<p>Unable to downvote :(<p>Just curious if reposts are an issue on this site, and if they need to be policed better.",1429760910.0
+18,9424922,comment,9422622.0,9424885.0,0,0,JasonFruit,,,I didn&,
+19,9424920,comment,9422622.0,9424885.0,0,0,dragonwriter,,,"Yes, I did that too; took the test in 1990.",1429760878.0
+20,9424918,story,,,5,2,dedalus,Ask HN: When Did Indexes and Query Planners Become a Part of a Database?,,I wanted to see if anyone here knew how they got integrated in the modern database system and what were the adoption challenges and maturity issues before we all now take then for granted.,1429760821.0
+21,9424917,comment,9422622.0,9424885.0,0,0,gtrubetskoy,,,"Yep, you had to buy a floppy with TurboPascal for $5 I think... I actually liked it, some most fundamental things about programming &quot;clicked&quot; for me in the Pascal class. And then even found the skill useful to write stuff in Borland Delphi later on.",1429760802.0
+22,9424915,comment,9422033.0,9424321.0,0,0,shkkmo,,,I do think we eventually need to move to more flexible pricing though. Not all data is equally cheap to transit (i.e. runs on infrastructure of the same capital and maintenance costs). Commoditizing wireless access and allowing flexible pricing would allow more competition and innovation in how that wireless access is provided.<p>It is going to requi,1429760780.0
+23,9424914,story,,,6,6,taylorling,Pearson says 3x7x26 is not 546,http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/10/08/pearsons-wrong-answer-and-why-it-matters-in-the-high-stakes-testing-era,,1429760762.0
+24,9424913,comment,9422033.0,9422033.0,0,0,datashovel,,,The company who figures out how to make mobile data cheap will absolutely crush the competition.<p>Let&,
+25,9424912,comment,9424758.0,9424760.0,0,0,smt88,,,"Free plans suggest that your service is worth nothing, because you can give it away for free. That&",
+26,9424911,comment,9416964.0,9417670.0,0,0,flippant,,,Off-topic: I think you might need to set your email address in the repository for Github to track your public contributions.,1429760677.0
+27,9424910,story,,,49,61,misiti3780,Why Americans Are Going Abroad,https://medium.com/migration-issues/why-are-americans-leaving-75fe530ce49d?sectionName=suggested,,1429760676.0
+28,9424908,comment,9418057.0,9424206.0,0,0,hyc_symas,,,"For user search you still would set a size limit, and a server admin would set a server-side size limit to avoid other resource hogging issues.<p>I concede the point that there&",
+29,9424907,comment,9424415.0,9424415.0,0,0,smt88,,,I&,
+30,9424905,comment,9424730.0,9424730.0,0,0,damm,,,+1 what josho said.<p>It would be helpful knowing the OP is located; as in the US (Washington) some Recruiters will bait and switch you once you get into the office.  So be careful what you sign and agree to.,1429760492.0
+31,9424904,comment,9424171.0,9424815.0,0,0,GabrielF00,,,"If you choose to stop taking an anti-depressant, please be careful and consult a physician. If you don&",
+32,9424903,comment,9419503.0,9421875.0,0,0,smt88,,,I believe you that it&,
+33,9424902,comment,9424879.0,9424879.0,0,0,Errorcod3,,,I am totally for genetic modification of embryos!<p>Only downside I can foresee is the possible unknown long-term side effects.,1429760416.0
+34,9424901,comment,9424590.0,9424590.0,0,0,semerda,,,I hope they do something more innovative than the other guys. Like bringing this collaborative notes feature onto the desktop vs another browser based notes sharing site.<p>I use Dropbox on my computer as thought it&,
+35,9424900,comment,9422033.0,9424472.0,0,0,shkkmo,,,There are a variety of options:<p>FreedomPop provides 500mb a month free data and you can pre-pay monthly for more data with lower overage costs. You do get sprint only.<p>Republic Wireless already does the Wifi calling and switching and unlimited data.<p>Ptel sells prepaid data at a flat $.10/megabye (atleast $10 / 60 days) and there are others in that range.<p>There really isn&,
+36,9424899,comment,9424171.0,9424171.0,0,0,jmspring,,,I can&,
+37,9424898,comment,9424171.0,9424716.0,0,0,Alex3917,,,This entire article is based on a complete mischaracterization of Robert Whitaker&,
+38,9424897,comment,9421294.0,9424561.0,0,0,JoeAltmaier,,,That&,
+39,9424896,story,,,2,0,kvanderd,Great reminder/resource for code reviews (receiving and giving),https://github.com/thoughtbot/guides/tree/master/code-review,,1429760295.0
+40,9424895,comment,9424881.0,9424881.0,0,0,Errorcod3,,,"I am confused by the misleading title of this article.<p>&quot;But some of the increase in computer science funding is coming at the expense of social, behavioral and economic sciences.&quot;<p>What is so critical about social sciences to cyber-security?",1429760287.0
+41,9424894,comment,9419297.0,9423067.0,0,0,smt88,,,It&,
+42,9424893,comment,9420878.0,9424205.0,0,0,Adam_O,,,"Agreed, it was a really motivating read. I enjoyed the optimistic (and not too preachy) outlook he has regarding technology just on the horizon, especially in medicine/biotech.",1429760265.0
+43,9424892,comment,9420265.0,9420265.0,0,0,cphoover,,,Ok so how do you add a venue in the iOS app?,1429760259.0
+44,9424891,comment,9424459.0,9424459.0,0,0,potomushto,,,"Looks like StartHQ.com, only contextual",1429760229.0
+45,9424889,comment,9424654.0,9424775.0,0,0,michaelmior,,,I assume you mean frames and not iframes.,1429760193.0
+46,9424888,comment,9422033.0,9422570.0,0,0,ryanSrich,,,"I pay $110 per month for 2 iPhones and unlimited talk, text, and data on T-Mobile. I really don&",
+47,9424887,comment,9424037.0,9424037.0,0,0,magoon,,,Fares just went up 10%. Does that make sense?,1429760176.0
+48,9424886,story,,,1,0,yanhangyhy,Docker Remote Attch Use Websocket,https://github.com/hangyan/docker-ws-client,,1429760165.0
+49,9424885,comment,9422622.0,9422622.0,0,0,explosion,,,I remember taking AP Computer Science in high school and learning Pascal. Anyone else remember doing this? The AP Comp Sci exams were in Pascal until 1998.,1429760147.0
+50,9424884,comment,9422033.0,9423193.0,0,0,ddlatham,,,"I also live in Alameda and work in SOMA.  I have T-Mobile and get excellent coverage in Alameda (definitely improved over the last 4 years), across much of BART, most of the Bay Bridge (not in the tunnnel), and perfect in SOMA.  Hangouts works great.  One dead spot on 880 approaching 80, but no other empty spots down to San Jose.",1429760143.0
+51,9424883,comment,9424171.0,9424865.0,0,0,gordaco,,,Anti-depressants didn&,
+52,9424882,comment,9424563.0,9424563.0,0,0,ekianjo,,,Nice ! I&,
+53,9424881,story,,,2,2,Errorcod3,House bill slashes research critical to cybersecurity,http://www.computerworld.com/article/2913657/cybercrime-hacking/house-bill-slashes-research-critical-to-cybersecurity.html,,1429760078.0
+54,9424880,story,,,2,0,jestinjoy1,Ready for Jessie (aka bits from the debian-cd team),http://blog.einval.com/2015/04/23,,1429760025.0
+55,9424879,story,,,3,1,jonbaer,Chinese scientists admit to tweaking the genes of human embryos,http://www.businessinsider.com/chinese-scientists-genetic-modification-human-embryo-crispr-2015-4,,1429759982.0
+56,9424878,comment,9423680.0,9424412.0,0,0,matmann2001,,,Definitely awesome.  Here&,
+57,9424877,comment,9424171.0,9424871.0,0,0,gburt,,,"The fatal error in his reasoning is fundamentally units vs. integration. The &quot;comprehensive&quot; studies still show that SSRIs are effective [0], the mechanism of action is just not likely to be &quot;because you didn&",
+58,9424876,comment,9423680.0,9424493.0,0,0,matmann2001,,,"<a href=""https://www.youtube.com/watch?v=_4KxPPr5fQc"" rel=""nofollow"">https://www.youtube.com/watch?v=_4KxPPr5fQc</a>",1429759896.0
+59,9424875,story,,,1,0,xai3luGi,Automatic packaging tools in Debian,https://wiki.debian.org/AutomaticPackagingTools,,1429759841.0
+60,9424874,comment,9424171.0,9424781.0,0,0,dholowiski,,,"Pretty much the same here. Its easy to downplay depression or anxiety, but SSRIs are a literal lifesaver for many people, myself included.",1429759840.0
+61,9424873,comment,9424037.0,9424649.0,0,0,heliodor,,,I wanted to see just how true MoveNY&,
+62,9424872,story,,,2,0,jonbaer,Area Dad Does Very Dad Thing with Drone,http://motherboard.vice.com/read/area-dad-does-very-dad-thing-with-drone,,1429759814.0
+63,9424871,comment,9424171.0,9424171.0,0,0,electronvolt,,,I think it&,
+64,9424870,story,,,1,0,dluan,The precautionary principle,http://en.wikipedia.org/wiki/Precautionary_principle,,1429759793.0
+65,9424869,comment,9360093.0,9361343.0,0,0,teammatters,,,Scammers HA this is one of the biggest companies in the world.  They have some real jerks working for them!,1429759747.0
+66,9424868,comment,9424563.0,9424563.0,0,0,alexbowe,,,I&,
+67,9424867,story,,,1,0,jonbaer,Soggy Computing: Liquid Devices Might Match the Brain's Efficiency,http://spectrum.ieee.org/semiconductors/devices/soggy-computing-liquid-devices-might-match-the-brains-efficiency,,1429759648.0
+68,9424866,comment,9423857.0,9424735.0,0,0,skuunk1,,,Thanks very much!,1429759642.0
+69,9424865,comment,9424171.0,9424171.0,0,0,teammatters,,,"For me and others close to me anti-depressants proved to be a joke/a placebo.<p>I was on five to six different drugs to cure an odd social anxiety, that went away as I got older and grew more comfortable in my skin.  How in the world can a drug cure an odd internal social behavior that leads one to feel anxious/uncomfortable?  Answer for me is .. it can&",
+70,9424864,comment,9424037.0,9424833.0,0,0,colechristensen,,,I know people who made a sport of riding their bikes to work several miles every day of the year through the Minneapolis winter. Maybe there were a small handful of exception days. A little rain isn&,
+71,9424863,comment,9424860.0,9424860.0,0,0,SEJeff,,,"There is also a job req open:<p><a href=""https://jobs.github.com/positions/71c170fc-18de-11e4-84d8-baa2feb21dd1"" rel=""nofollow"">https://jobs.github.com/positions/71c170fc-18de-11e4-84d8-ba...</a>",1429759592.0
+72,9424862,story,,,2,0,dan_siepen,Top 15 sites built with Go,http://coderfactory.co/posts/top-sites-built-with-go,,1429759585.0
+73,9424861,story,,,2,0,dil8,Carmichael number,https://en.wikipedia.org/wiki/Carmichael_number,,1429759565.0
+74,9424860,story,,,25,1,SEJeff,Apple Siri: Powered by Apache Mesos,http://www.neotextus.org/2015/04/22/very-cool-day-to-be-a-mesos-developer-apple-ann/,,1429759514.0
+75,9424859,comment,9420991.0,9420991.0,0,0,allworknoplay,,,"This is a great writeup that tracks pretty much everything I know about successful startups. I started my career doing M&A for mid-sized tech companies (and saw a lot of varied outcomes), then got technical and have now been a software engineer for several startups, two of my own.<p>You&",
+76,9424858,comment,9420991.0,9420991.0,0,0,icedchai,,,So what was the plan for actually making money? Was there any revenue at all?,1429759500.0
+77,9424857,comment,9423545.0,9424609.0,0,0,pikma,,,"His past C++ projects (or lack thereof) do not tell much about the quality of his books. He teaches people how to master C++, and that&",
+78,9424856,comment,9424037.0,9424816.0,0,0,heliodor,,,The population growth analysis would require further breakdown. The eastern half of Queens doesn&,
+79,9424855,comment,9422597.0,9423964.0,0,0,cbd1984,,,"Intel syntax has more intuitive memory access syntax:<p>AT&T syntax:<p><pre><code>    movl mem_location(%ebx,%ecx,4), %eax\n</code></pre>\nIntel syntax:<p><pre><code>    mov eax, [ebx + ecx*4 + mem_location]\n</code></pre>\nThe other differences are minor compared to that, IMHO.<p><a href=""https://en.wikipedia.org/wiki/X86_assembly_language",
+80,9424854,comment,9422033.0,9422857.0,0,0,shkkmo,,,The quote is talking about upgrading the network increasing costs without directly increasing revenue.,1429759409.0
+81,9424853,comment,9424654.0,9424814.0,0,0,icebraining,,,"But does the author actually send messages granting those licenses, or is the user supposed to &quot;will them into existence&quot;? Because in the first case, the author just bought himself a whole lot of stupid work, and in the second, I don&",
+82,9424852,story,,,1,0,oscarmcm,A polymer template for display a cool profile vcard,http://oscarmcm.github.io/profile-vcard,,1429759335.0
+83,9424851,comment,9423680.0,9424796.0,0,0,matmann2001,,,"1) At the GPIO level, the RPi actually has kernel-space SPI driver.  What I really mean is a driver interface for my program.<p>2) SPI is a ridiculously simple protocol.  I have a background in embedded systems, so it&",
+84,9424850,comment,9423545.0,9424663.0,0,0,jlarocco,,,"I largely agree with you, BUT, this version of Effective C++ was less opinion and style oriented and more a guide to avoiding easy to make mistakes with some of the new C++11 and C++14 features.  Not  following many of the guidelines will result in incorrect and broken code.<p>My recollection of the older books is that they covered &quot;best practices,&quot; and ignoring them may have been bad style, but the code would still be technically correct.  Quite a few are still style issues, but it&",
+85,9424849,story,,,5,0,scapbi,Windows XP support has ended,http://windows.microsoft.com/en-us/windows/end-support-help,,1429759242.0
+86,9424848,comment,9419239.0,9419239.0,0,0,JacobAldridge,,,"Low tech solution that has evolved over time - spreadsheets, fortnightly budget reconciliation, and a hand-written Personal Balance Sheet (which I replicate in the Wealth+ app).<p>The Budget spreadsheet has a (annual/qtrly/mthly/weekly) budget for about 100 items (this is the bit that&",
+87,9424847,comment,9423545.0,9424773.0,0,0,InclinedPlane,,,To within a disturbingly accurate margin of error I can tell you right now his financial return for this book: zero dollars.<p>There isn&,
+88,9424846,comment,9421831.0,9424188.0,0,0,the8472,,,That is indeed somewhat more informative. More centered around the findings and potential applications instead of telling a people-story.,1429759170.0
+89,9424845,comment,9420427.0,9424743.0,0,0,nearengine,,,"Yep! Plus the tuner card itself can use 200mA or so, and if you want to use any other USB accessories they&",
+90,9424844,comment,9422622.0,9424820.0,0,0,cbd1984,,,"Real programmers have been using virtual machines since CP-40.<p><a href=""https://en.wikipedia.org/wiki/IBM_CP-40"" rel=""nofollow"">https://en.wikipedia.org/wiki/IBM_CP-40</a>",1429759134.0
+91,9424843,comment,9419035.0,9424619.0,0,0,lazylizard,,,um. maybe they want to stop redrawing the constituency boundaries ever so often?,1429759081.0
+92,9424842,story,,,1,0,yutarochan,SMS Protocol Vulnerability That Affects All Verizon Phones,https://www.youtube.com/watch?v=Bfn4svvGOPo&feature=youtu.be,,1429759058.0
+93,9424841,comment,9420837.0,9420837.0,0,0,circa,,,Very cool.  Lets go Islanders!!!!,1429759054.0
+94,9424840,comment,9419503.0,9420962.0,0,0,arvinsim,,,This is great. I have struggled with using Go in web apps.<p>It&,
+95,9424839,comment,9422033.0,9422033.0,0,0,salem,,,What I&,
+96,9424838,comment,9424654.0,9424797.0,0,0,cbd1984,,,> My point is that you can&,
+97,9424837,comment,9422033.0,9422667.0,0,0,henrikg,,,I&,
+98,9424836,story,,,6,4,kolev,JMESPath – a query language for JSON,http://jmespath.org/,,1429758937.0
+99,9424835,comment,9424037.0,9424752.0,0,0,sliverstorm,,,"<i>No! I demand it all or nothing, right now!</i><p>(the vibe I get from the typical political activist)",1429758918.0
+100,9424834,comment,9421831.0,9424400.0,0,0,ekianjo,,,>  since we no longer know how (some) catalysts work<p>It&,
+101,9424833,comment,9424037.0,9424778.0,0,0,MichaelApproved,,,What about when it rains?,1429758867.0
+102,9424832,comment,9422597.0,9422597.0,0,0,SFjulie1,,,"Hello world example is a great misdirection.<p>Heavy lifting is done by an external routine being called.<p>That does not make you learn assembly language.<p>ASM is about interrupt (bottom half), calling other piece of assembly, saving and restoring the registers, and above all mastering the mov, and the art of deciphering how registers are used.<p>This is only just assembly quiche programming.",1429758860.0
+103,9424831,comment,9424654.0,9424812.0,0,0,cbd1984,,,"> Is public domain a license, or is it no license?<p>Public domain means nobody owns the copyright to that work. Anyone can use it for any purpose whatsoever, because there&",
+104,9424830,comment,9423680.0,9424437.0,0,0,matmann2001,,,You captured my sentiments well.  I found OP&,
+105,9424829,comment,9420051.0,9423468.0,0,0,RodericDay,,,I&,
+106,9424828,comment,9421831.0,9424593.0,0,0,sitharus,,,"Not really, more like finding both in the same book store. Different audiences like different formats, so if you can have both you get more viewers.<p>Personally I hate the narrative form of news reporting, I like just the facts.",1429758825.0
+107,9424827,comment,9422033.0,9423947.0,0,0,shkkmo,,,I don&,
+108,9424826,story,,,2,0,danboarder,DIY Solar Sail Boat. Solar Punk Style [video],https://www.youtube.com/watch?v=9z4RRn-LXhs,,1429758753.0
+109,9424825,comment,9420878.0,9423944.0,0,0,notatoad,,,"Farmers needing subsidies isnt a problem unique to vertical farming, though.",1429758737.0
+110,9424824,comment,9424654.0,9424654.0,0,0,jedbrown,,,"Why choose this over Concurrency Kit (<a href=""http://concurrencykit.org/"" rel=""nofollow"">http://concurrencykit.org/</a>)?",1429758708.0
+111,9424823,story,,,4,0,alexsnurnikov,Show HN: Hacker News notifier – notifies you whenever your domain is posted,https://github.com/admix/hn-notifier,,1429758680.0
+112,9424822,comment,9422033.0,9422872.0,0,0,salem,,,"No, the big difference here is that Google&",
+113,9424821,comment,9424171.0,9424781.0,0,0,Ollinson,,,"Same here. I used to have panic attacks from any unusual physical stimulation (too hot, too cold, hungover, hungry, ate too much). These would happen weekly and many times put me in the ER.<p>I have not had a single panic attack since I&",
+114,9424820,comment,9422622.0,9422622.0,0,0,hyc_symas,,,I wonder if real programmers use virtual machines though.,1429758643.0
+115,9424819,comment,9423545.0,9424773.0,0,0,watmough,,,"John Resig may be a bigger name, and he didn&",
+116,9424818,comment,9422033.0,9422727.0,0,0,bluedino,,,That Google is long gone.,1429758600.0
+117,9424816,comment,9424037.0,9424657.0,0,0,epc,,,"That does seem to be outpacing growth in both the City and metro area. The City is now at approximately 8.5MM people [1], the metro area has approximately 20.1MM people.<p>The City had 8.17MM people in 2010[2], so just a hair under 5% growth since 2010, maybe 1% per year?<p>[1] <a href=""http://www.census.gov/newsroom/press-releases/2015/cb15-56.html"" rel=""nofollow"">http://www.census.gov/newsroom/press-releases/2015/cb15-56.h...</a><p>[2] <a href=""http://quickfacts.census.gov/qfd/states/36/3651000.html"" rel=""nofollow"">http://quickfacts.census.gov/qfd/states/36/3651000.html</a>",1429758569.0
+118,9424815,comment,9424171.0,9424171.0,0,0,fsk,,,There were several drugs I tried where I couldn&,
+119,9424814,comment,9424654.0,9424797.0,0,0,wmf,,,"It seems like a reasonable approach to me; it shifts the burden of choosing the license to those who care about licensing. For example, if you work for a company with uptight lawyers you can just request Apache 2.0 and everybody&",
+120,9424813,comment,9422961.0,9422961.0,0,0,JacobAldridge,,,Not loading for me - did we just Slashdot Slashdot?,1429758462.0
+121,9424812,comment,9424654.0,9424770.0,0,0,anon3_,,,"Is public domain a <i>license</i>, or is it no license?<p>I&",
+122,9424811,comment,9419503.0,9420962.0,0,0,4ydx,,,And how often do we actually encounter these &quot;unknown&quot; json data types?  Using an official api?  Never.,1429758427.0
+123,9424810,comment,9419503.0,9419548.0,0,0,imron,,,"I remember when Go first came out and I thought &quot;wow, that looks interesting, I&",
+124,9424809,comment,9422961.0,9424430.0,0,0,kw71,,,"PowerVu is pretty old, and (at least in the USA) it&",
+125,9424808,comment,9423545.0,9424773.0,0,0,bluedino,,,Being an author of a well regarded programming book has plenty of benefits that don&,
+126,9424807,comment,9419930.0,9424393.0,0,0,icebraining,,,Nobody said or implied that they have any equivalence. Please try to follow the logic of the arguments being made before being outraged at them.,1429758397.0
+127,9424806,comment,9423050.0,9423708.0,0,0,welder,,,"> 1. How many application servers are you using?<p>1<p>> 2. How much RAM, CPU cores, etc. does each application server have?<p>Using an m3.large ec2 instance so 2 vCPUs and 7.5 GiB ram (<a href=""https://aws.amazon.com/ec2/instance-types/",
+128,9424805,comment,9424037.0,9424715.0,0,0,WoodenChair,,,"You may not find driving across bridges palatable for the environment or congestion, but there are many situations in which it makes sense.  For example, there are people with disabilities who can&",
+129,9424802,comment,9424654.0,9424766.0,0,0,zaszrespawned,,,"Haha yes, and one can relate to his experience as well.",1429758224.0
+130,9424801,comment,9419503.0,9424465.0,0,0,stock_toaster,,,"Here are a few google results:<p>* <a href=""http://erickt.github.io/blog/2014/11/03/performance/"" rel=""nofollow"">http://erickt.github.io/blog/2014/11/03/performance/</a> and <a href=""http://erickt.github.io/blog/2014/11/11/benchmarks/"" rel=""nofollow"">http://erickt.github.io/blog/2014/11/11/benchmarks/</a><p>* <a href=""https://github.com/ugorji/go-codec-bench"" rel=""nofollow"">https://github.com/ugorji/go-codec-bench</a><p>* <a href=""https://github.com/golang/go/issues/5683"" rel=""nofollow"">https://github.com/golang/go/issues/5683</a><p>In my own testing it was faster (even with ffjson) to pre-clean my data in cpython or pypy, and then emit some intermediary format (like capnproto) for the go code to consume. I was parsing huge files full of lots of non-uniform json with many formats.<p>For most use cases though, the fact that json is &quot;slow&quot; is probably not a huge factor, as network IO or something else is likely the gating factor. For those uncommon cases though, I wish the native json lib in Go was faster.",1429758197.0
+131,9424799,comment,9424730.0,9424730.0,0,0,josho,,,"You just made the recruiter several thousand dollars for placing you. I suspect they want you in their office as a customer relationship tactic. Ie. Thank you for working with them, here&",
+132,9424798,comment,9424654.0,9424654.0,0,0,zaszrespawned,,,This guys blog is hilarious~!,1429758148.0
+133,9424797,comment,9424654.0,9424654.0,0,0,troymc,,,"&quot;If however for legal reasons a licence is required, the license of your choice will be granted.&quot;<p>Very well, I want an exclusive license, meaning I&",
+134,9424796,comment,9423680.0,9424379.0,0,0,distantsounds,,,">Then wrote a driver for the LED strip, which communicates over SPI.<p>If you have to write a driver, you might want to reconsider your definition of &quot;overkill.&quot;",1429758082.0
+135,9424795,comment,9420837.0,9423766.0,0,0,SG-,,,I guess it probably didn&,
+136,9424793,comment,9424654.0,9424786.0,0,0,cbd1984,,,> ...are you arguing with yourself?<p>You don&,

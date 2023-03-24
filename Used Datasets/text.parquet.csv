@@ -1,0 +1,301 @@
+,Person,Sentence
+0,Norma Fisher,"Thank you.
+"
+1,Jorge Sullivan,"Good afternoon.
+"
+2,Elizabeth Woods,"Thanks for joining us to discuss Power Integrations' financial results for the second quarter of 2016.
+"
+3,Susan Wagner,"With me on the call are <UNK> <UNK>, President and CEO of Power Integrations, and <UNK> <UNK>, our Chief Financial Officer.
+"
+4,Peter Montgomery,"During today's call, we will refer to financial measures not calculated according to generally accepted accounting principles.
+"
+5,Theodore Mcgrath,"Please refer to today's press release available on our website at investors.
+"
+6,Stephanie Collins,"power.com for an explanation of our reasons for using such non-GAAP measures as well as tables reconciling these measures to our GAAP results.
+"
+7,Stephanie Sutton,"Our discussion today, including the Q&A session, will include forward-looking statements reflecting our forecast of certain aspects of the Company's future business and financial results.
+"
+8,Brian Hamilton,"Such statements are denoted by words like will, would, believe, should, expect, outlook, estimate, planned, goal, anticipate, forecast, and similar expressions that look towards future events or performance.
+"
+9,Susan Levy,"Forward-looking statements are based on current information that is dynamic and subject to abrupt changes.
+"
+10,Sean Green,"Our forward-looking statements are subject to risks and uncertainties which may cause actual results to differ materially from those projected or implied in our statements.
+"
+11,Kimberly Smith,"Such risks and uncertainties are discussed in today's press release and in our most recent Form 10-K filed with the SEC on February 11, 2016.
+"
+12,Jennifer Summers,"This conference call is the property of Power Integrations, and any recording or rebroadcast is expressly prohibited without the written consent of Power Integrations.
+"
+13,April Snyder,"And now I'll turn the call over to <UNK>.
+"
+14,Dana Nguyen,"Thanks, <UNK>, and good afternoon.
+"
+15,Cheryl Bradley,"This was a record revenue quarter for Power Integrations with sales of $97.2 million, up 14% from a year ago.
+"
+16,Walter Pratt,"Non-GAAP earnings was $0.60 per share, up more than 25% year over year.
+"
+17,Bobby Flores,"And we generated $23.6 million in cash flow from operations in the quarter.
+"
+18,Tasha Rodriguez,"For the first half of the year, revenues increased 9%, comparing favorably to the broader analog semiconductor industry, which most likely experienced a slight contraction in the first half of the year.
+"
+19,Michelle Kelley,"The primary driver of our growth in the first half has been our success in the smartphone charger market, which is undergoing dramatic technological changes driven by a pair of inherently conflicting trends in the mobile device market.
+"
+20,Kimberly Maynard,"On one hand, OEMs are incorporating larger batteries in their phones in order to improve battery life while supporting bigger displays and other power-hungry features.
+"
+21,Laurie Wallace,"On the other hand, device makers are also pushing to reduce charge times in order to reduce downtime for end users.
+"
+22,Janice Johnston,"These seemingly incompatible objectives can be met only with a drastic increase in the power level of smartphone chargers, and that is exactly what we are seeing in the marketplace.
+"
+23,Collin Lopez,"Just two years ago, virtually all mobile phone chargers were delivering 5 watts or less.
+"
+24,Mary Alvarez,"This year, hundreds of millions of smartphones will ship with higher power chargers ranging from 7.5 watts to as high as 20 watts.
+"
+25,Peter Mcdowell,"Nearly all top-tier OEMs are now participating in this trend, and all of those are using our products in high volume.
+"
+26,Sarah Villanueva,"While increasing the power level of a cellphone charger may sound routine, the fact is that rapid charging introduces difficult tradeoffs for power supply designers.
+"
+27,Kimberly Myers,"In order to deliver two, three, or even four times as much power out of a charger while maintaining a small form factor, designs must be extremely energy efficient and component count kept as low as possible.
+"
+28,Desiree Cain,"Integration is the key to solving these challenges, and we believe our InnoSwitch products are the most highly integrated power conversion ICs on the market.
+"
+29,Stephanie Lawrence,"While earlier products were confined to the primary or high-voltage side of a power supply, InnoSwitch straddles the barrier between primary and secondary sides of the circuit.
+"
+30,Lauren Hayes,"This allows us to integrate components from both sides of the safety barrier, enabling dramatic improvement in performance while reducing component count, complexity, and size.
+"
+31,Whitney Stark,"These characteristics make InnoSwitch extremely well suited for rapid charging applications, and that's clearly reflected in our recent results.
+"
+32,Angela Salazar,"Revenues from our communications category, which includes mobile phone chargers, are up more than 30% in the first half of 2016.
+"
+33,Mr. Ryan Sanchez,"This growth reflects not only our increasing share of the charger market, but also the rising dollar content, which stems from the combination of rising power levels and the higher level of integration offered by InnoSwitch.
+"
+34,Autumn Robinson,"While rapid charging has already had a significant impact on our results, we expect it to be a growth driver for years to come.
+"
+35,Faith Cabrera,"This is for a number of reasons.
+"
+36,Charles Wolfe,"First, penetration of rapid charging is still in the early stages, and even existing designs will continue to migrate to higher power levels over time.
+"
+37,Kenneth Kent,"Second, new technologies such as USB-PD, direct charging, and Type-C connectors are just beginning to emerge.
+"
+38,Melanie Johnson,"And all of these technologies will drive the need for more innovative power conversion ICs.
+"
+39,Lisa Johnston,"Third, rapid charging has huge potential beyond mobile phone market, particularly in tablets and notebooks.
+"
+40,Jacob Hooper,"And finally, as successful as InnoSwitch has already been, we believe the next generation devices due out later this year will be even more attractive.
+"
+41,Alex Woodward,"Perhaps more importantly, rapid charging represents just a fraction of the opportunity for InnoSwitch in the AC to DC power supply market.
+"
+42,Caleb Clark,"InnoSwitch has already won designs in more than a dozen non-cellphone applications in all four of our end markets categories, and we have designs in progress at nearly 400 customers.
+"
+43,Taylor Johnson,"We expect a further acceleration of design activity once we introduce the next generation InnoSwitch, which not only offers a higher level of performance, but also addresses significantly higher power levels.
+"
+44,Brian Green,"While we expect the InnoSwitch product cycle to be a multiyear growth driver, our growth opportunities extend well beyond the AC to DC power supply market.
+"
+45,Matthew Bell,"So far this year, we have introduced four new members of our LYTSwitch product line as we continue to refine our offerings for the increasingly fragmented LED lighting market.
+"
+46,Jonathan Williams,"Lighting revenues are on track to grow this year, and we expect even faster growth next year as our latest LYTSwitch products begin to ramp.
+"
+47,William Gonzalez,"In May, we introduced SCALE-iDriver, a new line of IGBT drivers targeting applications between 10 and 100 kilowatts.
+"
+48,Nicholas Massey,"SCALE-iDriver is the first product synergy from our 2012 acquisition of Concepts, combining our SCALE IGBT driver technology with the FluxLink technology used in our InnoSwitch devices.
+"
+49,Caroline Chambers,"The result is an IC that brings an unprecedented level of integration to a market that has historically relied solely on discrete designs.
+"
+50,Amy Lowe,"Applications include industrial motor drives, commercial and residential solar, medical equipment, electric vehicles and more.
+"
+51,Gloria King,"We estimate this market to be half a billion dollars in size, bringing our total market opportunity for IGBT drivers to roughly a billion dollars.
+"
+52,Jessica Thompson,"All told, our served available market now exceeds $3 billion, and we expect it to grow further in the years ahead.
+"
+53,Jason Carroll,"This expansion will be driven in part by product introductions that enable us to address power conversation applications where we don't currently have a presence.
+"
+54,Emily Howard,"But it also comes from growth in a number of verticals in which power silicon content is rising.
+"
+55,Danielle Castro,"For example, electronic content in consumer appliances has been steadily expanding thanks to stricter energy efficiency requirements and the migration from mechanical to electronic control, a trend that should continue as IoT functionality comes to market.
+"
+56,Patrick Rogers,"Meanwhile, older lighting technologies are giving way to LEDs, which require AC to DC drivers, and mechanical utility meters are being replaced by electronic meters that need efficient, reliable power supplies.
+"
+57,Douglas Allen,"Other trends include electrification of transportation and the increasing use of rechargeable batteries in products such as power tools, lawn equipment, and bicycles.
+"
+58,Heather Roberts,"In summary, our first-half results were strong, we are gaining market share across a broad range of power conversion applications, and we believe we are poised for continued above-market growth thanks to a robust product cycle and an expanding addressable market.
+"
+59,Travis Schultz,"The high-voltage power conversion space continues to evolve in ways that demand integration and energy efficiency, and we are responding with some of our most innovative products ever.
+"
+60,Michelle Hughes,"And with that, I will turn it over to <UNK> for a review of the financials.
+"
+61,Matthew Smith,"Thanks, <UNK>, and good afternoon.
+"
+62,George Allen,"I will quickly touch on a few financial highlights, and then we will open it up for questions.
+"
+63,Jamie Hutchinson,"As usual, my remarks will focus mainly on the non-GAAP numbers, which are reconciled to the corresponding GAAP figures in the tables accompanying our press release.
+"
+64,Jennifer Morales,"Q2 revenues were $97.2 million, an increase of 14% sequentially with growth across all four end markets.
+"
+65,Jennifer Bates,"Communications revenue increased more than 35% sequentially, driven mainly by the continuing ramp of rapid charging designs for the smartphone market.
+"
+66,Jeremy Green,"Industrial revenues increased more than 10% sequentially on broad-based strength including LED lighting, high power, and metering applications.
+"
+67,Joseph Freeman,"Sales into the computing market increased mid single digits sequentially, while consumer revenues also grew mid single digits on strength in appliances, most notably air conditioning applications, which typically reach a seasonal peak in the June quarter.
+"
+68,Nicole Henson,"The relative strength in communication revenues resulted in a meaningful shift in end-market mix with communications increasing 4 percentage points sequentially to 27%, and consumer falling 4 points to 35%.
+"
+69,Eric Owens PhD,"Industrial and computer held constant at 32% and 6% respectively.
+"
+70,Robin Lopez,"This change in mix was a primary factor in the sequential decrease of a 130 basis points in our non-GAAP gross margins.
+"
+71,Miss Angela Swanson DVM,"Looking ahead, we expect gross margin to remain fairly steady in the second half as end market mix should be a bit more stable than we have seen over the past couple of quarters.
+"
+72,Michael Stewart,"Non-GAAP operating expenses in the second quarter were $30.7 million.
+"
+73,Mitchell Smith,"That's up sequentially as expected, reflecting annual merit increases and accelerated R&D spending as we work to bring a larger than usual number of new products to market.
+"
+74,Kelsey Davis,"Nevertheless, non-GAAP OpEx came in slightly below our forecast for the quarter, and increased less than 2% from a year ago.
+"
+75,Matthew Russo,"Non-GAAP operating margin was 18.7%, up 120 basis point sequentially, reflecting the strong revenue growth.
+"
+76,William Garcia,"Our non-GAAP tax rate for the second quarter was just over 4%, resulting in non-GAAP net income of $17.7 million, or $0.60 per diluted share.
+"
+77,Jennifer Miller,"That's up from $0.50 in the prior quarter and $0.47 a year ago.
+"
+78,Jesse Sparks,"We generated $23.6 million in cash flow from operations in the quarter, while capital expenditures totaled $2.8 million.
+"
+79,Brandi Meyer,"Cash and investments on the balance sheet increase by about $17 million during the quarter to $202 million.
+"
+80,Hannah Wiggins,"Internal inventories increased slightly in terms of dollars, but fell to 86 days on hand, a decrease of 12 days from the prior quarter, reflecting the stronger than expected revenue growth.
+"
+81,Albert Williams,"We do expect to build some inventory in the second half to get back into our target range of about 110 days plus or minus 15 days.
+"
+82,Kristin Potts,"Our outlook for the third quarter is for revenues of $96 million to $102 million, which would be up more than 10% year over year at the midpoint.
+"
+83,Susan Williams,"As mentioned earlier, we expect end market mix to be fairly stable, which should result in a gross margin similar to the Q2 level.
+"
+84,Meredith Rios,"Specifically, we expect non-GAAP gross margin to be in the range of 50% to 50.5% for the September quarter.
+"
+85,Stephanie Bowman,"Non-GAAP operating expenses should increase slightly to around $31 million, while the non-GAAP tax rate should remain in the range of 4% to 5%.
+"
+86,Joshua Clark,"With that, I'll turn it back over to <UNK>.
+"
+87,Alexa Hernandez,"Thanks, <UNK>.
+"
+88,Richard Higgins,"We'll move onto the Q&A session now.
+"
+89,Marc Williams,"Kelly, would you please give the instructions for the Q&A.
+"
+90,William Roberts,"It is true, <UNK>, that certain markets are faster.
+"
+91,Joshua Carter,"So if you look at what has increased the addressable market this year, it's primarily the SCALE-iDriver, which adds $500 million to our $2.5 billion addressable market, so that brings a total of $3 billion.
+"
+92,David Williams,"However, we have additional products that are coming out, including our next generation InnoSwitch that'll add to the addressable market this year, and plus some additional products next year that'll expand the market further.
+"
+93,Joseph Jones,"So I would say in terms of time to revenue, some of the lower power markets are faster.
+"
+94,Gary Perry,"They're typically in the 6 to 12 month range.
+"
+95,Terry Wells,"Whereas the high power products tend to be more in the year to year and a half kind of a design cycle; for example, for the iDriver.
+"
+96,Vanessa Cooper,"The yen hasn't had an impact yet.
+"
+97,Michael Simmons,"It'll start having an impact in Q4.
+"
+98,Nicholas Kline,"And you're correct; it takes about nearly five to six months.
+"
+99,Lori Bennett,"But as you know, the yen has been moving through this year from the 120s down to somewhere in the 105, 106 level.
+"
+100,Margaret Jones,"So the unfavorable impact will start in Q4, and if it remains at the current level, more so in the next year.
+"
+101,Paul Brown,"However, a lot can change between now and the end of the year, so it's hard to predict the full impact for the next year.
+"
+102,James Stone,"But the start of the yen impact is more so in the Q4.
+"
+103,John Richards,"It's a little difficult to calculate that because it's such a dynamic market right now.
+"
+104,Jenny Richardson,"To the best we can estimate, roughly one third of the smartphones have started using rapid charging.
+"
+105,Debbie Waters MD,"As far as our share, we think there are really clearly two leading solutions.
+"
+106,Austin Boyer,"One of them is ours.
+"
+107,Stephanie Hayes,"I would say that in terms of dollar value shipped, we are clearly number one.
+"
+108,Barbara Sanders,"Clearly, we have done better than we expected in the cellphone, or the communications market, I should say, particularly in the rapid charging market with InnoSwitch.
+"
+109,Andrew Gould,"We have exposure to all of the Tier I customers except one.
+"
+110,Charles Gonzalez,"And the ones in China have done extremely well, and particularly there is one Chinese OEM who has done extremely well.
+"
+111,Joshua Hernandez,"But I would say that all of our Tier I customers have done well in terms of rapid charging products we ship to them.
+"
+112,Victoria Hernandez MD,"And we've got to be careful because when we ship rapid charging products, it's not only the unit volume, but it's also the content is so much higher for us.
+"
+113,Sherry Simpson,"So our revenue doesn't necessarily reflect the number of units of smartphones or even rapid charging phones.
+"
+114,Erica Jimenez,"But as far as we are concerned, it's been a significant growth in that market.
+"
+115,Mr. Dakota Lynch II,"The second area where we have done very well of course is industrial where we have grown double digits sequentially.
+"
+116,Victor Nolan,"And that has been across multiple areas, including high power, LED, metering, electric chargers for electric vehicles like bicycles, and also chargers for power tools and lawn mowers, and so on and so forth.
+"
+117,Amanda Hernandez,"It's very, very broad-based.
+"
+118,Richard Kirby,"So those are the two main areas.
+"
+119,Michelle Roman,"Absolutely, and that's why I think we are able to talk about the margin remaining even though the yen is going to start impacting us in Q4.
+"
+120,Bradley Melton,"It is the higher volume that we are going -- you know, we don't have our own fab, so we don't have as much fixed cost.
+"
+121,Danny Williams,"But we do have some fixed cost, and that is what is actually enabling us and helping us offset the yen impact that we are starting to see.
+"
+122,Ryan Rivera,"And that's why we were mentioning that we expect the margin to remain in the level compared to Q2 for the rest of the year.
+"
+123,Charles Douglas,"(Multiple speakers) sort of remain the same.
+"
+124,Kathy Santana,"No, the weeks in the channel are down from -- last quarter was 7.3, which is, as you know, because of Chinese New Year, and now it's down to 6.5.
+"
+125,Laura Gregory,"So typically, we run at 5.5, 6 weeks, so you may say it's slightly, but I wouldn't say it's of any significance.
+"
+126,Norma Mooney,"Our backlog is better than in the past.
+"
+127,Susan Harris,"As you've noticed that our turns have been gradually going down, so we built a reasonable backlog in Q2.
+"
+128,Linda Petersen,"Our bookings in Q2 was sequentially better than Q1, consistent with our forecast for Q3.
+"
+129,Dr. James Willis,"So I think we are in a stronger backlog position than we were in Q2 for Q3.
+"
+130,Rebecca Sandoval,"Absolutely.
+"
+131,Christopher Hunter,"One of the unique things about our product is it integrates a switch in it.
+"
+132,Austin Heath,"So as you go to higher power levels, your content is higher, and therefore, our ASP would be higher.
+"
+133,Elizabeth Russell,"I'm sorry, I wasn't sure which -- what product.
+"
+134,Amy Davidson,"iDriver.
+"
+135,Dustin Greer,"Okay.
+"
+136,Andrew Butler,"So the iDriver was introduced in May this year at PCIM Europe.
+"
+137,Scott Love DDS,"The interest level is very high.
+"
+138,William Jenkins,"The feedback is extremely positive.
+"
+139,Jasmine Williams,"We don't expect any revenue this year, but we do expect some revenue next year based on the feedback we have seen so far.
+"
+140,Christian Johnson,"As I said, it typically takes a year to a year and a half for that type of product.
+"
+141,Lorraine Garcia,"It goes into markets of renewables, UPS power supplies, motor control, and so on.
+"
+142,Hannah Reyes,"And my expectation is we should have some revenue in the second half of next year.
+"
+143,Katherine Ibarra,"So basically, we are keeping -- our lead time is the same except for, obviously, certain products where, because we've had such a demand, that we are a little tighter.
+"
+144,Julie Chen,"But we are actually ramping up our production as well at different places.
+"
+145,Caleb Fleming,"So we believe that over the next two quarters, we should get back into our range.
+"
+146,Rachel Martinez,"Okay, well I know it's a busy day out there for earnings, so appreciate everyone listening in.
+"
+147,Rebecca Stark,"There will be a replay of this call available on our website, which is investors.
+"
+148,Melanie Patrick,"power.com.
+"
+149,Rachel Lopez,"Thanks again for listening, and good afternoon.
+"

@@ -1,0 +1,143 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6145244,comment,6142032.0,6142343.0,1,0,CPAhem,,,"It depends on your point of view:<p>Does government exist to serve the people, or do people exist to serve Washington?",1375415996.0
+1,6145243,comment,6143604.0,6144144.0,3,0,PhasmaFelis,,,"<i>I see another issue --- with the CC now looking more real, the user also gets closer to the &quot;physical reality&quot; of &quot;I&",
+2,6145242,story,,,1,0,akandiah,How German cars beat British motors,http://www.bbc.co.uk/news/magazine-23406467,,1375415909.0
+3,6145241,comment,6141641.0,6143162.0,0,0,zanny,,,I still don&,
+4,6145240,comment,6144826.0,6144989.0,6,0,colinsidoti,,,"The glory of this system is that WP retains their stupid easy install.<p>I suspect they pull down the data for whether a cron needs to be run in an initializing query that also pulls down a ton of other data (site name, for example).  So in theory, they&",
+5,6145239,comment,6144227.0,6144227.0,2,0,codex,,,"This makes sense; YC is all about paying a pittance to a huge number of people without experience or connections, and from that farm team a very small set of promising candidates emerge.  Investing in that set would likely be reasonably profitable, especially as YC has already conditioned the founders to accept low valuations even though they are now in a much more exclusive pool.",1375415826.0
+6,6145238,comment,6140590.0,6140590.0,1,0,ivanca,,,Yeah! And then you just go and interrogate the theft that stole the cellphone... in Haiti.,1375415822.0
+7,6145237,comment,6145001.0,6145001.0,9,0,jmharvey,,,The old Zagat did the scammy thing where they made it easy to pay for a subscription but forced you to spend 90 minutes on the phone to cancel it.  Google may have turned it into a dime-a-dozen app that&,
+8,6145236,story,,,2,0,thenicepostr,The Revenge of the Nerds II: Nerds in the CEO's Office,http://www.newyorker.com/online/blogs/elements/2013/08/the-revenge-of-the-nerds-ii-nerds-in-the-ceos-office.html,,1375415774.0
+9,6145235,comment,6144204.0,6144806.0,11,0,acchow,,,Did you also look at Google Docs when it first came out and remark that gamers have been playing together online in the same arena for years?<p>IntelliJ is my IDE. I&,
+10,6145234,comment,6144826.0,6144989.0,8,0,8ig8,,,"Given the constraints, what are some better ways of implementing this?",1375415668.0
+11,6145233,comment,6143866.0,6145222.0,3,0,matthudson,,,"Oops! No, that&",
+12,6145232,comment,6140982.0,6144330.0,1,0,zem,,,neat!,1375415579.0
+13,6145231,comment,6139469.0,6139469.0,1,0,innguest,,,"Why is everyone fawning over something we all here could easily make in Flash?<p>This problem was solved 10 years ago, people. Let it be a reminder that we&",
+14,6145230,comment,6140631.0,6144243.0,2,0,mtVessel,,,My father&,
+15,6145228,comment,6143739.0,6144445.0,2,0,pkandathil,,,Thank you for the info. I have updated the original article to reflect the changes.,1375415522.0
+16,6145227,comment,6144204.0,6145147.0,1,0,yuhong,,,"Personally it reminds me of the MS OS/2 2.0 fiasco, which I hate quite a lot. This is partly because it is why it took until Win95 for 32-bit programming to become popular, not to mention that the tactics MS used to attack OS/2 got worse and more unethical as Chicago/Win95 got delayed. See my blog post: <a href=""http://yuhongbao.blogspot.ca/2012/12/about-ms-os2-20-fiasco-px00307-and-dr.html"" rel=""nofollow"">http://yuhongbao.blogspot.ca/2012/12/about-ms-os2-20-fiasco-...</a>",1375415400.0
+17,6145226,comment,6138471.0,6138837.0,1,0,cLeEOGPw,,,"I can clearly hear when the tone loops, so I don&",
+18,6145225,comment,6145001.0,6145001.0,4,0,lotso,,,The old Zagat app was probably the best food app I&,
+19,6145224,story,,,1,1,horyd,Ask HN: Would you pay for screencast weekend projects?,,I&,
+20,6145223,comment,6138471.0,6139076.0,1,0,nitrogen,,,It depends on whether you&,
+21,6145222,comment,6143866.0,6145216.0,2,0,zanny,,,"I meant after he started talking, my bad. I was watching it live. In the vod that might not make sense.",1375415222.0
+22,6145221,comment,6144198.0,6144552.0,3,0,autodidakto,,,"About a year after 9/11, I was taking pictures of a protestant church in suburban New York as part of a loan assessment. The cops showed up and told us someone had reported us as suspicious. He mentioned something about a mosque being nearby but I didn&",
+23,6145220,comment,6140729.0,6144822.0,2,0,coolsunglasses,,,We do have a gofmt for Python.<p>pip install autopep8<p>Just pip search pep8 to see all the tooling.<p>It&,
+24,6145219,comment,6141641.0,6144718.0,9,0,purplelobster,,,"Did you just call the American poor &quot;some of the poorest people on earth?&quot; Or were you talking about immigrants? One town in Sweden (Sdertlje) has received more Iraqi refugees alone than all of the US has, the country that actually started the war. Sweden&",
+25,6145218,comment,6138471.0,6139257.0,1,0,nitrogen,,,Paulstretch and ZynAddSubFX are both great software.  Thanks for writing them!,1375415122.0
+26,6145216,comment,6143866.0,6144843.0,3,0,matthudson,,,He actually started talking about unified memory architecture at about the 51 minute mark. (If anyone else is curious.),1375415075.0
+27,6145215,comment,6133349.0,6143117.0,1,0,vabmit,,,"Interesting comment! Yes, I have been trying to avoid EC because some of the random walk stuff I read made me uncomfortable given standardized curves. I always thought that NSA vector register desire was strictly due to block size of ciphers (particularly Russian). This was definitely true when DES/3DES where in use. Then again, I thought Bluffdale was just to crack old Russian intercepts with GPU like custom hardware. BTW, a Cray hw engineer and I talked about how Cray was trying to pivot into Bioinformatics since the gov biz was no longer robust (in 2004, IIRC?).",1375415061.0
+28,6145214,comment,6145213.0,6145213.0,1,0,forecho,,,mark,1375415047.0
+29,6145213,story,,,3,2,soupboy,How Buck McKeon (US Congress) created a global drone enterprise,http://www.bbc.co.uk/news/magazine-23024462,,1375415031.0
+30,6145212,story,,,2,0,zw123456,The Gropener - efficient one-handed bottle opener,http://www.youtube.com/watch?v=2geZbY8dWEo,,1375414978.0
+31,6145211,comment,6138471.0,6138805.0,1,0,nitrogen,,,"Are you talking about a fixed offset, as in <a href=""https://en.wikipedia.org/wiki/Haas_effect"" rel=""nofollow"">https://en.wikipedia.org/wiki/Haas_effect</a>, or a variable offset, sort of like a flanger?",1375414973.0
+32,6145210,comment,6144227.0,6144227.0,4,0,badclient,,,Anyone have an idea how big the pool of institutional investors are? Everytime I read one of these funding announcements I feel like its the same couple hundred instituons giving their money to bunch of different funds...that end up investing in mostly the same companies.,1375414846.0
+33,6145209,comment,6144504.0,6144504.0,1,0,baltcode,,,"So does this bug show up on <a href=""http://code.google.com/p/android/issues/list"" rel=""nofollow"">http://code.google.com/p/android/issues/list</a> ?",1375414823.0
+34,6145208,comment,6141319.0,6141319.0,1,0,dschiptsov,,,Why not just to have clang installed in /usr/local?) \nAnd gcc 4.2.1 is good-enough.,1375414822.0
+35,6145207,story,,,1,0,liuliu,An Amazon review from 2001,http://www.amazon.com/review/R3SAL8CV2RB8TF/ref=cm_cr_dp_title?ie=UTF8&ASIN=0870784676&channel=detail-glance&nodeID=283155&store=books,,1375414799.0
+36,6145206,comment,6141764.0,6142547.0,2,0,cbhl,,,We already are <i>on</i> a &quot;new&quot; calendar system.<p>If you&,
+37,6145205,comment,6145003.0,6145003.0,24,0,mixmastamyk,,,Quote of the day:<p>&quot;Facebook is like a kindergarten run by child molesters.&quot;,1375414782.0
+38,6145204,story,,,2,0,manojdv,Personalization as a service for mobile apps?,http://www.insetlabs.com/admins/sign_up/?,,1375414778.0
+39,6145203,comment,6141764.0,6144582.0,6,0,nimrod_135,,,"Use your knuckles, with both hands next to each other, from left to right Jan - Dec.  Each &",
+40,6145202,comment,6143611.0,6143888.0,1,0,rz2k,,,"I think this is a common experience for anyone who interacts with the rest of the world. And, since there always seems to be Texas sharpshooter response as to why anything you describe is somehow perfectly reasonable, perhaps the best aproach is to ask, &quot;what wouldn&",
+41,6145201,comment,6144612.0,6144612.0,4,0,hudibras,,,Here&,
+42,6145200,comment,6145001.0,6145001.0,5,0,some_guy_there,,,"I installed Zagat app once after they were acquired by Google, and they kept on sending me spam after spam, with opt-out. I won&",
+43,6145199,comment,6144951.0,6144951.0,1,0,mugenx86,,,"noflo looks like a novel yet familiar way of designing software, which really glues well with TDD.<p>I don&",
+44,6145198,comment,6128700.0,6140079.0,1,0,X4,,,"If ZFS Snapshots were deployable to other machines in a network, then it would be really superior. Is that possible? By deploy I mean pushing snapshots into other machine&",
+45,6145197,story,,,1,0,ttunguz,The Best Venture Capitalist Blogs For Entrepreneurs,http://www.forbes.com/sites/jjcolao/2013/07/30/the-10-best-venture-capitalist-blogs-for-entrepreneurs/,,1375414568.0
+46,6145196,comment,6140729.0,6145078.0,1,0,elnate,,,I don&,
+47,6145195,story,,,1,0,clbrook,Former Trader Is Found Liable in Fraud Case,http://dealbook.nytimes.com/2013/08/01/former-goldman-trader-is-found-liable-in-mortgage-deal/?_r=0,,1375414558.0
+48,6145194,comment,6143124.0,6144335.0,2,0,philwelch,,,If you&,
+49,6145193,comment,6144826.0,6144826.0,17,0,8ig8,,,Might as well link to the source of TNW&,
+50,6145192,comment,6144605.0,6144605.0,1,0,disc,,,I like seeing new players in this space.  I think there&,
+51,6145191,story,,,3,0,stevenringo,Endpoints are an anti-pattern,http://offbyone.info/essays/endpoints-are-an-antipattern/,,1375414533.0
+52,6145190,comment,6139509.0,6144170.0,1,0,Detrus,,,I&,
+53,6145188,comment,6136901.0,6138307.0,1,0,lior60,,,Thank you for you candid and thoughtful answer :),1375414481.0
+54,6145187,comment,6141764.0,6142787.0,3,0,cbhl,,,"People tend to write date code themselves, no matter how many times we tell them not to.<p>There have been leap year bugs in everything from Zune to Windows Phone 8 to iPhone/iOS.<p>This, in spite of legions of CS professors trying to get it into people&",
+55,6145186,comment,6145009.0,6145133.0,3,0,thejosh,,,Its worth it just for the frontpage of HN/Reddit for PR.,1375414475.0
+56,6145185,comment,6141764.0,6144425.0,5,0,batiudrami,,,"It works better as a spoken language (and therefore fairly well for estimated distances), but man, does it make any kind of calculation annoying (many engineering textbooks are from the US and use imperial units - you end up with stupidity like BTU/ft^2.s.<p>The thing I think many people from the US don&",
+57,6145184,comment,6140545.0,6142207.0,1,0,larrywright,,,"Turns out I was right: <a href=""http://techcrunch.com/2013/08/01/employer-tipped-off-police-in-pressure-cookerbackpack-gate-not-google/"" rel=""nofollow"">http://techcrunch.com/2013/08/01/employer-tipped-off-police-...</a><p>The search was nothing like that article described.",1375414462.0
+58,6145183,comment,6141641.0,6141641.0,5,0,qwertzlcoatl,,,"I am so overflowing and stuffed from all these NSA revelations, that I read &quot;Snowden Runs Out Of Garbage&quot; two times in a row.",1375414441.0
+59,6145182,comment,6144884.0,6144884.0,2,0,veesahni,,,Is there much to gain in running ajax requests in web workers?,1375414420.0
+60,6145181,story,,,85,36,skybison,Full Stack Web Development,http://act2.me/full-stack-web-development/,,1375414398.0
+61,6145180,comment,6145123.0,6145123.0,1,0,angersock,,,I&,
+62,6145179,comment,6140631.0,6145043.0,2,0,jacques_chester,,,Some of us get to enjoy name-mangling theatre on all social occasions.,1375414317.0
+63,6145178,comment,6144826.0,6144826.0,2,0,jboynyc,,,"FWIW, I just tried to update my dev site, the install failed, and now the site fails to load. Yikes.<p>In all fairness, I think that&",
+64,6145177,comment,6144050.0,6145066.0,6,0,Raticide,,,Maybe it&,
+65,6145176,comment,6141641.0,6141641.0,0,0,dschiptsov,,,There is Finland with millions Russian tourists - endless source.)),1375414228.0
+66,6145175,comment,6144826.0,6144826.0,-1,0,mattkrea,,,I have to admit I&,
+67,6145174,comment,6144024.0,6144024.0,2,0,od2m,,,Liberal propaganda!!,1375414173.0
+68,6145173,story,,,2,0,LeeLorean,"I refuse to sign up for Viber, heres why",http://thehayden.org/i-refuse-to-sign-up-for-viber-heres-why/,,1375414151.0
+69,6145172,comment,6137979.0,6138218.0,3,0,portmantoad,,,One thing I&,
+70,6145171,comment,6142635.0,6142635.0,2,0,gschiller,,,Wow... terrible taste with the &quot;Feminine Mystique&quot; reference.,1375414074.0
+71,6145170,comment,6139799.0,6139799.0,1,0,shard,,,"Does anyone else besides me think that this is a very cheap technique to use in a smear campaign? Throw up some fake &quot;viral marketing&quot; company website, offer to pay $x to some people for fake reviews / secret paid promotions but don&",
+72,6145169,comment,6144644.0,6144644.0,10,0,xxbondsxx,,,This is social commentary you guys -- and it&,
+73,6145168,comment,6143866.0,6143866.0,1,0,zanny,,,"He talks at length about the recent years of Armadillo, I think it is really interesting his problem was a lack of oversight from his end when he wasn&",
+74,6145167,comment,6143866.0,6143866.0,7,0,zanny,,,"He talks at length about the recent years of Armadillo, I think it is really interesting his gripe was a lack of oversight from his end when he wasn&",
+75,6145166,comment,6139863.0,6144634.0,2,0,lukifer,,,"Interesting read, thanks. I&",
+76,6145165,story,,,1,0,petethomas,Software Jobs Growing Faster in Industry Than Tech,http://blogs.wsj.com/cio/2013/08/01/software-jobs-growing-faster-in-industry-than-tech/,,1375413910.0
+77,6145164,comment,6144951.0,6145125.0,1,0,bergie,,,"The network is assembled at run time by instantiating the various components and connecting their ports. There is no compilation step.<p>As for Python, we&",
+78,6145163,comment,6144612.0,6144612.0,6,0,adamnemecek,,,It&,
+79,6145162,comment,6143866.0,6144785.0,5,0,zanny,,,"I would say I want him to make a podcast (and would pay like $5 a month for an episode), but considering he thinks hes wasting his free time if all hes doing is learning scheme and implementing Wolfenstein in Haskell, I definitely don&",
+80,6145161,comment,6140631.0,6144947.0,6,0,seanmcdirmid,,,"Tibetans (with Hukou anyways) have Chinese names though. Usually they are phonetically chosen. Its something that must be done when you are born in China I guess, even if your native language isn&",
+81,6145160,comment,6144826.0,6145101.0,1,0,e12e,,,"Ironically, you could wind up without any where to run your cron jobs in such a setup as well... (eg: running scheduled tasks in the container as the db/cache/webapp uid).<p>This is of course fixable, but still interesting given the context.",1375413776.0
+82,6145159,comment,6145123.0,6145123.0,2,0,yuhong,,,"My personal favorite is the MS OS/2 2.0 fiasco (look at my reference to DR-DOS in the end for example):<p><a href=""http://yuhongbao.blogspot.ca/2012/12/about-ms-os2-20-fiasco-px00307-and-dr.html"" rel=""nofollow"">http://yuhongbao.blogspot.ca/2012/12/about-ms-os2-20-fiasco-...</a>",1375413772.0
+83,6145158,comment,6144504.0,6144504.0,2,0,betterunix,,,"What is amazing is that the same government that is funding these activities has also drummed up the fear of Chinese attacks on our computer systems.  The same techniques being used by the FBI could be used for industrial espionage or to spy on government officials.  We cannot have it both ways -- either we give up on expanding law enforcement power like this and encourage computer security, or we give priority to the police and accept attacks by foreign powers (and ironically, criminals) as collateral damage.",1375413768.0
+84,6145157,story,,,2,0,maskofsanity,Diabetic researcher finds insulin pump memory glitch that almost killed him,"http://www.scmagazine.com.au/News/352073,diabetic-researcher-finds-insulin-pump-memory-glitch-that-almost-killed-him.aspx",,1375413754.0
+85,6145156,comment,6142635.0,6145081.0,2,0,batiudrami,,,"They are right though - spec for spec, this phone is priced much higher than phones with equivalent components.  Whether or not that matters is yet to be determined, but we do know that in the past, Android handsets have dated fairly badly, so specs are something that have to be taken into consideration, even if the handset feels good now.<p>The high cost is a result of having it made in the USA, no doubt.",1375413732.0
+86,6145155,comment,6141170.0,6144981.0,6,0,derefr,,,It&,
+87,6145154,comment,6141641.0,6141641.0,2,0,rkrkrk21,,,Dear India - Are you listening ?,1375413623.0
+88,6145153,comment,6144198.0,6145142.0,6,0,angersock,,,Every time I see a comment &quot;hurr durr hackernews is becoming more reddit every day we reddit the reddit&quot; I see another <i>geniunely pointless</i> noise point injected into the discourse.<p>Everyone that does this is actually making things worse than they would&,
+89,6145152,comment,6143604.0,6143604.0,1,0,justinph,,,Very nice work. I&,
+90,6145151,comment,6143322.0,6143322.0,9,0,zby,,,"So - do you guys apply to these jobs?  We need more Snowdens!<p>By the way - have you guys noticed the text RMS adds to his emails recently:<p><pre><code>  [ To any NSA and FBI agents reading my email: please consider\n  [ whether defending the US Constitution against all enemies,\n  [ foreign or domestic, requires you to follow Snowden&",
+91,6145150,story,,,1,0,imparvez,Facebook Experiments Log - 1 ,https://medium.com/what-i-learned-today/6a75648444d1,,1375413568.0
+92,6145149,comment,6143604.0,6143604.0,1,0,baronwen,,,hellow,1375413526.0
+93,6145148,comment,6143604.0,6144167.0,1,0,ohazi,,,"Actually this was at work, where I have a version of chrome that&",
+94,6145147,comment,6144204.0,6144924.0,7,0,mixmastamyk,,,"Re: 95, turns out it was easy to just get on to the beta list.  Reminds me of a funny story...<p>Summer of &",
+95,6145146,comment,6143604.0,6143604.0,1,0,baronwen,,,hellow,1375413493.0
+96,6145145,comment,6144951.0,6144951.0,6,0,31reasons,,,Code at Compile time is a different entity than the Code at Runtime. Programmers learns to visualize expanding and collapsing data structures and the web of pointers and call-backs. One simple tiny recursive function can become a massively complex tree at runtime. These two complexities are similar yet very different. Any system that doesn&,
+97,6145144,story,,,1,0,yuhong,Announcing Windows 8.1 Support Lifecycle Policy,https://support.microsoft.com/gp/msl-Windows-81,,1375413473.0
+98,6145143,comment,6145009.0,6145009.0,2,0,ronyeh,,,"Cool stuff, but I wonder, even if the price of BTC stabilizes, will &quot;normal everyday people&quot; use it?<p>I&",
+99,6145142,comment,6144198.0,6144933.0,2,0,invisible,,,So basically the same things that make reddit&,
+100,6145141,story,,,1,0,Oculus,Daniel Henninger: Obama's Creeping Authoritarianism,http://online.wsj.com/article/SB10001424127887324136204578639953580480838.html,,1375413371.0
+101,6145140,comment,6144293.0,6144928.0,1,0,hobs,,,"I would too, being able to tap a stream of traffic and being able to pick an instance and boot it?<p>I think they are way out of bounds but they are not god.",1375413362.0
+102,6145139,story,,,1,0,imparvez,Alice In The News Feed,https://medium.com/the-facebook/5b3e64f0f419,,1375413331.0
+103,6145138,story,,,1,0,JumpCrisscross,"Employer Tipped Off Police To Pressure Cooker And Backpack Searches, Not Google",http://www.techcrunch.com/2013/08/01/employer-tipped-off-police-in-pressure-cookerbackpack-gate-not-google/,,1375413330.0
+104,6145137,story,,,1,0,AntoinetteHill,How To Conduct An Effective Removal Of Trojan.zeroaccessi12,http://blog.mightyuninstaller.com/remove-trojan-zeroaccessi12-how-to-conduct-an-effective-removal-of-trojan-zeroaccessi12/,,1375413266.0
+105,6145136,story,,,2,0,kevin,Hey Jack Dorsey: Youre Wrong About Customers Versus Users,http://www.adaptivepath.com/ideas/hey-jack-youre-wrong-about-customers-versus-users,,1375413237.0
+106,6145135,comment,6139446.0,6140295.0,1,0,jfarmer,,,"Yeah, it&",
+107,6145134,comment,6136738.0,6136781.0,1,0,bgadoci,,,Hey thanks!,1375413090.0
+108,6145133,comment,6145009.0,6145009.0,6,0,citricsquid,,,Tangentially related Matt from Wordpress did an AMA on reddit yesterday and mentioned the Bitcoin integration they&,
+109,6145132,comment,6143604.0,6143976.0,3,0,shurcooL,,,"My experience on an iPad. Typed first 4 numbers of my VISA. Realized I could type in the MM and YY, then realized I could enter the name. It was a very smooth process for me - and I didn&",
+110,6145131,comment,6127461.0,6145090.0,1,0,gilmanyu,,,Thanks for signing up! we&,
+111,6145130,comment,6140631.0,6144273.0,2,0,nandemo,,,I think the problem you ran into wasn&,
+112,6145129,comment,6140590.0,6140590.0,1,0,rdl,,,I always wondered how well you could fingerprint individual wifi devices.  I.e. how effective is changing your MAC and various IP and above stuff.,1375412999.0
+113,6145128,comment,6139927.0,6144754.0,1,0,zuvikomx,,,"Yes absolutely, we&",
+114,6145127,comment,6143604.0,6143689.0,1,0,nkorth,,,"Yes, especially since the card type is typically in the bottom corner of the card, so for a while it just looks like it&",
+115,6145126,comment,6139863.0,6144722.0,2,0,rayiner,,,I think that&,
+116,6145125,comment,6144951.0,6144951.0,2,0,gridspy,,,"Interesting.<p>Gridspy ( <a href=""http://gridspy.com"" rel=""nofollow"">http://gridspy.com</a> ) is built on a lot of discrete components. We&",
+117,6145124,story,,,2,0,Lightning,BitTorrent Inc. Escapes Disaster as Source Code and Financials Leak,http://torrentfreak.com/bittorrent-inc-escapes-disaster-as-source-code-and-financials-leak-130801/,,1375412940.0
+118,6145123,story,,,4,4,rejuvenile,Bill Gates was the Problem with Microsoft,http://maxmicrosoft.com/2013/08/01/bill-gates-was-the-problem-with-microsoft/,,1375412923.0
+119,6145122,comment,6144328.0,6144914.0,1,0,khamoud,,,That&,
+120,6145121,comment,6139799.0,6142371.0,1,0,eonil,,,And no change at all on brand image. If their brand value is already -INFINITE.,1375412847.0
+121,6145120,comment,6143604.0,6143861.0,1,0,Volpe,,,> Exactly. This isn&,
+122,6145119,comment,6144629.0,6144629.0,1,0,psgbg,,,Nananananananana Batman.<p>Sadly there&,
+123,6145118,comment,6137126.0,6143342.0,1,0,rogerbinns,,,But it isn&,
+124,6145117,comment,6139678.0,6140407.0,1,0,michaelbuddy,,,"24lbs is nothing. Not something you can swing about for hours, but certainly no problem carrying up stairs.",1375412791.0
+125,6145116,comment,6142635.0,6145035.0,2,0,threeseed,,,"Go spend any time on Reddit, Engadget, Verge etc and 99% of comments will centre around specs.<p>It&",
+126,6145115,comment,6143739.0,6144973.0,1,0,vacri,,,.micro throttling is simply domain knowledge that not everyone has.,1375412758.0
+127,6145114,story,,,1,0,spy-js,"JavaScript debugging, tracing, profiling  filling gaps with spy-js",http://spy-js.com,,1375412756.0
+128,6145113,story,,,1,0,tianshuo,Student Experiment Shows that Wifi Radiation near Router kills plants,http://www.globalresearch.ca/student-science-experiment-finds-plants-wont-grow-near-wi-fi-router/5336877,,1375412722.0
+129,6145112,comment,6143604.0,6143604.0,1,0,keerthiko,,,This is amazing. I do think there&,
+130,6145111,comment,6143739.0,6144842.0,2,0,pkandathil,,,"After the testing, you will see that we upgraded to a c1.medium instance.",1375412704.0
+131,6145110,comment,6138011.0,6144484.0,2,0,abecedarius,,,Thanks. Idle curiosity: do you know any introductory refs about that question and its impact? (which to schedule first),1375412678.0
+132,6145109,story,,,1,0,lappple,"Rock Your Doc With Groc, Our Favorite Automated Frontend Documentation Tool",http://tech.gilt.com/post/57089759513/rock-your-doc-with-groc-our-favorite-automated,,1375412677.0
+133,6145108,story,,,2,0,daigoba66,Fixation on Margins: The Windows RT Debacle Edition,http://hal2020.com/2013/08/01/fixation-on-margins-the-surface-rt-debacle-edition/,,1375412663.0
+134,6145107,story,,,4,0,sebg,7 JavaScript Basics Many Developers Aren't Using (Properly),http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly,,1375412651.0
+135,6145106,comment,6144951.0,6144951.0,3,0,ape4,,,"Well, I liked the music (in the video).",1375412643.0
+136,6145104,comment,6145003.0,6145003.0,3,0,thristian,,,"Another reason to support federated social networking platforms like <a href=""http://pump.io/"" rel=""nofollow"">http://pump.io/</a> and <a href=""https://tent.io/"" rel=""nofollow"">https://tent.io/</a> that are outside the control of any individual company.",1375412556.0
+137,6145103,comment,6143322.0,6143953.0,1,0,dekz,,,"Well if the devil is the government, doing crypto for the government is surely a lot less heinous then implementing NSA bridged backdoors into Facebook backends. At least the former is more morally and legally correct.",1375412521.0
+138,6145101,comment,6144826.0,6145077.0,1,0,sehrope,,,It&,
+139,6145100,story,,,1,0,ikke123,Upgrade account op Twoo,http://www.twoo.com/unlimited?feature=recentvisitors&id=MTIxMzAyMzIzODolaF6NFPkNsK5ODAXugbpl,,1375412470.0
+140,6145099,comment,6144195.0,6144991.0,1,0,modeless,,,Benchmark author here. That is similar to my experience. No browser I&,
+141,6145098,comment,6144609.0,6144736.0,2,0,mckennr,,,What does that mean?,1375412429.0

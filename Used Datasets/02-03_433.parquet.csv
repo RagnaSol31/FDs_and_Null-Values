@@ -1,0 +1,112 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6506333,story,,,1,0,anigbrowl,Functions and features are not synonymous,https://www.google.com/search?q=kurzweil+functions+&oq=kurzweil+functions+&aqs=chrome..69i57j0.4564j0j4&sourceid=chrome&espvd=210&es_sm=93&ie=UTF-8,,1381114755.0
+1,6506332,comment,6506120.0,6506237.0,12,0,logicallee,,,"The implication of the parent is that with a ~ $10000 computer you can take a couple of days to factor a 698 bit RSA number.  Or $20,000 can factor 699 in a couple of days - $40,000 gets you 700, $80K for 701, $160K 702, $320K 703, $640K 704, $1.28M 705, $2.56M 706, call it $5M 707, $10M 708, $20M 709, $40M 710, $80M 711, $160M 712, $320M 713, $640M 714, call it $1.2B 715, $2.4B 716, $4.8B 717, $9.6B 718, $19.2B 719, $38.4B 720, $76.8B 721, $153.6B 722, call it $300B for 723.  We&",
+2,6506331,comment,6504645.0,6505395.0,2,0,enko,,,"<p><pre><code>  after &quot;deploy:restart&quot;, &quot;deploy:tag_release&quot;\n\n  desc &",
+3,6506330,comment,6505111.0,6506189.0,2,0,gibwell,,,> but they sure are milking it for all it&,
+4,6506329,comment,6503626.0,6504051.0,2,0,tracker1,,,"It seems like every Ubuntu release has some serious hardware regressions of one type or another.. most can be worked around fairly easily, but others not so much.  I went from Ubuntu back to Windows (win7) because of a critical regression with Intel graphics (specifically went non-amd/nvidia for the better support).<p>Since then Its been on servers and in VMs only.  Yesterday the drive on my htpc took a dump, so I put Ubuntu 13.04 on, there were three issues.. 1. getting the audio working through hdmi (alsa regression bug, manual .deb download), 2. getting the fglrx legacy drivers going (amd eol&",
+5,6506328,story,,,1,0,shire,"Touching video, Never give up in life always have hope.",http://youtu.be/ZXlCeKBWfaA,,1381114567.0
+6,6506327,comment,6501769.0,6504415.0,2,0,samth,,,"First, Go isn&",
+7,6506326,comment,6505109.0,6505736.0,2,0,morgante,,,That&,
+8,6506325,comment,6506120.0,6506299.0,17,0,pbsd,,,No. What you&,
+9,6506324,comment,6504502.0,6505430.0,2,0,magicalist,,,"> <i>It would be easy for them to say it, but first they would have to believe it, and second they would have to believe they could convince investors of it</i><p>You&",
+10,6506323,story,,,1,0,madpilot,Gigawatt - commandline time tracking,https://github.com/88miles/gigawatt,,1381114480.0
+11,6506322,comment,6495358.0,6497116.0,1,0,KingMob,,,I&,
+12,6506320,comment,6505650.0,6505944.0,2,0,derefr,,,"Time is the default rivalrous good. Without having to know how to measure value produced, you can get a pretty good <i>lower bound</i> on it just by measuring the opportunity-cost of the time you&",
+13,6506319,comment,6506001.0,6506001.0,18,0,quadrangle,,,"Not a great article, but totally correct. Mozilla and Wikimedia are the two most ethical big entities in the internet world.",1381114320.0
+14,6506318,comment,6506271.0,6506271.0,3,0,skidoo,,,I appreciate what the folks at the Comic Book Legal Defense Fund do.,1381114283.0
+15,6506317,story,,,2,0,davecheney,Simple test coverage with Go 1.2,http://dave.cheney.net/2013/10/07/simple-test-coverage-with-go-1-2,,1381114251.0
+16,6506316,story,,,1,0,skidoo,On censorship and creator rights,http://www.welovecomics.com/the-ten-cent-plague/,,1381114184.0
+17,6506315,comment,6504645.0,6505875.0,2,0,joevandyk,,,"A few months ago, I ran into psych/yaml problems doing just the above because I didn&",
+18,6506313,comment,6506232.0,6506232.0,1,0,helloanand,,,"- Wearable computers - watches, glasses, shoes, gloves etc.<p>- Massive amounts of data being spewed out of connected everyday devices - refrigerators, cars, etc.<p>- Curation of content - too much being generated today for someone to consume - photos, videos, news etc.<p>- Making content reach to the bottom of the pyramid - too much content being generated in english - it needs to be translated to mandarin, hindi, spanish etc.",1381114097.0
+19,6506312,story,,,44,24,kumarski,My life as a disabled student,http://www.theguardian.com/education/mortarboard/2013/oct/03/my-life-as-a-disabled-student,,1381114061.0
+20,6506311,comment,6505982.0,6506134.0,2,0,jgalt212,,,Chomsky is an HN sacred cow is what he may be saying.,1381114059.0
+21,6506310,story,,,53,23,Maven911,Twitter announces IPO: The Valuation,http://aswathdamodaran.blogspot.ch/2013/10/twitter-announces-ipo-valuation.html,,1381113982.0
+22,6506309,comment,6506308.0,6506308.0,-1,0,homehome,,,Criminals should be thumb-upping this,1381113942.0
+23,6506308,story,,,14,10,philip1209,Amber Alert system offline due to funding,http://www.amberalert.gov/,,1381113882.0
+24,6506307,story,,,2,0,homehome,White House behind negative Russian news?,http://s5.postimg.org/ijllu8l93/smallruss.png,,1381113833.0
+25,6506306,comment,6505755.0,6505755.0,9,0,sneak,,,This just in: absolutely no strangers (save statistically insignificant outliers like Nacchio) will go to jail to protect your data during a police investigation - nor should they.<p>Plan accordingly.,1381113818.0
+26,6506305,story,,,1,0,Inufu,Show HN: Automatically mirror your links to fight link rot,http://www.furida.mu/blog/2013/10/07/fighting-link-rot/,,1381113729.0
+27,6506304,comment,6505111.0,6506255.0,2,0,gibwell,,,"People are reading this because despite a small market share, Apple is more successful than any other PC, Tablet, or Phone maker.<p>It&",
+28,6506303,comment,6505755.0,6506149.0,2,0,sneak,,,"This is harder than you think, especially with mail.",1381113723.0
+29,6506302,comment,6504568.0,6505541.0,2,0,colanderman,,,"The IO monad is also declarative.  But, just like FRP signal functions, functions in it can be used to describe stateful systems.",1381113721.0
+30,6506300,comment,6505111.0,6505111.0,6,0,lmarinho,,,I&,
+31,6506299,comment,6506120.0,6506120.0,10,0,gus_massa,,,From the logs:<p><i>> Mon Sep 23 11:09:41 2013  commencing Lanczos iteration (32 threads)</i><p><i>> Mon Sep 23 11:09:41 2013  memory use: 26956.9 MB</i><p><i>> [...]</i><p><i>> Thu Sep 26 07:17:57 2013  elapsed time 51:56:44</i><p>Im not sure that Im understanding all the details. Does this mean that they factored a 210-digit number in 52 hours in a single machine?,1381113661.0
+32,6506298,story,,,2,0,hayatsante,"Children at mercy of faith healers, skeptics and quacks",http://www.nouvellesante.com/2013/09/unvaccinated-children-are-at-mercy-of.html,,1381113149.0
+33,6506297,comment,6506001.0,6506001.0,3,0,adrusi,,,"this is honestly not a &quot;crystallization&quot; of ideas about why the author likes mozilla, it&",
+34,6506296,comment,6506001.0,6506001.0,16,0,gum_ina_package,,,With the amount of Mozilla intern related HN posts I&,
+35,6506295,story,,,3,0,thenovices,Vim-ipython (Vim and iPython Integration),https://github.com/ivanov/vim-ipython,,1381113099.0
+36,6506294,comment,6505111.0,6505111.0,2,0,joshlegs,,,">I consider him the greatest creator and editor of products this industry has ever known,<p>are you effing serious? Greatest creator my ass. He took already built products and refined the hell out of them. Shit, he practically built the company on top of Wozniak&",
+37,6506293,comment,6506271.0,6506271.0,9,0,pg,,,"Yours!  (<a href=""http://ycombinator.com/np.html"" rel=""nofollow"">http://ycombinator.com/np.html</a>)",1381113063.0
+38,6506292,comment,6505950.0,6505950.0,1,0,6ren,,,"I <i>far</i> prefer self-checkout.<p>You can take coins, notes, and receipt separately (note have them all forced into your hand, to be awkwardly separated later).  Paying by card would avoid this, but prefer to stay in touch with my expenditures.<p>I also find it kind of satisfying, like increasing skill at a game.<p>The only downside is that if you pause a moment, an over-eager attendant will push in front of you and start doing it for you - like you&",
+39,6506291,comment,6503667.0,6503667.0,1,0,fernly,,,Here&,
+40,6506290,story,,,1,0,hayatsante,Krokodil: Heroin on Krak,http://www.nouvellesante.com/2013/10/krokodile-heroin-on-krak.html,,1381113001.0
+41,6506289,comment,6502229.0,6503607.0,1,0,duncan_bayne,,,"I dunno ... sharing frequently, never taking more than you give ... could be describing some kind of firefight ;)",1381112998.0
+42,6506288,comment,6504955.0,6505707.0,1,0,yummyfajitas,,,<i>The situation is worse in inflated dollars -- even if we&,
+43,6506287,comment,6504878.0,6506221.0,3,0,ParadigmComplex,,,Bedrock Linux wasn&,
+44,6506286,story,,,1,0,vitiell0,Big Data & Personal Data Come Together,http://www.technologyreview.com/news/514351/has-big-data-made-anonymity-impossible/,,1381112918.0
+45,6506285,comment,6504611.0,6504611.0,1,0,pstack,,,"Well, after all, our whole political system is founded on &quot;if you don&",
+46,6506284,comment,6503626.0,6504384.0,1,0,eropple,,,"The latter, I assume. Wordpress provides a lot of value that Jekyll or another site generator doesn&",
+47,6506283,comment,6505324.0,6505790.0,2,0,Avitas,,,It goes even deeper than local ordinances and taxation. Counties often have specific requirements and certifications. Many states and local governments have mandatory &,
+48,6506282,comment,6504739.0,6504739.0,2,0,beedogs,,,Too bad there&,
+49,6506281,story,,,1,0,mh_,Customer Spotlight: Pitchfork Media,http://37signals.com/svn/posts/3637-customer-spotlight-pitchfork-media,,1381112788.0
+50,6506280,comment,6505982.0,6506134.0,1,0,Kudzu_Bob,,,Yes.,1381112754.0
+51,6506279,comment,6506103.0,6506103.0,2,0,aytekin,,,Growth. Have you learned something new today? Are you around people who can teach you a thing or two? Are you pushing yourself? The best jobs change you. Make you better.,1381112746.0
+52,6506277,comment,6505755.0,6506175.0,9,0,benaiah,,,"For a site that large and well-visited, with almost entirely user-generated content, all of which are on technical problems many of which could involve illegal activity?<p>I&",
+53,6506276,comment,6505755.0,6506108.0,5,0,pstack,,,"Actually, it&",
+54,6506275,comment,6505071.0,6505571.0,6,0,ChuckMcM,,,I am envisioning parents explaining to their kids that they were named &quot;Free Viagra&quot; in order to protect them from Google.,1381112609.0
+55,6506274,comment,6505111.0,6505111.0,2,0,tytso,,,There will always be pundits on both sides of these sorts of arguments.  In the early 90&,
+56,6506273,comment,6505755.0,6506175.0,2,0,bsullivan01,,,<i>I&,
+57,6506272,comment,6505109.0,6505109.0,1,0,chunky1994,,,"I thought that GTA 6 was really impressive, given that they modeled everything as buildings, the idea to use the entire world for a video game is exceedingly clever.\nA shoutout to the uWaterloo team too. (As an aside they&",
+58,6506271,story,,,13,22,null_ptr,Ask HN: What charities do you donate to?,,,1381112485.0
+59,6506270,story,,,1,0,gmateo,One way to handle all the information of the programmer,http://www.apprenticeshipnotes.org/2013/10/one-way-to-handle-all-information-of.html,,1381112449.0
+60,6506269,comment,6504451.0,6504665.0,1,0,alien3d,,,"We freelancer also do business. Sometime ,we not always online and doing other thing.But too abuse and trying keep cost like only entertain Facebook message just for just communication just too way annoying.To me,i you don&",
+61,6506268,comment,6505982.0,6506102.0,2,0,weavejester,,,"&quot;Theories that create theories&quot; seems a completely arbitrary categorisation. We have software that derive predictions from records of past data. How is that not a machine creating a theory, albeit a simple one?",1381112419.0
+62,6506266,comment,6504568.0,6506184.0,3,0,colanderman,,,"No, you&",
+63,6506265,story,,,2,1,bdehaaff,The Engineering Death Spiral,http://blog.aha.io/index.php/the-engineering-death-spiral/,,1381112361.0
+64,6506264,comment,6504782.0,6506029.0,1,0,derleth,,,"> work reasonably well in most climates.<p>If you like to be boiled in the summer and frozen in the winter, not to mention having to cycle on icy roads with no shoulder and sixteen-wheelers bearing down on you.<p>Anyway, if you do cycle, please don&",
+65,6506263,comment,6506103.0,6506103.0,2,0,sivetic,,,"I find I go through ups and downs as well.  My ups generally occur when I accomplish something, when I work on something meaningful, when I help others, when hard work gets acknowledged, when I learn something new, when I influence change, when a complaint or a concern doesn&",
+66,6506262,comment,6505324.0,6505637.0,1,0,learc83,,,They don&,
+67,6506261,story,,,1,2,stevenkovar,ShowHN: We tried to raise the bar with this guide to running giveaways,http://www.viralsweep.com/advanced-sweepstakes-guide/?hackernews,,1381112244.0
+68,6506260,comment,6505939.0,6505939.0,5,0,jardaroh,,,"Here is my story.<p>5 years ago I was an apprentice copper and tin smith, I have always been good with my hands, and because of the dot com crack around 2000 I decided to go for a career in construction. However, it didn&",
+69,6506259,comment,6505650.0,6505977.0,1,0,hackula1,,,"> 2. Everyone will value their own time now much more, so you will automatically get paid for what you achieve, not for the hours you worked.<p>While a Star Trek Earth style system sounds awesome and utopian, I cannot help but thinking most people would just stay home and drink and/or watch Law and Order marathons all day. Hell, that does not sound too bad to me at all, and I love my work.",1381112167.0
+70,6506258,comment,6505071.0,6505071.0,2,0,Houshalter,,,IMHO the problem isn&,
+71,6506257,comment,6506232.0,6506232.0,4,0,notduncansmith,,,"Customer service is a big one. Buffer (<a href=""http://bufferapp.com"" rel=""nofollow"">http://bufferapp.com</a>) is setting a pretty high bar with their Happiness Heroes, and even their founders spend time every week doing customer service. In a world where more and more processes are becoming automated, the human touch is going to increasingly become the differentiator: and if you execute well on that, people are going to take notice.<p>Example: Airbnb and photography.  When the founders went to New York to meet their customers in person (instead of emailing them from behind a screen in SF), they realized that many of the hosts didn&",
+72,6506256,comment,6504362.0,6504683.0,5,0,dobbsbob,,,I laughed out loud when I read that idiotic part about &quot;this will be my last hit&quot; too.<p>I do like John McAfee&,
+73,6506255,comment,6505111.0,6506154.0,3,0,pswenson,,,I love it when people throw in &quot;clearly&quot; to their claim.  Despite your claim - it isn&,
+74,6506254,comment,6504782.0,6504958.0,2,0,stefan_kendall,,,I don&,
+75,6506253,comment,6504645.0,6505501.0,3,0,lost-theory,,,"Your method is sane, the problem is with RVM and rbenv, which everyone uses and depend on hacky implicit shell BS (rbenv less so, but it&",
+76,6506252,comment,6503626.0,6504564.0,1,0,xur17,,,"Agreed with the dual video cards - my friend has trouble on his laptop, and I am pretty sure that&",
+77,6506251,comment,6504993.0,6504993.0,2,0,ChuckMcM,,,This is an oblique comment but it reminded me of Ken Thompson&,
+78,6506250,story,,,1,0,adamtait,Your database is your friend,http://pluralsight.com/training/Courses/TableOfContents/database-your-friend,,1381111995.0
+79,6506249,comment,6505939.0,6505939.0,-1,0,SuperPosition,,,"If you are motivated you can learn to program well, as good as any other.\nBUT: Do you envy the success of industrious males and covet their hard earned money and its attached status? Why do you want to &quot;be one of those guys with 100 million (idol-worship)?&quot;<p>The people you listed had nothing in terms of financial assets during the start of their careers. Jobs was a nobody who lived with his parents.It may be difficult for you to muster up that same level of motivation with 1 million in your portfolio.<p>Look, programming and computer manufacturing may have been the medium through which a subset of motivated and imaginative people created their wealth during the past 20-40 years, but programming and computer manufacturing were just the medium. The foresight of these men is what led to their success (Paul Graham is a brilliant guy.)<p>Do you deserve to take a job from a younger, hard-working CS guy just because you are not satisfied with your career choice? Do you think that human progress is measured in dollars? Maybe what you need is some substance in your life other than phantasies of wealth and portfolio screenshots. If you had had the foresight of the successful men that you listed, then maybe you would already have &quot;100 million,&quot; or more! (Are you married? Kids?)",1381111954.0
+80,6506248,comment,6503984.0,6505087.0,2,0,nl,,,"My advice would be to setup a paid support arm ASAP, and tell  the person complaining they have two options:<p>1) Log a bug against the windows build process, and you&",
+81,6506247,comment,6505111.0,6505111.0,1,0,marze,,,There is significant press attention given to the appearance of the Apple&,
+82,6506246,comment,6506120.0,6506217.0,17,0,pbsd,,,"While it does have no impact in the expected complexity of factoring larger keys, this kind of thing is informative of the maturity of public factoring software: a single person with (presumably) access to a number of machines can pull off this kind of job on their own. Given the number of things that can go wrong in a complex method like the NFS, this is noteworthy.",1381111886.0
+83,6506245,comment,6504332.0,6504332.0,3,0,nine_k,,,"While &quot;Understand&quot; is nice, &quot;72 letters&quot; seem even more brilliant.<p>Ted Ching usually puts into a short story an amount of ideas some other authors would expend on a trilogy.",1381111855.0
+84,6506244,comment,6505939.0,6505939.0,2,0,robotys,,,"Seems like you not need an occupation, but motivation, preceeds by vision.<p>Think deeply on what you want to make better of this world. Start from there.",1381111841.0
+85,6506243,comment,6505939.0,6506051.0,1,0,mswen,,,In many ways you are in an enviable position.  You can take pride in the fact that you worked hard (at something you apparently didn&,
+86,6506242,story,,,2,0,mustapha,MasterCard joining push for fingerprint ID standard.,http://www.usatoday.com/story/tech/2013/10/02/mastercard-fingerprint-fido/2910241/,,1381111800.0
+87,6506241,comment,6505111.0,6506211.0,0,0,lake99,,,> Predatory pricing occurs when you sell a product at such low prices ...<p>Thanks for correcting me on that. I was mistaken.<p>> but that is a different sense of the word than what the OP refers to ...<p>I am aware of that.<p>> Apple doesn&,
+88,6506240,story,,,36,17,pranavpiyush,"Learning Node, Express, Jade, MongoDB from scratch",http://www.pranavpiyush.com/web-app-with-node-express-jade-mongoose-and-mongodb/,,1381111648.0
+89,6506239,comment,6505650.0,6506164.0,1,0,hackula1,,,"I try to aim for being productive at work and hedonistic at home. &quot;Work hard, play hard&quot; is the traditional phrasing.",1381111647.0
+90,6506238,comment,6505183.0,6505605.0,2,0,richardkmichael,,,$9 for a movie? You&,
+91,6506237,comment,6506120.0,6506215.0,7,0,Sanddancer,,,It&,
+92,6506236,comment,6504878.0,6506171.0,1,0,contingencies,,,Wasn&,
+93,6506235,comment,6504332.0,6504732.0,1,0,blacksmith_tb,,,It&,
+94,6506234,comment,6505604.0,6506099.0,5,0,peterashford,,,That&,
+95,6506233,comment,6506027.0,6506027.0,2,0,davismwfl,,,"I would say if you charged $2k/week and met your promises you would make one hell of a name for yourself.  As prof devs we charge more than that, but I have found that the more we deliver the more we can charge and frankly the more we can frankly demand. 4-5k/week is still fairly (cheap) reasonable per developer depending on your area and experience, just to give you an idea.  But for a newbie, I would stick with the 1.5k-2.5k/week.  And please don&",
+96,6506232,story,,,8,6,pmtarantino,Ask HN: What trends do you think will shape startups in the next 10 years?,,,1381111607.0
+97,6506231,comment,6505324.0,6505627.0,7,0,jasonlotito,,,> To expect Airbnb research hotel laws and taxes in every country they operate in seems like an undue burden.<p>You mean like hotel companies that research hotel laws and taxes in every country they operate in?,1381111598.0
+98,6506230,comment,6506120.0,6506215.0,2,0,eksith,,,"It just means that lower bit keys are less secure as was known. Folks have been trying to get people to switch to higher bit keys as a result. RSA-210 is just the name of the challenge: <a href=""https://en.wikipedia.org/wiki/RSA_numbers",
+99,6506229,comment,6506120.0,6506206.0,7,0,jd007,,,It doesn&,
+100,6506228,comment,6499409.0,6505470.0,2,0,kijin,,,I&,
+101,6506227,comment,6505982.0,6506148.0,1,0,cscurmudgeon,,,"What makes you think that this &quot;unremarkable&quot; hunk of meat can simulate itself?<p>Btw, I believe in God (look up Godel&",
+102,6506226,comment,6506103.0,6506103.0,3,0,notduncansmith,,,I think it boils down to one thing.  How would you feel during your speech announcing that you&,
+103,6506224,story,,,1,0,a418887065,The Tesla S has the most insane in-car touchscreen multimedia system ever,http://njytouch2013.blog.com/2013/10/07/insane/,,1381111419.0
+104,6506223,comment,6504924.0,6505232.0,1,0,BWStearns,,,>> Software is inherently mid- to high-risk. &quot;Low-risk&quot; just doesn&,
+105,6506222,comment,6506120.0,6506215.0,4,0,mintplant,,,"No, it&",
+106,6506221,comment,6504878.0,6506136.0,2,0,tel,,,I was wondering if this was influenced by Nix. I believe they&,
+107,6506220,comment,6505995.0,6506191.0,1,0,elnate,,,"> I wonder if the disgust and shock was aimed equally at the silent majority, who I suspect, the author feels should have condemned the insult publicly.<p>It&",
+108,6506219,comment,6502430.0,6502639.0,-1,0,elwell,,,"- re:re:food: &quot;cook yourself&quot;? agree that will save money, not sure about healthier; though if gangrene necessitates limb removal, then possible best choice there.",1381111293.0
+109,6506218,comment,6505170.0,6505170.0,1,0,saluki,,,Go with a fixed fee for a set scope of work . . .<p>I don&,
+110,6506217,comment,6506120.0,6506120.0,34,0,randomwalker,,,"To clarify, this is not a new factoring record for products of two primes. RSA-768, a 232-digit number (22 digits longer) was factored in 2009, and that record still stands. <a href=""http://en.wikipedia.org/wiki/RSA_numbers",

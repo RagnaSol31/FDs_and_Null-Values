@@ -1,0 +1,82 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10207504,comment,10205716.0,10207367.0,0,0,snake_case,,,I&,
+1,10207503,comment,10202286.0,10204185.0,0,0,stephenr,,,"Set it up well, and train dev staff to understand what monitoring notifications mean. I mean, you <i>are</i> monitoring your services hosted on AWS right?",1442041114.0
+2,10207502,comment,10202286.0,10203232.0,0,0,disbelief,,,This is great! One nitpick: I wouldn&,
+3,10207501,comment,10206380.0,10207378.0,0,0,arm,,,Many Chinese characters are completely unreadable at small sizes if you try to fit them in the width of a halfwidth character. It’s just not practical.,1442041082.0
+4,10207500,story,,,29,6,williswee,"Ben Horowitz on tough decisions, Asia, and Marc Andreessen",https://www.techinasia.com/ben-horowitz-tech-in-asia-tokyo-2015/,,1442041053.0
+5,10207499,comment,10200188.0,10201294.0,0,0,gaius,,,<i>The programmers who understand and maintain the code are the real assets;</i><p>Not one in one hundred organizations believes this or operates as if they do.,1442040979.0
+6,10207498,comment,10203407.0,10203407.0,0,0,SomeoneWeird,,,There&,
+7,10207497,comment,10206380.0,10207466.0,0,0,kalleboo,,,"But not in Safari, TextEdit, Xcode or BBEdit. Seems like the Terminal has special monospace handling",1442040931.0
+8,10207496,comment,10205716.0,10207367.0,0,0,dchuk,,,"Not that it really matters, but his system added 6s of build time, not shaved it off",1442040904.0
+9,10207495,story,,,88,68,miralabs,A customer explains how Oracle tried to strong-arm it into a cloud sale,http://www.businessinsider.com.au/oracle-customer-explains-audit-threats-2015-9,,1442040758.0
+10,10207494,comment,10204095.0,10205155.0,0,0,glenra,,,"> The period of perhaps greatest economic growth in the West, the 1950s and 60s, was the period of greatest government regulation and direct involvement in economies.<p>What calculation leads you to conclude there was more regulation in the 1950s and 1960s than today? My impression is that &quot;deregulation&quot; in practice largely amounted to at best a decline in the <i>rate of increase</i> in federal regulations, not an overall decrease in total regulation. Today there are vastly more federal rules and regulations and also substantially more government employees as a percentage of total employment than there was in the 1970s.<p>Um, here&",
+11,10207493,comment,10203407.0,10207459.0,0,0,vacri,,,"Not all lockscreens do. Using MATE on this machine, no such button. I don&",
+12,10207492,comment,10207216.0,10207265.0,0,0,cdv2101,,,"<a href=""http://www.alexa.com/siteinfo/apple.com"" rel=""nofollow"">http://www.alexa.com/siteinfo/apple.com</a><p>this is not some shitty grad student&",
+13,10207491,comment,10199414.0,10200273.0,0,0,13thLetter,,,"> Someone might call you a monster, but I think people would be somewhat forgiving if you hadn&",
+14,10207490,story,,,1,0,bestan,Ask HN: What challenges do companies have adopting and using open source?,,What challenges does your company have with OSS? Do you have formal policies?,1442040563.0
+15,10207488,story,,,2,0,m-i-l,"Intelligent machines: Making AI work in the real world, by Eric Schmidt",http://www.bbc.co.uk/news/technology-34143171,,1442040488.0
+16,10207487,comment,10206309.0,10206718.0,0,0,deelowe,,,"Actually, the Pig Latin feature was deprecated recently when they combined it with the boot loader for reasons only the development team understands. It didn&",
+17,10207486,comment,10204018.0,10205296.0,0,0,Ecio78,,,If I&,
+18,10207484,comment,10189734.0,10192576.0,0,0,chrismcb,,,Fair use isn&,
+19,10207483,comment,10206743.0,10206743.0,0,0,hugh4,,,"This is a terrible study.<p>Firstly, it relies on two different sources of information about people&",
+20,10207482,comment,10207398.0,10207424.0,0,0,abba_fishhead,,,"Well, I recently launched my paperback book, and I sold 500 copies in two weeks from my page alone, and I&",
+21,10207481,comment,10207216.0,10207216.0,0,0,cdv2101,,,It&,
+22,10207480,comment,10199414.0,10200661.0,0,0,13thLetter,,,"The inclusion of that word is extremely telling. Someone who thinks the word &quot;boogeyman&quot; is exclusionary or otherwise harmful is either completely unfamiliar with normal English usage, is not quite right in the head, or is attempting to enforce some kind of fringe agenda. Whichever one it is, they are not someone you want to hand control of your language over to.",1442040115.0
+23,10207479,story,,,2,0,danboarder,Multi-tasking: how to survive in the 21st century,http://www.ft.com/cms/s/2/bbf1f84a-51c2-11e5-8642-453585f2cfcd.html,,1442040016.0
+24,10207478,comment,10199162.0,10207236.0,0,0,spicyj,,,"Enable them like you would enable or disable any other babel transformer, using the &quot;optional&quot; param in .babelrc (or --optional on the command line, etc).",1442039980.0
+25,10207477,comment,10203953.0,10206115.0,0,0,sbuk,,,"OT, but there is a delightful irony to the linked image and your comment.<p><a href=""http://memecrunch.com/meme/1JCJ5/lighten-up-francis/image.png?w=400&c=1"" rel=""nofollow"">http://memecrunch.com/meme/1JCJ5/lighten-up-francis/image.pn...</a>",1442039944.0
+26,10207476,comment,10206530.0,10207016.0,0,0,jsprogrammer,,,This is some interesting wording. How can a third party enter separate parties into a contract?<p>Do projects really setup their own contracts with their funders?,1442039885.0
+27,10207475,story,,,4,0,michaelwww,Obama: China cyber attacks 'unacceptable.' 'We will win if we have to.',http://www.bbc.com/news/world-us-canada-34229439,,1442039864.0
+28,10207474,story,,,31,12,tim_sw,America’s Most Unlikely Energy Project Is Rising from a Louisiana Bayou,http://www.bloomberg.com/news/features/2015-09-02/america-s-most-unlikely-energy-project-is-rising-from-a-louisiana-bayou,,1442039795.0
+29,10207473,comment,10207216.0,10207383.0,0,0,cdv2101,,,>There is a staging option...<p>staging. Where we are going we won&,
+30,10207472,comment,10206827.0,10207448.0,0,0,lispm,,,"> Code-is-data, serious REPL, accurate numbers<p>Like Prolog or Julia.",1442039717.0
+31,10207471,comment,10207216.0,10207457.0,0,0,cdv2101,,,"marketing magic, when you got ATS and only need smart people to set it up in any way you want (yahoo fucking does it) and still go to akamai",1442039659.0
+32,10207470,comment,10206309.0,10206363.0,0,0,arocks,,,Wasn&,
+33,10207469,comment,10206827.0,10207452.0,0,0,lispm,,,A family is a social construct. It&,
+34,10207468,comment,10205716.0,10207296.0,0,0,danmaz74,,,"The biggest reason we adopted Immutable.js is that it allows us to use PureRenderMixin (or, to make some situations even simpler, <a href=""https://github.com/jurassix/react-immutable-render-mixin"" rel=""nofollow"">https://github.com/jurassix/react-immutable-render-mixin</a> ) for all our components. This gives a great performance boost, without having to think how to design a specific shouldComponentUpdate for each expensive component.<p>This is especially important with Redux if you connect your store to one controller-view which then passes the props down to a big tree of components (which should be the standard way to do things with both Flux and Redux).",1442039384.0
+35,10207467,comment,10207451.0,10207451.0,0,0,jon_kuperman,,,disclosure: self submission,1442039382.0
+36,10207466,comment,10206380.0,10206380.0,0,0,mpweiher,,,Seems to work fine in OS X Terminal.,1442039369.0
+37,10207465,story,,,1,0,gdeglin,Japan charges Bitcoin exchange CEO with embezzlement,http://news.yahoo.com/japan-charges-bitcoin-exchange-ceo-embezzlement-jiji-press-041756154.html,,1442039355.0
+38,10207464,comment,10206530.0,10206570.0,0,0,skuhn,,,Other people have commented on the size of the lawyer / court costs vs plaintiff&,
+39,10207462,comment,10207216.0,10207316.0,0,0,cdv2101,,,this guy know what&,
+40,10207460,story,,,6,0,awalGarg,The Module Tag: A Proposed Solution to the Mashup Security Problem (2006),http://www.json.org/module.html,,1442039243.0
+41,10207459,comment,10203407.0,10206761.0,0,0,Dylan16807,,,With your mouse.<p>I&,
+42,10207458,comment,10203953.0,10205832.0,0,0,sbuk,,,That&,
+43,10207457,comment,10207216.0,10207383.0,0,0,chinathrow,,,45min? And people pay for intervals that slow?,1442038991.0
+44,10207456,comment,10203953.0,10206217.0,0,0,sbuk,,,"Sorry, I don&",
+45,10207455,story,,,1,0,edward,Dodge puts Tesla-like touchscreen in Charger police car,http://www.usatoday.com/story/money/cars/2015/09/11/dodge-charger-police-car-tesla/72073784/,,1442038964.0
+46,10207454,story,,,303,119,jeo1234,What Ever Happened to Google Books?,http://www.newyorker.com/business/currency/what-ever-happened-to-google-books?intcid=mod-latest,,1442038941.0
+47,10207453,comment,10205716.0,10207296.0,0,0,grrowl,,,"The only benefit I can think of is prevention of [accidental?] modification of `state` within your selectPropsFromState functions or within rendering code itself. Which is something you should never, ever do anyway, and the mistake should be quite obvious given redux&",
+48,10207452,comment,10206827.0,10207420.0,0,0,taeric,,,"Fair.  There have been, and always will be lisps that can be copy pasted between each other.  Just as you can get some implementations of programs in some assemblies that work between assemblies.<p>That does not say anything about whether or not a language is an assembly.  Just as this says nothing about whether a language is a lisp.",1442038917.0
+49,10207451,story,,,3,3,jon_kuperman,Webpack and React.js starter kit,https://github.com/jkup/webpack-react-starter,,1442038810.0
+50,10207450,comment,10201549.0,10203034.0,0,0,meir_yanovich,,,"This is what I call real niche , very impresive.\nHow do you promote it ?   \nDo you make a living out of it ?",1442038808.0
+51,10207449,comment,10207216.0,10207370.0,0,0,Splines,,,I don&,
+52,10207448,comment,10206827.0,10207360.0,0,0,calibraxis,,,"Some people (including someone who worked on the CL standard) opined Scheme is not a Lisp: <a href=""https://groups.google.com/forum/",
+53,10207447,comment,10206255.0,10207381.0,0,0,MiddleEndian,,,In what way is it not desirable for everyone to at least have the option of shorter commutes?,1442038759.0
+54,10207446,comment,10204255.0,10206078.0,0,0,Double_Cast,,,"This one time at the library, I picked up a Frost anthology with commentary and skimmed it for about 30 minutes. The main thrust I took away from the author&",
+55,10207445,comment,10204255.0,10206270.0,0,0,stan_rogers,,,"Could be, and for more than one reason. Ray Bradbury himself had trouble convincing literary studies types (among others) that his book was about what he wrote it about. (He wrote a more subtle <i>Idiocracy</i>, but people read a more subtle <i>1984</i>.)",1442038694.0
+56,10207444,comment,10203407.0,10207003.0,0,0,Dylan16807,,,"In general those adapters are mechanical, and the keyboard needs a PS/2 mode.",1442038671.0
+57,10207443,comment,10207216.0,10207216.0,0,0,github-cat,,,The service seems back to normal now.,1442038639.0
+58,10207442,comment,10205559.0,10205559.0,0,0,qCOVET,,,"This is really sad. Here is an article for Startup founders and how to cope w/ stress and protect their mental health:\n<a href=""http://www.techrepublic.com/article/how-startup-founders-can-fight-stress-and-protect-their-mental-health/"" rel=""nofollow"">http://www.techrepublic.com/article/how-startup-founders-can...</a>",1442038490.0
+59,10207441,comment,10207216.0,10207346.0,0,0,mholt,,,That pun actually made me laugh though. (Impressed that you turned a number and a letter into a full word pun.),1442038475.0
+60,10207440,comment,10207216.0,10207364.0,0,0,lukashed,,,"If you consider their store an important service, then yes.",1442038282.0
+61,10207439,comment,10206255.0,10207381.0,0,0,SamReidHughes,,,You don&,
+62,10207438,comment,10206827.0,10206990.0,0,0,EdwardDiego,,,You can use the recur special form to enforce recursion from the tail position in Clojure.,1442038229.0
+63,10207437,comment,10200724.0,10206417.0,0,0,ivopetkov,,,"Thanks.\nIt really looks a lot like React, RiotJS and WebCompoments (because they are all great) but it&",
+64,10207436,comment,10207216.0,10207216.0,0,0,calin2k,,,"also a reddit discussion about it\n<a href=""https://news.ycombinator.com/item?id=10207403"" rel=""nofollow"">https://news.ycombinator.com/item?id=10207403</a>",1442038143.0
+65,10207435,comment,10206827.0,10207200.0,0,0,EdwardDiego,,,"> Clojure is not a Lisp<p>I keep seeing people make this statement, without any explanation of why. To me, hardly a heavy user of other Lisps, but with enough time spent in Common Lisp and Scheme to have an idea of what&",
+66,10207434,comment,10207307.0,10207307.0,0,0,greenyoda,,,"Previous discussion: <a href=""https://news.ycombinator.com/item?id=10197115"" rel=""nofollow"">https://news.ycombinator.com/item?id=10197115</a>",1442038090.0
+67,10207433,comment,10207216.0,10207216.0,0,0,Watabou,,,It&,
+68,10207431,comment,10206827.0,10207377.0,0,0,yarrel,,,It has whatever syntax you create for it. ;-),1442038010.0
+69,10207430,comment,10206827.0,10207219.0,0,0,EdwardDiego,,,Is it even recursing in the tail position though? Reading the code it looks to me like the recursion result is used as an argument to a subsequent function call (append).,1442037991.0
+70,10207429,comment,10206827.0,10207143.0,0,0,adwelly,,,"Ive done two professional projects and counting, here in the UK. It&",
+71,10207428,comment,10204018.0,10206524.0,0,0,lukashed,,,This would be rather creepy if we&,
+72,10207427,comment,10207216.0,10207216.0,0,0,bentruyman,,,It&,
+73,10207426,comment,10203787.0,10204910.0,0,0,gauravpandey,,,I&,
+74,10207424,comment,10207398.0,10207398.0,0,0,hugh4,,,"Well, I&",
+75,10207423,comment,10206827.0,10206827.0,0,0,raspasov,,,"From my perspective, the three distinguishing features of Clojure from other languages/Lisps in general are:<p>1. It&",
+76,10207422,comment,10206380.0,10207295.0,0,0,Dylan16807,,,"Probably because it barely goes over 20 bits.  20.09ish<p>If you want to be cheeky you can argue that &quot;hidden assumptions going from a 16 bit wide character set to a 20 bit wide character set&quot; is still correct, because those hidden assumptions are part of UTF-16, and UTF-16 uses exactly 20 bits to express the astral planes, encoding them in a different way from the BMP.",1442037720.0
+77,10207421,comment,10205904.0,10205904.0,0,0,ebcase,,,Good to see BOINC floating by on HN today. I&,
+78,10207420,comment,10206827.0,10207360.0,0,0,lispm,,,"Well, actually Emacs Lisp and Common Lisp were derived from the same language and share a lot.<p><pre><code>    CL-USER> (defun fact (n) (do* ((i n (- i 1)) (j i (* j i))) ((= i 1) j)))\n    FACT\n    CL-USER> (fact 15)\n    1307674368000\n</code></pre>\nUnchanged code in Elisp...<p><pre><code>    ELISP> (defun fact (n) (do* ((i n (- i 1)) (j i (* j i))) ((= i 1) j)))\n    fact\n    ELISP> (fact 15)\n    1307674368000 (",
+79,10207419,comment,10207081.0,10207081.0,0,0,Hasaranga,,,"<a href=""https://hase85.wordpress.com/2015/09/12/illusion-of-the-current-patterns/"" rel=""nofollow"">https://hase85.wordpress.com/2015/09/12/illusion-of-the-curr...</a>",1442037652.0
+80,10207418,comment,10207216.0,10207281.0,0,0,mholt,,,"Huh, you&",

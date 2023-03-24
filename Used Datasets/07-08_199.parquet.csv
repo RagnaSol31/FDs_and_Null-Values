@@ -1,0 +1,109 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10450032,comment,10449077.0,10449802.0,0,0,swegg,,,The authenticity check with GPG or SHA sums requires a gentler learning curve for a &,
+1,10450031,comment,10448445.0,10448445.0,0,0,visakanv,,,The best part of PG&,
+2,10450030,comment,10445927.0,10447792.0,0,0,gaius,,,"It is front page news when it goes wrong, tho&",
+3,10450029,comment,10448445.0,10448955.0,0,0,visarga,,,> read what you have written OUT LOUD<p>I use Text to Speech to listen to all my posts before I submit them. I also use TTS and read at the same time to improve my attention. TTS imposes a constant pace and makes the message more pregnant.,1445846305.0
+4,10450028,comment,10448632.0,10449983.0,0,0,smt88,,,> <i>Mobile also means that people are searching less for everything else that might be competing with facebook.</i><p>Not true. Each service accessible on the web or on an app is separate. People don&,
+5,10450027,comment,10449755.0,10449916.0,0,0,ryan-c,,,"Are you looking at anything beyond the SignatureAlgorithms TLS extension? That is the obvious solution, but I know there are a few browsers that support sha256 certificates that don&",
+6,10450026,comment,10449755.0,10449994.0,0,0,yaps8,,,Could you elaborate or do you have a source on the technique you use to mitigate downgrade attacks ?,1445846207.0
+7,10450025,comment,10448020.0,10448986.0,0,0,sokoloff,,,"Two kids run out into the street chasing a ball. Kill the kids or the occupant?<p>Even one kid runs out into the street. Hit the kid straight ahead or risk the occupant(s) by crashing the car or turning the car into an unknown area?<p>Car is about to be struck by a red light/stop light runner from the left. Swerve off the road to prevent it (into an area of &quot;unknown contents, possibly including pedestrians&quot;) or just take the hit without evasive maneuvering?<p>There were multiple scenarios researched via MTurk in the story, with variable numbers of pedestrians.",1445846188.0
+8,10450024,comment,10449311.0,10449435.0,0,0,gaius,,,That feature has been there for 20+ years!,1445846169.0
+9,10450023,comment,10449311.0,10449551.0,0,0,jfoster,,,Everyone was coping and Microsoft wasn&,
+10,10450022,comment,10449673.0,10449673.0,0,0,rurounijones,,,&quot;Russian Ships Near Data Cables Are Too Close for U.S. Comfort&quot;<p>Because they might spot the US sub upgrading the taps on the cables.,1445846014.0
+11,10450021,comment,10449755.0,10449894.0,0,0,ptaipale,,,I don&,
+12,10450020,comment,10449311.0,10449932.0,0,0,ZainRiz,,,You ever try out Notepad2?  It&,
+13,10450019,comment,10449077.0,10449656.0,0,0,varjag,,,I found Klemens&,
+14,10450018,comment,10449448.0,10449448.0,0,0,deathtrader666,,,Hock&,
+15,10450017,comment,10447467.0,10448503.0,0,0,h1534041,,,I have used racer with the Eclipse plugin and when I made changes locally that broke it I felt how absolutely terrible it is to program without basic navigation features like going to the definition of a function or type. I don&,
+16,10450016,story,,,1,0,miraj,Walmart Plays Catch-Up with Amazon,http://www.nytimes.com/2015/10/23/business/walmart-plays-catch-up-with-amazon.html,,1445845739.0
+17,10450015,comment,10449755.0,10449755.0,0,0,nefitty,,,Does anyone have any sense of who or what groups would benefit from dropping $75k on developing an attack that might not even return any results? I&,
+18,10450013,comment,10445927.0,10448326.0,0,0,Johnny_Brahms,,,Ah! Thanks. What would I go for if I wanted to actually use that much data? POWER8?,1445845729.0
+19,10450012,comment,10449735.0,10449735.0,0,0,Theodores,,,"If you were to ask 102 sober people if they would drive whilst under the influence of alcohol, then you would get 102 definite &",
+20,10450011,story,,,2,1,rottyguy,Fairphone 2 Is the World’s First Modular Smartphone,http://www.ktlaz.com/2015/10/26/fairphone-2-is-the-worlds-first-modular-smartphone/,,1445845649.0
+21,10450010,comment,10433615.0,10437749.0,0,0,willlma,,,"Sorry, you&",
+22,10450009,comment,10449673.0,10449960.0,0,0,DiabloD3,,,"Dear Congress,<p>Christmas is coming up, and we think we&",
+23,10450008,comment,10448679.0,10449951.0,0,0,Animats,,,"If you had some way to apply templates to each element of a structure in sequence, you could use template metaprogramming to do marshalling. Suppose you could write<p><pre><code>    struct pnt {\n      float x;\n      float y;\n      bool valid;\n    };\n    pnt p;\n</code></pre>\nand then have<p><pre><code>    auto s = serialize(p);\n</code></pre>\nexpand into<p><pre><code>    auto s = serialize_field(&quot;x&quot;, p.x, serialize_field(&quot;y&quot;, p.y,\n         serialize_field(&quot;valid&quot;, p.valid)))\n</code></pre>\nthen serialization could be implemented by defining serialize_field for each\ntype.",1445845618.0
+24,10450007,comment,10449087.0,10449416.0,0,0,Oatseller,,,<p><pre><code>    Prof. Farhat is very well known for the FETI method\n</code></pre>\nAnd he&,
+25,10450006,comment,10449673.0,10449673.0,0,0,cm2187,,,The world will be watching slightly less porn in the next US-Russian stand-off...<p>Do many European companies use US based datacenters for their core systems? Even before the Snowden revelations I would expect latency to push many to not do so.<p>I guess it would rather affect smaller companies who rely on infrastructures like salesforce.com or office 365 (not that I have any idea about where these two examples store their data).<p>Also wouldn&,
+26,10450005,comment,10449311.0,10449934.0,0,0,kevingadd,,,"The updates to cmd in win10 made it a lot better. Still not entirely comparable to linux, but pretty good.",1445845541.0
+27,10450004,comment,10449087.0,10449263.0,0,0,Oatseller,,,"I may have found more info on what &quot;equations&quot; were used.<p>This article states:<p><pre><code>    But before the Army carved up the spoils, it gave Farhat and his team\n    a chance to harness a significant slice of Excalibur&",
+28,10450003,story,,,6,0,levosmetalo,Tech Salary Stagnation: You're underpaid. Why aren't you mad about it?,http://www.theserverside.com/news/thread.tss?thread_id=81424,,1445845439.0
+29,10450002,comment,10449311.0,10449949.0,0,0,kevingadd,,,NTFS is honestly a great filesystem. Most of the stuff people dislike is due to the Win32 layer on top. For example:<p>NTFS is case sensitive.<p>NTFS does not have a 260ch path limit.<p>The slowness of stat() (or at least part of it) is due to the inefficient way Win32 does filesystem enumeration/status queries.,1445845434.0
+30,10450001,comment,10447913.0,10449205.0,0,0,saganus,,,Very interesting project!,1445845412.0
+31,10449999,comment,10449755.0,10449755.0,0,0,mtgx,,,They&,
+32,10449998,comment,10449134.0,10449917.0,0,0,scrollaway,,,"> &quot;glowed?&quot;<p>&quot;Glued&quot; was the word you were looking for, &quot;attached&quot; or &quot;connected&quot; is the word you actually <i>are</i> looking for. It&",
+33,10449997,comment,10448113.0,10449289.0,0,0,landryraccoon,,,I don&,
+34,10449996,comment,10449755.0,10449834.0,0,0,mtgx,,,Blame Microsoft for tying their browsers to the OS (which they are still doing even in Windows 10).,1445845214.0
+35,10449995,comment,10449134.0,10449917.0,0,0,_nedR,,,"I am also wondering whether this a submarine PR piece for the startup mentioned in the article - TPTQ Arabic. The founder   was the primary source for pretty much the entire article. If there were other people quoted (like actual arab newspaper editors, bloggers, web designers, app devs, or even arab readers) i would be less skeptical.",1445845203.0
+36,10449994,comment,10449755.0,10449981.0,0,0,eastdakota,,,Not in any way we&,
+37,10449993,story,,,1,0,avedder,Shift Messenger (YC W15) Is Hiring an iOS Lead,,"About Us:<p>We’re on a mission to improve the work lives of shift workers (retail, restaurants, healthcare).  They want access to communication tools that help them solve everyday work problems, connect to their workplace communities, and build professional identities.<p>For us it starts with our community of tens of thousands of hourly workers -- we’re in near-constant contact via text, phone, and email.  We’re looking for teammates who are enthusiastic, thoughtful, and resourceful enough to understand what our members need and make it a reality.<p>About the Job:<p>• Launch and own our first native iOS app (we&",
+38,10449992,comment,10449311.0,10449604.0,0,0,eurekin,,,"I remember on a few occasions staring puzzled at some script at work, which was taking a lot more time to run, than normally.<p>Like an hour instead of few minutes.<p>I remember also, that coworkers had the same issue. One of them left work once, leaving a long process running. He came back the next day and it hadn&",
+39,10449991,comment,10449311.0,10449742.0,0,0,tonyedgecombe,,,"One of the things Microsoft has done over the years is filling all those little holes that needed an extra download, setting up a new Windows machine no longer involves downloading a hundred tiny utilities.",1445845071.0
+40,10449990,comment,10448679.0,10448679.0,0,0,shin_lao,,,"Does anyone know if they decided to fix rvalue reference and move semantics as proposed? Someone suggested that move semantics should be handled in the destructor, not the constructor.",1445845070.0
+41,10449989,comment,10449311.0,10449907.0,0,0,bdcravens,,,When did Notepad start letting you open files greater than an arbitrary limit (I believe it used to be 50kb?)  (Haven&,
+42,10449988,comment,10449755.0,10449972.0,0,0,qb45,,,"You may not even need to travel to the third world. Just wait until all those &quot;smart&quot; cars, refrigerators, etc. with &quot;secure&quot; (i.e. not user tamperable) update mechanisms come out of warranty.",1445845013.0
+43,10449987,story,,,40,15,luu,Whitemark: Steganographic encoding of a watermark in the whitespace of text,https://github.com/rlk/whitemark,,1445845002.0
+44,10449986,comment,10449448.0,10449448.0,0,0,Animats,,,It&,
+45,10449985,comment,10448563.0,10448563.0,0,0,intopieces,,,Does Facebook collect personal data from the users of the Basics program (beyond what they already collect as Facebook)? This seems like a opportunity to exploit/sell information about a group of people who are even less likely that first-world Internet users to understand the implications of such a trade.,1445844973.0
+46,10449984,comment,10444844.0,10444844.0,0,0,drakonka,,,"Yes! I love listening to music while programming. I usually go for either some upbeat rock/alternative, electronic, or game OSTs.",1445844939.0
+47,10449983,comment,10448632.0,10449679.0,0,0,eggie,,,"I have so much trouble understanding their numbers in light of the persistent decrease in interest in facebook as a fraction of total search volume (<a href=""https://www.google.com/trends/explore",
+48,10449982,comment,10448679.0,10449786.0,0,0,kibwen,,,<p><pre><code>  > It&,
+49,10449981,comment,10449755.0,10449916.0,0,0,fulafel,,,> automatically support SHA2 for modern browsers and fall back to SHA1 for legacy browsers that don&,
+50,10449980,comment,10448563.0,10449270.0,0,0,mcintyre1994,,,> Clicking external links on Facebook will lead to a page warning that you will be charged if you visit a service that&,
+51,10449978,comment,10449134.0,10449917.0,0,0,scarmig,,,I have no idea why this comment has downvotes--what&,
+52,10449977,comment,10448687.0,10448687.0,0,0,drakonka,,,A few years ago I blogged every day about my personal projects. I was running my own business/setting my own hours and took a year to focus on improving my programming skills by making my own games. I&,
+53,10449976,story,,,26,2,bootload,"Sam Klemke: The original selfie guy, a life catalogued in 35 years of filming",http://www.abc.net.au/news/2015-10-26/sam-klemke-original-selfie-guy-makes-big-screen-debut/6884752,,1445844671.0
+54,10449973,comment,10441430.0,10442264.0,0,0,lewisl9029,,,Yes decentralized messaging does come with that as a serious usability penalty. But I&,
+55,10449972,comment,10449755.0,10449959.0,0,0,eastdakota,,,(A) If you&,
+56,10449971,comment,10449311.0,10449934.0,0,0,josteink,,,"> Maybe someday we will have a decent terminal window, too!<p>Have you checked lately? ;)",1445844460.0
+57,10449970,story,,,8,8,zabramow,New results on preschool from a Tennessee RCT,http://marginalrevolution.com/marginalrevolution/2015/10/new-results-on-preschool-from-a-tennessee-rct.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+marginalrevolution%2Ffeed+%28Marginal+Revolution%29,,1445844370.0
+58,10449969,comment,10447142.0,10447142.0,0,0,naeemnur,,,when i was 11 i was trading pokemon cards xD,1445844351.0
+59,10449968,comment,10448498.0,10449351.0,0,0,micheleb,,,"my experience has been a little different: when I find out of sync subtitles, it is mostly because either the video file or the .srt file includes opening credits (and/or the &quot;previously on...&quot; sequence), and the other doesn&",
+60,10449967,comment,10449311.0,10449926.0,0,0,josteink,,,Not so. The command window is resizable like a real terminal emulator now.<p>I was almost shocked when I discovered that one. I had honestly given up thinking it would never get fixed.,1445844281.0
+61,10449966,story,,,5,0,siddcoder,Leader Election and Log Replication in Raft – Part 2,http://loonytek.com/2015/10/26/leader-election-and-log-replication-in-raft-part-2/,,1445844236.0
+62,10449965,story,,,1,0,semilshah,Climate Change and Antifragile Investing in the American Retail Sector,http://blog.semilshah.com/2015/10/26/climate-change-and-antifragile-investing-in-the-american-retail-sector/,,1445844202.0
+63,10449964,comment,10449016.0,10449016.0,0,0,HCIdivision17,,,I think this compares nicely to Asimov&,
+64,10449963,story,,,1,0,001sky,Job applications to conceal the candidate's name: Cameron announces plans for UK,http://www.dailymail.co.uk/news/article-3289234/Job-applications-conceal-candidate-s-Cameron-announces-plans-NHS-Civil-Service-major-firms-bid-halt-discrimination.html,,1445844079.0
+65,10449962,comment,10449311.0,10449838.0,0,0,Dylan16807,,,"Actually Explorer manually reloads environment variables when you change them, and nothing else is affected.",1445844069.0
+66,10449961,comment,10449755.0,10449955.0,0,0,MichaelApproved,,,"Technically, you could check the hash, no? Of course, you&",
+67,10449960,comment,10449673.0,10449673.0,0,0,vkazanov,,,Is that Pentagon asking for more money..? :-),1445844040.0
+68,10449959,comment,10449755.0,10449916.0,0,0,DanielDent,,,"(A) A significant percentage of users with legacy browsers <i>could</i> upgrade (by installing Chrome or Firefox, instead of relying on a woefully out of date bundled browser). If much of the internet stops working for them, I imagine knowledge of how to get it working again will spread pretty quickly.<p>(B) It seems incredibly difficult (impossible?) to support graceful downgrade to older insecure approaches to TLS without also introducing the opportunity for a downgrade attack.<p>Many of the TLS attacks we&",
+69,10449958,comment,10449311.0,10449311.0,0,0,zongitsrinzler,,,It&,
+70,10449957,comment,10447585.0,10447585.0,0,0,kerningcultures,,,It&,
+71,10449956,comment,10449735.0,10449735.0,0,0,dmichulke,,,I didn&,
+72,10449955,comment,10449755.0,10449834.0,0,0,edent,,,There&,
+73,10449954,comment,10449826.0,10449826.0,0,0,drafty,,,Why exactly should I be worried that Russia is doing what the United States probably does on a daily basis without making headlines?,1445843899.0
+74,10449953,comment,10449311.0,10449557.0,0,0,telotortium,,,"Having worked with AIX fairly recently, I was under the impression that ~/.env was merely a common value for the ENV environment variable, which is a shell script that plays the same role for Korn shell (and possibly POSIX sh) as ~/.bashrc does for Bash. This page seems to support that interpretation: <a href=""http://www-01.ibm.com/support/knowledgecenter/ssw_aix_71/com.ibm.aix.osdevice/env_file.htm%23env_file?lang=en"" rel=""nofollow"">http://www-01.ibm.com/support/knowledgecenter/ssw_aix_71/com...</a>. On the other hand, I think /etc/environment on Linux (not sure about AIX) and ~/.pam_environment are not shell scripts.",1445843830.0
+75,10449952,story,,,3,0,himali,6 Incredible TED Talks About Time Management,http://www.brightpod.com/blog/6-incredible-ted-talks-about-time-management/,,1445843741.0
+76,10449951,comment,10448679.0,10449786.0,0,0,stevedonovan,,,"Or any language where you can write code that generates code at compile time, like Nim.  Unfortunately, any answer for C++ is unlikely to be so elegant, so preprocessing feels like a lesser evil.",1445843729.0
+77,10449949,comment,10449311.0,10449782.0,0,0,lewisl9029,,,"The 260 chars file path limit is a huge pain point for me personally, since I do most of my development in a Vagrant Ubuntu VM for the portability and superior tooling support.<p>I wish Microsoft would just put their support behind one of the popular open-source filesystems and release it as an alternative filesystem for Windows. This plus an officially supported NFS server and a POSIX compatible API would dramatically increase the viability of using Windows natively for development.",1445843624.0
+78,10449948,comment,10449311.0,10449909.0,0,0,mcintyre1994,,,I don&,
+79,10449947,comment,10449196.0,10449757.0,0,0,blackguardx,,,"Bottom of the barrel in the organizational sense, not talent sense.",1445843615.0
+80,10449946,comment,10449925.0,10449925.0,0,0,bigiain,,,"So five links down from this post on the /newest page for me right now is a Slideshare link (<a href=""http://www.slideshare.net/dvirsky/10-reasons-to-be-excited-about-go"" rel=""nofollow"">http://www.slideshare.net/dvirsky/10-reasons-to-be-excited-a...</a>) where the second-last slide says &quot;Wanna write some Go code? We&",
+81,10449945,comment,10448921.0,10449427.0,0,0,maaku,,,"> Sadly, language options are c, FORTRAN, or poorly maintained MATLAB.<p>It&",
+82,10449944,story,,,4,1,luntlunt,Background noise generator,http://sound.moodil.com,,1445843559.0
+83,10449943,story,,,1,0,bvanvugt,Pros and Cons of Procedural Level Generation,http://schier.co/blog/2015/10/23/pros-and-cons-of-procedural-level-generation.html,,1445843544.0
+84,10449942,comment,10448445.0,10448445.0,0,0,incepted,,,"More useful would be &quot;talk like you write&quot;.<p>The best speakers are the ones who are best at that because of the mental discipline it imposes: no uh, er, ah or pauses, just  grammatically correct sentences, all the time.",1445843540.0
+85,10449941,comment,10447948.0,10449799.0,0,0,TeMPOraL,,,It&,
+86,10449940,comment,10448136.0,10448784.0,0,0,pjmlp,,,"To prove to all C fanboys that believe it is the only language that ever existed for systems programming, that there are memory safe ways to do systems programming. And in the process advance the current state of OS safety.",1445843454.0
+87,10449939,story,,,1,0,zer0nes,Apple hires top AI expert from NVidia,http://recode.net/2015/10/23/apple-hires-an-artificial-intelligence-expert-from-nvidia-is-he-going-to-work-on-self-driving-cars/,,1445843442.0
+88,10449938,comment,10448445.0,10448664.0,0,0,chirau,,,"I see what you did there, you wrote how you talk :)",1445843382.0
+89,10449937,comment,10448445.0,10448445.0,0,0,incepted,,,> Here&,
+90,10449936,story,,,1,0,electriclove,Billions in Change,http://billionsinchange.com/,,1445843321.0
+91,10449935,comment,10448793.0,10449337.0,0,0,saint_fiasco,,,">If not America, then who?<p>How about the people who actually live there? I get that sometimes the people of a country can be helpless against an oppressor and need foreign aid, but people in Chile actually voted for Allende. It&",
+92,10449934,comment,10449311.0,10449311.0,0,0,cryptos,,,"I never thought Windows would bring innovation in this dimension! I hated the PATH dialog for so many years so that I stopped hoping for anything better.<p>Maybe someday we will have a decent terminal window, too!",1445843298.0
+93,10449933,story,,,1,0,ghosh,Feynman’s Nobel Year,http://www.pasadenanow.com/main/feynmans-nobel-year/,,1445843278.0
+94,10449932,comment,10449311.0,10449926.0,0,0,Dylan16807,,,Notepad&,
+95,10449931,comment,10448020.0,10448937.0,0,0,mcv,,,"In areas where this is likely to happen, cars don&",
+96,10449930,comment,10448632.0,10449770.0,0,0,smt88,,,"Ah, interesting! Didn&",
+97,10449929,comment,10449848.0,10449848.0,0,0,atmosx,,,FreeBSD sends emails to &,
+98,10449928,comment,10440625.0,10440625.0,0,0,WilliamHeadley,,,Everyone says that it&,
+99,10449927,comment,10449311.0,10449901.0,0,0,a_bonobo,,,TempleOS has something like a set of environment variables for each task - if the user asks for a variable and it isn&,
+100,10449926,comment,10449311.0,10449551.0,0,0,incepted,,,> What&,
+101,10449925,story,,,6,2,ishener,"Everything.me shuts down, despite $35M in funding, 15M app install",http://tech.eu/brief/israeli-startup-everythingme-shuts-down/,,1445842961.0
+102,10449924,story,,,2,0,riffraff,Nuxi CloudABI,https://github.com/NuxiNL/cloudlibc,,1445842960.0
+103,10449923,comment,10449660.0,10449660.0,0,0,doomrobo,,,"Wow, that was somehow one of the hardest-hitting articles I&",
+104,10449922,comment,10448445.0,10448445.0,0,0,joonoro,,,I&,
+105,10449921,comment,10448793.0,10449227.0,0,0,saint_fiasco,,,>Communism is much more destructive than a regime like Pinochet&,
+106,10449920,story,,,2,0,confiscate,Mark Zuckerberg Shows Off His Improving Chinese Skills with a 20 Minute Speech,http://techcrunch.com/2015/10/25/mark-zuckerberg-shows-off-his-improving-chinese-skills-with-a-20-minute-speech/,,1445842924.0
+107,10449918,comment,10448136.0,10448136.0,0,0,codepie,,,I was looking for something similar in C. Most of the resources I found (eg : os dev-wiki) do not cover the implementation details in such depth. Can anyone give few pointers?,1445842853.0

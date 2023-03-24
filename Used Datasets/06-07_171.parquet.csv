@@ -1,0 +1,101 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6231940,comment,6229858.0,6231411.0,3,0,orclev,,,Posting something on someones wall isn&,
+1,6231939,comment,6230690.0,6231675.0,1,0,davidsmith8900,,,"- Phaus, Im so grateful for your input. I appreciate your direct honesty with me. It makes me want to reflect on life.",1376809118.0
+2,6231938,comment,6231892.0,6231931.0,1,0,eranation,,,"Thanks, \nI tested only on latest Chrome + Firefox... \nMay I ask which browser did you use?",1376809106.0
+3,6231937,story,,,2,0,NirDremer,Charlie Rose interviewing Max Levchin,http://charlierose.com/watch/60248643,,1376809065.0
+4,6231936,comment,6228297.0,6230865.0,1,0,aufreak3,,,"> ... the issue is that a program has at least two different logical structures: its lexical organization in text, and its dynamic organization in time.<p>That&",
+5,6231935,comment,6230690.0,6231062.0,1,0,davidsmith8900,,,- I can see where you are coming from now. I never thought of getting a job in an area of the same skills I wanted to become an expert in.,1376808995.0
+6,6231934,comment,6231055.0,6231055.0,2,0,mikegerwitz,,,This echoes---in what I can only call poetry---the cries of countless developers/hackers suffering (hopefully vocally) through management issues at their workplace.<p>It links to another particularly blunt article that should be promptly forwarded to management in conjunction with the aforementioned one:<p><pre><code>  http://sealedabstract.com/rants/why-software-projects-are-terrible-and-how-not-to-fix-them/\n</code></pre>\nA more rational &quot;get a fucking clue&quot; (assuming a certain level of respect toward you already exists).,1376808933.0
+7,6231933,comment,6228373.0,6231327.0,2,0,gizmo686,,,"We do not know that. Using thermodynamics we can establish a limit on how much computation we can do (if I recall correctly <i>Applied Chryptography</i> says that a super nova does not have sufficient energy to count to 2^256 in base 2). However, we have no theoretical bases regarding how much computation is involved in breaking AES256. All we do know is that we (the public) do not know of a way to do it.",1376808931.0
+8,6231932,comment,6228668.0,6228668.0,1,0,bitL,,,"I would still rather use a simple texture mapping - map the image to a rectangle and then just rotate the 4 corner points. Rest is done naturally by your texture mapper. You can implement a texture mapper easily by finding the top-most rotated corner, take the two edge lines coming out of that corner, linearly interpolate texture coordinates on these lines for each horizontal line they cross and then simply walk linearly between those two texture positions spread across the horizontal line range. Then replace the edge line whose endpoint you reached by the next line until you reach the bottom-most corner. You can add surrounding texels to the mix to get the bilinear or another filtering. Also, Bresenham&",
+9,6231931,comment,6231892.0,6231892.0,1,0,kevingadd,,,For me the actual &,
+10,6231930,comment,6230403.0,6231624.0,5,0,bebna,,,"I framed my old cpus, perhaps you too can make wall decorations out of these servers (or parts of them).",1376808870.0
+11,6231929,comment,6231814.0,6231884.0,1,0,nostrademons,,,"Early 2012.  I forget the exact date - I started them as a demo in I think Dec 2011 and then they sat around on my workstation unchanged for a couple months, so I think they went out around Feb 2012.<p>I can&",
+12,6231928,comment,6229858.0,6230803.0,7,0,leoh,,,"You know, I agree with everything you have said.<p>But couldn&",
+13,6231927,comment,6230690.0,6231729.0,1,0,davidsmith8900,,,"Okay, I do more research into stocks as youve, suggested. Thanks for the input.",1376808822.0
+14,6231926,comment,6231056.0,6231854.0,1,0,glenra,,,"Sorry, but that is in the &quot;description of related technology&quot; section. Meaning it helps establish the CONTEXT of the present patent but is not itself part OF the present patent.",1376808810.0
+15,6231925,comment,6229359.0,6229359.0,1,0,ollysb,,,Something I&,
+16,6231924,comment,6228297.0,6231391.0,1,0,aufreak3,,,"Though true, the &quot;banners&quot; aren&",
+17,6231923,comment,6230690.0,6230908.0,0,0,davidsmith8900,,,- How long did it take you to learn Forex?,1376808742.0
+18,6231922,comment,6228373.0,6230168.0,1,0,gizmo686,,,They could encrypt it using a pre-existing NSA public key.,1376808736.0
+19,6231921,comment,6230403.0,6231623.0,3,0,fusiongyro,,,"I have gotten rid of a few books like that, but once they get old enough they seem to acquire a certain quaint charm. My books on DOS and BeOS, for instance, I&",
+20,6231920,comment,6230949.0,6231822.0,2,0,dylangs1030,,,"Curious, do you remember the title of that Fortran book? Was it a for kids book or an actual textbook? It sounds like a great place to dive into Fortran, from what you described.",1376808659.0
+21,6231919,comment,6230582.0,6231359.0,1,0,barry-cotter,,,"Internet points are indeed worthless. Understanding that reacting to insults is usually a losing move socially and then failing to modify your behaviour is not just a losing move, it is a decision to lose. This is more true in real life than on the internet where it is much safer to read an attack on your ideas or positions as a direct personal attack.",1376808589.0
+22,6231918,comment,6229410.0,6231753.0,1,0,chronic25,,,You expect better? Then do something about it.,1376808577.0
+23,6231917,comment,6229001.0,6229835.0,11,0,Livven,,,What many people don&,
+24,6231916,story,,,4,0,dpeck,Reverse Engineering the Galaga No Fire Cheat,http://www.computerarcheology.com/wiki/wiki/Arcade/Galaga,,1376808548.0
+25,6231915,comment,6229858.0,6230553.0,5,0,kevingadd,,,"My guess is he thought starting by explaining that he has a CS education would make them less likely to assume his comment was from an ignorant foreigner.<p>Unfortunately, that didn&",
+26,6231914,comment,6230616.0,6231681.0,1,0,jayzalowitz,,,"Weighing in from the &quot;Recruiting&quot; Startup industry myself, check out <a href=""https://grouptalent.com/"" rel=""nofollow"">https://grouptalent.com/</a> (which i have nothing to do with) if you are in that hiring mentality, that way everyone knows exactly what is going on and there is a better reaction set all around.",1376808374.0
+27,6231913,comment,6231382.0,6231785.0,0,0,Muzza,,,> There&,
+28,6231911,story,,,1,0,Garbage,Ubuntu Edge Now Most-Backed Crowdfunding Campaign Ever,http://www.omgubuntu.co.uk/2013/08/ubuntu-edge-campaign-updates-new-perk-breaks-record,,1376808306.0
+29,6231910,comment,6231008.0,6231714.0,3,0,temphn,,,"You know what, looks like you&",
+30,6231909,comment,6231055.0,6231404.0,0,0,gavinpc,,,> inexcusable<p>Ask for your money back.  Surely there&,
+31,6231908,comment,6229001.0,6229001.0,1,0,srinivasanv,,,I&,
+32,6231907,comment,6231780.0,6231780.0,1,0,sidcool,,,SPAAAMMMMMMM,1376808215.0
+33,6231905,story,,,1,0,mavtrevor,How the news feed tweak has affected Facebook traffic,http://www.netmediablog.com/how-the-news-feed-tweak-has-affected-facebook-traffic,,1376808174.0
+34,6231904,comment,6229858.0,6230664.0,7,0,jonmrodriguez,,,Pay the man!<p>As many others have said: The TOS was only available in English and that&,
+35,6231903,comment,6229858.0,6230803.0,2,0,ipogios,,,What a cunt reply. The slave masters have trained you well.,1376808142.0
+36,6231902,comment,6231436.0,6231436.0,6,0,jashkenas,,,"As CoffeeScript also went through this same process, bootstrapping itself away from an original Ruby-based compiler (at this moment: <a href=""https://github.com/jashkenas/coffee-script/commit/6446e0004c6e53cf909b300ebb12a934ccb33eb6"" rel=""nofollow"">https://github.com/jashkenas/coffee-script/commit/6446e0004c...</a>), Kal is now in some sense &quot;two self-hosted steps&quot; away from a &quot;normal&quot; language. That&",
+37,6231901,comment,6230403.0,6231252.0,4,0,grey-area,,,"Lend them to friends when they visit, give them to a charity shop - that way someone else will enjoy them too. Why would you need to get money for them?<p>There&",
+38,6231900,story,,,3,0,hrjet,Experiences with TypeScript,http://tech.kinja.com/my-experience-with-typescript-710191610,,1376808012.0
+39,6231899,comment,6231688.0,6231751.0,2,0,hkmurakami,,,4 - aren&,
+40,6231898,story,,,1,0,dboles99,Finding lost cities of the Maya : Archaeology News from Past Horizons,http://www.pasthorizonspr.com/index.php/archives/08/2013/finding-lost-cities-of-the-maya,,1376807941.0
+41,6231897,comment,6231688.0,6231749.0,1,0,jhonovich,,,"$1500 max in Brooklyn and live where? While it certainly depends on what part of Brooklyn and what type of rental you can tolerate, $1500 is low. The average monthly rent in north Brooklyn is now over $3,000 - <a href=""http://www.nytimes.com/2013/08/18/realestate/costly-rents-push-brooklynites-to-queens.html?pagewanted=all"" rel=""nofollow"">http://www.nytimes.com/2013/08/18/realestate/costly-rents-pu...</a>",1376807936.0
+42,6231896,comment,6229911.0,6231235.0,2,0,tlrobinson,,,"&quot;Kickstarter for Terrorists&quot; is terrifying prospect.<p>But also slightly amusing, I&",
+43,6231895,comment,6231688.0,6231831.0,1,0,hkmurakami,,,I don&,
+44,6231894,comment,6231688.0,6231834.0,1,0,hkmurakami,,,"there was a recent article on Blomberg news about american expats giving up their citizenship, and the burden of paperwork was cited as one of the key drivers for the rich but not super rich types in HK and Singapore.",1376807831.0
+45,6231893,comment,6230949.0,6231773.0,1,0,dylangs1030,,,"Thomas, I can&",
+46,6231892,story,,,19,13,eranation,"Show HN: Using 3D CSS transform to make a ""live screenshot""",http://scalatutorials.com/?3d,,1376807795.0
+47,6231891,story,,,2,1,StandardFuture,A Fully Automated Society - Current Arguments Are Oversimplified,http://standardfuture.com/,,1376807728.0
+48,6231890,comment,6231382.0,6231643.0,1,0,StavrosK,,,"I am really excited to see how this will play out in Cyprus. I really hope it works, has it ever been tried elsewhere?",1376807699.0
+49,6231889,comment,6231688.0,6231688.0,2,0,tkm,,,I&,
+50,6231888,comment,6222337.0,6226503.0,1,0,ekianjo,,,We have no idea if that was up to Jobs or not. Honestly this is very far-fetched.,1376807677.0
+51,6231887,comment,6228000.0,6229146.0,1,0,sterling312,,,Too bad it&,
+52,6231886,comment,6231688.0,6231880.0,1,0,hkmurakami,,,I know through friends that if you apply for a green card once and don&,
+53,6231885,comment,6230582.0,6231689.0,1,0,honzzz,,,"And let me (just for fun) go even farther and provide unsolicited interpretation. Does your anger have anything to do with the possibility that you have the same issue that she had, value (subconsciously) your successes based on how others perceive them and her article &",
+54,6231884,comment,6231814.0,6231870.0,1,0,soupboy,,,"Since when have these been around? Also, can you share some details on how the Google search easter egg infrastructure works? I&",
+55,6231883,comment,6231055.0,6231376.0,3,0,Sven7,,,"My mom makes the same argument about housewives.<p>Weirdly enough Dwight Howard, Howard Stern and Larry Ellison also think they deserve better.<p>Survival of the fittest and all that...for the rest there are unions.",1376807426.0
+56,6231882,comment,6231688.0,6231688.0,3,0,rdl,,,"I think the biggest question you should ask yourself is &quot;do you want to move to NYC, or find a new job in Hong Kong?&quot;  I personally would rather be in Hong Kong unless the job in NY were truly exceptional.  If you want to go to NY, go to NY -- the finances/etc. will work out, but unless you have some specific fixed expenses, it&",
+57,6231880,comment,6231688.0,6231688.0,3,0,adamnemecek,,,"Re: Green Card, you might also consider the Green Card lottery. <a href=""https://www.dvlottery.state.gov"" rel=""nofollow"">https://www.dvlottery.state.gov</a> I know that it seems like a long shot (and it is) but I got it on my first try and a friend of mine got it on the first try. Applying does not cost anything and takes about 10 minutes. The application period starts in October I think.",1376807417.0
+58,6231879,comment,6229858.0,6231474.0,4,0,tingletech,,,In as much as he posted on another account&,
+59,6231878,comment,6231039.0,6231864.0,1,0,Sami_Lehtinen,,,"Yes, not using cache at all would make everything very slow. I&",
+60,6231877,comment,6229782.0,6230303.0,3,0,blackjack48,,,"John Rahaim, SF&",
+61,6231876,story,,,176,77,gmatty,Has Carl June Found a Key to Fighting Cancer?,http://www.phillymag.com/articles/carl-june-key-fighting-cancer/,,1376807211.0
+62,6231875,comment,6231382.0,6231382.0,4,0,ISL,,,The same topic was covered (by the author) on Act I of this week&,
+63,6231874,comment,6229911.0,6230606.0,2,0,tanzam75,,,Irradiated just means that it has been exposed to radiation.  Doesn&,
+64,6231873,story,,,1,0,Collizo4sky,Receive Google Alert As SMS On Your Mobile Phone Free,http://tech4sky.com/receive-google-alert-sms-mobile-phone-free/,,1376807133.0
+65,6231872,comment,6229911.0,6229911.0,2,0,tlrobinson,,,This reads exactly like the beginning of an action thriller movie.,1376807091.0
+66,6231871,comment,6230403.0,6231623.0,3,0,zachsnow,,,I have a ridiculous number of Sci-Fi and fantasy novels hanging about. I never get rid of them. I think it&,
+67,6231870,comment,6231814.0,6231814.0,4,0,nostrademons,,,I implemented these. :-) Glad folks enjoy them.,1376807054.0
+68,6231869,story,,,1,0,Collizo4sky,How To Know What Font A Website Is Using,http://tech4sky.com/font-website/,,1376807034.0
+69,6231868,comment,6229782.0,6229782.0,1,0,shalmanese,,,"Ironically, the mobile view is a MUCH more usable and navigable look at the data. The technical restrictions of mobile reined in a lot of the excess flashiness.",1376807007.0
+70,6231867,comment,6231382.0,6231820.0,21,0,danenania,,,I&,
+71,6231866,comment,6229911.0,6231556.0,2,0,ippisl,,,>>impossible to hide you&,
+72,6231865,comment,6231008.0,6231008.0,5,0,s_q_b,,,"Throughout my life, I&",
+73,6231864,comment,6231039.0,6231861.0,4,0,girvo,,,"You know you can point all that out without having to come across as rude, right?<p>You are right, of course -- ETag tracking is both not that exciting, and not new, but I think that some here would&",
+74,6231863,comment,6221077.0,6230332.0,2,0,kayoone,,,"If that was always the case, leasing agencies wouldnt be able to make profit, so you might just have stumpled on some really good offers which popup from time to time. In general, leasing costs hould be equal to or more than the deprecation in value of the car itself.",1376806814.0
+75,6231862,comment,6229817.0,6230214.0,1,0,eschaton,,,What I&,
+76,6231861,comment,6231039.0,6231039.0,0,0,Sami_Lehtinen,,,It&,
+77,6231860,comment,6230355.0,6230953.0,1,0,InclinedPlane,,,"Kepler is millions of miles away from Earth, even with a Saturn V and an Apollo spacecraft we couldn&",
+78,6231858,comment,6230582.0,6231689.0,2,0,honzzz,,,This is exactly why making decisions like she did is so difficult. Because people judge you and are angry at you just  because you are different and you don&,
+79,6231857,comment,6228297.0,6230985.0,3,0,tlrobinson,,,"Yes, that was my point.",1376806294.0
+80,6231856,comment,6229116.0,6229116.0,1,0,DarkStar851,,,The only time I use PNG is if I&,
+81,6231855,comment,6231382.0,6231672.0,3,0,wmf,,,This kind of aid is based on the assumption that it creates economic growth which can solve those problems.,1376806207.0
+82,6231854,comment,6231056.0,6231579.0,1,0,cageface,,,"Also this :<p><i>Additionally, the wireless transmission of sensitive information to a remote source is one example of a threat to security.</i>",1376806202.0
+83,6231853,comment,6230403.0,6231623.0,6,0,onedev,,,It feels like throwing away knowledge.,1376806149.0
+84,6231851,comment,6230377.0,6231594.0,2,0,jlgreco,,,"He thinks that white middle-class kids are targeted, and that the purpose of legalization is to stop that.<p>In reality, it is overwhelming minorities that are targetted.  Legalization would stop that.",1376806087.0
+85,6231850,comment,6229933.0,6230525.0,1,0,jacobwcarlson,,,"> Give me (Patrick McKenzie -- patio11) your email and get the rest of it, totally free. (This advice has lead to 20%~100% increases in sales at 3 companies, and normally I charge five figures for it.)<p>That sounds both scientific and like a great deal, the very definition of legit. I&",
+86,6231849,comment,6230403.0,6231083.0,8,0,InclinedPlane,,,It&,
+87,6231848,comment,6231056.0,6231579.0,1,0,cageface,,,"Try again.<p>From the description:<p><i>This policy enforcement capability is useful for a variety of reasons, including for example to disable noise and/or light emanating from wireless devices (such as at a movie theater), for preventing wireless devices from communicating with other wireless devices (such as in academic settings), and for forcing certain electronic devices to enter sleep mode when entering a sensitive area.</i>",1376805975.0
+88,6231847,comment,6230377.0,6231705.0,1,0,jlgreco,,,Aye.  I think we don&,
+89,6231846,comment,6230582.0,6231689.0,4,0,theshadow,,,I&,
+90,6231845,comment,6231828.0,6231828.0,3,0,chunky1994,,,"I had asked the very same question about two years ago.<p>I would say that the list is probably still pretty good:<p><a href=""https://news.ycombinator.com/item?id=2698026"" rel=""nofollow"">https://news.ycombinator.com/item?id=2698026</a>",1376805860.0
+91,6231844,comment,6231828.0,6231828.0,4,0,atldev,,,"Truth in 24 (<a href=""http://www.youtube.com/watch?v=FFwoxM1MiBw"" rel=""nofollow"">http://www.youtube.com/watch?v=FFwoxM1MiBw</a>)\nGreat engineering, great strategy (underdog must take risks to beat the well-equipped adversary)",1376805840.0
+92,6231843,comment,6230377.0,6230983.0,1,0,jschmitz28,,,Are you suggesting that &quot;might be unsafe&quot; is all the reason needed to legally withhold the right of a person to do something to his/her own body?,1376805826.0
+93,6231842,story,,,1,0,ajhit406,Meta Augmented Reality Glasses,https://www.spaceglasses.com,,1376805810.0
+94,6231841,comment,6229858.0,6229858.0,2,0,uladzislau,,,Blissful ignorance. Next time guy like this will either do a lot of damage or sell the exploit to those who will pay.<p>Every security report should be taken seriously regardless it comes from a well known expert or just a guy from Palestine.,1376805751.0
+95,6231840,comment,6229001.0,6229001.0,1,0,trentmick,,,"<a href=""http://code.google.com/p/go-tool/wiki/GettingStarted"" rel=""nofollow"">http://code.google.com/p/go-tool/wiki/GettingStarted</a>  Works on all OSes.",1376805739.0
+96,6231839,comment,6229555.0,6229555.0,3,0,paraschopra,,,"If I had heros, Camus would be one of my few heros. The idea that life is not just meaningless, but rather absurd is quite a relief. What I like about him is that in his writings, he does not offer any solace. He does not promise that we will magically become satisfied with life and existence, rather he writes about the confusion between living and suicide, and interestingly, he argues that both choices are equally absurd. He does argue for morality. The reader is thrown into that dizzying choice where no option is preferential, so the choice to live is rather arbitrary. The realization that life is absurd freezes you for a moment. Though, since life is rather meaningless, I feel it also unchains a person from all those pressures and norms set by society, religion and family. The thought represents true freedom.<p>Camus also seems to be one of the philosophers who actually looked cool.",1376805690.0
+97,6231838,comment,6231814.0,6231814.0,1,0,atldev,,,"Nice. Had to try these too:\nhex: <a href=""https://www.google.com/search?q=hexadecimal"" rel=""nofollow"">https://www.google.com/search?q=hexadecimal</a>\noctal: <a href=""https://www.google.com/search?q=octal"" rel=""nofollow"">https://www.google.com/search?q=octal</a>",1376805688.0
+98,6231837,comment,6230377.0,6231731.0,7,0,jlgreco,,,Read Washington State&,
+99,6231836,comment,6231008.0,6231714.0,4,0,wavefunction,,,And his father also died from &quot;consumption&quot; or &quot;getting too fucked up too often&quot; disease.<p>I&,

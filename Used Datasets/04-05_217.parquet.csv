@@ -1,0 +1,140 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9463428,comment,9460872.0,9460872.0,0,0,dhruvbird,,,Secret is probably a very successful social experiment.,1430369984.0
+1,9463427,comment,9459364.0,9462768.0,0,0,frik,,,"> Net, thusly owning an open standard can be very valuable.<p>Microsoft would like that more developers are locked in to their dotNet languages. And they try to influence the development of the next Javascript version (ES6 & ES7) by showcasing C",
+2,9463426,story,,,2,0,ghosh,Microsoft Releases Free Visual Studio Code and Visual Studio 2015 RC,http://arstechnica.com/information-technology/2015/04/29/microsoft-releases-free-visual-studio-code-and-visual-studio-2015-rc/,,1430369969.0
+3,9463425,comment,9461541.0,9462913.0,0,0,meric,,,"Check out Demoex, <a href=""http://en.wikipedia.org/wiki/Demoex"" rel=""nofollow"">http://en.wikipedia.org/wiki/Demoex</a>, where each bill is voted on by all residents, the party&",
+4,9463423,comment,9459569.0,9459569.0,0,0,GordonS,,,Sounds a bit too much like data <i>leak</i>...,1430369846.0
+5,9463422,comment,9462374.0,9463218.0,0,0,geddes,,,"This is also a cultural barrier, when I lived in germany very few people had electric clothes dryers - most people had electric washers and racks for air drying. For a german it&",
+6,9463421,comment,9462374.0,9462784.0,0,0,grayclhn,,,I think you&,
+7,9463420,comment,9462807.0,9463175.0,0,0,mak4athp,,,"> Tenures too short? Maybe they delivered a lot of value in 6 months and were ready for a new challenge. Would you not hire a builder to build your house because they did the last one in 6 months?<p>No, but I&",
+8,9463419,comment,9462374.0,9463328.0,0,0,matthewrhoden1,,,It really get&,
+9,9463418,comment,9462770.0,9463022.0,0,0,pcurve,,,I would guess they calculate shipping cost on &,
+10,9463417,comment,9459513.0,9463344.0,0,0,runfaster2000,,,.NET Core team member here.<p>I&,
+11,9463416,comment,9458919.0,9461554.0,0,0,zokier,,,"I think you are massively overthinking this. Dependency tracking and all that jazz are just implementation details of individual backends, the unifying tool does not need to be aware of that at all.<p>Let&",
+12,9463415,comment,9457507.0,9463248.0,0,0,nostrademons,,,"sizeof(v) is dangerous - if v is passed in (as opposed to being a local), it&",
+13,9463414,comment,9459192.0,9459192.0,0,0,sethammons,,,"loader.io (disclaimer, it is a product of a division of the company with which I work).",1430369523.0
+14,9463413,story,,,4,1,jigneshhk,Microsoft Edge: Microsoft's new browser,http://techcrunch.com/2015/04/29/microsofts-new-browser-will-be-called-microsoft-edge/,,
+15,9463412,comment,9460628.0,9462949.0,0,0,Swizec,,,There are other unexpected expenses that can mess things up. Your home might burn down and you have to replace not only the home but all your possessions.<p>You might get sued and have to pay lawyers and/or settlements.<p>You might simply get divorced and spend a bunch of money on that.,1430369478.0
+16,9463411,comment,9460872.0,9463319.0,0,0,ovechtrick,,,"I guess I just clicked the wrong button. Not really sure how that makes me an ass. Thanks though.<p><a href=""http://blog.ycombinator.com/new-hacker-news-guideline"" rel=""nofollow"">http://blog.ycombinator.com/new-hacker-news-guideline</a>",1430369423.0
+17,9463410,comment,9458495.0,9462844.0,0,0,imh,,,"In the car analogy, I think they&",
+18,9463409,comment,9460872.0,9463401.0,0,0,Retra,,,That&,
+19,9463408,comment,9462374.0,9462784.0,0,0,beedogs,,,The blind defense of this <i>horrible</i> company on HN continues to astound me.,1430369242.0
+20,9463407,comment,9456867.0,9456867.0,0,0,juhq,,,"Not sure how this is different from hacker news.\nAlso everything is hard to read. Gray fonts on gray background, not enough spacing etc",1430369229.0
+21,9463406,comment,9459364.0,9462245.0,0,0,locusm,,,"I originally went from Borland C++ Builder to .Net 1.1, the  move from one IDE to the other felt very familiar, going from MFC to .Net was nothing like this.",1430369210.0
+22,9463405,comment,9460872.0,9462895.0,0,0,nostrademons,,,"I think that being able to shard the site into multiple subcommunities is a necessary but insufficient condition.  Look, for example, at r/ShitRedditSays.  The best you can hope for (above a community of a couple hundred) is people who will grudgingly use what you produce while talking about how useless it is.",1430369126.0
+23,9463404,comment,9458283.0,9460410.0,0,0,Retra,,,I use git because I was taught it and have found no reason to transition elsewhere. I know that&,
+24,9463403,comment,9463044.0,9463044.0,0,0,stox,,,And thus began the fall of Western civilization...,1430369073.0
+25,9463402,comment,9460872.0,9462595.0,0,0,girvo,,,"They also have a high correlation with failure, burn-out and destroyed lives.",1430369003.0
+26,9463401,comment,9460872.0,9463302.0,0,0,nostrademons,,,"Subreddits, right?",1430368977.0
+27,9463400,comment,9456464.0,9457925.0,0,0,MichaelMoser123,,,"Thank you. You are right that now there is a higher percentage of people who finish high school and college.\n<a href=""http://en.wikipedia.org/wiki/Educational_attainment_in_the_United_States"" rel=""nofollow"">http://en.wikipedia.org/wiki/Educational_attainment_in_the_U...</a><p>However now you need a BA for almost every job; even if you don&",
+28,9463399,comment,9459364.0,9463111.0,0,0,ericras,,,"But those tools were hard for laypeople to use in 1995. Sure, Windows now had a web browser and email program but you still needed an ISP and the email client was confusing to setup. Hell, their own Microsoft Network service was hard to figure out; one phone number to connect to the proprietary service and a different one for the Web (which never connected for me).<p>It was much simpler for users to put in the AOL disk and stay inside their walled garden - both conceptually and technically easier for laypeople.",1430368881.0
+29,9463398,comment,9459364.0,9459911.0,0,0,homulilly,,,Can&,
+30,9463396,comment,9448073.0,9452788.0,0,0,ternaryoperator,,,That&,
+31,9463395,story,,,8,0,intrepidsoldier,Building C++ Universal Apps with Visual Studio 2015,http://channel9.msdn.com/Events/Build/2015/3-82,,1430368805.0
+32,9463394,comment,9460872.0,9462378.0,0,0,kibibu,,,The kind of people who deserve to be pissed off.,1430368783.0
+33,9463393,comment,9459364.0,9463207.0,0,0,rbanffy,,,"My perception on MFC is that it was neither thin, nor particularly well thought out. It felt like something Microsoft started developing for internal use and that they decided to turn it into a product for developers, with all sort of idiosyncratic oddities that make perfect sense when you are Microsoft and none to anyone else.",1430368766.0
+34,9463392,comment,9460072.0,9461955.0,0,0,pistle,,,"With a tin ear no less. It seems that these types of statements focus on a small world vision devoid of a taste for, or experience, within the walls of mid and larger corporate entities whose systems are windows 10x over. Knowing that a massive client like a retailer, financial institution, etc. could put heat on an app developer to bring it to Windows because of the bigger savings that way for the client is big. This isn&",
+35,9463391,comment,9462374.0,9463299.0,0,0,x0x0,,,"I take your point, but renting your home out to strangers just seems, to me, like a very strange thing to do.  I&",
+36,9463390,comment,9457947.0,9463067.0,0,0,millzlane,,,"YMMV, It looks it can. <a href=""https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=9322"" rel=""nofollow"">https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=9322</a>",1430368604.0
+37,9463388,story,,,1,0,synackllc,How Random is Ransomware?,http://synacksentinel.com/just-how-random-is-ransomware/,,1430368567.0
+38,9463387,comment,9460628.0,9462782.0,0,0,pfranz,,,I&,
+39,9463385,comment,9461504.0,9461925.0,0,0,jsilence,,,"irssi in tmux on a cheap VPS.<p>I know this might sound snarky, but this is the combination a lot of my peers and I use.<p>I&",
+40,9463384,comment,9459364.0,9463326.0,0,0,shliachtx,,,"<a href=""http://www.bloomberg.com/news/articles/2014-03-05/microsoft-s-nadella-manages-legacy-of-ballmer-board-split"" rel=""nofollow"">http://www.bloomberg.com/news/articles/2014-03-05/microsoft-...</a><p>Either way, Nadella didn&",
+41,9463383,comment,9460628.0,9463303.0,0,0,smtddr,,,<i>>>That&,
+42,9463382,comment,9462374.0,9463305.0,0,0,dman,,,So you are knowingly breaking local laws?,1430368508.0
+43,9463381,comment,9463133.0,9463133.0,0,0,greenyoda,,,"Discussion on front page: <a href=""https://news.ycombinator.com/item?id=9460872"" rel=""nofollow"">https://news.ycombinator.com/item?id=9460872</a>",1430368497.0
+44,9463380,comment,9463257.0,9463257.0,0,0,greenyoda,,,"Discussion on front page: <a href=""https://news.ycombinator.com/item?id=9460872"" rel=""nofollow"">https://news.ycombinator.com/item?id=9460872</a>",1430368482.0
+45,9463379,comment,9459192.0,9459192.0,0,0,nodesocket,,,"A paid service, but the best I&",
+46,9463378,comment,9463362.0,9463362.0,0,0,greenyoda,,,"Discussion on front page: <a href=""https://news.ycombinator.com/item?id=9460872"" rel=""nofollow"">https://news.ycombinator.com/item?id=9460872</a>",1430368447.0
+47,9463377,comment,9462374.0,9463273.0,0,0,beedogs,,,I sure do love me some victim-blaming.,1430368419.0
+48,9463376,comment,9462374.0,9463271.0,0,0,lucaspiller,,,It&,
+49,9463375,comment,9462374.0,9462374.0,0,0,beedogs,,,Another Airbnb host learns the hard way that being an Airbnb host is a sucker bet.  It&,
+50,9463374,comment,9459364.0,9461501.0,0,0,billrobertson42,,,"Swing was crap at the time, but it got significantly better.",1430368370.0
+51,9463373,comment,9458268.0,9461174.0,0,0,lolptdr,,,"still doesnt work in Chrome, but it works in Safari... how funny",1430368369.0
+52,9463372,comment,9462807.0,9463037.0,0,0,peapicker,,,"&quot;I would like nothing more than to spend the rest of my career working at a single company that gives me interesting problems to solve, pays me what I&",
+53,9463371,comment,9460872.0,9463334.0,0,0,jackgavigan,,,"Question is, will any VC want to fund them again in the future?",1430368349.0
+54,9463369,comment,9457291.0,9462965.0,0,0,thoward,,,I&,
+55,9463368,story,,,17,7,cj,Show HN:  The pitch deck we're raising $800k with,https://localizejs.com/investors/?h,"I believe strongly that information should be shared as freely as possible. This is one of the big reasons I started Localize, to make it an order of magnitude easier for information or knowledge to transfer from person to person, despite a difference in language.<p>On openness, we&",
+56,9463367,story,,,2,0,intrepidsoldier,Visual C++ MFC wakes up,http://blogs.msdn.com/b/vcblog/archive/2015/04/29/mfc-dynamic-dialog-layout.aspx,,1430368266.0
+57,9463365,comment,9458919.0,9462204.0,0,0,tempestn,,,"Agreed.  Up to a certain point, a single server is going to be considerably more cost effective than multiple machines, as well as requiring less devOps time.  (Especially nowadays when you can easily lease a server with, say, 16 cores and 48GB of RAM.)  I can recall having to restart our production server exactly once in the past 12 months for a kernel update.  Every month would be an irritation for sure.",1430368221.0
+58,9463364,comment,9459192.0,9459192.0,0,0,KedarMhaswade,,,"Has anyone used [faban](<a href=""http://faban.org/"" rel=""nofollow"">http://faban.org/</a>)?",1430368198.0
+59,9463363,comment,9462374.0,9463126.0,0,0,mistermann,,,I haven&,
+60,9463361,comment,9456464.0,9457985.0,0,0,MichaelMoser123,,,"Thank you. i thought that a hundred years ago basic literacy was already a solved problem (at least in the US and Europe).<p>Now you mentioned the Flynn Effect; are there any studies that do check if the improvement in IQ scores is correlated with an improvement in performance of piagetian tasks?<p>However you are right that now there is a higher percentage of people who finish high school and college.\n<a href=""http://en.wikipedia.org/wiki/Educational_attainment_in_the_United_States"" rel=""nofollow"">http://en.wikipedia.org/wiki/Educational_attainment_in_the_U...</a>",1430368142.0
+61,9463359,comment,9459364.0,9459364.0,0,0,akhilcacharya,,,That&,
+62,9463358,comment,9458283.0,9459729.0,0,0,Retra,,,"Before you write your own book, I would recommend taking an assessment of the number of books that are already out there and really making sure that you have something to say that isn&",
+63,9463357,comment,9462967.0,9463116.0,0,0,alextgordon,,,Not sure I agree with your characterisation of women as grave and prudish. Surely human beings of all creeds can see the funny side of being absorbed by a giant circle labeled &quot;COCK&quot;.<p>Or maybe it&,
+64,9463356,comment,9460072.0,9463214.0,0,0,pistle,,,"That was my first big ? as they were rolling on this set of features. But, in terms of languages, the uptake for MS with another language seems like merely a bandwidth issue at this point. Build 2016 could feasibly include Swift? What if they could bring the quality of Visual Studio on OSX to Swift and have the easy hooks to get those apps running on Windows?",1430368111.0
+65,9463355,comment,9459364.0,9462328.0,0,0,sidthekidder,,,Isn&,
+66,9463354,comment,9463044.0,9463044.0,0,0,cymetica,,,More interested in the algorithms of Google than a copy and paste of MySpace.,1430368084.0
+67,9463353,comment,9459364.0,9461444.0,0,0,Gigablah,,,Probably meant a tarbomb but seems like there&,
+68,9463352,comment,9463285.0,9463285.0,0,0,ljk,,,i wonder how these new technology will affect people&,
+69,9463351,comment,9460966.0,9463308.0,0,0,rl3,,,"I would argue that using such tactics to inflame an existing controversy constitutes the same thing, at least in spirit.<p>The notion of sincerity is nullified by the conflict of interest inherent to page views.",1430367969.0
+70,9463350,comment,9460628.0,9462423.0,0,0,peteretep,,,"&quot;Rich&quot; people have a real advantage here.<p>For historic reasons, I have an overdraft facility on one of my checking accounts of $15,000. This means I can time dividend payments from my company optimally for tax, large investments, and so on, without worrying too much about personal liquidity, which saves and makes me money. The interest isn&",
+71,9463349,comment,9460072.0,9462307.0,0,0,pistle,,,"Second this with my WP preference. I have a device for the major platforms, but my WP experience is better than the others. It&",
+72,9463348,comment,9459513.0,9459513.0,0,0,PuercoPop,,,How long until I can develop with Unity game engine from Linux?,1430367922.0
+73,9463347,comment,9463285.0,9463285.0,0,0,hsingh23,,,"Whao man, that&",
+74,9463346,comment,9461504.0,9461730.0,0,0,adrusi,,,"Tox[1] is aiming to fill that gap. It works, and although it hasn&",
+75,9463345,comment,9460872.0,9463319.0,0,0,adamzerner,,,"> ovechtrick is an ass for responding to me rather than you<p>It does seem odd that he/she did that, but maybe it was just a mistake.<p>Anyway, thank you + others - I understand now. I now see that donating to others wasn&",
+76,9463344,comment,9459513.0,9459513.0,0,0,markbnj,,,"Was able to build it and run the HelloWorld.cs example. You need to build coreclr and corefx on windows for the managed components, since only the core cpp source can be built on linux at this time. You also need to install mono and grab nuget and use it to fetch a few packages. But all in all it feels fairly historic.<p><a href=""http://i.imgur.com/XyCB3uA.png"" rel=""nofollow"">http://i.imgur.com/XyCB3uA.png</a>",1430367828.0
+77,9463343,comment,9462374.0,9463046.0,0,0,pbreit,,,I doubt it. Feedback systems are very powerful.,1430367788.0
+78,9463342,comment,9459364.0,9460012.0,0,0,benrhughes,,,"Light weight compared to VS proper, which on my mid-sized solution is sitting at 1.2GB, and 250MB with no files open.",1430367782.0
+79,9463341,comment,9459364.0,9462132.0,0,0,Sharma,,,"Oh yeah. They even have preview badge on the home page. I was just thinking they could have stated it little bit politely. Something sort of, if you are not comfortable sharing the logs then wait for 1.0. blah..<p>But who cares :-). Many are downloading and I have it too!",1430367776.0
+80,9463340,comment,9460628.0,9462703.0,0,0,peteretep,,,"<p><pre><code>    > Monthly payroll is illegal in California, for this reason\n</code></pre>\nMonthly payroll is the usual in the UK. If you switched to weekly, most people wouldn&",
+81,9463338,comment,9463199.0,9463216.0,0,0,rubycasts,,,Love the obsessive part :),1430367725.0
+82,9463337,comment,9457716.0,9463120.0,0,0,arebop,,,"When I visited Argentina a few months ago, I saw remarkably many gold and silver shops in BA and elsewhere around the country.",1430367704.0
+83,9463336,comment,9459505.0,9463263.0,0,0,db48x,,,"We opted not to do any fancy encoding of the data, even though it would make it easier to store (we would need fewer volunteers).<p>Instead we store individual files whole and unencoded on each volunteer&",
+84,9463335,comment,9460872.0,9462677.0,0,0,hackuser,,,> I&,
+85,9463334,comment,9460872.0,9461721.0,0,0,lnanek2,,,"Seems like a big success to me. The founders each took 3 million cash off the table on investment and now are closing up the company. Corporations are just a vehicle to make money after all, they got their pay day and ran.",1430367636.0
+86,9463333,comment,9460628.0,9463264.0,0,0,wpietri,,,Yes. People who have always done well have no idea how expensive it is to be poor.,1430367626.0
+87,9463332,comment,9456381.0,9462631.0,0,0,lucono,,,"Thanks. I developed and used it as a utility in a bigger library that worked heavily with types, but later exported it to its own project so I could share it, after I realized how useful it was, even stand-alone.<p>It is very highly optimized, as performance was of critical importance.",1430367585.0
+88,9463331,comment,9460872.0,9463202.0,0,0,jordanthoms,,,"They decided to call time and close up shop with money still in the bank (which has to be returned to the investors unless some other agreement with them is made, the founders can&",
+89,9463330,comment,9462184.0,9463293.0,0,0,ClassicFarris,,,I think this is a good idea. There can be a change in the structure of where things are hosted (think moving the images to a CDN as traffic increases) which won&,
+90,9463328,comment,9462374.0,9462374.0,0,0,ojbyrne,,,It&,
+91,9463327,comment,9445987.0,9461387.0,0,0,saraid216,,,"Oh dear, no.<p>Legislature is the business people. The executive is the developers. The judiciary is the test team. That&",
+92,9463326,comment,9459364.0,9462856.0,0,0,blowski,,,> He was actually strongly opposed to the idea initially.<p>Source? What changed his mind?,1430367480.0
+93,9463325,comment,9459513.0,9460241.0,0,0,dietrichepp,,,That&,
+94,9463324,comment,9459513.0,9463262.0,0,0,meddlepal,,,I think they will. I think we&,
+95,9463323,comment,9462374.0,9463299.0,0,0,ekianjo,,,"Life is risk indeed, and by allowing strangers into your place without any supervision, you are significantly increasing the risk that something wrong can happen, don&",
+96,9463322,comment,9463044.0,9463287.0,0,0,melling,,,Don&,
+97,9463321,comment,9462770.0,9463022.0,0,0,peteretep,,,<p><pre><code>    > So at the scale of Apple\n</code></pre>\nI suspect Apple&,
+98,9463319,comment,9460872.0,9463202.0,0,0,lsc,,,"<i>removed regrettable bit</i>  -  but he or she is right about the options;  ethically and legally, they could have continued to try to make it work, or they could shut down the company, sell the assets and distribute the proceeds to the creditors and then the owners of the company (the investors)<p>Really, one could ethically do either one of those things;  it&",
+99,9463318,comment,9462374.0,9462784.0,0,0,jamiesonbecker,,,It might be a bit ironic that you focus on the immaturity of the host and/or journalist.,1430367248.0
+100,9463317,comment,9459391.0,9459391.0,0,0,arfar,,,"Is the last part actually part of the paradox, or just a funny quip at the end. I found that bit quite hilarious, I could imagine that fitting into a Monty Python sketch or something quite well.<p>>The next week, the executioner knocks on the prisoner&",
+101,9463316,comment,9459364.0,9460493.0,0,0,ledak,,,What about Stylus (CSS-preprocessor) support?,1430367215.0
+102,9463315,comment,9459993.0,9461104.0,0,0,andrewchambers,,,I thought the main benefit is supposed to be no head of line blocking in multiplexed streams.,1430367214.0
+103,9463314,comment,9459364.0,9462541.0,0,0,mathrawka,,,Have you ever been laid off? Why was it a positive for you?,1430367169.0
+104,9463313,comment,9460196.0,9463104.0,0,0,melling,,,You&,
+105,9463312,comment,9460196.0,9460196.0,0,0,scroy,,,To me it comes off as a kind of PSA for Vice&,
+106,9463311,comment,9462770.0,9463022.0,0,0,robzyb,,,"Possibly from a purely financial perspective, but unlikely from a holistic perspective.<p>The headaches involved with owning aeroplanes would be immense. They&",
+107,9463310,comment,9462770.0,9463077.0,0,0,tempestn,,,For sure; my meaning was that since their volume wouldn&,
+108,9463309,comment,9462374.0,9463273.0,0,0,interpol_p,,,Sometimes you don&,
+109,9463308,comment,9460966.0,9463291.0,0,0,wpietri,,,I don&,
+110,9463307,comment,9463044.0,9463266.0,0,0,pcurve,,,"True, and you need inordinate amount of luck too.  Stars have to line up just perfectly.  There were other viable social networks that were much more engaging than FB at the time, but FB worked quickly to capitalize on their traction and momentum.  Have to give them credit for that.",1430367068.0
+111,9463306,comment,9458283.0,9458283.0,0,0,Brajeshwar,,,Minor Typo in &quot;<meta property=&quot;og:title&quot; content=&quot;A 19 year old student student is looking for an internship&quot;>&quot;,1430367063.0
+112,9463305,comment,9462374.0,9463279.0,0,0,jpatokal,,,"Airbnb is great when traveling with a larger group (family, colleagues of the kind you&",
+113,9463304,comment,9459513.0,9462486.0,0,0,istvan__,,,I don&,
+114,9463303,comment,9460628.0,9463264.0,0,0,ars,,,"Wow, I had no idea people felt like that.<p>That&",
+115,9463302,comment,9460872.0,9462895.0,0,0,Retra,,,I wonder if anybody has made a &,
+116,9463301,comment,9462770.0,9463088.0,0,0,ojbyrne,,,Actually that&,
+117,9463300,comment,9460628.0,9463265.0,0,0,ars,,,"Court summons come registered mail, and are from the court, not from a bill collector.<p>Obviously you should open mail from a court.",1430366913.0
+118,9463299,comment,9462374.0,9463256.0,0,0,wpietri,,,"Please.<p>Your comment only has any punch because you made it on one of the rare negative outcomes. And you could have made it after any similarly rare disaster. Their home could have been trashed after letting a friend stay. After having a cleaner come by. After a plumber. After they left the door unlocked. After somebody broke in when they went away on vacation. And you could have said, &quot;Well duh, what were you thinking leaving your house unoccupied.&quot;<p>Life is risk. Running around and acting smart after the negative outcomes is boring and easy. It&",
+119,9463298,comment,9456810.0,9457547.0,0,0,sjolsen,,,"Runtime performance for Agda... well, it leaves a lot to be desired, at least with respect to the MAlonzo compiler. For example, operations on the natural numbers à la Data.Nat get very slow very quickly-- but while the representation used by Data.Bin speeds things up a <i>lot</i>, you just can&",
+120,9463297,comment,9462374.0,9462784.0,0,0,hvs,,,"You keep using that word, I do not think it means what you think it means.",1430366849.0
+121,9463296,comment,9463154.0,9463154.0,0,0,GuamPirate,,,I&,
+122,9463295,comment,9463240.0,9463276.0,0,0,rubycasts,,,Awesome! Will do Justin.,1430366830.0
+123,9463293,comment,9462184.0,9462184.0,0,0,PebblesHD,,,"Neat! The semi-persistant decks are a nice feature and will no doubt prove useful for any form of long-lasting multiplayer games. My query though, why send the image url by default? it seems like an overhead that can be done without. How random are the results likely to be?",1430366776.0
+124,9463292,comment,9462374.0,9463279.0,0,0,ljk,,,> other city was run by a couple of weirdos who i didn&,
+125,9463291,comment,9460966.0,9463245.0,0,0,rl3,,,"Secret was legitimately controversial, sure.<p>However, those headlines (in my opinion) were chalk full of hyperbole and amounted to a campaign of vilification.",1430366755.0
+126,9463290,story,,,73,39,danso,When Daydreaming Replaces Real Life,http://www.theatlantic.com/health/archive/2015/04/when-daydreaming-replaces-real-life/391319/?single_page=true,,1430366726.0
+127,9463289,comment,9463044.0,9463266.0,0,0,onewaystreet,,,"Him being on CNBC had nothing to do with privilege, Facebook had 100,000 users at this point (also, what about the other guy that was interviewed? His startup failed. So much for his privilege).",1430366725.0
+128,9463288,comment,9462374.0,9463046.0,0,0,jakejake,,,"I can imagine a million things that would be annoying for the home owner, but would not be considered crimes or anything that would get you a reimbursement.  Guests smoking in a non-smoking home. Leaving a big mess, but not damaging anything. That&",
+129,9463287,comment,9463044.0,9463266.0,0,0,softdev12,,,"If you really go back and do some digging into the roots of facebook, you&",
+130,9463286,comment,9460628.0,9462896.0,0,0,modfodder,,,This needs to start long before high school (much of a person&,
+131,9463285,story,,,4,2,dain,A Holographic Future,http://dain.io/post/117746721225/a-holographic-future,,1430366637.0
+132,9463284,comment,9462374.0,9463277.0,0,0,sjf,,,You have to go through a refund process. If they host doesn&,
+133,9463283,comment,9463044.0,9463139.0,0,0,ljk,,,"another rather awkward presentation from the zuck <a href=""https://www.youtube.com/watch?v=WCuvzENr4oY"" rel=""nofollow"">https://www.youtube.com/watch?v=WCuvzENr4oY</a>",1430366543.0
+134,9463282,comment,9463199.0,9463199.0,0,0,gus_massa,,,First: Don&,
+135,9463281,comment,9460628.0,9462786.0,0,0,bandrami,,,"Yeah, their JIT stuff is like 30 years old at this point...",1430366496.0
+136,9463280,comment,9460599.0,9461093.0,0,0,noblethrasher,,,"I just wanted to say that I have read and thought about your article many times over the last few years; you and I have some similar ideas.<p>I had wanted to read it again a few months ago, but my google-fu failed me. Thanks for linking it here.",1430366495.0
+137,9463279,comment,9462374.0,9462374.0,0,0,beachstartup,,,"i used airbnb once for a trip to europe, and one of the hosts cancelled on me the night before, causing me to scramble to find a hotel that was wildly overpriced.  the next airbnb in the other city was run by a couple of weirdos who i didn&",
+138,9463278,comment,9461112.0,9462507.0,0,0,lnanek2,,,"You can use CrossWalk to ensure you have the same Chrome version across all Android devices. That said, it does make the APK very heavy.",1430366477.0

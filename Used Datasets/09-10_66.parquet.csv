@@ -1,0 +1,61 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10722286,comment,10717263.0,10717263.0,0,0,artminister,,,"I was a Mithril user before i moved to React. Mithril is really easy to use, reading blog post of lhorie was a bliss. But the community and code was just not moving ahead. Nothing changed, nothing exciting in roadmaps and I wasnt learning anything new.<p>React was just as easy as Mithril. And for big projects, React brings in a better structure and performance. React ecosystem is full of amazing people, there is always something new that i want to learn. Flux, Redux, Relay, RN, the list just goes on.",1449914368.0
+1,10722285,comment,10718517.0,10720105.0,0,0,Houshalter,,,"CFLs do release mercury, but it&",
+2,10722284,story,,,1,0,romming,Etleap (YC W13) Is Hiring a Senior Data Engineer,http://etleap.com/jobs/,,1449914279.0
+3,10722282,comment,10715878.0,10721246.0,0,0,SyneRyder,,,The price depends on where you&,
+4,10722280,comment,10721738.0,10722161.0,0,0,iberinger,,,"I started writing one in Go: <a href=""https://github.com/ianberinger/stockfighter"" rel=""nofollow"">https://github.com/ianberinger/stockfighter</a>",1449914145.0
+5,10722279,comment,10718742.0,10721976.0,0,0,darkr,,,"> What matters is whether the tests exist, not when they were written<p>Technically true, but with myself at least; when I do TDD, I tend to write more, and better tests. When I write tests after code, especially when working on tight deadlines, there are substantially less tests written, just lots of TODOs that never get done.",1449914117.0
+6,10722278,comment,10721393.0,10721393.0,0,0,Ayaz,,,"With the exception of one or two, everybody was running terminals across multiple windows and not tabs. I spend considerable time on terminals on my Macs, but am a big fan of having a single terminal window with many tabs. I am curious whether people generally really prefer multi-window terminals and find it to have an advantage over the tabular alternative.",1449914053.0
+7,10722277,comment,10720176.0,10721670.0,0,0,whazor,,,"He does not state that guns are evil. Also, where I live bodyguards and civilians are not allowed to have guns. Many cops do not even carry guns. So for me it is hard to identify the comparison to guns.",1449913980.0
+8,10722276,comment,10720408.0,10720408.0,0,0,legulere,,,The greatest problem is adding friends. It&,
+9,10722275,comment,10721751.0,10722236.0,0,0,Angostura,,,> The odd thing is that what we&,
+10,10722274,story,,,1,0,Sylphine,Ask HN: What are the products in today's market thay you think are innovative?,,"My presonal pick is the iPhone, Tesla Model S and Nest thermostat.",1449913888.0
+11,10722273,comment,10721244.0,10721244.0,0,0,daemonk,,,"Decompressing takes 4 times as long? I wonder if that is slow enough to create a bottleneck in processing. Not everyone uses compression for purely archival purposes. In the genomics field, most sequencing data are gzipped to save disk space. And most programs used to process the sequencing data can take in the gzipped files directly.",1449913833.0
+12,10722272,comment,10722252.0,10722252.0,0,0,plinkplonk,,,"I think it did gain some traction and had a lot of users. It was a very nice app imo, and quite useful,  in spite of occasional weirdness. I think the problem was a lack of business model and/or &",
+13,10722270,comment,10721244.0,10722242.0,0,0,danieltillett,,,"MP3s with a decent bit rate is as good is it gets. Of course something like ogg back in the napster days would have been fantastic, but MP3 at 320 Kbps is fine for anyone who doesn&",
+14,10722269,story,,,34,7,espeed,Scientists take first-of-kind human dopamine reading,http://research.vtc.vt.edu/news/2015/dec/01/virginia-tech-carilion-research-institute-scientis/,,1449913430.0
+15,10722267,comment,10722252.0,10722263.0,0,0,cryodesign,,,"Yes I did, I changed the title to reflect that. Thanks for pointing it out.",1449913387.0
+16,10722266,story,,,27,4,signa11,Challenges of Memory Management on Modern NUMA System,https://queue.acm.org/detail.cfm?id=2852078,,1449913335.0
+17,10722265,story,,,10,10,ludwigvan,Two URLs are enough for everyone,http://blog.ustunozgur.com/web/graphql/react/javascript/programming/2015/12/11/two-urls-are-enough-for-everyone.html,,1449913332.0
+18,10722264,comment,10721244.0,10721488.0,0,0,reycharles,,,How is the memory consumption?,1449913209.0
+19,10722263,comment,10722252.0,10722252.0,0,0,DrScump,,,"Did you mean to submit this as an &quot;Ask HN&quot; ?<p>Originally submitted here:\n<a href=""https://news.ycombinator.com/item?id=10721178"" rel=""nofollow"">https://news.ycombinator.com/item?id=10721178</a>",1449913157.0
+20,10722262,comment,10721751.0,10721985.0,0,0,EliRivers,,,"I think they feel that the science is true, and to say they don&",
+21,10722261,comment,10721751.0,10722185.0,0,0,js8,,,"Cool, I am against climate change people too - pretty much all the people who release too much CO2 from fossil fuels. I am not sure however how are we going to prevent them doing that without collective action, any suggestions?",1449913148.0
+22,10722259,comment,10720408.0,10722045.0,0,0,eps,,,That&,
+23,10722258,comment,10715406.0,10715406.0,0,0,dang,,,"Url changed from <a href=""http://www.dailydot.com/politics/france-tor-wifi-pm-no-ban/"" rel=""nofollow"">http://www.dailydot.com/politics/france-tor-wifi-pm-no-ban/</a>, which points to this.",1449913059.0
+24,10722257,story,,,2,0,tilt,"Atom 1.3 brings performance improvements, portable mode, more",http://blog.atom.io/2015/12/11/atom-1-3.html,,1449913013.0
+25,10722256,comment,10720218.0,10722055.0,0,0,zensavona,,,I hadn&,
+26,10722255,comment,10720408.0,10721035.0,0,0,jagermo,,,If I may be so blunt - how are you planning on paying the bills for Kloak?<p>Don&,
+27,10722254,comment,10721244.0,10721500.0,0,0,Confusion,,,"Brotli does not work well for bhoustons use case, so his original wish stands and your helpful suggestion that he should be able to use Brotli in the near future does unfortunately not fulfill his wish.",1449912895.0
+28,10722253,comment,10718517.0,10720816.0,0,0,Houshalter,,,I don&,
+29,10722252,story,,,2,4,cryodesign,Ask HN: Why did Prismatic fail to gain traction?,,If you haven&,
+30,10722251,comment,10722068.0,10722068.0,0,0,DrScump,,,"Fascinating.<p>The original Ars Technica article, with more visuals, is here:<p><a href=""http://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/"" rel=""nofollow"">http://arstechnica.com/science/2013/04/how-nasa-brought-the-...</a>",1449912704.0
+31,10722250,comment,10721244.0,10722229.0,0,0,M4v3R,,,I have tar that came with the system (latest OSX) and tar -xf works just fine. And it did work fine for as long as I can remember.,1449912687.0
+32,10722249,comment,10721244.0,10721555.0,0,0,cyphax,,,Slackware&,
+33,10722248,comment,10718517.0,10720134.0,0,0,jensen123,,,It&,
+34,10722247,comment,10721371.0,10722071.0,0,0,mcpherrinm,,,"Well, our ",
+35,10722245,comment,10718742.0,10721644.0,0,0,TheAceOfHearts,,,Comprehensive unit and integration tests strike me as a waste of time. From what I&,
+36,10722244,comment,10722060.0,10722060.0,0,0,meowface,,,"Looks cool, but seems to be a pretty inactive project, unfortunately.",1449912404.0
+37,10722243,comment,10721751.0,10722185.0,0,0,Angostura,,,> I am against climate change people because they invariably suggest that the governments should do something.<p>I&,
+38,10722242,comment,10721244.0,10722226.0,0,0,huuu,,,The same applies to OGG audio. Better than MP3 but the average user is unable to play it. So everybody just sticks to MP3.,1449912338.0
+39,10722241,comment,10720176.0,10721621.0,0,0,Jach,,,"Have a read through <i>Military Nanotechnology: Potential Applications and Preventive Arms Control</i> by Jürgen Altmann. If you have 30 mins, maybe check out this talk as an optional prelude: <a href=""http://www.youtube.com/watch?v=MANPyybo-dA"" rel=""nofollow"">http://www.youtube.com/watch?v=MANPyybo-dA</a><p>I suspect that after reading you&",
+40,10722240,comment,10721751.0,10722132.0,0,0,Daishiman,,,> I&,
+41,10722239,comment,10722052.0,10722129.0,0,0,informatimago,,,And Steve Jobs wasn&,
+42,10722238,comment,10718742.0,10718742.0,0,0,LoSboccacc,,,"&quot;What happens when you take away the quality assurance team in a software development operation? Fewer, not more errors.&quot;<p>And what happens when you close your eyes? Reality disappears?<p>Automated testing is a way to completely remove customer advocates out of the loop. Correct UX doesn&",
+43,10722237,comment,10705312.0,10707452.0,0,0,wingerlang,,,Why?,1449911995.0
+44,10722236,comment,10721751.0,10721987.0,0,0,briandear,,,The odd thing is that what we&,
+45,10722234,story,,,2,0,ignoramous,Great Pacific Garbage Patch,https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch,,1449911591.0
+46,10722233,comment,10721751.0,10722132.0,0,0,archgoon,,,"> Finally, you don’t have to be a climate scientist to note that 1/3 of all emissions of CO2 have occurred since 1970 with no significant increase in global temperature.<p><a href=""http://www.globalwarmingart.com/wiki/File:Instrumental_Temperature_Record_png"" rel=""nofollow"">http://www.globalwarmingart.com/wiki/File:Instrumental_Tempe...</a><p><a href=""https://en.wikipedia.org/wiki/Temperature_record",
+47,10722232,comment,10715161.0,10720016.0,0,0,johann28,,,The becoming part of a special in-crowd who will save the world is the similarity. Not the torture and crimes of course. I&,
+48,10722231,comment,10721244.0,10722058.0,0,0,darkr,,,"On the vast majority of Linux distributions, you can pretty much guarantee that both tar and zlib will be installed.<p>Both tend to be part of an essential core of packages required to install a system.",1449911458.0
+49,10722230,comment,10719052.0,10719901.0,0,0,thetmkay,,,But will the service work in India?,1449911357.0
+50,10722229,comment,10721244.0,10722058.0,0,0,the_mitsuhiko,,,Pretty sure tar -xf does not actually work on osx unless you download a recent tar.,1449911346.0
+51,10722228,story,,,39,10,Jerry2,COP21: Climate deal final draft 'agreed' in Paris,http://www.bbc.com/news/science-environment-35079532,,1449911324.0
+52,10722227,story,,,10,0,espeed,Storm Compatibility in Apache Flink: How to Run Storm Topologies on Flink,https://flink.apache.org/news/2015/12/11/storm-compatibility.html,,1449911323.0
+53,10722226,comment,10721244.0,10721926.0,0,0,Taek,,,"We started packaging things as .tar.xz for a while, but a large number of users were having terrible trouble opening the file.<p>Mostly Mac, but iirc some Linux users were confused as well. We switched back to gzip because everyone knows how to use it.",1449911189.0
+54,10722225,comment,10721178.0,10721178.0,0,0,squidlogic,,,Going to miss these guys. They wrote some beautiful clojure.,1449911056.0
+55,10722224,comment,10720176.0,10721519.0,0,0,johann28,,,His website didn&,
+56,10722223,story,,,1,0,exherb,Dashing.io go version,https://github.com/exherb/dashing,,1449910947.0
+57,10722222,comment,10720218.0,10721049.0,0,0,sawwit,,,In Prof. Tegmark’s presentation at the UN he mentioned the possibility of extremely cheap drones that approach the victim&,
+58,10722221,comment,10715161.0,10721957.0,0,0,pron,,,">  then all accurate beliefs must be nearly identical and all the other stuff can only play a minor role<p>Please, please, try to debate the other side of this. <i>That</i> could be a claim made by feminists (as long as power plays a role). You don&",
+59,10722220,comment,10722072.0,10722172.0,0,0,lovelearning,,,"API: Yes (<a href=""https://developers.google.com/picasa-web/?hl=en"" rel=""nofollow"">https://developers.google.com/picasa-web/?hl=en</a>)<p>They have their own web and desktop client to upload and manage albums. 3rd party tools likely exist (since there&",

@@ -1,0 +1,126 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8566777,comment,8566743.0,8566758.0,0,0,werencole,,,Thanks gmillard. Our team thought a lot about the reading experience.,1415278774.0
+1,8566776,comment,8565665.0,8566768.0,0,0,icebraining,,,"And to answer the question, yes, it was: <a href=""http://www.eeggs.com/items/856.html"" rel=""nofollow"">http://www.eeggs.com/items/856.html</a>",1415278770.0
+2,8566775,comment,8562579.0,8565646.0,0,0,JoeAltmaier,,,"So why not connect the disk to the shaft, and have it rotate instead? Not a mechanical engineer, but that would have way less mass, way less clever mechanical linkages for valving, spark.",1415278740.0
+3,8566774,story,,,4,0,rbanffy,Project Jupyter – Evolved from the IPython Project,http://jupyter.org,,1415278720.0
+4,8566772,story,,,2,0,freshkurt,Automattic Buys UK’s Code for the People,http://techcrunch.com/2014/11/06/automattic-buys-uks-code-for-the-people-to-build-out-its-wordpress-vip-enterprise-business/,,1415278706.0
+5,8566770,comment,8565011.0,8565564.0,0,0,gabemart,,,"Your analysis is extremely one-sided in favor of producers and against consumers.<p>In economics, the difference between the maximum a consumer is willing to pay for a certain good and the the actual price charged is called &quot;consumer surplus&quot;. For example, if I buy an apple for $0.50 but the maximum I would have payed is $1.25, I enjoy $0.75 of consumer surplus.<p>Essentially what you are proposing is that consumer surplus should always optimally be zero. That in a perfect world, every producer would charge each consumer exactly their maximum willingness to pay for each good.<p>But just as there is consumer surplus, there is producer surplus. Producer surplus is the difference between the minimum price they would be willing to sell a good for and the actual price they sell that good for. So, as an apple producer, if the lowest price I could profitably sell an apple for is $0.10 but I actually sell if for $0.50, I enjoy $0.40 of consumer surplus.<p>In traditional free-market models, at an equilibrium price there is a mixture of consumer and producer surplus. Consumers buy things for a bit less than their maximum willingness to pay, and producers sell things for a bit more than their rock-bottom just-marginally-profitable price.<p>In your model of perfect price discrimination, there is a huge shift in surplus from consumers to producers. Yes, it&",
+6,8566769,comment,8562635.0,8562635.0,0,0,crb002,,,Why aren&,
+7,8566768,comment,8565665.0,8566713.0,0,0,scrapcode,,,To save others the time of looking it up: &quot;NUL [ESC] L [ESC] SOFT&quot;,1415278651.0
+8,8566767,comment,8564367.0,8565866.0,0,0,rakoo,,,"The software can be provided with Bittorrent Sync: launch, enter some code and you&",
+9,8566766,comment,8565119.0,8566420.0,0,0,JoeAltmaier,,,How about: a cpu that has scores of hyperthreads? They don&,
+10,8566765,comment,8566436.0,8566741.0,0,0,mike_hearn,,,I&,
+11,8566763,story,,,1,2,ripuli666,Ask HN: Best read-it-later solutions for Android/Chrome?,,I&,
+12,8566762,comment,8564622.0,8566558.0,0,0,ziikutv,,,"Some games can be finished in 5. I am thinking of even a 10-15 minute grace period.<p>I buy a lot of stuff on Steam for Dota 2 (cosmetics to support Valve). I usually just spam &quot;next&quot; and get it over with. Yesterday, I had to purchase a game for a friend and I forgot to tick the &quot;Gift&quot; checkbox.<p>Valve don&",
+13,8566761,comment,8566757.0,8566757.0,0,0,dupontalexis,,,Hi ! I&,
+14,8566760,comment,8565119.0,8566524.0,0,0,JoeAltmaier,,,"Certainly damage can happen faster, since the NVRAM is faster.  But my buggy driver could write the whole disk to 0 already.",1415278502.0
+15,8566759,comment,8565495.0,8565924.0,0,0,lostcolony,,,"Really? When you have problems, they&",
+16,8566758,comment,8566743.0,8566743.0,0,0,gmillard,,,"Looks great on any device, and you treated your content authors right. Well done!",1415278449.0
+17,8566757,story,,,2,1,dupontalexis,Winkli – The app to discover you'll bump into at your Facebook events,http://wink.li,,1415278389.0
+18,8566756,comment,8564314.0,8566037.0,0,0,f3llowtraveler,,,You think 60% in taxes scales better than 2%?,1415278330.0
+19,8566753,story,,,4,0,shrekdad,Show HN: Facetastic – make a slideshow by keeping face photos aligned,https://itunes.apple.com/us/app/facetastic-slideshow-maker/id926515500?mt=8,,1415278267.0
+20,8566751,comment,8565665.0,8566639.0,0,0,icebraining,,,"No, asm.js is just &quot;an extraordinarily optimizable, low-level subset of JavaScript&quot;. It doesn&",
+21,8566750,story,,,11,3,altern8,The $5 Logo,http://blog.folyo.me/the-5-dollar-logo/,,1415278212.0
+22,8566749,comment,8566743.0,8566743.0,0,0,robmweb,,,Responsive can work on any platform for every platform,1415278184.0
+23,8566748,comment,8522247.0,8531025.0,0,0,tripzilch,,,"Hm, the only thing this app would do for me was optically scan the machine-readable print on the back on my ID-card. Didn&",
+24,8566747,comment,8552296.0,8566726.0,0,0,iaskwhy,,,Although it&,
+25,8566746,comment,8565977.0,8565977.0,0,0,quaffapint,,,"I did this same thing back around 2006. I shut it down, since I figured there&",
+26,8566745,story,,,1,0,gk1,The other Ebola fear: Your civil liberties,http://arstechnica.com/tech-policy/2014/11/the-other-ebola-fear-your-civil-liberties/,,1415278107.0
+27,8566744,comment,8566055.0,8566473.0,0,0,disputin,,,"&quot;cars, having houses which are usually > 200 m2, come with swimming pools, have large gardens&quot;<p>It&",
+28,8566743,story,,,5,4,werencole,How We Stripped WordPress Bare to Build This Responsive Site,http://arc.applause.com/2014/11/05/deconstructed-wordpress-build-arc/,,1415278065.0
+29,8566742,comment,8564471.0,8566124.0,0,0,bobcostas55,,,Representatives don&,
+30,8566741,comment,8566436.0,8566659.0,0,0,tomp,,,"> Companies get taxed without representation<p>Equating companies with actual people seems to be a uniquely american view (also, complaining about &quot;double taxation&quot; of corporate profits). Personally, I don&",
+31,8566740,story,,,1,0,albertpalacci,"Wirelurker a Chinese Malware Attacks the iPhone, iPad and Mac",http://www.albertpalacci.org/wirelurker-chinese-malware-attacks-iphone-ipad-mac,,1415277995.0
+32,8566739,comment,8565665.0,8566494.0,0,0,dr_zoidberg,,,"I use foobar2000 too, however I don&",
+33,8566738,story,,,2,0,barnabee,Girl Talk in a box and other interactive music tools,http://static.echonest.com/WebSummit2014/,,1415277959.0
+34,8566737,comment,8566186.0,8566630.0,0,0,RealGeek,,,"<a href=""http://www.foreignlaborcert.doleta.gov/performancedata.cfm",
+35,8566735,comment,8566436.0,8566696.0,0,0,tomp,,,"He published the image online, publicly, himself. It&",
+36,8566734,story,,,17,5,amalantony06,"How Google helped us fail early, fail fast",http://blog.scrollback.io/2014/10/how-google-helped-us-fail-early-fail_21.html,,1415277782.0
+37,8566732,comment,8565665.0,8566697.0,0,0,rplnt,,,"Ah, I see, and in that regard I agree. I miss the simple, yet featureful classic Winamp when I chose to use something like Spotify. All you get is simplicity.",1415277691.0
+38,8566731,comment,8565495.0,8566660.0,0,0,dagw,,,But the whole point is that the so called O(2n) algorithm isn&,
+39,8566730,story,,,8,0,nemoniac,Interactive notebooks: Sharing the code,http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261,,1415277687.0
+40,8566729,comment,8565977.0,8566185.0,0,0,Kiro,,,This needs an answer!,1415277661.0
+41,8566728,comment,8561889.0,8564848.0,0,0,toyg,,,"I guess somebody actually experienced it, so they wrote down for good that it&",
+42,8566727,story,,,1,0,ckyildiz,How to Get a Potential Employers Attention the Gary Vaynerchuk Way,http://www.powerfulnonsense.com/how-to-get-a-potential-employers-attention-the-gary-vaynerchuk-way/,,1415277634.0
+43,8566726,comment,8552296.0,8555945.0,0,0,72deluxe,,,"Whilst true to some extent, it isn&",
+44,8566725,story,,,1,0,rbanffy,NumFOCUS,http://numfocus.org,,1415277627.0
+45,8566724,comment,8565011.0,8565011.0,0,0,snlacks,,,I don&,
+46,8566723,story,,,2,0,dnetesn,EARTH AND SKY,http://www.firstthings.com/blogs/leithart/2014/08/earth-and-sky,,1415277610.0
+47,8566722,story,,,10,6,ricw,How did Apple forget to focus its product line-up?,http://ricw.svbtle.com/has-apple-forgotten-to-focus-its-products,,1415277597.0
+48,8566721,comment,8566308.0,8566705.0,0,0,steveklabnik,,,"I just landed a patch this past week which changed our `fail!` macro to `panic!`, so there&",
+49,8566720,comment,8542892.0,8542892.0,0,0,sian_OK,,," ======================================================<p>Cool Functional Tech Team | London, UK | Front and Back End roles\n   ======================================================<p><pre><code>  SCALA DEVELOPER\n  FRONT END DEVELOPER (HTML, CSS, JS)\n</code></pre>\nEntrepreneurial lifestyle company going through a stage of rapid growth and looking for a strong developers to join the ultra-techy team and work on 100% Greenfield work.<p>Java developers with an interest in Functional Programming considered for Scala role also.<p><pre><code>  * Relaxed, dress down atmosphere and cool Central London HQ\n  * Awesome techy team getting quality code live quickly \n  * Work from home Fridays, relaxed core hours\n</code></pre>\nRole:<p>Looking for strong developers who relish technical challenges to join a start up currently taking the lifestyle and brands market by storm. You will take features through from concept to implementation, and love working with different technologies.<p>If you are fed up of slow-moving red tape culture where you can&",
+50,8566719,story,,,2,0,KhalilK,Ask HN: What podcasts do you listen do?,,Any must listen to? Looking for a few to get into and start up.,1415277481.0
+51,8566718,comment,8566128.0,8566128.0,0,0,purpletoned,,,What about slightly Chinese users? Are they immune to the malware?,1415277446.0
+52,8566717,story,,,5,0,srikar,Philae landing preview: What to expect on landing day,http://www.planetary.org/blogs/emily-lakdawalla/2014/11051415-philae-landing-preview.html,,1415277442.0
+53,8566716,comment,8566436.0,8566696.0,0,0,jgrahamc,,,You seem to be talking about something totally different.,1415277354.0
+54,8566715,comment,8565665.0,8566494.0,0,0,busterarm,,,My goto player these days is MOC.,1415277352.0
+55,8566714,comment,8563028.0,8563028.0,0,0,baldfat,,,IPython needs to be called Jupyter asap or else everyone would think this is a Python only application which happily as an R guy it is not.<p>Love that there are so many &quot;good&quot; open source options in the ecco-system and people will not only show the work BUT also include the cleaning and tidying up of the data which is equally important in my opinion.,1415277345.0
+56,8566713,comment,8565665.0,8565665.0,0,0,rootuid,,,"The easterEgg is nice, was this in the original ?",1415277337.0
+57,8566712,comment,8565495.0,8565747.0,0,0,webhat,,,I didn&,
+58,8566711,comment,8565161.0,8566596.0,0,0,cesarb,,,We didn&,
+59,8566710,story,,,69,18,ColinWright,Integrating with LLVM,http://dylanfoundry.org/2014/11/05/integrating-with-llvm/,,1415277319.0
+60,8566709,story,,,1,0,dnetesn,Hold the Phone: There’s Breaking News,http://www.nytimes.com/2014/11/06/technology/personaltech/flipboard-circa-and-other-apps-to-keep-track-of-the-news.html?ref=technology,,1415277291.0
+61,8566708,comment,8565665.0,8566642.0,0,0,busterarm,,,The wasted hours making Winamp skins...,1415277240.0
+62,8566707,comment,8565119.0,8566223.0,0,0,the8472,,,"This should be useful for any type of NVRAM, be it battery-backed DRAM, MRAM, memristors or DMA-mapped flash.",1415277237.0
+63,8566706,story,,,2,0,wslh,Leaked files show “industrial-scale tax avoidance” by big companies,http://fortune.com/2014/11/06/leaked-files-show-industrial-scale-tax-avoidance-by-big-companies/,,1415277194.0
+64,8566705,comment,8566308.0,8566308.0,0,0,NateDad,,,"As a gopher who has written an errors package for Go, I find Rust&",
+65,8566704,comment,8566108.0,8566108.0,0,0,baldfat,,,AS a former Sound Engineer and Studio owner I am blown away at what a phone can do now a days. It really is asy to have someone down load an app and talk them through live sound and EQ with the visual (accurate or not) to show what happens with sound when they play with cheap EQ (AKA cheap EQ is always for REDUCTION and never amplification)<p>I think if I was doing any sound work anymore I would quickly pick up an external mic and just always use pink noise and the meter to rough in a system.,1415277140.0
+66,8566703,comment,8565298.0,8565694.0,0,0,hga,,,"It might be worth mentioning that this sort of thing is something Microsoft has cared a lot about for a very long time.  I attended the huge, 7,000 attendees unveiling of NT for developers in SF in 1992, and one of the things they did, pretty much orthogonal to the rest of the program, was give us a handout and maybe a CD on accessibility, and strongly urge us to incorporate it in what we developed.",1415277134.0
+67,8566702,comment,8565011.0,8565891.0,0,0,hrjet,,,That&,
+68,8566701,story,,,6,0,dnetesn,"Jets, bubbles, and bursts of light in Taurus",http://www.spacetelescope.org/news/heic1424/,,1415277084.0
+69,8566700,comment,8566669.0,8566669.0,0,0,frading,,,"Clickable links:<p>Home page: <a href=""https://www.printmosaic.com"" rel=""nofollow"">https://www.printmosaic.com</a><p>Contest page: <a href=""https://www.printmosaic.com/contest/events/1-November"" rel=""nofollow"">https://www.printmosaic.com/contest/events/1-November</a>",1415277064.0
+70,8566699,comment,8565495.0,8566660.0,0,0,samscott,,,">  For us, twice the time is twice the time no matter how you sugar coat it.<p>Which is funny, because your method still uses 2n multiplications, it just computes them in the same loop.",1415277029.0
+71,8566698,comment,8561889.0,8565235.0,0,0,toyg,,,"<i>> I remember there was such thing as a Constitution where some guys wrote that people have the rights and government should be restricted in curtailing these rights, and they seemed to think that people&",
+72,8566697,comment,8565665.0,8566586.0,0,0,josefresco,,,"iTunes, Pandora, Spotify - times have changed and a lot of us retired their massive collection of pirated tunes for a streaming service or much more curated library.",1415277004.0
+73,8566696,comment,8566436.0,8566625.0,0,0,vidarh,,,It&,
+74,8566695,comment,8566436.0,8566436.0,0,0,prawn,,,"Anyone got any ideas on how governments could effectively clamp down on this?<p>In Australia, IKEA paid 1%* tax over the last 12 years, even as sales surged 500%:<p><a href=""http://www.theguardian.com/world/2014/nov/06/luxembourg-tax-leaks-put-pressure-on-g20-leaders-to-act-on-loopholes"" rel=""nofollow"">http://www.theguardian.com/world/2014/nov/06/luxembourg-tax-...</a><p>(The Guardian article has since removed the 1% reference, though it was in there when I first read the article.)",1415276921.0
+75,8566694,comment,8557958.0,8563015.0,0,0,disputin,,,"<i>&quot;if it were a mix of genders, races, and socioeconomic standing at birth&quot;</i>\nClearly the latter two were the case.  The gender mix was about 30% female.",1415276903.0
+76,8566693,comment,8565665.0,8566642.0,0,0,josefresco,,,"Speaking of skins, I remember the debate between incumbent Winamp and newcomer Sonique: <a href=""https://www.google.com/search?q=sonique+media+player"" rel=""nofollow"">https://www.google.com/search?q=sonique+media+player</a><p>Other than skins, the other most frequented activity was finding new, trippy visualizations (<a href=""https://www.google.com/search?q=geis+plugin"" rel=""nofollow"">https://www.google.com/search?q=geis+plugin</a>) - ahh college.<p>And this! &quot;Uses the acutal skin assets, so it&",
+77,8566692,comment,8565665.0,8566290.0,0,0,gabemart,,,I&,
+78,8566690,story,,,3,0,tnb234,Amazon Route 53 for VPC,http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-private.html?sc_ichannel=em&sc_icountry=global&sc_icampaigntype=launch&sc_icampaign=EM_126306130&sc_idetail=207641252&ref_=pe_411040_126306130_9,,1415276848.0
+79,8566689,comment,8563465.0,8563465.0,0,0,ifcologne,,,"ArangoDB, an open source NoSQL database that supports documents, key/values and graphs in one tool.<p><a href=""https://www.arangodb.com/key-features"" rel=""nofollow"">https://www.arangodb.com/key-features</a><p>Why is it cool?<p>You start with a few requirements, than learn something new about your business and your customers every day.<p>With the multi-model approach of ArangoDB you can adapt and change your data model, join between edges and documents and even extend the database by Javascript.",1415276848.0
+80,8566688,comment,8565864.0,8566167.0,0,0,ushi,,,"It is already mentioned in his beloved developer forum[0], but he didn&",
+81,8566687,story,,,1,0,danielaxplenty,How to Prepare IBM SoftLayer Data for Analysis,https://www.xplenty.com/blog/2014/10/preparing-ibm-softlayer-data-for-analysis/,,1415276755.0
+82,8566686,story,,,3,0,NeonMaster,Show HN: Blixtser – Super fast serialization for Java,https://github.com/Mojang/blixtser,,1415276712.0
+83,8566685,comment,8566436.0,8566673.0,0,0,morsch,,,"Huh, you&",
+84,8566684,comment,8566308.0,8566308.0,0,0,mercurial,,,"So it means the client of your library can simply pattern-match on the result returned by cause() to find out if it was caused by, say, FileNotFoundException? Nice.",1415276628.0
+85,8566682,story,,,4,0,rappo,Community Rights: Should Bountysource allow committers to delist their project?,https://github.com/bountysource/frontend/issues/930,,1415276591.0
+86,8566681,comment,8565298.0,8566015.0,0,0,pataracts,,,Should we dismiss ideas because they don&,
+87,8566680,comment,8566055.0,8566377.0,0,0,zingar,,,Ok fair enough. My assumption was that real estate everywhere in SF was in crazy demand and that if there wasn&,
+88,8566679,comment,8565459.0,8565459.0,0,0,organsnyder,,,"I recently acquired a complete Tandy 1000 TX system (from circa 1987), identical to the first system I used regularly as a kid (we had a Sanyo computer before it, but I hardly remember that one). My dad passed away in 2007, and this system definitely reminds me of him (along with my childhood in general). I remember playing various games on it with him, especially Monkey Island. I also remember him playing Leisure Suit Larry, but—for reasons that didn&",
+89,8566677,comment,8563005.0,8566528.0,0,0,pjmlp,,,I didn&,
+90,8566676,comment,8566108.0,8566456.0,0,0,72deluxe,,,Apologies - I did go and take a look at the paper but examined the graphs and scanned the last paragraph but saw iOS everywhere; a more concentrated reading would have stopped me making a fool of myself.<p>Thanks for pointing the paragraphs out.,1415276480.0
+91,8566675,story,,,1,0,bake,Show HN: Answer-First – hypothesis-driven work planning,http://www.answer-first.com/,,1415276468.0
+92,8566674,comment,8536038.0,8536526.0,0,0,tripzilch,,,"> Why cross that line? Why risk jail, your career, a whole pile of hardship?<p>I think part of it is age, maybe. Or rather life-experience, if you will.<p>I remember back in my early 20s what always stopped me was basic paranoia about getting caught. But that&",
+93,8566673,comment,8566436.0,8566637.0,0,0,jgrahamc,,,"No, including an image that is licensed in this way is not going to force that relicensing. I don&",
+94,8566671,comment,8566670.0,8566670.0,0,0,kyllikoort,,,"Turns out 79% of employees have been micromanaged at one point or another, 91% of managers are unaware of employees changing their job due to their micromanagement behaviors. Here are 6 most common symptoms you might be dealing with micromanagement. Any additional symptoms to add to the list?",1415276342.0
+95,8566670,story,,,2,1,kyllikoort,Ever been micromanaged? 6 symptoms micromanagers share,https://blog.weekdone.com/lead-or-manage-6-symptoms-micromanager/,,1415276214.0
+96,8566669,story,,,1,1,frading,Ask HN: My startup PrintMosaic runs a contest for the first time. Any advice?,,"Hello,<p>I&",
+97,8566668,comment,8566402.0,8566546.0,0,0,InternetGiant,,,"That sounds perfect. It is probably best to make the default view a list. <a href=""http://blog.getprismatic.com/list-beats-grid-linear-feeds-perform-two-to-three-times-better-than-grids-2/"" rel=""nofollow"">http://blog.getprismatic.com/list-beats-grid-linear-feeds-pe...</a>",1415276099.0
+98,8566667,comment,8565665.0,8566642.0,0,0,petercooper,,,"I spent a lot of time doing that too, as well as plugins once they arrived.. it was amazing how many plugins there were to &",
+99,8566666,comment,8565665.0,8566503.0,0,0,spacefight,,,"For Crossfading, I also suggest \n<a href=""http://www.twoyoutubevideosandamotherfuckingcrossfader.com/"" rel=""nofollow"">http://www.twoyoutubevideosandamotherfuckingcrossfader.com/</a><p>;)",1415275951.0
+100,8566665,comment,8565495.0,8566640.0,0,0,lmartel,,,You&,
+101,8566664,comment,8565011.0,8565011.0,0,0,egeozcan,,,> Doepfner said the resulting dramatic drop in traffic to his company&,
+102,8566663,comment,8562427.0,8565299.0,0,0,thekenwheeler,,,Hah. In my own projects I&,
+103,8566662,comment,8566055.0,8566473.0,0,0,zingar,,,Thanks. I&,
+104,8566661,comment,8566436.0,8566608.0,0,0,spacefight,,,"Well, it looks someone has covered the CC by-sa license already so it sure looks fine to use, they&",
+105,8566660,comment,8565495.0,8566640.0,0,0,zamalek,,,"> But wait, O(2n) and O(n) are the same aren&",
+106,8566659,comment,8566436.0,8566647.0,0,0,mike_hearn,,,"Well, this problem is fundamental to trying to tax entities that don&",
+107,8566658,comment,8565459.0,8565938.0,0,0,twicenone,,,"What a lovely comment. Brought tears to my eyes.  My father also died three years ago, and all we really have to remember him is photos.  I&",
+108,8566657,comment,8565977.0,8565977.0,0,0,zhte415,,,From the help text on a black page (if you&,
+109,8566656,comment,8563465.0,8563465.0,0,0,frading,,,"<a href=""https://www.printmosaic.com/contest/events/1-November"" rel=""nofollow"">https://www.printmosaic.com/contest/events/1-November</a><p>I added a contest to my startup PrintMosaic (<a href=""https://www.printmosaic.com"" rel=""nofollow"">https://www.printmosaic.com</a>).<p>It is cool because some people will be able to win free posters and free high resolution images for Christmas.<p>To enter, you need to create a mosaic and apply with it. Creating a mosaic is easy and is done in 2 steps (1. Choose your main image and 2. Choose the small images)<p>The winner is the mosaic with the most votes. So you need to invite your friends to vote for yours if you want to win.",1415275685.0
+110,8566655,comment,8565298.0,8566090.0,0,0,simonh,,,I can read perfectly well. But if the web site I&,
+111,8566654,comment,8561677.0,8562885.0,0,0,xerophyte12932,,,"What if... we combine them with normal looking letters to make a captcha? humans see one thing, bots see some more?",1415275657.0
+112,8566653,comment,8561677.0,8563955.0,0,0,Tepix,,,Isn&,
+113,8566652,comment,8562483.0,8566612.0,0,0,haylem,,,"Well, you know what, I actually realized that there&",
+114,8566651,comment,8542892.0,8563772.0,0,0,zerr,,,"May I ask you, how do you plan to monetize?",1415275616.0
+115,8566650,comment,8558822.0,8563301.0,0,0,tehwalrus,,,replace all: tk -> current_token,1415275607.0
+116,8566649,comment,8536038.0,8537904.0,0,0,tripzilch,,,"In many countries outside the US, jail time (and the justice system in general) are not exclusively about punishment.<p>Think about that for a bit.",1415275585.0
+117,8566648,comment,8566064.0,8566064.0,0,0,noir_lord,,,"I love that this uses what looks like fairly standard PC fans and such, makes the units a lot more serviceable in developing countries.<p>Very very cool.",1415275449.0
+118,8566647,comment,8566436.0,8566436.0,0,0,Cthulhu_,,,"I for one hope the countries in question will patch the tax holes, but not as much as to make the companies evade to other countries. The national economies would be vastly improved, at the expense of shareholder dividend.",1415275394.0
+119,8566646,story,,,1,0,rossiben,"Is cloud bad for work-life balance, and does it really forfeit your privacy?",http://www.information-age.com/technology/cloud-and-virtualisation/123458611/cloud-good-or-bad-your-work-life-balance-and-does-it-really-forfeit-your-privacy,,1415275387.0
+120,8566645,comment,8561677.0,8561891.0,0,0,rogiervd,,,"Not yet, I think, but people are seriously trying. <a href=""http://research.google.com/pubs/HeigaZen.html"" rel=""nofollow"">http://research.google.com/pubs/HeigaZen.html</a>",1415275329.0
+121,8566644,comment,8562627.0,8564962.0,0,0,ohpauleez,,,It&,
+122,8566643,story,,,3,0,ColinWright,8 Things to Look for During Orion’s Flight,https://blogs.nasa.gov/orion/2014/11/04/8-things-to-look-for-during-orions-flight/,,1415275282.0
+123,8566642,comment,8565665.0,8565665.0,0,0,pjmlp,,,The wasted hours trying out Winamp skins....,1415275204.0
+124,8566641,story,,,194,72,evansd,Making a brain for my model plane,http://story.glass/uav,,1415275204.0

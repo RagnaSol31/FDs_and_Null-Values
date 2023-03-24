@@ -1,0 +1,104 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8201251,comment,8200562.0,8200562.0,1,0,MalcolmDiggs,,,Yes it&,
+1,8201250,comment,8200247.0,8201199.0,8,0,rdtsc,,,I don&,
+2,8201249,comment,8201152.0,8201152.0,1,0,stingraycharles,,,... and it&,
+3,8201248,comment,8200273.0,8200420.0,2,0,callmeed,,,"I looked at it the other day and it starts at $3,500/month. That&",
+4,8201247,story,,,5,0,grej,Birds Bursting Into Flames Above Solar Farm Stirs Calls To Slow Expansion,http://sanfrancisco.cbslocal.com/2014/08/18/birds-bursting-into-flames-above-solar-farm-stirs-calls-to-slow-expansion-streamer-solar-field-central-valley-heat-streamer-fire-burn/,,1408514326.0
+5,8201246,comment,8196962.0,8197864.0,1,0,Ecio78,,,"uhm I checked if this could be a good solution for mediaplayer usage, but it seems not: <a href=""http://openelec.tv/forum/124-raspberry-pi/71202-banana-pi"" rel=""nofollow"">http://openelec.tv/forum/124-raspberry-pi/71202-banana-pi</a>",1408514193.0
+6,8201245,comment,8200160.0,8200160.0,3,0,dinkumthinkum,,,"This comes up on HN every so often. It is a very high quality guide. The redblobgames.com seems to be a good companion to the Visual Algorithm site posted the other day [1].<p>[1] - <a href=""http://www.comp.nus.edu.sg/~stevenha/visualization/"" rel=""nofollow"">http://www.comp.nus.edu.sg/~stevenha/visualization/</a>",1408514163.0
+7,8201244,comment,8200878.0,8200878.0,57,0,neya,,,"There was a time when I used to advocate my fellow folks here at HN (and possibly even reddit) to go for a framework built on faster languages like GoLang or Scala or even using platforms like Node.js and avoid slower ones like Rails. Now, it&",
+8,8201242,comment,8198924.0,8200461.0,1,0,aganders3,,,"My (very limited) understanding of the lawsuits brought by musicians is that it stems from a desire (by the artist) to keep ticket prices low. TicketMaster has exclusive contracts with many venues, preventing artists from selling tickets directly to fans or through other ticketing services.",1408514027.0
+9,8201241,comment,8200878.0,8201159.0,1,0,jiggy2011,,,"Oh, this reminds me of that Bill Hicks clip.",1408513973.0
+10,8201240,story,,,123,5,highCs,Clocks,http://procyonic.org/clocks/index.html,,1408513959.0
+11,8201239,comment,8200160.0,8200417.0,1,0,malbs,,,"Damn, I can&",
+12,8201238,comment,8200669.0,8200902.0,1,0,okasaki,,,Are you sure? I just get that message and no article.,1408513906.0
+13,8201237,comment,8197717.0,8197717.0,1,0,LeicaLatte,,,The pirates say their thanks.,1408513888.0
+14,8201236,comment,8199503.0,8200018.0,1,0,nknighthb,,,Y&,
+15,8201235,comment,8200878.0,8201215.0,1,0,retr0h,,,"yellowpages.com now yp was a large rails shop, and subsiquently moved to node.",1408513857.0
+16,8201234,story,,,3,0,sgy,"Ironically, dropbox YC application is stored on Google drive",https://dl.dropboxusercontent.com/u/27532820/app.html,,1408513837.0
+17,8201233,comment,8200878.0,8201006.0,3,0,sync,,,"We frequently ran into the issue of the object having been deleted while sitting in the job queue, so Model.find(id) would blow up. I&",
+18,8201232,comment,8200562.0,8200562.0,1,0,SebSigloch,,,"Yes, it&",
+19,8201231,comment,8199792.0,8199792.0,2,0,logn,,,From their perspective it&,
+20,8201230,comment,8200620.0,8200620.0,1,0,SebSigloch,,,"Berlin has an amazing startup scene with fairly open people. I got easily in contact with CEOs of Soundcloud and Blinkist. \nTry also to connect with hub:raum , which is the Telekom incubator in Berlin. Great stuff.<p>Other than that, I would probably go for Paris or Zurich, dependent on your startup idea.<p>In general: Try to find a place, where like-minded startups are situated. This swarming of common interests is indeed very valuable for skill, experience, and knowledge transfer.",1408513774.0
+21,8201229,comment,8200878.0,8201215.0,2,0,shadowmint,,,"Twitter is particularly notorious for once being an extremely heavy user of rails, then in ~2010 for abandoning ruby for the JVM and reporting the result was substantially faster.<p>...this is all ancient history now though. Come on, 2 seconds on google will find all the arguments and counter arguments about this stuff.",1408513737.0
+22,8201228,story,,,1,0,gojomo,Fully Functional 1KB Hard Drive in Vanilla Minecraft,http://imgur.com/gallery/NJBuH,,1408513598.0
+23,8201227,comment,8200906.0,8200906.0,18,0,siddboots,,,I sat reading the tips for a good fifteen minutes.<p><pre><code>    Did you know... \n    Clouds are passing by all the time.\n\n    Did you know...\n    You can go outside right now if you like.\n\n    Did you know...\n    Every single grass of the loam is casting shadows individually when it is sunny.</code></pre>,1408513551.0
+24,8201226,comment,8200963.0,8200963.0,6,0,mholt,,,"I thought Heartbleed attacks were difficult to detect. How did they determine they used the Heartbleed vulnerability, especially since the attack happened only a week after Heartbleed was revealed?<p>> &quot;Community Health ... disclosed yesterday that Chinese hackers stole patients’ Social Security numbers, names and addresses, without revealing how the hackers got in.&quot;<p>And then...<p>> “We never had any tangible proof of an attack until now,” said David Kennedy, founder of TrustedSec LLC, a security consulting company based in Cleveland, Ohio, who first reported Heartbleed was used to attack Community Health on his company’s website.<p>Here&",
+25,8201225,comment,8200889.0,8201092.0,8,0,ctb9,,,"Buried under the shitty attitude, there is actually a useful comment here.<p>Remember HN is the sum of it&",
+26,8201224,comment,8200889.0,8200889.0,3,0,devilsdounut,,,I like Mathematica... while their magic functions don&,
+27,8201223,comment,8200878.0,8201166.0,10,0,dhh,,,"Here are some Rails sites: Basecamp, Github, Shopify, Airbnb, Soundcloud, Indiegogo. All have millions of users.",1408513429.0
+28,8201222,comment,8200878.0,8201161.0,4,0,andyl,,,"I was able to run bash and vim inside the browser console.  And Tmux.  And I could run vim inside of Tmux.  Split windows, multi-tabs, htop.  Guard, rspec, pry-debugger.  Everything worked.<p>WOW",1408513374.0
+29,8201221,comment,8200164.0,8200164.0,1,0,MalcolmDiggs,,,"> <i>I find this approach illegal, as our business contract is over and they are still collecting data from my website.</i><p>Did you really mean to say that you think this is illegal? That&",
+30,8201220,story,,,12,1,signa11,Emacs for developers,https://github.com/pierre-lecocq/emacs4developers,,1408513321.0
+31,8201219,comment,8199361.0,8199361.0,1,0,seekingcharlie,,,Shopify docs are really good.,1408513308.0
+32,8201218,comment,8199503.0,8200190.0,1,0,ithought,,,"As another point, the book Burning Money from the Chairman of Reagan&",
+33,8201216,comment,8200758.0,8201067.0,1,0,jaekwon,,,"Thanks, these are great resources.  I&",
+34,8201215,comment,8200878.0,8201207.0,1,0,enraged_camel,,,Which is confusing. I thought some huge websites (Twitter and Hulu come to mind) use Rails?,1408513251.0
+35,8201213,comment,8200247.0,8200968.0,12,0,rgbrenner,,,"this competes with libevent, libev, and libuv... all of which use the best method for the platform where it&",
+36,8201212,comment,8200669.0,8200669.0,1,0,wodenokoto,,,11 CM of rain an hour? 7.5 km in diameter? Those looks like typos to me.,1408513111.0
+37,8201211,comment,8193754.0,8196839.0,2,0,rozim,,,"Googler here. We avoid doing &quot;work&quot; in constructors as per\nthe style guide: <a href=""http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml",
+38,8201210,comment,8198869.0,8201084.0,1,0,chenelson,,,"If something is better than nothing, instead of expending capital on owner-supplied code infrastructure, why not pay robbers not to rob? That way, there&",
+39,8201209,comment,8201055.0,8201055.0,12,0,manifest23,,,One of my first websites was an emulation site in 1999/2000. SNES was by far the most popular category on the site so I had the bright idea to play 2-3 minutes of every single game in order to take a screenshot of the game-play. Three months later I was finally done. Then I lost everything in hard drive crash before I could push the new version of my site live. Dammit.,1408512928.0
+40,8201208,comment,8200041.0,8200326.0,1,0,levlandau,,,"Just based off this google search: <a href=""http://scholar.google.com/scholar?hl=en&q=rigetti&btnG=&as_sdt=1%2C5&as_sdtp="" rel=""nofollow"">http://scholar.google.com/scholar?hl=en&q=rigetti&btnG=&as_s...</a><p>I&",
+41,8201207,comment,8200878.0,8201166.0,1,0,shadowmint,,,I think you mean &,
+42,8201206,story,,,3,0,reuven,Steve Ballmer quits Microsoft board,http://www.nytimes.com/2014/08/20/technology/citing-outside-duties-steven-ballmer-resigns-from-microsofts-board.html,,1408512776.0
+43,8201205,comment,8199503.0,8199959.0,1,0,angersock,,,Airborne...good to the last drop!,1408512767.0
+44,8201204,comment,8201058.0,8201058.0,2,0,duncan_bayne,,,"Business hat:<p>This sounds like a profitable idea, but will likely be subject to odd local zoning regulations.  Expect a fight from people opposed to advertising in general, and from incumbents who will throw anything they can at you.  Get legal advice early, and be prepared for a bit of nastiness.<p>Personal hat:<p>Please God no, the world does <i>not</i> need more advertising.  Make it STOP!  I used to carry a TV-begone, now I use an app on my Galaxy Note, and I still can&",
+45,8201203,comment,8200041.0,8200344.0,3,0,SouthATL,,,I looked this guy up. Pinboard?<p>This guys is making fun of startups that are fighting HIV and cancer and he&,
+46,8201202,comment,8199503.0,8201111.0,2,0,lotsofmangos,,,"There are 11.6 million veterans below the age of 65, which is a fair amount of trained soldiers, though that doesn&",
+47,8201201,comment,8201045.0,8201103.0,1,0,sparky_z,,,Yes.,1408512659.0
+48,8201200,comment,8186008.0,8187681.0,1,0,koshak,,,If they were ok why should they had forked python?,1408512657.0
+49,8201199,comment,8200247.0,8201171.0,7,0,ivank,,,&quot;Context switching is expensive. My rule of thumb is that it&,
+50,8201198,story,,,3,0,cursivedgreat,Getting my brain back,http://techcrunch.com/2014/08/17/getting-my-brain-back/?ncid=fb&utm_source=feedburner&utm_medium=feed&utm_campaign=fb&utm_content=FaceBook,,1408512551.0
+51,8201197,comment,8200906.0,8200983.0,4,0,nailer,,,On Windows desktops (a tiny portion of current web browsers) maybe. Can&,
+52,8201196,comment,8199323.0,8199323.0,1,0,Jemaclus,,,"Will uBiome run into the same FDA regulatory issues that 23andMe did? If so, I hope they have a great legal team...",1408512357.0
+53,8201195,comment,8199784.0,8199784.0,1,0,apaprocki,,,"This is the path it has taken since it left Spain on 7/21: <a href=""https://imgur.com/2w8vg3R"" rel=""nofollow"">https://imgur.com/2w8vg3R</a>",1408512329.0
+54,8201194,comment,8199784.0,8201040.0,1,0,nl,,,Maersk does some land shipping too.<p>But I don&,
+55,8201193,comment,8201055.0,8201055.0,32,0,jmduke,,,I&,
+56,8201192,comment,8200730.0,8200730.0,2,0,logn,,,"I would recommend writing apps as much as you can from &quot;scratch&quot; (do use standard libraries for your language, but shy away from big libraries or platforms that aren&",
+57,8201191,story,,,160,19,laex,The Little Book of Semaphores,http://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=83,,1408512275.0
+58,8201190,comment,8199665.0,8201180.0,2,0,shmerl,,,<i>> Myhrvold believes in what he&,
+59,8201189,comment,8198924.0,8199740.0,3,0,akiselev,,,Many (if not most) of AirBnB&,
+60,8201188,comment,8201045.0,8201045.0,12,0,avifreedman,,,It wasn&,
+61,8201187,comment,8200878.0,8201175.0,1,0,rudimk,,,"I see. Should check it out, then.",1408512216.0
+62,8201186,comment,8200878.0,8201149.0,8,0,chancancode,,,"Along with that, one of the hidden gems is that dirty tracking now detect inline changes correctly. This means things like JSON/JSONB columns Just Works™ out of the box.",1408512203.0
+63,8201185,comment,8200041.0,8200369.0,4,0,justin,,,It&,
+64,8201184,comment,8199665.0,8200647.0,5,0,shmerl,,,Simple. Being a parasite feeds his greed more than doing something useful for society.,1408512137.0
+65,8201183,story,,,5,3,iopq,Quinnspiracy Theory: The Five Guys Saga,https://www.youtube.com/watch?v=C5-51PfwI3M,,1408512094.0
+66,8201181,comment,8199665.0,8199665.0,1,0,shmerl,,,"<i>> Bloomberg BusinessWeek reports that IV kept asking the same companies to reinvest, and if they didn’t, the threat was that the company could always find something to sue one of the entities over.</i><p>This is such a brazen shakedown, it&",
+67,8201180,comment,8199665.0,8200647.0,3,0,adventured,,,It&,
+68,8201179,comment,8198139.0,8198139.0,1,0,lightblade,,,"I was working on a blog post on implementing drag and drop using functional reactive programming (FRP) with bacon.js. Your question just pushed me to finish it :)<p>Here it is.<p><a href=""http://www.codingupfengshui.io/functional-reactive-programming-with-baconjs-part4"" rel=""nofollow"">http://www.codingupfengshui.io/functional-reactive-programmi...</a>",1408512001.0
+69,8201178,comment,8200878.0,8201135.0,3,0,mmanfrin,,,100% speedup is underwhelming?,1408511832.0
+70,8201177,story,,,2,0,jseliger,My experience as “The Underchallenged ‘Lazy Teenager’”,http://jseliger.wordpress.com/2014/08/19/being-a-dumbass-my-experience-as-the-underchallenged-lazy-teenager/,,1408511808.0
+71,8201176,story,,,4,0,Brajeshwar,India becomes the 'Launch pad' for Amazon drones; deliveries may start by Diwali,http://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/india-to-be-launch-pad-for-amazons-plan-to-deliver-packages-using-drones-deliveries-may-start-by-diwali/40464756,,1408511798.0
+72,8201175,comment,8200878.0,8201160.0,2,0,mmanfrin,,,"For one, web console is built in. Other than that, I imagine not much.",1408511764.0
+73,8201174,comment,8199193.0,8200522.0,1,0,alexanderrangel,,,We can handle systems that are or are not IP enabled.,1408511734.0
+74,8201173,comment,8200878.0,8201136.0,2,0,mmanfrin,,,It&,
+75,8201172,comment,8199784.0,8200969.0,7,0,evanb,,,"Have you seen All Is Lost with Robert Redford?  It came out in the last 12 months, and the premise is that he&",
+76,8201171,comment,8200247.0,8201150.0,1,0,rdtsc,,,I know what select/epoll and friends are for.<p>What&,
+77,8201169,comment,8194662.0,8194662.0,1,0,stevenhalim,,,"Hi all, I am the initiator of this project. You can gave me bug reports or suggestions on how to improve VisuAlgo (and its online quiz mode) via stevenhalim@gmail.com. Me and my team are still actively developing this tool and will update it over time.<p>Question banks for certain topics are not big enough so there is a small probability that you can see two random questions that are the same. This should not be true in the near future.<p>The code is semi open actually (all HTML,CSS,JS files) are on client-side. The only hidden parts (in server-side) are the mechanism to generate random questions and to verify answers automatically and also our graph drawing database :O (you can draw your own graph for DFS/BFS/MST/SSSP/Network Flow/Matching if you haven&",
+78,8201168,story,,,4,0,regi,RiNOO: (a)?synchronous sockets in C,https://github.com/reginaldl/librinoo,,1408511594.0
+79,8201167,comment,8200878.0,8200878.0,7,0,j4pe,,,I&,
+80,8201166,comment,8200878.0,8201014.0,2,0,liamzebedee,,,Yes it is nice to see continued progress! Could someone explain to me what this negative press is about? I understand that Rails and Ruby by default are not as performant as Node/Go/the JVM but it supposedly functions quite well for relatively large websites (~10K users).,1408511487.0
+81,8201165,comment,8197102.0,8197622.0,1,0,PhantomGremlin,,,My daughter is now 16 and moving away from playing softball. But she has played since she was about 8 years old. So this is recent history for me. Thankfully she didn&,
+82,8201164,comment,8200730.0,8201144.0,1,0,notduncansmith,,,"13 is easier said than done.  Maybe this is just me trying to rationalize, but it feels like if you don&",
+83,8201163,comment,8199784.0,8201029.0,2,0,ghshephard,,,"Interesting to note - the change in interest rates therefore has an impact on the size of ship engines, with lower interest rates resulting in smaller engines (or perhaps engines being run at more efficient speeds in terms of fuel consumption)",1408511340.0
+84,8201162,comment,8199665.0,8200673.0,2,0,lukifer,,,"In practice, the efficacy of patents probably varies by industry. For software patents, I have a hard time thinking of a single instance where they benefitted innovation. Does anyone really think that Amazon wouldn&",
+85,8201161,comment,8200878.0,8200878.0,5,0,urs2102,,,<%= console %> is a godsend,1408511315.0
+86,8201160,comment,8200878.0,8200878.0,2,0,rudimk,,,What&,
+87,8201159,comment,8200878.0,8201136.0,10,0,chancancode,,,"Sorry you felt that way. That project was sponsored by <a href=""http://adequatehq.com/"" rel=""nofollow"">http://adequatehq.com/</a>, so we don&",
+88,8201158,comment,8200963.0,8201128.0,5,0,rudimk,,,I&,
+89,8201157,comment,8201055.0,8201055.0,2,0,rdtsc,,,"Ah ZX Spectrum that takes me back. I learned assembler on it, BASIC, had a Pascal and C compiler even (the last two had to load from tape). Made one mistake and had to reload the whole thing again and wait 5 minutes or so.<p>It was amazing how there was this closeness to the machine, you boot right into the programming environment and had to type a command to load a game or do anything.<p>Some of the games I remember were exceptional, Elite was one of them. Just thinking about the ability to pack everything in 48K of memory.",1408511162.0
+90,8201156,story,,,1,0,curiouscats,How Ethiopians are working to improve health outcomes with minimal resources,https://www.youtube.com/watch?v=gvh9fksWNbg,,1408511160.0
+91,8201155,story,,,2,0,Flux7Labs,Facts and tips on AWS Elastic Load Balancer (ELB),http://blog.flux7.com/blogs/aws/behind-the-scenes-with-amazons-elastic-load-balancer-elb,,1408511116.0
+92,8201154,comment,8201041.0,8201123.0,2,0,rudimk,,,I doubt it&,
+93,8201153,comment,8197926.0,8197926.0,1,0,pak,,,"Canvas tiles are exactly the approach we took in making the ChromoZoom genome browser, where we wanted people to smoothly zoom in on client drawn data at 60fps through 10 orders of magnitude: <a href=""http://chromozoom.org"" rel=""nofollow"">http://chromozoom.org</a> (Note that it&",
+94,8201152,story,,,22,10,stingraycharles,Docker Registry experiencing full service disruption,http://status.docker.com/,,1408511032.0
+95,8201151,story,,,2,0,bentoner,"This week, let’s dump a few ice buckets to wipe out malaria too",http://qz.com/250845/this-week-lets-dump-a-few-ice-buckets-to-wipe-out-malaria-too/,,1408511003.0
+96,8201150,comment,8200247.0,8201043.0,4,0,ivank,,,You need select or a select-like function to know which sockets are readable/writable without tying up one thread per socket,1408510998.0
+97,8201149,comment,8200878.0,8200878.0,12,0,andyl,,,Just saw this in the release notes:<p><pre><code>    The PostgreSQL adapter now supports the JSONB datatype in PostgreSQL 9.4+. \n</code></pre>\nIndexable/queryable JSON - so fantastic.,1408510991.0
+98,8201147,comment,8201045.0,8201045.0,4,0,jlgaddis,,,"Related:<p>&quot;AS 7007 incident&quot;: <a href=""https://en.wikipedia.org/wiki/AS_7007_incident"" rel=""nofollow"">https://en.wikipedia.org/wiki/AS_7007_incident</a><p>&quot;7007: FROM THE HORSE&",
+99,8201146,comment,8198481.0,8199693.0,8,0,HarryHirsch,,,"The invention of the printing press is interesting.<p>There was a flourishing book trade in the Roman Empire, but like most everything else books were produced through slave labour, there was enough of it to go around - imagine a big room full of scribe slaves and a reader slave at the front dictating from the master copy.  Even in a podunk backwater town like Oxyrhynchus you could buy mass-produced books of quality.  What was different in the time of Gutenberg is that there was a demand for books again, but scriptoria couldn&",
+100,8201145,story,,,4,1,vbrendel,Tax treatment of crypto-currencies in Australia – specifically Bitcoin,https://www.ato.gov.au/General/Gen/Tax-treatment-of-crypto-currencies-in-Australia---specifically-bitcoin/,,1408510836.0
+101,8201144,comment,8200730.0,8200730.0,1,0,julesaus,,,There&,
+102,8201143,comment,8198924.0,8200362.0,3,0,mentat,,,In the US it is <i>not</i> legal to bring home items for resale without declaring them.,1408510828.0

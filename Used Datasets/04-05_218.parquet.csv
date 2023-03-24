@@ -1,0 +1,132 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6210001,comment,6208419.0,6209930.0,3,0,air,,,I don&,
+1,6210000,story,,,2,0,jonbaer,A new software ecosystem for cognitive systems,http://www.youtube.com/watch?v=J69EJxUr8mw,,1376456325.0
+2,6209999,comment,6208419.0,6209924.0,2,0,okey,,,"Just fyi, the Linux kernel is under GPLv2, not GPLv3, afaik.",1376456217.0
+3,6209998,story,,,3,0,jonbaer,Systems of Neuromorphic Adaptive Plastic Scalable Electronics (SYNAPSE),http://www.darpa.mil/Our_Work/DSO/Programs/Systems_of_Neuromorphic_Adaptive_Plastic_Scalable_Electronics_%28SYNAPSE%29.aspx,,1376456213.0
+4,6209997,comment,6201016.0,6209463.0,1,0,bad_user,,,I hear this argument a lot. Do you fix your own car dude? Do you change the oil by yourself? I don&,
+5,6209996,comment,6206430.0,6209127.0,10,0,bdash,,,"You can. See <a href=""http://shantonu.blogspot.com/2012/07/building-xnu-for-os-x-108-mountain-lion.html"" rel=""nofollow"">http://shantonu.blogspot.com/2012/07/building-xnu-for-os-x-1...</a>",1376456159.0
+6,6209995,comment,6209689.0,6209689.0,4,0,crazygringo,,,> <i>Split the stock between the founding team evenly.</i><p>I&,
+7,6209994,comment,6208419.0,6209663.0,2,0,saurik,,,"At which point you may as well just point out &quot;clang is maintained; unlike gcc 4.2, which at best will only receive back-ported compilation and security fixes, clang is under active development&quot; ;P. You don&",
+8,6209993,comment,6208419.0,6209811.0,6,0,dfc,,,"I am not trying to be difficult; but I do not understand what your point is? Yes, things happened prior to the social contract. That experience is the whole point of contracting out of the state of nature.",1376456132.0
+9,6209992,comment,6209613.0,6209983.0,5,0,zeckalpha,,,They did issue this press release before tweeting.,1376456111.0
+10,6209991,comment,6208419.0,6209344.0,3,0,sanxiyn,,,"&quot;New methods&quot; did emerge, and the result is GCC plugin. <a href=""http://gcc.gnu.org/wiki/plugins"" rel=""nofollow"">http://gcc.gnu.org/wiki/plugins</a><p>GCC plugin needs to be GPL-compatible, and GCC includes a license check similar to Linux kernel module tainting. (Instead of tainting, you can&",
+11,6209990,comment,6209713.0,6209898.0,10,0,tlb,,,"Indeed, although anyone can also get 3.8 billion pages from CommonCrawl.<p><a href=""http://commoncrawl.org/a-look-inside-common-crawls-210tb-2012-web-corpus/"" rel=""nofollow"">http://commoncrawl.org/a-look-inside-common-crawls-210tb-201...</a>",1376456099.0
+12,6209989,comment,6208823.0,6208823.0,3,0,nateabele,,,"<i>Note: Shameless plug.</i> :-)<p>Now that the Angular core team has taken the step of moving the core routing infrastructure out into a separate library, I&",
+13,6209988,comment,6209689.0,6209689.0,5,0,jwilliams,,,"&quot;11. If you have to give away more than 15% of the company at any given fundraising round, your company didnt germinate correctly. Its salvageable but not ideal.&quot;<p>I thought the rule of thumb was a lot higher than this. Any good references this one?",1376456060.0
+14,6209987,story,,,5,0,jonbaer,"DARPA, IBM Neurosynaptic Chip and Programming Language Mimic the Brain",http://singularityhub.com/2013/08/11/darpa-ibm-neurosynaptic-chip-and-programming-language-mimic-the-brain/,,1376456055.0
+15,6209986,comment,6209689.0,6209845.0,1,0,jacques_chester,,,I didn&,
+16,6209985,comment,6209939.0,6209939.0,1,0,foobarbazqux,,,"Math (CS theory), Electrical Engineering (CS practice), Philosophy (logic), Physics (quantum), Biochemistry (bioinformatics), Psychology (AI).<p>If you&",
+17,6209984,story,,,1,0,uladzislau,Lawsuit claims Best Buy Geek Squad posted customer's nude photos online,http://www.wsfa.com/story/23118467/lawsuit-claims-best-buy-geek-squad-posted-customers-nude-photos-online?utm_source=buffer&utm_campaign=Buffer&utm_content=buffer2fb03&utm_medium=facebook,,1376455956.0
+18,6209983,comment,6209613.0,6209613.0,1,0,vrdabomb5717,,,"In order not to get into trouble with the SEC, wouldn&",
+19,6209982,story,,,2,1,jonbaer,Does infinity really exist?,http://io9.com/does-infinity-really-exist-977063658,,1376455934.0
+20,6209981,comment,6208419.0,6209757.0,1,0,saurik,,,"I am not exactly certain what you are disagreeing with from what I said (as I agree that the only legitimate reason is licensing), so I guess I&",
+21,6209980,story,,,1,0,vladmk,Lessons I learned starting out as an Entrepreneur,http://vladmkrtumyan.blogspot.com/2013/08/3-lessons-i-learned-starting-out-as.html,,1376455883.0
+22,6209978,comment,6208603.0,6209088.0,1,0,jamesaguilar,,,"Not very, or else someone would have replicated Google already (with fewer engineers and less money than Microsoft has thrown at the problem).",1376455854.0
+23,6209977,comment,6209900.0,6209963.0,3,0,logn,,,"Never did:<p><a href=""http://web.archive.org/web/20020802023758/http://gmail.com/forensics/default.htm"" rel=""nofollow"">http://web.archive.org/web/20020802023758/http://gmail.com/f...</a>",1376455849.0
+24,6209976,story,,,3,0,lenova,"Gmail imposes new Compose message layout, users revolting",https://plus.google.com/u/0/+Gmail/posts/Pkrnsy8yEPx,,1376455833.0
+25,6209975,comment,6201586.0,6203542.0,1,0,jacoblyles,,,"Even in the Northeast, Amtrak&",
+26,6209974,comment,6172152.0,6176475.0,2,0,rdl,,,That&,
+27,6209973,comment,6209689.0,6209936.0,3,0,tlb,,,I would guess people spend billions of hours a year staring at bingo cards. So having nice ones is not a small thing.,1376455680.0
+28,6209972,comment,6209939.0,6209939.0,1,0,kldavenport,,,CogSci depending on the school.,1376455680.0
+29,6209971,story,,,1,0,seokrishandayma,Y Combinator: Bookmarklet,http://ycombinator.com/bookmarklet.html,,1376455679.0
+30,6209970,story,,,1,0,Sami_Lehtinen,Yandex datacenter in Finland going to be larger than Google's,http://translate.google.com/translate?sl=fi&tl=en&js=n&prev=_t&hl=fi&ie=UTF-8&u=http%3A%2F%2Fwww.tietoviikko.fi%2Fkaikki_uutiset%2Fuusi%2Btieto%2Bvenalaisten%2Bmantsalankonesalista%2Bgoogle%2Bjaa%2Btoiseksi%2Fa920781,,1376455651.0
+31,6209969,comment,6208078.0,6208569.0,4,0,Dylan16807,,,"No, at best they could say they don&",
+32,6209968,comment,6176054.0,6176571.0,1,0,rdl,,,We&,
+33,6209967,comment,6206417.0,6207000.0,1,0,Hinrik,,,"But... <a href=""http://en.wikipedia.org/wiki/100_episodes"" rel=""nofollow"">http://en.wikipedia.org/wiki/100_episodes</a>",1376455470.0
+34,6209966,comment,6209568.0,6209568.0,2,0,fludlight,,,"Fun fact: until ~20 years ago, China was a net exporter of oil.",1376455414.0
+35,6209965,comment,6207529.0,6208009.0,0,0,gizmo686,,,"The NSA and Watergate are very different types of things. In Watergate, the Administration engaged in targeted, illegal spying on political opponents. The NSA has Congressional approval for a surveillance program, and there has not yet been evidence to point to them using that for political gain.",1376455408.0
+36,6209964,comment,6208078.0,6208725.0,2,0,foobarbazqux,,,"If you really think Wall St. executives are high-level criminals, I have news for you.  Venture capitalists.",1376455405.0
+37,6209963,comment,6209900.0,6209900.0,1,0,QueLorean,,,Does anyone on Hacker News who still uses Gmail expect privacy?,1376455368.0
+38,6209962,comment,6208121.0,6209849.0,3,0,sgustard,,,"Examples: <a href=""http://theabyssgazes.blogspot.com/2010/03/teal-and-orange-hollywood-please-stop.html"" rel=""nofollow"">http://theabyssgazes.blogspot.com/2010/03/teal-and-orange-ho...</a>",1376455359.0
+39,6209961,comment,6209569.0,6209569.0,1,0,6ren,,,Hyperloop simulates stratospheric flight.<p>But its electric jet engine doesn&,
+40,6209960,comment,6208583.0,6209937.0,1,0,clarky07,,,>The theory under which Apple justifies an insane valuation...<p>Let&,
+41,6209959,comment,6207230.0,6207450.0,1,0,PuercoPop,,,"I should just probably say, clearly you haven&",
+42,6209958,comment,6208078.0,6208446.0,2,0,alan_cx,,,"If the terrorist, kiddie porn arguments have primacy, free society is well and truly over. We can apply those criteria to everything, and, well, shut down.<p>I think people forget that freedom includes risk.",1376455245.0
+43,6209957,comment,6209613.0,6209613.0,1,0,linohh,,,I&,
+44,6209956,comment,6205126.0,6207146.0,1,0,prezjordan,,,"That may be one reason, but the guy&",
+45,6209955,comment,6208078.0,6209514.0,7,0,Dylan16807,,,Because a warrant can&,
+46,6209954,story,,,168,114,anologwintermut,A skeptical response to Musk's hyperloop,http://pedestrianobservations.wordpress.com/2013/08/13/loopy-ideas-are-fine-if-youre-an-entrepreneur/,,1376455070.0
+47,6209953,comment,6208078.0,6208614.0,2,0,alan_cx,,,&quot;If they were very sophisticated we&,
+48,6209952,comment,6209319.0,6209402.0,2,0,dflock,,,I wish these were more popular - I love my TypeMatrix!,1376454998.0
+49,6209951,comment,6208419.0,6208961.0,2,0,bad_user,,,While I&,
+50,6209950,comment,6209569.0,6209671.0,2,0,s_q_b,,,Right. The Hyperloop&,
+51,6209949,comment,6207230.0,6207774.0,2,0,mahmud,,,This became my all time favorite comment on HN. I have been laughing for a good 10 minutes.,1376454926.0
+52,6209948,comment,6204094.0,6205375.0,3,0,kamaal,,,>>What is the point wasting any time on Perl 6<p>What is the point in spending time on any thing new?<p>>>given it&,
+53,6209947,comment,6208121.0,6209891.0,2,0,GauntletWizard,,,"It also applies to videogames, which while not live, attempt to be &",
+54,6209946,comment,6209689.0,6209689.0,9,0,liveinoakland,,,Lesson ,
+55,6209945,comment,6208648.0,6209274.0,1,0,ikerrin,,,"Thanks for the supportive words. I do have 18 months before I need to start thinking about my next smartphone, and I really wonder what the market will look like then.",1376454800.0
+56,6209944,comment,6209767.0,6209854.0,2,0,dredmorbius,,,Nice.  I just had to check to see if xargs has a similar feature.  It doesn&,
+57,6209943,comment,6209689.0,6209689.0,2,0,Noxchi,,,">Marketing\n>Product comes first<p>Marketing should always come first, in terms of what you do.<p>Don&",
+58,6209942,comment,6208419.0,6209724.0,9,0,saurik,,,"The notion of &quot;freedom&quot; is complex and context sensitive. Some people (whom I largely disagree with, as I think this usage of terminology is itself context sensitive; it is, however, useful as a first approximation to get the ball rolling) look at the difference between &quot;freedom to&quot; and &quot;freedom from&quot;; by taking away my &quot;freedom&quot; to own other people, chaining them and forcing them to work for me by force, other people obtain the freedom from being slaves, and now have the freedom to run their own lives. The &quot;freedoms&quot; being looked at here are simply being given to different people: the GPL restricts freedoms of developers working with th software to provide and guarantee freedoms among the end users f that software; on the opposite side, BSD-licensed software tends to give developers more freedom, but the freedoms they are given are specifically for and really narrowly able to be used with the one purpose of later restricting freedoms of others. The question, thereby, comes down to which freedoms are more important and how many of each kind of consumer there are, in an attempt to define which philosophy provides more freedom. Advocates of GPL would say that there will always be more end users than developers, and that their freedoms are porbably more important anyway, so the GPL provides more essential &quot;freedom&quot;, even as it is actively defined in a way that &quot;restricts freedom&quot;, in the same way as we usually like to think the emancipation proclamation brought &quot;freedom&quot; even though it really was stating that slave owners had to give up some freedom: its all about perspective.",1376454765.0
+59,6209941,story,,,329,106,ricg,Google Treks,http://www.google.com/maps/about/behind-the-scenes/streetview/treks/,,1376454719.0
+60,6209940,comment,6209689.0,6209689.0,12,0,jpatokal,,,A bit of self-contradiction here:<p>* Product sense is everything<p>* Product comes first<p>* Sales fix everything<p>* Development speed is everything<p>* Do everything you can not to attach your self esteem to your startup<p>I&,
+61,6209939,story,,,2,11,gschiller,Ask HN: What other major could pair well with CS?,,I&,
+62,6209938,comment,6209689.0,6209801.0,5,0,ezl,,,"even more fun is that you should be simultaneously<p>1. Getting to ramen profitability with a team of 2  4 within six months to a year, <i>AND</i><p>2. augmenting the human condition for a huge number of people in a meaningful way.<p>Well shit... if SV is a community of 2-4 person creating profitable products that augment the human condition every year...",1376454664.0
+63,6209937,comment,6208583.0,6209675.0,1,0,btilly,,,There hasn&,
+64,6209936,comment,6209689.0,6209874.0,2,0,ezl,,,&quot;people have done it&quot; doesn&,
+65,6209935,comment,6208547.0,6208943.0,1,0,cma,,,Now compare it to a car.,1376454409.0
+66,6209934,story,,,1,0,whiddershins,Bio Inspired 3D Printed Spider Robot [video],http://www.youtube.com/watch?v=HfiHOpv6HtI,,1376454382.0
+67,6209933,comment,6209923.0,6209923.0,1,0,rdl,,,I don&,
+68,6209932,comment,6207230.0,6207557.0,1,0,tipiirai,,,"He is so right! No wonder why he wrote such beautiful and useful piece of software. A sort of genius. Thank you, Ryan!",1376454345.0
+69,6209931,story,,,1,0,gilmanyu,An handy blog post optimization tool,http://blog.gratifyapp.me/gratify-news/introducing-you-gratify/,,1376454331.0
+70,6209930,comment,6208419.0,6209924.0,2,0,foobarbazqux,,,"Well, I&",
+71,6209929,comment,6207529.0,6208160.0,1,0,s_q_b,,,"The files themselves point out that the Secret Service first began investigating Swartz with the publication of his &quot;Guerrilla Open Access Manifesto.&quot;<p>The smart people in law enforcement are scared sh*tless of hacktivists, so it&",
+72,6209928,story,,,1,0,henrysharma,Ladar Levison Shuttered Encrypted Email Service,http://techcrunch.com/2013/08/13/why-ladar-levison-shuttered-encrypted-email-service-lavabit-in-the-face-of-government-pressure/,,1376454204.0
+73,6209927,story,,,1,0,QueLorean,Did Obama lie on national television,http://www.newrepublic.com/article/114276/obama-surveillance-comments-dishonesty-isnt-only-problem,,1376454136.0
+74,6209926,comment,6209689.0,6209902.0,3,0,beachstartup,,,you are making my point for me.,1376454026.0
+75,6209925,comment,6209569.0,6209847.0,0,0,seanmcdirmid,,,We are scheduled to have flying cars by 2015 according to &quot;Back to The Future Part 2.&quot;  I&,
+76,6209924,comment,6208419.0,6209857.0,7,0,air,,,"First of all, creating a new free software license does not alter the freeness of any software/license. GPLv3 incompatibility does not make software non-free, otherwise Linux kernel would not be free anymore.<p>Second, the Tivoised BSD code is free software. The fact that a piece of hardware exists that refuses to run a modified version of some BSD licensed code, does not make the code non-free.",1376454004.0
+77,6209923,story,,,2,1,rdl,Hyperloop De-hyped,http://ti.org/antiplanner/?p=8186,,
+78,6209922,comment,6208419.0,6209796.0,5,0,JoshTriplett,,,"There are two answers to that.<p>The more relevant one for the current discussion: people who use and identify with the term &quot;Free Software&quot; generally care about software freedom as a valuable principle independent of its practical benefits (in other words, software should be free because it&",
+79,6209921,comment,6201586.0,6208666.0,2,0,eru,,,"You could just build the tubes bending upwards slightly, so that the sag will pull them straight.",1376453949.0
+80,6209920,comment,6206417.0,6209793.0,1,0,TylerE,,,"I never said &quot;make a bunch&quot;, other people may have tried to put those words in my mouth, but that was certainly not my intent. I am, in fact, arguing for quality over quantity....just a sort of slightly stodgy quality of actually letting talented people create instead of just writing a ginormous check to whoever is hot at the moment. Think BBC Miniseries sort of approach, but with actual budgets - not extravagant, but not skimping either...the Coen brothers are probably the best example in Hollywood. Woody Allen is sort of on the same wavelength as well, and has turned out a film a year forever, and they pretty much all have made money.",1376453940.0
+81,6209919,comment,6209121.0,6209410.0,1,0,SwaroopH,,,I wouldn&,
+82,6209918,comment,6208419.0,6209751.0,5,0,foobarbazqux,,,"I did mean the tribal sense, yes.  It&",
+83,6209917,comment,6209613.0,6209613.0,-1,0,bryang,,,I don&,
+84,6209916,comment,6205840.0,6207113.0,1,0,zurn,,,"Very latest Intel is ok, older are pretty slow. AMD hardware that works with the Mesa drivers is nearly as solid as Intel, but their proprietary drivers are a disaster (kernel crashes etc). Nvidia has decent proprietary drivers for desktop stuff.<p>On laptops, dual graphics (Nvidia calls it &quot;Optimus&quot;, don&",
+85,6209915,comment,6208121.0,6209800.0,1,0,seanmcdirmid,,,"Probably. People act like apple was the first company to perfect their marketing and message, maybe they were, but it&",
+86,6209914,comment,6207529.0,6208770.0,2,0,s_q_b,,,"Very true. However, when creating security policy, one should always keep in mind those that have permission to access information, rather than those that have actual access to information.<p>It&",
+87,6209913,comment,6209527.0,6209527.0,1,0,joewallin,,,short answer: no,1376453691.0
+88,6209912,comment,6208266.0,6208266.0,1,0,bifrost,,,FreeBSD everywhere except for the Macbook Air. I guess I should count the Ubuntu box I have as the &quot;Ubuntu Update Canary&quot; though.,1376453620.0
+89,6209911,story,,,2,0,peterlee,Ask HN: Biggest challenges bridging the gap?,,I&,
+90,6209910,story,,,4,0,marojejian,Our brains process social rank in a 'dedicated' way ,http://marojejian.tumblr.com/post/35743567678/the-sheeples-brain,,1376453611.0
+91,6209909,story,,,1,0,jburke618,Love is in the Air - OSnap Headphone Clip,http://www.youtube.com/watch?v=bAMEa2ECEVY,Love is in the Air! A boyfriend urgently rushes to his girlfriend&,
+92,6209908,comment,6209713.0,6209881.0,33,0,nostrademons,,,"From a cursory glance at the Hubbub source:<p>1. Hubbub provides a SAX-style (callback-based) API, while Gumbo gives you a DOM-style (tree-based) struct directly.  Hubbub is likely faster in this regard, Gumbo is easier to use out-of-the-box.<p>2. Gumbo is better tested.  It&",
+93,6209907,comment,6139927.0,6141914.0,1,0,ethanbond,,,Any interest in offering a 6 month internship in the spring? I&,
+94,6209906,story,,,1,0,marojejian,How Children Learn To Succeed,http://marojejian.tumblr.com/post/41423400817/how-children-learn-to-succeed,,1376453462.0
+95,6209905,story,,,2,0,uladzislau,Hyperloop isn't the only transportation idea out there,http://www.cnn.com/2013/08/12/travel/transportation-ideas-of-the-future,,1376453454.0
+96,6209904,comment,6208547.0,6209328.0,1,0,anologwintermut,,,"High-speed rail trains hold way more than 20 people, so they weigh more.  Plus in the US, high speed trains that run on &quot;freight lines&quot; (which include the Acela) have to be very heavy do to some idiotic crash worthiness requirments. <a href=""https://www.ebbc.org/rail/fra.html"" rel=""nofollow"">https://www.ebbc.org/rail/fra.html</a>",1376453437.0
+97,6209903,comment,6207529.0,6209114.0,1,0,s_q_b,,,You&,
+98,6209902,comment,6209689.0,6209871.0,1,0,joshferg,,,I think you&,
+99,6209901,story,,,1,0,grecs,Putty Updated to 0.63 to Address 4 Vulnerabilities,https://www.novainfosec.com/2013/08/14/putty-updated-to-0-63-to-address-4-vulnerabilities/,,1376453364.0
+100,6209900,story,,,41,26,uladzislau,Google filing says Gmail users have no expectation of privacy,http://news.cnet.com/8301-1023_3-57598420-93/google-filing-says-gmail-users-have-no-expectation-of-privacy/,,1376453363.0
+101,6209899,comment,6206625.0,6206625.0,1,0,tazzy531,,,"Does anyone have a good recommendation for a writing/blog platform?<p>I am looking for something that is simple and non-intrusive that I can just put up random thoughts.<p>Medium and Svbtle seem good and clean, but I don&",
+102,6209898,comment,6209713.0,6209713.0,29,0,thejosh,,,A good thing about developing tools at Google is the access to test data with their index.<p>The line:<p><pre><code>  Tested on over 2.5 billion pages from Google&,
+103,6209897,comment,6209689.0,6209689.0,5,0,mindcrime,,,"<i>If you cant get to ramen profitability with a team of 2  4 within six months to a year, somethings wrong.</i><p>That probably makes perfect sense for some random SaaS app or consumer facing app, but for an enterprise startup, I&",
+104,6209895,comment,6209569.0,6209569.0,2,0,kps,,,"The original 1957 article referred to is available beginning at [1], with the drawing on the following page; the specific paragraph about pneumatic tubes is on p206 [2].<p>And two paragraphs later:<p><pre><code>  Contents of the world&",
+105,6209894,story,,,2,0,sellingly,How changing one word lead to a 284% conversion rate increase,http://www.sellingly.com/blog/sales/optimization-with-one-word/,,1376453297.0
+106,6209893,comment,6209767.0,6209854.0,5,0,_ZeD_,,,wouldn&,
+107,6209892,comment,6209689.0,6209689.0,2,0,Patrick_Devine,,,"While I do agree with many of the things which are on this list, most of them have trade offs.  They certainly are not as black-and-white as the author has stated it.<p>I really recommend reading The Founders Dilemmas.  It covers many of these issues in detail.  Here&",
+108,6209891,comment,6208121.0,6209755.0,3,0,hammock,,,The orange and blue thing really applies to live action film which gets color graded in post production. Not so much animated movies.,1376453266.0
+109,6209890,comment,6209713.0,6209721.0,1,0,Smerity,,,"They already provide adapters for standard Python HTML parsing libraries[1], specifically html5lib and BeautifulSoup. This is how they suggest it be used with Python[2].<p>[1]: <a href=""https://github.com/google/gumbo-parser/tree/master/python/gumbo"" rel=""nofollow"">https://github.com/google/gumbo-parser/tree/master/python/gu...</a><p>[2]: <a href=""https://github.com/google/gumbo-parser",
+110,6209889,comment,6201586.0,6203818.0,1,0,stevep98,,,I don&,
+111,6209888,comment,6208419.0,6209774.0,4,0,hobs,,,or more commonly I see with the big projects:\n1. Big open source software project has almost all of the market share for specific task.\n2. Userbase gets tired of old/bad/needless/shitty management stuff in the underlying whatever.\n3. New hotness(or several) appears on stage\n4. One emerges as main successor to (1)\n5. Goto 1,1376453196.0
+112,6209887,comment,6204322.0,6205125.0,1,0,dredmorbius,,,"What had a bigger impact on the availability of information?  The laptop / tablet and Google, or Gutenberg&",
+113,6209886,comment,6209689.0,6209845.0,0,0,GregorStocks,,,"Yep, that&",
+114,6209885,story,,,2,0,jamesjyu,"Incorrect Pluralizing of ""Cow"" Model in Rails",http://stackoverflow.com/questions/12488705/incorrect-pluralizing-of-model-in-rails,,1376453163.0
+115,6209884,comment,6209713.0,6209721.0,40,0,nostrademons,,,Gumbo&,
+116,6209883,comment,6206625.0,6206654.0,1,0,ternaryoperator,,,>Most opinion based articles tend to restate the obvious but never offer anything beyond that.<p>Agreed. The art of writing good opinion pieces is the lay out the arguments sequentially so that the reader is led to the conclusion by himself; such that when you state your opinion he&,
+117,6209882,comment,6209767.0,6209767.0,3,0,shrike,,,"I use GNU Parallel with s3cmd to move big data sets in and out of S3. I can easily saturate any network connection. I was able to GET ~2TB from S3 onto a Gluster cluster in a little more than an hour by using GNU Parallel to spread the GETs across 8 instances. Incredibly powerful, easy to use tool.",1376453097.0
+118,6209881,comment,6209713.0,6209713.0,8,0,sanxiyn,,,"How does this compare to Hubbub, another C library for parsing HTML5?<p><a href=""http://www.netsurf-browser.org/projects/hubbub/"" rel=""nofollow"">http://www.netsurf-browser.org/projects/hubbub/</a>",1376453088.0
+119,6209880,comment,6206417.0,6208048.0,1,0,mortenjorck,,,The language is still oddly MPAA-centric. The writing is so outstanding it&,
+120,6209879,comment,6207529.0,6209251.0,1,0,s_q_b,,,"I would debunk this piece by piece, but it&",
+121,6209878,comment,6205540.0,6205700.0,1,0,thufry,,,"In the analogous retail situation, with physical coupons, there is no &quot;coupon code&quot; field -- the cashier does not ask you &quot;Do you have any coupons today?&quot; Even worse would be for them to ask &quot;Do you have the $10 off coupon on this dog food?&quot; you&",
+122,6209877,comment,6209569.0,6209658.0,2,0,azernik,,,Speculation.,1376453038.0
+123,6209876,comment,6206625.0,6206625.0,2,0,vonskippy,,,&quot;How to Write the Shit Out of Something&quot;.<p>Maybe write it so that people can understand what the fuck you&,
+124,6209875,story,,,2,0,nairteashop,"Gmail to kill old compose interface, roll out pop-up design to everyone",http://www.engadget.com/2013/08/13/gmail-kills-old-compose/,,1376452953.0
+125,6209874,comment,6209689.0,6209801.0,5,0,tlb,,,It&,
+126,6209873,comment,6209613.0,6209613.0,0,0,JungleGymSam,,,I don&,
+127,6209872,comment,6207798.0,6209001.0,2,0,ChuckMcM,,,Yup,1376452849.0
+128,6209871,comment,6209689.0,6209826.0,3,0,beachstartup,,,"starbucks started out this way, in downtown seattle.  literally a corner cafe.<p>but of course this (i believe false) line of reasoning then raises the question of what tiny business <i>couldn&",
+129,6209870,comment,6206417.0,6209754.0,1,0,s_q_b,,,"Or a series of third parties can compete to offer the infrastructure, which is just a CDN tied to a small computer with an HDMI out, and the former networks and new production houses can offer their programming on one, some, or all of them.",1376452838.0
+130,6209869,comment,6209569.0,6209856.0,6,0,jlgreco,,,"Sort of a Concorde-railgun, if you will...",1376452815.0

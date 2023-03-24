@@ -1,0 +1,77 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8510495,comment,8510237.0,8510237.0,0,0,onedev,,,"&quot;No drugs&quot; is unrealistic. Chances are, a lot of people around you will do drugs, but they&",
+1,8510494,comment,8510239.0,8510239.0,0,0,sachinmonga,,,"William Whyte should be required reading for anyone building an app intending to facilitate interaction. I probably reference his book (<a href=""http://www.amazon.com/Social-Life-Small-Urban-Spaces/dp/097063241X"" rel=""nofollow"">http://www.amazon.com/Social-Life-Small-Urban-Spaces/dp/0970...</a>) more than any book on actual product design when working on social products @ Facebook!",1414310342.0
+2,8510493,comment,8510409.0,8510409.0,0,0,charlieflowers,,,"Amazing that Mirabai is able to think in terms of semantic words, most of which can be entered in a single keystroke. If you&",
+3,8510492,comment,8510231.0,8510231.0,0,0,mgraczyk,,,"Nitpick: As an avid Tetris player, I have to say that the examples given for &quot;extremely rare&quot; events actually happen quite often during normal play. In particular, clearing 4 lines at once,  two times in row will generally happen within the first few minutes of game play and is sort of the whole goal (if you&",
+4,8510491,comment,8509154.0,8510482.0,0,0,patio11,,,"And by &quot;significantly negative&quot; read &quot;You have forever passed on the opportunity to work at any Japanese megacorp.&quot;  Think of an alternate universe America where AmaGooBookSoft did substantially all of the hiring at universities and if, on the day you were invited to interview, you said &quot;Oh I am exploring a startup so I don&",
+5,8510490,comment,8508168.0,8508413.0,0,0,fit2rule,,,Where&,
+6,8510489,comment,8510237.0,8510237.0,0,0,hashtag,,,What you&,
+7,8510488,comment,8509213.0,8510248.0,0,0,chipsa,,,I think the &quot;Corporate Services Provider&quot; is a better fit. They would have a CPA on staff to sign off on the taxes.,1414309913.0
+8,8510487,story,,,1,0,jesserank,15 Incredibly Impressive Students at Stanford,http://www.businessinsider.com/impressive-students-at-stanford-2014-9?,,1414309904.0
+9,8510486,comment,8509383.0,8509383.0,0,0,junto,,,Sounds like the Stasi&,
+10,8510485,comment,8509509.0,8509509.0,0,0,quest88,,,"I love Uber and Lyft and have been using them the past two years or so, and I think the taxi scene in Las Vegas is great. The best experience I&",
+11,8510484,comment,8509318.0,8510119.0,0,0,bigbugbag,,,It doesn&,
+12,8510483,comment,8503861.0,8505376.0,0,0,drglitch,,,"> Options have the same risk as the underlying.<p>Not really. Option pricing includes volatility (beta) and time-decay (theta) in addition to basic price sensitivity (delta). In plain english, an option has a premium not just based on how far from the money (from current price) the strike is but also how much underlying is moving AND how far away option expiry is.<p>Vol moves are not to be underestimated - if you look at option prices within a buck or two of Intel when they announced earnings, you&",
+13,8510482,comment,8509154.0,8509723.0,0,0,blackkettle,,,"In Japan at least, there is a very different mainstream cultural perception of &",
+14,8510481,comment,8507957.0,8509094.0,0,0,schacon,,,While I&,
+15,8510480,comment,8510231.0,8510461.0,0,0,aikah,,,Sorry but your exemple makes very little sense in the real world. Because what you wrote is obvious.<p>Imagine now you have a switch with 50 different conditions that have nothing to do with each other and cant be reduced to a simple arithmetic operation.You&,
+16,8510479,story,,,3,0,edward,Autonomous Vehicles – Discussion in the UK House of Lords,http://www.theyworkforyou.com/lords/?id=2014-10-16a.397.2,,1414309568.0
+17,8510478,comment,8508430.0,8509788.0,0,0,johnchristopher,,,"I disagree.<p>In the sprawl trilogy, the big black character that gives the hero his mission he&",
+18,8510477,story,,,7,4,buster,Floating Point Benchmark: Rust Language Added,http://www.fourmilab.ch/fourmilog/archives/2014-10/001537.html,,1414309449.0
+19,8510476,comment,8510122.0,8510432.0,0,0,riffraff,,,"I disagree, but maybe I am not understanding what you mean.<p>If the presented form is &quot;plain text&quot; then encoding all html tags is an effective choice, if the presented form is &quot;rich text&quot; than tag/attribute whitelisting is necessary and you need to strip &quot;bad stuff&quot;.<p>The choice of presentation, combined with the choice of who is inputting the data, also poses problems in the UX, i.e. if you use a JS markdown editor in the browser and process data in python on the server stripping HTML than the user sees something going in and something else going out.<p>A common standard of how to do safe markdown would help.",1414309394.0
+20,8510475,comment,8509213.0,8510278.0,0,0,thirdsun,,,"To be honest, I&",
+21,8510474,story,,,2,0,ot,At what point is an over-the-air TV antenna too long to be legal?,http://glinden.blogspot.com/2014/10/at-what-point-is-over-air-tv-antenna.html,,1414309327.0
+22,8510473,comment,8504387.0,8504387.0,0,0,skc,,,Just realized how much I hate the term &quot;change the world&quot; that is so prevalent in start up culture these days.<p>I suppose &quot;World&quot; could mean whatever you want it to mean though.,1414309272.0
+23,8510472,story,,,3,0,andreywww,Show HN: Adsweetcher – Switch between multiple ad networks in your mobile app,http://adsweetcher.com,,1414309204.0
+24,8510471,story,,,1,0,Heshl,Why India Should Have Its Own National Electronic Medical Record System,https://medium.com/@proteme/the-great-indian-emr-an-idea-whose-time-has-come-f37de6399eeb,,1414309115.0
+25,8510470,comment,8510129.0,8510129.0,0,0,alephnil,,,"As other have mentioned, his focus on input devices is a misguided. If I lost a month of programming work, and only had a copy on paper, I would in most cases be able to type it in less than a day. My limitation is in logical reasoning, not in typing.<p>This is actually quite similar for music. A musician can&",
+26,8510469,comment,8508478.0,8509032.0,0,0,pjmlp,,,">  (and no, don&",
+27,8510468,comment,8507957.0,8510424.0,0,0,schacon,,,"lol, gitcasts, nice! I totally forgot about these. Man, I should probably redo them, I liked that series.",1414308968.0
+28,8510467,comment,8499396.0,8504233.0,0,0,PhantomGremlin,,,You&,
+29,8510466,comment,8509213.0,8510282.0,0,0,pyre,,,"Up-thread there was a comparison from office workers to high school students. Do you really think that the &quot;average office worker&quot; has a chair (in the price-range of an Aeron), an office with a view, and a flexible schedule?",1414308812.0
+30,8510465,comment,8508478.0,8508478.0,0,0,rajivkomar,,,Can&,
+31,8510464,comment,8507957.0,8510105.0,0,0,schacon,,,"Yup, that&",
+32,8510463,story,,,1,0,joshanthony,Startup Weekend 2014 Brisbane Australia Live Stream Pitches,http://www.youtube.com/watch?v=7Gq9FCdyeik,,1414308729.0
+33,8510462,comment,8507957.0,8509453.0,0,0,schacon,,,"There is a simple build process using asciidoctor-pdf and asciidoctor-epub that can also create all 3 formats locally. The Atlas ones are just a little more professional looking, but the asciidoctor chain is still really great.<p><a href=""https://github.com/progit/progit2",
+34,8510461,comment,8510231.0,8510231.0,0,0,userbinator,,,"One way to reduce the number of possible paths is to reduce the number of distinct cases, often via refactoring or a simpler yet more general algorithm; to use an extremely contrived example, it&",
+35,8510460,comment,8507957.0,8510142.0,0,0,schacon,,,"This is interesting, I&",
+36,8510459,comment,8508714.0,8509236.0,0,0,bad_user,,,It&,
+37,8510458,comment,8510409.0,8510409.0,0,0,lifeisstillgood,,,"With my knuckles getting stiffer, this is a really attractive idea - I just wish there were more obvious ways to get the stick on keys (cannot seem to find the links)<p>Edit: did not mean to sound so miserable.  I think this is a great project and my plan before Xmas is to install it on a raspberry pi, buy or make the stick on keyboard and use the RPi as a pass through keyboard at work - so I am less dependant on each local hard disk",1414308407.0
+38,8510457,comment,8510129.0,8510129.0,0,0,beyondcompute,,,"I actually like this blog. There are some other reasonably sounding posts there: like “Bedrock of Abstraction” (<a href=""http://www.loper-os.org/?p=55"" rel=""nofollow"">http://www.loper-os.org/?p=55</a>) or “On Formats War” (<a href=""http://www.loper-os.org/?p=309"" rel=""nofollow"">http://www.loper-os.org/?p=309</a>)",1414308371.0
+39,8510456,comment,8508967.0,8509937.0,0,0,cromwellian,,,If the distinction doesn&,
+40,8510455,comment,8509213.0,8510272.0,0,0,pmontra,,,"Interesting tests. How do they prepare for the real world, where the answers are to be found and not given?",1414308220.0
+41,8510454,story,,,1,0,CarolineW,Science experiments for kids,http://diycozyhome.com/25-amazing-science-experiments-for-kids/,,1414308173.0
+42,8510453,comment,8509891.0,8510227.0,0,0,capex,,,> Ads are simply a sneaky and dishonest way to get at end users&,
+43,8510452,comment,8509213.0,8510272.0,0,0,dunder,,,"So in the US, math tests are multiple choice AND teachers don&",
+44,8510451,comment,8510129.0,8510287.0,0,0,EdiX,,,">Is faster typing really the solution to the problem of wanting to professionalize computer programming?<p>I think both you and the article are making a mistake here. If you listen closely to the 1968 demo and, especially, its 1969 follow-up (available on archive.org) it&",
+45,8510450,comment,8506184.0,8507434.0,0,0,r00fus,,,Free+subscription = not really free.  It&,
+46,8510449,comment,8510129.0,8510396.0,0,0,pmoriarty,,,I&,
+47,8510448,comment,8510421.0,8510421.0,0,0,beyondcompute,,,TextMate 2,1414308025.0
+48,8510447,comment,8509869.0,8509869.0,0,0,B-Con,,,Because it&,
+49,8510446,comment,8508478.0,8509155.0,0,0,Animats,,,"(Bright, of course, is the creator of D.)<p>I agree completely about C. I&",
+50,8510445,comment,8510231.0,8510429.0,0,0,canadev,,,I&,
+51,8510444,comment,8509500.0,8509946.0,0,0,chaostheory,,,I feel that our system is just a lot more subtle. It mainly gives the illusion of freedom and choice.,1414307763.0
+52,8510443,comment,8509869.0,8509869.0,0,0,riffic,,,"Hear, hear! It&",
+53,8510442,comment,8509500.0,8510438.0,0,0,vinceguidry,,,"Sure, for that use case, you do actually need to haul around cash. Assuming it&",
+54,8510441,comment,8509213.0,8510103.0,0,0,rumcajz,,,"> Adolescents, as a demographic, have always been known to be raging pits of hormones with mood swings and strong passions.<p>The adolescents in middle ages were treated as adults and they have behaved so. There was also no equivalent to modern schooling back then.",1414307737.0
+55,8510440,comment,8509842.0,8510398.0,0,0,aaronz8,,,"Maybe <a href=""https://www.thinkero.us/app/?type=issue"" rel=""nofollow"">https://www.thinkero.us/app/?type=issue</a> will change your mind?",1414307714.0
+56,8510439,comment,8506184.0,8506296.0,0,0,r00fus,,,"Also subscriptions (i.e., repeat purchases) randomly fail to fulfill for me.  Very not good if you&",
+57,8510438,comment,8509500.0,8510412.0,0,0,vacri,,,"So when you get your change from the local shops, do they give you a cashier&",
+58,8510437,story,,,1,0,mandeepj,"A $95,000 Oculus Rift Ride of the World's Most Expensive Real Estate",http://www.fastcoexist.com/3037425/a-95000-oculus-rift-ride-will-give-you-a-tour-of-the-worlds-most-expensive-real-estaste?utm_source=facebook,,
+59,8510436,comment,8510231.0,8510231.0,0,0,nathancahill,,,TL;DR: Use a coverage tool for tests.,1414307518.0
+60,8510435,comment,8509213.0,8510165.0,0,0,visarga,,,"Maybe schools should use a system like Spaced Repetition (or Anki) that integrates in an intelligent way the repetition of old material with learning new things. It works very well for foreign languages, but could be adapted to other subjects.",1414307449.0
+61,8510434,comment,8507957.0,8510048.0,0,0,philsnow,,,"Those look very, very useful.  Thanks for the pointer.",1414307447.0
+62,8510433,comment,8510421.0,8510421.0,0,0,smt88,,,This is way too broad. For what kind of code?,1414307443.0
+63,8510432,comment,8510122.0,8510407.0,0,0,eksith,,,"All user input should go through some manner of filter regardless of the presented form. After all, it doesn&",
+64,8510431,comment,8510186.0,8510186.0,0,0,mmastrac,,,This one was entertaining and stayed on a good path.<p>The stuff he&,
+65,8510430,comment,8510129.0,8510129.0,0,0,Illniyar,,,"&quot;To my knowledge, no child grows up “playing doctor” and still believes as a teenager (or even as a college student) that an actual medical practice resembles that activity.  Likewise, no one has a fully functional toy legal system to play with as a child, and as a result goes into law.  On the other hand, “adult” programming, seen from afar, is enough like child-programming to set the computer-enthusiast child up for just this kind of exceptionally cruel bait-and-switch.&quot;<p>No, but they do see things like &quot;House MD&quot;, &quot;ER&quot;,&quot;The practice&quot; etc... , which resembles the actual medical or legal profession as much as movie &quot;hacking&quot; resembles computer programming.<p>Besides, I&",
+66,8510429,comment,8510231.0,8510376.0,0,0,lucaspiller,,,One of the things I&,
+67,8510427,story,,,1,0,rmason,How Kevin Vickers Subdued the Ottawa Gunman,http://www.youtube.com/watch?v=v4wfzWJ2Hwo,,1414307309.0
+68,8510426,comment,8509213.0,8509973.0,0,0,wmt,,,The problem is not the engagement as much as trying to sit and pay attention for 90 minutes. You will way better results by having a 5-15 minute break every 45 minutes.,1414307303.0
+69,8510425,comment,8510231.0,8510376.0,0,0,gamegoblin,,,"This is why I like using a randomized framework such as QuickCheck (or its derivatives in non-Haskell languages, such as Java) along with typical unit testing. It&",
+70,8510424,comment,8507957.0,8509093.0,0,0,rubikscube,,,"A search for GitCasts gave some results, such as:<p><a href=""https://www.youtube.com/playlist?list=PLttwD7NyH3omQLyVtan0CFOX_UWItX_yG"" rel=""nofollow"">https://www.youtube.com/playlist?list=PLttwD7NyH3omQLyVtan0C...</a>",1414307101.0
+71,8510423,comment,8509500.0,8510422.0,0,0,vinceguidry,,,The phrase for this is &quot;Penny wise and pound foolish.&quot;,1414307087.0
+72,8510422,comment,8509500.0,8510412.0,0,0,gefh,,,I&,
+73,8510421,story,,,1,4,rukshn,What's your favorite code editor?,http://tally.tl/BwG2O,,1414307017.0
+74,8510420,comment,8508967.0,8510325.0,0,0,cromwellian,,,"The thing you and the other person are missing is that some products are &quot;table stakes&quot;, you have to have them just to play the game, they&",
+75,8510419,comment,8506771.0,8508061.0,0,0,nl,,,Do you know why the English Wikipedia doesn&,

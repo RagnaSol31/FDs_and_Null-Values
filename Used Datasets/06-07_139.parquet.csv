@@ -1,0 +1,124 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7390385,story,,,4,1,AndreyKarpov,C++ analyzers: Cppcheck vs VS2013 vs PVS-Studio vs CppCat,,"We have carried out a thorough comparison of four analyzers for C/C++ code: CppCat, Cppcheck, PVS-Studio and Visual Studio&",
+1,7390384,comment,7390183.0,7390358.0,9,0,haldujai,,,This statement has to die. It has been confirmed over and over again that the phones aren&,
+2,7390383,comment,7390183.0,7390361.0,1,0,dingaling,,,"Good thinking; yes, fuel flow and power settings are included:<p><a href=""http://www.rolls-royce.com/about/technology/systems_tech/monitoring_systems.jsp"" rel=""nofollow"">http://www.rolls-royce.com/about/technology/systems_tech/mon...</a>",1394693967.0
+3,7390381,comment,7387512.0,7389929.0,1,0,xerophtye,,,"&quot;not&quot; is: ton*<p>I know normally corrections are frowned upon, but this should be an exception, it completely inverts the meaning!",1394693923.0
+4,7390380,comment,7389847.0,7390305.0,5,0,joeld42,,,"This replaces the opengl dynamic library, similar to apitrace. It should work for any opengl app (the example they use is a simple gl app that draws some spheres). When the app makes an opengl call, it logs it to tmp before forwarding it on to the real opengl library. It&",
+5,7390379,story,,,6,5,yiedyie,Increased risk of narcolepsy in children and adults after vaccine,http://www.ncbi.nlm.nih.gov/pubmed/23884811,,1394693851.0
+6,7390378,comment,7390151.0,7390151.0,1,0,typek_pb,,,"looks interesting. Still, some questions here: could you explain in more detail the storage in the pricing plan? Let&",
+7,7390376,story,,,1,0,jhk,Use Whatsapp on Android? Your chats are not so secure.,http://timesofindia.indiatimes.com/tech/personal-tech/computing/Use-Whatsapp-on-Android-Your-chats-are-not-so-secure/articleshow/31921160.cms?utm_source=twitter.com&utm_medium=referral&utm_campaign=timesofindia,,1394693835.0
+8,7390375,comment,7384974.0,7390243.0,2,0,derefr,,,"That actually sounds promising--like a book club for gameplay mechanics. We could start by working through <a href=""http://www.squidi.net/three/"" rel=""nofollow"">http://www.squidi.net/three/</a> together.",1394693834.0
+9,7390374,story,,,3,0,freefrancisco,17 Equations That Changed The World,http://www.businessinsider.com/17-equations-that-changed-the-world-2014-3,,1394693813.0
+10,7390373,comment,7384974.0,7384974.0,1,0,u2,,,"&quot;Use your arrow keys to move the tiles&quot;  ?\nHow about a few more words about rules.<p>How do you pick which tile you want to move?<p>And btw, when I tried, two tiles with same numbers were NOT merging most of the time. \nOther times it seemed that the entire row was moving.  Then again, I could not figure out how to select a tile to move. Mouse seemed to work but only sometimes. Perhaps accidentally...  Too buggy or just big time lag.., or just big time lag..",1394693800.0
+11,7390372,comment,7390151.0,7390151.0,0,0,shikharmohan,,,"damn, this is fast.",1394693789.0
+12,7390371,comment,7387062.0,7389596.0,2,0,johnbm,,,"&quot;Unreal Engine 4&quot; is marketing buzzspeak. WebGL is modelled after OpenGL ES 2. Its GLSL support is massively outdated. It lacks features like multiple render targets (used by any deferred renderer in the XB360 era, e.g. Unreal Engine 3), geometry shaders, multisampled reads (for HDR MSAA and hybrid spatial/temporal AA techniques), and tons of other common techniques.<p>Asm.js is limited by having no 32-bit float type, no 64-bit int type, no SIMD, no dynamic memory allocation and the fact that they had to extend the language from day 1 just to be able to multiply a 32-bit integer by another quickly.<p>You may want to actually inform yourself.",1394693746.0
+13,7390370,comment,7390151.0,7390362.0,1,0,manishas,,,glad you like the service. we will be increasing the free plan to include 5 private repos tomorrow :),1394693741.0
+14,7390369,comment,7389940.0,7390303.0,3,0,nnq,,,"Yep. Good <i>software companies</i> tend to get this. But the zillions on <i>creative digital-media agencies</i> that popped up recently, and realized that yes, what they are doing is <i>software development</i> and nothing else, and that their &quot;creative secret sauce&quot; only contributes 10% max to the business <i>fail to get his big time!</i>",1394693741.0
+15,7390368,comment,7390183.0,7390358.0,9,0,United857,,,It&,
+16,7390367,comment,7390186.0,7390186.0,7,0,egil,,,&quot;If it ain&,
+17,7390366,comment,7390183.0,7390358.0,2,0,sitkack,,,"Annnd, why aren&",
+18,7390365,comment,7390151.0,7390151.0,0,0,jekram,,,I am amazed by the speed of the build and the great intuitive UI. Shippable is a winner. :-),1394693621.0
+19,7390364,comment,7390183.0,7390183.0,2,0,alexeisadeski3,,,This is some weird stuff.,1394693607.0
+20,7390363,comment,7390183.0,7390360.0,4,0,alexeisadeski3,,,Probably was available to investigators and searchers just not the general public.,1394693558.0
+21,7390362,comment,7390151.0,7390151.0,1,0,fivesquare,,,"its pretty intuitive, the builds are faster. cool.. My project dev process got simplified. Thanks for offering free service for one private repo.",1394693553.0
+22,7390361,comment,7390183.0,7390357.0,1,0,bbosh,,,Does the data include power information? At least you could get some sort of bound on the distance it is likely to have travelled.,1394693550.0
+23,7390360,comment,7390183.0,7390183.0,4,0,m_darkTemplar,,,I wonder why this data wasn&,
+24,7390359,comment,7384386.0,7384386.0,1,0,AndreyKarpov,,,"How we compared code analyzers: <a href=""http://www.viva64.com/en/a/0086/"" rel=""nofollow"">http://www.viva64.com/en/a/0086/</a><p>Dump: <a href=""http://www.viva64.com/external-pictures/txt/SCA_Comparison.xlsx"" rel=""nofollow"">http://www.viva64.com/external-pictures/txt/SCA_Comparison.x...</a>",1394693496.0
+25,7390358,comment,7390183.0,7390183.0,1,0,digitalengineer,,,So we have a plane that flew to another destination without communication and several people with bogus passports on board. Familymembers have reported cellphones that kept &,
+26,7390357,comment,7390183.0,7390337.0,8,0,dingaling,,,"> Well, if the engines were transmitting, can&",
+27,7390356,comment,7390183.0,7390183.0,24,0,nostrademons,,,"Interesting hypothesis that would square with this:<p><a href=""http://www.antipope.org/charlie/blog-static/2014/03/a-hypothesis.html"" rel=""nofollow"">http://www.antipope.org/charlie/blog-static/2014/03/a-hypoth...</a>",1394693437.0
+28,7390355,comment,7390151.0,7390332.0,1,0,manishas,,,thanks.. i&,
+29,7390354,story,,,1,0,tfang17,Candy Crush Maker King worth $7.6 Billion IPO,http://recode.net/2014/03/12/ipo-could-value-candy-crush-maker-king-at-up-to-7-6-billion/,,1394693394.0
+30,7390353,comment,7389847.0,7390198.0,5,0,edderly,,,"Valve need to encourage game devs from a console and windows centric world to develop for the SteamEngine platform. PIX (<a href=""http://en.wikipedia.org/wiki/PIX_%28Microsoft%29"" rel=""nofollow"">http://en.wikipedia.org/wiki/PIX_%28Microsoft%29</a>) is one of the tools these developers are used to dealing with. So having a Linux equivalent is pretty valuable.",1394693378.0
+31,7390352,comment,7390211.0,7390316.0,1,0,Skywing,,,Who wouldn&,
+32,7390350,comment,7390183.0,7390337.0,1,0,x0x0,,,I wonder if the necessary transmission origin data wasn&,
+33,7390349,story,,,1,0,murtza,Lessons Learned from Participating in Two Hackathons,http://murtza.org/lessons-learned-from-participating-in-two-hackathons/,,1394693294.0
+34,7390348,comment,7390211.0,7390304.0,1,0,Skywing,,,You won&,
+35,7390347,comment,7390183.0,7390337.0,1,0,itengelhardt,,,"I guess it depends on the data transferred. For an engine you probably have data like altitude, revolutions/second, fuel intake, pressure, etc. To get a status on the engines you probably don&",
+36,7390346,story,,,1,0,yiedyie,Was Angleton right?,http://www.powerlineblog.com/archives/2014/02/ed-epstein-was-angleton-right.php,,1394693274.0
+37,7390345,comment,7390211.0,7390325.0,1,0,Skywing,,,Oh give it a break. Be rude if you want to be. Not like anybody actually cares anyway.,1394693234.0
+38,7390344,comment,7390053.0,7390053.0,3,0,Watabou,,,"Hmm, I always had scrolling with iTerm2, even with vim, weechat, htop, etc",1394693130.0
+39,7390343,story,,,1,0,xiaogaozi,Switch QUIT and TERM signal · 8124190 · benoitc/gunicorn,https://github.com/benoitc/gunicorn/commit/81241907ffcf94517ffa14b8427205906b61b540,,1394693126.0
+40,7390342,comment,7386672.0,7386672.0,1,0,canadev,,,That was awesome. I finished it. I died 92 times.<p>The jumping mechanics reminded me of &quot;air control&quot; in strafe jumping in Quake 2. Can you tell I haven&,
+41,7390339,story,,,1,0,sandGorgon,SystemD 211 introduces GPT Discoverable Partitions,https://plus.google.com/u/4/+LennartPoetteringTheOneAndOnly/posts/5p1QuhdFtjN,,1394693031.0
+42,7390338,comment,7386614.0,7387379.0,3,0,dottrap,,,"Some interesting, non-game uses:<p>Adobe is using it for some of their products. Lightroom was the first and its usage is extensive.<p><a href=""http://thesoftwarelife.blogspot.com/2008/11/lightroom-and-lua.html"" rel=""nofollow"">http://thesoftwarelife.blogspot.com/2008/11/lightroom-and-lu...</a><p><a href=""http://www.lua.org/wshop05/Hamburg.pdf"" rel=""nofollow"">http://www.lua.org/wshop05/Hamburg.pdf</a><p>Wikipedia is now using it as their multimedia scripting language.<p><a href=""http://www.meetup.com/wikimedia-tech/events/106078042/?action=detail&trax_also_in_algorithm2=combo&eventId=106078042&traxDebug_also_in_algorithm2_picked=combo"" rel=""nofollow"">http://www.meetup.com/wikimedia-tech/events/106078042/?actio...</a><p><a href=""http://www.youtube.com/watch?v=PrhzAtC8fCc"" rel=""nofollow"">http://www.youtube.com/watch?v=PrhzAtC8fCc</a><p>Verisign uses it for High Availability Databases and also apparently DNS Advanced Traffic Management<p><a href=""http://bluedino.net/luapix/LuaWorkshopJuly2008-rev3.ppt"" rel=""nofollow"">http://bluedino.net/luapix/LuaWorkshopJuly2008-rev3.ppt</a><p><a href=""https://www.youtube.com/watch?v=XeP7d_jBPyA"" rel=""nofollow"">https://www.youtube.com/watch?v=XeP7d_jBPyA</a><p>You can now write NetBSD kernel modules in Lua.<p><a href=""https://news.ycombinator.com/item?id=6562611"" rel=""nofollow"">https://news.ycombinator.com/item?id=6562611</a>",1394692914.0
+43,7390337,comment,7390183.0,7390183.0,8,0,melling,,,"&quot;Aviation investigators and national security officials believe the plane flew for a total of five hours, based on data automatically downloaded and sent to the ground from the Boeing Co. 777&",
+44,7390336,comment,7389950.0,7390309.0,1,0,wesleyac,,,"Currently, the &quot;loophole&quot; in 2FA is that almost no one enables it.  Although it&",
+45,7390335,comment,7387396.0,7388566.0,2,0,mistercow,,,"Font piracy is one of the oldest forms of piracy around. Enforcing font licenses in any form is pretty much futile.<p>Of course, you could always scramble the glyphs and then do an inverse scramble on the page (seriously though, don&",
+46,7390334,comment,7389927.0,7390153.0,1,0,xerophtye,,,I have a weak audio memory so i suppose I am unable to appreciate it in that regard :) what else?,1394692791.0
+47,7390333,comment,7379821.0,7379821.0,1,0,satchipear,,,Cool game!! Can&,
+48,7390332,comment,7390151.0,7390151.0,1,0,iitr_sourabh,,,We at Unbxd are using Shippable to CI our maven builds. I am pretty impressed with the ease and speed of the tool. Everything is taken care of end to end. we were up and running in minutes. Highly recommended.,1394692714.0
+49,7390331,story,,,1,0,sorenbs,Improving the State of 4K Display Support Under OS X,http://www.anandtech.com/show/7847/improving-the-state-of-4k-display-support-under-os-x,,1394692702.0
+50,7390330,comment,7388255.0,7390213.0,0,0,levosmetalo,,,"Order it online, 10min max.oryou are too busy reading hn?",1394692647.0
+51,7390329,comment,7387396.0,7389643.0,1,0,mistercow,,,">Too often, devs forget their homepage assets are cached, & don&",
+52,7390328,comment,7390211.0,7390211.0,2,0,NoodleIncident,,,&quot;you won&,
+53,7390327,comment,7389623.0,7389973.0,2,0,kang,,,"Yes, he mentions that.",1394692512.0
+54,7390326,comment,7390186.0,7390280.0,2,0,codezero,,,"my old physics lab was filled with those, the original IBM ones and some Fujitsu clones. So clickity!",1394692476.0
+55,7390325,comment,7390211.0,7390211.0,1,0,TheSisb2,,,Random person&,
+56,7390324,comment,7389623.0,7389623.0,4,0,kang,,,I wish for a forum/site with links only like these! Pure code hacking.,1394692449.0
+57,7390323,story,,,1,0,2810,MH370: Plausible Explanation,http://search-mh370.tumblr.com/,,1394692447.0
+58,7390322,comment,7390211.0,7390316.0,1,0,NoodleIncident,,,"In the context of the post (putting hello_world.js in perspective vs Actual Coding), it&",
+59,7390321,comment,7387831.0,7390086.0,2,0,pron,,,"Well, he only mentions how these things make his life difficult, not how they make it easier. When you consider something, you must also consider the alternatives: a GC does insert safepoints on the one hand, but it makes lock-free data structures possible (or much, much easier) on the other. The JIT counters introduce contention before optimization kicks in, but then you get virtual method inlining, the mother of all optimizations, which you can&",
+60,7390320,comment,7389927.0,7390153.0,2,0,nightski,,,Chrono Trigger had amazing music.  But to say there aren&,
+61,7390319,story,,,1,0,keepingcom,80 tech blogs that accept guest posts,http://blog.keeping.com/guest-blogging/,,1394692340.0
+62,7390317,comment,7390151.0,7390287.0,0,0,manishas,,,Thanks for the vote of confidence :) You will see your feature asks light up very soon...,1394692337.0
+63,7390316,comment,7390211.0,7390211.0,1,0,greenyoda,,,<i>&quot;Javascript is literally the worste [sic] programming language ever.&quot;</i><p>The author clearly has a lack of historical perspective. I&,
+64,7390314,story,,,1,0,mariuz,ODF vs. OOXML: War of the Words,https://updegrove.wordpress.com/2014/03/12/odf-vs-ooxml-war-of-the-words/,,1394692250.0
+65,7390313,comment,7389968.0,7390099.0,2,0,frozenport,,,I don&,
+66,7390312,comment,7390211.0,7390211.0,1,0,mistercow,,,">Please, explain to me why JS doesnt suck.<p>I have no idea why the author has meandered onto this tangent, but in any case: no, that&",
+67,7390311,comment,7389969.0,7390074.0,1,0,workhere-io,,,"<i>Who cares about the quality of life of the citizens of a nation?</i><p>Actually, many European countries, especially the Nordic ones, have so much redistribution of wealth that whether or not we experience growth means a great deal, not just to corporations. Having said that, things aren&",
+68,7390309,comment,7389950.0,7389950.0,2,0,enscr,,,Recently I lost access to an old google account that I hadn&,
+69,7390308,comment,7388837.0,7389369.0,1,0,batoure,,,from your post I would guess that you have not experienced the joy of intel haswell based laptops my laptop lasts 7 hours or more on a charge when in power-saver mode. There is nothing special about it besides the fact that it is current.<p>You are going to have alot of fun the next time you get a new machine!,1394692051.0
+70,7390307,comment,7390151.0,7390269.0,1,0,manishas,,,"Docker helps your customizations to be standard across environments (dev, test, staging, prod) \nWe support headless testing with selenium on top of phantomjs or other browser drivers. Doing it headlessly should speed up your test cases significantly.",1394692041.0
+71,7390305,comment,7389847.0,7389847.0,1,0,hrjet,,,"For someone not familiar with the Valve stack, does this work with any OpenGL application? Or is it only for those using Valve&",
+72,7390304,comment,7390211.0,7390285.0,4,0,mistercow,,,"Thanks for the mirror, although the content sadly isn&",
+73,7390303,comment,7389940.0,7389940.0,5,0,allochthon,,,"> Because creating good software is so much about technical decisions and so little about management process, I believe that there is very little place for non-technical managers in any software development organisation.<p>Well said.",1394691957.0
+74,7390300,comment,7390186.0,7390276.0,8,0,greenyoda,,,"Yeah, 8080s never ran MS-DOS. The original IBM PC, for which MS-DOS was written, had an 8088 procesor.",1394691842.0
+75,7390297,comment,7389940.0,7389940.0,5,0,adorton,,,"A &quot;people manager&quot; should never be put in charge of project or schedule management.  It creates a conflict of interest between the realities of the project, and the outside pressure the manager may receive from other teams.<p>That&",
+76,7390296,comment,7390211.0,7390211.0,3,0,matt_heimer,,,"<a href=""https://github.com/ryancole/ryancole.github.com/blob/bd36fccff82afbc34ad0ec1f2c7296429176832a/_posts/2014-03-13-programming-isnt-for-you.md"" rel=""nofollow"">https://github.com/ryancole/ryancole.github.com/blob/bd36fcc...</a>",1394691780.0
+77,7390295,comment,7380717.0,7381048.0,1,0,apprishiate,,,"If you do end up switching as an S-Corporation, you must elect before March 15 to qualify as an S-corp for this year.<p>I&",
+78,7390293,comment,7389191.0,7390164.0,1,0,ehsanu1,,," Unlike with nukes (Project Orion notwithstanding), having access to relativistic weapons also implies having access to space travel. This is not necessarily the case, especially given biological constraints, but let&",
+79,7390292,comment,7390183.0,7390183.0,4,0,damian2000,,,"Article transcript here:<p><a href=""http://www.reddit.com/r/aviation/comments/20apxu/wsj_breaking_news_engine_data_shows_that_plane/"" rel=""nofollow"">http://www.reddit.com/r/aviation/comments/20apxu/wsj_breakin...</a>",1394691715.0
+80,7390289,story,,,1,1,Brajeshwar,"From the ""you call this agile?"" department",http://www.joelonsoftware.com/items/2006/11/15.html,,1394691510.0
+81,7390288,comment,7388837.0,7389332.0,1,0,n1ghtmare_,,,Then you have those people that go &quot;NO NO NO It&,
+82,7390287,comment,7390151.0,7390151.0,0,0,arjsah,,,We have been using this service for that last 3 months and this release is a great upgrade...looking forward to seeing our other feature asks to make it to shippable.com,1394691480.0
+83,7390286,comment,7387062.0,7390258.0,1,0,stoptalkingshit,,,"Well, I agree. And asm.js etc are better than what we had before, so some praise should be allocated to them. But it is not innovative or elegant; it&",
+84,7390285,comment,7390211.0,7390211.0,4,0,kang,,,"<a href=""http://webcache.googleusercontent.com/search?q=cache:6DXHCsxOH9YJ:rycole.com/2014/03/13/programming-isnt-for-you.html+&cd=1&hl=en&ct=clnk&gl=in"" rel=""nofollow"">http://webcache.googleusercontent.com/search?q=cache:6DXHCsx...</a>",1394691449.0
+85,7390284,comment,7386672.0,7390176.0,1,0,piyush_soni,,,"Yes, it&",
+86,7390283,comment,7389950.0,7389950.0,1,0,andrewbellay,,,shhhhh...,1394691440.0
+87,7390282,comment,7380637.0,7381272.0,1,0,faddotio,,,It&,
+88,7390281,comment,7385634.0,7388424.0,1,0,xerophtye,,,"Also, in novels there is metadata in positioning of the text (eg scene change, speaker change etc) which i believe would be lost in such readers. So it&",
+89,7390280,comment,7390186.0,7390242.0,4,0,firat,,,dat keyboard.,1394691389.0
+90,7390279,comment,7390211.0,7390211.0,1,0,jelled,,,404 error. Is this some kind of level?,1394691381.0
+91,7390278,comment,7388829.0,7390257.0,1,0,l33tbro,,,They&,
+92,7390277,story,,,1,0,mjhea0,"Introduction to HTML and CSS, featuring Pink Darth Vader",https://github.com/mjhea0/thinkful-html/tree/master/resume,,1394691312.0
+93,7390276,comment,7390186.0,7390242.0,16,0,flomo,,,"Appears to be a Compaq Portable II, which is a 286 PC clone, not an 8080.<p><a href=""http://oldcomputers.net/compaqii.html"" rel=""nofollow"">http://oldcomputers.net/compaqii.html</a><p><a href=""https://en.wikipedia.org/wiki/Compaq_Portable_II"" rel=""nofollow"">https://en.wikipedia.org/wiki/Compaq_Portable_II</a>",1394691300.0
+94,7390275,comment,7389950.0,7389950.0,1,0,BIair,,,The article makes a good point. It appears Google storing old passwords indefinitely makes your account potentially less secure. So why do they do it?,1394691277.0
+95,7390274,comment,7373566.0,7373927.0,1,0,crag,,,I just wasted 60 mins playing this game. And I think I&,
+96,7390273,comment,7387512.0,7387512.0,1,0,DevoAKA,,,I didn&,
+97,7390272,comment,7389940.0,7390152.0,40,0,jdlshore,,,"This. So much this.<p>I got involved with Extreme Programming in 2000. Loved it. Best thing since sliced bread, yadda yadda. I was completely spoiled for other kinds of work.<p>So when that contract ended, I went looking for other opportunities to do XP. But guess what? In 2001, there weren&",
+98,7390271,comment,7389917.0,7389917.0,2,0,dmourati,,,Hacking nonstop on ansible.,1394691139.0
+99,7390270,comment,7387025.0,7388386.0,2,0,ericd,,,"I think the Chinese govt. is roughly on the same page as you re rope, though I don&",
+100,7390269,comment,7390151.0,7390151.0,1,0,jsnk,,,"Sorry, Docker noob here.<p>I have a Rails project that has a lot of customized features. I have tons of Cucumber tests that require browser (haven&",
+101,7390268,comment,7390151.0,7390223.0,1,0,manishas,,,Apple&,
+102,7390267,comment,7389940.0,7390152.0,4,0,amputect,,,"> when they were offered a choice between hard Agile and easy Agile, they bought easy Agile.<p>This touches on what I believe to be the real, underlying issue: you (as a company) can&",
+103,7390266,comment,7389940.0,7389940.0,7,0,carsongross,,,To the extent that I&,
+104,7390265,comment,7383684.0,7384306.0,1,0,piyush_soni,,,Really? You&,
+105,7390264,comment,7390186.0,7390186.0,9,0,joshu,,,blog spam.,1394690924.0
+106,7390263,comment,7384974.0,7384974.0,1,0,darksabrelord,,,"I played through, it doesn&",
+107,7390262,story,,,2,0,glebm,Store screenshots of your web app in Git,http://blog.glebm.com/2013/08/23/screenshots-in-git,Updated version of the August post with a lightning talk video from dotRB,1394690889.0
+108,7390261,comment,7390071.0,7390071.0,1,0,lolwutf,,,I like all these &,
+109,7390260,comment,7388837.0,7390200.0,2,0,devwebee,,,"They are loading like 20 jQuery libraries in the header. Nothing is minified. By looking at the JS code here <a href=""http://assets.razerzone.com/eeimages/products/15348/js/template7.js"" rel=""nofollow"">http://assets.razerzone.com/eeimages/products/15348/js/templ...</a>, it seems like they vomited jQuery on top of a PSD2HTML site. Bad indentation, bad class names like &quot;.bar-prc1&quot;, &quot;.bar-prc2&quot;, &quot;.bar-prc3&quot;, no selector caching, no consitent usage of chaining, inconsistent style overall, in other words, a mess.",1394690813.0
+110,7390259,comment,7390151.0,7390219.0,1,0,manishas,,,"Some differentiators - Visualization of test & code coverage results, Matrix build to test multiple variations for a single push, and you also get 5 container build concurrency for $25 instead of 1 container in case of drone.<p>And as far as I know, Drone <i>service</i> is not running Docker yet and we have been running it since October...",1394690808.0
+111,7390258,comment,7387062.0,7389404.0,1,0,stcredzero,,,<i>It&,
+112,7390257,comment,7388829.0,7389886.0,2,0,nicpottier,,,I think you vastly overestimate Reddit&,
+113,7390256,comment,7386672.0,7386672.0,1,0,beingProgrammer,,,I have been trying to write a small game. But after having seen this. Holy Cow! It&,
+114,7390255,story,,,1,1,tanon500,Building something someone else patented...,https://gist.github.com/anonymous/9522629,,1394690736.0
+115,7390254,comment,7388829.0,7389117.0,1,0,LoganCale,,,Because after the pictures were taken they had to search thousands of square miles of ocean to find any tiny speck of anything that looked interesting. It&,
+116,7390253,comment,7389940.0,7389940.0,4,0,crag,,,No... agile has failed cause most of the &quot;enterprise&quot; apps written in the &quot;agile way&quot; (and many claim to be) are crap.<p>This isn&,
+117,7390252,comment,7389940.0,7390206.0,1,0,wpietri,,,Fixed. Thanks!,1394690682.0
+118,7390251,comment,7384974.0,7386706.0,1,0,asadlionpk,,,"webrtc is so unreliable (working on a project right now). For quick backend, use Firebase!",1394690679.0
+119,7390250,comment,7390151.0,7390187.0,1,0,manishas,,,Give it a spin and let us know what you think :),1394690637.0
+120,7390249,story,,,2,0,aggregator-ios,Show HN: iOS app to quickly collect numerical data,,"http://appstore.com/Aggregator<p>I made this to quickly enter data to observe trends over time. The alternative is using a spreadsheet, which is clunky and time consuming to use on a mobile device. I also wanted the app to auto generate graphs for me (which is also not quick in a spreadsheet).<p>I&",
+121,7390248,story,,,1,0,daniel_gabriel,Collections of various public data,http://blog.visual.ly/data-sources/,,1394690625.0
+122,7390247,comment,7390053.0,7390053.0,3,0,sdrothrock,,,Nice! Until now I&,

@@ -1,0 +1,100 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8906430,comment,8906167.0,8906394.0,0,0,ndrscr,,,"I, too, did not find this very understandable when I was trying to learn Lambda Calculus for the first time. Even now, it is still quite baffling how alligators eating aligators makes more intuitive sense than the regular notation (well, at least it&",
+1,8906429,comment,8905718.0,8906359.0,0,0,threeseed,,,There is a difference between being in an expert in the theory of software development and being an expert in the reality.<p>The theory says that bad software is written when you don&,
+2,8906428,comment,8906042.0,8906360.0,0,0,ghaff,,,"Probably the best book about the development of a tech project ever written. (Disclaimer: I worked at DG for a long time, albeit starting a bit after the events of the book, and knew many of the folks depicted.) Showstopper, about Windows NT, is another good read in this vein.",1421549970.0
+3,8906426,story,,,7,1,uptown,What I Learned About the Future by Reading 100 Science Fiction Books,https://medium.com/better-humans/what-i-learned-about-the-future-by-reading-100-science-fiction-books-4cd7cff4ace7,,1421549927.0
+4,8906425,comment,8905198.0,8906211.0,0,0,indlebe,,,It&,
+5,8906424,comment,8905718.0,8906390.0,0,0,sillysaurus3,,,It&,
+6,8906423,comment,8899954.0,8899954.0,0,0,baby,,,This should deserve more coverage here. It&,
+7,8906422,comment,8905321.0,8906367.0,0,0,krapp,,,I&,
+8,8906421,comment,8905321.0,8905614.0,0,0,nly,,,"Removing whole classes of software bugs, even if the cost were bearable, won&",
+9,8906420,comment,8902071.0,8905295.0,0,0,Bahamut,,,"I encountered many students with such misconceptions of their math ability when I taught as a grad student for two years.  With many of these, it turned out they had a strong talent for it, they just didn&",
+10,8906419,comment,8904812.0,8904812.0,0,0,ayuvar,,,I&,
+11,8906418,story,,,3,0,linhmtran168,Smart Guns Save Lives. So Where Are They?,http://www.nytimes.com/2015/01/18/opinion/sunday/nicholas-kristof-smart-guns-save-lives-so-where-are-they.html,,1421549726.0
+12,8906417,comment,8904650.0,8905062.0,0,0,anigbrowl,,,Scans don&,
+13,8906415,comment,8904812.0,8905584.0,0,0,frou_dh,,,You might still be able to end up on their twitter profiles from a chain of clicks starting in the about box.,1421549627.0
+14,8906414,comment,8904980.0,8904980.0,0,0,datashovel,,,This is absolutely terrifying.  You can&,
+15,8906412,comment,8905971.0,8905971.0,0,0,jcr,,,"previous submission:<p><a href=""https://news.ycombinator.com/item?id=8794830"" rel=""nofollow"">https://news.ycombinator.com/item?id=8794830</a>",1421549507.0
+16,8906411,comment,8902728.0,8905071.0,0,0,copenja,,,I don&,
+17,8906410,comment,8905471.0,8906159.0,0,0,3pt14159,,,"My mom taught me programming as a 6 year old almost 25 years ago. I went on to study it at college night school from 10 to 14 and held a job before graduating high school programming ASP, JS, and MS SQL.<p>Sometimes parents can teach their children things <i>and</i> have it stick.",1421549434.0
+18,8906409,story,,,4,0,marcplotkin,Codementor Office Hours with Andrew Baker of O'Reilly Media on Docker,https://www.codementor.io/officehours/2169402835/intro-to-docker,,1421549433.0
+19,8906408,comment,8906395.0,8906395.0,0,0,sotoseattle,,,"The title alone is worth a point: Violence, fear, Dongles (?), satanic Spawn, and a finale of Carnage.",1421549391.0
+20,8906407,comment,8905500.0,8905500.0,0,0,richardbrevig,,,"I use mint, it&",
+21,8906406,comment,8879215.0,8906289.0,0,0,geographomics,,,"It amuses me that my boring opinion means so much to you, that you decided to barge in on a completely different topic weeks later, and rub your own boring opinion in.<p>I appreciate this unexpected attention, but it is kind of weird of you, and a bit stalkerish.",1421549371.0
+22,8906405,comment,8905471.0,8906387.0,0,0,michael_nielsen,,,"Stoll has written a lovely 2010 mea culpa:<p><a href=""http://boingboing.net/2010/02/26/curmudgeony-essay-on.html",
+23,8906403,comment,8905500.0,8906275.0,0,0,richardbrevig,,,"I curious, how does mint not have &quot;real time updates from your accounts all in one place?&quot;  Their SaaS and app interfaces both seem to update fairly quickly.",1421549338.0
+24,8906402,comment,8905718.0,8906253.0,0,0,ufo,,,"But even then, you want to declare those variables as static or otherwise find some way to reduce their scope. Most global variables in the Toyota code were visible and writable from the whole program.<p>This is not even counting all the variables declared with the wrong type or more than once, uninitialized variables, etc.",1421549331.0
+25,8906401,comment,8894902.0,8896195.0,0,0,yuhong,,,Domain validated certificates do not require a new protocol however.,1421549249.0
+26,8906400,comment,8904650.0,8905039.0,0,0,anigbrowl,,,He&,
+27,8906399,comment,8906042.0,8906042.0,0,0,yzzxy,,,"I like the doorstopper <i>Fire In The Valley</i> a lot and have read it several times. It hits basically every part of SV history, following personal narratives of major players in each time period. This style makes it very interesting to read.<p>Disclaimer: I have no idea where it stands with regards to factual accuracy.<p><a href=""http://www.amazon.com/Fire-Valley-Personal-Computer-Edition/dp/0071358927"" rel=""nofollow"">http://www.amazon.com/Fire-Valley-Personal-Computer-Edition/...</a>",1421549234.0
+28,8906398,story,,,3,0,jonathansizz,Justice for data janitors,http://www.publicbooks.org/nonfiction/justice-for-data-janitors,,1421549179.0
+29,8906397,comment,8905718.0,8906343.0,0,0,ufo,,,According to mr. Koopman&,
+30,8906396,comment,8904975.0,8906090.0,0,0,fenomas,,,"Indeed - one might equivalently say that &quot;taunt&quot; sounds positive, due to its similarity to &quot;jaunt&quot;.",1421549039.0
+31,8906395,story,,,86,34,thealexknapp,Attacks on 'Insecure' Progressive Insurace Dongle Could Spawn Road Carnage,http://www.forbes.com/sites/thomasbrewster/2015/01/15/researcher-says-progressive-insurance-dongle-totally-insecure/,,1421548997.0
+32,8906394,comment,8906167.0,8906167.0,0,0,bhouston,,,Seems fairly complex still.  Not completely sure this makes it more understandable.  But maybe that wasn&,
+33,8906393,comment,8904043.0,8905113.0,0,0,bhrgunatha,,,Sources are already on github - along with the actual book itself:<p>> The book&,
+34,8906392,comment,8904650.0,8906149.0,0,0,anigbrowl,,,"<i>Undeveloped film, which is the topic of the article at hand does not have any copyright. It was never &quot;authored&quot; as a duplicable work until the new owner of the film (whoever bought it at yard sale or auction) had the negatives created.</i><p>This is simply wrong. The image is fixed in a tangible form upon the negative at the moment the shutter closes and terminates the exposure. The necessity of washing it in a development bath later in order to view the film does not in any way transfer authorship to the person doing the development. As JacquesM points out elsewhere, the image was sufficiently &",
+35,8906391,comment,8905726.0,8906349.0,0,0,Galanwe,,,That is _really_ sad :(,1421548768.0
+36,8906390,comment,8905718.0,8906062.0,0,0,threeseed,,,They did have peer review just not on every module. This is very common even amongst companies who say they do peer review.<p>And curious about the lack of a bug tracking software. Many companies including the one I work for &quot;technically&quot; don&,
+37,8906389,comment,8904980.0,8905642.0,0,0,andreasvc,,,"They have offices in other country, e.g., Switzerland. Couldn&",
+38,8906388,comment,8905671.0,8906206.0,0,0,throwwww,,,It pains me to read a comment such as this. I&,
+39,8906387,comment,8905471.0,8906107.0,0,0,wwweston,,,"Dead wrong about e-commerce and eBooks and good number of other things to boot.<p>On the other hand: &quot;The truth is no online database will replace your daily newspaper, no CD-ROM can take the place of a competent teacher and no computer network will change the way government works.&quot;&quot;<p>He&",
+40,8906386,comment,8904426.0,8904932.0,0,0,pmahoney,,,"Ah, great stuff, thanks! This small piece of the whole set of container features may be exactly what I want.",1421548697.0
+41,8906385,comment,8904434.0,8906038.0,0,0,pikachu_is_cool,,,Why not?,1421548676.0
+42,8906384,comment,8905471.0,8906372.0,0,0,FeeTinesAMady,,,"Do you get equity, as partial compensation for the lowish pay?",1421548672.0
+43,8906383,comment,8904434.0,8906137.0,0,0,pbhjpbhj,,,It&,
+44,8906382,story,,,2,0,ekianjo,How TinyGLES Made Uplink Possible on Open Pandora,http://pandoralive.info/?p=4287...,,1421548617.0
+45,8906381,comment,8904980.0,8905755.0,0,0,semperfaux,,,I don&,
+46,8906380,comment,8905718.0,8906006.0,0,0,threeseed,,,"Static analysis does not show you the complete picture. I have worked on countless horrifically complex, buggy and unmanageable J2EE applications that had perfect cyclomatic complexity et al scores. I have also written perfectly reviewed, manageable and well tested piece of code that didn&",
+47,8906379,comment,8905321.0,8905321.0,0,0,Briguy2k,,,"Speaking as a citizen, the problem with the US&",
+48,8906378,comment,8904434.0,8904434.0,0,0,pikachu_is_cool,,,"Wait, so will this work for other schools, too? Like a UC perhaps?",1421548458.0
+49,8906377,comment,8905056.0,8905056.0,0,0,RoundCube,,,I thought it was real until I read the comments.,1421548365.0
+50,8906376,comment,8904980.0,8905978.0,0,0,semperfaux,,,Sounds like Japan&,
+51,8906375,story,,,11,17,jackcouch,Anyone interested in teaching arc?,,I would like to learn Arc and could use some help and I&,
+52,8906374,comment,8905718.0,8906205.0,0,0,jacquesgt,,,Non-stack variables can be static instead of global. Either file-scoped or function-scoped.,1421548252.0
+53,8906373,comment,8904650.0,8906334.0,0,0,pbhjpbhj,,,"Indeed, manual development does have some creative aspects but primarily it&",
+54,8906372,comment,8905471.0,8906307.0,0,0,pakled_engineer,,,"Small stealth mode startup in Vancouver, Canada that does custom DSLs for the oil & gas industry. I found the job on my local CL, they were advertising looking for anybody who had read SICP, or had experience doing functional programming. It doesn&",
+55,8906371,comment,8905652.0,8905652.0,0,0,song,,,"Great, I&",
+56,8906370,story,,,6,0,bhaumik,Climbing the Wrong Hill,https://medium.com/@cdixon/climbing-the-wrong-hill-2f69de430f51,,1421548088.0
+57,8906369,comment,8905321.0,8906290.0,0,0,MisterWebz,,,So if you were operating 50 accounts to try to influence the debate you&,
+58,8906368,comment,8904650.0,8905251.0,0,0,scoot,,,&quot;Although I don&,
+59,8906367,comment,8905321.0,8905989.0,0,0,rhizome,,,That&,
+60,8906366,comment,8904650.0,8906198.0,0,0,pbhjpbhj,,,Re you citing that caselaw. Abandonment and forfeiture as considered therein _do_not_ exist as they are reliant on parts of the USC which no longer exist subsequent to USA ratifying Berne (and the ensuing changes to registration and requirements to affix the © symbol and all that).<p>I&,
+61,8906365,comment,8904650.0,8905254.0,0,0,anigbrowl,,,"Undeveloped negatives are considered tangible for legal purposes, and the creation of the negative has been considered the primary work of authorship almost cince the inception of photography:<p>See <i>Burrow-Giles Lithographic company v. Sarony, 111 US 53 - Supreme Court 1884</i>, quoting <i>Nottage v. Jackson, 11 QBD 627, High court 1883</i>:<p><i>Brett, M.R., said, in regard to who was the author: &quot;The nearest I can come to, is that it is the person who effectively is as near as he can be, the cause of the picture which is produced, that is, the person who has superintended the arrangement, who has actually formed the picture by putting the persons in position, and arranging the place where the people are to be — the man who is the effective cause of that.&quot;<p>Lord Justice Cotton said: &quot;In my opinion, `author&",
+62,8906364,comment,8905321.0,8906320.0,0,0,rhizome,,,"Of course not, and that&",
+63,8906363,story,,,3,0,ahamino,Future uses for facial recognition technology,http://www.affectiva.com/news/future-uses-facial-recognition-technology/,,1421547735.0
+64,8906362,comment,8905726.0,8906232.0,0,0,bjz_,,,"There are some good things on the later slides that refer to the test suites and documentation. From experience, that knowledge is really useful if you want to start making changes and fixes to the compiler and libraries.",1421547695.0
+65,8906361,comment,8905142.0,8905142.0,0,0,phkahler,,,"I once asked someone &quot;how is this function used?&quot; He put a breakpoint in it, ran the code, triggered it, and showed me a stack trace. &quot;Here&",
+66,8906360,comment,8906042.0,8906042.0,0,0,smoyer,,,It doesn&,
+67,8906359,comment,8905718.0,8906205.0,0,0,DangerousPie,,,It&,
+68,8906358,story,,,2,0,DanBlake,Whats in Matt Mullenwegs Bag,https://everydaycarry.com/posts/4117/Whatandrsquos_in_My_Bag_2014,,1421547458.0
+69,8906357,comment,8904980.0,8904980.0,0,0,chj,,,What&,
+70,8906356,comment,8905726.0,8905726.0,0,0,100k,,,Thanks to Keegan and the other Rust team members for hosting this event. It was fun to see how things work under the hood.,1421547259.0
+71,8906354,comment,8903522.0,8903617.0,0,0,mod,,,"In that example I found it much easier to see the difference in non-fullscreen, and paying attention to the skyline rather than the bottom half of the screen.",1421547115.0
+72,8906353,comment,8905056.0,8905056.0,0,0,maccard,,,"Video of the toaster here: <a href=""https://www.youtube.com/watch?v=JosAD2mvUCE"" rel=""nofollow"">https://www.youtube.com/watch?v=JosAD2mvUCE</a>",1421547079.0
+73,8906352,comment,8905718.0,8906333.0,0,0,veidr,,,"Wow, do you have a link for that? I think this is a fascinating story in and of itself, but one of the tangential things that also interests me about it is that nobody I know in Japan (where I live) has ever even heard of this story.",1421547077.0
+74,8906351,comment,8905718.0,8906253.0,0,0,jacquesm,,,I think this is possibly one area where functional programming could shine if the garbage collection issue could be dealt with once and for all (and that&,
+75,8906350,comment,8906085.0,8906310.0,0,0,icantthinkofone,,,And also the story I posted 11 days ago.,1421546988.0
+76,8906349,comment,8905726.0,8906346.0,0,0,steveklabnik,,,There was a technical issue and so the video didn&,
+77,8906348,comment,8905718.0,8906308.0,0,0,veidr,,,That&,
+78,8906347,comment,8905471.0,8905881.0,0,0,electronvolt,,,I&,
+79,8906346,comment,8905726.0,8905726.0,0,0,Galanwe,,,Anyone having links to the video of the talk?,1421546955.0
+80,8906345,comment,8906042.0,8906042.0,0,0,walterbell,,,"A few more references:<p>(Commodore) <i>The Home Computer Wars</i>, Michael Tomczyk\n<a href=""http://michaeltomczyk.com/Tech-Pioneer.php"" rel=""nofollow"">http://michaeltomczyk.com/Tech-Pioneer.php</a><p>(Apple) <i>The Apple Revolution</i>, Luke Dormehl, <a href=""http://www.zdnet.com/article/the-apple-revolution-book-review/"" rel=""nofollow"">http://www.zdnet.com/article/the-apple-revolution-book-revie...</a><p><i>A Bibliography of the Personal Computer</i>, Roy Allan, <a href=""https://archive.org/details/ABibliographyOfThePersonalComputer"" rel=""nofollow"">https://archive.org/details/ABibliographyOfThePersonalComput...</a><p><i>A History of the Personal Computer</i>, Roy Allan, <a href=""https://archive.org/details/A_History_of_the_Personal_Computer"" rel=""nofollow"">https://archive.org/details/A_History_of_the_Personal_Comput...</a>",1421546919.0
+81,8906344,comment,8903522.0,8905385.0,0,0,mod,,,I couldn&,
+82,8906343,comment,8905718.0,8906270.0,0,0,jacquesm,,,Is it known why he did not turn off the ignition?,1421546882.0
+83,8906342,comment,8906085.0,8906310.0,0,0,cornstalks,,,"As is <a href=""https://news.ycombinator.com/item?id=8700239"" rel=""nofollow"">https://news.ycombinator.com/item?id=8700239</a> from 44 days ago.",1421546860.0
+84,8906341,comment,8905718.0,8906262.0,0,0,nitrogen,,,I&,
+85,8906338,comment,8905321.0,8906218.0,0,0,rational-future,,,What do you think you&,
+86,8906337,comment,8905718.0,8906193.0,0,0,MBCook,,,He mentioned he&,
+87,8906336,comment,8904849.0,8905822.0,0,0,whoopdedo,,,It looks like he&,
+88,8906335,comment,8904266.0,8906259.0,0,0,danbruc,,,"Okay, that will gives us total transaction costs with hardware, electricity, rental, profit and so on in the range 1.5 to 2.0 of the electricity costs which again makes electricity costs a pretty good proxy for transaction costs.<p>So the remaining question is how the total costs of running the Bitcoin network will evolve with changing transaction volume. Will competition among miners drive up or lower the total costs? Will total costs evolve proportionally to the transaction volume - which I think is important for security - or will they decouple? It would probably be interesting to model the whole system and see what happens. Is there an equilibrium for transaction costs and Bitcoin adoption? And is it stable or will the system run away?",1421546645.0
+89,8906334,comment,8904650.0,8906135.0,0,0,cbd1984,,,You&,
+90,8906333,comment,8905718.0,8905718.0,0,0,erdle,,,Not sure if it&,
+91,8906332,comment,8906042.0,8906042.0,0,0,rogerbinns,,,"I highly recommend &quot;The Secret History of Silicon Valley&quot; - a talk given at the Computer History Museum.  It starts with talk about radar and electronic warfare in WWII.  &quot;Every WWII movie you have ever seen that included airplanes on bombing missions is wrong&quot;.  That soon becomes the genesis of universities in the war effort (research), east vs west coast, and Stanford with Fred Terman who is widely credited as being the father of Silicon Valley (along with William Shockley).  He encouraged students to set up companies, sometimes investing in them too.<p><a href=""https://www.youtube.com/watch?v=ZTC_RxWN_xo"" rel=""nofollow"">https://www.youtube.com/watch?v=ZTC_RxWN_xo</a>  Hour long video<p><a href=""https://en.wikipedia.org/wiki/Frederick_Terman"" rel=""nofollow"">https://en.wikipedia.org/wiki/Frederick_Terman</a>",1421546603.0
+92,8906331,story,,,178,183,aiurtourist,Why Perl Didn't Win,http://outspeaking.com/words-of-technology/why-perl-didnt-win.html,,1421546594.0
+93,8906330,comment,8904909.0,8906186.0,0,0,thret,,,&quot;when a programmer analyses code he&,
+94,8906329,comment,8900633.0,8901446.0,0,0,tdaltonc,,,They&,
+95,8906327,comment,8905530.0,8905530.0,0,0,diminoten,,,It&,
+96,8906326,comment,8902170.0,8902170.0,0,0,RogerL,,,"A degree is not going to help you with white board programming (I think degrees are extremely useful, just not for that).<p>I try to turn the tables a bit. &quot;What are you trying to measure, and I&",
+97,8906325,comment,8905718.0,8906070.0,0,0,FeeTinesAMady,,,The Audi 5000 unintended acceleration in the 80s was shown to be that.,1421546461.0
+98,8906324,comment,8902105.0,8906091.0,0,0,cbr,,,I agree that it&,

@@ -1,0 +1,124 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6531343,comment,6528969.0,6531315.0,4,0,vinceguidry,,,"<a href=""http://12factor.net/"" rel=""nofollow"">http://12factor.net/</a>",1381463911.0
+1,6531342,comment,6530536.0,6531319.0,2,0,aaronbrethorst,,,I don&,
+2,6531341,comment,6529298.0,6529298.0,2,0,malandrew,,,Flipboard really should offer a &quot;news store&quot; where you can sign up for any news service for approximately the same amount as ads bring in per user for those publications plus Flipboard&,
+3,6531340,comment,6528755.0,6529507.0,6,0,yeukhon,,,That&,
+4,6531339,comment,6531220.0,6531220.0,13,0,manojlds,,,At a time when Lumia 520 and Lumia 925 have been selling like hot cakes ( don&,
+5,6531338,story,,,1,0,kristenbarbs,"Meet A New York TechStar  Jamyn Edis, CEO and Founder of Dash Labs",http://www.alleywatch.com/2013/04/meet-a-new-york-techstar-jamyn-edis-ceo-and-founder-of-dash-labs/,,1381463732.0
+6,6531337,comment,6530924.0,6531185.0,2,0,archagon,,,How big is the complete archive?,1381463703.0
+7,6531336,comment,6528969.0,6531315.0,1,0,ramses0,,,Can you explain or give some links on &quot;12-Factor Conformance&quot;?  I did a few quick searches and nothing popped up.,1381463628.0
+8,6531335,comment,6531220.0,6531220.0,7,0,Daegalus,,,"I disagree. Even though it seems most people hate WP8, or Microsoft, or whatever gets your panties in a bunch about it, I would love to get one of these. I really like WP8, and have had up to the 920, but there are just some apps that I need right now that don&",
+9,6531334,story,,,33,43,mburney,A Confederacy of Quacks: The War Against Antidepressants,https://www.nsfwcorp.com/dispatch/war-again-antidepressents/ed777898f06c3523f2b91953ca512efe073c4614/,,1381463593.0
+10,6531333,comment,6526876.0,6526876.0,1,0,axk,,,"19/20, didn&",
+11,6531332,comment,6531071.0,6531274.0,1,0,ericclemmons,,,"Tweet @ericclemmons or open an issue if you need some help.<p>As a heads up, here&",
+12,6531331,comment,6530572.0,6531247.0,3,0,antidaily,,,"PS4 and XBox using their chips as well, right? Junky but cheaper, I suppose.",1381463487.0
+13,6531329,comment,6528680.0,6528680.0,1,0,notduncansmith,,,I&,
+14,6531328,comment,6528598.0,6528598.0,1,0,aaron695,,,Not sure why they&,
+15,6531327,comment,6530572.0,6531279.0,1,0,yeukhon,,,I guess I am saying reliable and extremely consistent speed. I mean using that at school is a challenge for a lot of people. I can&,
+16,6531326,comment,6529749.0,6530611.0,1,0,yannk,,,"+1 to that. I miss the pens of my youth:<p><a href=""http://en.wikipedia.org/wiki/Bic_Cristal"" rel=""nofollow"">http://en.wikipedia.org/wiki/Bic_Cristal</a><p>They would sometimes fail, but I find they would leave just the right amount of ink on the paper while rolling smoothly on it.",1381463330.0
+17,6531325,comment,6526933.0,6528430.0,1,0,crucifiction,,,"It definitely felt out of place and tacked on at the end. Strange decision, but I guess he felt he needed some way to drive views/sales for a man profiled a million times already.",1381463293.0
+18,6531324,comment,6526476.0,6526476.0,5,0,bsullivan01,,,"<i>Knowing that the FBI has Lavabits keys, GoDaddy shuttered its secure site.</i><p>Next: Getting a judge to forbid GoDaddy etc from revoking the certificates.<p>Interesting times we live, a parallel reality is created",1381463191.0
+19,6531323,story,,,1,0,sandeshkumar,Thank GOD for all the memories ,,,
+20,6531322,comment,6531071.0,6531287.0,1,0,ericclemmons,,,"Thanks!  If you have any opinions, issues, or whatever (I just wrote the docs today =/), open a ticket.  I&",
+21,6531320,comment,6517553.0,6519769.0,2,0,malandrew,,,Not exactly the same. The company can know that I am a customer. What I&,
+22,6531319,comment,6530536.0,6530844.0,2,0,3pt14159,,,"This will probably come off as dickish, but that is not my intention.<p>No where in your comment did you outline where my reasoning is wrong. Losing vs Loosing. Instagram doesn&",
+23,6531318,comment,6528755.0,6529084.0,4,0,aufreak3,,,"General note to OP and others relying on MDN - if you do spot errors, please remember that it is a Wiki. You can just hit the &quot;edit&quot; button and fix it yourself .. and you&",
+24,6531317,comment,6531071.0,6531236.0,1,0,ericclemmons,,,"The last time I tried out WP-CLI was, admittedly, ~ year ago, where I believe the limitation was that you administered the WordPress install on the same machine it ran on, rather than administering via ansible, capistrano, or other DevOps tools.<p>What I&",
+25,6531316,story,,,1,0,speednoise,Usable Live Programming,http://research.microsoft.com/en-us/people/smcdirm/liveprogramming.aspx,,1381463082.0
+26,6531315,comment,6528969.0,6530582.0,3,0,vinceguidry,,,Of course it&,
+27,6531314,comment,6530536.0,6531265.0,2,0,malandrew,,,Agree. However I&,
+28,6531313,comment,6530924.0,6531185.0,6,0,blinkingled,,,"DownThemAll works with Firefox cross platform. Right Click on the page and dta OneClick. Fast Filter <i>.pdf, </i>.zip covers all downloads.",1381462919.0
+29,6531312,comment,6531030.0,6531030.0,0,0,wbond,,,"I was hoping for some info about handling the glut of false positives in Chrome when monitoring a site for JS errors using onerror. From what I can tell, they are caused by the fact that Chrome extensions run inline on pages.<p>It seems to me Airbrake is just requiring that you wrap all of your JS in calls to Airbrake.try(). Wouldn&",
+30,6531311,comment,6511491.0,6514320.0,1,0,pjlegato,,,"I could speculate that space aliens secretly landed in Roswell and took over the government 60 years ago, but without evidence, it&",
+31,6531310,comment,6529948.0,6530737.0,1,0,bennyg,,,Exactly I just want this:<p><pre><code>  NSString *newS = @&quot;blah &quot; + @(42) + @&quot;!&quot;;</code></pre>,1381462862.0
+32,6531309,comment,6531052.0,6531276.0,2,0,byroot,,,I don&,
+33,6531308,comment,6528031.0,6528815.0,1,0,azinman2,,,If you&,
+34,6531307,comment,6530924.0,6531185.0,1,0,cool100,,,On Windows there&,
+35,6531305,comment,6530449.0,6531293.0,5,0,011011100,,,We all have some sort of mutation.,1381462705.0
+36,6531304,story,,,1,0,jamesjyu,America's Greatest Inventor,http://www.thegatesnotes.com/Personal/Americas-Greatest-Inventor?WT.mc_id=10_10_2013_Edison_tw&WT.tsrc=Twitter,,1381462703.0
+37,6531303,story,,,2,0,qdot76367,Wearscript: Javascript Apps for Google Glass,http://wearscript.com/,,1381462679.0
+38,6531302,comment,6530846.0,6531127.0,11,0,allochthon,,,"Wikipedia aside, I respectfully disagree.  Even for an international audience, context is important for interpreting &quot;the city.&quot;  NYT article: &quot;the city&quot; is New York.  Economist article: &quot;the city&quot; is the City of London.  TechCrunch: &quot;the city&quot; is San Francisco.",1381462634.0
+39,6531301,comment,6528484.0,6528484.0,1,0,kylequest,,,"It would be great if they could add Django, RoR, and Node/Express.js to improve their security proactively. They can definitely use that :-)",1381462633.0
+40,6531300,comment,6529948.0,6530724.0,2,0,bennyg,,,You can do this now @(100.5) for NSNumber literals.,1381462619.0
+41,6531299,comment,6530846.0,6530846.0,22,0,pg,,,"Incidentally, if this article were accurate, it would have been short and boring.  We opened an office in SF because a lot of the people who work for YC live there.",1381462617.0
+42,6531298,story,,,1,0,vulcanpost,"Pinterest promoted pins, signalling the death of traditional banner ads?",http://vulcanpost.com/856/arrival-pinterest-promoted-pins-signalling-death-traditional-banner-ads/,,1381462605.0
+43,6531297,comment,6529948.0,6530493.0,2,0,bennyg,,,"I wrote a utility class with idiomatic Obj-C color methods like the one you mentioned and more. I hate to plug it, but I&",
+44,6531296,comment,6528969.0,6529627.0,4,0,theg2,,,A company I worked for had a .NET application that was critical to basically all of corporate ticketing and resource management. It would no longer compile as a whole except on one guy&,
+45,6531295,comment,6531144.0,6531144.0,2,0,noone42,,,"Tyler, I&",
+46,6531294,comment,6530449.0,6530777.0,4,0,joelrunyon,,,> I actually just don&,
+47,6531293,comment,6530449.0,6531139.0,3,0,visakanv,,,I&,
+48,6531292,story,,,2,0,jijojv,PSA: check your yahoo mail forwarding settings,,I had my yahoo mail forwarding enabled to my ex-employer 10 years ago - yeah pre gmail years when outlook ruled...<p>which yahoo disabled under the free plan some years back but the settings stayed intact.<p>Unbeknownst to me since Oct 8 Yahoo re-enabled the forwarding under the free plan and my emails were bouncing as they were getting forwarded to my ex-employer from 10 years ago. So check your yahoo forwarding settings!,1381462528.0
+49,6531291,comment,6527104.0,6528677.0,1,0,adelle,,,"The VB6 IDE was Ok for 1998, but 1998 was a long time ago.<p>I still use VB6/VBA to get shit done, but only because I have a bunch of code & tools I&",
+50,6531290,story,,,1,0,kylequest,Web Security: HTTP Header Field X-Frame-Options,https://tools.ietf.org/html/rfc7034,,1381462413.0
+51,6531289,comment,6530846.0,6531010.0,3,0,photorized,,,Thought they were talking about NYC for a moment.,1381462403.0
+52,6531288,comment,6530251.0,6530347.0,2,0,elviejo,,,Yes for two reasons:<p>1. &quot;Scratching your own itch&quot;. There are several hackers / freelancers that want to enroll in healthcare and want that website to work.<p>2. &quot;Altruism&quot;. There are plenty of hackers that want better healthcare for the USA and would gladly help to make that happen. Even if they aren&,
+53,6531287,comment,6531071.0,6531083.0,1,0,otisfunkmeyer,,,This looks totally amazing. Thank you for doing this and also for documenting it so well! I had to spend a lot of extra time with other Vagrant/WP integration concepts just because a lot of them were very poorly documented. Cheers!,1381462368.0
+54,6531286,comment,6526918.0,6526918.0,1,0,devanti,,,"this is old, but it&",
+55,6531285,comment,6529749.0,6530419.0,1,0,omegant,,,"Yep that was my initial impression, I checked the site and the cartridges are quite inexpensive. I&",
+56,6531284,comment,6528693.0,6530076.0,3,0,tadfisher,,,You can&,
+57,6531283,comment,6528693.0,6529479.0,3,0,tadfisher,,,"You cannot be barred entry into the US if you can prove you are a US citizen. You may be required to submit to questioning, and you can be prosecuted if there are any warrants for your arrest or you are attempting to bring something illegal into the country, but that&",
+58,6531282,comment,6530536.0,6530844.0,2,0,001sky,,,<i>I don&,
+59,6531280,comment,6530979.0,6530979.0,9,0,t1m,,,It&,
+60,6531279,comment,6530572.0,6531104.0,4,0,jlgreco,,,"Really?  I have a lot of complaints about ChromeOS (I have a chromebook, and nuked ChromeOS off of it), but that isn&",
+61,6531278,story,,,3,0,kylequest,Cloud Foundry Containers - a comparison of Warden and Docker,https://groups.google.com/a/cloudfoundry.org/forum/,,
+62,6531277,story,,,1,0,daven14,Ask HN: Move into a non tech game dev role (from a movie oriented degree)?,,A relative has just completed a degree in media - film producing/directing/screen writing etc and is finding it slim pickings looking for a job. I was wondering if there&,
+63,6531276,comment,6531052.0,6531052.0,14,0,bratsche,,,For anyone who&,
+64,6531275,comment,6529749.0,6530973.0,12,0,coldtea,,,I have asked lots and they would LOVE for foreign countries to stop exploiting them.<p>I guess it makes one sleep easier if he thinks &quot;at least we&,
+65,6531274,comment,6531071.0,6531071.0,1,0,greg5green,,,I&,
+66,6531273,comment,6529040.0,6531048.0,1,0,tjaerv,,,The license. (GPL vs BSD.),1381462018.0
+67,6531272,story,,,1,0,salem,Apple iWatch is actually a home automation play...,http://venturebeat.com/2013/10/10/apple-iwatch-is-actually-a-home-automation-play-not-a-smartphone-companion-analyst/,,1381461994.0
+68,6531271,comment,6530449.0,6531262.0,2,0,011011100,,,You are super cool.,1381461981.0
+69,6531270,story,,,6,0,1gor,Imagine a world without shops or factories,http://www.bbc.co.uk/news/magazine-23990211,,1381461888.0
+70,6531269,comment,6530536.0,6531228.0,3,0,jval,,,"Great post, but I think when they talk about consumer they are talking about totally free consumer facing time-sink eyeball-monetization companies like Facebook, Twitter and Pinterest. I don&",
+71,6531268,comment,6531144.0,6531252.0,1,0,tadfisher,,,"Ah, that clears it up. Good catch!",1381461831.0
+72,6531267,comment,6526484.0,6529682.0,3,0,rdtsc,,,I guess you are right. It seems they were selected based on family ties. I.e. those whose fathers were in the party or worked in the secret police or high ranking army officials.<p>At some point Cherkashin kind of mentions how he was fairly average and he was sent to the foreign language training academy and how it was at first very hard for him to pick up languages. But they just had very good teachers and eventually he mastered them.<p>So I guess I should correct it and say they picked what where thought to be &quot;loyal&quot; and &quot;patriotic&quot; people and then they trained them well. So if some got smarter it was often as a result of having to work with  the best teachers.,1381461806.0
+73,6531266,comment,6526484.0,6529146.0,1,0,shawndumas,,,it&,
+74,6531265,comment,6530536.0,6531228.0,1,0,001sky,,,"Two things are worth highlighting in your comment. One is that the examples are &quot;yesterdays&quot; companyies that are not all that new (in dog years;). Two, is that the entry point and the profit sweet spot were not the same. The Bet now (as per the article) is that markets that before were not likely adressable directly, are now so. Ie, there is a change in the enterprise maket (ie, latent demand) that is now directly accessable as a go-to-market strategy.",1381461731.0
+75,6531264,comment,6531030.0,6531030.0,2,0,james33,,,"We are currently using Sentry to handle JS error reporting. It appears that this is essentially the same thing, am I missing anything that sets it apart and makes it better?",1381461674.0
+76,6531263,comment,6526918.0,6526918.0,1,0,mbillie1,,,A link to a JS library that plugs the author&,
+77,6531262,comment,6530449.0,6531201.0,-2,0,knappador,,,"Wah.  While this was going on, I finished a re-write of the Android billing APIv3 integration in Kivy.  <a href=""https://github.com/knappador/billing-example"" rel=""nofollow"">https://github.com/knappador/billing-example</a>   Please test the provided binary and post logcats of failures.  Interested in more devices and Android versions.",1381461645.0
+78,6531261,comment,6526484.0,6530599.0,2,0,rdtsc,,,> The majority of oligarchs are either related to ex-top soviet officials or some black market thugs who got freedom in post-collapse chaos.<p>Well ex-top soviet officials are sort of in the same category. It certainly wasn&,
+79,6531260,comment,6529749.0,6530603.0,1,0,tedunangst,,,"The orientation sensor probably works less well, though. Probably just lock orientation on the ground before you go up.",1381461597.0
+80,6531259,comment,6528969.0,6529674.0,-2,0,011011100,,,I coded the entire linux operating system in one hour. Why can&,
+81,6531258,comment,6530846.0,6531229.0,1,0,strlen,,,Indeed -- there&,
+82,6531256,comment,6528969.0,6530362.0,3,0,csixty4,,,My community college still had us writing C on huge tablets of that IBM grid paper in the late 90s. I can&,
+83,6531255,comment,6530572.0,6530834.0,1,0,sliverstorm,,,"They are not trying to introduce a console, IMO. It&",
+84,6531254,comment,6529850.0,6530732.0,4,0,Q4273j3b,,,"When a lot of my friends say &quot;privacy&quot; they really mean: &quot;the barriers I put up around my content, which is of course online&quot;.<p>Then there&",
+85,6531253,comment,6531144.0,6531144.0,2,0,xvzf,,,Moron alert.,1381461432.0
+86,6531252,comment,6531144.0,6531237.0,4,0,mbillie1,,,"The picture of a cannabis bud on the linked blog post could potentially answer two of these three questions (maybe all three, depending on your POV).",1381461411.0
+87,6531251,story,,,25,48,gkuan,How Harvey Mudd Transformed Its CS Program And Nearly Closed Its Gender Gap,http://techcrunch.com/2013/10/10/how-harvey-mudd-transformed-its-computer-science-program-and-nearly-closed-its-gender-gap/,,1381461401.0
+88,6531250,comment,6530924.0,6531097.0,3,0,e12e,,,"Indeed, but it&",
+89,6531248,story,,,3,6,SVPMguy,Good way to find a passionate early stage startup looking for innovation help?,,The last few years I&,
+90,6531247,comment,6530572.0,6530726.0,3,0,rdtsc,,,> AMD&,
+91,6531246,story,,,1,0,taylorscollon,9 ways to kick start your content marketing,http://bit.ly/GILcQD,,1381461291.0
+92,6531245,comment,6530924.0,6531187.0,4,0,e12e,,,"eh, what about eg:<p><a href=""https://www.google.com/search?q=site:http://twvideo01.ubm-us.net/o1/vault/GD_Mag_Archives/+postmortem"" rel=""nofollow"">https://www.google.com/search?q=site:http://twvideo01.ubm-us...</a>",1381461286.0
+93,6531244,story,,,203,107,sidi,"Wikileaks internal memo on ""The Fifth Estate""",http://wikileaks.org/IMG/html/wikileaks-dreamworks-memo.html,,
+94,6531243,comment,6530536.0,6531063.0,4,0,001sky,,,Not if you go by investment returns...,1381461244.0
+95,6531242,story,,,1,0,braco_alva,Ask HN: Experiences using Payoneer?,,"This is a question mostly for non US folks, has anyone used Payoneer US Payment Service to sell paid apps on the Play Store or to charge with Paypal, Amazon, etc...?<p>I&",
+96,6531241,comment,6530572.0,6530968.0,2,0,sliverstorm,,,"To me it reads like a slightly different model- they make plenty of money in their primary business on Windows, and had no quarrel with Microsoft for many years. Now as they feel threatened by Microsoft, they are attempting to grow into a new market space- somewhat of a &quot;blue ocean&quot; strategy- namely, people who already like consoles but have always found PCs too intimidating or too much work. I doubt they want to cannibalize Windows; growing into a new market provides them additional revenue and security in the event Microsoft starts to take over some of Valve&",
+97,6531240,comment,6528681.0,6529065.0,2,0,sameer_sundresh,,,"Definitely. For Everpix, sharing to email is 25x as popular as sharing to Facebook.",1381461221.0
+98,6531239,comment,6530924.0,6531185.0,5,0,jamesbritt,,,But consider using <i>--limit-rate <some rate></i> or  <i>-w <some number of seconds></i> to add a delay so as not to bomb the server.,1381461183.0
+99,6531238,comment,6524728.0,6529730.0,1,0,shitlord,,,"I am currently in Charlottesville, VA (it is kind of like a suburb). It has a lot of hills, which affects the reception. Every carrier other than T-Mobile has signal boosters placed throughout the city to counteract spotty coverage.<p>I&",
+100,6531237,comment,6531144.0,6531144.0,8,0,tadfisher,,,"I have a couple of questions:<p>1a. Why are you going to jail?<p>1b. Why should I care?<p>2. What state of mind were you in when you were tweeting &quot;Seriously, come get me fuckers?&quot;",1381461120.0
+101,6531236,comment,6531071.0,6531071.0,1,0,sdnguyen90,,,I&,
+102,6531235,story,,,1,0,michaelsbradley,"Come, Let's Play (2003)",http://www.scribd.com/doc/175241338/Come-Let-s-Play,,1381460965.0
+103,6531234,story,,,1,0,rvivek,HackerRank's data science contest starting today,https://www.hackerrank.com/october-data-science,,1381460960.0
+104,6531233,comment,6527104.0,6527104.0,1,0,Nick_C,,,"I really like ML.  It is simple at face value, but with pattern matching and lambdas becomes very powerful.<p>I haven&",
+105,6531232,comment,6530536.0,6531040.0,5,0,not_that_noob,,,"The numbers are already working.<p>Crave just raised $2.5M on AL - see <a href=""http://blogs.wsj.com/venturecapital/2013/09/19/50-shades-of-angel-funding-crave-innovations-raises-2-4m-for-luxury-sex-toys/"" rel=""nofollow"">http://blogs.wsj.com/venturecapital/2013/09/19/50-shades-of-...</a><p>Crave is showing lots of fit - market or otherwise.<p>With AL syndicates, getting to $5M for a hot startup on AL will be a cake walk. All you need is for a few of the top syndicators to get excited about you and you&",
+106,6531231,comment,6529850.0,6531084.0,3,0,001sky,,,"Non-profits are subject to the same restrictions, it would seem. The red cross cannot sell fake designer goods to raise money &quot;for charity&quot; (and the $1MM CEO salary), etc. Nor can they use the likeness of Rihanna or Beyonce to further their ad campaigns without writen permission.",1381460934.0
+107,6531230,comment,6531214.0,6531214.0,1,0,jason_slack,,,I can upload them all if people think it is helpful.,1381460923.0
+108,6531229,comment,6530846.0,6531117.0,2,0,whopa,,,"I agree with everything you said, except that there is one thing missing from Peninsula/South Bay that SF has: lots of choice of bars and nightclubs. That appeals to the single twentysomething demographic that startups are trying to hire from. Hence the demand.<p>If you want to stay out late drinking and whatnot, public transportation isn&",
+109,6531228,comment,6530536.0,6530536.0,2,0,malandrew,,,Somewhat odd because some of the most valuable enterprise ventures recently have begun as consumer plays with a path to the enterprise. Dropbox is one example. The iPhone was consumer before enterprise. Github focused on individual debs before it made its enterprise play. I&,
+110,6531227,comment,6524385.0,6525686.0,1,0,judk,,,Why can&,
+111,6531226,comment,6530846.0,6531121.0,1,0,asmosoinio,,,"No, you are not.",1381460793.0
+112,6531225,comment,6531198.0,6531198.0,1,0,mxxx,,,pretty cool.  nice idea and the interface they&,
+113,6531224,comment,6529850.0,6530525.0,2,0,thaumasiotes,,,"File this under &quot;fun facts&quot;, and I can certainly understand not knowing, but the singular of &quot;mores&quot; is &quot;mos&quot;.  I seem to remember that it might have different meanings (in Latin) in the singular and plural, but that could easily be a false memory or a transference from vis/vires.",1381460696.0
+114,6531223,story,,,1,0,espeed,MapR M7: HBase Simplified and Fixed for Online Systems,http://www.mapr.com/products/mapr-editions/m7-edition,,1381460630.0
+115,6531222,comment,6530846.0,6531010.0,4,0,argonaut,,,"I grew up, live in, and currently study in the Bay Area. If I am talking to someone, or if someone is talking to me, most references to &quot;the city&quot; will be clearly understood to mean San Francisco. Ex: I&",
+116,6531221,comment,6530924.0,6531187.0,9,0,sliverstorm,,,"Free and posted in its entirety online, and you&",
+117,6531220,story,,,29,47,codelion,Microsoft Wants to Embed Windows Phone into Every Android Device,http://www.digitaltrends.com/mobile/android-windows-phone-chestburster-dual-booting/,,1381460589.0
+118,6531219,comment,6529948.0,6530404.0,1,0,plorkyeran,,,"Comedy option:<p><pre><code>    - (NSString *)format:(id)first, ... {\n        NSUInteger argCount = 0;\n        BOOL prevPercent = NO;\n        for (NSUInteger i = 0; i < [self length]; ++i) {\n            unichar c = [self characterAtIndex:i];\n            if (prevPercent && c != &",
+119,6531218,comment,6530826.0,6530826.0,1,0,ivan_ah,,,"Okay so hipsters are a problem in Berlin, but it is not like this is not a problem in other cities. Hipsters are a problem everywhere.<p>IMHO a place with 1 falafel sandwiches and 1 beers is a pretty good place in terms of runway  ;)",1381460568.0
+120,6531217,comment,6530641.0,6530865.0,1,0,mindcrime,,,"Sorry, but when I hear a question like this, I can&",
+121,6531216,comment,6529929.0,6531138.0,1,0,officemonkey,,,Fun Fact for Hipster Youth:<p>Zooey Deschanel&,
+122,6531215,story,,,3,0,lettergram,Red Lobster Waitress Gets $10K Tip After Racist Receipt,http://gma.yahoo.com/blogs/abc-blogs/red-lobster-waitress-gets-10k-tip-racist-receipt-152557964--abc-news-Recipes.html,,1381460402.0

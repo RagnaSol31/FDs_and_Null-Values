@@ -1,0 +1,124 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8347294,comment,8346642.0,8346855.0,1,0,diltonm,,,I don&,
+1,8347293,comment,8344124.0,8344124.0,1,0,nonsumdignus,,,"There are these guys with a free offering (for now): <a href=""http://retainly.com/"" rel=""nofollow"">http://retainly.com/</a><p>As well as using apps like Mixpanel to do &quot;basic&quot; success automations such as basic email interactions, etc.<p>There&",
+2,8347292,comment,8346277.0,8347234.0,1,0,tomelders,,,"not if you want to attract the incumbent talent away from London. In the short term at least, the people with the &quot;best&quot; experience will be found in London. Whereby &quot;best&quot; I mean that they will have worked on the biggest projects at the cutting edge.",1411311481.0
+3,8347291,comment,8322796.0,8327808.0,1,0,Houshalter,,,I never said anything about &quot;science&quot;. Only that your accusations are garbage.<p>It&,
+4,8347290,story,,,1,2,DaZMan,Ask HN: How to have a talk with your co-founders about quitting,,Hello everyone<p>I&,
+5,8347289,comment,8344345.0,8346079.0,1,0,cauterized,,,Perhaps cultural imprinting is as much about reinforcing our self-image as it is about impressing our peers?,1411311334.0
+6,8347288,comment,8346277.0,8347213.0,1,0,justincormack,,,"They do exist. The finding people process is very broken. Can guarantee there will be quite a few C programmers at the conference I am organizing <a href=""http://operatingsystems.io/"" rel=""nofollow"">http://operatingsystems.io/</a>",1411311325.0
+7,8347287,story,,,3,0,javinpaul,Difference Between WHERE and HAVING in SQL,http://javarevisited.blogspot.com/2013/08/difference-between-where-vs-having-clause-SQL-databse-group-by-comparision.html,,1411311299.0
+8,8347286,comment,8346642.0,8347193.0,1,0,pjmlp,,,What is platform specific about loading assets?<p>OpenGL is specified as a C API.<p>Such asset loading API could be defined just on top of ANSI C IO functions.<p>What about forcing every single OpenGL developer to write the same set of shader loading/compling/linking code?,1411311196.0
+9,8347285,comment,8346277.0,8347211.0,1,0,justincormack,,,"The contracting market is kind of odd though - people somehow find the money to pay people two to four times as much as their regular employees, on long time contracts, partly because they are not paying enough to get good people as employees. Its broken HR.",1411311103.0
+10,8347284,comment,8346159.0,8346159.0,1,0,calvinbhai,,,doesn&,
+11,8347283,comment,8344417.0,8345627.0,1,0,SixSigma,,,I still don&,
+12,8347282,comment,8344817.0,8347216.0,1,0,chrisseaton,,,I can&,
+13,8347281,comment,8345055.0,8345055.0,1,0,evan_kastl,,,We create collective ISP&,
+14,8347280,comment,8344769.0,8344769.0,1,0,guard-of-terra,,,Can&,
+15,8347279,comment,8334780.0,8344408.0,2,0,WoodenChair,,,&quot;The Customer is Always Right&quot; is an <i>expression</i>.  It&,
+16,8347278,comment,8345881.0,8345999.0,2,0,kevinchen,,,"I made an improved export tool that handles the line endings from OhLife correctly: <a href=""https://github.com/kevin1/OhLife2DayOne"" rel=""nofollow"">https://github.com/kevin1/OhLife2DayOne</a><p>You can use Day One as an OhLife replacement by setting a notification at your email time. Then just write and ignore all the other features.",1411310906.0
+17,8347277,comment,8347114.0,8347257.0,1,0,svisser,,,"Not sure, they weren&",
+18,8347276,comment,8346277.0,8347038.0,1,0,Cor,,,Interesting. Is that doing a direct comparison between Leeds and London?<p>Also - if you don&,
+19,8347275,comment,8344769.0,8345500.0,1,0,DanBC,,,Asking politely doesn&,
+20,8347274,comment,8345881.0,8347074.0,4,0,kevinchen,,,"Since most users only have a few KB of text in OhLife, they could just run the exporter for everyone and then email them the results.",1411310796.0
+21,8347273,comment,8345072.0,8346720.0,1,0,grogers,,,The whole industry has been slowly trending away from eventual consistency. Google proved with spanner that it is possible to do linearizable transactions at mega scale. Even Amazon&,
+22,8347272,comment,8346570.0,8347122.0,2,0,danidiaz,,,"You mean the &quot;pipes&quot; library? I have a bunch of helper functions for pipes & process here:  <a href=""http://hackage.haskell.org/package/process-streaming"" rel=""nofollow"">http://hackage.haskell.org/package/process-streaming</a>",1411310738.0
+23,8347271,story,,,1,2,fujipadam,Ask HN: MariaDB/MySQL Optimization experts or companies?,,I am running a start up and need database optimization expertise. I am running MariaDB 10 and don&,
+24,8347270,comment,8347114.0,8347233.0,1,0,duckingtest,,,>It will be a price that&,
+25,8347269,story,,,123,59,tosh,How many Commodore 64 computers were really sold? (2011),http://www.pagetable.com/?p=547,,1411310677.0
+26,8347268,comment,8344769.0,8346154.0,1,0,DanBC,,,There&,
+27,8347266,comment,8347118.0,8347220.0,14,0,Wilya,,,"Apart from the external-facing proxy (which is the most exposed link in this setup), these VMs don&",
+28,8347265,story,,,12,2,ericax,Show HN: What have you done with the 1000 months in your life?,http://ericaxu.com/calendar/,,1411310582.0
+29,8347264,comment,8346642.0,8346774.0,2,0,shmerl,,,"There is no reason not to have OpenGL there, besides the jerkiness of console manufacturers. Hopefully Steam Machines can put an end to such situation.",1411310576.0
+30,8347263,comment,8346642.0,8347182.0,3,0,twelvechairs,,,"What OpenGL does is hard - to make things worth fast across multiple platforms with backward compatibility. Not like IE which was/is stagnant because of big company sluggishness/exceptionalism, but because its open source trying to do a huge amount with limited resources. There are always higher level platforms if you want something easier to work with, but you sacrifice a little speed.",1411310562.0
+31,8347262,comment,8347118.0,8347118.0,3,0,TomAnthony,,,"If the load balancer is the weak point that would be first to be discovered, then I imagine they must have some mechanism to stop it leaving evidence that leads to the other machines if it were to get raided (it isn&",
+32,8347261,comment,8345242.0,8346235.0,1,0,bbwharris,,,"So after a less than 5 year old grows up, why would they switch to a more antiquated form of search? They now have a level of expectation that voice search works and when it doesn&",
+33,8347260,comment,8346642.0,8346642.0,1,0,shmerl,,,Is there any ETA for OpenGL-next?,1411310465.0
+34,8347258,comment,8344769.0,8347147.0,1,0,Dylan16807,,,Flux can go far past matching incandescent.  I generally set it to get rid of the vast majority of non-red light when activated.  Removing green is more benefit than harm because it overlaps the critical blue range somewhat.,1411310394.0
+35,8347257,comment,8347114.0,8347215.0,1,0,sksa,,,How are they doing?,1411310353.0
+36,8347256,comment,8345802.0,8346862.0,1,0,decentrality,,,"The mind-churn is not anxiety always, but consciousness of the sheer gravity of what you are doing.<p>The &quot;vast spectrum of human misery&quot; exists unless or until someone&",
+37,8347255,comment,8345881.0,8345881.0,2,0,samir0810,,,Any of you guys know what&,
+38,8347254,story,,,26,10,justinnoel,Why you should work for a startup at least once,http://techcrunch.com/2014/09/20/5-reasons-you-should-work-for-a-startup-at-least-once,,1411310339.0
+39,8347253,comment,8347114.0,8347114.0,1,0,md2be,,,Is this a joke?,1411310308.0
+40,8347252,story,,,2,0,Betelgeuse90,Math for Game Programmers – Vector Cheat Sheet,http://higherorderfun.com/blog/2010/02/23/math-for-game-programmers-04-operations-on-vectors/,,1411310302.0
+41,8347251,comment,8347114.0,8347245.0,1,0,sksa,,,By working within the commission charges by Amazon. I know this is hard.,1411310275.0
+42,8347250,comment,8346583.0,8346583.0,1,0,densh,,,"After reading this FAQ I got an impression that language with built-in AST reflection capabilities (i.e. equivalent of quasiquotes) should be considered homoiconic in a sense that the language exposes code as data. For example: Scala [1], Elixir [2] and Julia [3] all have native AST manipulation capabilities. But are those languages homoiconic?<p>[1] <a href=""http://docs.scala-lang.org/overviews/quasiquotes/intro.html"" rel=""nofollow"">http://docs.scala-lang.org/overviews/quasiquotes/intro.html</a><p>[2] <a href=""http://elixir-lang.org/getting_started/meta/1.html"" rel=""nofollow"">http://elixir-lang.org/getting_started/meta/1.html</a><p>[3] <a href=""http://julia.readthedocs.org/en/latest/manual/metaprogramming/"" rel=""nofollow"">http://julia.readthedocs.org/en/latest/manual/metaprogrammin...</a>",1411310208.0
+43,8347249,comment,8342959.0,8344390.0,1,0,hollerith,,,There are entire blocks in the Sunset District of San Francisco that appear to be an almost-flat expanse of concrete.  The concrete is not flat but rather slightly domed (convex).  These are covered reservoirs.,1411310190.0
+44,8347245,comment,8347114.0,8347203.0,2,0,sciguy77,,,How are you going to be able to sell items for less than Amazon?,1411310072.0
+45,8347244,comment,8347114.0,8347222.0,3,0,alanctgardner3,,,Is the goal that the user will enter a binding contract to buy without knowing what they&,
+46,8347243,comment,8346642.0,8347139.0,2,0,ygra,,,"Well, as the recent article about modernizing less showed, such old projects frequently <i>do</i> show their age.",1411310059.0
+47,8347242,comment,8347118.0,8347231.0,1,0,nols,,,"The first time TPB was raided they took a bunch of unrelated servers too.  Not sure how discriminating the police will be next time, regardless of VMs.",1411310052.0
+48,8347241,comment,8345652.0,8345652.0,2,0,Kenji,,,Nothing Carmack does is ever boring. This man is a huge inspiration for me.,1411310045.0
+49,8347239,story,,,2,0,AndriusWSR,8 affordable tools to help optimize for conversion,http://thenextweb.com/dd/2014/09/20/affordable-tools-help-optimize-conversion-understand-users-better/?awesm=tnw.to_c4ggC&utm_source=linkedin.com&utm_medium=referral&utm_content=8%20affordable%20tools%20to%20help%20optimize%20for%20conversion%20and%20understand%20your%20users%20better&utm_campaign=share%20button,,1411310036.0
+50,8347238,story,,,1,0,TonyReinhart,YC's Sam Altman likes 'genuineness' of Waterloo startup scene,http://news.communitech.ca/news/communitech/y-combinators-sam-altman-super-impressed-after-12-hours-in-waterloo-region/,,1411310026.0
+51,8347237,comment,8346159.0,8346869.0,1,0,NDizzle,,,Carry the 1.,1411310001.0
+52,8347236,comment,8344345.0,8347061.0,2,0,philh,,,My argument doesn&,
+53,8347234,comment,8346277.0,8346914.0,2,0,_random_,,,"<i>> creating not only a better deal for ... employees</i><p>Oh, please. They are cutting salaries severely as soon as you leave London.",1411309810.0
+54,8347233,comment,8347114.0,8347223.0,1,0,sksa,,,I think there&,
+55,8347232,comment,8347118.0,8347220.0,5,0,adwf,,,I think only the load balancer would be vulnerable to discovery.  Everything behind the load balancer could be a secure connection to a completely different datacenter if needed.,1411309702.0
+56,8347231,comment,8347118.0,8347220.0,2,0,allegory,,,"If someone is paying the bill, do they really care?",1411309666.0
+57,8347230,comment,8347114.0,8347203.0,2,0,striking,,,Amazon&,
+58,8347229,comment,8347095.0,8347103.0,1,0,jp555,,,cost-reduction is also a function of productivity. We see that - at least since the industrial revolution - every doubling of production reduces cost 20-30%. It&,
+59,8347227,comment,8346159.0,8346159.0,3,0,danohuiginn,,,"Or you could just get their annual accounts from the business registry, and see what they&",
+60,8347226,story,,,6,0,tosh,Vulpes: A functional approach to deep machine learning on the GPU [video],https://www.youtube.com/watch?v=_IFJ4eCBvRo,,1411309542.0
+61,8347225,comment,8346733.0,8346733.0,1,0,mark_l_watson,,,"Interesting that Hong Kong topped the list. I have only spent 1 1/2 days in Hong Kong but I really liked it. A friend moved there about five years ago because he could get long term research funding (for AI) and he seems to like it there.<p>This study is ranking for best cities, interesting enough, but I would like to see rankings of best places to live, in cities or not. I like to visit beautiful cities but live in the mountains.",1411309540.0
+62,8347224,comment,8346159.0,8346159.0,3,0,swombat,,,"Applies to my company (GrantTree), huh.<p>However I know that one of our competitors had 7 employees in their first year and, because they mistakenly published their full accounts, I also know they made just £80k of revenue that year.<p>So it doesn&",
+63,8347223,comment,8347114.0,8347203.0,1,0,duckingtest,,,>But basically the customer would come to the website and tell me what he wants to buy. I&,
+64,8347222,comment,8347114.0,8347210.0,1,0,sksa,,,Things would be sold cheaper than competition and that&,
+65,8347221,story,,,76,18,tosh,Pauseless GC for OpenJDK [video],https://www.youtube.com/watch?v=N5U8zYgAuWI,,1411309443.0
+66,8347220,comment,8347118.0,8347134.0,2,0,crazy1van,,,They may &quot;have no clue&quot; but it seems like that&,
+67,8347219,comment,8344769.0,8347212.0,2,0,allegory,,,Ouch - that sucks badly!,1411309425.0
+68,8347218,comment,8346159.0,8346159.0,7,0,gregpilling,,,"Walmart - $480 Billion revenue, 2.2 million employees, $218,000 per employee per year. \nSo that is a company dealing in physical goods, and it kind of fits.",1411309404.0
+69,8347217,comment,8347114.0,8347203.0,1,0,k__,,,"How do you generate this personal-price?<p>Why should this remove the bartering phase and not transform it to a &quot;hey lets look what prices my friends would get&quot; or alternative services, where people post their personal prices for products to compare them?",1411309361.0
+70,8347216,comment,8344817.0,8345570.0,1,0,dakull,,,Did anyone compile and benchmark it?,1411309347.0
+71,8347215,comment,8347114.0,8347203.0,1,0,svisser,,,That has been done before: see Flubit.,1411309319.0
+72,8347214,comment,8346277.0,8347049.0,1,0,allegory,,,Hursley is mostly a contractor pump these days or &quot;Rational Rats&quot; as we call them.<p>Spot on with the 6 figures comment. It&,
+73,8347213,comment,8346277.0,8347104.0,1,0,allegory,,,It&,
+74,8347212,comment,8344769.0,8346610.0,3,0,DanBC,,,"Feel sorry for these people who have a street light bolted to their house wall by the bedroom windows.<p><a href=""http://imgur.com/osQ0ycb"" rel=""nofollow"">http://imgur.com/osQ0ycb</a>",1411309144.0
+75,8347211,comment,8346277.0,8347185.0,1,0,Nursie,,,I don&,
+76,8347210,comment,8347114.0,8347114.0,1,0,duckingtest,,,I have no idea what&,
+77,8347209,comment,8346642.0,8347165.0,5,0,flohofwoe,,,"Game console APIs have it easy though since they only support a single GPU and a single texture compression scheme. In the OpenGL world it is more tricky, especially on mobile since each GPU vendor used to only implement their own patent-infested compressed texture formats (this useless GPU-vendor-infighting held back OpenGL back more then anything else). And most of the Windows APIs you listed are not part of D3D, but either part of (what used to be) DirectX, or some completely unrelated part of the Windows API, and with this you&",
+78,8347208,comment,8344365.0,8344365.0,1,0,samspenc,,,"I used this extensively during a grad research project almost 6-8 years ago, and for anyone wondering about this, here was what I found:<p>1. Easy to set up / install<p>2. Command line tool - so easy to use in scripts / automation<p>3. Has plugins that let you index almost any file type - PDF, docs, etc.<p>4. If you want to index an unsupported type (say, index images by file name), you write a plugin yourself. Which wasn&",
+79,8347207,comment,8346429.0,8346429.0,1,0,lovamova,,,"Better alternative than Ello at <a href=""http://sublevel.net/"" rel=""nofollow"">http://sublevel.net/</a> which is already a few months old.",1411309052.0
+80,8347206,comment,8342754.0,8342754.0,1,0,awkardpenguin,,,I am also frankly shocked that nobody took the username awkardpenguin before now.,1411309031.0
+81,8347204,comment,8344238.0,8344946.0,1,0,iurisilvio,,,I didn&,
+82,8347203,comment,8347114.0,8347190.0,1,0,sksa,,,I don&,
+83,8347202,story,,,2,0,dnetesn,The Madness of the Planets,http://nautil.us/issue/8/home/the-madness-of-the-planets?utm_source=tss&utm_medium=desktop&utm_campaign=linkfrom_feature,,1411308997.0
+84,8347201,comment,8342754.0,8342754.0,1,0,awkardpenguin,,,Does anybody happen to have the video for this talk? I&,
+85,8347200,story,,,1,0,jrochkind1,Deserting the Digital Utopia,http://www.crimethinc.com/texts/ex/digital-utopia.html,,1411308965.0
+86,8347199,comment,8346277.0,8347086.0,1,0,justincormack,,,"Well it is very hard to hire anyone good at that rate in London. There is a rapid elevator as people go from inexperienced to more useful, so the first few years people should be getting good increases every year.<p>I am aware that there are a whole lot of marginally profitable firms trying to hire at these low rates, and that people do take these jobs, so there is a sort of &quot;going rate&quot;, and there are companies who hire employees at low rates while hiring freelancers at triple rates as if they were permanent staff.<p>There are plenty of junior PHP+mysql developer jobs for example advertised in the 30-40k area, and that is with people paying 10k+ to a recruiter for the &quot;service&quot; - and thats a pretty low end skill with little value added.",1411308952.0
+87,8347198,comment,8346277.0,8347179.0,1,0,Nursie,,,"I lived in London for ten years. There is a buzz, there is always something going on. Then I moved away. Then I came back to work in the west end and the city.<p>It was when I came back I noticed how tired, sick and depressed everyone looked. How long it takes to get anywhere. How crowded the streets are. And seriously, the dust and the smells are horrible.<p>If you&",
+88,8347197,comment,8346159.0,8346159.0,4,0,LeicaLatte,,,lolz,1411308934.0
+89,8347196,story,,,2,0,acmeyer9,Apps for the next 3B people,http://alexcmeyer.com/2014/09/21/apps-for-the-next-3-billion-people/,,1411308915.0
+90,8347195,comment,8346998.0,8346998.0,1,0,ryannutley,,,This is a great little idea. It&,
+91,8347193,comment,8346642.0,8347130.0,4,0,bsenftner,,,That&,
+92,8347192,comment,8346277.0,8347149.0,1,0,walshemj,,,Not my understanding at all and I used to work for a top 5 consulting engineer.<p>Ground workers are the people that prep the ground (ie paddy wi a shovel) a qualified chippy a or sparky is a different matter.<p>Btw did you know that for tech supervisors in mining the going rate for a single shift at the weekend is £2k and that&,
+93,8347191,comment,8345881.0,8345881.0,3,0,nhangen,,,I tried to contact them to see if they&,
+94,8347190,comment,8347114.0,8347114.0,3,0,edent,,,I&,
+95,8347189,comment,8345828.0,8345828.0,1,0,nemoniac,,,What a racket-mode for emacs could really use is support for images in Racket files and for parsing the binary format thar DrRacket reverts to when a file contains images.,1411308670.0
+96,8347188,comment,8345242.0,8346319.0,1,0,VLM,,,I&,
+97,8347187,story,,,4,0,the_children,Yelp fined $450k for violating COPPA,http://arstechnica.com/tech-policy/2014/09/a-not-so-friendly-reminder-from-the-govt-yelp-is-not-for-kids/,,1411308443.0
+98,8347186,comment,8346642.0,8346742.0,3,0,Dylan16807,,,"This is a new API, not a new codebase.  New APIs happen all the time.",1411308413.0
+99,8347185,comment,8346277.0,8347140.0,1,0,bshimmin,,,"I think people who work in technology in the UK - in London at least - are remunerated similarly as well as, if not better than, the other more traditional professions, by which I mean lawyers, doctors, and teachers (the latter were always traditionally paid worse, but are paid a bit better now).  Outside of London, it&",
+100,8347184,comment,8346277.0,8346925.0,1,0,walshemj,,,Can you not get an intra company transfer?,1411308407.0
+101,8347183,comment,8344345.0,8346350.0,1,0,estefan,,,How they&,
+102,8347182,comment,8346642.0,8346957.0,9,0,overgard,,,"Well by that logic, IE is a great browser because a lot of people got some amazing applications to run on it despite the fact that it was a nightmare to develop for...<p>OpenGL is almost like the IE of graphics development. You usually have to support it because it&",
+103,8347181,comment,8346277.0,8346879.0,1,0,walshemj,,,silicone valley in London would be Soho <i>nudge</i> <i>nudge</i>,1411308342.0
+104,8347180,comment,8346733.0,8346733.0,1,0,lazyant,,,I&,
+105,8347179,comment,8346277.0,8347052.0,1,0,walshemj,,,Really London has a buzz all of its own I get a buzz just getting of the train at black friars and looking down river and seeing tower bridge and the globe theatre.<p>I had a drink at lunch Friday on the site of shakespeare&,
+106,8347178,story,,,7,0,jfaxdotorg,Jfax.org – Unraveling the History of J2 Global and Internet Faxing,http://jfax.org,,1411308257.0
+107,8347177,story,,,2,0,chestnut-tree,I dressed like an idiot at London Fashion Week to get street-snapped,http://www.vice.com/read/lfw-street-style-bloggers-942,,1411308256.0
+108,8347176,comment,8346733.0,8346971.0,1,0,blhack,,,I think it&,
+109,8347175,comment,8344345.0,8346556.0,2,0,coldcode,,,"The ads never mention that they actual asked 100 dentists, found 4 who recommended it, added one of the non recommending ones to make it seem less cheesy, resulting in 4 out of 5 that we picked recommending our product. There is no law requiring a mention of the other 95 opinions.",1411308243.0
+110,8347174,comment,8346159.0,8347157.0,1,0,corin_,,,"Actually I just ended the last word with an asterisk (as in to imply I was correcting my parent comment), completely forgot about its use for formatting. Have edited it out now.",1411308242.0
+111,8347173,comment,8346583.0,8346583.0,2,0,k__,,,"I found, that implementing a LISP in a language you know, helps understanding.<p>I saw one which worked with JavaScript arrays and eval(): [&",
+112,8347172,comment,8344345.0,8346079.0,2,0,jonahx,,,> Nobody notices what brand of sneakers you&,
+113,8347171,comment,8345088.0,8346124.0,1,0,pkroll,,,I&,
+114,8347170,comment,8345410.0,8346336.0,2,0,duckingtest,,,">In general, you might be better off always using long unless there is a specific reason not to<p>I don&",
+115,8347169,comment,8341799.0,8343533.0,2,0,Houshalter,,,Stomach acid is pretty awful on your mouth though. And you would never drink raw vinegar.,1411308149.0
+116,8347168,story,,,1,0,mhb,"To Save the Planet, Don’t Plant Trees",http://www.nytimes.com/2014/09/20/opinion/to-save-the-planet-dont-plant-trees.html?&_r=0,,1411308137.0
+117,8347167,comment,8345802.0,8346536.0,1,0,tim333,,,Having had a look at your website I have to say the whole going off the beach in Asia and doing some coding stuff seems quite a good idea.,1411308117.0
+118,8347166,story,,,1,0,Garbage,The reactive manifesto – version 2,http://www.reactivemanifesto.org/,,1411308108.0
+119,8347165,comment,8346642.0,8347128.0,1,0,pjmlp,,,"> What other APIs would that be which offer this functionality?<p>Game console APIs.<p>> In D3D this used to be offloaded into a separate D3DX API, but AFAIK this is no longer supported in Windows8<p>DirectX is now integrated into the Windows SDK and makes use of new APIs:<p>Math is provided via DirectXMath.<p>Shaders can still be combined via Effects.<p>Interactions with the windowing system are done via DXGI.<p>Image loading is done via Windows Imaging Component.<p>> For OpenGL there&",
+120,8347164,story,,,2,0,yiransheng,Reflected smartphone transmissions enable gesture control,http://www.washington.edu/news/2014/09/19/reflected-smartphone-transmissions-enable-gesture-control/,,1411308038.0
+121,8347163,story,,,60,47,mp4box,Can a Computer Replace Your Doctor?,http://www.nytimes.com/2014/09/21/sunday-review/high-tech-health-care-useful-to-a-point.html,,1411308016.0
+122,8347162,comment,8346277.0,8346921.0,2,0,hcho,,,"So how do you suggest they tell someone is really an entrepreneur? Genuine question.<p>£200k is not a very huge amount of money by London standards. Maybe fully loaded cost of 2 senior developers for a year, if you get creative making it stretch.<p>Any threshold below that would effectively be a open doors situation.",1411308015.0

@@ -1,0 +1,147 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10083480,comment,10080680.0,10082646.0,0,0,danieltillett,,,"The reason the companies are cherry picking the results is they know this basic problem exists. Only drugs that have evidence of working at stage I and II progress to stage III.<p>What happens is the drug companies decide at stage III what patients to let into the trial. What they are trying to avoid is anything that will limit the market size once approved. This means they try to skate as close as they can to the effectiveness limit and still get the drug approved.<p>For example, if they have a new cancer drug that they know only works on cancers with certain mutations, what they will try to do is to test the drug in a broad population of patients including those without the mutation. Since for the approval process it does not really matter how effective the drug is (as long as overall it is statically significant) and that you can only market to the population you tested in, you will want to shove in as many “filler patients&quot; as you think the drug can support. Due to the difficulty of designing large trials they often get the filler number wrong. I don’t condone this activity, but this is the commercial reality.<p>More fundamentally the pharmaceutical industry is being crushed between two very powerful forces - the cost of developing new drugs continues to get more expensive every year (mostly thanks to regulations), while the real market for each drug shrinks as sub-populations are identified for each disease. Combine this with a refusal of society and insurance companies to pay ever increasing drug prices and the outlook for the industry is not great.",1439953198.0
+1,10083479,story,,,4,0,dharshanr,"Compare mongodb performance on AWS, Azure and Digital ocean",http://blog.mongodirector.com/comparing-mongodb-performance-on-public-clouds-aws-azure-digital-ocean/,,1439953147.0
+2,10083478,comment,10083111.0,10083414.0,0,0,slyall,,,He certainly couldn&,
+3,10083477,story,,,1,1,nvader,How to make your Go application easy to port,http://blog.klauspost.com/how-to-make-your-go-applications-easy-to-port/,,1439953115.0
+4,10083475,story,,,437,331,lladnar,My husband needed therapy after working for Amazon,http://qz.com/482080/dear-jeff-bezos-i-wish-you-had-asked-for-my-feedback-sooner/,,1439953033.0
+5,10083474,comment,10080415.0,10083271.0,0,0,jordigh,,,"This statement makes no sense. Independence is not a property of dimensions. A set of vectors is said to be independent if the only linear combination of them that is zero is the trivial linear combination. Otherwise, they are dependent.<p>Or do you have a definition of independence for dimensions? That would first require a different definition of dimension. Ordinarily, dimension is just the cardinality of an independent, spanning set (we call this a basis). It is a single number. A linear space does not have a plurality of dimensions, nor do matrices have an associated plurality of dimensions.<p>Please don&",
+6,10083473,comment,10077070.0,10079219.0,0,0,erichsu,,,"Wait a second. The Wikipedia page first says that microwave do not cook from the inside out because the microwaves do not penetrate beyond 1 cm.  but then it says that microwaves really cook by oscillating the magnetic field which jostles around dipoles like the water in food.<p>So does the magnetic field only penetrate very close to the skin, or are all the water molecules inside the food being excited, resulting in the food being cooked indeed from the inside?",1439952984.0
+7,10083472,comment,10082623.0,10083423.0,0,0,alextgordon,,,"For whatsoever a man soweth, that shall he also reap.",1439952980.0
+8,10083471,comment,10080541.0,10082524.0,0,0,hkmurakami,,,Well in the case I saw it was founder minus the shares plus quite good pay.,1439952979.0
+9,10083470,comment,10083111.0,10083267.0,0,0,hyperpallium,,,The problem with leaving oxygen in the room is that someone else will grab it - and burn you alive.\nThe only natural resting place is &quot;right-size&quot;: when you&,
+10,10083469,story,,,3,0,vezzy-fnord,The Linux way; never ever break user experience (2013),https://felipec.wordpress.com/2013/10/07/the-linux-way/,,1439952929.0
+11,10083467,comment,10069953.0,10069963.0,0,0,louthy,,,The &,
+12,10083466,comment,10079169.0,10082185.0,0,0,PsychopompPoet,,,Says the dupe in the novel,1439952859.0
+13,10083465,comment,10083111.0,10083460.0,0,0,Redoubts,,,What was unique about his case? How did he get away with keeping a majority share?,1439952810.0
+14,10083464,comment,10080956.0,10083432.0,0,0,comex,,,"For reference:<p><a href=""https://github.com/swetland/xv6/blob/master/kernel/fs.c"" rel=""nofollow"">https://github.com/swetland/xv6/blob/master/kernel/fs.c</a><p><a href=""https://github.com/weiss/original-bsd/blob/master/old/sh/cmd.c"" rel=""nofollow"">https://github.com/weiss/original-bsd/blob/master/old/sh/cmd...</a>",1439952727.0
+15,10083463,comment,10078928.0,10082451.0,0,0,avifreedman,,,What did you do the recording in?,1439952659.0
+16,10083462,comment,10078967.0,10083121.0,0,0,ejcx,,,As a fastmail customer I&,
+17,10083461,comment,10079210.0,10080661.0,0,0,oofabz,,,"The PC Engines APU is great. Soekris is another hardware company making high-performance BSD-compatible routers:<p><a href=""http://soekris.com/products/net6501-1.html"" rel=""nofollow"">http://soekris.com/products/net6501-1.html</a>",1439952626.0
+18,10083460,comment,10083111.0,10083443.0,0,0,leereeves,,,Most startup founders don&,
+19,10083459,comment,10083326.0,10083326.0,0,0,prawn,,,"For those interested, here are the Summer 2015 startups ranked on Product Hunt: <a href=""http://www.producthunt.com/e/y-combinator-summer-15"" rel=""nofollow"">http://www.producthunt.com/e/y-combinator-summer-15</a>",1439952583.0
+20,10083458,comment,10079169.0,10082924.0,0,0,curun1r,,,"...of cows, pigs and chickens that we slaughter and eat.<p>If people were willing to eat primarily vegetarian, we&",
+21,10083457,comment,10083405.0,10083405.0,0,0,benologist,,,There&,
+22,10083456,story,,,6,1,fspeech,"Kik Raises $50M from Tencent, in Bid to Become ‘WeChat of the West’",http://www.nytimes.com/2015/08/19/business/dealbook/kik-raises-50-million-from-tencent-in-bid-to-become-wechat-of-the-west.html?ref=technology,,1439952553.0
+23,10083455,comment,10082623.0,10083297.0,0,0,daemin,,,You&,
+24,10083453,comment,10069953.0,10073588.0,0,0,louthy,,,"I see comments like this on var all the time, and I just don&",
+25,10083452,comment,10078294.0,10078294.0,0,0,chozero,,,"Tenerife, Spain -> Amsterdam -> SF, California.<p>Founded a company and got selected for a startup accelerator in Amsterdam. Later, wife got a job in SF and we moved here.",1439952461.0
+26,10083451,comment,10081539.0,10083383.0,0,0,KC8ZKF,,,I agree with you as long as we are talking about this <i>blog post</i> and not about Knuth&,
+27,10083450,comment,10080956.0,10083187.0,0,0,andrepd,,,"What about it? If you <i>decide</i> to use a library, then you should learn to use it, no?",1439952445.0
+28,10083449,comment,10082171.0,10082171.0,0,0,greenyoda,,,"Previously: <a href=""https://news.ycombinator.com/item?id=10053959"" rel=""nofollow"">https://news.ycombinator.com/item?id=10053959</a>",1439952432.0
+29,10083448,comment,10080956.0,10082790.0,0,0,andrewchambers,,,"Agreed, the linux kernel isn&",
+30,10083447,comment,10081136.0,10083390.0,0,0,kaitai,,,"A lot of the people teaching Java Programming 101 at Podunk Directional University are making the world a better place. Compare that to actually <i>doing</i> Java programming 101, for instance: teaching is about a lot more than communicating the meaning of syntax.",1439952404.0
+31,10083446,comment,10080956.0,10083288.0,0,0,andrepd,,,I don&,
+32,10083445,story,,,3,0,reitanqild,Warrantless airport laptop search dooms Iran arms sales prosecution,http://arstechnica.com/tech-policy/2015/08/warrantless-airport-laptop-search-dooms-iran-arms-sales-prosecution/,,1439952397.0
+33,10083444,comment,10080065.0,10082823.0,0,0,placeybordeaux,,,Honestly why should someone that is tech illterate really care?<p>Its a pretty big hassle,1439952382.0
+34,10083443,comment,10083111.0,10083298.0,0,0,InclinedPlane,,,"Yeah, so don&",
+35,10083442,story,,,1,0,petethomas,Loan Binge by Graduate Students Fans Debt Worries,http://www.wsj.com/articles/loan-binge-by-graduate-students-fans-debt-worries-1439951900,,1439952354.0
+36,10083441,comment,10080065.0,10082979.0,0,0,ivanca,,,"The NSA should stop the charade and just  buy Google and Facebook already. They already have us by the balls, lets at least make it official and make the world embrace the heroic and always rightful eye of the US government.",1439952345.0
+37,10083440,comment,10079169.0,10079169.0,0,0,boof,,,this article smells funny...,1439952322.0
+38,10083439,story,,,58,42,pramodbiligiri,Upstarts raid giants for talent in Silicon Valley,http://www.nytimes.com/2015/08/19/technology/unicorns-hunt-for-talent-among-silicon-valleys-giants.html?_r=0,,1439952307.0
+39,10083438,comment,10083413.0,10083413.0,0,0,natmaster,,,No. Applied late and I think that&,
+40,10083437,comment,10080956.0,10083109.0,0,0,andrepd,,,What I mean to say is that that isn&,
+41,10083436,story,,,1,0,Arun2009,Redis core implementation,http://key-value-stories.blogspot.com/2015/01/redis-core-implementation.html?view=classic,,1439952144.0
+42,10083435,comment,10079169.0,10082358.0,0,0,refurb,,,You&,
+43,10083434,story,,,1,0,talos,Acoustic Kitty,https://en.wikipedia.org/wiki/Acoustic_Kitty,,1439952118.0
+44,10083433,comment,10078574.0,10078574.0,0,0,nanocyber,,,I was excited until I looked at the images included in the patent application and discovered that the space elevator is made out of paper towel tubes.,1439952107.0
+45,10083432,comment,10080956.0,10082965.0,0,0,kabdib,,,"Read the V6 Unix sources. They are seriously pretty. A file system in maybe a thousand lines of code. A scheduler and swap manager, a TTY layer, and device drivers with nearly no waste. You can read the code in an afternoon and understand it and make changes to it.<p>Even in crusty pre-ANSI C, it&",
+46,10083430,story,,,40,1,MichaelAO,Exploratory computing with Python,http://mbakker7.github.io/exploratory_computing_with_python/,,1439951988.0
+47,10083429,comment,10080065.0,10080065.0,0,0,thebouv,,,Privacy issues aren&,
+48,10083428,story,,,18,5,natmaster,Apply early for Y Combinator if you want to be considered,https://ntucker.true.io/ntucker/apply-early-for-ycombinator-if-you-want-to-be-considered/,,1439951954.0
+49,10083427,story,,,1,0,spking,SaaS Metrics 2.0 – A Guide to Measuring and Improving What Matters (2013),http://www.forentrepreneurs.com/saas-metrics-2/,,1439951950.0
+50,10083426,comment,10078237.0,10083364.0,0,0,WalterGR,,,"Yup.  Slashdot is still one of the ~1,500 most popular sites on the web.",1439951891.0
+51,10083424,comment,10082435.0,10082435.0,0,0,greenyoda,,,"Discussion from two months ago: <a href=""https://news.ycombinator.com/item?id=9672370"" rel=""nofollow"">https://news.ycombinator.com/item?id=9672370</a>",1439951884.0
+52,10083423,comment,10082623.0,10083202.0,0,0,anotherangrydev,,,Tell her that two wrongs never make a right.,1439951877.0
+53,10083422,comment,10079169.0,10082924.0,0,0,rodgerd,,,"We do not have a food supply problem.  We have never had a food supply problem.  We have distribution problems, and allowing a handful of US companies to expand that distribution problem is the stupidest thing humanity could do.",1439951854.0
+54,10083421,comment,10081028.0,10081028.0,0,0,jeremywen,,,"corrected link <a href=""http://1fxapp.com/"" rel=""nofollow"">http://1fxapp.com/</a>",1439951840.0
+55,10083420,story,,,159,60,tambourine_man,Source of the famous “Now you have two problems” quote (2006),http://regex.info/blog/2006-09-15/247,,1439951828.0
+56,10083419,comment,10080621.0,10080621.0,0,0,mtmail,,,It&,
+57,10083418,comment,10082623.0,10083536.0,0,0,waroc,,,"Ashley Madison Database (not parsed): <a href=""http://pastebin.com/9t6DLKm3"" rel=""nofollow"">http://pastebin.com/9t6DLKm3</a>",1439951789.0
+58,10083417,comment,10077618.0,10077618.0,0,0,bossx,,,getting: Uncaught InvalidStateError: Failed to execute &,
+59,10083416,story,,,2,1,overlord_tm,Show HN: Docker-dns – A DNS server for Docker containers,https://github.com/overlordtm/docker-dns,,1439951771.0
+60,10083415,story,,,4,1,nols,Why Are So Many of the World’s Best Companies Run by Indians?,http://foreignpolicy.com/2015/08/18/why-are-so-many-of-the-worlds-best-companies-run-by-indians-google-sundar-pichai/,,1439951764.0
+61,10083414,comment,10083111.0,10083294.0,0,0,noskynethere,,,Can you elaborate a bit more?<p>Could he not do other people&,
+62,10083413,story,,,7,3,scollins,Ask HN: Did you get invited to YC Fellowship interview?,,,1439951750.0
+63,10083412,story,,,1,0,S_A_P,Elon Musk asks users to limit use of local supercharger network,http://m.motortrend.com/wot/1508_report_tesla_model_s_owners_told_to_limit_use_of_local_superchargers.html,,1439951742.0
+64,10083411,story,,,1,0,bra-ket,Hot Chips 2015 with a focus on deep learning,http://www.hotchips.org/,,1439951742.0
+65,10083410,comment,10082517.0,10083391.0,0,0,jimmaswell,,,That edge-case doesn&,
+66,10083409,comment,10083326.0,10083326.0,0,0,bakztfuture,,,If you&,
+67,10083408,comment,10078237.0,10079772.0,0,0,WalterGR,,,"<p><pre><code>    ...then again, most people don&",
+68,10083407,comment,10082785.0,10082785.0,0,0,greenyoda,,,"Discussion currently on front page: <a href=""https://news.ycombinator.com/item?id=10079832"" rel=""nofollow"">https://news.ycombinator.com/item?id=10079832</a>",1439951637.0
+69,10083405,story,,,2,2,cdvonstinkpot,Ask HN: ChromeOS or Windows 10?,,"Hi,<p>I&",
+70,10083404,comment,10083231.0,10083354.0,0,0,michaelZejoop,,,"Regarding the video, on top of submitting on last day, I realized after about a week, with zero views, that I had mistakenly marked my video &",
+71,10083403,comment,10083028.0,10083028.0,0,0,greenyoda,,,"Discussion from 4 days ago: <a href=""https://news.ycombinator.com/item?id=10063659"" rel=""nofollow"">https://news.ycombinator.com/item?id=10063659</a>",1439951472.0
+72,10083402,comment,10083231.0,10083393.0,0,0,jrbaldwin,,,"We hope so, we&",
+73,10083401,comment,10080065.0,10080065.0,0,0,finalight,,,in before &quot;another project that google use it as a toy and then just throw it away if it fails&quot;,1439951446.0
+74,10083400,comment,10078967.0,10079554.0,0,0,geofft,,,"localhost.fbi.gov is a great example. (Also a great way to exfiltrate fbi.gov cookies on a multi-user system, but that&",
+75,10083399,comment,10083111.0,10083111.0,0,0,femto,,,"The &quot;The Product CEO Paradox&quot; is applicable to anyone who leads the development of a product in a growing company, not just the CEO, but the Chief Engineer or CTO as well.  It addresses the question of how to continue to make a useful contribution once the pace of development gets too rapid for a single person to keep up with.",1439951398.0
+76,10083398,story,,,5,0,MaysonL,What the NY Times Didn't Tell You in Its Amazon Workplace Expose,http://www.forbes.com/sites/georgeanders/2015/08/15/what-the-ny-times-didnt-tell-you-in-its-amazon-workplace-expose/,,1439951396.0
+77,10083397,comment,10083231.0,10083354.0,0,0,willholloway,,,"I submitted my application at literally the last minute, and made some big changes at the very end, that resulted in two typos, one being the youtoube video link.<p>I was majorly bummed when I saw the video link was broken, and that I couldn&",
+78,10083396,story,,,50,18,blacksqr,FireTcl: Tcl embedded in Firefox browser,http://wiki.tcl.tk/41658,,1439951342.0
+79,10083395,story,,,28,9,mooreds,How Netflix Reinvented HR (2014),https://hbr.org/2014/01/how-netflix-reinvented-hr ,,1439951322.0
+80,10083394,story,,,4,0,mtcat,Automated Coding of Worker Injury Narratives (2014) [pdf],http://www.bls.gov/iif/measure_autocoding.pdf,,1439951320.0
+81,10083393,comment,10083231.0,10083304.0,0,0,almeidamarcell,,,We received the same. Do you think they are being honest with this one? Maybe we have a chance for the Winter batch.,1439951262.0
+82,10083392,comment,10081526.0,10083277.0,0,0,JayNeely,,,"There are tons. Ghost, Moveable Type, Textpattern, Octopress, Statamic, Craft, PencilBlue, Dropplets, Anchor, Kirby, Expression Engine, Drupal, Lifetype, PivotX, Nibbleblog, Joomla, b2evolution, Publify, Jekyll, BlogEngine.net, Mezzanine... plenty more.",1439951238.0
+83,10083391,comment,10082517.0,10083348.0,0,0,backprojection,,,Plus you can listen to or watch the video while doing otherwise mindless stuff like household chores.,1439951202.0
+84,10083390,comment,10081136.0,10081136.0,0,0,kkkkllll,,,"> Life is too precious and too fleeting to waste my time on bullshit like tenure. I didn’t become a professor to get tenure. I became a professor to make the world better through science. From this day forward, I will spend my time on problems and solutions that will matter. I will make a difference.<p>This is hypocritical and heartless to those who are now starting their careers as scientists. You spent a decade of your life to get to a tenure-track position, and now that decade and the rest of your life are on the balance. You can bullshit all you want about making the world a better place, but you&",
+85,10083389,comment,10080541.0,10083373.0,0,0,dang,,,The HN guidelines ask submitters to use the original title unless it is misleading or linkbait. In the latter cases it&,
+86,10083388,comment,10078237.0,10079650.0,0,0,WalterGR,,,<p><pre><code>    If you want an OSX which doesn&,
+87,10083387,comment,10079169.0,10081886.0,0,0,abrowne,,,"While you can plant fruit seeds, the fruit you&",
+88,10083386,comment,10079832.0,10082791.0,0,0,tzs,,,"I checked the regs, and looks like they may be effectively on the same level.<p>47 CFR 97.301 says that the sharing requirements for hams in 2.390-2.450 GHz are given by 97.303(d), (e), and (p).<p>97.303(e) says: &quot;Amateur stations receiving in the 33 cm band, the 2400-2450 MHz segment, the 5.725-5.875 GHz segment, the 1.2 cm band, the 2.5 mm band, or the 244-246 GHz segment must accept interference from industrial, scientific, and medical (ISM) equipment&quot;.<p>So, hams must accept interference from ISM in that band, which would put hams equal or below ISM on my list...BUT I cannot find anything that says hams must not interfere with ISM, which would indicate hams should be equal or above ISM.",1439951121.0
+89,10083385,comment,10080065.0,10082592.0,0,0,jkestner,,,What _is_ the longest-lived wholly Google hardware out there?,1439951095.0
+90,10083384,comment,10083231.0,10083354.0,0,0,tima101,,,"I got 2-3 clicks on video, average duration: 1 sec =)\nAnd 2 clicks on demo, average duration: 0 sec.\nI guess decision was made based on application. Submitted early, on the 2d day.",1439951073.0
+91,10083383,comment,10081539.0,10083310.0,0,0,fenomas,,,"Oops, you&",
+92,10083382,comment,10081136.0,10083075.0,0,0,_asummers,,,"This is a pretty terrific list, as well.<p><a href=""http://matt.might.net/articles/what-cs-majors-should-know/"" rel=""nofollow"">http://matt.might.net/articles/what-cs-majors-should-know/</a>",1439951022.0
+93,10083381,comment,10079507.0,10082745.0,0,0,Gracana,,,"> And just to be ridiculous, Minspector features a Newton version of a Mac OS 8-style window, complete with zoom, resize, and minimize, so Mac-based Newton programmers will feel right at home.<p>Man, that threw me for a loop. I saw that window and for a moment thought the Newton was way more than I ever realized.<p>[edit] Just finished reading the whole README. What an awesome story. I&",
+94,10083380,comment,10079128.0,10081982.0,0,0,jlarocco,,,I&,
+95,10083379,comment,10079069.0,10081511.0,0,0,i336_,,,* Rapid Google search *<p>... wut<p>* Curious cross-referencing and examination of results *<p>Wow. The situation looks pretty interesting. there are a few options.<p>First of all there&,
+96,10083378,comment,10083313.0,10083313.0,0,0,greenyoda,,,"Previously: <a href=""https://news.ycombinator.com/item?id=10082623"" rel=""nofollow"">https://news.ycombinator.com/item?id=10082623</a>",1439950904.0
+97,10083377,story,,,3,0,bro-stick,Gasoline DualBoost Turbochargers,https://turbo.honeywell.com/our-technologies/gasoline-axial-dualboost-turbochargers/,,1439950873.0
+98,10083376,comment,10078967.0,10082516.0,0,0,Forlien,,,I&,
+99,10083375,comment,10080065.0,10080065.0,0,0,ketralnis,,,"I had an original Google TV. They appear to have all but dropped that project, and in the process my device has become <i>terrible</i> to use. I don&",
+100,10083374,story,,,1,1,WebtestingIO,Internet of Things (IoT) Automated API Testing?,,How do QA professionals automate testing for WebSocket APIs used by Internet of Things (IoT) products? webtesting.io http://www.webtesting.io,1439950805.0
+101,10083373,comment,10080541.0,10081953.0,0,0,sarahkpeck,,,"Interesting, since the TechCrunch article uses the phrase &",
+102,10083372,comment,10079507.0,10079507.0,0,0,Gracana,,,"I had an MP2100, way after it was obsolete (but still ten years ago.) What a neat device. Two PCMCIA slots in a handheld device was pretty cool, and I really liked the notetaking app it had. It was like onenote, but far before its time.<p>I wish I could get an LCD like the one it had, but made with a modern process to perhaps provide better contrast. Monochrome, electroluminescent backlit, fairly large. It would be fun to make a device in the same style but with improved parts.",1439950782.0
+103,10083371,comment,10083231.0,10083354.0,0,0,jacques_chester,,,"With 6,000 applications, the majority are just going to be skimmed. They&",
+104,10083370,comment,10078967.0,10081414.0,0,0,pnathan,,,Pocket + Firefox is a pretty stanky integration. Very unpleasant to have it bundled in.,1439950767.0
+105,10083369,comment,10080621.0,10082877.0,0,0,shoo,,,"yeah. i do not have a great deal of experience in this space, but i have observed enterprise customers happily pay $50k / year for remote support (...which would translate into a few days / month of effort responding to email support requests, etc...).<p>> &",
+106,10083368,story,,,4,0,erickhill,What Happens to Your Body When You Stop Exercising,http://io9.com/this-is-what-happens-to-your-body-when-you-stop-exercis-1724581507,,1439950742.0
+107,10083367,comment,10074245.0,10081490.0,0,0,cweagans,,,What you&,
+108,10083366,story,,,20,3,jonbaer,"Healthy mood spreads through social contact, depression doesn't",http://phys.org/news/2015-08-healthy-mood-social-contact-depression.html,,1439950659.0
+109,10083365,comment,10080065.0,10081528.0,0,0,montecarl,,,My router is a Asus RT-N16. It has a 480 MHz Broadcom BCM4716 chip. It uses 100% of the CPU just do to NAT on my 100 mbps connection. Doing QoS on it is out of the question. As is doing VPN at those speeds.<p>You are right. It isn&,
+110,10083364,comment,10078237.0,10081677.0,0,0,roghummal,,,>amazing<p>It really isn&,
+111,10083363,comment,10078556.0,10082344.0,0,0,JohnTHaller,,,OpenOffice had only 8 commits by 4 authors vs LibreOffice&,
+112,10083361,comment,10078967.0,10081989.0,0,0,justinwr,,,Same thing happened to me in 1998 but in tech school. Good times. ;),1439950546.0
+113,10083359,comment,10080327.0,10083068.0,0,0,jacques_chester,,,"If you want the full stack, you go from Lattice to Cloud Foundry. It gives you service injection, logging, routing and a bunch of other stuff I forget right now.<p>And it doesn&",
+114,10083358,comment,10080065.0,10082845.0,0,0,jkestner,,,False choice. It&,
+115,10083357,comment,10081136.0,10083346.0,0,0,danharaj,,,Well then.,1439950482.0
+116,10083356,comment,10082623.0,10083226.0,0,0,daemin,,,Was there ever any requirement that one be in a relationship to join the site? I&,
+117,10083355,comment,10078967.0,10082374.0,0,0,TheLoneWolfling,,,What am I using that&,
+118,10083354,comment,10083231.0,10083231.0,0,0,natmaster,,,"Guys, a really important thing I noticed here, and please tell me if this is consistent with what you did: Applying late is bad for YC, especially in this fellowship case.<p>I got this rejection letter, and there was no evidence my application was even looked at. I didn&",
+119,10083353,comment,10082517.0,10083348.0,0,0,cmdli,,,"Possibly, but I personally prefer videos to articles, so I don&",
+120,10083352,comment,10083111.0,10083291.0,0,0,teej,,,"&quot;At the same time, he did have SVP-level and VP-level people writing serious, core OS-level code themselves.&quot;<p>I find this fascinating.  How can I find out more?  Which VPs?  Which code?",1439950392.0
+121,10083351,comment,10081526.0,10083277.0,0,0,A010,,,Just for blogging? I&,
+122,10083350,story,,,1,0,archimedespi,I'm continuing ReplicatorG development,https://archimedespi.github.io/2015/08/18/Continuing-ReplicatorG-development.html,,1439950281.0
+123,10083349,story,,,3,0,tristanho,Kik Receives $50M Investment from Tencent at a $1B valuation,http://blog.kik.com/tencent-50-million/,,1439950188.0
+124,10083348,comment,10082517.0,10082517.0,0,0,jimmaswell,,,Much like almost any video that&,
+125,10083347,comment,10083231.0,10083231.0,0,0,jacques_chester,,,"And to think, the odds were still thousands of times better than a regular lottery.",1439950120.0
+126,10083346,comment,10081136.0,10083258.0,0,0,cjbprime,,,Thanks for writing this.<p>> The author certainly spares no effort in praising his partner.<p>Though it appears he did so <i>after</i> being prompted by a (female!) questioner asking what his wife&,
+127,10083345,comment,10082517.0,10083323.0,0,0,timbit42,,,The cells were split into an even grid because that&,
+128,10083344,comment,10079573.0,10083244.0,0,0,danharaj,,,"> Well, you did ask about justifying the sciences, not the other things that go into a toaster.<p>If those other things didn&",
+129,10083343,comment,10083231.0,10083231.0,0,0,omnivore,,,So it begins...,1439950077.0
+130,10083342,story,,,1,0,shawndumas,How to See Your iPhone’s Precise Signal Strength,http://tidbits.com/article/15856,,1439950033.0
+131,10083341,comment,10071695.0,10083131.0,0,0,dredmorbius,,,I get the sense I&,
+132,10083340,story,,,1,0,nashequilibrium,Ask HN: How many contacts do you have in your address book,,How many contacts do you have in your address book and what % have you not met in real life?,1439949921.0
+133,10083339,comment,10080956.0,10082912.0,0,0,TazeTSchnitzel,,,"> You are doing it wrong. You are not supposed to &quot;learn&quot; C++, not entirely.<p>If you aren&",
+134,10083338,story,,,1,0,memebox,Lead iOS Development at Memebox (YC W15),https://jobs.lever.co/memebox/f623326e-7256-4527-a839-f366028171cb,,1439949885.0
+135,10083337,comment,10079832.0,10083130.0,0,0,Karunamon,,,"Thankfully, the law is not C++ and we have this thing called &quot;judgement&quot;.<p>This is unlawful interference, pure and simple.",1439949835.0
+136,10083336,story,,,4,0,prawn,The Definitive Guide to GTFS-Realtime,https://gumroad.com/l/gtfsrt,,1439949828.0
+137,10083335,comment,10079169.0,10082320.0,0,0,gech,,,"What if they lobby against better, safer solutions developed in the future because it affects their bottom line?",1439949817.0
+138,10083333,comment,10083264.0,10083324.0,0,0,uptown,,,Using what as a metric?,1439949747.0
+139,10083332,comment,10083111.0,10083111.0,0,0,marktangotango,,,"Just left an example of this, founder built a product with a core cadre of about 5 developers, after a slow first 5 years, the market caught up, and then sales doubled every year for next 5 years ($100M plus in sales).<p>CEO was highly involved with the product, even led the dev team for several years.  Unfortunately he was little more than an enthusiastic amateur when it came to technical matters, and had strong opinions on how to implement things.  His team was not experienced, so didn&",
+140,10083331,comment,10080065.0,10081528.0,0,0,thenipper,,,Fair enough! I&,
+141,10083330,comment,10079832.0,10082590.0,0,0,vinceguidry,,,You could do that. Just ask people who you see using cell phones and laptops to leave. You don&,
+142,10083328,story,,,1,0,curiousgeek,Federal judge rules OPT extension for STEM students invalid,https://www.insidehighered.com/quicktakes/2015/08/17/judge-invalidates-component-foreign-student-work-program,,1439949631.0
+143,10083327,comment,10083264.0,10083317.0,0,0,scuur,,,What would be the best way you recommend of doing that?,1439949621.0
+144,10083326,story,,,100,38,noteloop,Startups That Launched at YC S15 Demo Day 1,http://techcrunch.com/2015/08/18/hardware-demo-day/,,1439949612.0
+145,10083325,comment,10080065.0,10080447.0,0,0,cthalupa,,,I&,

@@ -1,0 +1,133 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9664223,comment,9664205.0,9664205.0,0,0,tantalor,,,"See also <a href=""http://www.liveleak.com/c/surveillancecameraman"" rel=""nofollow"">http://www.liveleak.com/c/surveillancecameraman</a>",1433487551.0
+1,9664222,comment,9662421.0,9663862.0,0,0,themeekforgotpw,,,"Oh no I meant your area of professional expertise in the area of cyber security. I did not mean this particular hack.<p>> wealth of information on their servers useful for counter intelligence, economic, political and likely even military gain as well<p>Perhaps you could go further and tease out why a US company would have information on their servers useful for counter intelligence, political and likely even military gain - beyond of course the merely mundane trope of suggesting that the algorithms or IP are the reason.<p>I&",
+2,9664221,comment,9663421.0,9663673.0,0,0,pandaman,,,"For once, OpenGL/DirectX drivers contain a shader compiler since the compiled form of shader in these APIs is in IL bytecode and it has to be compiled into the actual ISA code to be able to run on the processors inside the GPU. Such a compiler is pretty complex piece of software and even if it did not have licensed code opening it would expose you to all kinds of patent trolls.<p>Also, the DirectX drivers (and likely OpenGl as well) contain special code paths for many games/apps to improve performance. When they are telling you to download the latest drivers for your new PC game it&",
+3,9664220,comment,9661954.0,9662927.0,0,0,tapirl,,,but not run Java,1433487535.0
+4,9664219,comment,9664015.0,9664183.0,0,0,myhf,,,> I found the title a bit misleading.<p>Don&,
+5,9664218,comment,9661848.0,9661848.0,0,0,tn13,,,Any marginal gains that US might achieve in terms of security are not worth the resources and human liberties they need to sacrifice. Of course for those who are in power there is an incentive to paint a needlessly scary picture take our money and destroy our freedom.<p>I think public schools without bullying would be better and more beneficial objective than protection from terrorists who do not exist.,1433487470.0
+6,9664217,comment,9663415.0,9663905.0,0,0,rakoo,,,> You can&,
+7,9664216,comment,9663415.0,9664042.0,0,0,Sacho,,,Why do you get the sentiment that:\n1) he wants to destroy american spy agencies?\n2) only american spy agencies<p>If we presume his call against the current mass surveilance programs equates with the destruction of the NSA(which I can&,
+8,9664215,comment,9664112.0,9664112.0,0,0,tantalor,,,"This exploit seems pretty insignificant since it supposes the attacker already has root; it gives the attacker persistent root. They already own your machine.<p><i>Microsoft built a great ecosystem around their products and technologies. They invested heavily in education for engineers. Apple, not so much. We are partners with both Apple and Microsoft and these companies behave in different ways. You do not need to knock on Microsoft’s doors, they are open. Apple is different, you have to knock, take a number, join the queue and wait. That’s why there are many more Windows engineers than Mac engineers.</i><p>What&",
+9,9664214,comment,9663421.0,9663991.0,0,0,curiously,,,or do a drop test haha...will my steam machine survive a fall from the 5th floor? subscribe now!,1433487431.0
+10,9664213,comment,9663339.0,9663575.0,0,0,bigiain,,,I make a point of logging in to sites like my local government websites over TOR every now and then to do completely normal and personally identifying things there. I want there to be logfiles full of obviously non evil uses of TOR out there.,1433487383.0
+11,9664212,comment,9657767.0,9660140.0,0,0,exclusiv,,,"Suicide is disrespectful too. Plus, there are insurance implications. If someone commits suicide their heirs don&",
+12,9664211,comment,9662335.0,9663785.0,0,0,gabemart,,,That&,
+13,9664210,comment,9663343.0,9663839.0,0,0,pcwalton,,,My point is that you pay a price for this: LLVM&,
+14,9664209,comment,9660339.0,9660339.0,0,0,danmaz74,,,"Great storytelling, accompanied by a call to action at the end... but right there at the end a big bold button (or link) is missing, you need to figure out that the tech details are from the menu. Make it simpler for the reader!",1433487313.0
+15,9664208,comment,9661954.0,9663894.0,0,0,danieldk,,,"Why does someone bring up game performance when the discussion is about JVM versus native code? Languages with a GC compiled to native code have the same problems, even C/ASM calls can be relatively expensive in languages compiled to native code (e.g. see Go).<p>There are many other classes of applications outside games where a few milliseconds of garbage collection are acceptable. It is no surprise that many server applications are written in JVM languages - the 2x C/C++ performance is acceptable when people get a lot of instrumentation, more safety, etc.",1433487301.0
+16,9664207,comment,9663343.0,9664158.0,0,0,jamii,,,Oh... well that&,
+17,9664206,comment,9663933.0,9664143.0,0,0,calgoo,,,Its all capitalistic mumbo jumbo talk that has created the fear of the Unions. ;)<p>In reality its a mix of the American People&,
+18,9664205,story,,,3,1,chrtze,We are always listening,http://www.wearealwayslistening.com/,,1433487231.0
+19,9664204,comment,9663339.0,9663926.0,0,0,bigiain,,,"Second anec-data point, I&",
+20,9664203,story,,,126,77,dragonne,Almost every Cassandra feature has some surprising behavior,http://blog.parsely.com/post/1928/cass/,,1433487221.0
+21,9664202,comment,9664015.0,9664015.0,0,0,dfabulich,,,"> TLS is NOT desirable for access to public information, except in that it provides an ephemeral form of message integrity that is a weak replacement for content integrity.<p>TLS both encrypts and authenticates the response. Is TLS authentication a &quot;weak replacement&quot; for some other, better &quot;content integrity&quot; system that&",
+22,9664201,comment,9662335.0,9662511.0,0,0,thanatropism,,,"For very low karma accounts, yes. After a while, not noticeably for human operators (I delete my accounts frequently; it gets annoying.)",1433487207.0
+23,9664200,comment,9661954.0,9663300.0,0,0,tapirl,,,golang is the way,1433487154.0
+24,9664199,comment,9653389.0,9662439.0,0,0,gaius,,,"Because the roles obviously <i>were</i> needed. Did you read the article? And they did <i>not</i> know, one guy was even given a raise just before.",1433487009.0
+25,9664198,story,,,12,1,ghosh,How to Minimize Politics in Your Company (2010),http://www.bhorowitz.com/how_to_minimize_politics_in_your_company,,1433486997.0
+26,9664197,comment,9658096.0,9658096.0,0,0,annmeerajohncy,,,My colleagues also want to join is there still spots available??,1433486976.0
+27,9664196,comment,9663203.0,9664011.0,0,0,tdumitrescu,,,Really? FB is one of the perfect examples of how much more execution matters than idea.,1433486908.0
+28,9664195,comment,9664015.0,9664015.0,0,0,meesterdude,,,"> Roy Thomas Fielding (born 1965) is an American computer scientist,[1] one of the principal authors of the HTTP specification, an authority on computer network architecture[2] and co-founder of the Apache HTTP Server project.<p><a href=""http://en.wikipedia.org/wiki/Roy_Fielding"" rel=""nofollow"">http://en.wikipedia.org/wiki/Roy_Fielding</a><p>A good read, and he&",
+29,9664194,comment,9663706.0,9664005.0,0,0,danoctavian,,,Well BitTorrent&,
+30,9664193,comment,9663421.0,9663986.0,0,0,ekianjo,,,"Sorry but gigabytes network simply bring more pixels at once, it does nothing to remove the latency. It&",
+31,9664192,comment,9663014.0,9663871.0,0,0,brongondwana,,,Don&,
+32,9664191,comment,9663421.0,9663694.0,0,0,valgaze,,,It seems like the big gripe with consoles is that there&,
+33,9664190,comment,9663421.0,9664132.0,0,0,vacri,,,"As an aside, playing around with the Oculus Rift was a good experience in different UIs for different use cases. In a tradition PC game the UI elements are around the edge of the screen, so they don&",
+34,9664189,story,,,1,0,ganram,Apple's First Wave of HomeKit Devices Gets Launched Ahead of WWDC 2015,http://www.gizbot.com/gadgets/apple-s-first-wave-homekit-devices-gets-launched-ahead-wwdc-2015-025688.html,,1433486737.0
+35,9664188,comment,9664015.0,9664015.0,0,0,empressplay,,,"100% agree. If you want to ensure the integrity of content, then sign the content. If you want to protect people&",
+36,9664187,comment,9663421.0,9663990.0,0,0,ekianjo,,,"> The entire point of Steam Machines is not to deal with this, just buy the cheapest Alienware, done. If you care about that sort of thing, you buy a different one.<p>Yeah, and then complain that the newest games in 2016 don&",
+37,9664186,story,,,1,0,ganram,MSI's Latest Eye Tracking Laptop,http://www.gizbot.com/gadgets/msi-s-latest-eye-tracking-laptop-will-let-you-play-any-pc-ga-025680.html,,1433486704.0
+38,9664185,comment,9664015.0,9664183.0,0,0,perokreco,,,"No, because you would want to keep the fact that you read something private.",1433486681.0
+39,9664184,comment,9661043.0,9661043.0,0,0,briantmaurer,,,"Excellent article covering climate, energy, and electric vehicles in detail – 25K words worth of detail :D",1433486606.0
+40,9664183,comment,9664015.0,9664015.0,0,0,thwd,,,I found the title a bit misleading.<p>He&,
+41,9664182,comment,9664015.0,9664015.0,0,0,Aloha,,,"Not all information needs to be secure, pure and simple, and individual anonymity is more important for the health of internet culture than all the security in the world.<p>This section covers my feelings on the topic:<p>&quot;TLS does not provide privacy.  What it does is disable anonymous access to ensure authority. It changes access patterns away from decentralized caching to more centralized authority control. That is the opposite of privacy. TLS is desirable for access to account-based services wherein anonymity is not a concern (and usually not even allowed).  TLS is NOT desirable for access to public information, except in that it provides an ephemeral form of message integrity that is a weak replacement for content integrity.&quot;",1433486596.0
+42,9664181,comment,9663421.0,9663822.0,0,0,vacri,,,"Steam Link is for TVs, not computer monitors. TVs talk about 1080 like it&",
+43,9664180,comment,9660098.0,9664057.0,0,0,c22,,,"> Which is only as secure as the door frame it goes into, which usually means: pretty insecure.<p>But the door frame/deadbolt is still more secure than the remote controlled garage door because abusing the former mode of entry is more likely to draw concern from passers by and leaves a permanent record of your passage.",1433486498.0
+44,9664179,comment,9663415.0,9663415.0,0,0,nabeelahmed13,,,"Those mistaking Snowden for being naive and idealistic, note that he <i>may actually believe</i> there has been progress.<p>Sadly, I don&",
+45,9664178,comment,9663421.0,9664147.0,0,0,ekianjo,,,"I think there is still a problem of &quot;not enough developers supporting Linux&quot; - that issue is not completely gone yet, while it has massively improved. The next step is having a stronger adoption from devs + first-citizen kind of performance. But I agree with your sentiment, the improvement has been massive in the past 2 years.",1433486454.0
+46,9664177,comment,9662421.0,9664067.0,0,0,themeekforgotpw,,,"Right, but if there is a system to access your machine without your usual creds and that system gets hacked, that&",
+47,9664176,comment,9662335.0,9662335.0,0,0,lucb1e,,,"Lol, I&",
+48,9664175,comment,9663203.0,9663203.0,0,0,natmaster,,,misleading title,1433486361.0
+49,9664174,comment,9663203.0,9663203.0,0,0,thomasmarriott,,,No.,1433486357.0
+50,9664173,comment,9663415.0,9664053.0,0,0,ekianjo,,,Your question would never make it into any actual survey because it&,
+51,9664172,comment,9663421.0,9664083.0,0,0,an_account_name,,,"But it does have wireless!<p><a href=""http://slashdot.org/story/01/10/23/1816257/apple-releases-ipod"" rel=""nofollow"">http://slashdot.org/story/01/10/23/1816257/apple-releases-ip...</a>",1433486314.0
+52,9664171,comment,9660616.0,9661968.0,0,0,thanatropism,,,"Say what you will about the tenets of National Soup-cialism, at least it&",
+53,9664170,comment,9663343.0,9664038.0,0,0,Manishearth,,,">  There the borrow makes more sense since the value is being created by calling a function on the current solver state.<p>Agreed. And yes, a Cow is better in this case though of course there&",
+54,9664169,comment,9661954.0,9662982.0,0,0,kjetil,,,"Not to detract from your point, but the applet part of Norwegian BankID is now mostly replaced by the new Javascript-based solution.",1433486234.0
+55,9664168,comment,9659482.0,9662689.0,0,0,lucb1e,,,> If you think there isn&,
+56,9664167,story,,,3,0,dsr12,How i hacked Zomato.com to see data of 62.5M users,http://www.anandpraka.sh/2015/06/how-i-hacked-zomatocom-to-see-data-of.html,,1433486217.0
+57,9664165,story,,,2,0,sconxu,Ray Kurzweil: Human brains could be connected to the cloud by 2030,http://www.ibtimes.co.uk/ray-kurzweil-human-brains-could-be-connected-cloud-by-2030-1504403,,1433486215.0
+58,9664164,comment,9662724.0,9662724.0,0,0,levlandau,,,Agree that the bias is to overestimate the power of a name but disagree with the notions that a) the name doesn&,
+59,9664163,comment,9663203.0,9663730.0,0,0,bad_user,,,So patent trolls?,1433486187.0
+60,9664161,story,,,2,0,callmekit,Cognitive Biases in Competitive Programming,http://tcnickolas.blogspot.com/2015/03/cognitive-biases-in-competitive.html,,1433486139.0
+61,9664160,story,,,1,0,jkurnia,Remote volunteer openings at Zidisha (W14 microlending nonprofit),https://www.zidisha.org/volunteer,,1433486123.0
+62,9664159,comment,9654364.0,9658263.0,0,0,darklajid,,,That&,
+63,9664158,comment,9663343.0,9664038.0,0,0,niconii,,,"I think you may have misread that RFC. With my emphasis:<p>> Here is a list of limitations with the current bounds syntax that are <i>overcome</i> with the where syntax:<p>The list is of the limitations of normal bounds, not the limitations of where clauses. This was actually the RFC that <i>added</i> where clauses, and that list was the rationale for doing so.",1433486074.0
+64,9664157,story,,,1,0,anigbrowl,US Govt. data breach tied to theft of healthcare records,http://www.bloomberg.com/news/articles/2015-06-05/u-s-government-data-breach-tied-to-theft-of-health-care-records,,1433486048.0
+65,9664156,story,,,2,0,networked,Pirate code,https://en.wikipedia.org/wiki/Pirate_code,,1433486031.0
+66,9664155,comment,9663203.0,9663904.0,0,0,maxst,,,"> We now employ 10 people and 5 robots.<p>As a time traveler from 1960, I&",
+67,9664152,comment,9654364.0,9659087.0,0,0,darklajid,,,"I cannot talk about anything iOS, I wouldn&",
+68,9664151,comment,9660753.0,9663911.0,0,0,dylanjermiah,,,>Kalanick has a whole &quot;I&,
+69,9664150,comment,9663421.0,9663908.0,0,0,eco,,,You also need access to their servers to download the game. A one time access isn&,
+70,9664149,comment,9662796.0,9664036.0,0,0,k__,,,> there is no end in sight for human wants<p>This is exactly the point.<p>There will probably be markets that don&,
+71,9664148,comment,9664030.0,9664030.0,0,0,greenyoda,,,"Extensive prior discussion: <a href=""https://news.ycombinator.com/item?id=9662421"" rel=""nofollow"">https://news.ycombinator.com/item?id=9662421</a>",1433485870.0
+72,9664147,comment,9663421.0,9663889.0,0,0,bad_user,,,So now we aren&,
+73,9664145,comment,9664102.0,9664102.0,0,0,greenyoda,,,"Extensive prior discussion: <a href=""https://news.ycombinator.com/item?id=9662421"" rel=""nofollow"">https://news.ycombinator.com/item?id=9662421</a>",1433485821.0
+74,9664144,comment,9663094.0,9664035.0,0,0,dylanjermiah,,,Or India,1433485779.0
+75,9664143,comment,9663933.0,9663933.0,0,0,iveqy,,,I&,
+76,9664142,comment,9663014.0,9663871.0,0,0,ngrilly,,,I&,
+77,9664140,story,,,2,0,samsaga2,GamingAnywhere is an open-source clouding gaming platform,http://gaminganywhere.org/index.html,,1433485562.0
+78,9664138,comment,9655693.0,9661198.0,0,0,darklajid,,,What&,
+79,9664137,comment,9660339.0,9663610.0,0,0,BasDirks,,,"Not unusual:<p>Ant: <a href=""http://ant.apache.org"" rel=""nofollow"">http://ant.apache.org</a>\nWasp: <a href=""https://www.waspbarcode.com"" rel=""nofollow"">https://www.waspbarcode.com</a>\nHornet: <a href=""https://www.npmjs.com/package/hornet"" rel=""nofollow"">https://www.npmjs.com/package/hornet</a>",1433485511.0
+80,9664136,comment,9656396.0,9664056.0,0,0,dylanjermiah,,,"In other words, you&",
+81,9664135,comment,9652065.0,9652065.0,0,0,PennyWhistle,,,Every time this debate comes up (online or offline) it really troubles me because I can not help but wonder how can so many smart people be so blissfully ignorant of how the world actually works. I guess this is the engineers &quot;entrepreneur-tunnel-vision-syndrome&quot;.<p>Few notes about Gates and Zuck: I don&,
+82,9664134,comment,9662335.0,9662483.0,0,0,LeoPanthera,,,"Binary files over a 7-bit medium is a very old, long-solved problem.<p>For example, here&",
+83,9664133,story,,,1,0,c3d,5 minutes to build your video capture and processing app,https://www.youtube.com/watch?v=R6kB2RsU6kw&feature=youtu.be&t=4m35s,,1433485324.0
+84,9664132,comment,9663421.0,9663819.0,0,0,jfoster,,,PCs generally don&,
+85,9664131,comment,9661399.0,9662030.0,0,0,zzleeper,,,"The problem is I have 5MM &quot;users&quot; through several years and I want to compute their distance to a set of points that change through time, so I do care a lot about speed.<p>Computing the geodesic distances was slow but not <i>that</i> slow because I used a variation of R* with some caching on top, but I still had to compute around 5MM distances or so.",1433485277.0
+86,9664130,comment,9663933.0,9664045.0,0,0,ratfacemcgee,,,oh my god this is the best comment I&,
+87,9664129,comment,9662421.0,9663930.0,0,0,SixSigma,,,I don&,
+88,9664128,comment,9663343.0,9664100.0,0,0,voltagex_,,,"Apparently Visual Rust [1] is a thing now. VS2015 will support GDB as a debugger, too (!)<p>[1]: <a href=""https://github.com/PistonDevelopers/VisualRust"" rel=""nofollow"">https://github.com/PistonDevelopers/VisualRust</a>",1433485228.0
+89,9664127,comment,9663421.0,9663685.0,0,0,rangibaby,,,Isn&,
+90,9664126,story,,,5,0,walterbell,Apple lawyers ban AltWWDC from streaming WWDC keynote,http://www.cultofmac.com/324966/apple-lawyers-ban-altwwdc-from-streaming-wwdc-keynote/,,1433485216.0
+91,9664125,comment,9662338.0,9662338.0,0,0,mino,,,"> All ISRG keys are currently RSA keys. We are planning to generate ECDSA keys later this year.<p>Why, oh why, not ECDSA from the start?",1433485152.0
+92,9664124,comment,9662421.0,9662421.0,0,0,sgacka,,,"This hit every US news service. How is it so low in points?<p>&quot;breach could potentially affect every federal agency, officials said&quot;<p>I love HN&",
+93,9664123,comment,9663599.0,9663850.0,0,0,gcb0,,,"reddit would be awesome for storing magnet links.<p>post the media description, and then people would comment the magnet links for that and everyone would up/down vote based on if that really is the content advertised or something that does not match the md5, low quality, etc.<p>the only downside is that they archive older threads. defeating the purpose of this research, which is the longevity of data.",1433485132.0
+94,9664122,story,,,3,0,Elef,Launching first search engine to give kids access to age-specific web content,http://wizenoze.com/press_better_place_en,,1433485083.0
+95,9664121,comment,9661399.0,9661989.0,0,0,zzleeper,,,Thanks!!,1433485054.0
+96,9664120,comment,9663249.0,9663578.0,0,0,pgeorgi,,,Since SMM allows for all kinds of things that ring 0 can&,
+97,9664119,comment,9661399.0,9661945.0,0,0,zzleeper,,,Nah just trying to write a paper with GIS data..,1433485001.0
+98,9664118,comment,9663421.0,9663652.0,0,0,jfoster,,,It&,
+99,9664117,comment,9663969.0,9663969.0,0,0,caminante,,,"duplicate<p><a href=""https://news.ycombinator.com/item?id=9638121"" rel=""nofollow"">https://news.ycombinator.com/item?id=9638121</a><p><a href=""https://news.ycombinator.com/item?id=9635554"" rel=""nofollow"">https://news.ycombinator.com/item?id=9635554</a>",1433484903.0
+100,9664115,comment,9663421.0,9663421.0,0,0,Steko,,,That controller really better be awesome because the thing is two years behind the PS/Xbox and will arrive two months after Apple&,
+101,9664114,comment,9663421.0,9664090.0,0,0,awalton,,,"&quot;No wireless. Less space than a Nomad. Lame.&quot;<p>Sounds about right.<p>Most of the games you buy for the PC these days are console ports anyways; they were literally designed to be used with controllers, they just slapped on a keyboard-and-mouse control scheme at the end (or after the original game shipped, in many cases.)<p>And, since it&",
+102,9664113,story,,,2,0,wanghq,Iphone users not able to edit Google spreadsheets,https://productforums.google.com/forum/,,
+103,9664112,story,,,2,1,drewjaja,Mac users exposed by zero-day vulnerability,http://www.arnnet.com.au/article/576772/mac-users-exposed-by-zero-day-vulnerability/,,1433484792.0
+104,9664111,comment,9660098.0,9662432.0,0,0,secabeen,,,"Kwikset has almost completely gone to their new SmartKey system, which uses wafers, and is harder to bump.  It has other vulnerabilities, but bumping isn&",
+105,9664110,comment,9659167.0,9659167.0,0,0,ryan-allen,,,"Ah, this is nice, and fast!",1433484684.0
+106,9664109,comment,9663203.0,9663203.0,0,0,WalterBright,,,Back in the 80&,
+107,9664108,comment,9663969.0,9663969.0,0,0,ratfacemcgee,,,people are acting all like Uber kidnapped these researchers...,1433484624.0
+108,9664107,comment,9663203.0,9663203.0,0,0,wodenokoto,,,Funnily none of the competitors mentioned seems to target Asia. A friend told me of a friend who paid for his exchange in Japan by selling promotional toys and merchandise from Japanese shops to Taiwan.<p>Apparently there are a lot of Japanophiles in Taiwan who are willing to pay a premium for a Japanese mister Donuts toy you get with 5 purchases.,1433484601.0
+109,9664106,story,,,60,58,arnie001,Can your brain really be full?,https://theconversation.com/health-check-can-your-brain-be-full-40844,,1433484580.0
+110,9664105,comment,9663421.0,9663960.0,0,0,blackobelisk,,,"they designed the controller, but yeah he&",
+111,9664104,comment,9663343.0,9663810.0,0,0,bsder,,,"I saw them talking about that, but it&",
+112,9664103,comment,9661848.0,9662411.0,0,0,sdrothrock,,,"Swinging to the other side, would you really want to allow an alphabet soup agency to make a virus or nanotech (a literal &quot;bug&quot;) to infiltrate your body and monitor everything going on with you on the off chance that some nutjob does the same thing?",1433484501.0
+113,9664101,comment,9657271.0,9659967.0,0,0,djeikyb,,,I&,
+114,9664100,comment,9663343.0,9663609.0,0,0,Ruud-v-A,,,"When I tried to write my first program in Rust, I failed miserably. With a strong background in C",
+115,9664099,comment,9663933.0,9664045.0,0,0,DaveSapien,,,Unlikely.,1433484406.0
+116,9664098,comment,9663932.0,9663932.0,0,0,ratfacemcgee,,,thats just what an idea thief would say... ;-),1433484405.0
+117,9664097,comment,9663421.0,9663946.0,0,0,reddotX,,,"Ubuntu 15.04 vs Windows 8.1 : Team Fortress 2 benchmark with a GTX 680 <a href=""https://www.youtube.com/watch?v=dK7uEv8LTYU"" rel=""nofollow"">https://www.youtube.com/watch?v=dK7uEv8LTYU</a>",1433484396.0
+118,9664096,story,,,58,1,signa11,A fresh look at the Linux kernel's device model,http://lwn.net/Articles/645810/,,1433484395.0
+119,9664095,comment,9661954.0,9663596.0,0,0,pquerna,,,"&quot;We&quot;, the royal hacker we, non-Oracle companies, tried, it failed:<p><a href=""http://en.wikipedia.org/wiki/Apache_Harmony"" rel=""nofollow"">http://en.wikipedia.org/wiki/Apache_Harmony</a>",1433484387.0
+120,9664091,comment,9663203.0,9663203.0,0,0,bernardlunn,,,Startups are 1% inspiration and 99% perspiration. His description of running a market experiment is bang on the nail. 99% of ideas will fail. You have to see if market demand actually exists by getting a product out for people to try. During that process people can steal your idea. If you get traction you have to move fast.,1433484351.0
+121,9664090,comment,9663421.0,9663421.0,0,0,gcb0,,,PC games with a joypad that does not have a keyboard.<p>that is lame. extremely lame.<p>Almost as lame as the fact that the xbox controllers when attached to windows box also do not recognize the keyboard attachment.<p>Valve copying microsoft mistakes.,1433484340.0
+122,9664088,story,,,2,0,hoare,Googles Non-Profit Service Launching in Asia,http://techcrunch.com/2015/06/04/google-brings-its-program-for-nonprofits-to-asia/,,1433484328.0
+123,9664086,story,,,2,0,hoare,Does your startup need multi-language landing pages?,http://techcrunch.com/2015/06/04/how-many-languages-does-your-startup-need-to-cover-90-of-customers-worldwide/,,1433484278.0
+124,9664085,comment,9663249.0,9663249.0,0,0,walterbell,,,"Earlier work from the ITL/Qubes team, including SMM attacks:  <a href=""http://invisiblethingslab.com/itl/Resources.html"" rel=""nofollow"">http://invisiblethingslab.com/itl/Resources.html</a>",1433484269.0
+125,9664084,comment,9661954.0,9664046.0,0,0,pron,,,Java bytecode is instructions for a stack machine -- but that&,
+126,9664083,comment,9663421.0,9663694.0,0,0,bau5,,,So it has less space than a Nomad?,1433484173.0
+127,9664082,comment,9662920.0,9662952.0,0,0,briantmaurer,,,"Also, Apple gets a better idea of how many people are watching the live stream if there are fewer multi-viewer streams.",1433484146.0
+128,9664081,comment,9663421.0,9663889.0,0,0,reddotX,,,i&,
+129,9664080,story,,,1,0,bernardlunn,"Bitcoin will save Argentina, or Argentina will save Bitcoin?",http://dailyfintech.com/2015/06/05/bitcoin-will-save-argentina-or-argentina-will-save-bitcoin/,,1433484109.0
+130,9664078,comment,9659606.0,9663387.0,0,0,CONTRARlAN,,,"> Did I slight your favorite conspiracy/paranoia/gun rights site?<p>Again, helpful. I have no particular interest in any sites you&",
+131,9664077,comment,9609200.0,9609200.0,0,0,Calllevels,,,"great list. for fintech i think itbit, moolahsense are worth a mention too.\nAny more fintech in the capital markets space?",1433484007.0

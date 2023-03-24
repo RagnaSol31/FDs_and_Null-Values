@@ -1,0 +1,113 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8301224,story,,,3,0,ecesena,How a hacker is remaking the tights business,http://fortune.com/2014/09/10/pablos-holman-clothing-production/,,1410418778.0
+1,8301223,comment,8299335.0,8299681.0,1,0,krrrh,,,"I think a lot of analysis misses this fact wrt tablets. I might upgrade my ipad2 this year or next, but it feels like it has another 2 or 3 years of life in it, and it won&",
+2,8301221,comment,8300353.0,8301149.0,4,0,LBarret,,,"the game engine was likely c++, and the scripts (Fx, behaviors, etc) were in Lua. It&",
+3,8301220,comment,8301070.0,8301070.0,1,0,sakuraiben,,,Sounds interesting. Hope to hear more.,1410418596.0
+4,8301219,comment,8300432.0,8301164.0,8,0,Danieru,,,"It is that exact line which broke me out of the &quot;this is an objective analysis&quot; trance. It is clear to me the author tried to impartial For that I have to credit him. Yet afterwards the faux-impartiality became grating. I can only conclude he did his best but just does not fully understand Android.<p>Leaving out stuff like water proof-ness, wireless charging, and multi-windows. These are features which in five years we&",
+5,8301218,comment,8299027.0,8300450.0,1,0,jfmiller28,,,Check your privilege driver dude.,1410418560.0
+6,8301217,comment,8291934.0,8295160.0,1,0,buro9,,,"Alas, and it looks really gorgeous too.",1410418524.0
+7,8301216,comment,8300878.0,8300878.0,2,0,shurcooL,,,"Very interesting approach. Like others said, the best way to describe is like using the higher resolution (scaled) mode on a Retina MBP.<p>I wanted to share pxcalc [1] for anyone doing DPI/PPI calculations, please be aware it exists (and it&",
+8,8301215,comment,8300165.0,8301103.0,2,0,adamnemecek,,,"Rust actually has an optional GC. Also, even non-GC code in Rust is a lot different than say in C++ since the compiler can point out a lot of memory leaks to the programmer.",1410418395.0
+9,8301214,comment,8299443.0,8300132.0,0,0,skrebbel,,,"What does being fat, bald and bearded have to do with race?",1410418292.0
+10,8301213,story,,,8,3,matts9581,SEO and HTTPS: Does HTTPS Help Your Rankings?,http://www.orbitmedia.com/blog/does-https-help-your-rankings/,,1410418267.0
+11,8301212,comment,8299581.0,8299581.0,1,0,davedx,,,Yay! I&,
+12,8301211,comment,8299335.0,8299335.0,4,0,lispm,,,"A watch which does need charging once a day with a special charger, which is not very robust, very clunky, with a UI for kids for 350+?<p>No way.<p>Apple targets the fashion market. Material might be great, but the form factor is horrible: big, clunky, ...<p>Basically Apple tries to sell a very tiny computer add-on in a jewelry case.<p>Currently I&",
+13,8301210,comment,8300704.0,8300704.0,3,0,rahimnathwani,,,&,
+14,8301209,comment,8290067.0,8294614.0,0,0,gaylemcd,,,"FYI (not really relevant for your post, but useful for people to know) -<p><i>Gender</i> is the protected class, not women. This means that it&",
+15,8301208,comment,8298766.0,8301065.0,2,0,matthewmacleod,,,"<i>Unable to process sugar, their kidney turns it into fat</i><p>Kidneys do not turn sugar into fat.<p><i>restrict carbs to a minimum and without a diet they will slowly lose the weight</i><p>That <i>is</i> a diet. They will lose weight if they consume fewer calories than they spend.<p>This nonsense is a great example of the awful ideas that people have about dietary science, and how poorly the truth is being communicated.",1410418212.0
+16,8301207,comment,8297660.0,8300993.0,1,0,ayanonagon,,,"Nice catch, thank you. I&",
+17,8301206,comment,8298155.0,8299187.0,1,0,bane,,,Why don&,
+18,8301205,comment,8297915.0,8301044.0,1,0,sahat,,,That&,
+19,8301204,comment,8301189.0,8301189.0,0,0,bobandbob,,,"I find this extremely relevant to software engineers practicing in the fairy city of San Francisco, CA =><p><a href=""http://www.youtube.com/watch?v=OO18F4aKGzQ"" rel=""nofollow"">http://www.youtube.com/watch?v=OO18F4aKGzQ</a><p>We make obscene amounts of cash in comparison the rest of the country and for what - to contribute more to murdering the everliving fuck out of everyone.",1410418174.0
+20,8301203,story,,,2,0,Kallynx,Compiling native libraries for Android L,http://vinsol.com/blog/2014/08/19/compiling-native-libraries-for-android-l/,,1410418148.0
+21,8301202,comment,8300454.0,8301099.0,2,0,whoopdedo,,,The punishment of losing a license is one reason I think self-driving cars should be allowed to operate without one. It would be locked into automatic mode or allow a restricted (low speed only) manual mode for emergencies.<p>This would also help the elderly or disabled who would not be able to pass a driving test.,1410418105.0
+22,8301201,comment,8301193.0,8301193.0,1,0,spountzy,,,"From 2013, but still kind of valid...",1410418098.0
+23,8301200,comment,8301189.0,8301189.0,1,0,bobandbob,,,Before you ask if this is Off Topic - is it really?<p>If it&,
+24,8301199,comment,8297091.0,8300542.0,3,0,pjmlp,,,"I am on mobile right now,  but I would say Oberon (a bit basic), Haskell, Go, OCaml (not sure), JavaScript and all commercial implementations of Smalltalk and Common Lisp.<p>Ah, regarding .NET there are a few commercial profilers out there besides what Microsoft offers. Like the JVM, the CLR exposes an API for such kind of tooling.",1410418043.0
+25,8301198,comment,8297660.0,8300408.0,1,0,anatoly,,,> (λ x . (x x)) (λ x . (x x))<p>This shows an infinite loop in lambda calculus evaluation. It can be arrived at independently (and I&,
+26,8301197,comment,8299335.0,8300351.0,2,0,visarga,,,Covert tactile communication / notification. Imagine a poker game.,1410418022.0
+27,8301196,comment,8299511.0,8300113.0,2,0,lordnacho1980,,,"IMO that kind of term is anti-competitive and should not be legal. Uber markets itself as a free market alternative to the old cab monopolies, so why are they doing things like this?",1410417983.0
+28,8301195,comment,8301070.0,8301070.0,2,0,seanccox,,,"Paint me interested, but what basic skills are you expecting from the beginning?",1410417977.0
+29,8301194,comment,8300619.0,8300963.0,2,0,pyre,,,"Must depend on where you are. See this:<p><a href=""http://portlandnursery.com/events/appletasting.shtml"" rel=""nofollow"">http://portlandnursery.com/events/appletasting.shtml</a><p>If they can procure 60 varieties, then it&",
+30,8301193,story,,,3,1,matts9581,Thoughts on TechCrunch Disrupt,http://uncrunched.com/2013/10/29/thoughts-on-techcrunch-disrupt/,,1410417972.0
+31,8301192,comment,8274414.0,8274414.0,1,0,imikushin,,,Sounds like fun!,1410417879.0
+32,8301191,comment,8298766.0,8300895.0,1,0,astrange,,,"Sure, why not? There&",
+33,8301190,story,,,3,0,thijser,Amazon WebPay shutting down,https://payments.amazon.com/help/76056,,1410417788.0
+34,8301188,story,,,2,1,leoncrutchley,Siri what song is this? The ios 8 GM doesn't have a clue,http://9to5mac.com/2014/09/10/siri-what-song-is-this-the-ios-8-gm-doesnt-have-a-clue/,,1410417752.0
+35,8301187,comment,8300432.0,8300432.0,43,0,buro9,,,"If you follow Benedict Evans on Twitter then you know that he is something of an Apple fan boy, so it&",
+36,8301186,comment,8297660.0,8299531.0,3,0,anatoly,,,Why? Is it unreasonably difficult for you to implement recursion via direct self-reference in your language? Or do you just not want to because the Y combinator is there and it&,
+37,8301185,comment,8300619.0,8300619.0,2,0,hoggle,,,Vote with your wallet. Lots of variety has been lost forever because old breeds haven&,
+38,8301184,comment,8300353.0,8300902.0,3,0,snogglethorpe,,,"Is the portion of the code the user can hack being run in a separate sandboxed execution context, or can the user really change <i>everything</i> written in Lua should he try hard enough...?",1410417613.0
+39,8301183,comment,8297660.0,8299402.0,1,0,anatoly,,,">derives automatically and inevitably from just basic rewrite rules.<p>Sorry, I don&",
+40,8301182,comment,8295102.0,8295775.0,1,0,rasz_pl,,,"it has my ancient password from ~2008 for<p><a href=""http://login.aeriagames.com/user"" rel=""nofollow"">http://login.aeriagames.com/user</a><p>That company went under 4-5 years ago, and I seem to remember few forum (phpbb afaik) software/database breaches at the time.",1410417598.0
+41,8301181,story,,,2,0,leoncrutchley,30% of US households stuck in dial up hell,http://venturebeat.com/2014/06/27/30-of-u-s-households-stuck-in-dial-up-hell/,,1410417551.0
+42,8301180,comment,8301070.0,8301070.0,2,0,davidjnelson,,,Maybe!  What are the details?,1410417528.0
+43,8301178,comment,8300619.0,8300888.0,1,0,pyre,,,"Ambrosia is pretty good too.<p>If you are in or near Portland, they do there is an annual apple tasting event:<p><a href=""http://portlandnursery.com/events/appletasting.shtml"" rel=""nofollow"">http://portlandnursery.com/events/appletasting.shtml</a>",1410417515.0
+44,8301177,comment,8300878.0,8301086.0,3,0,vor_,,,"CoreGraphics uses points, not pixels. Experienced Cocoa developers know to make sure their drawing is done on pixel boundaries to avoid blurry edges, and there are APIs to help with this.",1410417505.0
+45,8301176,comment,8300945.0,8300945.0,3,0,djfumberger,,,All existing apps will be rendered into the current 320x568 frame buffer and scaled up. It&,
+46,8301175,story,,,87,19,kfihihc,Open Source All-in-One Wireless Development Board,http://www.seeedstudio.com/depot/LinkIt-ONE-p-2017.html,,1410417475.0
+47,8301174,comment,8300878.0,8300878.0,0,0,bsimpson,,,"Is DPI really a term in the iOS community?  I thought DPI was a holdover from the print-era, and the politically-correct term was PPI (pixels-per-inch - not &quot;physical&quot; pixels per inch).<p>I&",
+48,8301173,comment,8301041.0,8301041.0,1,0,source99,,,Sin PI = 0.05480366514879,1410417327.0
+49,8301172,comment,8301069.0,8301069.0,1,0,bigiain,,,BREAKING: Buggy whip maker laughs off newly launched automobile saying &quot;it doesn&,
+50,8301171,comment,8294361.0,8299235.0,1,0,pjmlp,,," OCaml, F",
+51,8301170,comment,8300432.0,8300783.0,2,0,zanny,,,"I was recently torn between a Republic Wireless Moto G and a Freedompop Galaxy S4.<p>I went with the later, because while it was twice as expensive, I liked the screen size, LTE, camera, etc a lot more. And I think it was worth it, especially considering my phone bill is $0 rather than $6 / month. I can always buy more on demand if I need any beyond the flat 200 minutes a month, but so far that has not been the case. It probably will be around Christmas, though.",1410417039.0
+52,8301168,story,,,4,1,RachelF,Mechanical calculators: computing without electricity,http://www.lowtechmagazine.com/2008/05/computers-antiq.html,,1410416972.0
+53,8301167,comment,8301041.0,8301041.0,5,0,CyberFonic,,,Did you make sure you were using radians and not degrees?  Seems fine for me.,1410416961.0
+54,8301166,comment,8300997.0,8301156.0,1,0,ChaoticGood,,,"This one is not out of stock, but the wheat one has so much more panache.\n<a href=""http://www.betabrand.com/red-reflective-infinity-bike-scarf.html?r=D5"" rel=""nofollow"">http://www.betabrand.com/red-reflective-infinity-bike-scarf....</a>",1410416911.0
+55,8301164,comment,8300432.0,8300982.0,12,0,psychometry,,,">You can get a bigger screen, you can change the keyboard, you can put widgets on the notification panel (if you insist) and so on. Pretty much all the external reasons to choose Android are addressed<p>It wouldn&",
+56,8301163,comment,8301070.0,8301070.0,1,0,desertjedi,,,"Hi, I&",
+57,8301162,comment,8300112.0,8301060.0,1,0,adodson,,,"Yes, but its a pretty arduous task digesting and implementing API docs. That pain was the impetus to standardize them into the HelloJS library.",1410416845.0
+58,8301161,comment,8299360.0,8300163.0,2,0,cdcarter,,,It&,
+59,8301160,comment,8300878.0,8301125.0,14,0,retroencabulato,,,Did you even read the article?,1410416813.0
+60,8301159,comment,8300878.0,8300878.0,4,0,psychometry,,,"And with all this added screen real estate, you&",
+61,8301158,comment,8300619.0,8300619.0,4,0,rpupkin,,,"The red delicious is a metaphor for the U$D.  This is the work of Bolsheviks advocating flight from the dollar toward a new reserve currency, concealed as harmless information. Eden&",
+62,8301157,comment,8300878.0,8301137.0,10,0,vyshane,,,"iOS has always been able to do fluid layouts. It was possible with Springs and Struts (though a PITA), and from iOS 6 onwards has Auto Layout, which I personally find better (more declarative) than Android&",
+63,8301156,comment,8300997.0,8300997.0,1,0,ChaoticGood,,,"<a href=""http://www.betabrand.com/tan-reflective-infinity-bike-scarf.html?r=D5"" rel=""nofollow"">http://www.betabrand.com/tan-reflective-infinity-bike-scarf....</a>",1410416743.0
+64,8301155,comment,8300327.0,8300327.0,1,0,bsdshepherd,,,"After the age of 50, shitting your pants after an apple is a distinct possibility. Not that I&",
+65,8301154,comment,8296879.0,8298837.0,2,0,delackner,,,I&,
+66,8301153,comment,8300207.0,8300862.0,1,0,priyadarshy,,,We&,
+67,8301152,comment,8297996.0,8297996.0,1,0,jalanb,,,"That was a nice interruption to work which was nearly starting over at <a href=""https://pym.readthedocs.org/"" rel=""nofollow"">https://pym.readthedocs.org/</a> But I really have to write some code.<p>Saved for later: <a href=""https://github.com/jalanb/pym/commit/4d5df8fd328d1c71de1a519171f380e4dcfbfb11"" rel=""nofollow"">https://github.com/jalanb/pym/commit/4d5df8fd328d1c71de1a519...</a>",1410416558.0
+68,8301151,story,,,2,0,sjclemmy,The ultimate maker project,http://www.buildtheenterprise.org,,1410416497.0
+69,8301149,comment,8300353.0,8300353.0,1,0,riffraff,,,grim fandango was written in lua? :O,1410416372.0
+70,8301148,comment,8300945.0,8300945.0,2,0,interpol_p,,,"This is really interesting, it means that non-iPhone 6 apps are tricked into thinking they are rendering into a 320x568 logical buffer; but really a fractional scaling is applied to the UI views so that things like text labels and buttons render crisply into the larger resolution of the device without the app needing to be updated at all.",1410416357.0
+71,8301147,comment,8300619.0,8300799.0,4,0,nshepperd,,,"Might be related to the childhood preference for sweet foods - apparently Red Delicious has high amounts of sugar, relative to other apple varieties. For example, 14.8% sugar for &quot;Early Red&quot; variety[1], vs 10.4% average over all kinds[2]. Maybe this is enough to explain it?<p>[1]. <a href=""http://www.researchgate.net/publication/49591548_Compositional_Characteristics_of_Fruits_of_several_Apple_(Malus_domestica_Borkh.)_Cultivars/links/0deec51e784d64eb92000000"" rel=""nofollow"">http://www.researchgate.net/publication/49591548_Composition...</a><p>[2]. <a href=""http://www.wolframalpha.com/input/?i=1+apple"" rel=""nofollow"">http://www.wolframalpha.com/input/?i=1+apple</a>",1410416351.0
+72,8301146,comment,8300664.0,8300975.0,2,0,MediaSquirrel,,,"yes, working families.",1410416308.0
+73,8301145,comment,8300112.0,8301090.0,1,0,adodson,,,"PassportJS = NodeJS authentication, designed for single sign-on.<p>HelloJS = Browser + Phonegap authentication and API request handling designed to interact with thirdparty services from the client app.",1410416299.0
+74,8301143,comment,8300878.0,8301137.0,15,0,cmelbye,,,This isn&,
+75,8301142,comment,8300112.0,8300112.0,5,0,reubano,,,"Hmm, I don&",
+76,8301141,comment,8300664.0,8300664.0,2,0,mrchess,,,> &quot;Alfred will head over weekly... and replace supplies... like putting new paper towels on towel holder&quot;<p>I find it funny that this is considered a problem these days.,1410416242.0
+77,8301140,comment,8300878.0,8301086.0,11,0,zaksoup,,,"I fail to see how not having a working scalable UI framework has anything to do with this.<p>Furthermore, have you used auto layout in Xcode 6? Not sure what about it doesn&",
+78,8301138,story,,,2,0,jonbaer,Quantum Harmonies: Modern Physics and Music,http://www.pbs.org/wgbh/nova/blogs/physics/2014/09/quantum-harmonies-modern-physics-and-music/,,1410416106.0
+79,8301137,comment,8300878.0,8301112.0,4,0,moca,,,"iOS apps use fixed layout, so they can&",
+80,8301136,comment,8298766.0,8300477.0,2,0,khc,,,What if the sensors are inside the toilet?,1410416051.0
+81,8301135,comment,8300165.0,8301012.0,5,0,mattlam,,,"At 48:10, the presenter briefly talks about the plausibility of using F",
+82,8301134,comment,8300619.0,8300619.0,2,0,AlyssaRowan,,,The Red Delicious is a <i>terrible</i> apple. Waxy and mushy and watery.<p>Try a Worcester Pearmain if you get a chance.,1410415994.0
+83,8301133,comment,8299335.0,8299335.0,1,0,_pmf_,,,"The digital crown will snap off, and people will be pissed.",1410415984.0
+84,8301132,comment,8301070.0,8301070.0,1,0,baocin,,,"Sounds fun, will follow.",1410415978.0
+85,8301131,comment,8300878.0,8301086.0,7,0,cmelbye,,,I don&,
+86,8301130,comment,8298155.0,8299186.0,1,0,mturmon,,,"Come on, speed limits?  Almost no drivers consistently obey posted speed limits.<p>My comment, which was partly satirical, was trying to point out that you&",
+87,8301129,comment,8300112.0,8300773.0,1,0,reubano,,,"1. NPM is used for installing bower [1], a package manager for client side libraries.<p>[1] <a href=""http://bower.io/"" rel=""nofollow"">http://bower.io/</a>",1410415946.0
+88,8301128,story,,,3,0,oska,Amazon WebPay to shut down on October 13,https://payments.amazon.com/help/Personal-Accounts/WebPay-FAQ,,1410415937.0
+89,8301127,comment,8300664.0,8300664.0,1,0,mathattack,,,At least the name is kind of cool.  I was hoping they&,
+90,8301126,comment,8300878.0,8301086.0,21,0,interpol_p,,,"As the sibling comment states, iOS has used logical points from the very first retina device. And even before then it has never used integers for its UI toolkit coordinate system — there was always the support for fractional coordinates.<p>The point of the article is that the iPhone 6+ renders to a larger offscreen buffer and then downscales to a 1080p panel. This is the same as the higher resolution modes on Retina Macbook Pros.",1410415904.0
+91,8301125,comment,8300878.0,8300878.0,4,0,higherpurpose,,,Oh god not another &quot;Apple made the iPhone 3.5&quot; which is the <i>perfect size</i>&quot; type of post.<p>There&,
+92,8301124,comment,8299523.0,8301046.0,2,0,broodbucket,,,>unfortunately Mir and SurfaceFlinger<p>I don&,
+93,8301123,comment,8296043.0,8296043.0,1,0,lazylizard,,,i hear rice warehouses prefer to keep snakes. they eat the mice clean whereas cats often leave carcasses about.,1410415759.0
+94,8301122,comment,8300112.0,8301090.0,1,0,reubano,,,"Passport is sever and side meant for use with nodejs [1]. This is client side for use with bower [2].<p>[1] <a href=""http://nodejs.org/"" rel=""nofollow"">http://nodejs.org/</a>\n[2] <a href=""http://bower.io/"" rel=""nofollow"">http://bower.io/</a>",1410415743.0
+95,8301121,comment,8300878.0,8300878.0,5,0,veidr,,,"As an end user, I&",
+96,8301120,comment,8300878.0,8301086.0,3,0,moca,,,"Android UI system still uses pixel in many places, such as MotionEvent.getX(). It should just use DIPs everywhere, which would significantly cut coding complexity.",1410415717.0
+97,8301119,comment,8299335.0,8300494.0,1,0,zarify,,,That&,
+98,8301118,comment,8300460.0,8300460.0,2,0,bsdshepherd,,,"The good points:<p>Long hours, for one. Established companies will often accumulate 8-5&",
+99,8301117,comment,8298607.0,8298607.0,1,0,osmala,,,The interesting question is that can he run X server locally in 4k 120hz mode. \nThe next interesting question is that can someone hack drivers to give ethernet over HDMI cable. Or atleast forward X commands from application running on desktop to monitor.,1410415645.0
+100,8301116,comment,8291934.0,8300383.0,1,0,gress,,,People do not wear ties because they look good.  They wear them because of antiquated social convention.,1410415611.0
+101,8301115,comment,8300619.0,8300888.0,2,0,jimworm,,,Eve is another must-try in my book. I haven&,
+102,8301114,comment,8300619.0,8300819.0,8,0,jemfinch,,,I&,
+103,8301113,comment,8300812.0,8300812.0,18,0,kijin,,,"Apart from a few isolated statements that suggest using fans together with ACs (which, of course, is a totally reasonable thing to do), the overall tone of the article is very much &quot;AC = evil, fan = cool.&quot;<p>Unfortunately, fan-only cooling only works in a narrow range of climates.<p>> <i>For instance, instead of cooling down a space to 24°C (75°F), the aircon can cool it to 29°C (84°F), which is a comfortable temperature if combined with fans.</i><p>Whether or not 29°C can be considered a &quot;comfortable temperature&quot;, even with fans, depends a lot on other factors, the most important of which is humidity. 29°C at 30% humidity is very different from 29°C at 90% humidity. The former is common in Europe and the American West. The latter is much more common in the Southeast, as well as the majority of newly industrialized countries such as China and India.<p>Try installing a radiant cooling system in one of those hot & humid places. See all that condensation on the walls? That&",
+104,8301112,comment,8300878.0,8301086.0,21,0,vyshane,,,"iOS uses logical points, i.e. a DIP on Android.<p>As for iOS&",
+105,8301111,comment,8300619.0,8300992.0,2,0,letney,,,I absolutely love Envy apples!<p>They are very crisp and sweet without the tart flavor other crisp varieties seem to have. They also don&,
+106,8301110,story,,,19,1,avinassh,Making $300k from a Programming Book,https://www.discovermeteor.com/blog/discover-meteor-case-study/,,1410415308.0
+107,8301109,comment,8299335.0,8301023.0,1,0,derefr,,,It&,
+108,8301108,comment,8299335.0,8300146.0,1,0,mosheroperandi,,,"There still is: <a href=""http://en.wikipedia.org/wiki/WWVB"" rel=""nofollow"">http://en.wikipedia.org/wiki/WWVB</a><p>I remember having a cheap Timex in the mid 2000s that synced off this. I found it a great improvement to the watch experience; my synchronization source of choice before that was a wall clock also powered off that same signal. I also have vague memories of a phone number you could call to get the accurate time.",1410415301.0
+109,8301107,comment,8291934.0,8295244.0,1,0,gress,,,They were the first company to make a successful mouse based computer.  What are you claiming is a lie?,1410415290.0
+110,8301106,comment,8299360.0,8300851.0,1,0,colmvp,,,It&,
+111,8301105,story,,,3,0,dhimant,All we do is share positive news. Look what it's done,https://medium.com/@dhimant/just-sharing-positive-stories-can-create-large-impact-heres-the-evidence-41084626def5,,1410415223.0

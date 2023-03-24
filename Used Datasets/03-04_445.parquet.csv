@@ -1,0 +1,98 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8343647,comment,8343487.0,8343639.0,1,0,techtivist,,,It&,
+1,8343646,story,,,5,0,rdtsc,Joe Armstrong – Functional Programming the Long Road to Enlightenment,http://vimeo.com/97329186,,1411185577.0
+2,8343645,story,,,1,0,xtacy,10B Parameter Neural Networks in Your Basement [video],http://on-demand.gputechconf.com/gtc/2014/webinar/gtc-express-acoates-webinar.mp4,,1411185566.0
+3,8343644,comment,8339263.0,8340986.0,2,0,gregpilling,,,I kind of like the manic part. I get so much done. The depressed part I don&,
+4,8343643,comment,8343487.0,8343635.0,1,0,kungfoo,,,Cool. Good to know.,1411185516.0
+5,8343642,comment,8339667.0,8339667.0,1,0,sergiotapia,,,"Yes, I really enjoy some iced johnny walker black on fridays after a long productive week. :)",1411185450.0
+6,8343641,comment,8341513.0,8343564.0,3,0,quesera,,,"> The impact of having a baby in our careers was insignificant.<p>That depends entirely upon your minimum standards of parental involvement. Many would argue that the wet nurse/live-in nanny set qualify more as custodians than <i>parents</i>, per se.<p>To each his and her own, but you&",
+7,8343640,story,,,6,1,yiransheng,OneDrive now offers 30 GB of free storage,http://www.wpcentral.com/dont-delete-your-apps-or-photos-onedrive-now-offers-30-gb-free-storage,,1411185437.0
+8,8343639,comment,8343487.0,8343487.0,1,0,cperciva,,,Dumb question from an out-of-towner: Does it make sense to stay in a hotel somewhere in the Mountain View / Sunnyvale / Cupertino area and use Uber to get around?  I&,
+9,8343638,comment,8342764.0,8343447.0,2,0,tzs,,,"Android 1.0 went to market in September 2008, two months AFTER Apple&",
+10,8343637,story,,,1,5,reallycurious,Ask HN: What could be putting limit on user engagement?,,"My SaaS product extracts data from pdf files. Free trial gets users 10 free extractions. Paying users get 100 jobs. User logs into dashboard, uploads pdf, and downloads the extracted data. That is one job.<p>While observing 50 users so far I notice that the user engagement seems to terminate after they run the job for the first time. Even if it is successful. Some users run it a few more times but the result is the same, they leave and never come back or they come back run a job and leave again. Another observation is that 30 out of 50 users never created any jobs (they must label the pdf using the web app before extraction can happen, I explain how to do it in the demo video).<p>Even reaching out to all 50 users asking if I could help them, I got one reply. Here&",
+11,8343636,comment,8339263.0,8341726.0,2,0,l33tbro,,,I&,
+12,8343635,comment,8343487.0,8343629.0,1,0,hkmurakami,,,"FWIW, I doubt it. I did that (or more) and was accepted.",1411185262.0
+13,8343634,comment,8343283.0,8343612.0,3,0,revscat,,,"&quot;If you write software using this API that infringes patents, we ain&",
+14,8343633,comment,8339820.0,8341846.0,1,0,irmbrady,,,"Thanks for the response. Ruby is the only tool I currently use in development on Windows which I have flagged as a potential problem to maintain in the future. Thankfully, Ruby is a rather small part of my workflow, so waiting on RubyInstaller is fine at the moment.<p>My question was more of a concern for the future of my current dev setup. I was hoping someone on HN would know of a better solution to install Ruby on Windows manually, without having to wait on RubyInstaller.<p>I will check out Vagrant as you suggested.",1411185143.0
+15,8343632,comment,8343487.0,8343623.0,2,0,BinaryIdiot,,,I was told by someone who has been trying to attend for years that it&,
+16,8343631,comment,8342755.0,8342755.0,4,0,readerrrr,,,Wow this guy doesn&,
+17,8343630,comment,8343487.0,8343487.0,1,0,techtivist,,,I&,
+18,8343629,comment,8343487.0,8343487.0,1,0,kungfoo,,,Boo. Got rejected. I wonder if I screwed myself by applying twice (once a few weeks ago and once on Sept 11) For some reason the system let me....,1411185083.0
+19,8343628,comment,8342817.0,8343331.0,1,0,imanaccount247,,,Because this:<p>>it identifies a nearly religious zeal on the part of some non-scientists who insist that anyone who does anything other than repeat the mantra &quot;the science is settled; we must implement every imaginable solution except nuclear power&quot;<p>Is not a response to what was said.  It is a response to a fantasy opponent that was made up.,1411185012.0
+20,8343627,comment,8343487.0,8343500.0,1,0,themechanic,,,same here.,1411184963.0
+21,8343626,comment,8343442.0,8343442.0,0,0,SilentDirge,,,"Yeah, it&",
+22,8343624,story,,,2,0,nebula,Inspired by Scotland: Quarter of Americans want their states to secede from US,http://rt.com/usa/189148-quarter-americans-want-state-secession/,,1411184917.0
+23,8343623,comment,8343487.0,8343487.0,1,0,keithwarren,,,"Got accepted, not sure whether to be excited or not. Could be one of those things where most everyone who applies gets accepted because most people don&",
+24,8343622,comment,8343028.0,8343560.0,3,0,scott_s,,,"<i>The article reads like big O exists for the purpose of complexity analysis of algorithms. I doubt the author intended this, but they should be a bit more careful.</i><p>I see no problem with this. My first taste of algorithm analysis was in a freshmen year course, where we were taught the phrase &quot;big oh&quot; and how to analysis algorithms in quite a similar fashion as this article. The idea was to give us the briefest of introductions of the topic, just enough so we could talk intelligently about the elementary data structures we were being introduced to (vectors, lists, trees). We didn&",
+25,8343621,comment,8341799.0,8341799.0,4,0,JacobAldridge,,,"Actually, the Pinjarra process creates Aluminium. The process of shipping it to Long Beach CA converts it into aluminum.",1411184732.0
+26,8343620,story,,,1,0,cottonseed,What Happens Before?,http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2063742,,1411184720.0
+27,8343618,story,,,11,0,superfx,Inside the Wolfram Language by Stephen Wolfram at Strange Loop [video],https://www.youtube.com/watch?v=EjCWdsrVcBM,,1411184587.0
+28,8343617,comment,8343283.0,8343283.0,1,0,SilentDirge,,,Great to see the acquisition hasn&,
+29,8343616,comment,8337828.0,8343450.0,1,0,skuhn,,,&,
+30,8343615,comment,8341017.0,8341838.0,1,0,AnthonyMouse,,,> Your description why unions don&,
+31,8343614,comment,8342755.0,8342755.0,5,0,zaroth,,,"&quot;In the middle of the pattern matching algorithm, there was this single comment that read ",
+32,8343613,comment,8339820.0,8340936.0,1,0,irmbrady,,,"I have used Ubuntu and Mac OS in the past, but I am currently favouring doing all of my work on Windows. All of the tools I need run perfectly fine on Windows (and many of them, not on Linux at all), and it would be a hindrance to switch to another operating system.<p>It is only Ruby which is difficult to keep up to date on Windows. My question was to try and find a solution.<p>I have tried using a VM (VirtualBox and VMWare), but it is not a desirable work flow. I currently use RubyInstaller.",1411184349.0
+33,8343612,comment,8343283.0,8343544.0,1,0,readerrrr,,,The second part is just gibberish to me. Someone please translate.,1411184323.0
+34,8343609,comment,8341458.0,8342256.0,3,0,MegaDeKay,,,"I wrote a blog post a while back showing how Intel syntax can be used in gas, along with a number of examples.<p><a href=""http://madscientistlabs.blogspot.ca/2013/07/gas-problems.html"" rel=""nofollow"">http://madscientistlabs.blogspot.ca/2013/07/gas-problems.htm...</a>",1411184289.0
+35,8343608,comment,8341651.0,8343534.0,1,0,lotharbot,,,I&,
+36,8343607,comment,8343442.0,8343442.0,1,0,Pxtl,,,I&,
+37,8343606,story,,,3,12,stasy,I just quit a company that was never (formally) made,,Hi<p>I&,
+38,8343605,comment,8343487.0,8343487.0,2,0,HorizonXP,,,Odd. I&,
+39,8343604,comment,8341513.0,8342375.0,3,0,girvo,,,I&,
+40,8343603,comment,8342755.0,8342755.0,0,0,sergiotapia,,,What is this about?<p>Edit: Strange Loop is a multi-disciplinary conference that aims to bring together the developers and thinkers building tomorrow&,
+41,8343602,comment,8341799.0,8343068.0,3,0,ashmud,,,"I used to drink 1 liter or more club soda most days for several years. At some point I cut back considerably (at most .25 liter in a day), and just drank plain water most of the time. Anecdotally, I felt much more refreshed throughout the day. Comparing how I feel now to then, the soda would have a temporary feeling of being very refreshing, but I would feel thirsty much sooner than drinking plain water.",1411184033.0
+42,8343600,comment,8341513.0,8342222.0,4,0,kefej89,,,this is not place to promote yourself. Go back to tumblr.,1411184008.0
+43,8343599,comment,8343442.0,8343571.0,2,0,Pxtl,,,"As a cyclist I find all this wearable tech interesting, but the price is too high.  Once a glass-like device hits a reasonable price, I&",
+44,8343598,comment,8343487.0,8343506.0,1,0,robbiet480,,,There&,
+45,8343596,comment,8338411.0,8343439.0,1,0,no_future,,,"I have to disagree with you here. Elasticsearch has a &quot;more like this&quot; feature built into it, which would give you pretty much the desired functionality you&",
+46,8343595,comment,8343166.0,8343166.0,1,0,someperson,,,Great article on the history and discovery of the actinide elements.<p>The astronauts lives were apparently saved by the warm Plutonium battery powering the Lunar Module&,
+47,8343594,comment,8338441.0,8340270.0,2,0,army,,,I think you&,
+48,8343592,comment,8340584.0,8341591.0,0,0,m_mueller,,,Here&,
+49,8343591,comment,8343381.0,8343381.0,1,0,Ryel,,,Depends on the reading material<p>Technical books: Spaced repetition<p>General story-telling: Re-read chapters/reflect on deeper meanings and try to be &quot;in the moment&quot; while reading.,1411183786.0
+50,8343590,comment,8343487.0,8343487.0,2,0,lele0108,,,"Facebook group for those interested in connecting:<p><a href=""https://www.facebook.com/groups/286093088248929/286099334914971/"" rel=""nofollow"">https://www.facebook.com/groups/286093088248929/286099334914...</a>",1411183727.0
+51,8343589,comment,8343487.0,8343487.0,2,0,yurylifshits,,,"Hey, let&",
+52,8343588,comment,8341842.0,8342940.0,1,0,ufo,,,Looks a bit less like seagulls if you do &quot;});&quot; instead of plain &quot;}&quot; though,1411183676.0
+53,8343587,comment,8342718.0,8342718.0,8,0,hawkice,,,"I enjoyed the discussion of the types. I dig haskell (and clojure), and I think this is perhaps the perfect lens with which to view how to make choices between them. You can have an insanely complex typesafe haskell transducer, a still very complex but unsafe haskell transducer, a weaker and less flexible version of transducers with a simpler type encoding in haskell, some combination of those ideas, OR...<p>you just test your code out in the repl while developing in clojure and just kinda rely on the fact that core infrastructure or popular libraries will generally work.",1411183666.0
+54,8343586,comment,8341799.0,8343177.0,1,0,ashmud,,,"(This is probably pedantic.) USDA recommendation: &quot;It is suggested that the maximal intake of added sugars be limited to providing no more than 25 percent of energy.&quot; (src: <a href=""http://www.nal.usda.gov/fnic/DRI/DRI_Tables/macronutrients.pdf"" rel=""nofollow"">http://www.nal.usda.gov/fnic/DRI/DRI_Tables/macronutrients.p...</a>) For 2000 kcal, that would be 32.5g. Reads slightly different as a maximal intake rather than a RDA.",1411183608.0
+55,8343585,comment,8343442.0,8343572.0,3,0,reneherse,,,Not funny and not appropriate.,1411183595.0
+56,8343584,comment,8341842.0,8342386.0,1,0,vkjv,,,Yes. If you have never heard of either of these I would question whether you are sure you are even writing an application in node.,1411183537.0
+57,8343583,comment,8342131.0,8343350.0,1,0,SwellJoe,,,"So, you don&",
+58,8343582,comment,8339820.0,8341139.0,1,0,irmbrady,,,"I have never used Cygwin before. Thanks for referring me to it. I am currently trying to find the simplest solution for keeping Ruby up to date with the current releases, but having a hard time doing so on Windows. I will experiment with Cygwin at some point.",1411183529.0
+59,8343581,comment,8338441.0,8339067.0,2,0,army,,,You do realise that Putin openly admitted that Russian troops were involved in the Crimea takeover?  The &quot;bought their uniforms in a store&quot; explanation of the little green men wasn&,
+60,8343580,comment,8342120.0,8342552.0,1,0,jimiwen,,,wasnt this one of the points the defendant wasted to make?,1411183303.0
+61,8343579,story,,,3,0,tshepang,Review: High Performance Python,http://blog.rtwilson.com/review-high-performance-python-by-gorelick-andhttp://blog.rtwilson.com/review-high-performance-python-by-gorelick-and-ozsvald-ozsvald,,1411183256.0
+62,8343577,comment,8341842.0,8343220.0,2,0,vkjv,,,"I agree with everything you say except for Mongoose.<p>Mongoose lacks a lot of documentation on the fringe use cases. However, the beauty of open source is that you can just read the code, which, in my experience, is the most reliable documentation.",1411183233.0
+63,8343576,story,,,2,0,greenyoda,Why You're to Blame When Managers Run Amuck,http://www.inc.com/suzanne-lucas/firing-someone-who-quit.html,,1411183213.0
+64,8343575,comment,8343442.0,8343442.0,2,0,webwielder,,,"For everyone decrying the Apple Watch, this shows what &quot;ugly&quot; and &quot;pointless&quot; truly look like.",1411183182.0
+65,8343574,comment,8343487.0,8343487.0,1,0,chug2k,,,"Sounds like a potential Show HN project, but I&",
+66,8343573,comment,8343442.0,8343442.0,1,0,beggi,,,"Huh, so this might be what was needed to make Google Glass look cool.",1411183101.0
+67,8343572,comment,8343442.0,8343442.0,4,0,kabdib,,,"The military has a term: RPG, or Rape Prevention Glasses :-)",1411183064.0
+68,8343571,comment,8343442.0,8343442.0,1,0,hkmurakami,,,So everyone&,
+69,8343570,story,,,2,0,yiransheng,Drone rentals hit the Bay Area,http://www.charmingdrones.com/,,1411183035.0
+70,8343569,comment,8343381.0,8343381.0,1,0,elviejo,,,I had The same problem... Muy solución is two fold:\n 1. Use anki for spaced repetittion \n 2. Read a lot more con the same subject... For that I use audiobooks and audible... That has made muy morning jog... A lo more productive.,1411183021.0
+71,8343568,comment,8342998.0,8343001.0,1,0,anigbrowl,,,One shouldn&,
+72,8343567,comment,8341017.0,8342210.0,1,0,plorg,,,It&,
+73,8343566,comment,8341513.0,8342654.0,1,0,ivanca,,,They change culture but not the way you think it does; killing people in videogames don&,
+74,8343565,story,,,2,1,abhshksingh,Which tech startups are changing the game in 2014?,,,1411182920.0
+75,8343564,comment,8341513.0,8342157.0,1,0,eduardordm,,,My wife has a successful career in federal court and I&,
+76,8343563,comment,8343442.0,8343442.0,3,0,mplewis,,,This is incredibly ugly. That wouldn&,
+77,8343562,comment,8332835.0,8341940.0,1,0,vorg,,,"> Scripting and interpreted languages like python, ruby are a different thing altogether. I agree with you that ruby/rails or python/django get it done a lot faster. On the JVM, we get close but not quite - with Grails and Play<p>Play doesn&",
+78,8343561,comment,8342235.0,8343319.0,1,0,georgemcbay,,,"If people are clicking your profile at least daily, yes.  If you&",
+79,8343560,comment,8343028.0,8343028.0,2,0,mdxn,,,I&,
+80,8343559,comment,8343487.0,8343510.0,1,0,snaheth,,,True dat :),1411182733.0
+81,8343558,comment,8341017.0,8341739.0,3,0,AnthonyMouse,,,>I&,
+82,8343557,story,,,3,0,eplanit,France passes its anti-Uber law,http://www.engadget.com/2014/09/19/france-anti-uber-law/?utm_content=buffer9ae2a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer,,1411182715.0
+83,8343556,comment,8342998.0,8343089.0,1,0,ghaff,,,I think you&,
+84,8343555,comment,8343487.0,8343505.0,1,0,snaheth,,,"It initially worked, but I waited to RSVP and when I re-logged in to accept, I was given the rejection message.",1411182675.0
+85,8343554,comment,8342367.0,8343540.0,3,0,typicalrunt,,,You should try Ledger [1] if you want transparent data formats and ease of use. I&,
+86,8343553,comment,8343442.0,8343442.0,4,0,imaginenore,,,Ugly.,1411182530.0
+87,8343552,story,,,1,0,justsorneguy,Ask HN: Can you help me find a lost HN link?,,"Hello, all. A while (few months, at least) back, there was a cool link to a github page with a bunch of files for testing secure file uploads. I&",
+88,8343551,comment,8342998.0,8343224.0,1,0,ghaff,,,"They did. The new ToS softens the language somewhat. Which IMO makes sense because if I had enough money to refund backers, then why did I need backers? Maybe there are some marketing benefits but they may or may not be worth Kickstarter&",
+89,8343550,comment,8341842.0,8342332.0,2,0,ufo,,,They mentioned memory leaks as their reasoning. Run the following program in any browser and you will see the memory usage balloon out of control:<p><pre><code>    var theThing = null;\n\n    function replaceThing(){\n      var oldThing = theThing;\n      function unused(){ return oldThing }\n      theThing = {\n        longStr: new Array(1000000).join(&,
+90,8343549,comment,8343442.0,8343442.0,1,0,georgemcbay,,,"For those thinking about getting Google Glass but who were holding out for something that makes them look way more dorky.<p>Typical of most Sony consumer electronics products post-2000 or so it is kind of amazing in a narrow technical way but completely drops the ball in every other way.  In this case, by making you look like the stereotypical &quot;nerd&quot; comedy relief one might see on a tv show or in a bad movie.",1411182421.0
+91,8343548,comment,8339263.0,8339263.0,1,0,jroseattle,,,I read through this and the Can&,
+92,8343547,comment,8342764.0,8343392.0,1,0,zak_mc_kracken,,,"Yes, I predict you&",
+93,8343546,story,,,3,0,uniclaude,The reasons I stopped using libuv for H2O,http://blog.kazuhooku.com/2014/09/the-reasons-why-i-stopped-using-libuv.html,,1411182264.0
+94,8343545,comment,8338915.0,8340987.0,1,0,jerf,,,"Particle physics is the light shining in the darkness of science. I understand that not all sciences can be particle physics, but most scientists could stand to learn a lesson or two about it.",1411182126.0
+95,8343544,comment,8343283.0,8343363.0,6,0,objclxt,,,This seems - and I&,
+96,8343543,comment,8343532.0,8343539.0,1,0,evahenson,,,Agree! Professional photographers will still use a DSLR but regular people will shoot these images with their iPhones. And the new iPhone is brilliant in it.,1411182053.0

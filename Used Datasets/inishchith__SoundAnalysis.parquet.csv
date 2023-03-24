@@ -1,0 +1,24 @@
+,file_path,api_count,code
+0,plot.py,1,b'
+1,Base/beat.py,0,"b"""
+2,Base/detect.py,0,"b"""
+3,Base/extract_features.py,4,b'
+4,Base/record.py,0,b'
+5,Intro/beat.py,0,"b"""
+6,Intro/detect.py,0,"b"""
+7,Intro/extract_features.py,4,b'
+8,Intro/record.py,0,b'
+9,animals/beat.py,0,"b"""
+10,animals/detect.py,0,"b"""
+11,animals/extract_features.py,6,b'
+12,animals/test.py,6,b'\nimport  sklearn\nimport timeit\nimport  matplotlib\nimport numpy as np\nimport librosa.display\n\n
+13,music/beat.py,0,"b"""
+14,music/detect.py,0,b'
+15,music/extract_features.py,6,b'
+16,music/test.py,6,b'\nimport  sklearn\nimport timeit\nimport  matplotlib\nimport numpy as np\nimport librosa.display\n\n
+17,voice/beat.py,0,"b"""
+18,voice/detect.py,0,b'\n\'\'\'\nadd matplotlib to plot detected accuracy\nNote : No learning done .\n\'\'\'\n
+19,voice/extract_features.py,6,b'
+20,voice/record.py,0,b'
+21,voice/test.py,6,b'
+22,voice/versions.py,0,b'

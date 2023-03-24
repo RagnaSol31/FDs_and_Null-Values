@@ -1,0 +1,112 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8211383,story,,,2,0,ElinaBryan,Convertr Lite: Free Smart Unit and Currency Conversion iOS App,https://itunes.apple.com/us/app/convertr-lite-smart-unit-currency/id895421622?mt=8,,1408697987.0
+1,8211382,comment,8210903.0,8211217.0,2,0,RaSoJo,,,Thanks for pointing this out. I was under the assumption that  the locale was the artist&,
+2,8211381,story,,,1,0,kruno,Phpstorm and symfony2 tip,http://krunoknego.com/2014/08/14/phpstorm-and-symfony2/,,1408697746.0
+3,8211380,comment,8211207.0,8211276.0,1,0,michel-slm,,,In terms of Wired&,
+4,8211379,comment,8206529.0,8211262.0,1,0,benaiah,,,">  I think a multi-stage filter complete with asynchronous post-processing jobs would be a bit much for your average Wordpress blog. People just starting out with (say, PHP) probably can&",
+5,8211378,story,,,22,14,escapologybb,NSA and GCHQ agents 'leak Tor bugs' alleges developer,http://www.bbc.co.uk/news/technology-28886462,,1408697571.0
+6,8211377,comment,8211329.0,8211358.0,1,0,epaga,,,"Sure - just posted a little description above, but would love to answer any other specific questions. From the three apps you mention, it&",
+7,8211375,comment,8210442.0,8210914.0,1,0,wiradikusuma,,,I dont understand why you&,
+8,8211374,comment,8198698.0,8198698.0,1,0,ArtDev,,,My little hometown has a mine-resistant vehicle. Those things are expensive to maintain. Now I know why the libraries and parks in such disrepair!,1408697485.0
+9,8211372,comment,8211329.0,8211329.0,1,0,epaga,,,"I wrote this app first and foremost for myself, and intended it to be the sweet spot between a mind-mapping tool and an outliner. On the one hand you can quickly enter thoughts, drag them around and sort them visually (kind of like Scapple in that regard). On the other hand, you can zoom into an entry to focus on it and you get a new space for new entries (kind of like Workflowy in that regard).<p>Would love to hear any feedback or thoughts on future developments you&",
+10,8211371,comment,8210251.0,8210776.0,3,0,axman6,,,Would 9/11 really need that many people to stage? The actual plot was executed by a fairly small number of people; surely faking it wouldn&,
+11,8211369,comment,8211207.0,8211245.0,1,0,bcn,,,"Agreed, After submitting and then going to read the paper (<a href=""http://www.cs.ucr.edu/~zhiyunq/pub/sec14_android_activity_inference.pdf"" rel=""nofollow"">http://www.cs.ucr.edu/~zhiyunq/pub/sec14_android_activity_in...</a>) it&",
+12,8211368,comment,8206529.0,8211351.0,2,0,gingerlime,,,I wouldn&,
+13,8211367,comment,8206529.0,8211351.0,2,0,benaiah,,,"This is literally the first thing they explain in TFA, if you&",
+14,8211366,comment,8210972.0,8211148.0,3,0,DoubleMalt,,,Very often ZIP code is used as alias for postal code even in international context. I see &quot;zip code&quot; more often than &quot;postal code&quot; on international address forms.,1408697378.0
+15,8211365,comment,8210923.0,8211015.0,2,0,notastartup,,,that&,
+16,8211364,comment,8209004.0,8210405.0,1,0,nikon,,,"RavenDB <a href=""http://ravendb.net/docs/client-api/advanced/transaction-support"" rel=""nofollow"">http://ravendb.net/docs/client-api/advanced/transaction-supp...</a>",1408697341.0
+17,8211363,story,,,1,0,jnsaff2,Ansible Playbooks for CIS Benchmarks on RHEL/CentOS 6,https://github.com/major/cis-rhel-ansible,,1408697309.0
+18,8211362,comment,8211342.0,8211342.0,1,0,walterbell,,,"Good advice from the article:<p><i>&quot;This happens all the time on the funding and business side--where someone experienced in business helps two developers figure out a funding or revenue strategy, intros them to customers, etc.  I haven&",
+19,8211361,comment,8210957.0,8211235.0,3,0,silentOpen,,,Entanglement.,1408697291.0
+20,8211360,comment,8210972.0,8211271.0,3,0,dm2,,,The code is on github so you can host it on your own server fairly easily.<p>The website says that it&,
+21,8211359,comment,8210228.0,8211055.0,2,0,jessriedel,,,That&,
+22,8211358,comment,8211329.0,8211329.0,1,0,walterbell,,,"It would be helpful to read about the vision behind this app, e.g. how it differs from iThoughts HD, MagicalPad HD, TheBrain, etc.",1408697238.0
+23,8211357,story,,,1,0,filozynka,When brain says “you can't do any more”Overcomming Programmer's Block,https://netguru.co/blog/posts/procrastination-and-overcomming-programmers-block,,1408697227.0
+24,8211356,comment,8210251.0,8210679.0,3,0,axman6,,,I&,
+25,8211355,comment,8210957.0,8211112.0,2,0,thejosh,,,"250ms is about what you get to most games from Perth, Australia.",1408697204.0
+26,8211354,comment,8206529.0,8206529.0,7,0,gingerlime,,,What I&,
+27,8211353,comment,8210903.0,8211290.0,7,0,chanon,,,I think he said only the lightmaps were pre-rendered and that took 10mins. The actual scene runs real-time at 50-60 fps on his gtx670.<p>(Prerendering lightmaps is typical for games for scenes with static lighting.),1408697141.0
+28,8211352,comment,8211132.0,8211132.0,2,0,foxhill,,,"so, we have a political system whose goal is to maximise it&",
+29,8211350,comment,8210903.0,8210903.0,2,0,azinman2,,,Drool... Very impressive especially in a video game engine? I wish I knew more about the 3d world and could do stuff like this....,1408696994.0
+30,8211349,comment,8210903.0,8211290.0,11,0,akavel,,,"Hm, from another post[1]:<p>> <i>is that video was rendered real time?</i><p>> Yep (well, the lightmaps are pre rendered but it take like 10 min. In engine, it runs at 50-60fps on a gtx670)<p>So, if I understand correctly, that&",
+31,8211348,comment,8210507.0,8211240.0,1,0,timv,,,"<i>If you know what you are doing and already did it before, [...] you already know how much time it&",
+32,8211347,comment,8210903.0,8211328.0,12,0,berkut,,,"+1 - sorry, I do this stuff all day, so am used to the slang :)<p>Fresnel also effects just reflection as well - it&",
+33,8211346,comment,8210235.0,8211094.0,5,0,Shivetya,,,the problem isn&,
+34,8211345,comment,8210168.0,8210830.0,2,0,rtpg,,,It&,
+35,8211344,comment,8211044.0,8211312.0,2,0,audunw,,,"Another thing is that programming languages are not generally designed to be compatible with this. Pre-processed macros and comments etc.<p>Nimrod could be suitable for a syntax-directed programming editor. All macros are part of the AST, even the comments are embedded in the syntax tree.",1408696759.0
+36,8211343,comment,8211327.0,8211327.0,1,0,abuzafor,,,"Hello There, We have moved to DigitalOcean&",
+37,8211342,story,,,2,1,walterbell,How Technical Advisors Can Help Non-Technical Founders,http://www.thisisgoingtobebig.com/blog/2014/8/21/how-technical-advisors-can-help-non-technical-founders.html,,1408696745.0
+38,8211341,story,,,1,0,ismail,Run as the Root Account,http://www.garyshood.com/root/,,1408696721.0
+39,8211340,comment,8209004.0,8209975.0,1,0,luuio,,,"The .NET & JS repos are empty, too. I think they just have not published the code. It&",
+40,8211339,story,,,8,0,sygma,GNU hackers discover HACIENDA government surveillance program,https://www.fsf.org/blogs/community/gnu-hackers-discover-hacienda-government-surveillance-and-give-us-a-way-to-fight-back,,1408696685.0
+41,8211338,comment,8211132.0,8211314.0,0,0,seanmcdirmid,,,Uhm...it&,
+42,8211337,comment,8210903.0,8211130.0,1,0,akavel,,,Not sure if that answers your doubts (as I&,
+43,8211336,comment,8211076.0,8211076.0,1,0,walterbell,,,"Is there an OpenStreetMap POI database?  The crowd can contribute to crowd-owned databases, i.e. neither Foursquare nor Facebook.  Apple uses (?) some OSM data.",1408696584.0
+44,8211335,story,,,1,0,majidarif,Show HN: Tcp stream framing library for Node.js,https://github.com/majimboo/stream-frame,,1408696570.0
+45,8211334,comment,8211044.0,8211312.0,1,0,seanmcdirmid,,,"You can have a live feedback loop without syntax-directed editing. E.g. see <a href=""http://research.microsoft.com/en-us/people/smcdirm/liveprogramming.aspx"" rel=""nofollow"">http://research.microsoft.com/en-us/people/smcdirm/liveprogr...</a> (tl;dr writing an incremental compiler/execution engine is nowhere near impossible).",1408696566.0
+46,8211333,comment,8210704.0,8210984.0,1,0,baddox,,,"Have you had any experience with or exposure to larger multirotor aircraft or any model aircraft? Noise will not be a significant concern. Carrying capacity, flight endurance, and cost are already more than adequate to make deliveries practical in an urban environment even with hobby level gear. The key missing piece right now is robust navigation software, and considering the insane pace of improvement I have witnessed just in the last two years, I am extremely optimistic.",1408696566.0
+47,8211332,comment,8211119.0,8211119.0,4,0,foxhill,,,"OpenCL Pro Tip:\nthe __restrict keyword behaves as normal in OpenCL C, so adding it to kernel code may not move read only data into the constant cache.<p>to achieve this, try using the __constant address space.",1408696479.0
+48,8211331,story,,,1,0,motivable,Motivational and inspirational content added by anyone,http://www.motivable.com,,1408696476.0
+49,8211330,comment,8210957.0,8210957.0,2,0,trurl42,,,I&,
+50,8211329,story,,,6,10,epaga,Show HN: Mindscope (iPad) – sweet spot between mind-mapping and outlining,http://www.mindscopeapp.com,,1408696384.0
+51,8211328,comment,8210903.0,8211242.0,93,0,unwind,,,"OK, I&",
+52,8211327,story,,,2,2,abuzafor,Why We Moved to DigitalOcean's SSD Cloud VPS,http://www.bloggingguts.com/moved-digitalocean-ssd-cloud/,,1408696375.0
+53,8211326,comment,8207363.0,8208118.0,1,0,hashtag,,,Can&,
+54,8211325,comment,8206688.0,8208981.0,1,0,abuzafor,,,"Hello Dean, Thanks for replying on this thread and assuring me that Mad Mimi is going to remain the same as always.",1408696265.0
+55,8211324,comment,8210704.0,8211001.0,0,0,baddox,,,"Actually, he&",
+56,8211323,comment,8210560.0,8210560.0,2,0,jeroen94704,,,It should be noted that &quot;cannot be eradicated&quot; is something different than &quot;cannot be cured&quot;. I&,
+57,8211322,story,,,2,0,pmcpinto,The other strange tale of Facebook’s disputed origins,http://arstechnica.com/tech-policy/2014/08/the-other-strange-tale-of-facebooks-disputed-origins/,,1408696175.0
+58,8211320,comment,8209846.0,8210048.0,2,0,watwut,,,Start new project on Github? :),1408696127.0
+59,8211319,comment,8210704.0,8211164.0,1,0,baddox,,,"> Thirdly, it is difficult to control a gas-powered quadcopter at the speed of an electric quadcopter.<p>I disagree with you there. Collective pitch quadcopters with combustion engines have been done. With CP quads you lose one benefit of traditional quadcopters, which is their simplicity (basically, they&",
+60,8211318,comment,8211219.0,8211219.0,1,0,walterbell,,,First time I&,
+61,8211317,story,,,1,0,caitriona,Give Someone a Virtual Avatar and They Adopt Stereotype Behavior,http://www.smithsonianmag.com/smart-news/give-someone-virtual-avatar-and-they-adopt-stereotype-behavior-180952441/?no-ist,,1408696018.0
+62,8211316,comment,8171694.0,8172198.0,1,0,witty_username,,,I&,
+63,8211315,story,,,4,2,wongwf82,Ask HN: RubyMotion Developer Job Board,,I&,
+64,8211314,comment,8211132.0,8211132.0,4,0,mimighost,,,"Why there are so many articles about China suddenly jump out of nowhere and most of them seem only remotely, if ever, related to tech?",1408695946.0
+65,8211312,comment,8211044.0,8211044.0,7,0,audunw,,,Personally I think syntax-directed programming is the only thing that makes sense. It&,
+66,8211311,comment,8210228.0,8210896.0,2,0,StavrosK,,,"Well, you <i>can</i> see the LED blinking if you look at it straight on, but I guess it may bleed into the visible spectrum.",1408695908.0
+67,8211310,story,,,1,0,_rahuls,Show HN: Its a sensor based world and we are living in it,https://play.google.com/store/apps/details?id=com.thbs.Mime,,1408695838.0
+68,8211309,comment,8209937.0,8210793.0,1,0,minopret,,,"Followup: The directions that I mentioned are somewhat buried in the site. Here they are: <a href=""http://www.gutenberg.org/wiki/Gutenberg:Wiki"" rel=""nofollow"">http://www.gutenberg.org/wiki/Gutenberg:Wiki</a>",1408695836.0
+69,8211308,comment,8210704.0,8211006.0,1,0,baddox,,,"Do you have any experience with the kind of multirotor aircraft that would likely be used for short to medium distance package delivery? They are not particularly noisy, and at the distances from humans they would spend most of their time in, they probably would not be audible at all.",1408695779.0
+70,8211307,comment,8210903.0,8210903.0,2,0,danmaz74,,,This is incredible. It&,
+71,8211306,comment,8206529.0,8206529.0,2,0,HnHandle,,,Would be interesting if they would have share some more details on the rule engine/framework. How does it compare with drools (apart from it being probably faster).,1408695745.0
+72,8211305,comment,8201366.0,8203761.0,1,0,partomniscient,,,"To be fair, I&",
+73,8211304,comment,8211132.0,8211132.0,4,0,littleyangqh,,,fuck ccp!!!,1408695731.0
+74,8211303,comment,8210507.0,8211261.0,1,0,wlievens,,,"But what if you actually have a 6 month backlog of real user stories? As in, you know these requirements pretty well, for instance because you&",
+75,8211302,comment,8211031.0,8211193.0,1,0,michel-slm,,,MIT Scratch is amazing. Much better as an educational tool than CMU Alice -- its 3D-without-gravity environment is unnecessarily complicated yet inaccurate.,1408695704.0
+76,8211301,comment,8211207.0,8211207.0,1,0,userbinator,,,<i>Our attack requires neither specific vulnerabilities nor privacy-sensitive permissions</i><p>Access to the camera is not a &quot;privacy-sensitive&quot; permission...? That&,
+77,8211299,comment,8210704.0,8211099.0,3,0,baddox,,,"And, like many rules the FAA makes, there is debate over whether they have the legal authority or physical power to enforce them. That&",
+78,8211298,comment,8211207.0,8211207.0,1,0,scottoreilly,,,I&,
+79,8211297,comment,8210513.0,8210513.0,2,0,csmdev,,,"There is no free will. You can do what you will, but you cannot will what you will. It all comes automatically and you blindly follow it without any real control.<p>And if we think of the universe as a whole, your subjective perspective is like a worker thread in a computer program. You start with some specific parameters and evolve based on them. And at the same time there are multiple threads doing the same thing, but they have different parameters and a different evolution.<p>Your will boils down to simple programming. You make decisions based on your anatomy and life experience. Input parameters and program evolution (if/else mostly). When you&",
+80,8211296,story,,,1,0,Mehuleo,Circles an Addictive Mind Game,https://play.google.com/store/apps/details?id=com.mehuleo.circles,,1408695518.0
+81,8211295,comment,8211132.0,8211132.0,1,0,known,,,In democracy it&,
+82,8211294,comment,8208595.0,8211293.0,1,0,andreaf,,,"For clarity, let me make a comparison with the JVM. On the JVM, when one requires a class in a package, it is up to a classloader to find it. The default classloader will look up the class code in a directory structure based on the package name. Where to locate this directory structure is decided based on environment variables, but usually it ends up to having multiple entry points, either on the filesystem or inside zipped files called JARs. A separate tool, like Maven on SBT, can help you fetch JARs from repositories. But what actually makes everything click is the fact that once you have fecthed the JAR, you know where to locate classes inside it based on their name.<p>In the frontend world there just isn&",
+83,8211293,comment,8208595.0,8208595.0,1,0,andreaf,,,"I am a little confused about how Duo actually transforms dependencies into JS values. When I write, say,<p>var uid = require(&",
+84,8211292,comment,8208595.0,8208595.0,1,0,progx,,,Did Duo the same as gulp+browserify ?,1408695475.0
+85,8211290,comment,8210903.0,8210903.0,2,0,adam-a,,,It&,
+86,8211289,story,,,1,0,pmcpinto,"Voice, Image Give Clues in Hunt for Foley's Killer",http://abcnews.go.com/International/wireStory/authorities-analyze-voice-hunt-foley-killer-25065271,,1408695407.0
+87,8211288,comment,8210704.0,8211139.0,2,0,baddox,,,"I see two main options: designated virtual lanes that are programmed into drone navigational systems, and robust sense and avoid systems that allow seemingly chaotic pathing to remain reasonably safe. In practice there will probably be a combination of the two.<p>As for who decides what the rules are, well, in the US it&",
+88,8211287,comment,8206676.0,8206896.0,1,0,chrift,,,Thanks for your feedback :),1408695350.0
+89,8211286,comment,8209336.0,8210608.0,1,0,dang,,,"No, that was our mistake. Sorry—fixed now.",1408695340.0
+90,8211285,story,,,1,1,pif,SparkyLinux GameOver Is a Winning Work-Play Combo,http://technewsworld.com/story/SparkyLinux-GameOver-Is-a-Winning-Work-Play-Combo-80923.html,,1408695338.0
+91,8211284,story,,,1,0,slyall,Norwegian Broadcasting breaks new ground to show chess on television,http://nrkbeta.no/2014/08/13/nrk-breaks-new-ground-to-show-chess-on-television/?hn=1,,1408695276.0
+92,8211283,story,,,2,0,NicoJuicy,An Alternative Start Template for Asp.Net MVC Projects Using Dapper,https://github.com/jgeurts/MvcKickstart,,1408695183.0
+93,8211282,comment,8211031.0,8211031.0,1,0,mariokostelac,,,This application is temporarily over its serving quota. Please try again later. :),1408695080.0
+94,8211281,comment,8206038.0,8208880.0,2,0,MrBuddyCasino,,,"Ah, someone with Clojure experience. I wanted Clojure to be my next language to learn, so now I&",
+95,8211280,comment,8211031.0,8211277.0,1,0,marcosscriven,,,Personally I thought it was pretty good functionally.,1408695029.0
+96,8211279,comment,8146987.0,8208401.0,1,0,stef25,,,The people in that plane didn&,
+97,8211278,comment,8211132.0,8211228.0,4,0,visakanv,,,"What do you mean by that? When I read &quot;X is an emergent property of a complex Y&quot;, I can&",
+98,8211277,comment,8211031.0,8211031.0,1,0,mcav,,,"The interface seems unnecessarily confusing and unintuitive, though the ideas are worthwhile.",1408694901.0
+99,8211276,comment,8211207.0,8211245.0,1,0,cfontes,,,There should be a way to punish head lines like this.,1408694900.0
+100,8211275,comment,8211207.0,8211245.0,1,0,radiospiel,,,And then the paper the article links to is Android only.,1408694884.0
+101,8211274,story,,,17,18,makemoves,Show HN: Find a co-founder or side project buddy,,Me and some friends just released a new app. It is matchmaking tool for thinkers and makers. It&,
+102,8211273,comment,8211207.0,8211207.0,2,0,valleyer,,,Can iOS apps take control of the camera in the background?,1408694825.0
+103,8211272,comment,8208244.0,8209281.0,1,0,woogle,,,"The article is misleading, if you do nothing your webview won&",
+104,8211271,comment,8210972.0,8210972.0,2,0,mikkom,,,This might sound silly but you should actually have a &quot;plus&quot; plan or something that you charge for - free services have a problem of suddenly disappearing without any notice. Paid customers ensure that service will be available in the future too.,1408694716.0
+105,8211270,comment,8210560.0,8210829.0,3,0,adventured,,,Isn&,
+106,8211269,comment,8207123.0,8210758.0,2,0,simias,,,There&,
+107,8211268,comment,8210283.0,8210622.0,1,0,jc123,,,I assume using a search engine is cheating?  But it seems like a good way to learn more trivia.,1408694543.0
+108,8211267,comment,8210507.0,8211240.0,1,0,peshkira,,,"In my opinion these two points only hold if you work alone.<p>As I see it, you don&",
+109,8211266,comment,8208595.0,8208920.0,1,0,matthewmueller,,,require(&,
+110,8211264,comment,8210957.0,8211252.0,3,0,readerrrr,,,Of course it does. Oculus is already using it; it&,

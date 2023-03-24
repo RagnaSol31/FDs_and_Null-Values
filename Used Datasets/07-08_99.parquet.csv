@@ -1,0 +1,102 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7317653,comment,7285353.0,7286632.0,1,0,ebiester,,,Inexpensively replicating key-value databases for suitable problems is the &quot;flavor-of-the-generation.&quot;,1393574349.0
+1,7317652,comment,7317519.0,7317596.0,3,0,Dylan16807,,,It seems to me that you&,
+2,7317651,comment,7316948.0,7316948.0,1,0,lutusp,,,"> Science confirms: Internet trolls are terrible people<p>Wait, what? &quot;Science confirms&quot;? Mainstream psychology isn&",
+3,7317650,comment,7317519.0,7317596.0,6,0,qnaal,,,"When the purpose of your software is simply to record data, saying you support a particular encoding when you only support _some_ of it is pretty irresponsible.",1393574240.0
+4,7317649,comment,7317647.0,7317647.0,1,0,net_junkie,,,Love this app!!! Just did a survey this morning and got a $1 for it!\uFEFF,1393574226.0
+5,7317648,comment,7313421.0,7317588.0,1,0,mattspitz,,,If you can test everything manually with confidence that every incremental change breaks nothing you&,
+6,7317647,story,,,2,1,chankey_pathak,Get free Google Play Store credit using Google Opinion Reward,http://www.technostall.com/how-to-get-free-google-play-store-credit/,,1393574186.0
+7,7317646,story,,,44,15,TuxLyn,Show HN: Custom Nginx Indexer,http://blog.gotux.net/tutorial/custom-nginx-indexer/,,1393574178.0
+8,7317645,comment,7315964.0,7317445.0,1,0,redthrowaway,,,"If you have access to the private keys, which I&",
+9,7317644,comment,7317519.0,7317626.0,1,0,bskap,,,It&,
+10,7317643,comment,7315964.0,7315964.0,4,0,antirez,,,The new &quot;Security through trust in big corp&quot; model.,1393574142.0
+11,7317642,comment,7317519.0,7317626.0,3,0,ggreer,,,It&,
+12,7317641,comment,7317519.0,7317594.0,1,0,AlisdairO,,,"You should be able to do LIMIT in Oracle using <a href=""http://www.oracle.com/technetwork/issue-archive/2006/06-sep/o56asktom-086197.html"" rel=""nofollow"">http://www.oracle.com/technetwork/issue-archive/2006/06-sep/...</a> .  If you want a standards-compliant way to do it, you can use the ROW_NUMBER() window function.  This might not be as fast, but will work on virtually every DB except MySQL...",1393574126.0
+13,7317639,comment,7316606.0,7316606.0,3,0,nardi,,,Is there any reason this same technology wouldn&,
+14,7317638,comment,7317519.0,7317617.0,4,0,sgt,,,"In my experience, it has fewer &quot;insane things in it&quot; than MySQL.",1393574026.0
+15,7317637,comment,7317519.0,7317617.0,11,0,sitharus,,,"Certainly not! However, its WTFs per minute count is far lower than MySQL.<p>I started off my career as a PHP/MySQL developer. PostgreSQL is definitely years ahead of MySQL. It used to be that MySQL had far superior read performance for simple queries, but that hasn&",
+16,7317636,comment,7317519.0,7317594.0,3,0,fendale,,,"Oracle does seems to make limit queries much harder than they need to be. I wrote an article about limit and paging queries in oracle ages ago that may interest you, but you probably have it all figured out now.<p><a href=""http://betteratoracle.com/posts/18-limiting-query-results-top-n-and-window-queries"" rel=""nofollow"">http://betteratoracle.com/posts/18-limiting-query-results-to...</a>",1393573997.0
+17,7317635,comment,7317519.0,7317626.0,1,0,cstuder,,,"On Windows and with Chrome, yes.<p>On iOS 7.0.1 it&",
+18,7317634,comment,7317519.0,7317626.0,1,0,Mchl,,,I&,
+19,7317633,story,,,7,0,robinwarren,HAV could deliver tonnes of supplies to remote areas by air,http://www.bbc.co.uk/news/business-26337673,,1393573985.0
+20,7317632,comment,7316606.0,7317521.0,4,0,yread,,,You would basically already do that with mobiles. When people use for talking they keep them <1cm from their head. And while 70mph is indeed great speed people sometimes take high speed trains (200mph) or don&,
+21,7317631,comment,7310705.0,7312692.0,1,0,transitionality,,,A blind person using a screen reader cannot see your ads. Is he committing piracy?,1393573881.0
+22,7317630,comment,7316059.0,7317538.0,1,0,Perdition,,,>It&,
+23,7317629,comment,7316949.0,7316949.0,3,0,rlx0x,,,"The impact of Helvetica is quite significant, there even is a documentary about it, called Helvetica! check it out its really great. (It includes an interview with Mike Parker)<p><a href=""http://www.imdb.com/title/tt0847817/reference"" rel=""nofollow"">http://www.imdb.com/title/tt0847817/reference</a>",1393573791.0
+24,7317628,comment,7312675.0,7315092.0,3,0,zxexz,,,Reading this paper makes me want to see an album of the illustrations!,1393573768.0
+25,7317626,comment,7317519.0,7317519.0,2,0,codexon,,,Does anyone else just see squares instead of whatever unicode symbol it is supposed to be? I&,
+26,7317625,comment,7314665.0,7314937.0,1,0,TabAtkins,,,The srcset attribute by itself can&,
+27,7317624,comment,7314048.0,7317446.0,2,0,saraid216,,,I&,
+28,7317623,comment,7316526.0,7316526.0,1,0,lutusp,,,"This problem is trivially solved -- force new SEC hires to buy one or more market index funds and put them in a blind trust for the duration of their employment.<p>Historically, market index funds do as well as active portfolios (on average), unless brokerage commissions and tax implications are included in the assessment, in which case they do better (a fact proven by the now-famous WSJ dartboard contest). So SEC employees would have a more profitable portfolio than usual for the duration of their employment, and they would avoid even the appearance of impropriety.<p>How is it that this obvious solution hasn&",
+29,7317622,story,,,1,0,Cbasedlifeform,"Bitcoins, Murder-for-Hire, 28yo Pie Makers: Welcome to the New World of Banking",http://wallstreetonparade.com/2014/02/bitcoins-murder-for-hire-28-year-old-pie-makers-welcome-to-the-new-world-of-banking/,,1393573594.0
+30,7317621,comment,7315964.0,7317483.0,6,0,icebraining,,,<i>Apple cannot prove they aren&,
+31,7317620,comment,7315964.0,7316149.0,2,0,snotrockets,,,"If the above reports of not Apple not pinning their certificate, then this isn&",
+32,7317619,comment,7314965.0,7315341.0,2,0,epsylon,,,"Worse, on my desktop, it pushes the system load to 50% CPU (that is, 100% of a core) while scrolling with the mouse wheel. That&",
+33,7317618,comment,7317519.0,7317519.0,4,0,schappim,,,"Sounds like the OP should read &quot;The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)&quot; over at: <a href=""http://www.joelonsoftware.com/articles/Unicode.html"" rel=""nofollow"">http://www.joelonsoftware.com/articles/Unicode.html</a>",1393573507.0
+34,7317617,comment,7317519.0,7317578.0,4,0,rimantas,,,"Interesting, pretty much every system has insane things in it. Is postgresql an exception?",1393573479.0
+35,7317616,comment,7314048.0,7316891.0,2,0,saraid216,,,"I like pointing out to students of classical mechanics that the first year is all about pointing out ramifications of one assumption, one mindlessly simple, underwhelming equation: constant acceleration. If you know a bit of calculus. It goes from being a terrifyingly large amount of memorization and calculation to... &quot;Oh.&quot;",1393573475.0
+36,7317615,comment,7262106.0,7262106.0,1,0,vdm,,,"<a href=""https://news.ycombinator.com/item?id=7316606"" rel=""nofollow"">https://news.ycombinator.com/item?id=7316606</a>",1393573428.0
+37,7317614,comment,7317519.0,7317592.0,5,0,ars,,,It can&,
+38,7317613,comment,7316949.0,7317515.0,1,0,girvo,,,I&,
+39,7317612,story,,,22,0,dsr12,Billionaire Jack Ma teaches you how to be successful in life and business,http://sg.news.yahoo.com/billionaire-jack-ma-teaches-successful-020018631.html,,1393573268.0
+40,7317609,comment,7314048.0,7316508.0,1,0,saraid216,,,But it&,
+41,7317608,comment,7302505.0,7307425.0,1,0,notastartup,,,yeah I figured I contacted a few sales guys on linkedin but they weren&,
+42,7317607,comment,7316949.0,7316949.0,5,0,rayval,,,"I have a fond memory of Mike, with his cheery wicked smile, on a sunny afternoon riding in an open convertible, charging through traffic-clogged streets in Boston, heading over to the Bitstream offices, blasting powerful classical music (unfamiliar to me, who only knew blues and rock) on a crystal-clear sound system, which reverberated off the office buildings downtown, while Mike punctuated the music with sharp wit, deftly negotiating near-collisions at high speed.<p>For a poignant account of his later years, and his struggle with Alzheimers, see the blog written by his ex-wife and steady friend, Sybil Masquelier. The entry &quot;The Farewell Tour&quot; describes their final trip to New York in 2011 to receive the Type Designers Club lifetime achievement award.<p><a href=""http://mikeparkerfontgod.blogspot.com/"" rel=""nofollow"">http://mikeparkerfontgod.blogspot.com/</a>",1393573029.0
+43,7317606,comment,7314706.0,7316249.0,1,0,Dewie,,,"It was a joke. Notice the letters B, C, D... do they look familiar?",1393573009.0
+44,7317605,story,,,17,6,z0a,Terasaur: Discover/publish material too large for regular web sites,http://terasaur.org/,,1393572997.0
+45,7317604,comment,7317566.0,7317566.0,1,0,adityar,,,doxygen,1393572907.0
+46,7317603,comment,7316777.0,7316835.0,1,0,gnur,,,"I guess we do, this really shows the extensible nature of Atom.  \nSo you get an idea, you pull some code together (only 70 lines!) and it works. I think that is reason enough to post it.",1393572890.0
+47,7317602,comment,7317519.0,7317585.0,0,0,ggreer,,,"There is a utf8mb4_unicode_ci collation, but we had big problems with it. I&",
+48,7317601,comment,7317519.0,7317592.0,2,0,the_mitsuhiko,,,It does not.,1393572863.0
+49,7317600,comment,7311735.0,7311893.0,1,0,nyrina,,,Isn&,
+50,7317599,comment,7317519.0,7317576.0,3,0,oxymoron,,,Someone pointed out in the comments on that link that utf8mb4 isn&,
+51,7317597,comment,7315964.0,7317152.0,3,0,snotrockets,,,"A single, very easily jumpable hoop: sending a lawyer to the nearest friendly judge, asking him/her to sign a warrant.",1393572792.0
+52,7317596,comment,7317519.0,7317519.0,6,0,nknighthb,,,"> <i>Why they call this encoding &quot;UTF-8&quot; is beyond me, it most definitely is not UTF-8.</i><p>This is a confusion of concepts. That an encoding can encode a particular value does not mean all applications using that encoding will support that value. You can store any size number you like into a JSON number, but if you send me a 256-bit value in a field for temperature in celsius, I&",
+53,7317595,comment,7317519.0,7317576.0,8,0,ars,,,"The case sensitive part is incorrect, the author made a mistake and corrects it in the comments, but not in the article (don&",
+54,7317594,comment,7317519.0,7317578.0,4,0,willvarfar,,,"Well, funnily enough MySQL are now owned by Oracle and I&",
+55,7317593,comment,7316606.0,7317521.0,4,0,nathanathan,,,If this kind of technology were to fall into the wrong hands would we even know? Would it appear as though the victims had a heart attack or stroke?,1393572723.0
+56,7317592,comment,7317519.0,7317519.0,4,0,girvo,,,Does anyone know if MariaDB fixes this issue by default?,1393572699.0
+57,7317591,comment,7314048.0,7314048.0,1,0,e3pi,,,"A nice simple identity I obtained in high school learning trigonometry:<p>z^(1/2) = ((z+1)/2)*sin(acos((z-1)/z+1))) for all z<p>...similar identities may be obtained using atan, etc. This came to me from the euclidean geometry construction of sqrt(z). I would like to have its construction image here, but the ascii art is too much. Perhaps Google would find it. When I messed with it, I noticed for large z, acos()--> 1, it&",
+58,7317590,story,,,1,0,techaddict009,SEX DRUGS APPS  SXSW INTERACTIVE AT 20,http://www.fastcompany.com/3026402/oral-history-sex-drugs-apps-and-sxswi,,
+59,7317589,comment,7314207.0,7316743.0,1,0,icebraining,,,Only if their dollar-denominated debt wasn&,
+60,7317588,comment,7313421.0,7313421.0,1,0,trekky1700,,,"Ironically, AngelList posted a slideshow the other day about how they don&",
+61,7317587,comment,7312545.0,7314960.0,1,0,jmnicolas,,,You might reconsider your statement if said rocks are diamonds ...,1393572591.0
+62,7317586,comment,7316059.0,7317190.0,1,0,facepalm,,,She&,
+63,7317585,comment,7317519.0,7317576.0,5,0,the_mitsuhiko,,,There is a case insensitive collation for utf8mb4 so half of the problems there are just a misconfiguration.  The index size restrictions are a problem though.,1393572581.0
+64,7317584,comment,7313816.0,7314835.0,1,0,toomuchtodo,,,Interactive Brokers also integrates with Quantopian.,1393572565.0
+65,7317583,comment,7315094.0,7317556.0,1,0,kbenson,,,"Pfft, that guy obviously doesn&",
+66,7317581,comment,7314422.0,7316869.0,3,0,jsonified,,,Jamii I&,
+67,7317580,comment,7309190.0,7312958.0,1,0,trekky1700,,,"I think there was a little confusion in there, I do practice meditation. It has been shown to provide valuable benefits.<p>What I suppose I didn&",
+68,7317579,story,,,1,0,sordina,Programmer Anarchy,http://www.slideshare.net/fredgeorge/programmer-anarchy-chinese,,1393572282.0
+69,7317578,comment,7317519.0,7317519.0,20,0,kimmel,,,"I recently moved an application off mysql to postgresql after hitting this error. After over a decade of mysql doing things their way and it always being a pain in the ass for everyone else when is enough, enough?<p>I no longer develop software to run on mysql because I like my sanity.",1393572258.0
+70,7317576,comment,7317519.0,7317519.0,61,0,ggreer,,,"<i>Now presumably there is some drawback from doing this, otherwise &quot;utf8mb4&quot; would be the default (right?) but I&",
+71,7317575,comment,7317566.0,7317566.0,1,0,rectangletangle,,,Pydoc and GitHub.,1393572062.0
+72,7317574,comment,7315964.0,7315964.0,1,0,hmottestad,,,I read that a lot of the comments are related to key exchange.<p>Just wanted to mention that there is a possibility to key verification over sms. An sms can even be used for a temporary key for encrypting the key transfer.,1393572011.0
+73,7317573,story,,,3,0,chrisb,Ukraine: Security services 'infiltrated protest groups',http://www.bbc.co.uk/news/world-europe-26368479,,1393571992.0
+74,7317572,comment,7314048.0,7317128.0,1,0,vlasev,,,Reason for disagreement?,1393571960.0
+75,7317571,comment,7316606.0,7317521.0,5,0,politician,,,"I just replied to another thread with this exact same thought, then looked down to see yours.  And yes, it is scary... If I understand it correctly, the targeting system just consists of normal receivers hacked to offset their targeting feedback by a distance that would park the energy ball inside the victim.<p>In <i>any</i> of the applications where this is deployed broadly, that is, where we cover our cities in transmitters, then we&",
+76,7317570,comment,7312545.0,7313728.0,2,0,dsugarman,,,"it is not a fundamental right, it is a constitutional right.  You can not collect evidence without probable cause.",1393571741.0
+77,7317569,comment,7316526.0,7316616.0,1,0,dragonwriter,,,Repeating the same assertions without support in longer-winded form is not evidence.,1393571687.0
+78,7317568,comment,7310705.0,7312102.0,1,0,jsoffer,,,&quot;...I have not ever intentionally clicked on or even looked at an ad...&quot;\n&quot;I don&,
+79,7317567,comment,7315094.0,7317460.0,5,0,pjmlp,,,"> Evidently every 5 years or so we need to all jump on the bandwagon to a new language?<p>Not only languages, but every other technology as well.<p>After all, people need to sell:<p>- tooling<p>- trainings<p>- books<p>- consulting work<p>- write blogs about cool stuff<p>- and the most important one, sell certifications",1393571670.0
+80,7317566,story,,,2,4,dome82,Ask HN: Documentation for a software product,,"What do you use for documenting your software project? I would like to document software features , what is changed compared to a previous version, API, tutorials and examples.<p>What do you use for documenting your software? Any suggestions?<p>Thanks :)\nCheers,\n   Domenico",1393571658.0
+81,7317565,comment,7311922.0,7313464.0,1,0,notastartup,,,I&,
+82,7317564,comment,7316949.0,7316992.0,1,0,serf,,,"I never really understood the fascination with typography beyond a readability standard to be honest, but that&",
+83,7317563,comment,7312545.0,7312545.0,1,0,dsugarman,,,"if you think about this like an inductive proof, you will see that giving up privacy to catch &",
+84,7317562,comment,7314740.0,7316045.0,2,0,asnyder,,,"Really odd, it&",
+85,7317561,comment,7312442.0,7317497.0,2,0,yummyfajitas,,,I also know better than to change the criteria after the study starts. A study was proposed. None of the critics of the study had anything negative to say about it until after the results were in - that&,
+86,7317560,comment,7299826.0,7316085.0,1,0,gliptic,,,How else do you plan to get rid of the transactions?,1393571433.0
+87,7317559,story,,,2,0,erbdex,Is adblock-plus a security risk?,http://security.stackexchange.com/questions/52361/is-adblock-plus-a-security-risk,,1393571413.0
+88,7317558,comment,7315244.0,7315968.0,1,0,MisterBastahrd,,,"You can rent a 2 bedroom apartment in most cities for under 900 a month.  Spending money for internet + cell + cable entertainment can approach half that.  With the median income in the US being $51K, that&",
+89,7317557,comment,7316606.0,7317461.0,3,0,politician,,,"If you can transmit power to a 1cm bubble in space, you may be able to offset it into, say, brain tissue.  Brain tissue probably doesn&",
+90,7317556,comment,7315094.0,7315805.0,6,0,davvid,,,<i>basically everything else that Perl offers</i><p>...except for performance. The GIL is Python&,
+91,7317555,comment,7316949.0,7317515.0,1,0,riffraff,,,I thought I couldn&,
+92,7317554,comment,7314965.0,7314965.0,1,0,stonogo,,,Fucks up my scroll bar -> will not use,1393571211.0
+93,7317553,comment,7314665.0,7315683.0,1,0,igrigorik,,,"This behavior is not defined by the spec / left to the UA. At the moment, I don&",
+94,7317552,comment,7316606.0,7317104.0,1,0,politician,,,Space-based applications could include a network of base stations transmitting power to a cloud of worker drones.<p>Bio-based applications could include a means to power or recharge implanted devices and machines.,1393571017.0
+95,7317551,comment,7312442.0,7315408.0,1,0,lutusp,,,> I watched it. I wasn&,
+96,7317550,comment,7312442.0,7317481.0,3,0,yummyfajitas,,,"We are using a lower standard of evidence than medical decisions. The goal is to get as many clicks/conversions as possible in aggregate, most of the time. I.e., if you have a call to action (&quot;3 day sale&quot;, &quot;spring sale&quot;, &quot;march sale&quot;) that dies in 3 days, we&",
+97,7317548,comment,7314665.0,7314959.0,1,0,igrigorik,,,They&,
+98,7317547,comment,7316949.0,7316949.0,4,0,austinhutch,,,I&,
+99,7317546,comment,7314740.0,7315648.0,1,0,snowwrestler,,,"Even if we accept that this characterization is true, you would still need to show that it results in worse policy outcomes than whatever alternative system you my care to propose.<p>That is very difficult to do because policy outcomes are subjective. What you think is a worse policy outcome might be desired, or at least acceptable, to a majority of people.<p>It all comes down to policy, even for Larry Lessig. His turn toward reforming the entire system only happened after the system produced an outcome (on copyright extension) that he strongly disagreed with.",1393570872.0
+100,7317545,comment,7313850.0,7315061.0,1,0,lutusp,,,"> In the context of the article, I&",

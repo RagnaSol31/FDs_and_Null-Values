@@ -1,0 +1,83 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8766401,comment,8765793.0,8765924.0,0,0,Warewolf-ESB,,,Yes I would agree. I&,
+1,8766400,comment,8766215.0,8766382.0,0,0,AlyssaRowan,,,"Yep, I concur. There is nothing I&",
+2,8766399,story,,,2,0,Matsonian,Ask HN: Do hackers need PartyPrep?,,"We are at the very early stages of our startup - PartyPrep, a hangover prevention nutraceutical I hacked together while in the Navy. Recently funded on IndieGoGo, our marketing plan has been focused on organic growth and niche markets. HERE IS MY QUESTION: There was an assumption by me that the tech market would be a better niche to focus on because, lets face it, you guys are smart and, for the most part, would be more likely to &quot;prep&quot; before going out on the town vs. the rest of us who are a bit more reactionary and need instant recovery. So, what do you say, are you guys the right, neh, a viable, target market, or is it back to the white board for the growth hackers among us? I appreciate your honest (and, if necessary, blistering) feedback.",1418889512.0
+3,8766398,story,,,4,0,grumpy-buffalo,Scientific method: Defend the integrity of physics,http://www.nature.com/news/scientific-method-defend-the-integrity-of-physics-1.16535,,1418889489.0
+4,8766397,comment,8765793.0,8765793.0,0,0,Warewolf-ESB,,,notifications for replies and comments that you can adjust as needed.,1418889457.0
+5,8766396,comment,8763183.0,8765795.0,0,0,MyHypatia,,,"&quot;In this work, he used mathematical arguments to answer the following question: was it (i) a village that was taxed in the first place, and then the tax as divided between households, or (ii) the other way around, where it was a household that was originally taxed, and then the sum represented the total to be paid by the village?... Because the total received were always an integer number of (changing) monetary units, Kolmogorov proved that it was rule (ii) that was adopted&quot;\n-Probability and Statistics by Example, Volume 1.<p>I guess the households that paid their tax either always paid it in full, or if they paid a portion it was always an integer value?<p>While you&",
+6,8766395,story,,,1,0,pablosproject,Panda App – Yosemite dark mode made simple,http://pandapp.pablosproject.com/,,1418889430.0
+7,8766394,comment,8763955.0,8763955.0,0,0,e12e,,,"> &quot;In OS X, if you attempt to adjust DNS servers via networksetup -setdnsservers, it asks for a password.\n(...)\nHowever, if you can go into the Network settings and manually click some buttons that the system prevents you from clicking with the keyboard, you can adjust settings without a password.&quot;<p>Interesting hack, somewhat relieved to see that a) it&",
+8,8766393,comment,8765437.0,8766092.0,0,0,throwaway8875,,,"Americans are mean, vicious bastards, and American prisons have nothing to with rehabilitation. Most Americans would think it&",
+9,8766392,comment,8766215.0,8766215.0,0,0,TheGunner,,,"Great article, and a common sense approach to it at last. I can&",
+10,8766391,story,,,7,0,Totient,The Toxoplasma of Rage,http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/,,1418889252.0
+11,8766390,comment,8765368.0,8765818.0,0,0,mc808,,,I think the CDN alternative would be:<p>Site 1 sends <script src=&quot;/foo/jquery.js&quot; hash=&quot;SHA3:12345...&quot;>. Your browser hasn&,
+12,8766389,comment,8765870.0,8765870.0,0,0,Animats,,,"Bruce Schneier: &quot;Someone killed 12 people and shot another 70 people at the opening night of Batman: The Dark Knight [Rises]. They kept that movie in the theaters.&quot;<p>But that Batman movie was a good movie. (OK, not the best of the franchise, but still OK). The plot of The Interview is &quot;a celebrity journalist and his producer land an interview with Kim Jong-un and are instructed by the CIA to assassinate him.&quot; That sounds like a good action-adventure movie. But it was made as a <i>comedy</i>. Dumb. Then the plan was to release it on Christmas Day, usually a day for take-the-kids movies. Dumber.<p>Sony may be using this as an excuse to escape from a turkey of a movie. Of course, now we all have to see it.  Probably on Netflix; it&",
+13,8766387,comment,8766215.0,8766341.0,0,0,lawnchair_larry,,,Other hacks have nothing to do with this one. Someone at Sony opened a phishing email. That about does it.,1418888927.0
+14,8766386,comment,8764135.0,8766279.0,0,0,yummyfajitas,,,"An alternate way to handle it would be to pass a law saying the IRS must accept payment in-kind for taxes on in-kind payments. I.e., the IRS can make up whatever valuation they want but you have the option to pay them in snapchat shares.",1418888872.0
+15,8766385,comment,8766215.0,8766215.0,0,0,baconforce,,,"It may not have been the work of NK, but it doesn&",
+16,8766384,comment,8765714.0,8766154.0,0,0,SamReidHughes,,,I don&,
+17,8766383,comment,8765836.0,8765836.0,0,0,xnull2guest,,,I can&,
+18,8766382,comment,8766215.0,8766215.0,0,0,bifrost,,,IMHO this is the best analysis of the situation.,1418888693.0
+19,8766381,comment,8765437.0,8765437.0,0,0,girvo,,,"<i>> In Detroit, officials say that their busts have helped raise the street price of a kilogram of cocaine to roughly $43,000 from about $30,000. “When you spike the price by one-third, I think you’ve hit the right vein of where it’s coming from,” Graveline said.</i><p>I wonder how much extra (probably petty) crime that price spike caused?",1418888661.0
+20,8766380,comment,8765714.0,8766346.0,0,0,SamReidHughes,,,The relevant contract boundary isn&,
+21,8766379,comment,8765526.0,8766331.0,0,0,deciplex,,,It&,
+22,8766378,comment,8764509.0,8765860.0,0,0,CamperBob2,,,One of the reasons why it&,
+23,8766377,comment,8763587.0,8765920.0,0,0,jodrellblank,,,"So many people do that Microsoft keeps a knowledge base article about it:<p><a href=""http://support.microsoft.com/kb/257757"" rel=""nofollow"">http://support.microsoft.com/kb/257757</a><p>&quot;We don&",
+24,8766376,comment,8765714.0,8766156.0,0,0,xxgreg,,,"&quot;JSON itself has no integer type, just a double type&quot;<p>Nit - actually the JSON standard doesn&",
+25,8766375,comment,8763475.0,8764453.0,0,0,nemothekid,,,Only a guess but from how its worded it seems that the storage frontend that had already entered infinite loops may have taken the tem+ hours to restart.,1418888491.0
+26,8766374,story,,,2,0,gunbec,Top10 most demanded skills on LinkedIn in 2014,http://uk.businessinsider.com/linkedin-top-10-skills-that-got-people-hired-this-year-2014-12,,1418888439.0
+27,8766373,comment,8765357.0,8765357.0,0,0,ars,,,They should let you filter by genre.,1418888421.0
+28,8766372,comment,8765550.0,8765550.0,0,0,eps,,,Very nice. The result is very suitably suspenseful and gloomy.,1418888353.0
+29,8766371,comment,8765714.0,8766177.0,0,0,marvy,,,"Yes, but in practice, that&",
+30,8766370,comment,8762705.0,8762705.0,0,0,zobzu,,,"The actual code: <a href=""https://github.com/Kintaro/wtftw-core"" rel=""nofollow"">https://github.com/Kintaro/wtftw-core</a>",1418888255.0
+31,8766368,comment,8765870.0,8765870.0,0,0,scelerat,,,Sony hasn&,
+32,8766367,comment,8757252.0,8757252.0,0,0,AJ-Ryner,,,"Tried it on my MacBook Pro 17, Yosemite.<p>1) I agree with the other comments, UX/UI improvement is needed.<p>2) Sometime when I try to &",
+33,8766366,comment,8765714.0,8766021.0,0,0,Someone,,,Why limit ,
+34,8766365,comment,8766340.0,8766340.0,0,0,gDD,,,"From this[1] 2014 article:<p>> As of November, DigitalOcean counts a total 187,866 active users running a cloud server (or “Droplet”)<p>Hard to tell if the number is active users or active droplets.<p>[1]: <a href=""http://wptavern.com/digitalocean-is-now-the-third-largest-hosting-provider-wordpress-droplets-account-for-23"" rel=""nofollow"">http://wptavern.com/digitalocean-is-now-the-third-largest-ho...</a>",1418887940.0
+35,8766364,story,,,2,0,vpanyam,Sony Has 'No Further Release Plans' for 'The Interview',https://variety.com/2014/film/news/sony-has-no-further-release-plans-for-the-interview-1201382167/,,1418887927.0
+36,8766363,comment,8766319.0,8766319.0,0,0,cju,,,Harel&,
+37,8766362,story,,,4,0,ternaryoperator,When South Carolina executed a 14-year old,https://en.wikipedia.org/wiki/George_Stinney,,1418887806.0
+38,8766361,comment,8765714.0,8766346.0,0,0,nitrogen,,,"Does Rust do saturating arithmetic by default?  If not, an integer overflow won&",
+39,8766360,story,,,1,0,lokeller,Netup: Speed Up Mobile Internet,http://www.shoelacewireless.com/netup/,,1418887720.0
+40,8766359,comment,8765870.0,8766317.0,0,0,tiglionabbit,,,Why make it free?  I&,
+41,8766358,comment,8765033.0,8765882.0,0,0,lifeisstillgood,,,"Presumably the (external) sites you liked you have also. I sites from your Facebook feed after liking them, hence increasing their weight.  As such I guess the answer for small businesses is simple - you need an engaged audience and then Facebook is another way to reach that engaged audience.<p>Thinking if Facebook as an advertising medium is IMO wrong - it&",
+42,8766357,story,,,121,83,sidcool,Intercal: The Worst Programming Language Ever [video],https://skillsmatter.com/skillscasts/6088-the-worst-programming-language-ever,,1418887610.0
+43,8766356,comment,8765870.0,8766122.0,0,0,afarrell,,,"Kipling may be an imperialist, but he is an honest one, and certainly correct about some fundamental ugly truths of international relations.",1418887581.0
+44,8766355,story,,,1,0,AndreyKarpov,Sparse Procedural Volumetric Rendering,https://software.intel.com/en-us/articles/sparse-procedural-volumetric-rendering,,1418887552.0
+45,8766354,comment,8756638.0,8756882.0,0,0,logotype,,,Thanks :) We&,
+46,8766353,story,,,1,0,sidcool,"Google Hangouts Dialer registers for call intent,lets place calls via Hangouts",https://plus.google.com/110145431558529252718/posts/f1xKnhJ6Mwp,,1418887488.0
+47,8766352,comment,8765870.0,8765870.0,0,0,sandstrom,,,Now and then I discover apparently longer-running threads in the news that I&,
+48,8766351,comment,8756638.0,8757868.0,0,0,logotype,,,This has now been fixed. We only show lower resolution images now.,1418887429.0
+49,8766350,comment,8764509.0,8764509.0,0,0,briantakita,,,"Bruce Schneier weighs in.<p>&quot;this is like Snowden, only with Sony.&quot;<p><a href=""http://motherboard.vice.com/read/bruce-schneier-sony-hackers-completely-owned-this-company"" rel=""nofollow"">http://motherboard.vice.com/read/bruce-schneier-sony-hackers...</a>",1418887397.0
+50,8766349,comment,8756638.0,8758606.0,0,0,logotype,,,"Yes, we&",
+51,8766348,comment,8756638.0,8756638.0,0,0,logotype,,,"We just launched a new feature, videos. Videos are always matched with an article, based on context. Check it out! Many more features in the works. Also incredibly excited by a partnership we&",
+52,8766347,comment,8765377.0,8765377.0,0,0,junopatch,,,"Yahoo News is very popular here in the Philippines. Most Filipinos use Yahoo Mail. Yahoo Auction and Yahoo Search(powered by Google, not Bing) are very popular websites in Japan. These are just examples of why Yahoo is still relevant.",1418887271.0
+53,8766346,comment,8765714.0,8766052.0,0,0,pcwalton,,,"> Not to re-relitigate old discussion, but (as I&",
+54,8766345,comment,8765714.0,8766303.0,0,0,SamReidHughes,,,"Other ways in which the choice of what constitutes safety is convenient:  you can recurse until the stack overflows, and you can make infinite loops instead of having to prove through the type system that everything terminates.  These are reasonable design decisions.  If allowing silent integer overflow is the wrong choice for Rust, it&",
+55,8766344,comment,8766205.0,8766205.0,0,0,MaxGabriel,,,"Snowdrift is written in the Haskell web framework Yesod <a href=""https://github.com/dlthomas/snowdrift"" rel=""nofollow"">https://github.com/dlthomas/snowdrift</a>",1418887114.0
+56,8766343,comment,8763587.0,8765081.0,0,0,codeulike,,,"<i>He was clearly wrong on this one</i><p>No, he was right. In 1996 people were just scared of using their cards online. No one big was doing it yet, consumers didn&",
+57,8766342,comment,8764509.0,8765428.0,0,0,shitlord,,,Especially when the entire movie is about killing their leader.,1418887005.0
+58,8766341,comment,8766215.0,8766215.0,0,0,codezero,,,Reposting from another thread because it&,
+59,8766340,story,,,2,3,rajeemcariazo,Ask HN: How many IPv4 addresses does Digital Ocean currently use?,,IPv4 addresses is running out. One factor is because VPS are going cheap nowadays. Do you know how many IPv4 addresses does Digital Ocean currently use?,1418886940.0
+60,8766339,comment,8765870.0,8766314.0,0,0,anigbrowl,,,"Well, that&",
+61,8766338,comment,8763475.0,8765990.0,0,0,internetisthesh,,,"In the end, you would still have config deployments, but to the config server. And if you can push config to nodes needing it. you have one less point-of-failure, right? I&",
+62,8766337,story,,,1,0,ryan_j_naughton,Sony Should Send ‘The Interview’ Straight to Video on Demand,http://fivethirtyeight.com/datalab/the-interview-sony-hack-seth-rogen-james-franco-vod/,,1418886872.0
+63,8766335,comment,8765714.0,8766167.0,0,0,Someone,,,I don&,
+64,8766334,comment,8762871.0,8765594.0,0,0,spydum,,,That they could starve in comfort..,1418886832.0
+65,8766332,story,,,1,0,sajithw,Join Benchling (YC S12) in building the operating system for life science,https://jobs.lever.co/benchling,,1418886773.0
+66,8766331,comment,8765526.0,8765526.0,0,0,anigbrowl,,,"Meanwhile, here&",
+67,8766329,comment,8765870.0,8766254.0,0,0,CaptainZapp,,,I think that&,
+68,8766328,comment,8765870.0,8766051.0,0,0,VieElm,,,"> They gave credence to every threat. Earlier in the day I was somewhat neutral on this, but now that I&",
+69,8766327,story,,,2,0,atratus,"NASA Rover Finds Active, Ancient Organic Chemistry on Mars",http://www.nasa.gov/press/2014/december/nasa-rover-finds-active-ancient-organic-chemistry-on-mars/index.html,,1418886546.0
+70,8766326,comment,8764871.0,8764871.0,0,0,lefty89,,,"Food is not the only thing that may cause or save you from diseases like cancer. This is a very wrong misconcept. Of course, eating healthy can sustain way better the presure and stress we are experiencing daily, but is not enough. The negative thoughts that keep coming and kept for a long time are weighing a lot more in the development of diseases. Have a look at Dr. Bruce Lipton - The Biology of Perception. I&",
+71,8766325,comment,8765870.0,8766069.0,0,0,IvyMike,,,"> Since there is 0 security at movie theaters, I as a moviegoer would be extremely scared to go to watch this movie in it&",
+72,8766324,comment,8765714.0,8765979.0,0,0,leoc,,,"So inaction on overflow checking in hardware is regularly justified by claims that overflow checking in software imposes only a minor performance burden (viz. OP), while inaction on overflow checking in software is justified by claims that that it imposes an unacceptable performance burden. I feel that something doesn&",
+73,8766323,comment,8765714.0,8766303.0,0,0,pcwalton,,,I don&,
+74,8766321,comment,8765870.0,8766113.0,0,0,ddingus,,,It&,
+75,8766320,comment,8765714.0,8766182.0,0,0,jevinskie,,,"Yes, those seem quite nice!<p>Edit: <a href=""https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/AdvancedOperators.html"" rel=""nofollow"">https://developer.apple.com/library/ios/documentation/Swift/...</a>",1418886178.0
+76,8766319,story,,,52,11,tonteldoos,Statecharts: A Visual Formalism For Complex Systems (1987) [pdf],http://www.wisdom.weizmann.ac.il/~harel/papers/Statecharts.pdf,,1418886152.0
+77,8766318,comment,8762455.0,8765216.0,0,0,uaygsfdbzf,,,"Both of you should look at the Neo900:<p><a href=""http://neo900.org/"" rel=""nofollow"">http://neo900.org/</a><p>It is an N900 chassis (inc keyboard) with a GTA04 motherboard plus some cool anti-spying features to isolate the LTE modem (which of course runs a proprietary OS).",1418886139.0
+78,8766317,comment,8765870.0,8766113.0,0,0,rwallace,,,"If I were the CEO of Sony, I&",
+79,8766314,comment,8765870.0,8766262.0,0,0,alexqgb,,,"Actually, he was replying to a comment that centered on the specific threat level that a particular individual thought he may be facing, so a calculation like this is exactly on point.",1418886059.0
+80,8766313,comment,8765822.0,8765822.0,0,0,dang,,,"The &quot;try out&quot; rule is important, but adjusts to different kinds of project. Hardware, for example, can&",
+81,8766312,comment,8765368.0,8765368.0,0,0,gavinpc,,,Is the &quot;flash of unstyled content&quot; really so &quot;dreaded&quot;?<p>I&,

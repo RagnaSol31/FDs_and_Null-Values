@@ -1,0 +1,85 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9123028,comment,9122155.0,9122984.0,0,0,sfeng,,,We should understand that a startup doesn&,
+1,9123027,comment,9122742.0,9122742.0,0,0,jackgolding,,,Such an awesome tool for my day to day work. I&,
+2,9123025,comment,9122155.0,9122671.0,0,0,frozenport,,,"This is anti-competitive, and regressive, it helps the big guns. Imagine big companies shutting down small ones because they don&",
+3,9123024,comment,9122195.0,9122902.0,0,0,pjmlp,,,"It was already like that with the projects that hit big.<p>Linux got lots of contributions from companies that would rather invest into it than paying UNIX licenses.<p>Eventually it got lots of support from the likes of IBM and Intel, because its existence suited their business.<p>GCC got lots of support when UNIX vendors started charging for their SDKs and smaller shops invested into it.<p>Likewise for many other projects.",1425106691.0
+4,9123022,comment,9122155.0,9122671.0,0,0,joeblau,,,"I totally agree.  I used to work in Info-sec back in D.C. before I moved out to San Francisco and I would always joke with my D.C. buddies that San Francisco cares about product first, security later.  Most people in SF are so wrapped up around which framework is the coolest hottest thing and have no idea about anything related to security until it&",
+5,9123021,comment,9121383.0,9121383.0,0,0,riffraff,,,does anyone know what this means?<p><pre><code>    Python 2.7 is now required\n    This was done to simplify compatibility with python 3.</code></pre>,1425106623.0
+6,9123020,comment,9121227.0,9122191.0,0,0,bigiain,,,"It _might_ help, but it doesn&",
+7,9123019,story,,,45,54,fourandme,Four&me – Connect with great people and get together for amazing activities,https://itunes.apple.com/app/id958283662,,1425106528.0
+8,9123018,comment,9121448.0,9121448.0,0,0,neilparikh,,,I&,
+9,9123017,comment,9121686.0,9122123.0,0,0,Kalium,,,Apparently Google already internally resolves .dev to a host of internal services. They don&,
+10,9123016,comment,9119606.0,9122798.0,0,0,eropple,,,"Perhaps two whole seconds fine for your needs, but to put in perspective your performance-is-fine claims in multiple posts in this thread: I won&",
+11,9123015,comment,9122552.0,9122552.0,0,0,seekingcharlie,,,* Exercise more\n* Don&,
+12,9123014,comment,9122742.0,9122933.0,0,0,carreau,,,"You mean like that : <a href=""https://www.youtube.com/watch?v=_JZFSFR6Yeo"" rel=""nofollow"">https://www.youtube.com/watch?v=_JZFSFR6Yeo</a> ? (link to code in youtube description)",1425106331.0
+13,9123013,comment,9122155.0,9122953.0,0,0,cmurf,,,"Withholding knowledge of a breach is self-rewarding which is why there needs to be a law stating the time frame for disclosure, and either penalties or liablity (per affected customer, employee, contractor, vendor). Lack of skill in detection is a problem, but I don&",
+14,9123012,comment,9121686.0,9122763.0,0,0,Kalium,,,That... actually sounds hugely valuable for software houses everywhere.,1425106228.0
+15,9123011,comment,9120690.0,9122432.0,0,0,Crito,,,He didn&,
+16,9123010,comment,9120310.0,9121919.0,0,0,seekingtruth,,,">Eating healthy is incredibly difficult in western society,<p>This is the most ridiculous thing I&",
+17,9123009,comment,9122742.0,9122933.0,0,0,jasongrout,,,"Cool!  You can see some of the widgets people have been doing at <a href=""https://github.com/ipython/ipython/wiki/widgets"" rel=""nofollow"">https://github.com/ipython/ipython/wiki/widgets</a>.  If you come up with something, let us know and add your widget there.",1425106107.0
+18,9123008,comment,9122413.0,9122413.0,0,0,supercoder,,,Interesting you&,
+19,9123007,comment,9121686.0,9122975.0,0,0,happycube,,,"... more like &quot;offering&quot; than &quot;selling&quot;, given the massive writedown on Fire Phones.",1425106066.0
+20,9123006,comment,9122304.0,9122424.0,0,0,nandemo,,,"You first point is a good point but...<p>> <i>I heart Airbnb but the idea that it doubled in value in less than a year and is worth almost as much as say Marriott, which owns real estate, generated almost $2 billion in EBITDA in the past 12 months and returns cash to shareholders in the form of a dividend, is absurd.</i><p>Apple, a mega-cap company, has doubled in value in the last 3 years. That&",
+21,9123005,comment,9100775.0,9103322.0,0,0,spronkey,,,"Oh god, this, 100000000x this! My main frustration is the lack of canonical implementations - there never seems to be a <i>good</i> way to do anything - everything has nasty tradeoffs, so you have to pick the best for each situation - which results in a lot of different paradigms across a codebase. Yuck.",1425105949.0
+22,9123004,comment,9121482.0,9122488.0,0,0,MichaelGG,,,"Regarding the first point, about scope, I&",
+23,9123003,comment,9121482.0,9121482.0,0,0,xiaq,,,> You highlight lines four three six.<p>I guess there is a typo and should be &quot;four through six&quot; instead.,1425105931.0
+24,9123002,comment,9122742.0,9122956.0,0,0,jasongrout,,,"Jonathan Frederic just updated the example notebooks for widgets before the release: <a href=""http://nbviewer.ipython.org/github/ipython/ipython/tree/master/examples/Interactive%20Widgets/"" rel=""nofollow"">http://nbviewer.ipython.org/github/ipython/ipython/tree/mast...</a>.  We&",
+25,9123001,comment,9122155.0,9122983.0,0,0,Kalium,,,"My POV is kind of limited, but I believe there&",
+26,9123000,comment,9120310.0,9120310.0,0,0,known,,,"<a href=""https://en.wikipedia.org/wiki/Aramchol"" rel=""nofollow"">https://en.wikipedia.org/wiki/Aramchol</a> seems promising",1425105885.0
+27,9122999,story,,,1,0,kissmd,Java 8 Streams,http://www.java-success.com/java-8-streams-lambdas-intermediate-vs-terminal-ops-lazy-loading-simple-examples/,,1425105873.0
+28,9122998,comment,9120593.0,9122466.0,0,0,stuart78,,,From that Wikipedia article: &quot;Gator&,
+29,9122996,comment,9121797.0,9121797.0,0,0,kijin,,,"Is there a way to check if <i>any</i> non-standard root CAs have been added to my browser, without going through them one by one and comparing them to a fresh install? If not, is there at least a button to reset the list to a blessed-by-Mozilla default?<p>Because it&",
+30,9122995,comment,9121482.0,9122843.0,0,0,MichaelGG,,,Or just drop variable completely and use just &quot;bindings&quot;? Perhaps with a note that this is similar to variables in other languages.,1425105645.0
+31,9122994,story,,,1,0,frrp,The spy in your pocket,http://www.economist.com/news/briefing/21645130-watch-out-hackersand-spooks-spy-your-pocket,,1425105639.0
+32,9122993,comment,9122155.0,9122771.0,0,0,cmurf,,,"Companies are asking Congress to do this because already states are doing it, and it&",
+33,9122992,comment,9121482.0,9122320.0,0,0,pjmlp,,,In Portugal no.<p>We also don&,
+34,9122991,comment,9122552.0,9122745.0,0,0,JustTired,,,Which app? I am interested to know. I could run it on my tablet.,1425105575.0
+35,9122989,comment,9119162.0,9120555.0,0,0,nenolod,,,It sends some channel messages <i>after</i> the JOIN.  The new IRCv3.2 specification (being formally ratified across vendors soon!) adds a BURST type to make the protocol transactional which will allow displaying the messages in the right order with a little bit of work on the client side.,1425105492.0
+36,9122988,story,,,1,1,frrp,Why the rise of fascism is again the issue,http://johnpilger.com/articles/why-the-rise-of-fascism-is-again-the-issue,,1425105446.0
+37,9122987,comment,9121482.0,9122752.0,0,0,pjmlp,,,I don&,
+38,9122986,comment,9106928.0,9117954.0,0,0,Kalium,,,This is going to sound callous and compassion-free.<p>The average worker at Target is benefiting by continuing to get paid at all. They&,
+39,9122985,comment,9112250.0,9117992.0,0,0,jldugger,,,"He has a fulltime job? AFAIK, he&",
+40,9122984,comment,9122155.0,9122904.0,0,0,nodata,,,So what&,
+41,9122983,comment,9122155.0,9122671.0,0,0,faitswulff,,,Matasano security is almost always hiring. Here&,
+42,9122982,comment,9119162.0,9120934.0,0,0,nenolod,,,"We are planning to bring some experimental JSON-based transport for 3.3 which will allow us to eventually start transitioning to considering IRC events in an intermediate representation.  The key thing is going to be getting the client authors to understand the benefits of this approach, as well as providing implementation of both the extended RFC1459 payload format and the JSON format.<p>The eventual end game is to have a flag day and deprecate the legacy format, but this will probably take a few years to do.",1425105296.0
+43,9122981,comment,9122636.0,9122916.0,0,0,programmarchy,,,"> bad things like freedom of children to work and the freedom to create Bohpal disasters<p>Children working is better than a family starving to death no? Child labor laws are a first world problem, and could have disastrous consequences for the third world. Union Carbide was a corporation, a legal fiction in which ownership is divorced from responsibility, that cannot exist without privileges given to it by a state. State capitalism has little to do with actual free markets i.e. voluntary trade in a free society.<p>Agree with you about the TPP, though, and the way that the term &quot;free market&quot; is often used in the vulgar sense.",1425105276.0
+44,9122980,comment,9122788.0,9122788.0,0,0,tsmith,,,"Is HN depressed? Two ragequit posts on the front page at the same time?<p>Folks, the software industry is cyclical, and we are currently in the &quot;good times&quot; phase. Non-software people in other industries are seeing their occupations become obsolete while we we are getting increasingly higher wages, shuttle busses, and microkitchens.<p>If you are not happy working in software now, you probably won&",
+45,9122979,story,,,8,2,zhte415,Typography in ten minutes,http://practicaltypography.com/typography-in-ten-minutes.html,,1425105129.0
+46,9122978,comment,9122636.0,9122636.0,0,0,guelo,,,Really hope Warren beats out Hillary in the Dem primaries. If it&,
+47,9122976,story,,,1,0,mandeepj,"Researchers break Internet speed record, hit 1Tbps",http://timesofindia.indiatimes.com/tech/computing/Researchers-break-internet-speed-record-hit-1Tbps/articleshow/46397464.cms,,1425104964.0
+48,9122975,comment,9121686.0,9122363.0,0,0,nileshtrivedi,,,> Good luck selling a phone running &quot;Android&quot; if it doesn&,
+49,9122974,comment,9120364.0,9121860.0,0,0,Fomite,,,"&quot;Exactly. I at least view this phenomena as more likely signaling a peak than a downfall.&quot; - You do realize that a &quot;peak&quot; inherently implies a decline, yes?",1425104736.0
+50,9122973,comment,9117137.0,9117137.0,0,0,PhantomGremlin,,,I haven&,
+51,9122971,story,,,8,0,erispoe,How a bored student invented the electronic spreadsheet,http://www.npr.org/blogs/money/2015/02/25/389027988/episode-606-spreadsheets,,1425104572.0
+52,9122970,comment,9121482.0,9122488.0,0,0,Animats,,,I&,
+53,9122969,comment,9121227.0,9121227.0,0,0,yeukhon,,,>  In our industry a lot of young IT professionals use the term “burnout” as a badge of honor.<p>That&,
+54,9122968,comment,9119206.0,9121108.0,0,0,stephenr,,,Is this somehow different to Xen Live Migration/VMware Vmotion/etc?,1425104457.0
+55,9122967,comment,9121522.0,9122279.0,0,0,juliangregorian,,,I think GP may be referring to the &quot;unnecessary use of cat&quot;,1425104392.0
+56,9122966,comment,9122788.0,9122788.0,0,0,fsk,,,I&,
+57,9122965,comment,9122195.0,9122902.0,0,0,thejosh,,,"Of course, most good opensource have a corporate arm behind them, which helps fund development.",1425104347.0
+58,9122964,comment,9122538.0,9122538.0,0,0,mikerichards,,,"Pair programming works pretty well...just not full-time.  I think the optimal situation would be half-days or maybe less depending on the pairs and the situation.  Also, some more mundane tasks (bug-fixing) aren&",
+59,9122963,comment,9122397.0,9122397.0,0,0,Animats,,,"A user-supported search engine has promise. A telco, a handset maker, or a country could do an ad-free search engine.  Cuil had about 30 people, and eventually got a half-decent search engine.  It&",
+60,9122961,comment,9120770.0,9122494.0,0,0,lorennorman,,,"Manufacturing is out of scope for this product, at current. It is firmly a prototyping tool, not a production tool. The idea is to make it trivial for designers to iterate so they will do more of it. More iterations means better games, faster, and we all win.",1425104216.0
+61,9122960,comment,9121686.0,9121686.0,0,0,masterzora,,,Obligatory disclosure: I currently work at Google but I don&,
+62,9122958,comment,9122155.0,9122155.0,0,0,anseljh,,,"Under California law, data breach notifications &quot;shall be made in the most expedient time possible and without unreasonable delay&quot;.<p>Civil Code § 1798.82(a): \n<a href=""http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.82"" rel=""nofollow"">http://leginfo.legislature.ca.gov/faces/codes_displaySection...</a><p>I find it hard to square that requirement with Uber waiting 5 months from when it found out.",1425104080.0
+63,9122957,comment,9120770.0,9122406.0,0,0,lorennorman,,,Yes! That&,
+64,9122956,comment,9122742.0,9122742.0,0,0,icegreentea,,,So I was super excited when IPython started rolling widgets into itself - I thought I would be using them a lot. But turns out that I just ended up using one pattern (slider + matplotlib to cycle through dataset visualizations). What I&,
+65,9122955,comment,9121686.0,9122166.0,0,0,jeorgun,,,"Which, as the link mentions, it <i>is</i>— just because their (intentional?) misspelling happens to coincide with an earlier form, doesn&",
+66,9122954,story,,,3,0,cezarywojcik,Rock Paper Scissors,http://cezarywojcik.com/2015/02/27/rock-paper-scissors,,1425103978.0
+67,9122953,comment,9122155.0,9122366.0,0,0,tlrobinson,,,How would such legislation ensure companies are able to detect such breaches in the first place? For every Target/PSN/Anthem/Uber how many companies aren&,
+68,9122952,comment,9120770.0,9122940.0,0,0,lorennorman,,,"Yeah, that&",
+69,9122950,comment,9119606.0,9119606.0,0,0,galigan,,,"I had read the post, thinking that there is a good new direction in wp. At the end, the only valuable thing for me, is rendering templates using the wp-api instead of the big mess of files and code that actually is. Also this way, you don&",
+70,9122949,comment,9122155.0,9122253.0,0,0,Vintila,,,I have no experience in this area so could someone explain how Uber noticed there was a data breach ~4 months after it occurred.,1425103763.0
+71,9122948,story,,,2,0,aytekin,"Meet Cates Holderness, the BuzzFeed Employee Behind ",,,
+72,9122947,story,,,2,0,hardmath123,Harry Potter and the Diagon(alization) Alley,http://hardmath123.github.io/hilbert.html,,1425103686.0
+73,9122946,comment,9122155.0,9122821.0,0,0,walterbell,,,"It can be logistically inconvenient when traveling internationally, a few thousand miles and a few days of shipment delay away from your bank.",1425103683.0
+74,9122944,comment,9122552.0,9122552.0,0,0,Detrus,,,I&,
+75,9122943,comment,9122155.0,9122155.0,0,0,anseljh,,,Here&,
+76,9122942,comment,9106743.0,9106743.0,0,0,csentropy,,,"Love what you are doing. I wanted this to exist for so long, too bad did&",
+77,9122941,comment,9122636.0,9122927.0,0,0,slantedview,,,"I know what you mean, but in America free trade means NAFTA and TPP so it basically is a euphemism.",1425103354.0
+78,9122940,comment,9120770.0,9120770.0,0,0,jldugger,,,"So at this point, you&",
+79,9122939,comment,9122155.0,9122570.0,0,0,Kalium,,,>  Uber is already hamstrung by their inexperienced drivers&,
+80,9122938,comment,9122155.0,9122908.0,0,0,Kalium,,,I believe they&,
+81,9122937,story,,,3,0,Sami_Lehtinen,Google Cloud Platform Status Dashboard,https://status.cloud.google.com/,,1425103273.0
+82,9122936,comment,9122636.0,9122825.0,0,0,walterbell,,,"Further, how could so many TPP/TTIP countries choose (vote?) multiple panels of &quot;international judges&quot; that could override the decisions of &quot;national judges&quot;?  That seems even harder than picking judges for a nation&",
+83,9122935,comment,9121467.0,9121467.0,0,0,2D,,,Ok this may sound stupid but I think there are a lack of words you can satisfactorarily substitute in for swear words.\nI know this as I gave them up for lent.<p>Also many people (example A: PG) with good vocabs still choose to use them.,1425103257.0

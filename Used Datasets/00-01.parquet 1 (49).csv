@@ -1,0 +1,126 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6950307,comment,6949443.0,6949804.0,2,0,mkingston,,,I get the feeling you&,
+1,6950306,comment,6946354.0,6950259.0,1,0,JackMorgan,,,"Yeah, I end up using more a tool called vim macros found in vsvim. They are very powerful. There are only really two commands to remember: record and play. I highly recommend them to anyone who doesn&",
+2,6950305,comment,6950129.0,6950225.0,4,0,paveldurov,,,"Not sure hiring a US security firm is a safer approach than crowdsourcing using the power of the global community.<p>After all, Matasano&",
+3,6950304,comment,6949095.0,6949364.0,4,0,protomyth,,,"If the company is willing to contribute it back, it is probably good software and the company will probably be a good partner.  If the only reason the contribute the code back is because of the license, I would imagine they will suck as a partner and the code probably won&",
+4,6950303,comment,6941168.0,6942435.0,1,0,wpietri,,,"Oh, please. Universities are a fine example of something that the state should fund. Knowledge is a public good. An educated populace is important societal infrastructure, especially in a democracy. Education is such a long-cycle thing that purely private funding of it is deeply problematic.<p>I grant that people working under the rules of wartime discipline have reasonable speech restrictions. And people whose job is to publicly represent the organization also have some limitations on their public speech. But there&",
+5,6950302,comment,6950129.0,6950261.0,13,0,reginaldjcooper,,,> precisely because they show how willing they are to improve their service.<p>Multiple people that know what they are doing have remarked that the system Telegram has created is a bad idea and it would be much better to use any established protocol. They have also pointed out multiple places where Telegram is committing obvious cryptographic blunders in their protocol.<p>Telegram decided to pay out $100k under contest rules that are weaker than known plaintext attacks. If they wanted to actually improve their security they would switch to a more secure protocol that doesn&,
+6,6950301,comment,6948807.0,6948962.0,1,0,asolove,,,"But, that is a bit different. Function calls return one value because expressions evaluate to one value. Functions accept multiple arguments the same way any expression can be made up of multiple values. What the formal parameters allow is a kind of destructuring assignment to give new names to values. (This is especially clear in eg. Clojure.)",1387720666.0
+7,6950300,comment,6950125.0,6950125.0,37,0,DLay,,,From Jay Freeman&,
+8,6950299,comment,6926378.0,6928682.0,1,0,jasonwocky,,,In the same way that Napster lost. Imagine if you&,
+9,6950298,comment,6950163.0,6950163.0,11,0,wj,,,Why restrict what a visitor can copy from your website? By reducing the site&,
+10,6950297,comment,6946354.0,6949402.0,1,0,JackMorgan,,,"OK, I see where you are coming from now.<p>I agree, stealing from a client, that&",
+11,6950296,story,,,167,159,SuperChihuahua,Navy sailors have radiation sickness after Japan rescue,http://nypost.com/2013/12/22/70-navy-sailors-left-sickened-by-radiation-after-japan-rescue/,,1387720590.0
+12,6950295,story,,,1,0,mddo,Who should work at Apple?,http://www.michal.dziadkowiec.pl/2013/12/who-should-work-at-apple/,,1387720571.0
+13,6950294,comment,6950163.0,6950163.0,3,0,adem,,,what about mobile clients?,1387720539.0
+14,6950292,comment,6949095.0,6949408.0,2,0,xradionut,,,How many companies have contributed to help OpenSSH??? Damn few.,1387720520.0
+15,6950291,comment,6950129.0,6950276.0,5,0,ceejayoz,,,Investing heavily is meaningless if you&,
+16,6950290,comment,6949329.0,6949765.0,1,0,marcosdumay,,,What I don&,
+17,6950289,comment,6948536.0,6948536.0,1,0,suprjami,,,What a terrible linkbait title.<p>This implies that Ubuntu hasn&,
+18,6950288,comment,6949095.0,6949881.0,11,0,protomyth,,,"GPL is open for a self-selected group of developers, BSD is open for all developers and a self-selected group passes their changes back.",1387720459.0
+19,6950287,comment,6950129.0,6950231.0,2,0,m_mueller,,,See my replies to makomk and ceejayoz.,1387720454.0
+20,6950286,comment,6948889.0,6949152.0,1,0,mindcrime,,,<i>The guy (Cuban) is on TV for heaven&,
+21,6950285,comment,6948807.0,6949147.0,1,0,asolove,,,"This is the outstanding example of how elevating special function return data into a type adds power, because you&",
+22,6950284,comment,6950129.0,6950273.0,2,0,m_mueller,,,That&,
+23,6950283,comment,6950129.0,6950268.0,7,0,surreal,,,So what? They&,
+24,6950282,story,,,1,0,dnqthao,"Wickr, another secure messenger? ",http://venturebeat.com/2013/11/25/wickr-funding-redesign/,,1387720289.0
+25,6950281,comment,6947081.0,6947081.0,1,0,jacob2271,,,"First things first, as an Indian,<p>Ms. Khobragade if she exploited the maid is in the wrong. The rich and the powerful do get away with a lot in India, which to the chagrin of Ms. Khobragade, she found out was not the case elsewhere.<p>Most of the criticism we see in India about US actions and support for Ms. Khobragade isn&",
+26,6950280,comment,6948889.0,6949321.0,3,0,mindcrime,,,"I had a chance to meet Mark at one of those VC /investor panel things, where he was the keynote speaker.  After his speech, he hung around to talk to people.  By and large, he struck me as a cool guy.  He was in jeans and a polo shirt, and was seemed pretty laid-back for a billionaire.  If you had not known who he was, you really wouldn&",
+27,6950279,comment,6949525.0,6950156.0,0,0,mbq,,,"C only has vectors (1D arrays), the implementation of higher dimensions is up to programmer. I know there is this idea to use vectors of vectors to emulate matrices but it is not at all a part of the language (nor efficient).",1387720256.0
+28,6950278,comment,6950163.0,6950163.0,28,0,protomyth,,,"More important, how do I keep a site from changing what I copy  / paste, because this is the crappiest UI change a site can make.  I am rather sick of copying a phrase and getting a huge site advertisement and url attached.",1387720246.0
+29,6950277,comment,6949329.0,6950154.0,5,0,marcosdumay,,,"> This is a startup. There is no problem domain.<p>Is the startup just a game developers do on their free time? Because if it is trying to solve a problem, there is a problem domain, even if it&",
+30,6950276,comment,6950129.0,6950251.0,0,0,m_mueller,,,Yes it does. Show me another non-profit Open Source (mostly) IM service that invests this heavily in seamless encryption and I&,
+31,6950275,comment,6949525.0,6950150.0,4,0,merijnv,,,The compiler implementation isn&,
+32,6950274,comment,6950012.0,6950012.0,1,0,grey-area,,,I have the same feeling about tagging/annotating struct fields with db-specific information in Golang.,1387720116.0
+33,6950273,comment,6950129.0,6950230.0,6,0,makomk,,,"Why? They just announced that one of the main advertised features of their IM software - the secret chat functionality - was so badly broken that it was worse than not having it at all. It provided absolutely no protection against them eavesdropping on their users, yet those users were chatting under the illusion that they were secure against such eavesdropping. Worse, it seems like the Telegram developers consider this to be a theoretical problem rather than an actual compromise because you can trust them not to spy on you.",1387720110.0
+34,6950272,comment,6950125.0,6950206.0,4,0,kalleboo,,,"Depending on what kind of relationship Apple have with your carrier, different features are disabled or not. For instance, LTE is disabled unless an operator has their network whitelisted by Apple.",1387720056.0
+35,6950271,comment,6948742.0,6950216.0,2,0,pessimizer,,,Using good crypto is fortifying your home. People could easily learn information that could help them secretly enter my home if they could monitor my communications.,1387720036.0
+36,6950270,comment,6950129.0,6950246.0,5,0,growse,,,On it&,
+37,6950269,comment,6950129.0,6950237.0,6,0,Nursie,,,Their effort here seems mostly to have been PR. Their messaging system still uses a bunch of out of date and weird constructions.<p>Sometimes negativity is not bias.,1387720028.0
+38,6950268,comment,6950129.0,6950261.0,4,0,sillysaurus2,,,It&,
+39,6950267,comment,6949329.0,6949833.0,2,0,AznHisoka,,,"I have been using redis as a write though cache(not just a read cache). So I used to have 1000 concurrent writes to my Postgres db. Obviously this had a negative impact on performance even with modern specs(64gb ram, 8 cores). I realized that a lot of those writes we&",
+40,6950266,comment,6950125.0,6950245.0,2,0,kalleboo,,,I&,
+41,6950265,story,,,2,0,l15,"Evad3rs announce iOS 7 jailbreak for iPhone 5S, iPhone 5C, iPad Air",http://www.techienews.co.uk/973977/evad3rs-announce-ios-7-jailbreak-iphone-5s-iphone-5c-ipad-air/,,1387719922.0
+42,6950264,comment,6948805.0,6949497.0,1,0,maxerickson,,,The rate schedules are highly regulated. If they lose the peaks they are going to either get an increase in other rates or throw their hands in the air and turn it all off.<p>The second would be a huge problem. The first is something lots of people are going to complain loudly about.,1387719868.0
+43,6950263,comment,6950129.0,6950129.0,8,0,nly,,,"Given the complexity of bug this in cryptography terms, this was an astonishingly easy earner.<p>Insanely complex software bugs go for less.",1387719821.0
+44,6950261,comment,6950129.0,6950253.0,6,0,oskarth,,,I don&,
+45,6950259,comment,6946354.0,6946609.0,2,0,xivSolutions,,,"Regex can be painful in cases which go beyond the low-lying, easy ones. Also, people have different innate skills. I am one who does not do so well remembering esoteric character combinations. I use regex frequently enough to understand how it works, and what I need, but without fail, I lack the &quot;muscle memory&quot; to just know what to type when doing much more complex than a simple match. This usually leads me to Google, or to a tool like this.<p>I have similar trouble with odd terminal commands and flags.  I am not afraid of them, but it simply not part of my mental make-up to remember them all. The ones I use frequently - no problem. Those I use only occasionally - Google. :-)<p>Let&",
+46,6950258,comment,6949014.0,6949816.0,2,0,chrisfarms,,,I think you just reinvented the &quot;hosts&quot; file there.,1387719720.0
+47,6950257,comment,6950129.0,6950230.0,2,0,techquery,,,"Messages in secret chats are stored on server until downloaded by recipient. So there is no such problem like in Skype.<p>Push notifications also work fine there, except on iOS they don&",
+48,6950256,story,,,1,0,dsego,"A comparison of the two-way binding in AngularJS, EmberJS and KnockoutJS",http://2013.jsconf.eu/speakers/marius-gundersen-a-comparison-of-the-twoway-binding-in-angularjs-emberjs-and-knockoutjs.html,,1387719642.0
+49,6950255,comment,6948807.0,6949051.0,1,0,asolove,,,"Why not have these on data? If they only get returned from one function call, you have to manually deal with them in each function. If attached to data, they can get aggregated over large chains of fn calls.",1387719630.0
+50,6950254,comment,6950125.0,6950175.0,1,0,girvo,,,"I was thinking about this yesterday. I have a few small things, like setting chrome as default, etc. If it&",
+51,6950252,comment,6950125.0,6950125.0,1,0,Edvik,,,I would imagine apps that work on undoing iOS7&,
+52,6950251,comment,6950129.0,6950230.0,7,0,ceejayoz,,,Really? The fact that they addressed security concerns with &quot;they&,
+53,6950250,comment,6948805.0,6949793.0,1,0,jsmcgd,,,"Just to muddy the waters further, most people are at work when the sun is strongest leading some to recommend that home PV arrays should be orientated towards the evening sun. Of course if your home and work electricity grid is connected then this could be mitigated.",1387719542.0
+54,6950248,comment,6949652.0,6949652.0,2,0,oakwhiz,,,"So they have a patch to fix it, but can&",
+55,6950247,comment,6949014.0,6949816.0,3,0,gibybo,,,Because it&,
+56,6950246,comment,6950129.0,6950129.0,32,0,oskarth,,,"<i>The developer who found the potential weakness has earned a reward of $100,000. We have contacted him to find out how he would like to collect his prize.</i><p>This is great news. Contrast this with other security contests were finding out-of-scope security flaws weren&",
+57,6950245,comment,6950125.0,6950193.0,3,0,archagon,,,"In regards to sharing, I believe your provider can detect this and charge you more.",1387719417.0
+58,6950244,comment,6950129.0,6950129.0,2,0,pearjuice,,,What I don&,
+59,6950243,comment,6950129.0,6950189.0,2,0,makomk,,,"Yeah. In essence, it made their nominally end-to-end encrypted secret chat feature no more secure than simply giving the Telegram server operators a plaintext copy of every message you sent and trusting them not to log, read or tamper with it.<p>Worse, it&",
+60,6950242,comment,6949474.0,6950146.0,13,0,ColinWright,,,"There is little use in being able to integrate functions, or to solve trigonometric equations, or to rearrange equations. However, being able to do these sorts of things without thinking too hard then releases the mind to think about other things with freedom.<p>Similarly, effortless recall of the pros and cons of different algorithms and data-structures means that you don&",
+61,6950240,comment,6950129.0,6950237.0,5,0,sillysaurus2,,,<i>This announcement makes it seem like they are in fact moving in the right direction.</i><p>Why?  Because they&,
+62,6950239,comment,6950129.0,6950189.0,3,0,bhitov,,,Vulnerability to passive attacks is worse than vulnerability to active attacks. I&,
+63,6950238,comment,6948807.0,6948983.0,1,0,cafard,,,"For that matter, Ada used parentheses for array offset and for function calls, on the grounds that both map between values. Others, of course, say that this was really because DOD owned so many old keyboards without square braces.",1387719261.0
+64,6950237,comment,6950129.0,6950225.0,4,0,mikegioia,,,I don&,
+65,6950236,comment,6948742.0,6949518.0,5,0,Nursie,,,I didn&,
+66,6950235,comment,6949474.0,6950190.0,4,0,ColinWright,,,It depends.  In many cases it&,
+67,6950234,comment,6946354.0,6947360.0,3,0,xivSolutions,,,"A day or two before he posted the list, he had to go through a run-around with some dude who apparently had copied a whole bunch of his (10 years+) blog content to their own, no attribution, nothing. I believe he deals with this type of thing frequently. I also think this tools list is a popular item for such &quot;re-blogging,&quot;<p>In this particular case, it appeared the offender simply didn&",
+68,6950233,comment,6950129.0,6950129.0,3,0,s1kx,,,"While it is very generous, I doubt they would give a sum like that if it wasn&",
+69,6950232,comment,6950012.0,6950012.0,6,0,wheaties,,,This is what happens when people try to add too much &quot;magic.&quot; It&,
+70,6950231,comment,6950129.0,6950230.0,8,0,sillysaurus2,,,"<i>These latest news have convinced me that Telegram currently has the highest potential to be the right IM tool at my current workplace.</i><p>Why is that?  This latest revelation should give less faith in Telegram, not more.",1387718957.0
+71,6950230,comment,6950129.0,6950129.0,2,0,m_mueller,,,These latest news have convinced me that Telegram currently has the highest potential to be the right IM tool at my current workplace. I have one question that doesn&,
+72,6950229,comment,6948805.0,6949153.0,2,0,walshemj,,,Given its geography why is Hawaii not able to use geothermal like Iceland does?,1387718858.0
+73,6950227,comment,6950125.0,6950206.0,7,0,trauco,,,The hotspot function is carrier-dependent.,1387718799.0
+74,6950226,comment,6949652.0,6950098.0,3,0,sp332,,,FIPS 140-2 isn&,
+75,6950225,comment,6950129.0,6950200.0,14,0,sillysaurus2,,,<i>I applaud their effort at putting out a secure chat app that everyone can use.</i><p>They aren&,
+76,6950224,comment,6946999.0,6949639.0,1,0,suhastech,,,"According to the map here, they do have some Indian cities in blue.",1387718586.0
+77,6950223,comment,6949329.0,6949329.0,2,0,joshguthrie,,,&quot;Blog titles should stop using should.&quot;,1387718575.0
+78,6950222,comment,6950125.0,6950211.0,1,0,ics,,,Everything&,
+79,6950221,story,,,1,0,philbo,Mark Cavendish primed to regain sprint supremacy in 2014,http://www.bbc.co.uk/sport/0/cycling/25405240,,1387718555.0
+80,6950220,comment,6948742.0,6950124.0,1,0,garethadams,,,"The best part was when he copied it from your quoting of his message, but removed the &quot;not&quot; that came before it",1387718462.0
+81,6950219,story,,,1,0,ausman,IOS 7 jailbreak is Out,http://www.shoutpedia.com/ios-7-jailbreak-now-available-download/,,1387718412.0
+82,6950218,comment,6948742.0,6950126.0,1,0,yatsyk,,,"Sorry if I have not been clear, I am non-native speaker too.",1387718405.0
+83,6950217,comment,6950129.0,6950129.0,2,0,sifarat,,,"Bravo Son! you have earned respect for your this deed. Appreciated.<p>On a side note, I am still not sure, if i will ever use this app. This is primarily because, I act on the internet in the same fashion as i do in real life. I won&",
+84,6950216,comment,6948742.0,6949930.0,1,0,DanBC,,,Do you live or work in a building that has windows on the ground floor?<p>Who made your doors?  What specification were your doors built to?  Who  made your door locks?  What specification were they built to?  Who has authority to cut keys to those locks?  How do you know?<p>If you truly are as worried by governments as you claim why are you not fortifying your home?,1387718365.0
+85,6950215,story,,,1,0,giorgosera,Examples of mobile native ad formats,http://www.avocarrot.com/blog/native-advertising-on-mobile-explained-part-2-native-ad-formats-mobile/,,1387718356.0
+86,6950214,comment,6950153.0,6950180.0,1,0,ericthegoodking,,,interesting! so are you a T employee or H?,1387718256.0
+87,6950213,comment,6950012.0,6950121.0,3,0,nautic,,,"Actually, the property is just a value of a type having a name. The property has the responsibility to hold and provide access to its value. It&",
+88,6950211,comment,6950125.0,6950182.0,2,0,mitchell209,,,I just installed it and it doesn&,
+89,6950210,comment,6950129.0,6950129.0,5,0,jes,,,I question whether Telegram is actually delighted with how this unfolded. I also think it&,
+90,6950209,comment,6949014.0,6949349.0,2,0,DennisP,,,Let&,
+91,6950207,comment,6950125.0,6950175.0,1,0,thejosh,,,"lockscreen info is great, I can&",
+92,6950206,comment,6950125.0,6950193.0,0,0,IBM,,,Those things are already possible without jailbreaking.,1387718125.0
+93,6950205,comment,6950125.0,6950203.0,2,0,IBM,,,A custom keyboard is not something I find compelling.,1387718077.0
+94,6950204,comment,6950125.0,6950125.0,2,0,ytch,,,"If you visit it in Chinese locale, It shows evasi0n7 includes  an app &quot;Taichi Assistant&quot; for install APP, tweak. A replacement for cydia?",1387718008.0
+95,6950203,comment,6950125.0,6950175.0,7,0,mrich,,,Are custom software keyboards officially \n available yet? This would be the first thing I would miss.,1387717972.0
+96,6950202,comment,6950129.0,6950129.0,8,0,abus,,,This is actually really generous considering it didn&,
+97,6950201,comment,6949887.0,6949887.0,1,0,ngyikhong,,,can you help me to hack uberstrike on facebook but i give you the webside (viphackscraked.org),1387717863.0
+98,6950200,comment,6950129.0,6950129.0,8,0,mikegioia,,,Good for Telegram. I haven&,
+99,6950199,comment,6950129.0,6950187.0,5,0,lelf,,,With this bug <i>people who run server</i> have access to your entire chat.<p>(Of course they won&,
+100,6950198,story,,,2,0,RougeFemme,Why Good Programming Projects Go Bad,http://www.fastcolabs.com/3023543/why-good-programming-projects-go-bad,,1387717822.0
+101,6950197,comment,6950129.0,6950181.0,1,0,charlesdm,,,"Of course they could, considering the severity of the issue in the protocol this guy discovered. They just decided not to.",1387717766.0
+102,6950196,comment,6950125.0,6950171.0,2,0,joshstrange,,,IIRC you have to have the phone in question registered as a developer phone to do that. There are sites that will add your phone to their dev account for ~$10 (vs the $100/yr dev program) but it&,
+103,6950195,comment,6949329.0,6949991.0,2,0,gaius,,,"There is no possible argument to make. There are a million - probably more - highly available RDBMS systems all over the world handling real money and real goods and services, 24/7. You can argue if you wish that tables are not a good way to store particular data structures, fine. But the claim that RDBMSs are unreliable is just ludicrous and had been for 30 years.",1387717705.0
+104,6950194,comment,6950125.0,6950171.0,1,0,ashray,,,"Well, I don&",
+105,6950193,comment,6950125.0,6950175.0,9,0,cfontes,,,I have several to do it.<p>The one that pisses me off the most is not having &quot;Lockinfo&quot;.<p>Another one is to be able to share your internet with a PC without begging to your provider.<p>And the list goes on. (facetime on 3G...),1387717683.0
+106,6950192,story,,,1,0,ngyikhong,Homepage,http://viphackscracked.org/,,1387717665.0
+107,6950191,comment,6949095.0,6950046.0,4,0,justincormack,,,The Centos part is the control layer that runs on AWS that people talk about mostly. The BSD part is the actual video streaming.,1387717660.0
+108,6950190,comment,6949474.0,6949474.0,1,0,droptableusers,,,"I am just a student but do interview questions come without any concrete problem to solve? Or are they really like &quot;Which data structure would you use for repetitive look-ups?&quot;, &quot;Implement FizzBuzz&quot; and so on instead of something like &quot;You need to look up a words in a English dictionary for a spelling program, how would you solve it?&quot;.",1387717615.0
+109,6950189,comment,6950129.0,6950181.0,6,0,sillysaurus2,,,"<i>This was not the goal of the bounty, but was still a serious issue.</i><p>To be clear, this bug was enough to compromise the security of every Telegram secret chat session.  I can&",
+110,6950188,comment,6950125.0,6950171.0,1,0,jreed91,,,I&,
+111,6950187,comment,6950129.0,6950129.0,3,0,jsumrall,,,I thought a lot of people pointed out ways to attack the security protocol if they had physical server access.,1387717587.0
+112,6950186,comment,6948506.0,6949603.0,1,0,gress,,,Sure - don&,
+113,6950185,comment,6950125.0,6950125.0,1,0,sevenminaya,,,"I have been waiting for this, thank you.",1387717546.0
+114,6950184,comment,6948742.0,6950092.0,2,0,Morgawr,,,You&,
+115,6950183,comment,6950129.0,6950178.0,4,0,adambenayoun,,,"Other people claimed that the Telegram team might find that bug to be outside of the scope of their bounty contest, so $100k is better than nothing (and to be frank I&",
+116,6950182,comment,6950125.0,6950177.0,2,0,ics,,,"Jailbreaking now, we&",
+117,6950180,comment,6950153.0,6950153.0,2,0,mswen,,,"Many people talk about the &quot;T&quot; employee - the person who acquires deep knowledge in one area but then acquires skills and experience very broadly but at a much more shallow level.  And if it is a serif font - you have a couple other areas where you also develop some depth.<p>A second approach might be more like an &quot;H&quot;.  You develop two strong specialties, either of which on their own are valuable.  But then you figure out the cross-disciplinary bridge that ties them together and makes you more productive and valuable than either would by themselves.",1387717450.0
+118,6950179,comment,6948506.0,6949698.0,1,0,gress,,,Why most likely?  It&,
+119,6950178,comment,6950129.0,6950129.0,4,0,growse,,,Seems a little.... arbitrary....?<p>Don&,
+120,6950177,comment,6950125.0,6950125.0,5,0,mitchell209,,,"Hopefully F.lux works still. That was the worst thing about using a new, unjailbroken iPhone and iPad. Especially now that iOS 7 has a lot of white UI.",1387717361.0
+121,6950176,comment,6946909.0,6949781.0,1,0,SamReidHughes,,,I read the post.  It&,
+122,6950175,comment,6950125.0,6950125.0,21,0,IBM,,,I can&,
+123,6950174,comment,6948805.0,6949595.0,1,0,hrjet,,,"I like option 3. Why is it a bad outcome for the average electricity user? As the demand on the grid reduces the prices should fall down for those using the grid. In the very least, they shouldn&",
+124,6950172,comment,6948742.0,6949918.0,11,0,salient,,,"Completely disagree. It was just a week or two before Snowden came out that New York Times was praising Skype for how &quot;secure&quot; it is, even against government snooping. The poor souls thought Skype was still P2P, when that stopped being true many years before. The NYT journalists were also probably using Skype to talk to their sources, thinking they are secure. That&",

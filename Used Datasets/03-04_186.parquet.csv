@@ -1,0 +1,127 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8995226,comment,8993464.0,8994682.0,0,0,wyager,,,I&,
+1,8995225,comment,8994943.0,8994943.0,0,0,FroshKiller,,,I was charged with a felony (unauthorized access of a government computer) back in 2004. I had just graduated from college and was looking for steady work. I faced some pressure from friends and family to plea bargain even though I was innocent simply because they feared I&,
+2,8995224,comment,8993464.0,8993757.0,0,0,wyager,,,A 20% cut is not &quot;arbitrary&quot;. It&,
+3,8995223,comment,8993464.0,8993925.0,0,0,eevo,,,"Native Iowan, same goes for Dubuque Iowa.",1423022250.0
+4,8995222,story,,,1,1,sublimecoder,Don't comment your code,http://sublimecoding.com/blog/2015/01/12/dont-comment-your-code-rewrite-it/,,1423022195.0
+5,8995221,comment,8993464.0,8995112.0,0,0,wdr1,,,That&,
+6,8995220,comment,8984648.0,8993034.0,0,0,Roboprog,,,"Er, what&",
+7,8995219,comment,8995055.0,8995055.0,0,0,ggchappell,,,Does &quot;unseen&quot; mean something special in this context? Or does it simply mean that no one has seen it before?,1423022093.0
+8,8995218,comment,8994701.0,8995135.0,0,0,click170,,,"Do you have any advice with regards to institutional knowledge transfer, or have you seen any examples of when this was done exceptionally well?<p>Knowledge transfer problems have been a running theme at many of my previous work places, I&",
+9,8995217,story,,,2,0,sublimecoder,Ruby Web Game library on top of Opal.rb,https://github.com/nicklink483/dare,,1423022083.0
+10,8995216,comment,8991853.0,8994163.0,0,0,jussij,,,What do you define as a <i>large file</i>?<p>For example Atom seems to think a 2 MByte file is large.<p>I personally think 100 MBytes files are quite large.<p>But some users with massive log files consider Giga Byte files as being large.,1423022042.0
+11,8995215,story,,,1,0,louhong,Applying game theory to the Super Bowl,http://www.economist.com/blogs/gametheory/2015/02/game-theory-american-football?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fdefendingtheindefensible,,1423021995.0
+12,8995214,comment,8989631.0,8991047.0,0,0,ChuckMcM,,,"It does, which is interesting. I have a number of BBB modules and a couple of RPi modules (still waiting on the 2) and an ODROID C3 which is faster than the BBB but not nearly the community support. I expect the Pi 2 to reach parity with the BBB (given the CPU). Nice that they kept the price down as that keeps it viable in this niche.",1423021991.0
+13,8995213,comment,8991960.0,8995157.0,0,0,cperciva,,,"<i>How does this compare to LTS from Canonical/Red Hat?</i><p>Ubuntu has a LTS release every 2 years, which is supported for 5 years.  FreeBSD will have a release every 2ish years, which is supported for 5 years.<p><i>How easy is it going to be to keep up with the changes between the minor releases?</i><p>It&",
+14,8995211,comment,8991025.0,8995137.0,0,0,cubano,,,"<i>For example, do amphetamine and cocaine addicts get more work done in the long run?</i><p>I can tell you from a lifetime of experience with addicts I&",
+15,8995210,story,,,2,0,shahocean,Selfies were the cause of a deadly plane crash in the United States: Government,http://qz.com/338139/selfies-caused-a-deadly-plane-crash/,,1423021789.0
+16,8995209,comment,8991041.0,8994623.0,0,0,ggchappell,,,> I don&,
+17,8995208,comment,8992129.0,8992129.0,0,0,kweinber,,,nice knowin&,
+18,8995207,comment,8994975.0,8994975.0,0,0,gcb0,,,"except you are wrong about medium.<p>they make money with the worst kind of ads these days. Those &quot;recommended&quot; &quot;articles&quot; (yeah, both words with air quotes) at the end of the article, from the likes of outbrain or taboola.",1423021712.0
+19,8995206,comment,8994332.0,8995144.0,0,0,tidwall,,,"Dead code elimination is built in, but not super duper yet. There&",
+20,8995205,comment,8991853.0,8994734.0,0,0,jussij,,,Machines these days have Giga Bytes of RAM so handling a file only a few megabytes in size should hardly be an issue.<p>I&,
+21,8995204,story,,,3,0,zbravo,Yahoo’s Small-Business Unit Draws Short Straw in Alibaba Spinoff,http://blogs.wsj.com/digits/2015/02/03/yahoos-small-business-unit-draws-short-straw-in-alibaba-deal/,,1423021606.0
+22,8995203,comment,8993481.0,8994630.0,0,0,analog31,,,">>> 3. Split it down the middle<p>Why split it, rather than just using the entire tubular pole? No doubt I&",
+23,8995202,comment,8991960.0,8995177.0,0,0,cperciva,,,"<i>11 will be supported for no less than 5 years</i><p>FWIW, this was how long we typically supported releases anyway -- FreeBSD 6.x was supported from November 2005 until November 2010, FreeBSD 7.x was supported from February 2008 until February 2013, FreeBSD 8.x from November 2009 until June 2015, and FreeBSD 9.x from January 2012 until December 2016 -- but we heard from users that a promise was far more useful than a vague &quot;well, typically...&quot;.<p><i>Whenever a new point release is made (e.g. 11.1) all previous point releases will be deprecated after 3 months (e.g. 11.0)</i><p>This is really the most important change, and addresses a problem we&",
+24,8995201,comment,8991988.0,8995037.0,0,0,noveltyaccount,,,Doesn&,
+25,8995200,comment,8993481.0,8994427.0,0,0,cheepin,,,"A few more observations based on my experience with heavy squats.<p>1.) If the weight gets misplaced, a simple straight bar can be rolled back up to a more &quot;comfortable&quot; position. A curved (C shaped) bar under load finds an equillibrium point and you can&",
+26,8995199,comment,8994332.0,8995134.0,0,0,tidwall,,,Please file a bug on Github and I&,
+27,8995198,comment,8993481.0,8993481.0,0,0,hyperion2010,,,As said by many others: they really aren&,
+28,8995197,comment,8984926.0,8986935.0,0,0,stephengillie,,,"<a href=""http://www.psmag.com/health-and-behavior/truth-wont-admit-drinking-healthy-87891"" rel=""nofollow"">http://www.psmag.com/health-and-behavior/truth-wont-admit-dr...</a><p><a href=""http://content.time.com/time/magazine/article/0,9171,2017200,00.html"" rel=""nofollow"">http://content.time.com/time/magazine/article/0,9171,2017200...</a>",1423021419.0
+29,8995195,comment,8993058.0,8995154.0,0,0,kumarm,,,"[exclusively sell electronic components, hobbyist kits and stop selling things like TV and phones ]<p>So sell low margin products and leave out high margin products? How do you expect that to work for a business?",1423021362.0
+30,8995194,story,,,1,0,Startups411,"Show HN: News, Chat and Podcasts App for App Entrepreneurs and Game Developers",https://itunes.apple.com/us/app/monetize-news-chat-podcasts/id954976702?ls=1&mt=8,,1423021361.0
+31,8995193,comment,8991794.0,8991794.0,0,0,rajacombinator,,,The main advantages would be on the cost side. Obv removing the pilots. Also removing all cockpit gear which is probably costly. And that space could then be used for additional seating.,1423021339.0
+32,8995192,comment,8988949.0,8993896.0,0,0,Roboprog,,,F22 - good; F35 - bad.,1423021325.0
+33,8995191,comment,8991026.0,8993427.0,0,0,stormbrew,,,Huh? I don&,
+34,8995190,comment,8991866.0,8992062.0,0,0,apeace,,,"Clifton does not argue that the measurement is not available. I think he is arguing that U3 is not the most useful figure for Americans to hear the most about, from supposedly trustworthy sources.<p>> Here&",
+35,8995189,comment,8994839.0,8994839.0,0,0,nkantar,,,This accomplished two things:<p>1. I now know a few things I&,
+36,8995188,comment,8994049.0,8994377.0,0,0,spdustin,,,Not happening to me using Yosemite. Maybe a package conflict?,1423021123.0
+37,8995187,comment,8994839.0,8994839.0,0,0,pippy,,,"It is annoying when copying a movie to a USB, and having to empty the entire trash bin to fit it on the USB stick. I guess it does enforce you to be a bit cleaner.<p>I don&",
+38,8995186,comment,8994701.0,8995012.0,0,0,noonespecial,,,Its probably weirder than that. As soon as their system &quot;lost containment&quot; all of that money probably just diffused into the market like smoke amid hundreds of thousands of trades. There&,
+39,8995185,comment,8991041.0,8994124.0,0,0,tsomctl,,,Not sure what you are saying. If you mean that a jammer isn&,
+40,8995184,comment,8994701.0,8995020.0,0,0,userbinator,,,"At first I thought you had written &quot;rocket&quot; instead of &quot;socket&quot;, which would also make much sense.",1423020953.0
+41,8995183,comment,8994839.0,8994839.0,0,0,konsumer,,,I do this if I forget to add .DS_Store to .gitignore when working with git repos: find . -name .*DS_Store -delete,1423020924.0
+42,8995182,comment,8991025.0,8994649.0,0,0,visakanv,,,I remember the point Alan Watts used to make that I agreed with strongly– it&,
+43,8995181,comment,8994701.0,8994952.0,0,0,vacri,,,"The story also points out that there were no emergency procedures. While not as instantaneous as a kill switch, known good procedures could have significantly reduced the final effect.",1423020818.0
+44,8995180,comment,8992654.0,8994776.0,0,0,geographomics,,,"This paper from 2011 has a nice comparison of the two methods, there&",
+45,8995179,story,,,17,5,prostoalex,Andrew Mason launches audio tour app in San Francisco,http://mashable.com/2015/02/03/detour-app/,,1423020740.0
+46,8995178,comment,8991866.0,8994624.0,0,0,beagle3,,,"While I agree that Shadowstats is likely wrong, your counterfactual statement is not really counterfactual:<p>In the 70s and even early 80s, it was possible to support a family of 4 on the income of one average wage earner. In the 50s it was even a good life. Today it is nearly impossible to do, so something very significant happened to the value of money that is not reflected in the official inflation/wage disparity.<p>TVs and computers cost about 90% less than they did in 1980, and that&",
+47,8995177,comment,8991960.0,8995157.0,0,0,tiffanyh,,,"X-Istence, the announcement is very straight forward ... but for the lazy it&",
+48,8995176,story,,,2,0,MrBra,"RubyFlow, the Ruby Community Linklog, Relaunches",http://www.rubyflow.com/p/8hqxpd-the-all-new-rubyflow-for-2015,,1423020631.0
+49,8995175,comment,8991812.0,8993082.0,0,0,jordsmi,,,People sell accounts that are from phishers and botnets. Which is mostly less work than using stolen CCs<p>You can buy the accounts for $2 or you can pay $20 for unlimited accounts. They sell programs that you click a button and it just gives you another hacked account from their database.,1423020627.0
+50,8995174,comment,8994126.0,8994890.0,0,0,simula67,,,"I think MOAR was designed specifically to run NQP efficiently.<p>NQP is a subset of Perl 6 which the Perl 6 compiler is written in. That compiler takes a program written in Perl 6 and converts it into NQP. That NQP program is then compiled to different targets such as JVM, Parrot etc. This is my understanding, of course.",1423020534.0
+51,8995173,story,,,170,30,dluan,Earth Primer,http://www.earthprimer.com/,,1423020521.0
+52,8995172,comment,8990869.0,8992396.0,0,0,otakucode,,,The roguelike Angband has had a bot built into it for at least 20 years... I don&,
+53,8995171,comment,8995055.0,8995055.0,0,0,andrewfhart,,,This is definitely one of the cleaner implementations I&,
+54,8995170,comment,8994701.0,8994701.0,0,0,__abc,,,"This must be an old wives tale.  I live in Chicago and a trading form on the floor beneath us went bankrupt, in roughly the same time, with a similar &quot;repurposed bit&quot; story.<p>Maybe it&",
+55,8995169,comment,8992654.0,8992654.0,0,0,transfire,,,One has to really admire the &quot;free world&quot; where everything is made illegal until our benevolent rulers so graciously let us do otherwise.,1423020425.0
+56,8995168,story,,,1,0,kylehorn,Daily Developer 5,http://www.kylehorn.it/blog/daily-developer-5,,1423020419.0
+57,8995167,comment,8991025.0,8995137.0,0,0,djcapelis,,,Define addict.<p>That&,
+58,8995166,comment,8991866.0,8992313.0,0,0,ChrisLomont,,,"Wages are rising [1]<p>[1] <a href=""https://research.stlouisfed.org/fred2/series/ECIWAG"" rel=""nofollow"">https://research.stlouisfed.org/fred2/series/ECIWAG</a>",1423020365.0
+59,8995165,comment,8994701.0,8994951.0,0,0,serve_yay,,,"This is a story about the importance of DevOps, i.e., this company went bankrupt because of poor DevOps practices.",1423020362.0
+60,8995164,comment,8993058.0,8994731.0,0,0,hdctambien,,,"So, just have the UPS guy come to McDonalds to deliver your package while you&",
+61,8995163,comment,8992654.0,8992654.0,0,0,brianpgordon,,,"> Other groups, including Human Genetics Alert, say the move would open the door to further genetic modification of children in the future - so-called designer babies, genetically modified for beauty, intelligence or to be free of disease.<p>There are people who don&",
+62,8995161,comment,8992654.0,8995122.0,0,0,stenl,,,Men would get on average 1/3 daughters (XX) and 2/3 sons (XY and YX). The YY offspring would not be viable. Women would only get daughters.,1423020278.0
+63,8995160,comment,8990938.0,8990938.0,0,0,nbaman_23,,,"For L.A. residents, this is pretty wild. Drives me nuts. This is what happens when bureaucratic agencies run wild, with no one but helpless citizens to hold them accountable [emphasis added]. This is why this is such a great idea!<p><a href=""http://losangeles.cbslocal.com/2014/11/12/city-leaders-react-to-bogus-parking-tickets-exposed-by-cbs2-report/"" rel=""nofollow"">http://losangeles.cbslocal.com/2014/11/12/city-leaders-react...</a>",1423020261.0
+64,8995159,comment,8989714.0,8990884.0,0,0,imron,,,"The difference being that the Flappy Bird guy was doing skilled labour (programming) of that sort that is likely to help end poverty cycles.<p>Compare that to thousands of people dropping out of the education system early to do unskilled factory work because it pays well above average salaries.<p>Imagine for example you could make $120,000 a year as a programmer, or $200,000 a year doing factory work.  Do you think society will produce more programmers or more factory workers?<p>Imagine what happens a few years down the line when the multinational that owns the factory decides to up and move to another country in order to reduce costs.",1423020237.0
+65,8995158,comment,8990377.0,8992089.0,0,0,functional_test,,,"I had ~3TB before I migrated to TokuMX (same semantics, but at the time much faster indices and lower disk space requirements). It was replicated twice, although I could let reads on slaves fall behind a bit.<p>Of course it&",
+66,8995157,comment,8991960.0,8991960.0,0,0,X-Istence,,,I&,
+67,8995156,comment,8987602.0,8989490.0,0,0,iopq,,,"yeah, for kiting/splitting a bot can just do this easily<p>now think what the bot would have to do if it&",
+68,8995155,comment,8991011.0,8992948.0,0,0,tinalumfoil,,,Here&,
+69,8995154,comment,8993058.0,8993058.0,0,0,DigitalSea,,,"This could be very interesting if it proves to be true. Seeing Amazon purchase Radioshack and then miraculously return it to its former glory and exclusively sell electronic components, hobbyist kits and stop selling things like TV and phones would be a move that I would wholeheartedly support as would my inner 7 year old self who has fond memories of going to Radioshack with my dad and buying a bag of LED&",
+70,8995153,comment,8991041.0,8994702.0,0,0,quadrature,,,"Perhaps, I didn&",
+71,8995151,comment,8991966.0,8994986.0,0,0,rayiner,,,"> It is difficult to call it a fact since there was no trial, no due process, nor evidence cited by US government in the killing of its citizen.<p>Trials, due process, evidence, these are domestic legal concepts. They don&",
+72,8995150,comment,8993481.0,8993908.0,0,0,serf,,,This unfortunately excludes all users&,
+73,8995148,comment,8995101.0,8995101.0,0,0,prakster,,,"More info:\n<a href=""http://blogs.wsj.com/digits/2015/02/03/yahoos-small-business-unit-draws-short-straw-in-alibaba-deal/"" rel=""nofollow"">http://blogs.wsj.com/digits/2015/02/03/yahoos-small-business...</a>",1423020084.0
+74,8995147,story,,,3,0,sohkamyung,"3D Printing in Space: Four Months In, an Update from Made in Space",https://medium.com/@MadeInSpace/3d-printing-in-space-the-end-of-the-beginning-561f0c384983,,1423020082.0
+75,8995146,comment,8991866.0,8994006.0,0,0,beagle3,,,> One strong reason to prefer U3 is that the series is available much further back in time.<p>Isn&,
+76,8995145,comment,8991239.0,8992533.0,0,0,JohnMunsch,,,"- The answer to why you have to use $timeout, $interval, etc. is simple. If you do it that way then AngularJS knows when you might have made a change in the scope and can look to see if there are updates to be made in the UI or watches to fire. It is a convenience system to avoid you having to tell the system that new data arrived from an earlier call to the web server and that you assigned it to a variable that also happens to appear in multiple spots on the page. React does not &quot;embrace&quot; that issue either. It does not magically know when to update itself on timer events or AJAX responses without some help.<p>P.S. You can absolutely use anything you like other than the provided wrappers. If you do, just call $apply() afterward. That&",
+77,8995144,comment,8994332.0,8994684.0,0,0,TazeTSchnitzel,,,Why doesn&,
+78,8995143,comment,8990869.0,8992190.0,0,0,Natsu,,,"To be fair, there&",
+79,8995142,comment,8992376.0,8994447.0,0,0,Turing_Machine,,,"Well, sure. Original, handwritten documents are almost always considered more valuable/important than nth-generation copies.<p>E=MC^2 is going to be a lot more valuable in Einstein&",
+80,8995141,comment,8991988.0,8991988.0,0,0,bJGVygG7MQVF8c,,,test,1423020018.0
+81,8995140,comment,8991853.0,8992564.0,0,0,mmebane,,,I&,
+82,8995139,comment,8993058.0,8993398.0,0,0,ozi,,,"Also, returns. How cool would it be if you could just run the product down the street to return it instead of having to ship it back?",1423019926.0
+83,8995138,comment,8991866.0,8991866.0,0,0,ThomPete,,,I must say I am chocked at how many people seem to defend the U3 definition vs. U6<p>As far as can tell the number of actual fulltime jobs is decreasing and the number of jobs that aren&,
+84,8995137,comment,8991025.0,8994854.0,0,0,meowface,,,It&,
+85,8995136,comment,8991025.0,8994955.0,0,0,jonnathanson,,,This is exactly why I&,
+86,8995135,comment,8994701.0,8994958.0,0,0,vinceguidry,,,"It is, ultimately, a management problem.<p>Computer systems are rarely useful on their own. They need to be attached to some other process in order to derive any value from them. Sometimes it&",
+87,8995134,comment,8994332.0,8994332.0,0,0,TazeTSchnitzel,,,"Disappointed that while it has Japanese katakana like the original, it&",
+88,8995133,story,,,4,0,_RPM,C++1y/C++14 Support in GCC,https://gcc.gnu.org/projects/cxx1y.html,,1423019842.0
+89,8995132,comment,8991025.0,8995076.0,0,0,jdc,,,Thorazine.,1423019815.0
+90,8995131,comment,8992654.0,8994865.0,0,0,2muchcoffeeman,,,The &,
+91,8995130,comment,8991239.0,8991239.0,0,0,cmstoken,,,"AngularJS is not a great framework. In fact, it&",
+92,8995129,comment,8991011.0,8992054.0,0,0,michaelmior,,,Doesn&,
+93,8995128,comment,8994332.0,8994332.0,0,0,bikamonki,,,"A bit off topic sorry: the fact that so many languages are compiled to JS shows that everything is moving/already moved to the browser, might as well learn and use vanilla JS, no?",1423019743.0
+94,8995127,comment,8992654.0,8994857.0,0,0,stenl,,,"We did it four times, and now have four beautiful sons aged 4 - 15 (some requiring a couple of attempts). Not saying IVF will be easy for you, but that it&",
+95,8995126,story,,,86,58,gmays,Paradoxes That Threaten to Tear Modern Cosmology Apart,https://medium.com/the-physics-arxiv-blog/the-paradoxes-that-threaten-to-tear-modern-cosmology-apart-d334a7fcfdb6,,1423019695.0
+96,8995125,comment,8990377.0,8991869.0,0,0,functional_test,,,"I had ~3TB and it was all on hard disks (although we had quite a bit of RAM). Ultimately I switched to TokuMX which substantially reduced my disk foot print, but I was a very happy MongoDB user.<p>My use cases may have helped (they were very appropriate for MongoDB, but I suppose I would have chosen something else if they weren&",
+97,8995124,comment,8991988.0,8994408.0,0,0,kinghajj,,,"Holy crap, do you have a link that explains that in more detail? That sounds amazing.",1423019613.0
+98,8995123,comment,8992376.0,8992376.0,0,0,ekanes,,,If anyone&,
+99,8995122,comment,8992654.0,8995100.0,0,0,geographomics,,,That&,
+100,8995121,story,,,1,5,Startups411,Ask HN: How Do You Keep BetaList Beta Testers Happy and Engaged?,,"I woke up yesterday to find the congratulatory BOOM SHAKALAKA! email from BetaList Founder Marc Köhlbrugge saying that http://betalist.com/startups/startups-411 was now featured on their site!<p>Startups 411 is a very niche app with a very specific audience, so I&",
+101,8995120,comment,8994332.0,8994770.0,0,0,bikamonki,,,"Awesome but your vanilla JS version uses more CPU than GopherJS (at least in my laptop), any idea why?",1423019574.0
+102,8995119,comment,8995044.0,8995044.0,0,0,owly,,,Get out of the cities. Climb a mountain to a secluded temple and live for a day or two with monks.,1423019558.0
+103,8995118,comment,8993464.0,8994669.0,0,0,yourapostasy,,,Very unfortunately not the case. I didn&,
+104,8995116,comment,8993464.0,8993464.0,0,0,aceperry,,,"It would be nice to hear from honest IBM managers, who are doing the firing and downgrading of employees, what is really going on.  Though I&",
+105,8995115,comment,8994332.0,8994964.0,0,0,bikamonki,,,I&,
+106,8995114,comment,8991988.0,8993474.0,0,0,WorldWideWayne,,,I love using simple boring UIs because they are predictable. WPF encourages non-standard custom drawn stuff that only serves to distract from usability in my opinion. WPF also still has weird focus rectangles and font issues.,1423019446.0
+107,8995113,comment,8992281.0,8993601.0,0,0,davidy123,,,"What makes me lose interest in this is the fact that, ironically (considering it&",
+108,8995112,comment,8993464.0,8994803.0,0,0,aceperry,,,I had no idea that Amazon shareholders were patiently waiting for future profits.,1423019432.0
+109,8995111,comment,8992779.0,8994689.0,0,0,Mandatum,,,Well if they&,
+110,8995110,comment,8985625.0,8994743.0,0,0,dd36,,,What is the government taking over?,1423019385.0
+111,8995107,comment,8991988.0,8995064.0,0,0,jussij,,,My mum and dad both uses their computers on a daily basis and yes on occasions things don&,
+112,8995106,comment,8992654.0,8992654.0,0,0,e0m,,,"One could have a Mom, Dad, and ???",1423019299.0
+113,8995105,comment,8994126.0,8995051.0,0,0,tbrock,,,"Yes sorry iPhone autocorrect, I&",
+114,8995104,story,,,1,0,idefine,Jonathan Rosenberg: Rules to Success (Video),http://www.youtube.com/watch?v=P1T-1FqUBVY,,1423019211.0
+115,8995103,comment,8991025.0,8994793.0,0,0,cubano,,,"Absolutely, I agree...I tried to be very careful in my post(s) not to condemn drug use in any way, and understand that 90% of people who do drugs have no long term issues with them.<p>I&",
+116,8995102,story,,,2,0,MrBra,Whiplash (2014),http://www.imdb.com/title/tt2582802/,,1423019153.0
+117,8995101,story,,,3,1,prakster,PG's original startup being used as a pawn by Marissa Mayer of Yahoo,http://recode.net/2015/02/03/yahoo-to-fob-off-yahoo-small-business-to-alibaba-spinco/,,1423019139.0
+118,8995099,comment,8991966.0,8994478.0,0,0,will_brown,,,"Member States may not collude to circumvent international law.  Certainly Yemen and the US could have cooperated and presented their case in an attempt to obtain the authorization from the Security Council.<p>Oddly the US legal justification is not that their action complies with International Law, rather that International Law does not apply...instead the US&",
+119,8995098,comment,8994701.0,8994916.0,0,0,otakucode,,,I was honestly surprised the NYSE/NASDAQ didn&,
+120,8995097,comment,8992654.0,8994987.0,0,0,tn13,,,"Honestly, a cheap and infinite source of energy is all we need. Nuclear and Solar engergy is sooner or later going to be both cheap and near infinite. That is likely to solve most problems for humanity.",1423018985.0
+121,8995096,comment,8992376.0,8993547.0,0,0,TazeTSchnitzel,,,Presumably the reason for not using mercury is safety?<p>Are metallic delay lines sufficiently similar to mercury tanks that it&,
+122,8995095,story,,,1,0,avong,What mobile B2B app would you develop and market in 2015?,,,1423018932.0
+123,8995093,story,,,1,0,joaocunha,The 5 Pillars of a Solid Front-End,https://medium.com/@joaocunha/the-5-pillars-of-a-solid-front-end-70e4c25180da,,1423018905.0
+124,8995091,comment,8993464.0,8994374.0,0,0,TheCondor,,,"fwiw, they did a great job taking care of me and some other heavy hitters while I was there.  Regular bonuses, very very nice salaries, and it was predictable.  I worked on products though, not services, and our product made money.<p>honestly, I don&",
+125,8995090,comment,8991853.0,8994783.0,0,0,serf,,,"I just switched back to emacs from testing atom for a few weeks, and my biggest issue with it was the speed in opening files from a closed client. emacs deals with it by daemonizing emacs-server, atom deals with it by trying to be performant, but failing. In this day and age, i&",

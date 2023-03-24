@@ -1,0 +1,132 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9156380,comment,9155474.0,9155759.0,0,0,nemesisrobot,,,I can&,
+1,9156379,comment,9155474.0,9155926.0,0,0,nemesisrobot,,,&,
+2,9156378,comment,9153063.0,9153063.0,0,0,tomp,,,One thing I really like about LALR and LR parsers is that they warn you about all ambiguities. IMO that&,
+3,9156377,comment,9155364.0,9156154.0,0,0,ptaipale,,,"I think you misunderstood, because you missed the sarcastic tone that I perceived in the previous parent comment.<p>I agree with what you wrote, of course. I may not <i>like</i> the existence of prostitution, but in order to have others respect my strange preferences, I&",
+4,9156376,comment,9155364.0,9156326.0,0,0,detcader,,,"Women occupy a different social position then men, so we must think about them differently, thus treating them differently. This old talking point about &quot;equal treatment&quot; is a &quot;strawman&quot;.<p>I think if you do a sufficient amount of reading about the history of feminist movements (there are good books, like Lorber&",
+5,9156375,comment,9153642.0,9154542.0,0,0,thekos,,,Yep. Here&,
+6,9156374,comment,9151487.0,9155080.0,0,0,avinassh,,,What is the difference? And how does it matter?,1425635661.0
+7,9156373,story,,,1,0,samuell,Advanced Reflection with Go at HashiCorp,http://blog.gopheracademy.com/birthday-bash-2014/advanced-reflection-with-go-at-hashicorp/,,1425635639.0
+8,9156372,comment,9153063.0,9155660.0,0,0,thu,,,"The name you want for &quot;in the language&quot; is EDSL: Embedded DSL. DSL is quite often used for library-level constructs but really, any concrete syntax (e.g. graphviz&",
+9,9156371,comment,9155741.0,9156095.0,0,0,BrandonM,,,"<i>> Looking at his code, it&",
+10,9156368,comment,9150163.0,9153320.0,0,0,pjmlp,,,That I agree.<p>Regardless of I and others might think about Go&,
+11,9156367,comment,9151487.0,9152532.0,0,0,ofir_geller,,,"Ideas: since you are competing on the price. add a graph showing emails/payment growing with you and mail-chimp/other strong competition side by side. next to it say &quot;lowers is,of course, better.&quot; then you have to attack the main objection(IMHO), lower delivery rate. not sure how but you need to think about the &quot;no one ever got fired for chosing IBM&quot; affect and counter it. you can say something reassuring about SES. or have a quote from a user or two.",1425635522.0
+12,9156366,comment,9153521.0,9153521.0,0,0,carlosthejackal,,,I read a lot of my old Python whenever I need to cheer myself up. Not sure why it helps.,1425635497.0
+13,9156365,comment,9153521.0,9153521.0,0,0,rgrannell1,,,I read lodash&,
+14,9156364,comment,9155364.0,9156281.0,0,0,detcader,,,"The social attitute toward <i>being</i> a prostitute is another thing entirely. I was talking about &quot;social stigma&quot; against using prostitutes.<p>In most contexts &quot;outside of my social circle&quot;, &quot;sex&quot; itself is generally seen as humorous/inappropriate topic, for reasons that I don&",
+15,9156363,comment,9155364.0,9156236.0,0,0,EdwardDiego,,,> I have never actually heard of a male being coerced into prostitution.<p>Does that mean it doesn&,
+16,9156362,story,,,2,0,suraj,How can we do better?,http://www.secretgeek.net/do-better,,1425635411.0
+17,9156361,comment,9147732.0,9147732.0,0,0,csixty4,,,I work remotely. I get to create exactly the kind of work environment I want.,1425635382.0
+18,9156360,comment,9151837.0,9151837.0,0,0,thomasfl,,,"&quot;Special shout out to Yehuda Katz, who helped us design the annotation+decorator proposal which helped make this work possible.&quot;<p>The feverish Yehuda Katz is everywhere! But most importantly he is here on Hacker News and has close to 6000 <a href=""https://news.ycombinator.com/user?id=wycats"" rel=""nofollow"">https://news.ycombinator.com/user?id=wycats</a>",1425635369.0
+19,9156358,comment,9155741.0,9155876.0,0,0,cousin_it,,,That&,
+20,9156356,comment,9156105.0,9156105.0,0,0,blfr,,,"Even when only doing domain validations, CAs still usually ask for personal information. You would have to lie at least somewhat convincingly to obtain a certificate without providing personal details which feels fraudulent and could potentially put you at risk of having the certificate invalidated. I&",
+21,9156354,comment,9155364.0,9156322.0,0,0,yungchin,,,"> I think the opinion is split on whether prostitution is inherently harmful -- that is, in a post-gender world where there is no trance of social definition of women as stores of resources to be extracted for pleasure and service, would prostitution still be socially harmful? -- but I don&",
+22,9156353,story,,,1,0,bernardlunn,Fintech City Tour Toronto Crypto 2.0 is only one part,http://bernardlunn.com/2015/03/06/fintech-city-tour-toronto-crypto-2-0-is-only-one-part/,,1425635297.0
+23,9156352,story,,,2,0,Tsiolkovsky,"EU Council proposals on open Internet – Episode 2, the clown wars",https://edri.org/open_internet_clownwars/,,1425635295.0
+24,9156351,story,,,2,1,knalf,FlatMap(Oslo) 27-28 of April 2015 a functional programming conference,http://2015.flatmap.no/,,1425635219.0
+25,9156350,comment,9156035.0,9156035.0,0,0,speakeron,,,"Everything ISIS do seems designed to outrage western liberal sensitivities. And, indeed, I&",
+26,9156349,comment,9155741.0,9155877.0,0,0,kokey,,,I always had the feeling the djb&,
+27,9156348,story,,,135,76,century19,MySpace: what went wrong – by its former VP of online marketing,http://www.theguardian.com/technology/2015/mar/06/myspace-what-went-wrong-sean-percival-spotify,,1425635158.0
+28,9156347,story,,,2,0,lochieferrier,Electric Jet Design [pdf],https://lochief.files.wordpress.com/2015/03/electric-jet-v1.pdf,,1425635126.0
+29,9156346,comment,9155741.0,9155979.0,0,0,blueskin_,,,">who runs their own email server? :)<p>Anyone who cares about privacy? :)<p>Qmail is too old to be usable these days, but Postfix does at least use its security model. It isn&",
+30,9156345,comment,9152709.0,9153606.0,0,0,jtheory,,,"This is one of those learned things that becomes <i>inborn</i>, I think.<p>I have a few things I&",
+31,9156344,comment,9155187.0,9155187.0,0,0,zz1,,,"Thank you for that: I hate shortlinks when unnecessary (almost always), and often use untiny.me. Halas, it unshorten only a few addresses: your app fill the gap, thank you, definitely going to use that!",1425635080.0
+32,9156343,comment,9153587.0,9153587.0,0,0,dagw,,,"If anybody from the company is reading this, why an app?  This seems like a new trend in cooking equipment and I fucking hate it.  I don&",
+33,9156342,story,,,4,1,riaface,Libon lets you receive calls even when you've got no signal,http://mashable.com/2015/03/05/libon/,,1425635053.0
+34,9156341,story,,,1,0,pecanpie,Mobile Phone Data Reveals Humanity's Reproductive Strategies,http://www.technologyreview.com/view/535671/mobile-phone-data-reveals-humanitys-reproductive-strategies/,,1425635052.0
+35,9156340,comment,9151552.0,9155457.0,0,0,sago,,,"Except that my original analogy has a <i>lot</i> of upvotes. But it is common enough to assume that the rest of the world agrees with you, when you think someone is wrong.<p>If, instead of trying the pissing contest, you could actually try to figure out why your &quot;do you see why you&",
+36,9156339,comment,9155741.0,9155865.0,0,0,walterbell,,,"DJB is contributing to a security research OS called Ethos, <a href=""https://www.ethos-os.org/"" rel=""nofollow"">https://www.ethos-os.org/</a><p>Papers: <a href=""https://www.ethos-os.org/papers.html"" rel=""nofollow"">https://www.ethos-os.org/papers.html</a>",1425634955.0
+37,9156338,comment,9156334.0,9156334.0,0,0,p4bl0,,,"See also the first part here: <a href=""https://news.ycombinator.com/item?id=9156333"" rel=""nofollow"">https://news.ycombinator.com/item?id=9156333</a>.",1425634921.0
+38,9156337,comment,9156333.0,9156333.0,0,0,p4bl0,,,"See also the second part here: <a href=""https://news.ycombinator.com/item?id=9156334"" rel=""nofollow"">https://news.ycombinator.com/item?id=9156334</a>.",1425634907.0
+39,9156336,comment,9153551.0,9155383.0,0,0,pgaddict,,,IMHO the assumption that parsing the SQL is the bottleneck here is unfounded - I&,
+40,9156335,comment,9155364.0,9156295.0,0,0,detcader,,,I don&,
+41,9156334,story,,,2,1,p4bl0,Formally verify a script in Coq,http://coq-blog.clarus.me/formally-verify-a-script-in-coq.html,,1425634885.0
+42,9156333,story,,,2,1,p4bl0,Write a script in Coq,http://coq-blog.clarus.me/write-a-script-in-coq.html,,1425634864.0
+43,9156332,comment,9155741.0,9156249.0,0,0,drinchev,,,Yeah djb&,
+44,9156331,comment,9155902.0,9156173.0,0,0,onion2k,,,People who say it isn&,
+45,9156330,story,,,1,0,gpestana,Ask HN: How many devices connected to the Internet will we carry in a decade?,,,1425634805.0
+46,9156329,comment,9153456.0,9155906.0,0,0,MrBuddyCasino,,,"Rarely do I get sweaty palms just by reading a text. But Honnold on that ledge, that was like watching some russian kid doing stupid things on a high rise on Youtube. I hope hes not gonna fall too soon...",1425634780.0
+47,9156328,story,,,1,0,DLion,Cloud at Cost node API wrapper,https://github.com/dlion/node-catc,,1425634718.0
+48,9156327,comment,9151557.0,9153541.0,0,0,Joe8Bit,,,"Totally see your point, but it makes me wonder why IBM point to this demo as an example of Watson API usage (and how good it is) when the demo doesn&",
+49,9156326,comment,9155364.0,9156162.0,0,0,stcredzero,,,"Weirdly, while certain feminist positions started with insisting that women and men be treated the same, other positions by self-styled &quot;feminists&quot; are simply the insistence that women <i>must</i> be treated differently. (&quot;False equivalence&quot;)<p>Being part of a sexually dimorphic sentient species with strong instincts for the social &quot;outgrouping&quot; of different &quot;others&quot; is an awesomely weird experience. At other times, it really, genuinely sucks.<p>The basic problem with humans, is that we are wired up so we can&",
+50,9156325,comment,9151806.0,9155416.0,0,0,doktrin,,,"> which, as I said, is what users really care about when they ask for native apps<p>That&",
+51,9156324,comment,9156035.0,9156228.0,0,0,weland,,,"To the fundamentalist, sure-there-<i>is</i>-a-God mind, &quot;idolatry&quot; is not only the practice, it&",
+52,9156322,comment,9155364.0,9156277.0,0,0,detcader,,,I&,
+53,9156321,comment,9155741.0,9155741.0,0,0,zurn,,,"The &quot;one bug was found&quot; only goes for exploitable security vulnerabilities. There have been many other, less impactful bugs. This is still an an impressive archievement, especially because DJB chooses to juggle with chainsaws and write in C.",1425634477.0
+54,9156320,story,,,1,0,chris-at,Oracle Extends Its Adware Bundling to Include Java for Macs,http://daringfireball.net/linked/2015/03/05/bott-oracle-adware,,1425634457.0
+55,9156319,comment,9154262.0,9155659.0,0,0,bayesianhorse,,,Dogs can make life very complicated for a depressed person.,1425634379.0
+56,9156318,story,,,2,0,arunagarwal,India's Daughter BBC Documentary Delhi HD,https://vimeo.com/121438009,,1425634361.0
+57,9156317,story,,,2,1,avinassh,Let's Build a Browser Engine in Swift,http://www.screaming.org/blog/2014/08/15/lets-build-a-browser-engine-in-swift/,,1425634348.0
+58,9156315,story,,,1,0,valve,Show HN: Fingerprintjs v2,,I&,
+59,9156314,comment,9155741.0,9156276.0,0,0,SixSigma,,,> I spent a long time trying to understand why DJB&,
+60,9156313,story,,,1,0,garmoncheg,Guide on: Installing MySQL and phpMyAdmin for web development on a Mac OS X 10.x,http://garmoncheg.blogspot.com/2015/03/installing-mysql-for-django-on-mac-os-x.html,,1425634277.0
+61,9156312,comment,9151487.0,9152583.0,0,0,neudabei,,,"I have been using it for almost 1.5 years and really like it. It takes a moment to set up and has way less features than Mailchimp (less third party integrations, segmentation features etc.), but the price is awesome and Amazon SES is also very cheap. I haven&",
+62,9156311,comment,9154262.0,9155945.0,0,0,bayesianhorse,,,It&,
+63,9156310,story,,,4,0,avinassh,Learnable Programming (2012),http://worrydream.com/,,
+64,9156309,comment,9150927.0,9155783.0,0,0,throwawayaway,,,Are you saying they are opt out? because I think that is what you are saying? Way to miss the point.,1425634210.0
+65,9156308,comment,9152709.0,9154809.0,0,0,jtheory,,,Interesting -- I&,
+66,9156307,comment,9155474.0,9155474.0,0,0,henrik_w,,,"+1 for Clean Code. I just recently read and reviewed it: <a href=""http://henrikwarne.com/2015/01/03/book-review-clean-code/"" rel=""nofollow"">http://henrikwarne.com/2015/01/03/book-review-clean-code/</a>",1425634204.0
+67,9156306,comment,9155706.0,9155706.0,0,0,CmonDev,,,"The problem is that the rules of man-woman interaction are not well defined (especially since the traditional family was destroyed last century). Is there a way to look at girl in a cute pink dress and tell whether she is there to just present a tech topic or she is also open to potential dating? Women are a passive gender, so the way they dress is one of the few ways to send a signal.",1425634162.0
+68,9156305,story,,,1,0,pathikrit,Facebook Directory,https://www.facebook.com/directory,,1425634157.0
+69,9156304,comment,9155474.0,9156223.0,0,0,ranko,,,I think the OP means &quot;Computer Systems: A Programmer&,
+70,9156303,comment,9156257.0,9156257.0,0,0,tmikaeld,,,So glad that there is finally a study that proves this as a fact.,1425634079.0
+71,9156302,comment,9153786.0,9155219.0,0,0,youngtaff,,,"Yeh, but is Assange&",
+72,9156301,comment,9154262.0,9155775.0,0,0,bayesianhorse,,,Some dogs really are dicks...  And I&,
+73,9156300,comment,9156267.0,9156267.0,0,0,kybernetyk,,,The concept of a MVP is that if it&,
+74,9156299,comment,9155741.0,9155865.0,0,0,davidw,,,> It makes me sad that programmers in this decade don&,
+75,9156298,comment,9150899.0,9155750.0,0,0,throwawayaway,,,I initially stated that you are just doing self improvement and dunning kruger isn&,
+76,9156297,story,,,1,0,rhizome31,Don't be afraid to use a bad solution,http://makina-corpus.com/blog/metier/2015/dont-be-afraid-to-use-a-bad-solution,,1425633912.0
+77,9156296,story,,,1,0,d8niel,Drchrono wants iOS and Django Hackers – take our hacker challenge,https://www.hackerrank.com/tests/527036edb11ff/0ca5532381fbebad9fffaa28dc90475f,,1425633911.0
+78,9156295,comment,9155364.0,9156213.0,0,0,anigbrowl,,,"Perhaps so, but I disagree with this thesis. (mainly because I don&",
+79,9156294,comment,9155364.0,9156239.0,0,0,stcredzero,,,You&,
+80,9156293,comment,9153203.0,9154430.0,0,0,werid,,,"the source this time is probably twitter: \n<a href=""https://twitter.com/b0rk/status/573535058797031424"" rel=""nofollow"">https://twitter.com/b0rk/status/573535058797031424</a>",1425633773.0
+81,9156292,comment,9155474.0,9155474.0,0,0,Avalaxy,,,"Funny, SICP isnt on the list. It&",
+82,9156291,comment,9155741.0,9155883.0,0,0,e12e,,,Had to look up what a backscatter zombie was; apparently it&,
+83,9156290,comment,9151487.0,9153404.0,0,0,neudabei,,,That&,
+84,9156289,comment,9154373.0,9154373.0,0,0,Joona,,,"If they have computers, or if you can get them ones, Minecraft is a good idea. Highly moddable, in multiple languages, huge communities and Redstone! Plus, it&",
+85,9156287,comment,9151837.0,9153705.0,0,0,VeejayRampay,,,"I guess you cannot say that yourself for fear of appearing to brag, but a project such as Tokaido is an EXTREMELY complicated task to tackle. So well done. And thanks for all the hours you&",
+86,9156285,comment,9152687.0,9154619.0,0,0,dang,,,Thanks; fixed.,1425633690.0
+87,9156284,comment,9154262.0,9154262.0,0,0,bayesianhorse,,,Some doctor once told me you aren&,
+88,9156283,story,,,1,0,demianturner,Astropad Review,http://demianturner.com/2015/03/astropad-review/,,1425633652.0
+89,9156282,comment,9155364.0,9155605.0,0,0,stcredzero,,,"<i>>> being on the lunatic fringe.</i><p><i>> I think this is (slowly) starting to change.</i><p>Abolitionists were once thought of as being on the lunatic fringe. Now we accept their position as philosophically correct. As for libertarians, I entirely agree with those that point out national sovereignty as being inconsistent with humanist values.<p>However, just because you are philosophically correct, that doesn&",
+90,9156281,comment,9155364.0,9156242.0,0,0,anigbrowl,,,"I did, and your comment referencing Gail Dines. It seems to me that you&",
+91,9156280,comment,9156105.0,9156252.0,0,0,grey-area,,,Thankfully the browser and server vendors can do an end-run round this by simply not supporting http2 without encryption. Then no matter what the standard says ordinary users will be protected and it&,
+92,9156279,comment,9156035.0,9156228.0,0,0,jpatte,,,It&,
+93,9156278,story,,,1,0,ptx,3DICC marries Nim with Urho3D,http://forum.nim-lang.org/t/870,,1425633522.0
+94,9156277,comment,9155364.0,9156109.0,0,0,yungchin,,,I&,
+95,9156276,comment,9155741.0,9155741.0,0,0,rikkus,,,"I used to work as a UNIX admin, so having a home OpenBSD box to handle mail seemed like a requirement. I ran qmail and djbdns, under daemontools, because there was nothing else as secure, nothing else &",
+96,9156274,story,,,2,1,alexcasalboni,Ng-wat,https://www.youtube.com/watch?v=M_Wp-2XA9ZU,,1425633364.0
+97,9156273,comment,9155364.0,9155820.0,0,0,stcredzero,,,"Possibly. If their personal situation is sufficiently bleak, and there are mechanisms that are arbitrary and unfair helping to keep them in that situation. However, it&",
+98,9156272,comment,9144552.0,9149558.0,0,0,anonbanker,,,i have. you have to look at others to confirm you played it right after the fact.<p>i&,
+99,9156271,story,,,10,3,eloycoto,TLS-O-MATIC – self TLS testing for web apps,http://www.tls-o-matic.com/,,1425633310.0
+100,9156270,comment,9155741.0,9156132.0,0,0,Arnt,,,"Yahoo advertises TLS support, so the bulk of the code Yahoo uses will be third-party extensions, perhaps openssl.",1425633302.0
+101,9156269,comment,9154386.0,9154386.0,0,0,turnstyletaters,,,I had 6 interviews with 8 different people at a startup over about 1.5 months and ended up not getting the gig! It wasn&,
+102,9156267,story,,,1,2,zabramow,Replacing Minimum Viable with Minimum Lovable,http://blog.heyimcat.com/its-called-ship-not-shit/,,1425633244.0
+103,9156266,story,,,1,0,pay-gap,Salary vs. Work Life Balance,https://www.pay-gap.com/how-it-works.jsp,,1425633230.0
+104,9156265,story,,,52,46,wallflower,"A Former College Lineman Now on the Streets, Looking for Answers, and Help",http://www.nytimes.com/2015/03/08/sports/ncaafootball/ryan-hoffman-a-unc-football-player-two-decades-ago-is-now-homeless.html,,1425633227.0
+105,9156264,comment,9151837.0,9153263.0,0,0,robmcm,,,> I still have yet to see a Google website using Angular in any large capacity.<p>Angular is not intended for typical &quot;websites&quot;. It&,
+106,9156263,story,,,2,0,alexcasalboni,Android Distribution (March 2013-March 2015),http://imgur.com/8xftYPI,,1425633168.0
+107,9156262,comment,9156258.0,9156258.0,0,0,techaddict009,,,The people who created magic (sms based ordering system) can probably use this and serve their service worldwide without any sms cost.,1425633154.0
+108,9156261,story,,,1,0,alexcasalboni,Color Contrast for Better Readability,http://viget.com/inspire/color-contrast,,1425633124.0
+109,9156260,story,,,103,21,coding4all,Onyx: fault tolerant data processing for Clojure,https://github.com/MichaelDrogalis/onyx/blob/0.5.x/README.md,,1425633124.0
+110,9156259,story,,,3,0,alexcasalboni,Military spending: The top 15 Defence Budgets in 2014,http://ichef.bbci.co.uk/news/625/media/images/81347000/gif/_81347213_military_spending_2014_624.gif,,1425633112.0
+111,9156258,story,,,3,1,techaddict009,Interactive service on Whatsapp,http://www.whatshash.com,,1425633097.0
+112,9156257,story,,,14,11,alexcasalboni,Psychedelics not linked to mental health problems or suicidal behavior,http://jop.sagepub.com/content/early/2015/02/25/0269881114568039.full,,1425633090.0
+113,9156256,comment,9150198.0,9150435.0,0,0,AliCollins,,,"Thanks - I had missed it back then, and HN didn&",
+114,9156255,comment,9155741.0,9155979.0,0,0,vidarh,,,"Qmail may show its age, but the overall <i>structure</i> is sound, and one the beautiful parts of qmail was/is how it isolated everything in their own processes intercommunicating via very simple protocols over file descriptors. So you could build far more complicated mail systems by starting with qmail and replacing parts as you went.<p>A company I co-founded used qmail for delivery for a webmail service for ~2m users, and while we used the original qmail less and less, it was because we were able to use qmail as scaffolding as described above.<p>And we ran lots of services under daemontools.<p>Later we used qmail as a generic message queueing system for a turnkey registrar platform for .name...",1425633022.0
+115,9156254,comment,9154525.0,9156103.0,0,0,pja,,,"IIRC California[1] ruled that if you were an Amazon Affiliate living in California, then that constituted Amazon having a &quot;Nexus&quot; in the state which would make them liable for sales taxes on all their Californian sales. Rather than have to add sales tax to all their Californian sales, Amazon chose to eliminate all their Californian resident Amazon Affiliates. No doubt the same applies to a number of other states, but I haven’t kept up with the details.<p>So it’s not really &quot;my state doesn’t allow Amazon Affiliates&quot;, more &quot;Amazon took a business decision to not have Amazon Affiliates in my state&quot;.<p>[1] Maybe it was another state, but the principle remains the same.",1425633007.0
+116,9156253,story,,,3,0,wuschel,"Kotlin – Statically typed, targeting the JVM/JavaScript",http://kotlinlang.org/,,1425633003.0
+117,9156252,comment,9156105.0,9156233.0,0,0,EtherealMind,,,"Certain corporate companies formed a consortium to prevent encryption to ensure that monetisation of personal information would continue.<p>At the very last stage, the IETF appeared to be hijacked by very large telcos (e.g. ATT, Verizon, Ericsson, Comcast) to remove the mandatory requirement for TLS<p>As an outsider, this look likes a careful co-ordinated attack on the IETF standards process by a small number of &quot;serial IETF professionals&quot; who are paid by the big carriers to be inside the organisation and ensure that standards do the bidding of corporate masters. (some hyperbole there)<p>Waiting until the last phase restricted discussion, and used the existing momentum to complete HTTP2 standard while removing one of the fundamental reasons for HTTP2 to exist.<p>It is a very sad day that consumer rights have been compromised by big money. And as the Lenovo Superfish debacle showed, likely it will backfire in the long run.<p>Here is the consortium: <a href=""http://www.atis.org/openweballiance/about.asp"" rel=""nofollow"">http://www.atis.org/openweballiance/about.asp</a><p>Here is an summary I wrote about this topic: \n<a href=""http://etherealmind.com/response-open-web-alliance-lobbies-intercept-traffic/"" rel=""nofollow"">http://etherealmind.com/response-open-web-alliance-lobbies-i...</a>",1425632976.0
+118,9156251,comment,9155364.0,9155588.0,0,0,ssalazar,,,"> they are universally derided as being on the lunatic fringe.<p>Yeah contradicting 100 years of development of economic theory, i.e. proposing to return to the gold standard, will have that effect.",1425632927.0
+119,9156250,comment,9156035.0,9156165.0,0,0,tomtoise,,,"I always though the reason I found this more enraging than the beheadings was because human life, at risk of sounding callous, is &",
+120,9156249,comment,9155741.0,9156180.0,0,0,joosters,,,"Yes, it&",
+121,9156248,comment,9152022.0,9155730.0,0,0,laumars,,,"Regenerating existing areas makes a considerable more sense than abandoning and moving to a new plot, where you&",
+122,9156247,comment,9154262.0,9155764.0,0,0,saraid216,,,"> The thing about honesty to others is, as you settle into it, you find that the emotions running around in your head even out and the way you express them becomes less nuts.<p>Except the thoughts being discussed aren&",
+123,9156245,comment,9155409.0,9155409.0,0,0,andrelaszlo,,,"That box could have been quite a macabre birthday present for his daughter...<p><a href=""https://www.youtube.com/watch?v=mI-YiaWDgB4"" rel=""nofollow"">https://www.youtube.com/watch?v=mI-YiaWDgB4</a> (The Velvet Underground - The Gift)",1425632664.0
+124,9156243,comment,9153088.0,9154774.0,0,0,t0mislav,,,"The list of all countries is available at Wikipedia, they allow to use their data. On backend I used php (php random function) and sqlite as database. For maps I used Google Maps javascript api.",1425632543.0
+125,9156242,comment,9155364.0,9156226.0,0,0,detcader,,,What makes you say this? Did you read my comment to stcredzero below?,1425632528.0
+126,9156241,story,,,5,0,RuG274,Optimize the FPS of Your Mobile Games for a Better Gameplay,http://mobiletestautomation.com/guest-blog/guest-blog-instant-performance-profiling-of-your-android-games,,1425632516.0
+127,9156240,comment,9151799.0,9152641.0,0,0,yaeger,,,"Except that the German system by large does not use precedence at all. At best prior cases can be an aid in an ongoing court case. At worst, prior cases are ignored completely and only what the law says will be taken into account by the courts.",1425632440.0
+128,9156239,comment,9155364.0,9156225.0,0,0,detcader,,,"I think the URL is yourfallacyis dot com slash anecdotal? And maybe those young people were against prostitution because they believed it to be harmful to women as a class and involves extreme violence to individual women, whose stories you can find everywhere -- did you ask them?<p>But yes, if we define &quot;social stigma&quot; so broadly that it includes legitimate concern for individuals and groups, there is also social stigma against pedophilia, I guess.",1425632440.0
+129,9156238,comment,9152022.0,9155878.0,0,0,yitchelle,,,"I think this problem is present in most large, well to do cities. The Guardian ran a similar story a couple of months bank.<p><a href=""http://www.theguardian.com/society/2014/jan/31/inside-london-billionaires-row-derelict-mansions-hampstead"" rel=""nofollow"">http://www.theguardian.com/society/2014/jan/31/inside-london...</a>",1425632428.0
+130,9156237,comment,9152598.0,9155921.0,0,0,mrcold,,,It feels bloated because it&,

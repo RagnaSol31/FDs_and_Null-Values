@@ -1,0 +1,128 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10680599,story,,,11,1,angadsg,Transition to Python4 won't be like Python3(“we've learned our lesson”),https://mail.python.org/pipermail/python-dev/2015-December/142361.html,,1449284364.0
+1,10680598,comment,10674914.0,10674914.0,0,0,rukuu001,,,High school math was hell for me.<p>The teacher would explain something on the board. Everyone but me would say &,
+2,10680597,comment,10675013.0,10680507.0,0,0,randyrand,,,XYZ sucks. You should use MNO.,1449284234.0
+3,10680596,comment,10678652.0,10679013.0,0,0,zastrowm,,,"To be clear, the entire quote is:<p><pre><code>  A frequently asked question is: Why doesn&",
+4,10680595,comment,10678893.0,10678893.0,0,0,voltagex_,,,Does this mean that if I can make a random project build with Clang it&,
+5,10680594,comment,10679044.0,10679044.0,0,0,nicholas73,,,"You know if you are paid enough by learning what other offers you can get.<p>Companies do not pay you by value, generally speaking.  Rare ones do, but most often you are paid whatever they can get away with.<p>That is why you are paid close to your junior colleague.  Everyone has base living expenses that drive much of salary demand.  Anyone without a job will undercut you towards that level.<p>But if you look at it another way, your pay is not much higher, but your savings rate is, after all your expenses subtracted.",1449284181.0
+6,10680593,story,,,1,0,prostoalex,"Lured by Low Prices, U.S. Motorists Care Less About Fuel Efficiency",http://fortune.com/2015/12/04/low-pump-prices-fuel-efficiency/,,1449284176.0
+7,10680592,story,,,11,4,tokenadult,How Nextdoor and Nest Cams Are Helping Cops Solve Crimes,http://www.wired.com/2015/12/nextdoor-crime-nest-cams/,,1449284156.0
+8,10680591,comment,10666067.0,10666067.0,0,0,DrScump,,,Here&,
+9,10680590,comment,10671897.0,10679801.0,0,0,pmoriarty,,,"Forcing people to get vaccinated because &quot;we know better&quot;, and especially with some objectors&",
+10,10680589,story,,,31,65,prostoalex,U.S. Can't Make Weapons Fast Enough to Meet Demand,http://fortune.com/2015/12/04/us-weapons-demand/,,1449284124.0
+11,10680588,comment,10673127.0,10678369.0,0,0,ldehaan,,,I&,
+12,10680587,comment,10674914.0,10679472.0,0,0,nextos,,,Do you mind sharing math textbooks you like (undergrad & grad).,1449284113.0
+13,10680586,comment,10679983.0,10679983.0,0,0,aftbit,,,Just tested with my X220 generating packets using both this Python script and i336_&,
+14,10680584,comment,10676514.0,10680509.0,0,0,jacquesm,,,You should turn that comment into a bunch of RFE&,
+15,10680583,comment,10674064.0,10680500.0,0,0,luckydude,,,"The problem we had was no money.  Sun was in a different place, they sold hardware, the software was a tax.  They could have made the software open source and built an ecosystem around them.<p>There wasn&",
+16,10680582,comment,10679823.0,10680539.0,0,0,cpncrunch,,,"I would if I could find it, but I&",
+17,10680581,comment,10673070.0,10680268.0,0,0,pellmellism,,,"The more power consumed, the stronger it is. A cheap chain is a weak chain",1449283955.0
+18,10680580,comment,10679519.0,10680383.0,0,0,throwaway2048,,,They arn&,
+19,10680579,story,,,90,49,prostoalex,Human Brains Are Wired to Blame Rather Than Praise,http://fortune.com/2015/12/04/brain-wired-praise-blame/,,1449283858.0
+20,10680578,comment,10665409.0,10678631.0,0,0,alextgordon,,,"In the UK, the Crown Prosecution Service is supposed to act in the public interest. Not indulge the public&",
+21,10680577,comment,10679519.0,10680236.0,0,0,throwaway2048,,,"FirefoxOS cant even offer a more meaningfully free experience than android, because they used the same brain damaged closed source driver model. Meaning not only is your OS partly non free and unable to be modified, you are locked into a single kernel version forever, that is very likely soon to have exploits. I have absolutely no idea why it even exists.",1449283739.0
+22,10680576,comment,10676771.0,10680557.0,0,0,jzwinck,,,"You can use &quot;import longmodulename as mn&quot;--many people do this today, and it isn&",
+23,10680575,comment,10676771.0,10680395.0,0,0,pcwalton,,,"Singletons are fine, but it&",
+24,10680574,story,,,3,0,tomkwok,Spotify might be in trouble,http://thenextweb.com/insider/2015/12/04/dont-look-now-but-spotify-might-be-in-trouble/,,1449283671.0
+25,10680573,comment,10675238.0,10675238.0,0,0,DrScump,,,a plea to developers out there:  <i>please</i> respect the user-agent string contents even when you know it&,
+26,10680572,comment,10673127.0,10680528.0,0,0,simoncion,,,> The problem is that these features don&,
+27,10680571,comment,10679519.0,10680441.0,0,0,ecnahc515,,,That&,
+28,10680570,comment,10661225.0,10674478.0,0,0,EvanPlaice,,,Or... not...<p>The point being. I don&,
+29,10680569,comment,10669247.0,10680105.0,0,0,georgeecollins,,,Reporters can contact sources.  They call the person who wrote the paper or other experts and then quote them in the article.<p>This has the benefit of making the reporter&,
+30,10680568,comment,10678893.0,10680126.0,0,0,steveklabnik,,,I can&,
+31,10680567,comment,10676736.0,10680381.0,0,0,dkbrk,,,"From Yes, Minister Season Three, Episode Two, &quot;The Challenge&quot;:<p>> Sir Humphrey: [talking about nuclear fallout shelters] Well, you have the weapons; you must have the shelters.<p>> Hacker: I sometimes wonder why we need the weapons.<p>> Sir Humphrey: Minister! You&",
+32,10680566,comment,10667359.0,10680438.0,0,0,xamuel,,,"I think part of this is because C naturally lends itself to a DIY philosophy.  Part of the point of C is the ability to choose the specific details, it&",
+33,10680565,comment,10679823.0,10680249.0,0,0,TacticalCoder,,,"Hey, long time HN user here, I&",
+34,10680564,story,,,50,41,marcopolis,I Dreamed of a Perfect Database,https://newrepublic.com/article/124425/dreamed-perfect-database,,1449283335.0
+35,10680563,comment,10676736.0,10680542.0,0,0,Natsu,,,That&,
+36,10680562,comment,10675429.0,10680361.0,0,0,rezashirazian,,,Reza Shah ruled Iran from 1925 - 1941 during which he worked hard to modernize the country. One of the ways he accomplished this was to import as much as he could from Europe. This is the reason beheind the French influence on the language. For any item that Farsi didn&,
+37,10680560,comment,10662634.0,10675164.0,0,0,zem,,,good to hear!,1449283152.0
+38,10680559,comment,10675429.0,10680480.0,0,0,Natsu,,,Now you have me wondering if it could possibly be the inspiration for the name of the Ferengi.,1449283140.0
+39,10680557,comment,10676771.0,10680164.0,0,0,tgb,,,Nice for REPL work though.,1449283037.0
+40,10680556,comment,10678282.0,10679606.0,0,0,kylnew,,,Well it might change the way taxation and government spending work if there was a steadier flow from people after they died. If the government has more money to put towards everyone&,
+41,10680554,comment,10679823.0,10679823.0,0,0,cedrus_libani,,,"TLDR: Disease Foo has become more common in the past few hundred years. You know what else has become more common in the past few hundred years? Bar! Therefore, Bar causes Foo, QED.",1449282956.0
+42,10680553,comment,10676062.0,10676062.0,0,0,jonwayne,,,"I wrote a flask extension that makes it a little easier to set these headers:<p><a href=""https://github.com/GoogleCloudPlatform/flask-talisman"" rel=""nofollow"">https://github.com/GoogleCloudPlatform/flask-talisman</a>",1449282946.0
+43,10680552,story,,,1,0,linqdo,Local networking is one of the most essential personal skills for entrepreneurs,http://www.linqdo.com,,1449282904.0
+44,10680551,story,,,1,0,Meshed,How to stop feeling like crap when billing a client for research,http://www.logicalbacon.com/how-to-bill-when-a-client-asks-for-something-you-have-never-done-before/,,1449282837.0
+45,10680550,comment,10680453.0,10680453.0,0,0,sargas,,,"Decentralization is great, even when it breeds open source drama :)",1449282793.0
+46,10680548,comment,10675013.0,10680507.0,0,0,chlestakoff,,,"This is not delusion, more like a rational exploitation. Given the &",
+47,10680547,comment,10679519.0,10680236.0,0,0,kozukumi,,,"I would have been interested to see a Firefox OS in the same vein as Chrome OS. A clean, functional Linux distro that works out of the box with a simple (yet maybe hidden) switch to open it up to running native apps. With XUL extensions they were actually in a get position years ago to provide more powerful extensions than Chrome could. But they are killing off XUL in the future to be some kind of Chrome-copy. Unfortunately I feel the world is going to be Webkit oriented in the future with Chrome, Safari and even Edge being mostly compatible (extension wise, apparently, time will tell).<p>I understand them wanting to make it in mobile space but the bar to entry in the mobile market is so damn high not even Microsoft can do it.",1449282765.0
+48,10680546,comment,10675275.0,10676117.0,0,0,hitekker,,,Not listing and/or not emphasizing the core component of your product can lead to confusion and (possibly intentional) misrepresentation.<p>I&,
+49,10680544,comment,10680471.0,10680471.0,0,0,huac,,,Isn&,
+50,10680543,comment,10679519.0,10680439.0,0,0,x0x0,,,"Right, but at least in the US, there is a significant contingent of firefox users and advocates that are very privacy sensitive.  Call it the Jonathan Mayer wing.  FF should have known these people would be very upset.",1449282696.0
+51,10680542,comment,10676736.0,10680522.0,0,0,gmanis,,,The blog is their marketing tool for their crawling service I believe.,1449282670.0
+52,10680541,comment,10675429.0,10680488.0,0,0,uptownfunk,,,It&,
+53,10680540,comment,10677576.0,10680291.0,0,0,azernik,,,Hence the discussion of the recent developments in the North Korean economy that might have caused fishermen to take greater risks recently.,1449282640.0
+54,10680538,comment,10677702.0,10678129.0,0,0,dlitz,,,I used OS X Server in 2008.  It had major quality issues that seemed to only get worse with subsequent releases.  Several advertised features accessible from the UI didn&,
+55,10680537,story,,,1,0,Jerry2,Samsung Execs Investigated for Possible Insider Trading,http://mobile.nytimes.com/aponline/2015/12/04/world/asia/ap-as-skorea-samsung-investigation.html?_r=0&referer=http://bgr.com/2015/12/04/samsung-execs-insider-trading-allegations/,,1449282630.0
+56,10680536,comment,10678227.0,10678227.0,0,0,EugeneOZ,,,I don&,
+57,10680535,comment,10679983.0,10680499.0,0,0,Senji,,,If you really want to be evil you could just open TCP sessions to random valid ip addresses. You&,
+58,10680534,comment,10676514.0,10680274.0,0,0,jevinskie,,,I&,
+59,10680533,comment,10676514.0,10680119.0,0,0,wicker,,,"I completely agree, and I also wish I would have switched sooner.<p>The only thing I&",
+60,10680532,comment,10680352.0,10680352.0,0,0,niksmac,,,"That a a nice read, thanks. The level of detail and examples are cool.",1449282526.0
+61,10680530,comment,10678652.0,10679333.0,0,0,baudehlo,,,Yeah because sanitizing client side is a great idea.,1449282343.0
+62,10680528,comment,10673127.0,10680131.0,0,0,jschwartzi,,,The problem is that these features don&,
+63,10680527,comment,10675429.0,10680433.0,0,0,rezashirazian,,,It is actually much simplier than that. The word you&,
+64,10680526,comment,10678227.0,10678609.0,0,0,EugeneOZ,,,"Swift has nothing similar to PHP 7. Typing in PHP 7 is ridiculous - you can set &quot;Array&quot; as a &quot;strict&quot; type of return value, but inside that array you can have whole universe. And any optional type system is not a type system at all. I learned it when tried Dart.\nPHP 7 is too primitive in comparison with Swift.",1449282303.0
+65,10680525,comment,10676771.0,10680395.0,0,0,nine_k,,,"As long as these data are immutable, sharing them is easy.<p>If you want hundreds on megs of shared mutable state, a database is a proper solution.",1449282291.0
+66,10680524,comment,10673055.0,10680382.0,0,0,mangeletti,,,You mentioned a tunnel. That&,
+67,10680523,comment,10673127.0,10673127.0,0,0,kabdib,,,"A few years ago I got into a project that involved pretty tight control of audio latency, in a system with a fair amount of legacy.<p>&quot;How hard can it be?&quot;<p>At the end of a year, imagine someone who has spent a year in the Alaska wilderness, strangled three grizzly bears with his bear hands, lived on berries and nuts and fish caught in frigid glacial streams, and generally been up and down the audio stack in the OS and a couple pieces of firmware, involving audios APIs, a USB software stack that we re-wrote, a close examination of USB hardware and how chipsets are fucked up, and how exactly I2C microphones really work. My wife described me as &quot;broken&quot;. It took a while to recover.<p>How hard can it be? Isochronous, low-latency audio can be pretty hard.",1449282274.0
+68,10680522,comment,10676736.0,10680503.0,0,0,cperciva,,,You mean the blog isn&,
+69,10680521,comment,10667359.0,10680438.0,0,0,yo-code-sucks,,,"Linux is written in C, Boost is C++.",1449282247.0
+70,10680519,comment,10676736.0,10676736.0,0,0,romanhn,,,I&,
+71,10680518,comment,10673055.0,10680494.0,0,0,mangeletti,,,"I think the answer to your question is here today, if not that popular yet. Lambda.<p>After that, the next step might something as open and decentralized as Ethereum.",1449282195.0
+72,10680517,comment,10678893.0,10679771.0,0,0,jevinskie,,,"Wowza, that would be cool! IIRC Apple&",
+73,10680516,comment,10673832.0,10673832.0,0,0,lemming,,,This is why we can&,
+74,10680515,comment,10678893.0,10680086.0,0,0,ykl,,,You managed C++ projects without a C++ compiler before? How in the world did you do that?,1449282034.0
+75,10680514,comment,10675244.0,10679560.0,0,0,shalmanese,,,Fountain soda. The cost of the cup is greater than the cost of the liquid inside.,1449282013.0
+76,10680513,comment,10678893.0,10679558.0,0,0,0x09,,,"<a href=""http://llvm.org/devmtg/2013-11/slides/Robinson-PS4Toolchain.pdf"" rel=""nofollow"">http://llvm.org/devmtg/2013-11/slides/Robinson-PS4Toolchain....</a><p>It&",
+77,10680512,comment,10676514.0,10679777.0,0,0,wicker,,,I&,
+78,10680511,comment,10675682.0,10675682.0,0,0,doktrin,,,"My favorite songs of his, in no particular order :<p>Who&",
+79,10680510,comment,10673070.0,10673070.0,0,0,chrispeel,,,I like the basic idea of combining transactions and blocks.,1449281909.0
+80,10680509,comment,10676514.0,10676514.0,0,0,tomkinstinch,,,I&,
+81,10680508,story,,,1,0,kevindeasis,Placing labels on a timeline without overlap,https://github.com/twitter/labella.js,,1449281902.0
+82,10680507,comment,10675013.0,10680498.0,0,0,dublinclontarf,,,"Look at CTO positions advertised on workinstartups.com<p>&quot;15 years experience as CTO, must be top coder in XYZ, willing to work on this full time and make at least a minimum investment amount, 0.8% share option&quot;<p>Lots of deluded people out there, lots and lots and lots of them.",1449281868.0
+83,10680505,comment,10679519.0,10680407.0,0,0,krapp,,,"And then someone forks it under another name and offers it for free, because it&",
+84,10680503,comment,10676736.0,10676736.0,0,0,thinkingkong,,,How does priceonomics keep cranking out these articles while maintaining an otherwise boring product? Its impressive and simultaneously confusing.,1449281802.0
+85,10680502,comment,10675423.0,10678494.0,0,0,vkou,,,"People get punished because of their social standing and profession all the time - see also conscripts, slaves, and persons of colour in the modern _______.",1449281795.0
+86,10680501,story,,,2,1,kevindeasis,The New American Dream: My Life as a Minority Startup Owner,http://techcrunch.com/2015/12/04/the-new-american-dream-my-life-as-a-minority-startup-owner/,,1449281793.0
+87,10680500,comment,10674064.0,10676709.0,0,0,Aloha,,,"I thought when I read this &quot;well, thats exactly what they did, 20 years later...&quot;<p>I get the choice you made with BitKeeper, its very hard to turn away from that stream of semi predictable revenue, to the wild unknown, hindsight is always 20/20.",1449281745.0
+88,10680499,comment,10679983.0,10679983.0,0,0,i336_,,,I can&,
+89,10680498,comment,10675013.0,10675013.0,0,0,chlestakoff,,,"Not only they expect talent to work for free, they also expect  employees to invest money in their startup: &quot;We will consider your application anyway, but we prefer our co-founders have some &quot;skin in the game.&quot; Really?",1449281623.0
+90,10680497,comment,10676685.0,10678649.0,0,0,binwiederhier,,,"+1 for that. Guide with auto-renew cronjob here: <a href=""https://blog.philippheckel.com/2015/12/04/lets-encrypt-5-min-guide-to-set-up-cronjob-based-certificate-renewal/"" rel=""nofollow"">https://blog.philippheckel.com/2015/12/04/lets-encrypt-5-min...</a>",1449281598.0
+91,10680496,comment,10673127.0,10677127.0,0,0,guelo,,,You might be experiencing a problem with incompatible headphones. There are several incompatible headphone types that use different control signaling techniques. Here&,
+92,10680495,comment,10679519.0,10679519.0,0,0,JamesSwift,,,Am I missing something? I&,
+93,10680494,comment,10673055.0,10680382.0,0,0,pcl,,,I think <i>mesh doesn&,
+94,10680493,comment,10677702.0,10680390.0,0,0,Vendan,,,so don&,
+95,10680492,comment,10679089.0,10680446.0,0,0,Aloha,,,I&,
+96,10680491,comment,10677576.0,10677576.0,0,0,hasenj,,,Could it be they are actually refugees and many arrive alive but Japan announces everyone is dead to protect their families?,1449281530.0
+97,10680489,comment,10673832.0,10673832.0,0,0,orbitingpluto,,,Shouldn&,
+98,10680488,comment,10675429.0,10680480.0,0,0,ekianjo,,,Your link also mentions the word is used in Thai as <i>Farang</i> as well.,1449281454.0
+99,10680487,comment,10679823.0,10680272.0,0,0,stock_toaster,,,I thought Bufferin was Aspirin.,1449281451.0
+100,10680486,comment,10668687.0,10679075.0,0,0,userbinator,,,The GCC extensions are just that - they&,
+101,10680485,comment,10678893.0,10680079.0,0,0,azinman2,,,Because it&,
+102,10680484,comment,10678767.0,10680083.0,0,0,Spooky23,,,Walmart isn&,
+103,10680483,comment,10679519.0,10680236.0,0,0,funkyy,,,"This is silly. People openly criticize Mozilla for their action, there is general uproar - yet company decides to ignore its &quot;power users&quot; and do whatever they think they should.<p>While this might work for some (where leader is visionary and strong), I believe that the problem is here - companies that are seeing drop in growth are fixated on getting better numbers instead of increase engagement and user value. They will forsake their core functions, ignore users and make a &quot;better&quot; clone of existing competitor for short term bump in engagement. Every huge company did that before sliding downhill.",1449281268.0
+104,10680482,story,,,1,0,magicsilicon,History of Computing in one chart,https://medium.com/@magicsilicon/computing-transitions-22c07b9c457a,,
+105,10680481,comment,10675682.0,10675682.0,0,0,Moshe_Silnorin,,,"Odd fact about Tom Lehrer, he was a mathematical prodigy who got into Harvard at 15.",1449281214.0
+106,10680480,comment,10675429.0,10680456.0,0,0,benbreen,,,"Amazingly, it even made its way into Chinese as folangji (佛郎機):<p><a href=""https://en.wikipedia.org/wiki/Farang",
+107,10680479,comment,10675429.0,10680397.0,0,0,ekianjo,,,The list in [1] is huge! So many loanwords.,1449281112.0
+108,10680478,comment,10679836.0,10680369.0,0,0,icebraining,,,There&,
+109,10680477,comment,10678893.0,10680079.0,0,0,rdsnsca,,,Microsoft is trying to get iOS developers to port their apps to Windows Phone.<p>You can not make an iOS app with VS&,
+110,10680476,comment,10676736.0,10680381.0,0,0,illumen,,,The European Union pays for it to happen. So it does.,1449281046.0
+111,10680475,comment,10678767.0,10680053.0,0,0,ArkyBeagle,,,That episode is a work of genius. With poop jokes.,1449281043.0
+112,10680474,comment,10669247.0,10680414.0,0,0,andrewflnr,,,IIRC that&,
+113,10680473,comment,10679519.0,10680298.0,0,0,rgbrenner,,,It does look like they did it without tracking. So kudos to mozilla for that.<p>But my post was about the perception of the ads. Even if mozilla isn&,
+114,10680472,comment,10671356.0,10674199.0,0,0,pjbrunet,,,"Good to know, thanks.",1449281022.0
+115,10680471,story,,,4,1,wtf_sync_me,Privacy violation? sync.me knows my name and those of my contacts,,"This service, registered to former Israeli Defense Forces software engineer, Ken Vinner, seems to exploit Android in some way to associate contact names to phone numbers.<p>To check, I &",
+116,10680470,comment,10675423.0,10679706.0,0,0,rnnr,,,"Thanks for the book!<p>Edmund Burke was a famous critic of the French Revolution.<p>It was as bad as its 20th century replicas, the red revolutions around the globe which were all based on the same ill notions of fairness, justice and equality.",1449281001.0
+117,10680469,comment,10675429.0,10680456.0,0,0,ekianjo,,,"Wow, really cool! Words are without borders.",1449280998.0
+118,10680468,story,,,1,0,chei0aiV,We Matched Our 50 Supporter Challenge,https://sfconservancy.org/blog/2015/dec/04/50-match-success/,,1449280983.0
+119,10680467,comment,10675013.0,10675013.0,0,0,adventured,,,> We weren&,
+120,10680466,comment,10675682.0,10680360.0,0,0,to3m,,,"When I was at school we were on occasion obliged to perform musical numbers for parents and visiting dignitaries. And thus I discovered Tom Lehrer: for one year, one of my friends was drafted in to such a performance, that time of `Masochism Tango&",
+121,10680465,comment,10674144.0,10674274.0,0,0,Senji,,,Hey look. A person&,
+122,10680464,comment,10677576.0,10680434.0,0,0,ekianjo,,,"&quot;some of the bodies&quot;, I&",
+123,10680463,comment,10676736.0,10680405.0,0,0,herendin,,,Fixed. Thanks. Maybe autocorrect was trying to tell me something.,1449280894.0
+124,10680462,story,,,3,0,jonbaer,Google planning a 'needle-free' way to collect blood samples using smartwatches,http://www.dailymail.co.uk/sciencetech/article-3346020/Google-blood-Patent-reveals-firm-planning-needle-free-way-collect-samples-using-smartwatches.html,,1449280861.0
+125,10680461,comment,10678767.0,10680083.0,0,0,ArkyBeagle,,,They&,
+126,10680460,comment,10673127.0,10673127.0,0,0,Polyphonie,,,"You can watch this I/O session from a few years back:<p><a href=""https://youtu.be/d3kfEeMZ65c"" rel=""nofollow"">https://youtu.be/d3kfEeMZ65c</a><p>It probably provides the best insight to the problem Google engineers were and probably is still facing in regards to high performance audio on Android. Even when the latency is brought down, there&",

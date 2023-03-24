@@ -1,0 +1,97 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8166810,comment,8166388.0,8166792.0,3,0,Nilzor,,,"Ok I see, thanks for the explanation.",1407826775.0
+1,8166808,comment,8166064.0,8166480.0,2,0,peteretep,,,"Random meditation: I worked through a lot of the early exercises in Haskell, and partly to learn Haskell. I did a lot of things a &quot;silly&quot; way - didn&",
+2,8166807,comment,8165912.0,8166339.0,2,0,thaumaturgy,,,"Distractions are good, but HN also still has some remnants of a &quot;community&quot;, and depression has been a recurring topic here for years. There are some factors that can make small business and startup founders susceptible to severe depression, and it wasn&",
+3,8166806,comment,8165522.0,8165522.0,2,0,Kiro,,,OT but I&,
+4,8166804,comment,8165857.0,8166535.0,1,0,nickonline,,,"To be honest, at the time I was so shocked, I heavily doubting what I was seeing.",1407826473.0
+5,8166803,comment,8117773.0,8117773.0,1,0,danish_siddiqui,,,"I would recommend checking out the available packages on  Heroku. That will give you a good idea of the popular front-end / back-end frameworks in play today. Of course, you&",
+6,8166801,comment,8165145.0,8166460.0,1,0,adventured,,,Qualcomm is likely to hit a $9.x billion annual profit run-rate in the next four quarters. By comparison Intel&,
+7,8166800,comment,8166707.0,8166707.0,1,0,stevehind,,,"I tend to think not.<p>I think a better way to approach this is to think about the evolution of the equity split over time - i.e. how do the two of your &quot;earn&quot; the equity?<p>It might make sense now if he has the idea and you bring the skills that today the company is split 20% him, 10% you, 70% held aside for investment and staff.<p>If after six months you&",
+8,8166799,comment,8165857.0,8166604.0,3,0,bithive123,,,"Right, and when there are statistics showing that Uber drivers pose a greater danger to their passengers than any other road hazards created by unethical companies then the sentiment will be meaningful.",1407826165.0
+9,8166798,comment,8164766.0,8164766.0,4,0,deathanatos,,,"To some extent, this feels like the old &quot;if you have physical access…&quot;¹ rule.<p>It is good to see more awareness of the fact that USB devices can be quite arbitrary things. I remember trying (hard) to convince people that a cell phone was a computer years ago. It&",
+10,8166796,story,,,47,16,gaul,S3Proxy allows applications using the S3 API to access other object stores,https://github.com/andrewgaul/s3proxy,,1407826079.0
+11,8166795,comment,8166677.0,8166783.0,4,0,SixSigma,,,"That was because Linus Torvalds did a keynote speech with live streaming when he was employed there, he was pretty stoked himself.<p>The only detail I remember from it was :<p>&quot;Linus, what Linux distribution do you use?&quot;<p>&quot;Debian, of course&quot;<p>I wonder if he still uses that on his Mac Book Air",1407826072.0
+12,8166794,comment,8164026.0,8164774.0,1,0,eru,,,Most productive?  Per head Europe (especially) England had been more productive than China for some historical time.,1407825830.0
+13,8166793,story,,,1,0,Flux7Labs,RackSpace Removes Unmanaged IaaS Offerings,http://blog.flux7.com/writing-on-the-wall-rackspace-removes-unmanaged-iaas-offerings,,1407825827.0
+14,8166792,comment,8166388.0,8166753.0,8,0,jitl,,,That&,
+15,8166791,comment,8164712.0,8165944.0,2,0,gohrt,,,It&,
+16,8166789,comment,8164712.0,8166752.0,6,0,gohrt,,,Eating isn&,
+17,8166788,comment,8114901.0,8119779.0,1,0,erikpukinskis,,,What is coordinated conditional double spending?,1407825724.0
+18,8166786,comment,8166064.0,8166488.0,2,0,andrewjkerr,,,I&,
+19,8166785,comment,8164788.0,8164788.0,5,0,damian2000,,,"Could it be stuck on top of a car roof (via magnet) and become a dashcam equivalent, with the advantage of a wider angle?",1407825495.0
+20,8166784,comment,8164712.0,8166763.0,3,0,DanBC,,,How do you define &quot;business&quot;?  BtL landlords with a property portfolio are businesses.<p>Excluding those there are very few businesses that rent homes.  The few that exist work at the lower end renting social housing.<p>There have been severe criticisms of business-landlords.  I&,
+21,8166783,comment,8166677.0,8166677.0,3,0,chrissnell,,,"Oh, Transmeta.  Back in the heyday of Slashdot, Transmeta had a massive cult following for many months before the product was even released.  I remember the dissapointment when they did finally ship.  My dad bought one of the little Sony laptops with their proc and it was a dog (although power-efficient).",1407825438.0
+22,8166782,comment,8164806.0,8164806.0,1,0,minikomi,,,"Hey mate, good article. If you read this - the links to the examples on your front page are broken (they&",
+23,8166781,story,,,13,5,bmilsom,Should my startup pay to advertise? A quick calculator,http://ad-spend-calculator.qwilr.com/,,1407825369.0
+24,8166780,story,,,3,0,diziet,Banach–Tarski paradox,https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox,,1407825356.0
+25,8166779,story,,,6,0,te_chris,Ask HN: What are the Accelerators in London Like?,,,1407825334.0
+26,8166778,story,,,6,1,otobrglez,Tic-Tac-Toe made in pure CSS,http://codepen.io/ziga-miklic/pen/Fagmh,,1407825252.0
+27,8166777,comment,8166677.0,8166677.0,9,0,walterbell,,,"Background on Project Denver, including x86 vs ARM ISA, <a href=""http://semiaccurate.com/2011/08/05/what-is-project-denver-based-on/"" rel=""nofollow"">http://semiaccurate.com/2011/08/05/what-is-project-denver-ba...</a><p>&quot;Denver is just one of the variants in that line. T50 was going to be a full 64-bit x86 CPU, not ARM cored chip, but Nvidia lacked the patent licenses to make hardware that was x86 compatible.&quot;",1407825251.0
+28,8166776,comment,8166064.0,8166488.0,1,0,watwut,,,Can I backup my solutions on github now?,1407825164.0
+29,8166775,comment,8166388.0,8166753.0,2,0,diafygi,,,I&,
+30,8166774,comment,8163823.0,8163823.0,0,0,dschiptsov,,,New Apple&,
+31,8166773,story,,,1,0,andyl,NSA Funded Project to Roll All Programming Languages into One,http://gizmodo.com/the-nsa-is-funding-a-project-to-roll-all-programming-la-1619295603,,1407825104.0
+32,8166772,comment,8164534.0,8164900.0,0,0,tazjin,,,"GPL seems like a sad choice for something that would need mobile apps, there have been problems with the App Store and GPL before for example.",1407825080.0
+33,8166771,story,,,1,0,DaveJn,Jquery Sparklines Layout with ShieldUI Chart,https://demos.shieldui.com/web/sparklines-chart/basic-usage,,1407825052.0
+34,8166770,comment,8166064.0,8166522.0,5,0,elwell,,,> You mean solutions in Clojure? We got &,
+35,8166769,story,,,2,0,spingsprong,Third person driving with a drone,https://www.youtube.com/watch?v=UNHhfykh5Qc,,1407825005.0
+36,8166767,comment,8165342.0,8165342.0,1,0,travelbug,,,Slick app. Love how fast it is,1407824986.0
+37,8166766,comment,8165857.0,8166581.0,1,0,edwardhotchkiss,,,It&,
+38,8166765,comment,8164826.0,8164853.0,1,0,semerda,,,Is the AWS deal real?,1407824942.0
+39,8166764,comment,8165145.0,8165559.0,4,0,plainOldText,,,"After reading the article, the first thing I started thinking was why do we need to wait for 2 years to double the number of transistors on a chip. Why can&",
+40,8166763,comment,8164712.0,8165923.0,2,0,tonyedgecombe,,,I think we would be better off with more businesses and less private landlords in the UK. The current situation doesn&,
+41,8166762,comment,8165857.0,8166405.0,1,0,edwardhotchkiss,,,*useful,1407824888.0
+42,8166761,comment,8165857.0,8166528.0,7,0,Kliment,,,"Sure they do, but they are not accessible to the customer.",1407824851.0
+43,8166760,comment,8166056.0,8166056.0,1,0,DanBC,,,I used to search Usenet news at least weekly.  Google&,
+44,8166759,comment,8164711.0,8164711.0,1,0,massappeal,,,lol the irony is killing me right now,1407824808.0
+45,8166757,comment,8164523.0,8166250.0,1,0,nerfhammer,,,the lifetime value of a pension will ultimately totally dwarf the value of free lunch and snacks,1407824754.0
+46,8166756,comment,8165857.0,8166640.0,1,0,mkal_tsr,,,"And?  Same behavior from Uber, doesn&",
+47,8166755,comment,8165857.0,8166145.0,1,0,abritishguy,,,The US is not the only country.,1407824750.0
+48,8166754,story,,,1,0,codecondo,JavaScript Framework Showdown,http://codecondo.com/javascript-framework-showdown-use/,,
+49,8166753,comment,8166388.0,8166744.0,3,0,Nilzor,,,Wait.. so you&,
+50,8166752,comment,8164712.0,8166192.0,1,0,tonyedgecombe,,,Jobs aren&,
+51,8166751,comment,8166064.0,8166322.0,3,0,elwell,,,"... just realized they are posting the challenges on the site this year, rather than via email.",1407824687.0
+52,8166750,comment,8164408.0,8165539.0,7,0,stephen_g,,,"Routers. Routers everywhere...<p>The internet is broken up into different networks, each one being an &",
+53,8166749,comment,8166388.0,8166679.0,6,0,jitl,,,It&,
+54,8166748,comment,8166677.0,8166677.0,3,0,zurn,,,Neat. On Android it&,
+55,8166747,comment,8166056.0,8166056.0,2,0,massappeal,,,"google maps, gmail and google docs would be tough to replace, but I think we&",
+56,8166746,comment,8165206.0,8166097.0,2,0,zongitsrinzler,,,I can only guess that top traders in TF2 make the same kind of money as in this article,1407824567.0
+57,8166745,comment,8165206.0,8165206.0,2,0,jamhan,,,How much of the real money actually came from stolen credit cards? I bet it was a significant percentage.,1407824482.0
+58,8166744,comment,8166388.0,8166716.0,7,0,jitl,,,Guacamole is a Java program. It&,
+59,8166743,story,,,11,2,yurylifshits,Makani – Airborne Wind Turbines,http://www.google.com/makani/solution/,,1407824392.0
+60,8166742,comment,8163741.0,8166244.0,1,0,hackuser,,,"> I bought a couple of computers in the early 90s and neither came with Office installed.<p>I thought it happened later, maybe with Windows 95. I wasn&",
+61,8166741,comment,8165857.0,8166620.0,1,0,halcyondaze,,,I think you could just sit in the back if you wanted to.,1407824382.0
+62,8166740,comment,8166388.0,8166716.0,3,0,sequence7,,,"From the github readme:<p><pre><code>  > guacamole-client is used to build the subprojects that  make up Guacamole, and\n  > to provide a common central repository. Each project contained here is\n  > completely independent of guacamole-client and can be built separately, though\n  > the others may have to be built first. If all projects are built using\n  > guacamole-client, Maven will take care of the proper build order.\n</code></pre>\nMy reading of this is that the client repo also contains the server, which is written in java",1407824365.0
+63,8166739,comment,8166064.0,8166488.0,6,0,aparadja,,,Oh dear.<p>I already wrote an emulator for the MSP430 from scratch just to try out an approach for the current challenge&,
+64,8166738,comment,8166642.0,8166642.0,1,0,esbranson,,,"LinkedMDB (<a href=""http://linkedmdb.org/"" rel=""nofollow"">http://linkedmdb.org/</a>).<p>The API is called SPARQL.",1407824293.0
+65,8166736,comment,8166388.0,8166716.0,3,0,hueving,,,Server side is java,1407824239.0
+66,8166735,comment,8164080.0,8166687.0,5,0,codezero,,,"Many modern cars combine the onboard GPS with so called &quot;value added&quot; services that uplink data over wireless networks whether you subscribe to the service or not: OnStar, and several custom manufacturer networks. In particular, Tesla vehicles do this. I know my Volkswagen does as well.",1407824238.0
+67,8166734,story,,,45,7,mrbird,"‘Beep,’ Says the Bellhop",http://www.nytimes.com/2014/08/12/technology/hotel-to-begin-testing-botlr-a-robotic-bellhop.html,,1407824230.0
+68,8166733,story,,,4,0,paraschopra,Show HN: Compare two DOM strings and find minimum difference between the two,http://engineering.wingify.com/posts/open-sourcing-dom-comparator/?github,,1407824140.0
+69,8166732,comment,8165206.0,8166277.0,1,0,lloeki,,,"Although I can only perceive them through specialised devices, pack of electrons trapped in a cell or magnetic wave patterns on a platter sound perfectly physical to me.",1407824103.0
+70,8166731,comment,8164138.0,8164138.0,2,0,lovelearning,,,Here&,
+71,8166729,comment,8166642.0,8166642.0,1,0,nbrempel,,,I haven&,
+72,8166728,comment,8165857.0,8166628.0,2,0,pbreit,,,Previous poster&,
+73,8166727,comment,8166677.0,8166677.0,4,0,shmerl,,,I really hope Nvidia will open up their K1 driver completely following Intel&,
+74,8166726,comment,8165857.0,8165857.0,1,0,pbreit,,,"This would certainly be a dick move by Uber, even in the land of hyper competition. But how the heck was Lyft unable to foil it?",1407823814.0
+75,8166725,comment,8162545.0,8164839.0,1,0,inkyoto,,,"<i>If you have a healthy pancreas there is zero reason not to get a load of your calories from sugar.</i><p>If you have healthy pancreas and keep overloading them with sugar, you will quickly develop insulin sensitivity and eventually kill your pancreas.<p>&quot;Anti-sugar thinking&quot; has started out as diabetes research and over the last few decades has turned up plenty of evidence of how unrestricted sugar heavy intake leads to a number of health related issues and degenerative diseases. Role of sugar in endogenous glycation processes can&",
+76,8166724,story,,,4,0,danish_siddiqui,Good JS library for email (PM) and task management?,,I need recommendation for a good library for email (PM) and task management on a per-user basis. So far I&,
+77,8166723,story,,,1,0,fraqed,Physicists create water tractor beam,http://phys.org/news/2014-08-physicists-tractor.html,,1407823714.0
+78,8166722,comment,8166388.0,8166388.0,16,0,jitl,,,I run Guacamole on my home network as an RDP client to my Windows and Linux boxes. It&,
+79,8166721,comment,8165694.0,8166448.0,1,0,abalone,,,What are the evolutionary steps that you think Square had to take before launching Appointments? I&,
+80,8166720,comment,8166710.0,8166710.0,1,0,alec_heif,,,So let me get this straight.<p>It&,
+81,8166718,comment,8164860.0,8166610.0,1,0,technotony,,,"The founders met at Biocurious, a DIY Bio space in Sunnyvale, and many of our early backers came from that community. It&",
+82,8166717,story,,,2,0,cico71,Skype Group Screen Sharing now free,http://blogs.skype.com/2014/08/11/skype-group-screen-sharing-is-free,,1407823564.0
+83,8166716,comment,8166388.0,8166388.0,3,0,codezero,,,The Github repo for the client says it&,
+84,8166715,comment,8166388.0,8166651.0,2,0,nemo1618,,,"you can already control rtorrent via ssh, though admittedly it has a steeper learning curve.",1407823489.0
+85,8166714,comment,8166583.0,8166583.0,3,0,alec_heif,,,"Interesting that the site mentions (several times, very prominently) that the assistants are all over the USA but the tasks they can do are only virtual ones. Why does the location matter then?<p>Also wondering about the set number of requests per month. It seems like by allowing people to buy tasks a-la-carte, you could charge more per task (since the tasks would usually be horrible things like dealing with cable companies or renting cars). Why the decision to only allow three different task packages?",1407823417.0
+86,8166713,story,,,4,0,tux1968,Here’s Why Stealing Cars Went Out of Fashion,http://www.nytimes.com/2014/08/12/upshot/heres-why-stealing-cars-went-out-of-fashion.html,,1407823389.0
+87,8166712,comment,8163741.0,8166032.0,2,0,filmgirlcw,,,I trust you. I know he was still married and wasn&,
+88,8166711,comment,8164860.0,8166562.0,1,0,technotony,,,The gene gun inserts randomly. We do a large number of insertions and will then test to see which are the best plants and take those forward to production. All the seeds shipped will however come from a single parent.,1407823378.0
+89,8166710,story,,,2,1,dkarapetyan,Frida,http://www.frida.re/?new=true,,1407823344.0
+90,8166708,comment,8164711.0,8164711.0,1,0,falsestprophet,,,I&,
+91,8166707,story,,,2,2,stasy,Ask HN: How much equity should we split?,,"My friend came up with an idea for an app, and he would like 40-50%.<p>All he is doing for this idea is coming up with the original idea. I make the idea (an app), design, and updates/changes.<p>What do you think is a fair equity split?",1407823296.0
+92,8166706,comment,8165206.0,8166629.0,2,0,bjelkeman-again,,,"I actually enjoyed it. Yes there was stuff that could have been explored more, but I still enjoyed it.",1407823278.0
+93,8166705,comment,8164860.0,8166407.0,3,0,technotony,,,"Exactly, the plant is not being given any kind of selective advantage and the genes in fact incur a metabolic cost on the plant so it will lose out to natural selection. The domesticated analogy is a great one, plus remember we took the genes from the wild in the first place!",1407823265.0
+94,8166704,comment,8164523.0,8164899.0,1,0,legohead,,,"at first it sounded like a team of problem solvers (fun), but ended up sounding like more techno bureaucracy (boring).<p>setting standards across federal agencies?  single sign-on?  may god have mercy on their souls.",1407823235.0
+95,8166703,comment,8164788.0,8165227.0,1,0,m_mueller,,,Panasonic is currently marketing their 4k wearable cam in Japan [1]. Pretty impressive for that size I&,

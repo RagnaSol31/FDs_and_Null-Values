@@ -1,0 +1,107 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9920984,story,,,8,0,GeorgeTirebiter,Researchers prove HTML5 can be used to hide malware,http://net-security.org/malware_news.php?id=3076,,1437465592.0
+1,9920983,story,,,2,0,methou,OpenDNS and Cisco,https://blog.opendns.com/2015/06/30/cisco-announces-intent-to-acquire-opendns/,,1437465580.0
+2,9920982,comment,9913945.0,9914426.0,0,0,xorcist,,,"I believe it likely that all drugs have a net negative effect in the long run. If humans in general had a chemical imbalance so our brains did not function optimally, and caffeine would fix that so that we just functioned better overall, shouldn&",
+3,9920981,comment,9920848.0,9920848.0,0,0,amelius,,,How does it scale?,1437465562.0
+4,9920980,story,,,1,0,abrbhat,The Curse of India,https://medium.com/@abrbhat/the-curse-of-india-4cb97d5cbd68,,1437465505.0
+5,9920979,comment,9917334.0,9917334.0,0,0,acpmasquerade,,,"going thru the comments, its seems that the remote consideration is going to be the charm as well as the biggest challenge.",1437465449.0
+6,9920978,comment,9919641.0,9920208.0,0,0,tempestn,,,The post said they&,
+7,9920977,story,,,54,11,ptbello,The reckless plot to overthrow Africa's most absurd dictator,http://www.theguardian.com/world/2015/jul/21/how-former-us-army-officer-launched-disastrous-coup-the-gambia,,1437465383.0
+8,9920976,comment,9919590.0,9919849.0,0,0,teaneedz,,,Search is replaceable with DuckDuckGo for me.,1437465377.0
+9,9920975,comment,9919362.0,9920853.0,0,0,danieltillett,,,"I think life is a bit more complex than this. There is good reasons for having a signing bonus be repaid if the recipient leaves within the stated time period, but it should be set at a level that make the person think twice about leaving, but not not so high that the person is handcuffed to the job. It sounds like $35K was too high and maybe a number around $10K would have been a better fit.<p>I am surprised anyone would spend a signing bonus until they are sure they wanted to work at the company that had given it to them. Keep the money safe until you are sure you want to stay.",1437465372.0
+10,9920974,story,,,4,0,ColinWright,“Tricia – we'll build a telepresence robot”,http://thistle-threads.blogspot.com/2015/07/excuse-me-sir-can-i-get-off-ride.html,,1437465320.0
+11,9920972,comment,9914410.0,9920952.0,0,0,pjmlp,,,Check the Poly Conf 2015 presentations (sorry cannot search for the link right now)<p>Lots of Ruby code can even be compiled as is.,1437465290.0
+12,9920971,comment,9918862.0,9919536.0,0,0,deciplex,,,> <i>It&,
+13,9920970,comment,9920953.0,9920953.0,0,0,acpmasquerade,,,This is the way I prefer to communicate sometimes. Hadn&,
+14,9920969,comment,9917773.0,9920555.0,0,0,tokipin,,,I think it&,
+15,9920968,comment,9919650.0,9919650.0,0,0,drakonka,,,"Ok so I went through a whole thing for this with my snail simulation. Usually naming stuff is pretty easy for me but...well, it is hard to make a snail simulation sound interesting and cool (because it&",
+16,9920967,comment,9919641.0,9919641.0,0,0,tempestn,,,I wonder if they&,
+17,9920966,comment,9919729.0,9919729.0,0,0,dang,,,"<a href=""https://news.ycombinator.com/item?id=8118696"" rel=""nofollow"">https://news.ycombinator.com/item?id=8118696</a>",1437465098.0
+18,9920964,story,,,1,0,r4um,A Brief History of Scaling LinkedIn,http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin,,1437465081.0
+19,9920963,comment,9917773.0,9920849.0,0,0,nemothekid,,,"Your explanation makes sense, but I don&",
+20,9920962,story,,,1,0,remirobert,"TextDrawer: a UIView allows you to add text, with gesture, on UIViewithUIImage",https://github.com/remirobert/TextDrawer,,1437465021.0
+21,9920961,comment,9920848.0,9920848.0,0,0,serkanyersen,,,"This kind of blog posts are super interesting and depressing at the same time :) makes me question my programing skills. Almost all of the things mentioned here are over my head.<p>Thanks for sharing though, very interesting",1437464990.0
+22,9920960,comment,9917773.0,9920120.0,0,0,lk145,,,"Yeah, if we&",
+23,9920959,comment,9920121.0,9920927.0,0,0,thaumaturgy,,,"> <i>I often avoid software upgrades not because I know something will break but because I speculate something will break and dont want to find out.</i><p>That is a great way to describe that. Same here. On my daily dev system (Debian), frequent updates were sporadically breaking different bits of system -- sound would stop working, then would work again but something else would glitch -- and eventually I got busy enough that I just couldn&",
+24,9920958,comment,9920121.0,9920697.0,0,0,MichaelCrawford,,,"Your experience and mine is why I write &quot;Solving the Software Problem: a Taxonomy of Error&quot;:<p><a href=""http://www.warplife.com/jonathan-swift/books/software-problem/"" rel=""nofollow"">http://www.warplife.com/jonathan-swift/books/software-proble...</a><p>While actual code serves as a good example the problem is far more general.  Consider the Apollo I fire: the Astronauts were unable to convince NASA to redesign their capsule&",
+25,9920957,comment,9917008.0,9917008.0,0,0,JohnDoe365,,,"How does HyperLogLog fit in here?<p><a href=""http://antirez.com/news/75"" rel=""nofollow"">http://antirez.com/news/75</a>",1437464811.0
+26,9920956,comment,9920121.0,9920121.0,0,0,baddox,,,> The Concorde entered commercial service and safely ferried douchebags across the Atlantic for 25 years.<p>Why this? I mean that seriously. Forget that it&,
+27,9920954,comment,9920121.0,9920891.0,0,0,_yosefk,,,"Erm... I sort of figured it out years and years ago, and I <i>do</i> work in plain vim.<p>(Hence to me there&",
+28,9920953,story,,,2,2,AccelerIT,The Magic Email,https://www.winwithoutpitching.com/magic-email/,,1437464741.0
+29,9920952,comment,9914410.0,9915894.0,0,0,VeejayRampay,,,"Thanks a lot for the heads up on Crystal. The language looks close enough to Ruby that I immediately feel home, yet looks slightly different (and somewhat lower-level it seems).",1437464737.0
+30,9920951,comment,9917773.0,9919810.0,0,0,lmm,,,> It just seems like a trivial pattern.<p>It <i>is</i> a trivial pattern. But a powerful one.<p>> I&,
+31,9920950,comment,9916974.0,9916974.0,0,0,pingec,,,I wish us Europeans could do that :(,1437464698.0
+32,9920949,comment,9916974.0,9920246.0,0,0,sliverstorm,,,Because it&,
+33,9920948,story,,,1,0,striletskyy,Cloud Analytic (BI&A) for Saas Companies,http://getdataforce.com/,,1437464635.0
+34,9920947,comment,9914509.0,9915134.0,0,0,antaviana,,,"In Spain the Goverment is issuing a law where you have to pay about a 60% of the power you generate for your own compsumption if you are connected to the grid.  Clearly, our Governtment truly believes that we do not need renewable energy.",1437464632.0
+35,9920946,comment,9912842.0,9913955.0,0,0,jeremysmyth,,,"Not all: <a href=""https://dev.mysql.com/doc/refman/5.6/en/innodb-create-index-overview.html"" rel=""nofollow"">https://dev.mysql.com/doc/refman/5.6/en/innodb-create-index-...</a>",1437464608.0
+36,9920945,story,,,2,0,Damin0u,Self-Destructing Email in Gmail,http://mail.delicious.com/,,1437464603.0
+37,9920944,comment,9920121.0,9920891.0,0,0,klum,,,There&,
+38,9920943,comment,9917595.0,9920012.0,0,0,blueflow,,,"JPEG is perfectly streamable and beside from the beginning of the file not randomly accessible. You have to iterate through all the markers to find your data, so mmap doesn&",
+39,9920940,comment,9920501.0,9920501.0,0,0,dang,,,Please don&,
+40,9920939,comment,9917773.0,9920749.0,0,0,oahziur,,,I think Maybe monad could be really useful in Swift (Apple&,
+41,9920938,comment,9917773.0,9920261.0,0,0,lmm,,,It&,
+42,9920937,comment,9917334.0,9917334.0,0,0,yumraj,,,"I find it interesting that people are finding issue with the $12K. Personally I have kids and mortgage and I will be applying with my healthcare startup which as it happens is in very early stages.\nI would have applied even if there was no $12K since, YC is not taking any equity in this case, and, is providing access to its network which is worth much much more than $12K to me.",1437464358.0
+43,9920936,comment,9917334.0,9917334.0,0,0,mceoin,,,"In one of his essays, PG wrote about the paradox of knowing that the success rate of YC companies indicated that YC could absorb a lot more risk, yet was unable to do so because spotting good ideas that look like bad ideas (or bad ideas that could become good ideas) was incredibly difficult. I believe that critique has been sufficiently answered.",1437464342.0
+44,9920935,story,,,1,0,stefanbruun,"ICYM Top Answers from Andy Johns AMA – Former PM at Facebook, Twitter, Quora Etc.",http://stefanbruun.com/andy-johns-former-pm-twitter-quora-facebook-on-growth/,,1437464308.0
+45,9920934,comment,9917773.0,9920757.0,0,0,lmm,,,It&,
+46,9920933,story,,,1,0,Shihan,NASA Satellite Camera Provides “EPIC” View of Earth,http://www.nasa.gov/press-release/nasa-satellite-camera-provides-epic-view-of-earth,,1437464271.0
+47,9920932,story,,,1,0,hunglee2,"You can do it, baby",http://aeon.co/magazine/psychology/why-telling-kids-to-dream-big-is-a-big-con/,,1437464246.0
+48,9920931,story,,,1,0,vr000m,Handling Multiple Media Stream Tracks with Callstats.js,http://www.callstats.io/2015/07/17/api-update-handling-multiple-media-stream-tracks-callstats/,,1437464213.0
+49,9920930,comment,9920121.0,9920121.0,0,0,MichaelCrawford,,,"I often ask other coders to contemplate &quot;What software that we write today will still be in use 10,000 years from now?&quot;<p>That I am unable to answer that question is a primary reason I write English text rather than code the last ten years.",1437464211.0
+50,9920929,story,,,1,0,tvvocold,"HN,Reddit,Product Hunt,Slashdot,Designer News...  All in ",http://reader.one/,,1437464208.0
+51,9920928,comment,9919852.0,9920901.0,0,0,danieltillett,,,"Having a lottery is a good idea and one I support for grants in general. The grant review process should be simply &quot;is this idea viable and worthy of funding - yes or no”. If yes put it into the lottery and fund as many good grants as you have resources. Peer review works well for this type of sorting, but it is terrible for trying to pick a top 10% idea from a top 15% idea. It just isn’t possible for even the best scientists to be able to do this consistently.<p>The problem with fellowships is that the longest I know of only go for 5 years and most of the junior ones are only for 3 years. This is just not long enough to take the chance on failure.<p>If you want to encourage young talented people to tackle really hard and high risk problems you need to provide funding for at least 10 years.<p>I would go as far as adding a restriction that recipients of these high risk fellowships can’t publish in anything but the absolutely top tier journals (Nature, Science, Cell, etc) for the first 7 years so they don’t get distracted from the high risk work that other scientists can’t afford to do.",1437464104.0
+52,9920927,comment,9920121.0,9920697.0,0,0,MichaelCrawford,,,"I often avoid software upgrades not because I know something will break but because I speculate something will break and dont want to find out.<p>Out of all the &quot;features&quot; that anger me the most are automatic, silent upgrades.  One can generally disable them but I dont want to have to figure out how; if I want an upgrade I will download and install it manually and do so when I am good and ready.<p>That web applications - as opposed to those I install locally - are increasingly common I regard as the problem not the solution.  Quite commonly a website breaks for no apparent reason, eventually I clue into that they revised their Javascipt but did not test on the browser I actually use.<p>When considering whether to install software, first look for reviews.  Many eCommerce sites make it easy to sort by most-critical first.  Do take them with a grain of salt as bad reviews are sometimes posted by unethical competitors as well as cyberstalkers like Kuro5hin&",
+53,9920926,comment,9920285.0,9920672.0,0,0,tvvocold,,,I don&,
+54,9920925,comment,9918273.0,9919506.0,0,0,concerned_user,,,"Also imagine it gets stolen, good luck remembering all the cards you had in there and banks you need to call. Payment gateway route, like paypal, gives same convenience and less headaches.",1437464026.0
+55,9920924,story,,,1,0,luu,Work is work and it shouldn't be expected on the weekends,http://blogs.oregonstate.edu/glencora/2015/07/20/1181/,,1437463975.0
+56,9920923,story,,,3,0,pdeva1,Stripe vs. Braintree: Why BrainTree Lost,http://movingfulcrum.com/stripe-vs-braintree-why-braintree-lost/,,1437463950.0
+57,9920922,comment,9920121.0,9920797.0,0,0,Asbostos,,,The AI in a box game doesn&,
+58,9920921,comment,9920311.0,9920311.0,0,0,dang,,,"Comments moved to <a href=""https://news.ycombinator.com/item?id=9920543"" rel=""nofollow"">https://news.ycombinator.com/item?id=9920543</a>.",1437463846.0
+59,9920920,comment,9918273.0,9918273.0,0,0,jtchang,,,I actually have the Nordic NRF51822 / NRF51 development board and it is super fun to play with. I come from a web dev background so getting into hardware is rough.<p>The toolchain for building firmware is crazy. It&,
+60,9920919,comment,9917773.0,9920679.0,0,0,Lewton,,,"<a href=""http://www.amazon.co.uk/Why-Does-mc2-Brian-Cox/dp/0306819112"" rel=""nofollow"">http://www.amazon.co.uk/Why-Does-mc2-Brian-Cox/dp/0306819112</a>",1437463823.0
+61,9920918,comment,9880683.0,9880683.0,0,0,jamesxab,,,I&,
+62,9920917,comment,9917334.0,9919301.0,0,0,rattray,,,"Is &quot;advice&quot; really what Tarsnap needs? It got a lot of it (really terrific advice, too) from patio11. Looking at the home page, it doesn&",
+63,9920916,comment,9919234.0,9919234.0,0,0,splitbrain,,,Simple alternative to quickly set the current time: use the date header of any webserver:<p><pre><code>    date -s &quot;`curl -I http://www.kernel.org |grep &,
+64,9920915,story,,,44,36,prostoalex,"The Reeducation of Blackboard, Everyone's Classroom Pariah",http://www.wired.com/2015/07/blackboard-reinvention/,,1437463674.0
+65,9920914,comment,9917334.0,9917334.0,0,0,ismail,,,"This is awesome.<p>YC reputation has grown in the last few years. Raising the bar quite high, making it much harder to get in at the earliest stages. I believe this is the reason for this.",1437463606.0
+66,9920913,story,,,3,3,walterbell,Robotic Surgery Linked to 144 Deaths Since 2000,http://www.technologyreview.com/view/539521/robotic-surgery-linked-to-144-deaths-since-2000/,,1437463591.0
+67,9920912,comment,9865319.0,9866251.0,0,0,LeoHaggins,,,"Thanks for the bug report, fixed now :)",1437463583.0
+68,9920911,comment,9918273.0,9919303.0,0,0,concerned_user,,,"That is what signature is for, isn&",
+69,9920910,comment,9916585.0,9920099.0,0,0,tkubacki,,,Thanks for sharing!<p>My Dart thingy is commercial NDA bla bla bla - so the only thing I can say it&,
+70,9920909,comment,9917773.0,9920555.0,0,0,codygman,,,I&,
+71,9920908,story,,,1,0,0x142857,Emoji searcher but as a menubar app for Windows,https://github.com/aprilorange/mojibar,,1437463448.0
+72,9920907,comment,9914534.0,9914534.0,0,0,dvh,,,"<a href=""https://en.wikipedia.org/wiki/Turing_tarpit"" rel=""nofollow"">https://en.wikipedia.org/wiki/Turing_tarpit</a>",1437463432.0
+73,9920906,comment,9919972.0,9920459.0,0,0,69_years_and,,,"So reading between the lines - the bracket holding the helium tank (inside the oxygen tank) broke, the helium tank ripped away from it&",
+74,9920905,story,,,1,0,Elen,How to delete your app's user account if necessary?,https://backendless.com/?p=3331,,1437463421.0
+75,9920904,story,,,12,0,voroninman,Rebuilding Uber's Dispatching Platform,http://www.infoq.com/presentations/uberrush?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global,,1437463402.0
+76,9920903,story,,,2,0,hendi_,Your Ubuntu-based container image is probably a copyright violation,https://mjg59.dreamwidth.org/36312.html,,1437463382.0
+77,9920902,comment,9916974.0,9919960.0,0,0,SeoxyS,,,Do you have to request the comp? I&,
+78,9920901,comment,9919852.0,9920313.0,0,0,jacques_chester,,,"> <i>What we really need to find a way to support long-term, high risk projects driven by young scientists with breakthrough ideas.</i><p>Fellowships typically fill the roll of paying for long-term, high risk research.<p>If it needs to be weighted away from established researchers, make it a lottery.<p>Current funding models are optimised for convergence on leading hypotheses. A lottery would increase coverage.",1437463317.0
+79,9920900,comment,9916191.0,9920725.0,0,0,ColinWright,,,I&,
+80,9920899,comment,9917773.0,9920044.0,0,0,comex,,,Less as a real argument than as devil&,
+81,9920898,story,,,1,0,trueconf1,Russian Video Conferencing Market Decreases for the Third Consecutive Year,http://blog.trueconf.com/press-release/russian-video-conferencing-market-decreases-third-consecutive-year.html,,1437463037.0
+82,9920897,story,,,1,1,Mokjud,Ask HN: What entrepreneurs are you following?,,,1437463006.0
+83,9920895,comment,9917773.0,9919551.0,0,0,kriro,,,I&,
+84,9920894,comment,9919641.0,9920492.0,0,0,tsotha,,,Aren&,
+85,9920892,comment,9906107.0,9915419.0,0,0,aileron,,,...no? How are you supposed to figure out whether pay is biased by gender or ethnicity then?,1437462959.0
+86,9920891,comment,9920121.0,9920708.0,0,0,ploxiln,,,"I just wanted to mention that I really liked this article/slides, and agree that most software sucks...<p>... but I think the systems built &quot;by hackers for hackers&quot;, nix clones in general and linux distributions in particular, are generally the best stuff out there.<p>It&",
+87,9920890,comment,9913209.0,9914295.0,0,0,deevus,,,I know the feeling. I&,
+88,9920888,story,,,18,0,walterbell,The Historic Development of Network Visualization,http://www.pfeffer.at/data/visposter/,,1437462900.0
+89,9920887,comment,9918273.0,9919434.0,0,0,concerned_user,,,"Well for them it is money lost due to fraud vs money spent on tech upgrade. \nUntil money lost to fraud is tolerable banks are not going to upgrade, it also seems that a lot of big banks are very short sighted, like it was with 2008 housing bubble.",1437462895.0
+90,9920885,comment,9917334.0,9917334.0,0,0,zodiac,,,Are the questions different from regular YC applications? I don&,
+91,9920884,comment,9919438.0,9919438.0,0,0,panorama,,,I don&,
+92,9920882,story,,,1,0,itsnauman,Sushijs/nyc,https://github.com/sushijs/meta/issues/9,,1437462750.0
+93,9920880,comment,9918862.0,9918862.0,0,0,gioele,,,"I find the &quot;Summary of international crypto controls&quot; at <a href=""http://www.cryptolaw.org/cls-sum.htm"" rel=""nofollow"">http://www.cryptolaw.org/cls-sum.htm</a> very informative.<p>It shows that the _export_ controls have been in places for years and that is something that should worry us.",1437462666.0
+94,9920879,comment,9919650.0,9919650.0,0,0,blackdev1l,,,"just take any italian word, you won&",
+95,9920878,comment,9916460.0,9917785.0,0,0,MeNotMe,,,1. It&,
+96,9920877,story,,,1,0,rohitjoshi14,Toad 12.6 for Oracle,http://www.educba.com/course/toad-12-6-for-oracle/,,1437462562.0
+97,9920875,comment,9917773.0,9920754.0,0,0,kristiandupont,,,"While this statement seems like common sense, there are plenty of examples of limitations creating a better language. I am quite happy that nobody can write goto in code that I have to work with.",1437462434.0
+98,9920874,comment,9915135.0,9915472.0,0,0,onedev,,,Also Europe is a continent.,1437462401.0
+99,9920873,comment,9912863.0,9918737.0,0,0,technomancy,,,"Yes, that&",
+100,9920872,comment,9914446.0,9918559.0,0,0,JupiterMoon,,,"> My training was in graphic design<p>So mainly paper based graphics right?<p>> and the web training we got in college was behind where I was self-taught in web before getting to college, they only covered the basics.<p>As I thought so no formal training in design for screens.<p>Screens are not paper. Please be responsive yourself, be a life long learner and stop disabling zoom. Can google analytics or somesuch look for failed pinch to zoom events followed by someone leaving your website?<p>P.S. responsive means that the website responds to the screen size and looks fine on a 40&quot; wide screen or on a 4&quot; smart phone. It does not mean anything about speed of response (which is a nice thing to have obviously but not at the expense of basic function).<p>P.P.S. there are two responses to a non-zooming website:\n1. That of someone that knows what the web-designer did: &quot;Why on earth did the <i></i><i></i><i></i>* web developer disable zooming. I&",
+101,9920871,comment,9917442.0,9919191.0,0,0,austinjp,,,Absolutely. Spotify be damned. Grooveshark felt like Audiogalaxy done by professionals.,1437462193.0
+102,9920870,comment,9918862.0,9918862.0,0,0,oracuk,,,It&,
+103,9920869,comment,9918898.0,9920818.0,0,0,technomancy,,,> I think the problem is humans just aren&,
+104,9920868,comment,9920121.0,9920780.0,0,0,thaumaturgy,,,"Hey, I started in the 80s on a Commodore 64 (and Vic 20!) too! And later graduated to COBOL74 on a Unisys mainframe... I just got a really young start.<p>If you find yourself feeling like writing about your opinions on software design sometime, I hope it comes across my news feed. I&",
+105,9920867,comment,9919590.0,9919685.0,0,0,hobarrera,,,> The number of unread Facebook messages I have is not printed on 30% of all the web pages I visit.<p>I&,

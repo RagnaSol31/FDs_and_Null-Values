@@ -1,0 +1,100 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8747309,story,,,1,2,andymaule,Ask HN: Want to change in-app notifications without re-submitting?,,I&,
+1,8747308,comment,8747000.0,8747000.0,0,0,refurb,,,"Nice job!  Pretty simple game, but you had me playing it for an hour!",1418525919.0
+2,8747306,comment,8747057.0,8747298.0,0,0,revelation,,,VRAM is not mapped to the same memory space as your normal RAM and it is not directly accessible via regular CPU instructions. It&,
+3,8747305,comment,8747053.0,8747301.0,0,0,sillysaurus3,,,Why are we trying to insinuate they&,
+4,8747304,comment,8746229.0,8746229.0,0,0,markbnj,,,Really interesting story. I&,
+5,8747303,comment,8747053.0,8747222.0,0,0,percept,,,"Reminds me of the story recently about the guy who built a game over what, ten years or so? (Can&",
+6,8747302,comment,8747143.0,8747288.0,0,0,bascule,,,Rust has an asm! macro. You can implement the constant time operations in assembly.<p>Here&,
+7,8747301,comment,8747053.0,8747255.0,0,0,qnr,,,"Also, &quot;Osborne 486, with about 64k of RAM if memory serves me correctly. &quot;<p>First, a 486 with 64K RAM is ridiculous as they typically had multiple megabytes of memory.<p>Second, he worked with that PC for 7 years and isn&",
+8,8747300,comment,8747053.0,8747255.0,0,0,dalke,,,"It sounds quite reasonable to me. I did morally similar things on an 8088 machine, 10 years previous. Eg, no ray-tracing, but I did an animated movie. No operating system, but I wrote my own BASIC in BASIC. Everything described is well within the skills of a hobbyist.<p>While I played a bunch of games on it, they weren&",
+9,8747299,comment,8746883.0,8747075.0,0,0,zkhalique,,,I&,
+10,8747298,comment,8747057.0,8747057.0,0,0,manover,,,"Could anybody please explain to me why there is a need for a special treatment of VRAM compared to a regular system RAM in this use case? Assuming, we can perform an allocation in VRAM (probably using OpenCL API), why can&",
+11,8747297,comment,8746045.0,8747251.0,0,0,dsr_,,,"Yup. If they want to program, that&",
+12,8747296,story,,,3,0,joshanthony,12 Startups in 12 days: Day 1 results and thoughts,http://blog.12startups.co/post/105138159440/first-startup-php-plumber-results-after-1-day,,1418525514.0
+13,8747295,comment,8747053.0,8747260.0,0,0,dmpk2k,,,Likewise here. In my case it was a Dragon 32 in the 486 era.,1418525498.0
+14,8747294,comment,8747053.0,8747260.0,0,0,percept,,,At least it had real keys...,1418525494.0
+15,8747293,comment,8745263.0,8746511.0,0,0,twobits,,,"Is this funny/good (movie plot)/interesting, or scary?",1418525452.0
+16,8747292,story,,,1,0,ilzmastr,Rickrolled by Andrew Ng at Stanford (ML Prob Set 4 Solutions) [pdf],http://cs229.stanford.edu/materials/ps4sol.pdf,,1418525408.0
+17,8747291,comment,8747053.0,8747289.0,0,0,wslh,,,"In which project (i) or (ii) ?<p>On (i) I took advantage of the preemptive multitasking being able to use the computer by two people in the same computer monitor.<p>On (ii) I knew that the Amiga was superior than a PC but I had access to more documentation and better programming languages (Turbo Pascal, Turbo C++) on the PC. In the Amiga you ended up doing multimedia stuff with a lot of hardware information about the coprocessors and DMA while in the PC was more straightforward.",1418525383.0
+18,8747290,comment,8747000.0,8747220.0,0,0,zrail,,,You have to tell them where to land with the &quot;land&quot; command.,1418525349.0
+19,8747289,comment,8747053.0,8747278.0,0,0,stuff4ben,,,you were spoilt by the Amiga&,
+20,8747288,comment,8747143.0,8747143.0,0,0,nullc,,,"Uh, users almost never want ElGamal encryption. It has a few interesting applications, but its very easy to make insecure systems using it. Where it&",
+21,8747287,comment,8739342.0,8746800.0,0,0,pangram,,,"We switched from DO to Linode a few months ago.  I think DO is great, but three things convinced us to move over to Linode.  1) lack of robust logging, 2) we&",
+22,8747286,comment,8744527.0,8746781.0,0,0,gaadd33,,,I don&,
+23,8747285,comment,8746229.0,8746229.0,0,0,waterlesscloud,,,"&quot;His first discovery was that nearly all banks rely on a few big, and not terribly agile, outside vendors to provide all the software that makes bank computer systems work.&quot;<p>I worked in this industry for about 6 years in the 90s, and there were a few small companies moving all the data center functions over to pc software from mainframes, but most (all?) of them got bought up by the big players. I got out of it when the medium-ish company I worked for got bought up and I got laid off. I heard some of the people I worked with split off and started new tiny companies.<p>Circle Of Life, I guess.",1418525167.0
+24,8747284,comment,8746054.0,8747166.0,0,0,abecedarius,,,I&,
+25,8747283,comment,8744929.0,8744929.0,0,0,bsder,,,"Why redesign a new core?  We have plenty to choose from that have semi-existing ecosystems.<p>First, I&",
+26,8747282,comment,8747000.0,8747000.0,0,0,eccstartup,,,No one knows there is a hyperbolic PDE out there?,1418525127.0
+27,8747281,story,,,5,14,Pharohbot,Learn C or Rust first?,,I&,
+28,8747280,comment,8738646.0,8743019.0,0,0,Domenic_S,,,Indeed I did. Thanks.,1418525095.0
+29,8747279,comment,8745981.0,8746674.0,0,0,logn,,,I&,
+30,8747278,comment,8747053.0,8747053.0,0,0,wslh,,,"i) In 1990 I was using a VAX computer in high school shared by a whole class and programming in Pascal. The compilation process (executed in a compilation queue) could take a few minutes or half an hour depending of how many people and processes were running that day.<p>I wanted to imitate this stuff in my Amiga 500, so I joined a friend who knew about electronics and he removed a Commodore 64 keyboard and made the interface to connect to the Amiga as a second keyboard. I made the software in assembler to use the same computer with a single monitor in two windows using two keyboards. A bizarre but funny project.<p>ii) In 1992 I wanted to make my own graphical operating system. Not in the real sense but in the Windows 3.0 sense. I started doing this in Turbo Pascal and at some point I stopped because my multitasking was cooperative just realizing a few years later that Windows (and Apple!) used this basic strategy too. I felt ashamed of them.",1418525088.0
+31,8747277,comment,8743219.0,8743219.0,0,0,brianstorms,,,Love this!,1418525024.0
+32,8747276,comment,8733352.0,8747040.0,0,0,igouy,,,>>A few comments up you are saying that … isn&,
+33,8747275,comment,8745334.0,8745529.0,0,0,aaron695,,,"> One of the more curious things you can do on HN to distract from a story is to start a tangential flamewar in the comments on it, but my single favourite way I see to bury things around here is to ask for detailed citations to data for something which really doesn&",
+34,8747274,comment,8736975.0,8736975.0,0,0,Michaelbellamy,,,"If companies like Sony would hire seasoned engineers like me,  instead of new young college graduates then they would never be hacked.",1418524953.0
+35,8747273,comment,8746229.0,8746229.0,0,0,gaadd33,,,"Wow, this is actually some real innovation in a stagnant industry that actually affects millions. (And it&",
+36,8747272,comment,8747053.0,8747267.0,0,0,sillysaurus3,,,"The earliest broadcast is titled &quot;Notch: Creator of Minecraft,&quot; from August 2011.  Minecraft was released in 2009. So those videos aren&",
+37,8747271,comment,8747000.0,8747216.0,0,0,jeffbr13,,,"You can outsource the voice recognition. Windows[1] and Mac OS[2] both seem to include speeech recognition APIs these days, and of course, what with it being 2014, there are online APIs[3] and forthcoming browser support[4]. All of them appear to support limited command grammars, which is perfect for this sort of simulation.<p>[1]: <a href=""https://en.wikipedia.org/wiki/Microsoft_Speech_API"" rel=""nofollow"">https://en.wikipedia.org/wiki/Microsoft_Speech_API</a>\n[2]: <a href=""https://developer.apple.com/library/mac/documentation/Cocoa/Reference/ApplicationKit/Classes/NSSpeechRecognizer_Class/index.html"" rel=""nofollow"">https://developer.apple.com/library/mac/documentation/Cocoa/...</a>\n[3]: <a href=""http://api.ai"" rel=""nofollow"">http://api.ai</a>\n[4]: <a href=""http://www.smashingmagazine.com/2014/12/05/enhancing-ux-with-the-web-speech-api/"" rel=""nofollow"">http://www.smashingmagazine.com/2014/12/05/enhancing-ux-with...</a>",1418524824.0
+38,8747270,story,,,4,1,emeraldd,Spanish Newspapers Beg Government to Stop Google News Shutting Down,https://www.techdirt.com/articles/20141212/07360229413/surprise-spanish-newspapers-beg-government-eu-to-stop-google-news-shutting-down.shtml,,1418524778.0
+39,8747269,comment,8745334.0,8745685.0,0,0,Umn55,,,"&quot;Wonder why the fourth estate, aka journalism is in such a sad state of affairs? It&",
+40,8747268,comment,8746140.0,8746140.0,0,0,CrimsonVoid,,,"I was having trouble streaming the talks from defcon.org so I decided to mirror it here <a href=""http://104.236.115.7/"" rel=""nofollow"">http://104.236.115.7/</a> I will probably kill the server in about a week, when load to Defcon servers go down.<p>The default file indexer for Nginx truncates the file names which makes it hard to find a video, but just appending the file name should play the correct video.",1418524706.0
+41,8747267,comment,8747053.0,8747259.0,0,0,Pxl_Buzzard,,,Check out Notch&,
+42,8747266,comment,8711771.0,8712027.0,0,0,lazzlazzlazz,,,"Yeah, I parsed this incorrectly as well. It was an ambiguous statement.<p>You posted a while back that &quot;scope inference (in Python) sucks&quot;. Could you expand on that. I know it&",
+43,8747265,comment,8746851.0,8747207.0,0,0,davexunit,,,Want to help port it? :),1418524553.0
+44,8747264,comment,8745334.0,8745685.0,0,0,Umn55,,,"“What is truth? For the multitude, that which it continually reads and hears.” ― Oswald Spengler, The Decline of the West, Vol. 2: Perspectives of World History<p>“The press today is an army with carefully organized weapons, the journalists its officers, the readers its soldiers. The reader neither knows nor is supposed to know the purposes for which he is used and the role he is to play.” ― Oswald Spengler",1418524525.0
+45,8747263,comment,8746229.0,8746229.0,0,0,frequentflyeru,,,These guys actually do the back-end / debit card issuing for Moven Bank.,1418524492.0
+46,8747262,comment,8745510.0,8746150.0,0,0,InclinedPlane,,,"SpaceX is very, very far ahead of the field, although it&",
+47,8747261,comment,8747000.0,8747000.0,0,0,maroonblazer,,,I love this.<p>It&,
+48,8747260,comment,8747053.0,8747053.0,0,0,stuff4ben,,,I had a similar although not as tragic story of my own. My parents were poor (dad was in the USAF) so we couldn&,
+49,8747259,comment,8747053.0,8747255.0,0,0,sillysaurus3,,,People who get big projects done don&,
+50,8747258,comment,8745510.0,8746964.0,0,0,jccooper,,,"Yeah, it&",
+51,8747257,comment,8747000.0,8747232.0,0,0,asdfaoeu,,,I seemed to be able to takeoff fine off both. Also the runway names are just their heading.,1418524174.0
+52,8747256,comment,8744948.0,8746884.0,0,0,waps,,,I love how the entire website is coloured red. I wonder why they went with that particular colour ?,1418523999.0
+53,8747255,comment,8747053.0,8747053.0,0,0,phpnode,,,"Something about this story does not sound quite right to me. If I were essentially locked up in that scenario, I would at <i>least</i> be confident of the names of the <i>3</i> games which were installed, since they&",
+54,8747254,comment,8744948.0,8747004.0,0,0,waps,,,"Sure, but if you&",
+55,8747253,comment,8745540.0,8746869.0,0,0,jqm,,,"well then, by that standard it appears that people of each race are already much rarer than previously imagined....",1418523850.0
+56,8747252,comment,8747234.0,8747234.0,0,0,cheeaun,,,Looks good. Would love to try it :),1418523833.0
+57,8747251,comment,8746045.0,8746922.0,0,0,scroy,,,"According to their rules, &quot;screen time&quot; is not equivalent to &quot;using computer&quot;.<p>It seems like a reasonable way to limit unproductive, pure-entertainment computer use. A parent with some common sense should be able to identify what is productive.",1418523829.0
+58,8747250,story,,,1,0,pmoriarty,Popular Probiotic May Cause Neurotoxicity,http://www.mommypotamus.com/popular-probiotic-strain-may-induce-neurotoxicity/,,1418523817.0
+59,8747248,comment,8747053.0,8747053.0,0,0,twoodfin,,,Nitpick: It&,
+60,8747247,comment,8747053.0,8747053.0,0,0,dpcan,,,I&,
+61,8747246,comment,8747000.0,8747000.0,0,0,ssully,,,I like it! It&,
+62,8747245,comment,8745540.0,8747193.0,0,0,icantthinkofone,,,"The reason is that you are more likely to hit the target rather than what some propose, that they should just wound him in the kneecap, an almost impossibility.",1418523564.0
+63,8747244,comment,8747053.0,8747053.0,0,0,lake99,,,Fascinating story. If it&,
+64,8747243,comment,8744527.0,8744527.0,0,0,prbuckley,,,Could this be financial espionage? I would imagine that the Norwegian politicians have privileged information about oil production volume in the country that some traders out there could benefit from knowing. This is all just a theory. I don&,
+65,8747242,comment,8745540.0,8746935.0,0,0,rockmeamedee,,,edit: forgot a word in 1)\ninsert &,
+66,8747241,comment,8745540.0,8747082.0,0,0,icantthinkofone,,,"He charged the officer and was shot once. Then he charged again and was shot again. Then, he came within 10 feet to tackle the officer and that was when he was killed. This was not 10 (or so) consecutive shots. If the first shots didn&",
+67,8747240,comment,8747000.0,8747000.0,0,0,imownbey,,,Woah this is super fun and nothing was wrong with it. It was kind of annoying but I feel like all sims are that way. I want to be able to run different airports!!!! And a mode that just goes on forever would be awesome.,1418523472.0
+68,8747239,comment,8745540.0,8747233.0,0,0,sillysaurus3,,,Thanks for the comment.  I hadn&,
+69,8747238,comment,8742694.0,8744714.0,0,0,csirac2,,,"As a type 1 diabetic I can tell you that  eating fat requires insulin commensurate with the energy it has. My own mental model of fat elevating my blood sugar level compared to other forms of energy is the rate at which it happens: somewhat slower than simple sugars, and much faster than complex carbohydrates.",1418523399.0
+70,8747237,story,,,1,0,nateps,Lever (YC S12) Is Hiring an IMAP/Exchange/MAPI Expert in SF,https://lever.co/jobs.html,,1418523396.0
+71,8747236,comment,8746262.0,8746912.0,0,0,feld,,,Why do you think a shared kernel is somehow more secure than a hypervisor?,1418523373.0
+72,8747235,comment,8745334.0,8745685.0,0,0,patronagezero,,,My new online-conversation digestion involves reading the posts from the bottom up these days. I&,
+73,8747234,story,,,2,3,RavneetGrewal,Show HN: Hacker News Android Reader,,"Hi,<p>I have been a lurker for a long time, and had always wanted to see a good reader for HN on the Android platform.<p>Here is an early screenshot:<p>http://ravneetg.com/HN/HN.png<p>I see there are some which are based on scraping the site. I was interested in using the official API by Firebase, and have refreshing capabilities as supported by the APIs.<p>So I started this weekend on a Android 5.0 App (pre 5.0 support also expected) based on the Firebase Android APIs for connecting with Hacker News data.<p>I plan to add:\n1. Comments reading\n2. Auto update as the API pushes the changes<p>Later:\n1. SignIn \n2. Post Comments\n3. Up/down votes.<p>Not sure if there is any traction for something like this, with a tasteful UX, so posting here to test the waters :)<p>Thanks!\nRavneet",1418523313.0
+74,8747233,comment,8745540.0,8747159.0,0,0,jqm,,,That&,
+75,8747232,comment,8747000.0,8747000.0,0,0,danwakefield,,,"Its fun, The two speeds are at the extremes though, Maybe a third halfway between them. \nRunway names are impossible to see while landing a plane and it&",
+76,8747231,comment,8745267.0,8745598.0,0,0,derf_,,,We certainly thought so (I was Thomas&,
+77,8747230,story,,,36,7,notduncansmith,JXCore – A Multithreaded Node.js Fork,http://jxcore.com/home/,,1418523155.0
+78,8747229,comment,8746378.0,8746673.0,0,0,gizmo686,,,">You win it with troops on the ground.<p>This approach has a long history of being insufficient when you are fighting against locals (unless you have a relatively specific tactical objective). You win this type of war by gaining popular support of the locals. This normally requires boots on the ground, but most of them should be work boots, not combat boots.",1418523155.0
+79,8747228,comment,8747053.0,8747053.0,0,0,pm,,,I relate somewhat to poster&,
+80,8747227,comment,8747053.0,8747053.0,0,0,WoodenChair,,,The story sounds like it has some significant parallels to that of Julian Assange in his teenage years (at least as depicted in the movie Underground).  Is he an inspiration to you?,1418523130.0
+81,8747226,comment,8745334.0,8746191.0,0,0,jschwartzi,,,There&,
+82,8747225,story,,,6,1,hybrid11,PHP at 5000 Requests per Second: Hootsuite’s Scaling Story,http://www.slideshare.net/vanphp/php-meetup-slides,,1418523095.0
+83,8747224,comment,8745943.0,8746465.0,0,0,porsupah,,,"Back at Trilobyte, circa 1994-1997, everyone, without exception, had a NeXT (a NeXTstation or a Cube, depending on need). So everyone had email, fax, and so forth. The workload on the IT guys, as far as the NeXT kit went? Pretty much zero, other than folks like me wanting a bit more memory and disk (in my case, for a MU* or two, which was approved without trouble).",1418523083.0
+84,8747223,comment,8747053.0,8747053.0,0,0,centizen,,,This OS is interesting enough on it&,
+85,8747222,comment,8747053.0,8747053.0,0,0,Igglyboo,,,What was your experience level before you started this?<p>I&,
+86,8747220,comment,8747000.0,8747000.0,0,0,Moral_,,,Needs better error correction when it comes to landing I haven&,
+87,8747219,comment,8747000.0,8747000.0,0,0,javindo,,,This is really good fun except it&,
+88,8747218,comment,8745110.0,8746216.0,0,0,te,,,"Not strictly online, but this course is very good.  Unfortunately, a little pricey.<p><a href=""http://www.thegreatcourses.com/courses/games-people-play-game-theory-in-life-business-and-beyond.html"" rel=""nofollow"">http://www.thegreatcourses.com/courses/games-people-play-gam...</a>",1418522921.0
+89,8747217,comment,8746883.0,8746883.0,0,0,jszymborski,,,I tried this a (long) while back... and it just wasn&,
+90,8747216,comment,8747000.0,8747183.0,0,0,s-macke,,,"Since I played &quot;Kennedy Approach&quot; on the C64 I dream of such a voice recognition ATC simulator. \nI have planned to program my own with such a limited vocabulary since more than 10 years. Well, in my next live then.",1418522813.0
+91,8747215,comment,8745251.0,8745251.0,0,0,bharath28,,,"While the title itself is a little misleading, i find the experiment incredibly inspiring.",1418522729.0
+92,8747214,story,,,3,0,adamnemecek,A comparative look at overloading in C++ – Part 2,http://pfultz2.com/blog/2014/12/12/compare-overloading-2/,,1418522696.0
+93,8747213,comment,8746229.0,8746229.0,0,0,prbuckley,,,"If this area is of interest you should also check out<a href=""https://karmiclabs.com"" rel=""nofollow"">https://karmiclabs.com</a>. I have no relationship with the company but the founders are friends and think they are doing some really interesting things in the payment and debit card space.",1418522667.0
+94,8747212,comment,8747000.0,8747142.0,0,0,zacharycohn,,,I think it&,
+95,8747209,comment,8733352.0,8741583.0,0,0,NateDad,,,I can put the loop a function if you want a nice compact version with a friendly name. Not sure what level of abstraction you&,
+96,8747208,comment,8746644.0,8746644.0,0,0,bkirwi,,,"Startup idea: use the integrated scheme interpreter to program an interactive fiction game, and post it here.",1418522463.0
+97,8747207,comment,8746851.0,8747200.0,0,0,pmoriarty,,,I wish this was available for FreeBSD.,1418522442.0
+98,8747206,comment,8745540.0,8746558.0,0,0,tsax,,,Check out the National Crime Victimization Survey which corroborates the conviction stats.,1418522410.0

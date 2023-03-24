@@ -1,0 +1,83 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8411490,story,,,4,0,cgoodmac,How WP Engine Hijacked My Business,http://www.matthewwoodward.co.uk/reviews/webhost-trusted-wp-engine-hijacked-business-avoid-them/,,1412485133.0
+1,8411489,comment,8410314.0,8410844.0,1,0,PhantomGremlin,,,Salesmen might not really be lying. There&,
+2,8411488,comment,8409084.0,8410971.0,1,0,wingerlang,,,Isn&,
+3,8411487,story,,,1,0,kingjacob,Afineur Brings Civet Coffee ('Kopi Luwak') Without the Civet,http://indieb.io/afineur-ib-s14-brings-a-new-dimension-of-taste-to-coffee/,,1412484957.0
+4,8411486,comment,8407468.0,8411067.0,1,0,solomatov,,,If it&,
+5,8411485,comment,8410326.0,8410326.0,1,0,gecko39,,,"kinda psychedelic -- stare at it for a while:<p><a href=""http://maxbittker.github.io/Mojulo/",
+6,8411484,comment,8409994.0,8410411.0,1,0,robotresearcher,,,Cetaceans don&,
+7,8411483,comment,8411283.0,8411283.0,1,0,awayand,,,voting should never be computerized. the risk for exploits to go unnoticed is too high. paper and pen seems to me the only safe implementation.,1412484854.0
+8,8411482,comment,8404640.0,8410720.0,1,0,Turing_Machine,,,&quot;I&,
+9,8411481,comment,8411280.0,8411413.0,1,0,danieltillett,,,The real fear is the sheer number of people getting infected. With a virus like Ebola every person infected increases the chance that Ebola will become human adapted. When you have a zoonotic virus like this spreading out of control imagine what might happen if it becomes adapted for efficient human to human transmission.,1412484818.0
+10,8411480,comment,8410807.0,8411437.0,1,0,StephanTLavavej,,,"You need an atomic load, followed by an ordinary comparison. On x86 and x64, this is cheap (properly-aligned loads and stores are already atomic, and the architectures do very little reordering that has to be prevented). On ARM it&",
+11,8411479,comment,8410314.0,8411264.0,1,0,PhantomGremlin,,,"> We have to deal with human nature as it is, not as we wish it to be<p>Yes, exactly. Security professionals should be forced to write this out in longhand about 100 times every week, just so they don&",
+12,8411478,comment,8410326.0,8411135.0,1,0,aperiodic,,,"More constant tweaking:<p>x * y * (sin((x+time)/5) * cos((y+time)/5)) * 15 + 3000<p><a href=""http://maxbittker.github.io/Mojulo/",
+13,8411477,comment,8401437.0,8402813.0,1,0,saeguaiga,,,"Yeah, taking it into space or mining (WiMPs) would wreck plenty. You have to like the ECC you&",
+14,8411476,comment,8411356.0,8411468.0,1,0,wffurr,,,Classic case of Poe&,
+15,8411475,comment,8410003.0,8411136.0,1,0,angersock,,,Quite the opposite.<p>The annoying thing is that there are people serving sentences for--and still being arrested for in other states!--possession of cannabis and cannabis accessories. That&,
+16,8411474,comment,8411356.0,8411356.0,1,0,SilentDirge,,,Doesn&,
+17,8411473,comment,8410985.0,8411312.0,1,0,hellbanTHIS,,,Because I have time to invent shit.,1412484571.0
+18,8411472,comment,8410976.0,8411399.0,1,0,topynate,,,"You can chain microtransactions atomically, so with a star graph of payment channels you can route micropayments through a central processor without introducing trust - taking the number of channels from O(N^2) to O(N) in the number of participants. I imagine a dynamic network of payment processing addresses could be chained in the same way, in order to provide a verified path between two participants using different channel operators.<p>The above is subject to malleability-resistant payment channels, which will require a patch like Peter Todd&",
+19,8411471,comment,8410356.0,8411053.0,1,0,kirillzubovsky,,,I guess it&,
+20,8411470,comment,8409994.0,8410248.0,1,0,robotresearcher,,,"Domestic dogs want to be owned, cared for, and for many breeds, worked hard. This makes them happy. We have bred them this way for thousands of years. Abusing dogs is cruel, keeping them (well) is not.",1412484449.0
+21,8411469,comment,8411356.0,8411456.0,1,0,wffurr,,,Whoosh.,1412484425.0
+22,8411468,comment,8411356.0,8411454.0,1,0,whyenot,,,"Unfortunately, sarcasm doesn&",
+23,8411467,comment,8410976.0,8410976.0,1,0,paulsutter,,,"Item 2, allocating resources for a true mesh network is a cool idea. It&",
+24,8411466,comment,8387103.0,8392664.0,1,0,angersock,,,And those people are ripe for exploitation. So it goes.,1412484252.0
+25,8411465,comment,8410314.0,8410827.0,1,0,wiredfool,,,Does it expose the methods of exploitation using any of the convenient Acrobat bugs?,1412484152.0
+26,8411464,comment,8411277.0,8411277.0,1,0,nugget,,,Some of these may be remnants of Google&,
+27,8411463,comment,8409994.0,8410413.0,1,0,SoftwareMaven,,,It&,
+28,8411462,comment,8411225.0,8411225.0,1,0,jph,,,"The author is accidentally promoting functional programming, without realizing it. He emphasizes &quot;interoperable extensions&quot; and &quot;service abstractions&quot; but what he&",
+29,8411461,comment,8411280.0,8411413.0,1,0,timr,,,<i>&quot;isn&,
+30,8411460,comment,8411356.0,8411454.0,1,0,jonalmeida,,,What happens when a lowly paid guard starts caring less of his job when he&,
+31,8411459,story,,,2,0,theoutlander,"Visual Science – scientific illustration, animation, design",http://visualscience.ru/en/,,1412484024.0
+32,8411457,story,,,47,28,joeclef,Ask HN: Have you rejected an offer to work on a project because of self-doubt?,,"Hi, I&",
+33,8411456,comment,8411356.0,8411454.0,1,0,thejosh,,,"Same benefits? Same pay maybe not, but not the same benefits?<p>Jesus christ you live in a bubble.",1412483809.0
+34,8411455,comment,8411356.0,8411426.0,1,0,enneff,,,"I guess part of the rationale for using contractors for, say, kitchen workers is that you can use a consulting firm with expertise in catering, rather than having to develop that expertise in-house.",1412483708.0
+35,8411453,comment,8409994.0,8410461.0,1,0,SoftwareMaven,,,"I want to second my agreement, but expand it to all aspects of the diet. I think having gardens and chickens (mostly for eggs, but in the pot when no longer producing) would do more for the health and mental well-being of our society than just about anything else we could do. Many kids don&",
+36,8411452,comment,8409994.0,8410835.0,1,0,robotresearcher,,,Around 1/4 of Indians are vegetarian [1]. That&,
+37,8411451,comment,8411280.0,8411385.0,1,0,HarryHirsch,,,"You read other stuff from that website, like this <a href=""http://atoday.org/god-create-evolution.html"" rel=""nofollow"">http://atoday.org/god-create-evolution.html</a> or that <a href=""http://atoday.org/wilson-ii-president-adventist-general-conference-believe-earth-billions-years-old.html"" rel=""nofollow"">http://atoday.org/wilson-ii-president-adventist-general-conf...</a>, and suddenly you are unsure if you are dealing with trolls or kooks.",1412483489.0
+38,8411450,comment,8409144.0,8409144.0,1,0,jincheker,,,"Trust me, it will fail",1412483432.0
+39,8411449,comment,8409994.0,8410341.0,1,0,SoftwareMaven,,,"Some people can. Some people find that the phytochemicals associated with those plant proteins, when consumed in quantities, cause significant gut and hormonal problems (phytoestrogens impacting androgen production, for example). And that says nothing about the current questions about whether soy increases breast cancer risk.<p>Soy is obviously not the only plant protein. My current favorite is mushroom-based, but it is new, and industrial food doesn&",
+40,8411447,story,,,3,0,vinnyglennon,Watch the Navy’s Robotic Gunboats Swarm the James River,https://medium.com/war-is-boring/watch-the-navys-robotic-gunboats-swarm-the-james-river-86abe382600f,,1412483274.0
+41,8411446,comment,8409761.0,8411291.0,1,0,scoggs,,,Thanks digi!,1412483249.0
+42,8411445,comment,8405778.0,8410171.0,1,0,imanaccount247,,,"Yes it does.  Here, I will click the correct link for you and everything: <a href=""http://www.repmgr.org/"" rel=""nofollow"">http://www.repmgr.org/</a>",1412483244.0
+43,8411444,comment,8409761.0,8411323.0,1,0,scoggs,,,"I never said I was going solely off of his opinion, just that it&",
+44,8411443,comment,8409845.0,8410999.0,1,0,jamon51,,,It&,
+45,8411442,comment,8411439.0,8411439.0,1,0,mofosyne,,,"Purpose?:<p>To help encourage cooperation between lightweight mark-up languages, this subreddit was created for the purpose of bringing different markup communities and practices together.<p>Hopefully to build a more natural and flexible communication platform, in all of it&",
+46,8411441,comment,8410298.0,8410470.0,1,0,hrjet,,,"While useful, I can&",
+47,8411440,comment,8411225.0,8411225.0,1,0,hyp0,,,"The author contrasts &quot;objects&quot; and &quot;ADTs&quot; (abstract data types), but uses - to my mind - an improvished definition of ADTs. I&",
+48,8411439,story,,,1,1,mofosyne,/r/LightWeightMarkup/ – Encouraging cooperation in light markup languages,http://www.reddit.com/r/LightWeightMarkup/,,1412483168.0
+49,8411438,comment,8406770.0,8410668.0,1,0,techdragon,,,"And a mountain of software to route, reroute, stack and unstack all to ensure minimum time spent in the port for a full container.",1412483162.0
+50,8411437,comment,8410807.0,8411357.0,1,0,gilgoomesh,,,"Yes, the DCLP can be done safely if you use atomic operations for the comparisons to 0.<p>Sadly though, atomic operations are still quite expensive, depending on CPU, taking as much as 40-50 times as long as a basic comparison. But you gotta do what you gotta do.",1412483157.0
+51,8411436,comment,8410326.0,8410703.0,1,0,gecko39,,,"Spider thingy:<p><a href=""http://maxbittker.github.io/Mojulo/",
+52,8411435,story,,,2,0,niqolas,Automated hypothesis generation by IBM Watson,http://www.economist.com/news/science-and-technology/21621704-new-type-software-helps-researchers-decide-what-they-should-be-looking?fsrc=scn/tw/te/pe/ed/computersaystrythis,,1412483135.0
+53,8411434,comment,8408452.0,8410416.0,1,0,imanaccount247,,,">Not necessarily.<p>Then what?  You made the vague statement, make it not vague.<p>>And OCaml has monads, they are just a library like else.<p>And?  I did not claim ocaml lacks monads.  You claimed haskell lacks extensible records.  You do understand that my post was a direct reply to what you said right?  Not just some random things I felt like saying for no particular reason.",1412483133.0
+54,8411433,comment,8411356.0,8411356.0,1,0,mianos,,,Coincidentally until this week I never saw the security people in the lift (we share a building). This week I have seen them many times inside and outside wearing Google Security logoed shirts.,1412483120.0
+55,8411432,story,,,8,0,drshrey,Using Alchemy's semantic analysis function with Go to process Twitter data,http://drshrey.github.io/jekyll/update/natural-language-processing/golang/2014/09/18/writing-my-first-nlp-app.html,,1412483059.0
+56,8411429,comment,8410133.0,8410504.0,1,0,SoftwareMaven,,,If I came off sounding like I don&,
+57,8411428,comment,8407468.0,8409735.0,1,0,davidgrenier,,,"As all abstractions are leaky I have to concede that it has to be, but considering the size of the abstraction it&",
+58,8411427,comment,8411356.0,8411356.0,1,0,joelrunyon,,,"> The August think tank report found that the median hourly wage is $14 an hour for security guards in Santa Clara County – home to Google and scores of other tech companies. By contrast, the median wage for software developers is roughly $63 an hour.<p>Obviously - $14/hour is quite low and there&",
+59,8411426,comment,8411356.0,8411356.0,0,0,JeremyMorgan,,,"I think this is a good move.<p>I understand the tax incentives/accounting behind it, but I still feel it&",
+60,8411425,story,,,1,0,alinemary,Tech for good,https://medium.com/technology-for-good/for-your-cloudy-days-e8438afe7c27,,1412482852.0
+61,8411424,comment,8411280.0,8411413.0,1,0,adevine,,,"I read another article that explained how Ebola is very infectious (meaning that very few virions are needed to establish an infection), but not particularly transmissible (i.e. it&",
+62,8411423,comment,8409084.0,8411390.0,1,0,nicklaf,,,Another text editor that treats text as having no grammatical structure (it doesn&,
+63,8411422,comment,8411280.0,8411413.0,1,0,ams6110,,,"It is possible but also keep in mind that they are for the most part working in horribly primitive, unsanitary conditions, lacking supplies and basic utilities.",1412482648.0
+64,8411421,comment,8409994.0,8410983.0,1,0,bane,,,> Most people would not say it is unethical to take them off of life support even if it&,
+65,8411420,comment,8410358.0,8411137.0,1,0,Amarok,,,"During pregnancy the mother was on a triple immunosuppressant regimen:  azathioprine, tacrolimus, and prednisolone (corticosteroid). The first is a Pregnancy Class D drug (some reports of human birth defects), and the two are class C (birth defects only in animal studies)<p>A study on azathioprine use in early pregnancy found an increased risk of congenital malformations which wasn&",
+66,8411419,story,,,3,0,aligajani,Revive Childhood Memories with DosBOX,http://www.mrgeek.me/tips/revive-childhood-memories-with-dosbox/,,1412482476.0
+67,8411418,comment,8410938.0,8410938.0,1,0,KobaQ,,,> Light-table would be a revolutionary IDE if only it had a community.<p>Documentation?,1412482393.0
+68,8411417,comment,8410519.0,8411109.0,1,0,LeoPanthera,,,"> One cannot be similarly physically compelled to disclose a code only held in his or her memory.<p>You can in the UK.<p><a href=""https://en.wikipedia.org/wiki/Regulation_of_Investigatory_Powers_Act_2000"" rel=""nofollow"">https://en.wikipedia.org/wiki/Regulation_of_Investigatory_Po...</a>",1412482247.0
+69,8411416,comment,8410519.0,8410785.0,1,0,dublinben,,,"The obvious way to mitigate this threat vector is to not have a Google Account associated with your device that can install apps. At this point, a Google Account is just a huge privacy/security risk.",1412482237.0
+70,8411415,comment,8410545.0,8410545.0,1,0,userbinator,,,"I think printf() is one of the more interesting functions in the standard C library to examine, since it is both so often-used and has the very visible effect of producing output. It also shows some of the ways in which data can be interpreted. Variants or limited-functionality versions of it can make good assignments for programming courses.<p>Printing floating-point numbers is also another topic that is subtly more difficult than it looks at first glance... here&",
+71,8411414,comment,8401437.0,8401437.0,1,0,saeguaiga,,,"Oh great, another 1024-bit daisy-chained medium with a 20MB UeFI boot partition. We have watched this way too long and it was dragging us down...(cough)<p>Oops, accidentally implemented as a medium-hash CAMFS in disused packaging-and-optronics 45nm fab. Please write test, mind 5W limit if retaining cyano/pyridene dye in media.",1412482051.0
+72,8411413,comment,8411280.0,8411280.0,1,0,yeison,,,"According to this article, it seems like a lot of health care workers are catching the disease.  Even the westerners who are familiar with the transmission mechanism of the disease.  Therefore, isn&",
+73,8411412,comment,8411189.0,8411247.0,1,0,angersock,,,It is a poor workman who blames his tools.,1412482021.0
+74,8411410,comment,8410985.0,8410985.0,1,0,arnonejoe,,,This is an area that I have sought legal counsel over in the past.  I&,
+75,8411409,comment,8411188.0,8411260.0,1,0,analog31,,,"This is good advice. Prior art can torpedo your application, so it makes sense to do a cursory search on your own nickel before paying a lawyer. My patent lawyers have always advised me to do my own searches.<p>I&",
+76,8411408,comment,8411071.0,8411071.0,1,0,skinnybatch,,,I can&,
+77,8411407,comment,8411189.0,8411189.0,1,0,angersock,,,You can&,
+78,8411406,comment,8409926.0,8409956.0,1,0,pareen,,,Care to explain?,1412481701.0
+79,8411405,comment,8409994.0,8410993.0,0,0,bane,,,> but wouldn&,
+80,8411404,comment,8409783.0,8410197.0,1,0,gst,,,Of course it&,
+81,8411403,comment,8410985.0,8411082.0,1,0,pm,,,"No, OP will have to focus on one thing at a time.  So it&",

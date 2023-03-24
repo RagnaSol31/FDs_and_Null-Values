@@ -1,0 +1,122 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8837665,comment,8836734.0,8836734.0,0,0,buro9,,,"<p><pre><code>    having major new releases every year is clearly impossible for the engineering\n    teams to keep up with while maintaining quality. Maybe it’s an engineering\n    problem, but I suspect not — I doubt that any cohesive engineering team\n    could keep up with these demands and maintain significantly higher\n    quality.\n</code></pre>\nAnd yet, OpenBSD springs to mind for not just the timeliness of their releases (every 6 months) but also the quality and features within each release.",1420441194.0
+1,8837664,comment,8834983.0,8834983.0,0,0,sidcool,,,Interesting Generalization.  I contest that Facebook is in a much better situation and condition than AOL.,1420441165.0
+2,8837663,comment,8836734.0,8836734.0,0,0,phazmatis,,,"In mavericks, I could hit command-space and start typing, and knew that even though the spotlight box hadn&",
+3,8837662,comment,8837432.0,8837432.0,0,0,grondilu,,,I am a long bitstamp customer and I have not received such email.,1420441099.0
+4,8837661,comment,8835594.0,8836017.0,0,0,DanBC,,,I&,
+5,8837660,comment,8837432.0,8837432.0,0,0,imperialdrive,,,"<a href=""https://www.irccloud.com/pastebin/1cvm62al"" rel=""nofollow"">https://www.irccloud.com/pastebin/1cvm62al</a><p>this is all I could find from Twitter search:\ndoes the timing match up at all?<p>11:48 AM <jecar> protip\n11:48 AM <jecar> and exchange is getting hacked now\n11:48 AM <jecar> GOXXED\n11:49 AM <jecar> an exchange\n11:49 AM <heaven> what\n11:49 AM <jecar> guess which one im goxxing\n11:49 AM <jecar> thats why prices are falling\n11:49 AM  → dzan joined  ⇐ mpm quit  \n11:50 AM <Fate> you sound like shovel\n11:50 AM <Fate> hi shovel",1420440975.0
+6,8837659,comment,8836398.0,8837560.0,0,0,seanmcdirmid,,,"If you are paying Thai taxes, then you will probably get out of paying US taxes either by deducting or via the FEIE. Of course, if you are working remote in Thailand for an American company, you are pretty much in a double tax situation that you legally can&",
+7,8837658,comment,8835776.0,8835776.0,0,0,Patrick_Devine,,,"I recently used Falcon to hack together a quick email backend for an ajax comments form, and found it really useful.  It&",
+8,8837657,comment,8833527.0,8833527.0,0,0,jfoster,,,Couldn&,
+9,8837656,comment,8836085.0,8837159.0,0,0,DanBC,,,"> Basically, she&",
+10,8837655,comment,8836734.0,8836871.0,0,0,rimantas,,,<p><pre><code>  > you have a fairly usable sort of linux computer.\n</code></pre>\nYou have unix computer.,1420440805.0
+11,8837654,comment,8835612.0,8835612.0,0,0,mulligan,,,I can understand the policy and I&,
+12,8837653,comment,8837545.0,8837649.0,0,0,alfiedotwtf,,,Now I&,
+13,8837652,comment,8836753.0,8837131.0,0,0,joshschreuder,,,"Sorry, but that&",
+14,8837651,comment,8837432.0,8837608.0,0,0,cb18,,,"Who really knows what is going on at this point?<p><i>On top of that, Bitcoin, after being stable around $315-$320 or so for weeks, suddenly dropped to a low of $255 in the last 48 hours. Right now, it&",
+15,8837650,comment,8835695.0,8836325.0,0,0,IndianAstronaut,,,This seems to be a common middle income nation problem. A country gets somewhat wealthy but huge inequalities exist still and crime is harder to tackle. Mexico is going through it. China and India are on track to becoming violent and crime ridden.,1420440631.0
+16,8837649,comment,8837545.0,8837545.0,0,0,tdicola,,,"Oh wow, I was thinking of writing a very similar post too.  Denthor&",
+17,8837648,comment,8836763.0,8836763.0,0,0,Intermernet,,,"For anyone after numbers supporting the claim that this may be the worlds hardest free climb, consider this. The hardest climbs in the world (using US grading system) are graded 5.15c . These currently exist as isolated pitches of less than 150 feet.<p>The Dawn Wall has 19 pitches (15 have now been completed). at least 6 of these pitches are graded 5.14 and above, and most of the remainder are 5.13 . These are <i>all</i> very hard pitches.<p>The overall difficulty of a multi-pitch climb (using the US grading system) isn&",
+18,8837647,comment,8837432.0,8837618.0,0,0,moe,,,"Since you appear to be struggling with the basic concept of bitcoin, here&",
+19,8837646,comment,8837540.0,8837540.0,0,0,wallflower,,,Bruce Eckel&,
+20,8837645,comment,8836428.0,8837437.0,0,0,nitrogen,,,"Note: HN will elide links that are excessively long, so next time you can just paste the Google Maps links directly.  Plus a lot of people don&",
+21,8837644,comment,8835695.0,8836138.0,0,0,IndianAstronaut,,,Elite Squad 2 went more in depth. It went at the underlying corruption that limited economic opportunities for the poor and how it uses the police power to maintain this situation.,1420440449.0
+22,8837643,comment,8835808.0,8835808.0,0,0,somberi,,,"I like the UI a lot.  Content-wise, it lists &quot;Enough&quot; and &quot;Murder by Numbers&quot; as gems. Hmm.",1420440439.0
+23,8837642,comment,8837545.0,8837615.0,0,0,alfiedotwtf,,,Yep :)<p>I&,
+24,8837641,comment,8836428.0,8837585.0,0,0,jessaustin,,,"Hehehe, yeah I&",
+25,8837640,comment,8831568.0,8834941.0,0,0,cokernel_hacker,,,Those docs refer to Intel Composer XE 2013.  The PDF I linked to is with regards to Intel Composer XE 2015.,1420440363.0
+26,8837639,story,,,2,1,rahimnathwani,Ask HN: Which Android audio player do you use?  Does it have crossfeed?,,"There were a couple of articles on here recently about audio processing for headphones (for 5.1->stereo, and stereo->stereo-with-crossfeed), so I guess people care about this stuff.<p>Which audio player do you use most often?  Does it support crossfeed?",1420440356.0
+27,8837638,comment,8836428.0,8837586.0,0,0,pmontra,,,"They used knives for those robberies, not guns. That&",
+28,8837637,comment,8837432.0,8837608.0,0,0,FatalLogic,,,"<i>Most merchants who accept Bitcoin do so through Coinbase, which sells on Bitstamp. Coinbase only holds a working float of Bitcoins. When Coinbase can&",
+29,8837636,story,,,1,0,jeremynixon,Punctuality – Arriving on Time and Math (2012),http://lesswrong.com/r/discussion/lw/c5o/punctuality_arriving_on_time_and_math/,,1420440266.0
+30,8837635,comment,8834176.0,8837166.0,0,0,LewisJEllis,,,Note: the Magni is a $99 amp.,1420440264.0
+31,8837634,story,,,1,0,wallflower,"Nana: A Story of Death and Life at 30,000 Feet",https://medium.com/@mitchthrower/nana-a-story-of-death-and-life-at-30-000-feet-de99974566f4,,1420440251.0
+32,8837633,comment,8836428.0,8837594.0,0,0,vince_refiti,,,Only if you and your friends are known members of criminal gangs.,1420440243.0
+33,8837632,story,,,3,0,psygnisfive,Deep Learning Won't Cure the Language Cold,http://languagengine.co/blog/deep-learning-wont-cure-the-language-cold/,,1420440239.0
+34,8837631,comment,8836085.0,8836085.0,0,0,ryen,,,If you don&,
+35,8837630,comment,8834069.0,8834069.0,0,0,munimkazia,,,There are a lot of fun things you could do drunk. Coding is not one of them.,1420440187.0
+36,8837628,comment,8836734.0,8836734.0,0,0,bla2,,,I bet Jony Ive will go back to focusing on design and someone else will run engineering again. Apple tends to prefer internal promotions but I wouldn&,
+37,8837627,comment,8837448.0,8837448.0,0,0,thomasfoster96,,,The built in sorting algorithm (apparently it&,
+38,8837626,comment,8836085.0,8837376.0,0,0,vacri,,,In addition to virmundi&,
+39,8837625,comment,8836251.0,8836251.0,0,0,UNIXgod,,,We need more of that! Wow they had everything back then ... down to the traps and pitfalls and utilizes the minimum resources for working engineer. Funny thing they couldn&,
+40,8837624,comment,8835101.0,8836775.0,0,0,IndianAstronaut,,,>Ultimately that reality is what makes rent-seeking professions so attractive<p>This is what peolle that want a programmers guild or union want. Put up barriers to new entrants so they can protect their prestige and positions.<p>I do hope sites like Hacker Rank set a model for finding workers on pure talent rather than degrees or anything else.,1420440049.0
+41,8837622,comment,8837432.0,8837608.0,0,0,grovulent,,,This is obviously bad - and certainly suspicious... but the lack of withdrawals given the situation is just sensible.<p>Withdrawals will require movement from cold storage - am I right?  Well - if you&,
+42,8837621,comment,8836085.0,8837195.0,0,0,vacri,,,You&,
+43,8837620,comment,8837336.0,8837590.0,0,0,trsohmers,,,"For theoretical FP64 flops, it should be closer to 128GFLOPs. Assuming 10W TDP, that would put it at 12.8GFLOP/Watt, putting it right there at the (Double precision) GFLOP/Watt ratio for pretty much all the top chips for 2015 (coming from Intel, AMD, Nvidia, etc). I guess it is nice that it is an SoC, but I&",
+44,8837619,comment,8837432.0,8837608.0,0,0,waterlesscloud,,,"If their hot wallet is out of commission, they have nowhere to send withdrawals from, so it makes sense from that angle.<p>They&",
+45,8837618,comment,8837432.0,8837432.0,0,0,jasonjei,,,"Until there is a bank that can credibly hold onto BitCoin deposits, these sorts of things are going to hinder further the viability and credibility of BitCoin as a mechanism of transaction (Mt Gox seems to have done a ton of damage).  As of right now, it seems it&",
+46,8837617,story,,,55,12,ismavis,Nvidia  Tegra X1 Preview and Architecture Analysis,http://www.anandtech.com/show/8811/nvidia-tegra-x1-preview,,1420439789.0
+47,8837616,comment,8836522.0,8837169.0,0,0,hislaziness,,,So any language compiling to Java bytecode is OK?,1420439762.0
+48,8837615,comment,8837545.0,8837545.0,0,0,toast76,,,"I started &quot;programming&quot; in the mid eighties during primary school. I made little games, and made the PC play music and that sort of nonsense. As I got older the games got more advanced, I even built a simple graphical OS so my parents didn&",
+49,8837614,story,,,5,4,pnathan,Ask HN: “Business” framework around a SaaS,,"Hi,<p>I&",
+50,8837611,story,,,1,0,nadsumatal,GIMP website revamp proposal,http://leivaburto.github.io/gimp-web-revamp/,,1420439687.0
+51,8837610,comment,8836522.0,8836522.0,0,0,chrishare,,,This looks awesome. Are the winning bots&,
+52,8837609,comment,8837336.0,8837419.0,0,0,flying_whale,,,It&,
+53,8837608,comment,8837432.0,8837432.0,0,0,Animats,,,This is strange. There&,
+54,8837607,comment,8834004.0,8836273.0,0,0,Create,,,Most reporters are lazy or pressed for time or both and don&,
+55,8837606,comment,8836095.0,8836728.0,0,0,ninjin,,,"Thank you for correcting me.  As a Swede, I feel somewhat ashamed, despite my awful record when it comes to names.",1420439596.0
+56,8837604,comment,8836734.0,8837543.0,0,0,CamperBob2,,,Hence my mention of ClassicShell.,1420439564.0
+57,8837603,comment,8835808.0,8835808.0,0,0,unclebucknasty,,,I&,
+58,8837602,story,,,2,0,danboarder,This Sunday evening will be busiest time of year for online dating,http://mashable.com/2015/01/02/busiest-day-for-online-dating/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&utm_medium=feed&utm_source=feedly&utm_reader=feedly,,1420439448.0
+59,8837601,story,,,2,0,bgia,5 reasons to expatriate yourself for work,https://medium.com/@baudoui/5-reasons-to-expatriate-yourself-for-work-6c11e47441c0,,1420439407.0
+60,8837600,comment,8827985.0,8835794.0,0,0,digi_owl,,,Makes one wonder if one should just unplug anything electronic and stick to books...,1420439388.0
+61,8837599,comment,8837545.0,8837555.0,0,0,alfiedotwtf,,,Thanks for the comment.<p>I had the post almost complete over the Christmas break but that C64 post today made me smile :),1420439356.0
+62,8837598,comment,8836219.0,8837303.0,0,0,LiweiZ,,,Yes. But it could be less mainstream.,1420439348.0
+63,8837597,comment,8836734.0,8837338.0,0,0,ploxiln,,,I&,
+64,8837596,comment,8836734.0,8837521.0,0,0,SkyMarshal,,,"I used Ubuntu exclusively from 2009 till Feb 2014, at which point I joined a startup, got a MBPr 15&quot;, and have been using it exclusively since.  And I agree, OS X offers a few marginal benefits, and some drawbacks, but it&",
+65,8837594,comment,8836428.0,8836833.0,0,0,tacticus,,,Gotta love queensland. The state that made it illegal to go have coffee with two friends without a police permit.,1420439254.0
+66,8837593,comment,8836734.0,8837078.0,0,0,jeena,,,I&,
+67,8837592,comment,8836428.0,8836780.0,0,0,RobertKerans,,,"In Newcastle (UK) they went through a period of playing classical music in the Metro stations for the same reason. They stopped doing it after about 6 months; I assume inconclusive results (which is a shame, given that it had the added benefit of being very pleasant).",1420439175.0
+68,8837590,comment,8837336.0,8837399.0,0,0,stuntprogrammer,,,"In this case, I believe it&",
+69,8837589,comment,8833310.0,8835254.0,0,0,linuxydave,,,"Haha, yeah I was thinking the same thing. SA, like most countries, is too diverse to be able to make such blanket statements.",1420439093.0
+70,8837588,story,,,1,1,signa11,All Internal States Of Erlang/OTP Random Module Are Practically Computable,http://erlang.org/pipermail/erlang-questions/2014-December/082254.html,,1420439083.0
+71,8837587,comment,8836734.0,8836734.0,0,0,Demiurge,,,"What I always wanted to know is, why doesn&",
+72,8837586,comment,8836428.0,8836428.0,0,0,adventured,,,Given Japan&,
+73,8837585,comment,8836428.0,8837574.0,0,0,waterlesscloud,,,"The advantage to the store is that there are law enforcement officers with badges and guns coming into the store at random times, making them much riskier to rob.<p>There&",
+74,8837584,comment,8836734.0,8837137.0,0,0,gress,,,The only difference in the scenarios is the rate of change.  If you are arguing that change itself reduces users agency then I won&,
+75,8837583,comment,8836734.0,8837364.0,0,0,themoonbus,,,"Yeah, I still haven&",
+76,8837582,comment,8836099.0,8837014.0,0,0,andrewflnr,,,"In short, it&",
+77,8837581,story,,,6,0,marianbalcescu,Oblivion FX Inspired Zabbix UI,https://www.phyramid.com/blog/monitoring-servers-at-phyramid/,,1420438903.0
+78,8837580,comment,8837540.0,8837540.0,0,0,yati,,,"Java is a relatively easy language to learn, and since you already have some experience with it, see if the Oracle tutorials[1] can help. Java 8 introduces a few features that make life easy, so you don&",
+79,8837579,story,,,3,0,hackhackpad,"Hack the hackpad, a challenge to medium",http://wentin.github.io/Hack-the-Hackpad/,,
+80,8837578,comment,8836998.0,8836998.0,0,0,greenyoda,,,"Recent discussion: <a href=""https://news.ycombinator.com/item?id=8826656"" rel=""nofollow"">https://news.ycombinator.com/item?id=8826656</a>",1420438757.0
+81,8837576,comment,8836095.0,8836095.0,0,0,yodsanklai,,,"My love for computers started with my C64, I&",
+82,8837575,story,,,1,0,franklyjeremy,Why Are Audiophiles Afraid of Powered Speakers (2006),http://www.modernhometheater.com/howto/powered_speakers/index.html,,1420438670.0
+83,8837574,comment,8836428.0,8836839.0,0,0,jessaustin,,,I don&,
+84,8837573,story,,,2,0,Bayram,iMessage as intelligence alert,https://medium.com/@bayramannakov/growth-hack-imessage-as-intelligence-alert-23a175574b48,,1420438630.0
+85,8837572,story,,,7,0,Mitt,Java 9 and Beyond,http://www.infoq.com/articles/Java-9-and-Beyond-Goetz-Rose-Interview,,1420438572.0
+86,8837571,comment,8836428.0,8836823.0,0,0,baddox,,,"Animating progress bars to decrease perceived wait times.<p><a href=""http://www.chrisharrison.net/projects/progressbars2/ProgressBarsHarrison.pdf"" rel=""nofollow"">http://www.chrisharrison.net/projects/progressbars2/Progress...</a>",1420438526.0
+87,8837570,comment,8836085.0,8837418.0,0,0,danboarder,,,do you know the name of the doc or have a link?,1420438512.0
+88,8837569,comment,8835101.0,8837266.0,0,0,tjradcliffe,,,"Ergo, you should be doing a PhD for the love. The purpose of education is to make you a better human being, not to get you a job (that said, a PhD in an interesting subject can vastly increase your employment flexibility in ways you can&",
+89,8837568,comment,8836085.0,8837292.0,0,0,g8gggu89,,,Bingo,1420438450.0
+90,8837567,comment,8837535.0,8837535.0,0,0,greenyoda,,,"Recent discussion: <a href=""https://news.ycombinator.com/item?id=8836219"" rel=""nofollow"">https://news.ycombinator.com/item?id=8836219</a>",1420438440.0
+91,8837566,comment,8837448.0,8837483.0,0,0,tejas-manohar,,,that looks awesome! maybe i&,
+92,8837565,story,,,1,0,switer,Control aysnc function callbacks as flow,https://github.com/switer/chainjs,,1420438325.0
+93,8837564,story,,,77,15,r4um,RFC Reader,http://www.rfcreader.com/,,1420438279.0
+94,8837563,comment,8836095.0,8837491.0,0,0,chrismcb,,,"A c64 boots into basic. You can then enter and edit basic programs.\nIn order to do ml, you need another program. There are many options, but the most used in the demo scene is turbo. This is an additional program that you run. This program allows you to enter and edit you ml before you execute it.\nOf course today most people use cross development and an emulator. Again there are several options, with cc65 probably one of the more popular ones. I wrote tmpx which allows you to use your favorite text editor and the turbo macro format, and then tmpx will compile it.",1420438259.0
+95,8837562,comment,8836085.0,8837159.0,0,0,g8gggu89,,,Nice.  It was obvious they were leaving that out for some reason.,1420438234.0
+96,8837561,comment,8836734.0,8836734.0,0,0,Xixi,,,Just a couple weeks ago someone asked me how Yosemite was compared to Mavericks. My answer: &quot;they are the same modulo a couple minor UI tweaks&quot;. I guess it&,
+97,8837560,comment,8836398.0,8836844.0,0,0,glandium,,,"And as a US citizen, you also need to pay US taxes on that income.",1420438212.0
+98,8837558,comment,8836219.0,8836219.0,0,0,somberi,,,"I am 40. Now it seems to me like humanity is the meta layer - their greed, desire etc manifesting through varying sub-strata like technology, wealth etc.<p>I do work now and then with some non-profits in the USA, Sub-Saharan Africa and India and they all seem to contend for grants from Rockefeller, Ford, Clinton and Gates foundations. I am yet to see someone preparing a grant request proposal for any of the tech company foundations.  I am slotting Gates into &quot;old money&quot;, but I am ok with it going either way.",1420438189.0
+99,8837557,comment,8836734.0,8836993.0,0,0,MichaelGG,,,"Really? Last I checked, HyperV couldn&",
+100,8837556,comment,8836734.0,8837129.0,0,0,Poiesis,,,Wifi DNS bug? Thanks for putting a name to a very persistent annoying problem in this household with--holy crap--12 Apple devices.<p>Also thanks for that Launchpad description. Keeps happening to my kids and I couldn&,
+101,8837555,comment,8837545.0,8837545.0,0,0,MichaelCrawford,,,"You brought a smile to my weary eyes.<p>I myself wanted to be a farmer.  Everyone has to eat, you see, so I figured I could charge as much money as I wanted to.  I&",
+102,8837554,comment,8833792.0,8835943.0,0,0,unclebucknasty,,,"><i>positive may not be the best term, but I think we are in agreement otherwise</i><p>I didn&",
+103,8837553,comment,8836734.0,8837223.0,0,0,untog,,,In pretty sure the Retina MBA doesn&,
+104,8837552,story,,,1,0,joubert,The Smalltalk Report,http://esug.org/data/HistoricalDocuments/TheSmalltalkReport/,,1420438124.0
+105,8837551,story,,,2,0,rajat2109,What the hell is a startup?,http://techcrunch.com/2014/12/30/what-the-hell-is-a-startup-anyway/,,1420438118.0
+106,8837550,story,,,1,0,insraq,Early-bird Dividend,http://ruoyusun.com/2015/01/04/early-bird-dividend.html,,1420438072.0
+107,8837549,comment,8837540.0,8837540.0,0,0,MichaelCrawford,,,Think of a program you&,
+108,8837548,comment,8837432.0,8837432.0,0,0,qnr,,,"More info: <a href=""https://coinfire.cf/2015/01/05/bitstamp-confirms-deposit-address-issue/"" rel=""nofollow"">https://coinfire.cf/2015/01/05/bitstamp-confirms-deposit-add...</a><p>&quot;We are working to determine what has gone wrong. The majority of our coins are swept and placed in cold storage often so this shouldn’t be a major issue right now but we are still working to determine the breadth of the issue. This seems to be a server issue and not a compromise but our teams are still investigating.&quot;",1420438059.0
+109,8837547,comment,8837540.0,8837540.0,0,0,chromejs10,,,Head First Java is a pretty good book. It&,
+110,8837546,comment,8836085.0,8836085.0,0,0,somberi,,,"May be its me, but her style reminds me of Asterix comics.",1420437998.0
+111,8837545,story,,,89,59,alfiedotwtf,Denthor's Graphics Tutorials: Why I am a Programmer,https://www.alfie.wtf/programming/why-i-am-a-programmer.html,,1420437951.0
+112,8837544,comment,8833772.0,8835513.0,0,0,zaroth,,,What impressed me the most was how it&,
+113,8837543,comment,8836734.0,8837468.0,0,0,bobbles,,,Here&,
+114,8837542,comment,8836734.0,8837329.0,0,0,mitchty,,,So you&,
+115,8837541,comment,8837004.0,8837289.0,0,0,gus_massa,,,"I agree, these linkbaits are killing me. I guess it&",
+116,8837540,story,,,1,4,Amat,Ask HN: Suggestions for learning Java?,,"Hey guys, I&",
+117,8837539,comment,8836763.0,8837438.0,0,0,Intermernet,,,"Climbing Magazine: <a href=""http://www.climbing.com/news/dawn-wall-four-5-14-pitches-down-two-to-go/"" rel=""nofollow"">http://www.climbing.com/news/dawn-wall-four-5-14-pitches-dow...</a><p>Evening Sends (seems to have more info than anywhere else): <a href=""http://eveningsends.com/climbing/like-dawn-tommy-caldwell-kevin-jorgeson/"" rel=""nofollow"">http://eveningsends.com/climbing/like-dawn-tommy-caldwell-ke...</a>",1420437750.0
+118,8837538,comment,8836763.0,8837438.0,0,0,Cogito,,,"ElCap Reports also has some nice commentary and lots of great photos. Seems a little light on the technical details you want but there is plenty of interest there.<p><a href=""http://www.elcapreport.com/"" rel=""nofollow"">http://www.elcapreport.com/</a>",1420437749.0
+119,8837537,comment,8836085.0,8837407.0,0,0,ffn,,,"Yes, but you forgot the other important part in her article where she writes:<p>>But because I had no money and an overworked...<p>Time = money in the US so it makes sense that if you don&",
+120,8837536,comment,8836085.0,8837159.0,0,0,Pxtl,,,I don&,

@@ -1,0 +1,91 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7616290,comment,7613589.0,7615092.0,1,0,thaumasiotes,,,Being young very much is aspirational. The fact that you can&,
+1,7616289,comment,7614742.0,7616165.0,2,0,ttty,,,Love the minimalist flat design,1397984383.0
+2,7616288,comment,7615273.0,7615779.0,1,0,higherpurpose,,,"And do you think that makes it inherently less secure than a &quot;free-for-all&quot; system? I think the point of the blockchain is to <i>remove trust</i> and become trustless, while the point of something like this is to keep the trust system, but actually give you some choice of who you trust. It seems a little better, but I think trustless authentication (as in no 3rd party required) would be preferred.",1397984264.0
+3,7616287,comment,7616135.0,7616135.0,1,0,ColinWright,,,"Also submitted yesterday:\n<a href=""https://news.ycombinator.com/item?id=7613813"" rel=""nofollow"">https://news.ycombinator.com/item?id=7613813</a><p>There were no up-votes, and no discussion.  But to be honest, who is going going to watch a 90 minute video without any kind of transcript to give a hint as to whether there&",
+4,7616286,story,,,2,2,pallavkaushish,Ask HN: Side projects for marketing guy?,,I feel like doing more with my time. Currently I give >12 hours a day to my company&,
+5,7616284,comment,7613752.0,7616108.0,2,0,rakoo,,,"Spammers believe that secondary MXs are set up &quot;in case of emergency&quot;, so they must have less restrictions on what goes in (so you don&",
+6,7616283,comment,7613589.0,7614845.0,2,0,thaumasiotes,,,"I live in Shanghai -- there are plenty of ads using Asian models, but (to my mind) a weirdly high number using white models.",1397984135.0
+7,7616282,comment,7615750.0,7616170.0,2,0,nrc,,,"I actually used enumerate in an earlier version of this post, but in the case I used it didn&",
+8,7616281,comment,7615820.0,7615820.0,0,0,Someone,,,"Very nice demo, but still very far from a useful aid.<p>- it cannot, I guess, screw on that lid (if it could, they would have demoed it)<p>- does it work on slightly uneven flooring?<p>- battery live? Anybody&",
+9,7616280,comment,7615365.0,7615870.0,2,0,n8m,,,Thanks for that great tool! You&,
+10,7616279,comment,7613543.0,7614375.0,6,0,scotty79,,,I tried building an app in MFC after programming in Delphi/Borland C++ Builder. And my reaction was &quot;Nope. ... Nope. Nope.&quot;<p>I was overwhelmed by the feeling that designer of MFC doesn&,
+11,7616278,comment,7615273.0,7615972.0,2,0,higherpurpose,,,"From Moxie:<p><i>&quot;Convergence is blocking on TACK, which is blocking on browser vendors.&quot;</i><p><a href=""https://twitter.com/moxie/status/451020203099299840"" rel=""nofollow"">https://twitter.com/moxie/status/451020203099299840</a>",1397984024.0
+12,7616277,comment,7615271.0,7615271.0,4,0,JanezStupar,,,What I wan to know is why Tony called the author two years after Kubrick&,
+13,7616276,comment,7615935.0,7616159.0,5,0,codezero,,,"I have ADD, I am conscious of my lack of eye contact, but I am actually a great communicator.<p>All of human behavior occupies a wide spectrum. It&",
+14,7616275,story,,,8,6,Two9A,DNS breakage at Samsung.com,,A friend of mine noticed that there was no A record for samsung.com; it turns out there&,
+15,7616274,comment,7615273.0,7615461.0,2,0,rwallace,,,"If Namecoin is anywhere near as insecure as Bitcoin, it&",
+16,7616273,comment,7615300.0,7615602.0,1,0,m_c,,,"London makes this information available, allowing the sort of visualisation you suggest [1]. As you say, it&",
+17,7616272,comment,7615903.0,7616223.0,2,0,Dylan16807,,,"I see you ignored the second sentence of the post.  Try reading it, it answers your question.",1397983856.0
+18,7616271,comment,7613783.0,7615473.0,2,0,namenotrequired,,,"No paywall for me, but does this link work maybe? This has gotten me around paywalls before.<p><a href=""https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCwQqQIwAA&url=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F2%2F9c8d9f7c-c000-11e3-9513-00144feabdc0.html&ei=HopTU-6mIcneOY37gPgK&usg=AFQjCNFGkxisCUnzEuNEal1HIcQ8jFWN9Q&bvm=bv.65058239,d.ZWU"" rel=""nofollow"">https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd...</a>",1397983836.0
+19,7616270,story,,,82,32,Tsiolkovsky,Learn How to Contribute to the Linux Kernel: Take the Eudyptula Challenge,http://www.linux.com/news/featured-blogs/200-libby-clark/770112-learn-how-to-contribute-to-the-linux-kernel-take-the-eudyptula-challenge,,1397983826.0
+20,7616269,comment,7615273.0,7615273.0,5,0,eps,,,Just make sure you still check revocation of code signing certificates. Otherwise you will end up running malware that is signed with a legit key they got off my stolen Windows laptop.,1397983781.0
+21,7616268,comment,7615750.0,7616260.0,2,0,nrc,,,"It was a design decision made long ago and seems to have stuck (although is slightly less extreme than it used to be). I also used to hate the abbreviation, but I find you get used to it quickly and after a few weeks it doesn&",
+22,7616267,comment,7615121.0,7615121.0,7,0,graeham,,,"Commercial divers functionally live underwater for up to weeks at a time <a href=""http://en.wikipedia.org/wiki/Saturation_diving"" rel=""nofollow"">http://en.wikipedia.org/wiki/Saturation_diving</a>",1397983683.0
+23,7616266,story,,,4,0,AdrianRossouw,A Field Guide to Microservices – April 2014 Edition,http://wayfinder.co/pathways/53536427f7040a11002ae407/a-field-guide-to-microservices-april-2014-edition,,1397983677.0
+24,7616265,comment,7616132.0,7616132.0,2,0,pixelcort,,,"Bug Tracker in Git<p>Bugs are plain text files in the same git repo as code.<p>GUI for QA staff to commit new and updated bugs into branches, or to create pull request containing new/updated bug.<p>When developer fixes bug, they can update the status and assignee in the same commit as the code fix.<p>GUI to see which branches contain the bug fix, etc.<p>PR diff clearly shows which bug(s) have been fixed.",1397983474.0
+25,7616264,comment,7615273.0,7616013.0,3,0,cpach,,,"For those interested, here’s the latest update from the TACK mailing list: <a href=""http://slexy.org/view/s20UsKEoRm"" rel=""nofollow"">http://slexy.org/view/s20UsKEoRm</a> (January 2014)",1397983456.0
+26,7616263,comment,7615121.0,7616255.0,3,0,mike-cardwell,,,My understanding is that they&,
+27,7616262,story,,,2,0,xmen,Measuring App Install campaign’s effectiveness,http://www.paytm.com/blog/measuring-app-install-campaigns-effectiveness/,,1397983355.0
+28,7616261,comment,7615271.0,7615271.0,2,0,cf,,,"I remember about this time last year seeing the Kubrick exhibit at LACMA <a href=""http://www.lacma.org/art/exhibition/stanley-kubrick"" rel=""nofollow"">http://www.lacma.org/art/exhibition/stanley-kubrick</a>. They had many of the items mentioned in this article. So you can see the index cards about Napoleon.<p>Oddly, the article doesn&",
+29,7616260,comment,7615750.0,7615750.0,8,0,shmerl,,,"What is the reason for using overly minimalistic, assembly style keywords like fn, str etc? Even C++ doesn&",
+30,7616259,comment,7613543.0,7613543.0,2,0,mrsaint,,,Why? Because it cannot just die yet! One of my most frequently used Windows app is in Delphi. Total Commander. ;),1397983046.0
+31,7616258,comment,7615273.0,7615763.0,1,0,dwightgunning,,,I guess that&,
+32,7616257,comment,7615935.0,7616159.0,4,0,rwallace,,,It&,
+33,7616256,comment,7615935.0,7616027.0,1,0,wuster,,,"At a small company, there&",
+34,7616255,comment,7615121.0,7616211.0,2,0,MarcScott,,,"To be fair, BBC.com isn&",
+35,7616254,comment,7615273.0,7615273.0,4,0,AhtiK,,,"My quick write-up on this from few days ago, <a href=""http://www.ahtik.com/blog/startssl-revocation-fees-will-not-matter-and-ssl-certs-are-funky_u1g8E/"" rel=""nofollow"">http://www.ahtik.com/blog/startssl-revocation-fees-will-not-...</a><p>Yes, revoke is broken by design, especially with mobile and Chrome browser. I&",
+36,7616253,comment,7613543.0,7615287.0,1,0,edwinyzh,,,Re ,
+37,7616252,comment,7615935.0,7616086.0,3,0,wuster,,,Sometimes it&,
+38,7616251,comment,7615399.0,7616040.0,2,0,masklinn,,,"Well yeah but Europe is 240V 16A (or more, but 16A is typical).",1397982794.0
+39,7616250,comment,7615903.0,7616121.0,2,0,philtar,,,"<a href=""http://www.bernardfoods.com/foodservice/beverages/images/dehydatedwater.gif"" rel=""nofollow"">http://www.bernardfoods.com/foodservice/beverages/images/deh...</a>",1397982764.0
+40,7616249,comment,7615903.0,7616223.0,2,0,mafro,,,"Presumably it would be delivered in tablet form, to which you could just add water to dissolve it.",1397982727.0
+41,7616248,comment,7615273.0,7616176.0,1,0,captainmuon,,,Exactly. If I&,
+42,7616246,comment,7616132.0,7616232.0,1,0,livestyle,,,Could you expand on this idea?,1397982581.0
+43,7616245,comment,7615903.0,7616121.0,4,0,MertsA,,,...No you can&,
+44,7616244,comment,7616132.0,7616132.0,4,0,joeclark77,,,"As a teacher of IT courses, I&",
+45,7616243,comment,7615935.0,7616071.0,2,0,namenotrequired,,,> It&,
+46,7616242,comment,7615365.0,7615540.0,8,0,abritishguy,,,There are lots of things that you can do easily with postman but would be difficult with a CLI tool.,1397982494.0
+47,7616240,comment,7615903.0,7615903.0,7,0,beloch,,,"I confess, I&",
+48,7616239,comment,7613783.0,7613783.0,1,0,pallavkaushish,,,">In another corner, white mattresses are propped up against the wall ready for use by employees who need a place to stay when they are visiting San Francisco<<p>Mostly this happens in early stage startups but continuing it at a level when your company is $1.75B is absolutely phenomenal. The effect of this type of culture is what attracts talented people and makes sticking around worth it.<p>I would personally kill to be part of an organization which brews a culture like this.",1397982336.0
+49,7616238,story,,,14,4,leonvonblut,Google Cloud Platform Blog: Using GitHub for Push-to-Deploy,http://googlecloudplatform.blogspot.it/2014/04/using-github-for-push-to-deploy.html,,1397982322.0
+50,7616237,story,,,15,2,chr13,Using Facebook Notes to DDoS any website,http://chr13.com/2014/04/20/using-facebook-notes-to-ddos-any-website/,,1397982303.0
+51,7616236,story,,,8,1,duncan_bayne,Religious infiltration of state schools in the UK ,http://www.telegraph.co.uk/education/educationnews/10775755/State-schools-isolate-non-Muslims.html,,1397982293.0
+52,7616235,story,,,1,0,Tsiolkovsky,Collectl: An Advanced All-in-One Performance Monitoring Tool for Linux,http://www.tecmint.com/linux-performance-monitoring-with-collectl-tool/,,1397982222.0
+53,7616234,comment,363.0,7616045.0,2,0,sillysaurus3,,,"Are resubmissions allowed (or even encouraged) yet?  For example, Mt. Gox posted an update 3 days ago, but it only got one upvote (mine was the second, and came three days late).  It contained, among other things, news that the company had been turned over to someone else (a Provisional Administrator):  <a href=""https://www.mtgox.com/img/pdf/20140416_002_announce_en.pdf"" rel=""nofollow"">https://www.mtgox.com/img/pdf/20140416_002_announce_en.pdf</a><p>I would say that&",
+54,7616233,comment,7615898.0,7616137.0,2,0,DodgyEggplant,,,"Running a serious business on a platform w/o support is not an option. Even the great Google demands the &quot;customer support&quot; it needs - from government, states etc. Amazon competes directly on support: their new plans suggest scheduled &quot;office hours&quot;.<p><a href=""http://aws.amazon.com/activate/office-hours/"" rel=""nofollow"">http://aws.amazon.com/activate/office-hours/</a>",1397982174.0
+55,7616232,comment,7616132.0,7616132.0,4,0,AbhishekBiswal,,,"Make a cleaner, better omegle.",1397982133.0
+56,7616231,comment,7615399.0,7615798.0,3,0,RBerenguel,,,"I have a cheap domestic espresso machine, and agree: aeropressed coffee is nowhere near espresso. I find it pretty close to what &quot;Italian&quot; coffee kettles do (this: <a href=""http://ravistationery.com/images/office%20automation/morphy%20richard/11971241351983293676pipo_italian_coffee_maker.svg.hi.png"" rel=""nofollow"">http://ravistationery.com/images/office%20automation/morphy%...</a>) albeit milder, not as acid or sour as this one. I have not used it much, but I like having my Aeropress, even though it requires quite more coffee than other types of machines.",1397982085.0
+57,7616230,comment,7615898.0,7616168.0,3,0,bsaul,,,The only thing this article informed me of is that i&,
+58,7616229,comment,7615268.0,7615268.0,1,0,SixSigma,,,Interesting article. Not just for the photographic analysis but also how quickly fancy things on the Web date.<p>&quot;Mouseover to compare&quot; and Mouseover menus all killed off by touchscreens. I&,
+59,7616228,story,,,3,0,noveltysystems,MountainWest Devops 2014 – Introduction to Docker (Video),https://www.youtube.com/watch?v=e6s6xqSl9iw,,1397982011.0
+60,7616227,comment,7615201.0,7615884.0,1,0,MertsA,,,"EcoVent should never need to close every single vent in the house, but even if it did, yes the static pressure in the ducts would rise but what is important is the pressure differential around the blower. If you have a totally 100% blocked filter this will cause the highest pressure differential around the blower that the unit will ever see in it&",
+61,7616225,comment,7616198.0,7616198.0,1,0,tibu,,,Business plan is useful for yourself too.,1397981847.0
+62,7616224,comment,7615750.0,7616178.0,9,0,mpartel,,,"Having programmed a lot in both Scala and Ruby, I&",
+63,7616223,comment,7615903.0,7616121.0,3,0,arjn,,,What ? Are you serious or is this some kind of joke that I&,
+64,7616222,comment,7615399.0,7615783.0,3,0,deckiedan,,,"Yeah, my first one was a clear/blueish plastic one, the new one is a tinted brown.  I&",
+65,7616221,story,,,14,10,ziko,Ask HN: Best way to collect payments under 3$?,,"Which service to use if you intent to primarily collect payments under 3$? Needs to be able to collect payments from all over the world, not just the US.",1397981688.0
+66,7616220,comment,7613418.0,7614956.0,1,0,jotm,,,I&,
+67,7616219,comment,7615750.0,7616186.0,3,0,acqq,,,Can you please point me to the examples of the kind of the pattern matching constructs that don&,
+68,7616218,comment,7615365.0,7615870.0,4,0,jabo,,,"Great job! Really useful tool.<p>On a side note, it&",
+69,7616217,comment,7615935.0,7616114.0,5,0,mattchamb,,,"A few months ago I went to two on-site interviews with a company that a friend (who works there) referred me to. They were the ones to call me up asking for an interview. The second interview was a coding one, which I did pretty well at. I never even heard back from them.<p>Tbh, thinking about it now; I dont think I would want to work at a company that doesn&",
+70,7616216,comment,7615750.0,7616212.0,5,0,pcwalton,,,"Yeah, I would rather have &quot;for&quot; defined only to operate on Iterables. If we modified the trait matching rules we could probably do that backwards compatibly post 1.0.",1397981469.0
+71,7616215,comment,7615750.0,7616185.0,0,0,masklinn,,,"> Why all.iter().enumerate() and not just all.enumerate() ?<p>enumerate is a method of the Iterator trait, so you need an iterator. This way it can have a truckload of reusable methods without polluting every collection&",
+72,7616214,comment,7614575.0,7614575.0,2,0,MarcScott,,,Just had a play around and I&,
+73,7616213,comment,7579697.0,7581174.0,1,0,duncan_bayne,,,"It was proved in court that he knowingly provided a getaway car for people who were planning to violently assault the victim. They did, and she died.<p>Would you be okay with a life sentence had he been driving? What if he had been present at the robbery, but didn&",
+74,7616212,comment,7615750.0,7616193.0,6,0,masklinn,,,> You&,
+75,7616211,comment,7615121.0,7615454.0,4,0,beejiu,,,"I pay £145 per year for the BBC, and they&",
+76,7616208,comment,7615471.0,7615725.0,1,0,stu_k,,,"There is definitely work towards this. This spec was recently released and has some potential: <a href=""https://github.com/w3ctag/packaging-on-the-web"" rel=""nofollow"">https://github.com/w3ctag/packaging-on-the-web</a>",1397981092.0
+77,7616207,comment,7615399.0,7615620.0,7,0,rahimnathwani,,,"In the UK, too, almost everyone has an electric kettle.  The last one I had there drew 3kW (although strangely I couldn&",
+78,7616206,story,,,1,0,aismail,Show HN: How did I end up wearing 3 health trackers?,http://aismail85.tumblr.com/post/83284928038/how-did-i-end-up-wearing-3-health-trackers,"Dear HN,<p>I&",
+79,7616205,comment,7615750.0,7616197.0,5,0,masklinn,,,"Yes, you could write this as `_ if x < 20`. But not as `if x < 20`, I&",
+80,7616204,comment,7615471.0,7615965.0,1,0,chadscira,,,i wasn&,
+81,7616203,comment,7615750.0,7616180.0,2,0,logicchains,,,I suppose I just assumed that logical or is closer in meaning to the or in pattern matching than bitwise or is.,1397981064.0
+82,7616202,comment,7615399.0,7615789.0,4,0,nvarsj,,,"Have you tried the inverted method for Aeropress? Pretty similar to french press, and you use about half the coffee of the &",
+83,7616201,comment,7615750.0,7616197.0,5,0,pcwalton,,,"Yes, you could just use x.",1397981005.0
+84,7616200,comment,7615399.0,7615821.0,6,0,L_Rahman,,,The Hario Slim is a conical burr grinder. You can adjust the grind size by adjusting a small bolt on the underside of the grinder mechanism.,1397980990.0
+85,7616199,comment,7582077.0,7587387.0,1,0,joeclark77,,,I&,
+86,7616198,story,,,1,1,d3v3r0,Business plan is fairytale,http://alexsblog.org/2014/04/20/businessplan-is-fairytale/,,1397980968.0
+87,7616197,comment,7615750.0,7615750.0,3,0,jhgg,,,What&,
+88,7616195,comment,7615771.0,7615771.0,1,0,eip,,,"Yea.<p><a href=""http://rssident.com"" rel=""nofollow"">http://rssident.com</a>",1397980867.0
+89,7616194,comment,7613418.0,7615494.0,1,0,pktgen,,,"> The problem is usually not the software, but the hardware.<p>It&",

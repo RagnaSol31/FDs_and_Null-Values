@@ -1,0 +1,129 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,7736164,comment,7731320.0,7732386.0,1,0,Daviey,,,"Funnily enough, I understood UK ATC service was provided to FIR FL245, with basic service UIR FL660.",1399942786.0
+1,7736163,comment,7734114.0,7735687.0,3,0,pessimizer,,,That&,
+2,7736162,comment,7734998.0,7735638.0,2,0,twfarland,,,Haskell lists also work nicely for nondeterministic computation.,1399942711.0
+3,7736161,comment,7735141.0,7736015.0,0,0,scotth,,,"Aside: Why do you have so many accounts mantrax? At least one of them is dead, and I&",
+4,7736160,comment,7734418.0,7735303.0,1,0,brownbat,,,"This raises an interesting point about &quot;tamper revealing&quot; methods of security. Open source, publicized hashes of executables, even key exchange protocols, all of these prevent attacker tampering by making it more likely attacks (or even just bad code) will get noticed. They don&",
+5,7736158,comment,7734755.0,7734755.0,1,0,bartonfink,,,"I know a guy who bought AAPL at about $8 a share a while back and still holds a lot of shares, was part of the initial Dell IPO and also recently complained about only making 10x his Tesla shares so far. He&",
+6,7736157,comment,7732393.0,7735522.0,1,0,jessaustin,,,In case it wasn&,
+7,7736156,comment,7735843.0,7735843.0,1,0,druiid,,,"I prefer using Symmetric Encryption: <a href=""https://github.com/reidmorrison/symmetric-encryption"" rel=""nofollow"">https://github.com/reidmorrison/symmetric-encryption</a><p>It&",
+8,7736155,story,,,1,0,analyst74,A Q&A with “Godfather of MOOCs” Sebastian Thrun after he disavowed his godchild ,http://pando.com/2014/05/12/a-qa-with-godfather-of-moocs-sebastian-thrun-after-he-disavowed-his-godchild/,,1399942504.0
+9,7736154,comment,7734114.0,7736091.0,5,0,sdfjkl,,,"Unison is a under-appreciated gem of file synchronization. The author also published several papers on the subject: <a href=""http://www.cis.upenn.edu/~bcpierce/papers/index.shtml",
+10,7736153,comment,7724024.0,7724024.0,1,0,gregcohn,,,There&,
+11,7736152,comment,7735899.0,7735899.0,1,0,freeslugs,,,Note : it was written in a dark time of deadlines and sleep deprivation,1399942416.0
+12,7736151,comment,7735912.0,7735912.0,2,0,uptown,,,Maybe they just wanted control over the company that makes the largest body-worn hardware people are comfortable wearing.  Provides lots of additional space into which sensors can be crammed.,1399942382.0
+13,7736149,comment,7735700.0,7736141.0,14,0,azakai,,,Emscripten can emit code without typed arrays. It&,
+14,7736148,comment,7729831.0,7730891.0,1,0,nnethercote,,,You know what&,
+15,7736147,comment,7734905.0,7735392.0,1,0,gliese1337,,,"Happens with first names, too. My wife&",
+16,7736146,comment,7734755.0,7735146.0,3,0,sokoloff,,,"Consistent, high-paying employment here as well, paired with consistent investing in stocks.<p>I got pretty well smacked down in 2000 and again in 2008, but still crossed the 7-figure mark around age 40 even in spite (I would argue because) of the volatility and risk in the stock market.",1399942189.0
+17,7736145,comment,7735503.0,7735503.0,18,0,danbruc,,,"In my brain this quote got deeply linked to PHP, more precisely to the preface of an article [1]. And it is funny no matter if you love or hate PHP.<p><i>I can’t even say what’s wrong with PHP, because— okay. Imagine you have uh, a toolbox. A set of tools. Looks okay, standard stuff in there.<p>You pull out a screwdriver, and you see it’s one of those weird tri-headed things. Okay, well, that’s not very useful to you, but you guess it comes in handy sometimes.<p>You pull out the hammer, but to your dismay, it has the claw part on both sides. Still serviceable though, I mean, you can hit nails with the middle of the head holding it sideways.<p>You pull out the pliers, but they don’t have those serrated surfaces; it’s flat and smooth. That’s less useful, but it still turns bolts well enough, so whatever.<p>And on you go. Everything in the box is kind of weird and quirky, but maybe not enough to make it completely worthless. And there’s no clear problem with the set as a whole; it still has all the tools.<p>Now imagine you meet millions of carpenters using this toolbox who tell you “well hey what’s the problem with these tools? They’re all I’ve ever used and they work fine!” And the carpenters show you the houses they’ve built, where every room is a pentagon and the roof is upside-down. And you knock on the front door and it just collapses inwards and they all yell at you for breaking their door.<p>That’s what’s wrong with PHP.</i><p>[1] <a href=""http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/"" rel=""nofollow"">http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/</a>",1399942181.0
+18,7736144,comment,7734998.0,7734998.0,4,0,aufreak3,,,"If any of you actually need such constraint satisfaction in javascript, checkout my fd.js library [1]. You&",
+19,7736143,story,,,1,0,jackgavigan,US Navy releases 'stealth' e-reader for sailors,http://www.bbc.co.uk/news/technology-27378834,,1399942146.0
+20,7736142,story,,,1,0,rpm4321,Guido van Rossum on the History of Python,http://www.techtalkshub.com/guido-van-rossum-history-python/,,1399942124.0
+21,7736141,comment,7735700.0,7736064.0,8,0,nnethercote,,,"asm.js relies on typed arrays, and IE9 doesn&",
+22,7736140,story,,,1,0,dandemeyere,The Value in Staying,https://medium.com/@dandemeyere/407380715df,,1399942104.0
+23,7736139,comment,7735503.0,7735966.0,2,0,Pacabel,,,Those kind of problems you mention aren&,
+24,7736138,comment,7735157.0,7736017.0,5,0,jmadsen,,,"From the article:<p>&quot;Once the plant absorbs a significant amount of metal, they can also be harvested for their commercially valuable contents, according to the release.&quot;<p>&quot;nickel, zinc, copper and manganese in high concentrations&quot; are all commercially viable metals worth collecting, assuming the extraction process is cheaper than digging it out of the ground.<p>I haven&",
+25,7736137,comment,7735141.0,7736119.0,3,0,steveklabnik,,,"They often fail. See ActiveResource, for example.",1399941973.0
+26,7736136,comment,7733639.0,7733835.0,2,0,roller,,,"From my experience, the initial compile is fast, it&",
+27,7736135,comment,7734202.0,7736066.0,2,0,virtue3,,,... if you look at the psuedo code the &quot;busy wait&quot; (with a busy while loop...) comment and &quot;critical section&quot; comment should also be very large flags to this being a blocking operation.,1399941882.0
+28,7736134,comment,7734998.0,7735952.0,1,0,scast,,,"Also, checkout potassco ASP solver. Beautiful work and superb performance. YMMV.",1399941864.0
+29,7736133,story,,,1,0,friism,ASP.NET vNext,http://davidfowl.com/asp-net-vnext/,,1399941809.0
+30,7736132,comment,7734121.0,7734969.0,3,0,wlesieutre,,,"A friend of mine was working on a cross platform OpenGL project and wanted to use some OpenGL extension that was originally proposed by a couple of people from Apple and somebody at Nvidia.<p>You would assume that having proposed it, Apple would have implemented it. Nope. Windows only.<p>Apple advertises their support for OpenGL 4 in Mac OS 10.9, but they&",
+31,7736131,comment,7734905.0,7736020.0,1,0,tizzdogg,,,Where did you get the databases of names? I&,
+32,7736130,comment,7730808.0,7733475.0,1,0,vadman,,,"Dogs do not pass the mirror test, which, hypothetically, indicates they have no concept of &quot;self&quot; - thus they cannot think about themselves.<p><a href=""http://en.wikipedia.org/wiki/Mirror_test"" rel=""nofollow"">http://en.wikipedia.org/wiki/Mirror_test</a> - there is a discussion about dogs specifically, noting that vision is not their primary sense, so the mirror test may have less value.",1399941772.0
+33,7736129,comment,7735912.0,7736094.0,2,0,exstudent,,,Part of my aversion to this rumored deal is just what you say...<p>Why should a technology company that&,
+34,7736128,story,,,12,7,throwaway009,Ask HN: How to save my career at 35,,I&,
+35,7736127,comment,7735064.0,7736005.0,3,0,nmrm,,,> That&,
+36,7736125,comment,7735912.0,7736118.0,2,0,coralreef,,,"Interesting, but this is a $3.2b acquisition, which is clearly not just a technology buy.",1399941656.0
+37,7736124,comment,7735912.0,7736112.0,2,0,jackgavigan,,,I don&,
+38,7736123,comment,7735912.0,7735912.0,7,0,chimeracoder,,,"I find the confusion over the Beats deal more surprising than the deal itself.<p>Apple and Beats are very similar companies - both sell hardware that is relatively cheap to make[0][1], and sell it at an incredibly high markup. Both companies are able to do this because they&",
+39,7736122,comment,7735141.0,7735141.0,1,0,rooted,,,I think a distributed system is better defined as a system where timing becomes an issue to the coordination of components in the system.,1399941621.0
+40,7736121,comment,7732164.0,7735934.0,1,0,dmm,,,"> No, they do have an obligation to protect the public in general.<p>I see your point but I think it&",
+41,7736119,comment,7735141.0,7736082.0,2,0,beamatronic,,,I&,
+42,7736118,comment,7735912.0,7736094.0,2,0,jackgavigan,,,"<i>> Apple wants to own the entire music chain from beginning to end.</i><p>No, they don&",
+43,7736117,story,,,8,1,newscloud,"Seattle, You've Got Male: Amazon's Growth Means Too Many Dudes",http://www.geekwire.com/2014/many-dudes-amazon-spoiling-seattles-dating-scene-says-entrepreneur/,,1399941440.0
+44,7736116,comment,7735964.0,7736085.0,3,0,chimeracoder,,,There&,
+45,7736115,comment,7732393.0,7732701.0,3,0,OscarCunningham,,,"Elwyn Berlekamp, the first to study mathematical Go, says that &",
+46,7736113,story,,,3,1,azth,Programmer at heart of tech workers’ class action case wants to block $324M deal,https://arstechnica.com/tech-policy/2014/05/programmer-at-heart-of-tech-workers-class-action-case-wants-to-block-324m-deal/,,1399941369.0
+47,7736112,comment,7735912.0,7736102.0,1,0,ghshephard,,,"So, given that, by all accounts (Dre, NYT, WSJ, FT, etc..) a multi-billion dollar deal went down this weekend between Beats and Apple, what actually do you think <i>did</i> occur, if not the acquisition of Beats by Apple.  Licensing deal?  Revenue Share?  Marketing Deal?",1399941330.0
+48,7736111,story,,,19,5,nkurz,Smalltalk and Pharo: Unknown rockstars,http://cookingcode.wordpress.com/2014/05/11/smalltalk-and-pharo-unknown-rockstars/,,1399941319.0
+49,7736110,story,,,1,0,ironchief,What 3D printers can learn from sewing machines,http://www.dezeen.com/2014/05/08/3d-printers-have-a-lot-to-learn-from-the-sewing-machine/,,1399941296.0
+50,7736109,story,,,1,0,NickErrant,How much is your personal data worth?,http://www.ft.com/intl/cms/s/2/927ca86e-d29b-11e2-88ed-00144feab7de.html,,1399941280.0
+51,7736108,story,,,1,0,awwstn,Apple/Beats,http://lefsetz.com/wordpress/index.php/archives/2014/05/11/applebeats/,,1399941272.0
+52,7736107,story,,,1,0,bit2pixel,The Power of Randomness,http://redbeacon.github.io/2014/05/12/The-Power-of-Randomness,,1399941253.0
+53,7736106,comment,7731753.0,7735884.0,1,0,Turing_Machine,,,"<a href=""http://web.ead.anl.gov/uranium/faq/storage/faq22.cfm"" rel=""nofollow"">http://web.ead.anl.gov/uranium/faq/storage/faq22.cfm</a><p>It says they&",
+54,7736104,comment,7735141.0,7735897.0,1,0,bitwize,,,My understanding was that the Xlib protocol&,
+55,7736103,comment,7725736.0,7728307.0,1,0,simonebrunozzi,,,Unless the drug &quot;Soma&quot; exists (from Huxley&,
+56,7736102,comment,7735912.0,7736080.0,5,0,jackgavigan,,,Anyone who&,
+57,7736101,story,,,1,0,adamnemecek,Understanding Angular's Magic: Don't Bind to Primitives,http://www.codelord.net/2014/05/10/understanding-angulars-magic-dont-bind-to-primitives/,,1399941123.0
+58,7736100,comment,7735912.0,7736034.0,1,0,ghshephard,,,"Beats Streaming (Mog) is not even mentioned in that article beyond a single sentence saying &quot;fixes their streaming hole&quot;, it was all about the headphones.",1399941104.0
+59,7736099,story,,,2,0,zx2c4,Noise: New 21st Century Crypto Protocol using DJB's Primitives,https://github.com/trevp/noise/wiki/,,1399941064.0
+60,7736098,comment,7735912.0,7735912.0,1,0,darksim905,,,They are buying beats because everyone is running around with them.,1399941015.0
+61,7736097,comment,7735157.0,7735157.0,1,0,blahedo,,,Holy crap that autoplay video is annoying.  I&,
+62,7736095,comment,7734905.0,7735766.0,2,0,kijin,,,"Another possibility is that there is greater diversity in the US now than a hundred years ago, people are more aware of it, and are okay with it, so there&",
+63,7736094,comment,7735912.0,7735912.0,0,0,subdane,,,"Apple wants to own the entire music chain from beginning to end. The hardware player, a software/mobile player, the store, the streamer, the radio, the intelligence (Topsy), and the output speakers. It&",
+64,7736093,comment,7734114.0,7734863.0,2,0,Yen,,,"I once gave git-annex a serious try (a few weekends of all-day efforts), as a way of sharing my music library between personal machines. It seemed to fail pretty hard on the cross-platform part. I really wanted it to work, I just couldn&",
+65,7736092,comment,7735503.0,7735503.0,8,0,patcon,,,"I find that turn of phrase is often used in curiously ironic fashion -- Once a certain type of know-it-all is armed with that expression, they tend to over-apply it to dismiss ideas that fall outside their favour.",1399940995.0
+66,7736091,comment,7734114.0,7734114.0,13,0,sinkasapa,,,One of my favorite open source tools of this kind is unison. It works great. I set it up to go and I don&,
+67,7736090,story,,,2,0,eplanit,Covert Optical Communication [pdf],http://arxiv.org/pdf/1404.7347v1.pdf,,1399940961.0
+68,7736089,comment,7735141.0,7735141.0,1,0,logn,,,Rest is less platform dependent than SOAP/RPC. I see that as the main benefit. JSON is easier to work with than XML. The whole idea of service oriented architectures is that users don&,
+69,7736088,comment,7734905.0,7734905.0,1,0,elwell,,,Here&,
+70,7736087,comment,7734114.0,7735461.0,8,0,ajslater,,,What he&,
+71,7736085,comment,7735964.0,7735964.0,1,0,duncan_bayne,,,I&,
+72,7736084,story,,,1,0,dgudkov,Gun that fired projectiles into space (Project HARP),http://en.wikipedia.org/wiki/Project_HARP,,1399940690.0
+73,7736083,comment,7700032.0,7709006.0,1,0,avn2109,,,"Good point. I did indeed mean traffic analysis, not &quot;timing attack.&quot;",1399940680.0
+74,7736082,comment,7735141.0,7736015.0,7,0,steveklabnik,,,I agree that many services are simply CRUD wrappers. That doesn&,
+75,7736081,comment,7734472.0,7736016.0,1,0,0x0,,,It would still be blocking the main thread if it was in-process? I&,
+76,7736080,comment,7735912.0,7736038.0,2,0,bgroins,,,Whooooooooo are you talking to?,1399940572.0
+77,7736079,comment,7735912.0,7735912.0,1,0,jerryhuang100,,,it&,
+78,7736078,story,,,3,0,panarky,Take Action to Defend Net Neutrality – Here’s How FCC Makes Rules,https://www.eff.org/deeplinks/2014/05/prepare-take-action-defend-net-neutrality-heres-how-fcc-makes-its-rules,,1399940533.0
+79,7736077,comment,7734418.0,7735307.0,1,0,RachelF,,,"Open source depends on someone looking at the code. If Heartbleed proved anything, it is that most open source projects are pretty thinly funded and manned, and very few users ever bother to look at the source.",1399940412.0
+80,7736076,comment,7734114.0,7734863.0,2,0,Dylan16807,,,"Can you explain to me why and how I would use git-annex for real time sync?  From what I understand of it, it works well for backups and for managing media files, but I don&",
+81,7736075,story,,,1,0,start_select,"Sketch Better UX Flows, Schematics and Diagrams with Plastic Underlays",http://guidelines.simblestudios.com,,1399940385.0
+82,7736074,comment,7734925.0,7734925.0,1,0,SteveDeFacto,,,"Some of you might find this algorithm I created a few years ago interesting: <a href=""http://ovgl.org/view_topic.php?topic=91JL96IHFS"" rel=""nofollow"">http://ovgl.org/view_topic.php?topic=91JL96IHFS</a>",1399940376.0
+83,7736073,comment,7734919.0,7735723.0,1,0,_Soulou,,,"github.com/juju/errgo from Canonical is really great. 100% compatible with the error interface, allow you to get the source and the explanation of an error.",1399940340.0
+84,7736072,comment,7732572.0,7732572.0,1,0,im3w1l,,,>For instance it will attempt decoding from utf-8 with replacing decoding errors with question marks.<p>Please don&,
+85,7736071,comment,7731624.0,7736027.0,2,0,SilasX,,,"Sorry, I wasn&",
+86,7736070,comment,7735912.0,7735912.0,1,0,adamio,,,"Apple has acquired music related before, but not for the rumored 3 billion<p><a href=""http://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Apple"" rel=""nofollow"">http://en.wikipedia.org/wiki/List_of_mergers_and_acquisition...</a>",1399940318.0
+87,7736069,comment,7735912.0,7735912.0,7,0,fred_durst,,,"Maybe this is less about headphones and instead about Beats becoming a phone brand? If Apple wants to get into lower priced phones without pulling down the iPhone brand, this seems like one way to do it.",1399940297.0
+88,7736067,comment,7734925.0,7734925.0,0,0,nijiko,,,You can simplify this even further by using frameworks like lodash / underscore or ES6 native methods.,1399940241.0
+89,7736066,comment,7734202.0,7735930.0,1,0,jberryman,,,"Hmm, are you sure that&",
+90,7736065,comment,7734418.0,7735986.0,1,0,JoachimS,,,It depends on the drop it causes. If it only increases the drop rate for certain streams than detection will be harder to notice. And of course the perf counters can&,
+91,7736064,comment,7735700.0,7735931.0,3,0,hippich,,,I am working on a project based on asm.js technology. From my experience very limited and simple asm.js code might be compatible with &quot;all non asm.js browsers&quot;. In particular I found IE9 wouldn&,
+92,7736063,comment,7735503.0,7735647.0,5,0,brandonhsiao,,,Fair enough. Guess I deserved the downvotes.,1399940161.0
+93,7736062,comment,7735912.0,7735912.0,1,0,kevinthew,,,"They have a ridiculous amount of cash and need to spend it, that&",
+94,7736061,comment,7734905.0,7735534.0,2,0,kijin,,,"> <i>named after someone who turned out to be somewhat less than wholesome</i><p>South Korea here. Lots of Koreans (both South and North) are named Kim Il Sung, Kim Jong Il, or Kim Jong Un. The fact that 20% of Koreans have the surname Kim exacerbates the problem.<p>Of course, Il Sung and Jong Il went into a sharp decline in South Korea as soon as people found out that they were seriously inauspicious names. But nobody had time to prepare for Jong Un&",
+95,7736060,comment,7734806.0,7735525.0,1,0,forrestthewoods,,,"Almost every single console multiplayer game runs the server on a consumer console. Most, but not all, support host migration.<p>Host migration is a bitch. It sucks. You do not want to be the sucker tasked with making it work.",1399940050.0
+96,7736059,story,,,3,0,texan,"Xbox Live to remove Gold requirement for Netflix, Hulu",http://arstechnica.com/gaming/2014/05/rumor-xbox-live-to-remove-gold-requirement-for-netflix-hulu/,,1399940006.0
+97,7736058,story,,,1,0,eyeballtrees,A System Of People: Why I favoured App.Net (before it died).,http://eyeballtrees.com/posts/a-system-of-people.html,,1399939992.0
+98,7736057,comment,7735912.0,7736046.0,1,0,exstudent,,,The reports have been of Apple buying them both and this article mentions it as a &quot;reason&quot; for Apple buying Beats (Electronics|Music).<p>You&,
+99,7736056,comment,7735141.0,7736015.0,3,0,icedchai,,,Exactly this. I&,
+100,7736055,comment,7735452.0,7735851.0,3,0,anigbrowl,,,"<i>why does it always work on mice?!</i><p>Mice are cheap, live fairly short lives (a big plus if you&",
+101,7736054,story,,,1,0,jestinepaul,Blending Liquids (SIGGRAPH 2014),https://www.youtube.com/watch?v=f6Vt7MtTrEQ,,1399939914.0
+102,7736053,comment,7734418.0,7735291.0,5,0,JoachimS,,,There are things you can do in an evil router that encryption and integrity protection don&,
+103,7736052,comment,7735452.0,7735826.0,2,0,babuskov,,,I really don&,
+104,7736051,comment,7731753.0,7732242.0,1,0,Dylan16807,,,How?<p>If there are piles that didn&,
+105,7736050,comment,7734114.0,7734114.0,0,0,scragg,,,I would of liked the name &quot;synctank&quot; better. :),1399939868.0
+106,7736049,comment,7734998.0,7735942.0,0,0,tonetheman,,,Oh node programmers love that... :),1399939822.0
+107,7736048,story,,,1,0,luu,FTC cracks down on Snapchat,http://www.politico.com/story/2014/05/snapchat-ftc-privacy-crackdown-106495.html,,1399939815.0
+108,7736047,story,,,1,0,devNoise,One-Stop-Shop for Easy Mobile Marketing,http://meg.com,,1399939796.0
+109,7736046,comment,7735912.0,7736034.0,2,0,packetslave,,,Beats Music is a separate company from Beats Electronics.  They spun it off last year.,1399939759.0
+110,7736045,comment,7735912.0,7735912.0,4,0,beedogs,,,Apple&,
+111,7736044,story,,,1,0,dsrikanth,San Francisco Day of Civic Hacking,http://hackathon.sfsu.edu/,,1399939726.0
+112,7736043,comment,7732696.0,7733206.0,2,0,lgas,,,I&,
+113,7736042,comment,7734925.0,7736024.0,2,0,krilnon,,,"It only draws a single perspective, so the only control you have is to refresh the page to get a new random bit of terrain.",1399939675.0
+114,7736041,comment,7735180.0,7735180.0,1,0,beav,,,Nice move!,1399939670.0
+115,7736040,comment,7730415.0,7731839.0,1,0,yoklov,,,"> OpenGL 3.x certainly helped by consolidating a lot of stuff which was in extensions, but in my case its not really that good for me as I still have to put up with the land of OpenGL 2.x.<p>Ha, where I work we still get support tickets about our ancient GL1.5 renderer from time to time. If only we could drop it.<p>And then I get home and see people on /r/gamedev suggesting that OpenGL 3.2 is outdated and not even worth supporting anymore.  I even got downvoted for saying that my less-than-three year old laptop ran GL3.2.  Maybe I&",
+116,7736039,comment,7735141.0,7736013.0,2,0,mantrax5,,,"It was, yes, and to this day read-only SQL access to certain tables is not that bad of a practice to allow for report-generating apps <i>within</i> a company.<p>However the idea of exposing SQL databases publicly as an approach never took hold for many reasons we&",
+117,7736038,comment,7735912.0,7735912.0,8,0,jackgavigan,,,"Okay, I&",
+118,7736037,comment,7730808.0,7732153.0,2,0,detroitcoder,,,Just bought it! Thanks,1399939535.0
+119,7736036,comment,7733639.0,7735849.0,1,0,Encosia,,,You&,
+120,7736035,comment,7735452.0,7735810.0,6,0,anigbrowl,,,(That&,
+121,7736034,comment,7735912.0,7735912.0,6,0,exstudent,,,Any talk of Beats Music adding any value whatsoever to Apple is ridiculous. Beats Music is little more than Mog (a nearly valueless online streaming service) + 6 months of development time. Mog was very close to being out of business when Beats bought them as the service was extremely lack luster.<p>There is no tech and the licenses will not be transferable in an acquisition.<p>Maybe the headphone business holds some value to Apple but Beats Music certainly does not.,1399939462.0
+122,7736033,comment,7734806.0,7735360.0,4,0,iLoch,,,"QuizUp (I think that was the name) had a really interesting way of solving this - they pretended the users are online. Is this lying? Maybe, but for anyone not aware of this fact the experience was great. Now, QuizUp is probably a more unique case because the action on the users&",
+123,7736032,comment,7735700.0,7735978.0,3,0,azakai,,,"Do other WebGL demos work on your machine? Might be a GL driver issue. Simple test is on <a href=""http://get.webgl.org/"" rel=""nofollow"">http://get.webgl.org/</a>",1399939382.0
+124,7736031,comment,7735452.0,7735968.0,1,0,babuskov,,,"They are currently focused on extracting stem cells from the fat and using those to repair tissue by injecting the extracted cells directly to the heart.<p>There are complications, because safe way to do it is not very precise and stem cells would not attach to the heart. Trying it multiple times would increase chances of infection, which is not good for recovering heart, etc.",1399939361.0
+125,7736030,comment,7734121.0,7735892.0,1,0,rwbt,,,"AFAIK, that driver only applies to CUDA and other proprietary Nvidia platforms, not necessarily OpenGL.",1399939339.0
+126,7736029,comment,7733639.0,7734643.0,2,0,pauldbau,,,"You should definitely also check out ServiceStack. Dapper-like ORM, amazing web service capabilities and awesome serializers all in one place. Supports everything too (Mono, Xamarin etc).",1399939315.0
+127,7736028,comment,7735061.0,7735061.0,5,0,atat,,,"&quot;DevArt is a new type of art&quot;, &quot;DevArt is the opportunity to open their creative process, share their art with the world and be a part of a new movement in art.&quot;<p>Why are they pretending to have invented this? Net art (or whatever you want to call it) has been a thing since the 90s, Rhizome has plenty of early examples (<a href=""http://rhizome.org/artbase/"" rel=""nofollow"">http://rhizome.org/artbase/</a>)",1399939265.0

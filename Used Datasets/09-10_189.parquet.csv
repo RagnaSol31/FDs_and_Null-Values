@@ -1,0 +1,95 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6958897,story,,,2,2,ericthegoodking,To HN Community: Happy holidays ,,I am a very proud member of this community.I have learned a lot from many guys who i would consider geniuses.I want to wish all members happy holidays.\nThank you,1387879193.0
+1,6958896,story,,,1,0,jayadevan,InterviewStreet is Now HackerRankX,http://www.nextbigwhat.com/hackerrankx-interviewstreet-297/,,1387879189.0
+2,6958894,comment,6958695.0,6958695.0,1,0,blazespin,,,The real use of money is to fund your next startup!,1387879094.0
+3,6958893,comment,6957423.0,6958056.0,3,0,stormbrew,,,"I agree that this is the intent, but it doesn&",
+4,6958891,comment,6956563.0,6958855.0,2,0,toyg,,,No.,1387879002.0
+5,6958890,comment,6957882.0,6958517.0,29,0,lukifer,,,"A reminder: pre-Snowden, suspicions of dragnet spying on Americans would also have been described as &quot;a bit tinfoiled&quot;.",1387878997.0
+6,6958889,comment,6958735.0,6958735.0,3,0,stormbrew,,,"An alternative, but related, approach that would eliminate false positives could be to do an N-ary tree instead, where the bloom filter in this solution is just the first level of the tree. You could then download a json document for the child of the matching top level element to narrow it down to specific documents. You could also calculate relevancies this way.",1387878986.0
+7,6958888,comment,6957423.0,6957550.0,3,0,codeoclock,,,You can&,
+8,6958886,story,,,1,0,mike_esspe,What Does It Feel Like To Be A Self-Made Millionaire Under The Age Of 25?,http://www.quora.com/Becoming-a-Millionaire/What-does-it-feel-like-to-be-a-self-made-millionaire-under-the-age-of-25,,1387878839.0
+9,6958885,comment,6957913.0,6957913.0,1,0,ak39,,,What are the main reasons why a home brewed authentication solution is considered a bad idea?,1387878834.0
+10,6958884,comment,6956563.0,6957871.0,3,0,spectrum,,,Use a cloudservice to sync the database file of Keepass. I use ownCloud for this. Then have the KeepassX portable version on a USB stick or just download it from any computer connected to the internet.<p>Open-source and self-hosted (when using owncloud). Works for me!,1387878811.0
+11,6958882,comment,6955721.0,6957079.0,4,0,SunboX,,,"You are right, but FFOS 1.1 can&",
+12,6958880,comment,6900625.0,6900625.0,2,0,YnotHack,,,"Most of the debate seems to have centered on perception vs. price, with some very amusing points.<p>It seems clear that by vertically integrating they have cut out a huge chunk of price to the end-consumer.  This point in particular has zero to do with mattress quality.<p>This also happened a few years ago in the diamond industry.  Online retailers cut out the expensive jewelry chains with their 1000% markups and sold directly online at cost + 20%.  As diamonds can all be graded and compared accurately we can see how for exactly the same quality you can get something for much less.<p>New models can maintain quality and reduce cost.  It happens all the time.  The main proponents of the price = quality concept are marketers who are really hoping you will pay up.<p>I also find it interesting that one the main critics on this thread happens to be a middle-man who stands to lose his shirt because of T&Ns business model. I feel for you, man.<p>Lastly, I just wanted to congratulate the T&N team on a great success in a crowded space.  Great example of the lean startup. Very impressed also that advertising is $0. Wish you all the best in the future!",1387878625.0
+13,6958877,comment,6957423.0,6957912.0,6,0,e12e,,,The risk of being infected with hiv by someone who doesn&,
+14,6958876,story,,,1,0,AnnaGrame,TOP 15 Most Beautiful and Useful iPhone and iPad Apps of 2013,http://stanfy.com/blog/top-15-most-beautiful-and-useful-iphone-and-ipad-apps-of-2013/,,1387878487.0
+15,6958873,comment,6958262.0,6958640.0,7,0,davidedicillo,,,"I was there that day, and I found it surprisingly inspiring.",1387878450.0
+16,6958872,comment,6957913.0,6957913.0,1,0,nly,,,Meteor.js is both impressive and terrifying. (I&,
+17,6958871,comment,6957642.0,6957710.0,1,0,regularfry,,,"Release early, release often?",1387878299.0
+18,6958870,comment,6957423.0,6957488.0,1,0,qwerta,,,"Exactly, it is like saying we forgive you for being...",1387878292.0
+19,6958869,comment,6957502.0,6957502.0,1,0,yason,,,"If you code and develop in it, you&",
+20,6958867,comment,6957473.0,6957473.0,1,0,postitnotecode,,,I don&,
+21,6958866,comment,6958315.0,6958600.0,1,0,forgottenpaswrd,,,"&quot;Now, some people like to think that stuff like &quot;technology always improves in time to save us&quot; is some kind of natural law. I guess they are more into science as religion, than in science as science.&quot;<p>That is because IT IS a natural law.<p>If this law were not true, then there would be no humans on earth. It it scientific because there is evidence with real data to prove the hypothesis.<p>The fact is that humans are not only resource consumers but also resource creators.<p>It is you who misled science as science for &quot;religion of the Doomsday&quot;. Science tells us that there is trillions of billions of stars, each carrying trillions of times more energy that we consume.",1387878214.0
+22,6958865,comment,6956563.0,6956563.0,1,0,toyg,,,I updated last night by pure chance (from 2.0 alpha 3)! I was pleasantly surprised by the fact that it now works great with Retina screens. The only feature I miss is xml import/export (there&,
+23,6958864,comment,6957502.0,6958272.0,2,0,seanmcdirmid,,,Have you ever seen Hinton&,
+24,6958863,comment,6949443.0,6950969.0,1,0,mkingston,,,"&quot;And they see this list.&quot;<p>But why would they see this list in your proposed context? The list is not specifically intended for your theoretical audience, nor intended to contain your theoretical content, but you&",
+25,6958861,story,,,30,10,Tsiolkovsky,How Docker turned intricate Linux code into developer pixie dust,http://venturebeat.com/2013/12/23/how-docker-turned-intricate-linux-code-into-developer-pixie-dust/,,1387878124.0
+26,6958860,comment,6957423.0,6958056.0,2,0,aquadrop,,,It doesn&,
+27,6958859,comment,6954794.0,6955257.0,1,0,barrkel,,,You can get by without knowing how &,
+28,6958857,comment,6958695.0,6958841.0,1,0,dobbsbob,,,I believe that was sarcasm however warren buffet is a good example. He&,
+29,6958856,comment,6957882.0,6957882.0,5,0,Fuxy,,,You have to admire his willingness to risk everything to give the people a chance to change this broken system.<p>He is right though the system is broken it gives too much power with too little oversight.,1387877916.0
+30,6958855,comment,6956563.0,6956883.0,4,0,sameerds,,,"I have always used KeePassX for the simple reason that it does not depend on Mono. There had been uncertainty of the legal and ideological status of Mono as a free/open source project [citation needed] with respect to the Microsoft Community Promise. As a result, I had always stayed away from all things Mono. Has that situation changed for the better?",1387877901.0
+31,6958854,comment,6953608.0,6954442.0,1,0,rahimnathwani,,,If it&,
+32,6958853,comment,6958695.0,6958695.0,5,0,tluyben2,,,After working very hard on things to &,
+33,6958852,comment,6956563.0,6958676.0,3,0,toyg,,,"There are autosaving options in Preferences, check it out. The UI can be improved, sure, but you have to remember that this is a complete rewrite of the 1.x version in order to support KeePass v2 format -- it&",
+34,6958850,story,,,60,58,phaer,Moonpig: a billing system that doesn't suck,http://blog.plover.com/prog/Moonpig.html,,1387877681.0
+35,6958849,comment,6956658.0,6956658.0,1,0,Log1x,,,&quot;growth hack&quot; lol,1387877591.0
+36,6958848,comment,6956004.0,6957685.0,1,0,jrockway,,,"In this case, it seems that Walker was nominating someone for a state position, and decided not to after finding that person signed a petition to recall him.  That&",
+37,6958847,comment,6957423.0,6957423.0,3,0,sanoli,,,"Yes, they apologized 5 years ago, and now there&",
+38,6958846,comment,6957502.0,6958612.0,9,0,Ma8ee,,,"Surprisingly many problems are similar, so in the end you can often apply the methods from one domain to another. If you use your study time well you will remember the general principles even though you might forget the exact implementations and most of the details.<p>Most importantly, you have a much greater chance of knowing when a solution exists and where to look for it, and more importantly know when no solutions are known.<p>E.g., the computer scientist recognizes the travelling salesman problem even when it doesn&",
+39,6958845,comment,6955331.0,6957112.0,1,0,summerdown2,,,I think that&,
+40,6958843,comment,6957423.0,6958718.0,4,0,lostlogin,,,"Are there abused or disenfranchised groups you do support payments being made to as a form of compensation? Paying out clearly does nothing for Turing, I mean that payment to those still alive could be helpful. For example, the New Zealand government has paid out groups that suffered due to government action like land unfairly taken. I fully support this.",1387877331.0
+41,6958842,comment,6954112.0,6958743.0,3,0,yummyfajitas,,,I don&,
+42,6958841,comment,6958695.0,6958830.0,0,0,joosters,,,<i>The good thing about being rich is that you could be poor whenever you want.</i><p>What? Name some rich people who are now voluntarily poor! I&,
+43,6958840,comment,6957882.0,6958582.0,13,0,afterburner,,,It&,
+44,6958839,comment,6958315.0,6958784.0,2,0,mithras,,,Irrelevant when global production is declining.,1387877252.0
+45,6958838,comment,6958695.0,6958805.0,2,0,lucaspiller,,,> A lot of people think &,
+46,6958837,story,,,5,0,rads,"Alan Turing, Enigma Code-Breaker and Computer Pioneer, Wins Royal Pardon",http://www.nytimes.com/2013/12/24/world/europe/alan-turing-enigma-code-breaker-and-computer-pioneer-wins-royal-pardon.html,,1387877231.0
+47,6958836,comment,6957311.0,6958821.0,2,0,RyanZAG,,,Only briefly - it looks pretty straight forward. Could you explain what&,
+48,6958835,story,,,1,0,dsyph3r,Ho Ho Ho...Santa Tracker,http://www.google.co.uk/santatracker/,,
+49,6958834,comment,6956509.0,6957327.0,1,0,corobo,,,Just a heads up the link in your profile appears to have a typo in it :)<p>Confirming your site makes the majority of minimalist themes look bloated! I&,
+50,6958833,story,,,1,1,kaanlcaglar,Battery that works with urine : 6h energy per lt of pee,http://www.collective-evolution.com/2013/12/23/urine-powered-generator-6-hours-of-power-on-1-liter-of-pee/,,1387877061.0
+51,6958832,story,,,8,0,moondowner,40 Critical Theory Books That Came Out in 2013,http://www.critical-theory.com/40-critical-theory-books-that-came-out-in-2013/,,1387877056.0
+52,6958831,comment,6958827.0,6958827.0,1,0,ColinWright,,,"I submitted this last night as the news broke, but it was flagged by a number of people, one claiming it was fake.  That claim has since been retracted, but the item dropped off the front page and never got discussed.<p>So I thought I&",
+53,6958830,comment,6958695.0,6958695.0,8,0,forgottenpaswrd,,,"When you know self made millionaires you learn one thing:<p>&quot;Money is not wealth&quot;. Almost nobody that understands wealth holds money, money is a tool for exchanging things and its value decreases with time.<p>They hold real state, they hold precious metals, they hold stock, they travel, they know people.<p>The people that made money usually like making wealth and don&",
+54,6958829,comment,6958695.0,6958758.0,4,0,tluyben2,,,"Well, it&",
+55,6958828,comment,6958793.0,6958800.0,1,0,ColinWright,,,You can delete it.,1387876845.0
+56,6958827,story,,,1,1,ColinWright,"Turing is being pardoned, which is short of being exonerated.",http://newstatesman.com/david-allen-green/2013/07/putting-right-wrong-done-alan-turing/,,1387876823.0
+57,6958826,comment,6954256.0,6958423.0,2,0,acqq,,,And the good aspect of C is the &quot;flatness&quot; of the structures: they are not &quot;objects&quot; with the hidden content and associated functions managing it. It&,
+58,6958825,comment,6958315.0,6958427.0,2,0,manglav,,,I don&,
+59,6958823,story,,,2,1,llamataboot,Essay of the Day: Open Source Capitalism,http://blog.p2pfoundation.net/essay-of-the-day-open-source-capitalism/2013/12/24Essay of the Day: Open Source Capitalism,,1387876615.0
+60,6958822,story,,,1,0,jkaljundi,"From Jersey to Estonia, a president pushes technology",http://www.usatoday.com/story/news/world/2013/12/23/estonia-president-toomas-hendrik-ilves/3877149/,,1387876568.0
+61,6958821,comment,6957311.0,6958774.0,0,0,frowaway001,,,"> but the end result is generally extremely well thought through and tested<p>Have you looked at the API of function types? If we needed a definition of incoherent, overcomplicated, painfully stupid non-sense, this would be it.<p>I&",
+62,6958819,comment,6958815.0,6958815.0,1,0,sbuk,,,Just wanted to highlight what a fantastic resource this is and thanks the effort of everyone involve. Every year I learn something useful from it.,1387876323.0
+63,6958817,comment,6957423.0,6958768.0,6,0,oracuk,,,The previous UK government under Gordon Brown already apologised for Alan Turing&,
+64,6958816,comment,6956260.0,6958457.0,1,0,runn1ng,,,"Frankly, if somebody started talking about ECHELON about 1 year ago, I immediately put him into &quot;9/11 truthers and other conspiracy theorist&quot; category.",1387876275.0
+65,6958815,story,,,2,1,sbuk,Last post of the year from 24ways.org,http://24ways.org/2013/run-ragged/,,1387876229.0
+66,6958814,comment,6958530.0,6958692.0,2,0,nwh,,,Yep. I&,
+67,6958813,comment,6958315.0,6958665.0,1,0,Houshalter,,,I&,
+68,6958812,comment,6958409.0,6958753.0,2,0,arca_vorago,,,"And that would be when everyone realized Stallman was right, but it&",
+69,6958811,comment,6955141.0,6957227.0,2,0,omegant,,,"I recommend reading &quot;on killing&quot;, a book about effects that killing has in soldiers and how it has evolved since WW2. The modern warrior-killer mindset and training is responsible for a great part of the PTSD.",1387876160.0
+70,6958810,comment,6956658.0,6957983.0,2,0,gaius,,,"I am not sure they are directly comparable - unless rappers themselves are choosing the site, just like programmers themselves (ourselves) voted with our feet. Aren&",
+71,6958809,comment,6957502.0,6957502.0,1,0,robomartin,,,"Well, it&",
+72,6958807,comment,6957913.0,6957913.0,1,0,basicallydan,,,"Nice, simple writeup and exploration of options :)",1387876084.0
+73,6958806,comment,6958650.0,6958650.0,1,0,Casseres,,,That&,
+74,6958805,comment,6958695.0,6958758.0,4,0,ashray,,,I think the takeaway is that life would be best spent finding out what it is that truly makes you happy and then pursuing that. A lot of people think &,
+75,6958804,comment,6957502.0,6958597.0,1,0,NAFV_P,,,"If you think that snippet was bad, you should see the rest of it. It covers nine files and around 500 odd lines.<p>Good practise though.",1387876015.0
+76,6958802,comment,6958315.0,6958739.0,2,0,jrockway,,,My guess is a lot.  The equity market represents most of humanity&,
+77,6958801,comment,6954256.0,6956852.0,1,0,justincormack,,,Yes. Or the value. error style as used by node.js. forcing errors unto the domain gets messy.,1387875974.0
+78,6958800,comment,6958793.0,6958793.0,1,0,oracuk,,,"sorry, ignore this submission, forgot I was on the mobile site and as such this is a duplicate.",1387875947.0
+79,6958799,comment,6954062.0,6955686.0,1,0,code_duck,,,Those stood out to me as the first design element I&,
+80,6958798,comment,6951727.0,6956576.0,2,0,arca_vorago,,,I&,
+81,6958797,comment,6954062.0,6957460.0,1,0,code_duck,,,"It displays without error, as far as I can see, but is just like the desktop site. One can zoom in on the center column of stories, but it was a little clunky on mobile Safari. And then, you can&",
+82,6958796,comment,6958695.0,6958775.0,3,0,paraschopra,,,"One of the projects I want to do is to map living expenses, inflation and life expectancy to know exactly how much money is &quot;enough&quot;. My problem is that we forget that we tomorrow should be more valuable to us than today and by the time we get this realization, we might have lost many years (of adulthood).",1387875872.0
+83,6958794,comment,6958695.0,6958778.0,1,0,ashray,,,"Thanks for your response, the Quora thread is very interesting.<p>Another question, and this is a little more personal. Also, I don&",
+84,6958793,story,,,2,2,oracuk,Royal pardon for codebreaker Alan Turing,http://m.bbc.co.uk/news/technology-25495315,,1387875720.0
+85,6958792,comment,6957502.0,6958419.0,1,0,NAFV_P,,,"I cannot remember, but it was damn good stuff.",1387875720.0
+86,6958791,comment,6957502.0,6958021.0,2,0,chipsy,,,The more you get exposed to other people&,
+87,6958789,comment,6957502.0,6958501.0,1,0,NAFV_P,,,"One underscore indicates a pointer, two indicates a pointer to pointer.",1387875658.0
+88,6958788,comment,6956658.0,6957485.0,1,0,code_duck,,,One would have been a true prophetic genius to be trying this in 1990.,1387875650.0
+89,6958787,comment,6958315.0,6958600.0,3,0,rahimnathwani,,,"> Now, some people like to think that stuff like &quot;technology always improves in time to save us&quot; is some kind of natural law.<p>Survivorship bias.  If it hadn&",
+90,6958786,comment,6958315.0,6958427.0,1,0,waps,,,"Except for nuclear, what technologies are you talking about ? If we expect oil to do what this article says it&",
+91,6958785,comment,6958530.0,6958748.0,2,0,jglauche,,,"Yes, the thermal printing mechanism is very simple. You need a printing head, which you can get as pre-build module, and you need a mechanism to feed the paper.<p>Alternatives are for example thermal transfer printing method, where you have a roll of paper and a roll of ink on a film that gets transfered over to the paper on the areas that are heated. Technically this is more complex, but on a product like this, they saved on thew wrong end by using thermal paper.",1387875639.0
+92,6958783,comment,6955721.0,6958738.0,4,0,sbuk,,,"This. Great point!<p>&quot;<i>Firefox OS was created with the following main objectives:\n- Create a Free and Open mobile source operating that is developed in the open.</i>&quot;<p>If the goal is to be completely open, why use closed-source mapping at all, including Googles offering, when a good open equivalent exists?",1387875604.0
+93,6958782,comment,6957502.0,6958742.0,2,0,NAFV_P,,,I&,

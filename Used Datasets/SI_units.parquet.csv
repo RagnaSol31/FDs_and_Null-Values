@@ -1,0 +1,94 @@
+,length,meter,m
+0,mass,kilogram,kg
+1,time,second,s
+2,electric current,ampere,A
+3,thermodynamic temperature,kelvin,K
+4,amount of substance,mole,mol
+5,luminous intensity,candela,cd
+6,area,square meter,m2
+7,volume,cubic meter,m3
+8,speed,meter per second,m/s
+9,velocity,metres per second,m/s
+10,acceleration,meter per second squared  ,m/s2
+11,wave number,reciprocal meter,m-1
+12,mass density,kilogram per cubic meter,kg/m3
+13,specific volume,cubic meter per kilogram,m3/kg
+14,current density,ampere per square meter,A/m2
+15,magnetic field strength  ,ampere per meter,A/m
+16,amount-of-substance concentration,mole per cubic meter,mol/m3
+17,luminance,candela per square meter,cd/m2
+18,plane angle,radian,rad
+19,solid angle,steradian,sr
+20,frequency,hertz,Hz
+21,force,newton,N
+22,pressure,pascal,Pa
+23,energy,joule,J
+24,power,watt,W
+25,electric charge,coulomb,C
+26,electric potential difference,volt,V
+27,capacitance,farad,F
+28,electric resistance,ohm,Ω
+29,electric conductance,siemens,S
+30,magnetic flux,weber,Wb
+31,magnetic flux density,tesla,T
+32,inductance,henry,H
+33,luminous flux,lumen,lm
+34,activity (of a radionuclide),becquerel,Bq
+35,absorbed dose,gray,Gy
+36,dose equivalent,sievert,Sv
+37,catalytic activity,katal,kat
+38,dynamic viscosity,pascal second,Pa·s
+39,moment of force,newton meter,N·m
+40,surface tension,newton per meter,N/m
+41,angular velocity,radian per second,rad/s
+42,angular acceleration,radian per second squared,rad/s2
+43,heat flux density,watt per square meter,W/m2
+44,heat capacity,joule per kelvin,J/K
+45,specific heat capacity,joule per kilogram kelvin,J/(kg·K)
+46,specific energy,joule per kilogram,J/kg
+47,thermal conductivity,watt per meter kelvin,W/(m·K)
+48,energy density,joule per cubic meter,J/m3
+49,electric field strength,volt per meter,V/m
+50,electric charge density,coulomb per cubic meter,C/m3
+51,electric flux density,coulomb per square meter,C/m2
+52,permittivity,farad per meter,F/m
+53,permeability,henry per meter,H/m
+54,molar energy,joule per mole,J/mol
+55,molar heat capacity,joule per mole kelvin,J/(mol·K)
+56,exposure (x and gamma rays),coulomb per kilogram,C/kg
+57,absorbed dose rate,gray per second,Gy/s
+58,radiant intensity,watt per steradian,W/sr
+59,radiance,watt per square meter steradian,W/(m2·sr)
+60,catalytic (activity) concentration,katal per cubic meter,kat/m3
+61,percentage,percentage,%
+62,period,beats per minute,bpm
+63,time,year,Y
+64,time,month,M
+65,time,day,D
+66,irradiance,watt per square metre,W/m^2
+67,plane angle,degree,º
+68,thermodynamic temperature,degree fahrenheit,ºF
+69,logarithmic radio quantity,decibel,dBm
+70,velocity,kilometre per hour,km/h
+71,concentration,count per cubic metre,1/m^3
+72,time,minute,min
+73,mass density,kilogram per litre,kg/L
+74,mass density,mole per litre,mol/L
+75,length,inch,in
+76,mass,pound,lb
+77,angular velocity,revolution per minute,RPM
+78,energy,kilogram calorie,kcal
+79,velocity,kilometre per minute,km/min
+80,length,metre,m
+81,step per minute,step per minute,stp/min
+82,stroke per minute,stroke per minute,str/min
+83,time,hour,h
+84,moment of force,newton metre,Nm
+85,pressure,millimetre of mercury,mmHg
+86,metabolic equivalent,metabolic equivalent,MET
+87,volume flow,liter per second,L/s
+88,energy,kilowatt hour,kWh
+89,luminous efficacy,lumen per watt,lm/W
+90,luminous energy,lumen per hour,lm/h
+91,luminous exposure,lux hour,lx/h
+92,mass flow,gram per second,g/s

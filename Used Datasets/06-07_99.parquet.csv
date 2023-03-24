@@ -1,0 +1,89 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9013324,comment,9003898.0,9007659.0,0,0,agumonkey,,,"A great deal of Mathematics were done in tables, vectors and matrix, that mapped (probably because of a feedback loop) so well the imperative indexed loop that it&",
+1,9013323,comment,9013211.0,9013273.0,0,0,detrino,,,Flash for Chrome uses the PPAPI and is sandboxed.,1423292224.0
+2,9013322,comment,9013211.0,9013211.0,0,0,AnthonyMouse,,,Why are they calling EME &quot;locks&quot;? It isn&,
+3,9013321,comment,9011628.0,9013311.0,0,0,ChuckMcM,,,Funny how that works.,1423292187.0
+4,9013320,comment,9011641.0,9013255.0,0,0,gaadd33,,,Oh seems like it would have been just as easy to grab census data for the past 50 years and run through last names by decreasing frequency.<p>Here I thought you had found a unique zipcode.,1423292178.0
+5,9013319,story,,,1,0,youngj,Show HN: A reference tool for headphone enthusiasts,http://www.audiobot9000.com,,1423292063.0
+6,9013318,comment,9013211.0,9013300.0,0,0,geofft,,,"Firefox, which is open source, both sandboxes the Adobe decryption module—giving the browser control over the world that the Adobe module sees—and fetches it at startup from Adobe&",
+7,9013317,comment,9012938.0,9013276.0,0,0,at-fates-hands,,,I can totally validate this concern.<p>I have a really good friend who&,
+8,9013316,comment,9010815.0,9012122.0,0,0,pjmlp,,,"While true, and saying this as someone that likes C++, the reason many of those applications are written in C++ is that the choice of imperative languages with AOT compilers is not that big.<p>I remember having to fight to use this new strange thing called C++.",1423291933.0
+9,9013315,comment,9011628.0,9012388.0,0,0,rhino369,,,"In something like semiconductors, the main competitors have tens of thousands of patents and each infringe each other 500 times over. It is essentially a wash.<p>Competitors suits are only a good idea when you have a clear patent advantage. That is why Apple and Google got blitzed during the smartphone wars. They didn&",
+10,9013314,comment,9003729.0,9009107.0,0,0,cauterized,,,"Then take them with the plastic/metal/glass, which needs to be sorted anyway, and sort out the batteries when you do the rest. IIRC the first 90% of the sorting is done by density anyway, and I&",
+11,9013313,comment,9009706.0,9010890.0,0,0,jsprogrammer,,,What &quot;most companies&quot; are doing is mostly irrelevant in the larger picture. You&,
+12,9013312,comment,9013211.0,9013286.0,0,0,pkulak,,,Right click -> Save As is a tad easier than finding a torrent.,1423291868.0
+13,9013311,comment,9011628.0,9012400.0,0,0,x0x0,,,"Yet somehow intel, nvidia, amd, and a thousand other companies manage to do just fine in CA, where non-competes are largely unenforceable.",1423291831.0
+14,9013310,comment,9013211.0,9013292.0,0,0,geofft,,,"Certain companies have been extraordinarily interested in implementing WebCrypto without mandating HTTPS. Which is to say, a man-in-the-middle attacker could trivially modify the JS that calls WebCrypto and cause different operations to be performed.<p>My suspicion is that they have contractual agreements with the non-technical folks in the studios that they have to &quot;encrypt&quot; content, and the technically-competent redistributor has no direct interest in the crypto being sound. If the API gave them 256-bit military-grade AES encryption, but only in ECB mode, they&",
+15,9013309,comment,9012938.0,9012938.0,0,0,mocfive,,,"At 31, I feel like I am just now leaving the &",
+16,9013308,comment,9013211.0,9013211.0,0,0,pkulak,,,"Yes, EFF, we&",
+17,9013307,comment,9013211.0,9013293.0,0,0,guelo,,,"The basic principle that we have lost is that the standardized part of the web has always been fully open. You can look at the source of any page, figure out how some cool CSS or javascript trick works and copy it. You can download any image you see and modify it. This in contrast to, for example an iPhone app, it&",
+18,9013306,comment,9009706.0,9011586.0,0,0,bronson,,,Is your reply a good example of how to a express an opinion?,1423291604.0
+19,9013305,comment,9012938.0,9013005.0,0,0,mjones,,,It&,
+20,9013304,comment,9009706.0,9013200.0,0,0,pjmlp,,,You forgot<p>>a url with a JavaScript exploit<p>>a url with a img/css browser buffer overrun<p>>a url with cross site scripting<p>I see no difference.<p>EDIT: Actually I do. I is easier to exploit users that can&,
+21,9013303,comment,9013211.0,9013250.0,0,0,thristian,,,"Over thousands of years of human history, new technologies have changed the ways people communicate, from language to writing to the printing press, and so on. Every change shifted the economic balance, so things that once were prohibitively expensive became easy, and people who derived economic benefit from former scarcity became disadvantaged.<p>I hear what the proponents of DRM-encumbered browsers are saying - media streaming companies control huge chunks of our popular culture, and significant political power, and it&",
+22,9013302,comment,9012938.0,9013276.0,0,0,mjones,,,Over the past couple of decades I have become more inclined to stay in a position due to the fact that I am not feeling the need to make more money or climb the corporate ladder. I wouldn&,
+23,9013301,comment,9011641.0,9013134.0,0,0,gaadd33,,,I&,
+24,9013300,comment,9013211.0,9013293.0,0,0,logn,,,Because it&,
+25,9013299,comment,9003791.0,9003791.0,0,0,microcolonel,,,I&,
+26,9013298,comment,9011051.0,9013279.0,0,0,morgante,,,> Wouldn&,
+27,9013297,comment,9013211.0,9013275.0,0,0,notatoad,,,"The benefits of html5 video are practical ones: it simply works better than flash does.  It plays without stuttering, the audio works properly, it doesn&",
+28,9013296,comment,9011138.0,9013256.0,0,0,e12e,,,I&,
+29,9013295,comment,9013211.0,9013250.0,0,0,pjmlp,,,"So what, what guarantees you get a EME module of your OS of choice?",1423291154.0
+30,9013294,comment,9013211.0,9013211.0,0,0,ChuckMcM,,,Interestingingly it seems Youtube is still using Flash in its pre-roll advertisements unless I&,
+31,9013293,comment,9013211.0,9013211.0,0,0,sowhatquestion,,,I distinctly remember being upset about DRM in the &,
+32,9013292,comment,9013211.0,9013286.0,0,0,vlad003,,,It&,
+33,9013291,comment,9010815.0,9012465.0,0,0,pjmlp,,,It was happening in the 60-90&,
+34,9013290,comment,9012938.0,9013098.0,0,0,xasos,,,"I believe this is the case also. There is a Quora thread on the pros and cons on raising kids in the bay area[1].<p>[1] <a href=""http://www.quora.com/Is-Silicon-Valley-a-good-place-to-raise-children-Why"" rel=""nofollow"">http://www.quora.com/Is-Silicon-Valley-a-good-place-to-raise...</a>",1423290931.0
+35,9013289,comment,9012996.0,9012996.0,0,0,sandworm,,,"They have evidence of an attack going back to Dec 10, a Wednesday.<p>&quot;Anthemfacts.com&quot; was registered on Dec 13th which was, assuming US rather than GMT, the following friday.<p>The proximity and order of those dates cannot be coincidence.  It would seem someone at Anthem was confident enough to start prepping the PR campaign almost TWO MONTHS before the public, or the Conn AG, was notified.  And during tax season!",1423290901.0
+36,9013288,comment,9013211.0,9013250.0,0,0,awalton,,,">  I hear what the proponents of non-DRM browsers are saying, but for media streaming companies content is their bread and butter. I am not sure what the alternatives are.<p>And the DRM does absolutely nothing to stop anyone from doing whatever they want with it. DRM punishes paying customers at the expense of being a slight pain-in-the-ass for pirates. Plain and simple: they delivered content to my computer and I have a key to decrypt it - there&",
+37,9013287,comment,9008619.0,9012623.0,0,0,landryraccoon,,,It&,
+38,9013286,comment,9013211.0,9013211.0,0,0,slang800,,,"And through all this effort to &quot;protect their content&quot;, they still haven&",
+39,9013285,comment,9011051.0,9011051.0,0,0,rasz_pl,,,"There was a documentary about Fab on TV:<p><a href=""https://www.youtube.com/watch?v=sYeup5zrZbs"" rel=""nofollow"">https://www.youtube.com/watch?v=sYeup5zrZbs</a>",1423290786.0
+40,9013284,comment,9009282.0,9010803.0,0,0,Roboprog,,,"Yep, that was one of the things I lost.",1423290660.0
+41,9013283,comment,9013211.0,9013211.0,0,0,userbinator,,,"AIUI, EME is basically a standard for interfacing DRM plugins, so instead of the one implementation (Flash) of it that was around before, we might end up with a wide variety of DRM modules? That certainly doesn&",
+42,9013282,comment,9003898.0,9005951.0,0,0,agumonkey,,,"Actually I wonder how much Curry took from mathematics tendency to parametrize abstractions, leaving variables for later, in his work.",1423290547.0
+43,9013281,comment,9009379.0,9013160.0,0,0,TaylorAlexander,,,Well in basically all cases the worker can&,
+44,9013280,comment,9008565.0,9008565.0,0,0,davvid,,,"I tried submitting an existing project.  Sure, it wasn&",
+45,9013279,comment,9011051.0,9013161.0,0,0,carrotleads,,,Wouldn&,
+46,9013278,comment,9011051.0,9012635.0,0,0,at-fates-hands,,,>>> To try to head them off before you&,
+47,9013277,comment,9011051.0,9013170.0,0,0,logn,,,"&quot;Bright with a Y, dot com.&quot;<p>Some names are a lot harder to explain than that.",1423290444.0
+48,9013276,comment,9012938.0,9012938.0,0,0,blergh123,,,"For me, when I&",
+49,9013275,comment,9013211.0,9013250.0,0,0,vlad003,,,I&,
+50,9013274,comment,9008845.0,9009459.0,0,0,acjohnson55,,,I&,
+51,9013273,comment,9013211.0,9013211.0,0,0,geofft,,,"One thing to note is that (last I heard) both Chrome and Firefox sandbox EME modules fairly tightly. Flash is a browser plugin, which means that it usually injects code into the browser itself, and runs with full privileges on your computer, just as much as your browser does. This is what makes Flash such fertile ground for exploits of all kinds, and also makes it bad for your privacy because it has direct access to your webcam, microphone, clipboard, supercookies, etc. — anything the browser can do, Flash can do without asking. If it asks, it&",
+52,9013272,comment,9011041.0,9011041.0,0,0,Demiurge,,,In related news: sex associated with 100% boost in sexually transmitted diseases.,1423290354.0
+53,9013270,comment,9012938.0,9013201.0,0,0,mjones,,,"Thanks, I&",
+54,9013269,comment,9009282.0,9009282.0,0,0,leke,,,So will this phone be free from OS updates having to come from the hardware manufacturer?,1423290153.0
+55,9013268,comment,9011383.0,9011383.0,0,0,querulous,,,"the best bar in north america is in houston, on rice campus",1423290127.0
+56,9013267,comment,9011051.0,9012963.0,0,0,carrotleads,,,I still don&,
+57,9013266,comment,9013211.0,9013250.0,0,0,bobajeff,,,"Actually, for most online video sites users are their bread and butter. (Since they are ad supported) In fact users also provide the content in most cases.",1423290078.0
+58,9013265,comment,9011051.0,9011051.0,0,0,rogeriolou,,,I&,
+59,9013264,story,,,76,12,z3phyr,Probabilistic Programming for Advancing Machine Learning,http://ppaml.galois.com/wiki/,,1423289928.0
+60,9013263,comment,9011319.0,9012834.0,0,0,llamataboot,,,"Having spent over a decade working as a cook in various restaurants, I can assure you that at any given time, most restaurants are in violation of far more than three health code regulations. And the cliche is true, the more expensive the restaurant, the nastier the kitchen.",1423289921.0
+61,9013262,comment,9013260.0,9013260.0,0,0,devdraft,,,"Check this out, we are trying to see if this brings enough benefit to the community.",1423289877.0
+62,9013261,story,,,207,157,anigbrowl,Confessions of a Congressman,http://www.vox.com/2015/2/5/7978823/congress-secrets/,,1423289866.0
+63,9013260,story,,,3,1,devdraft,See how you stack up against the best. Top 10 get expert advice and more.,http://devdraft.com/selfassess?utm_source=hackernews&utm_medium=blog&utm_campaign=selfassess,,1423289841.0
+64,9013259,comment,9009706.0,9011326.0,0,0,olalonde,,,I think we would do well to apply the principle of charity here instead of having an (frankly boring) argument about semantics. Surely the author does not plan to use React forever and just meant that it&,
+65,9013258,comment,9012293.0,9012293.0,0,0,tylerritchie,,,That&,
+66,9013257,story,,,1,0,davinder28,VerAxis – The Real Enders Game – AngelList,https://angel.co/veraxis,,1423289726.0
+67,9013256,comment,9011138.0,9013226.0,0,0,redthrow,,,"gpg/pgp do work for those who can use it properly, which is a tiny minority. Can your parents or non-tech savvy friends use gpg/pgp? Probably not.<p>And as Assange said, if you are e.g. a journalist in the government watchlist, it could be worse (more dangerous) than not using gpg/pgp.<p>Text messages using OTR seems like a better way. For widespread crypto usage, telling people to ignore pgp/gpg and use texts with OTR seems more reasonable than keeping projects like GnuPG alive.<p>If I were running a company like Facebook who&",
+68,9013255,comment,9011641.0,9012962.0,0,0,thrownaway2424,,,Wrong it&,
+69,9013254,comment,9012938.0,9013191.0,0,0,sillysaurus3,,,"No, not really.  It seemed quite strongly that the reason was due to his age, but the official reason was that he couldn&",
+70,9013253,comment,9008041.0,9010189.0,0,0,memracom,,,"Since 3d sintering used metal powder it may be possible to do special alloys as well. I agree that the end solution may be a hybrid one with d printed parts from different materials assembled together.<p>Also, as you point out a lot of testing would be needed for parts that are exposed to constant stress such as the frame, axles and so on.",1423289426.0
+71,9013252,comment,8917297.0,8983057.0,0,0,alxndr,,,I&,
+72,9013251,comment,9009554.0,9010493.0,0,0,bitg,,,I&,
+73,9013250,comment,9013211.0,9013211.0,0,0,jsnk,,,"I hear what the proponents of non-DRM browsers are saying, but for media streaming companies content is their bread and butter. I am not sure what the alternatives are.<p>Content providers will stick with technologies like Flash because HTML5 alone could not provide EME. Lack of such feature set HTML5 backwards because huge content providers would shy away from using web as the dominant platform of media delivery.",1423289244.0
+74,9013249,comment,9009988.0,9011423.0,0,0,rsync,,,I&,
+75,9013248,comment,9008041.0,9012179.0,0,0,memracom,,,It&,
+76,9013247,comment,9012293.0,9012809.0,0,0,frozenport,,,"Alibaba was a reasonable place to look, the other suggestions require insider knowledge, and are significantly more speculative.",1423289209.0
+77,9013246,story,,,3,0,thiagooffm,Show HN: Built a memcached manager to help you deal with memcached,http://memcached-manager.github.io,,1423289163.0
+78,9013245,comment,9009706.0,9012416.0,0,0,tree_of_item,,,"Clojure uses structural sharing of course, but that was taken in to account in the parent comment. It&",
+79,9013244,comment,9012939.0,9012939.0,0,0,frozenport,,,I&,
+80,9013243,comment,9012938.0,9012938.0,0,0,sparkman55,,,I&,
+81,9013242,comment,9011641.0,9012286.0,0,0,nzealand,,,"They are starting to trial it, and offer it to those who have had their identity stolen.<p><a href=""http://www.irs.gov/Individuals/Identity-Protection-PIN-Pilot-Program"" rel=""nofollow"">http://www.irs.gov/Individuals/Identity-Protection-PIN-Pilot...</a>",1423289108.0
+82,9013241,comment,9009706.0,9010140.0,0,0,arxii,,,yep agree 100%. i have been thinking a lot about high quality responsive hardware accelerated layouts myself and have actually been thinking and experimenting on how to make something like that on a primitive level with the technology at hand for making responsive apps.<p>I honestly believe you will be able to see something like that in the near future as device gapping technologies gain more momentum.,1423289080.0
+83,9013239,comment,9010978.0,9011334.0,0,0,softwareman,,,"Hi,<p>Its free. Its not even a product, more like a personal project. I haven&",
+84,9013238,comment,9001713.0,9002003.0,0,0,JoblessWonder,,,"So, today it was announced that they knew something was up as early as 12/10:<p>&quot;The company also confirmed Friday that it found that unauthorized data queries with similar hallmarks started as early as Dec. 10 and continued sporadically until Jan. 27.\n... \nThe hackers succeeded in penetrating the system and stealing customer data sometime after Dec. 10 and before Jan. 27, Binns said.&quot;<p><a href=""http://www.sacbee.com/news/nation-world/national/article9480842.html",
+85,9013237,comment,9012938.0,9012938.0,0,0,sulam,,,"First of all, I have never... and I do mean _never_ had a recruiter ask me for my birthdate. I&",
+86,9013236,comment,9007082.0,9008563.0,0,0,spiritplumber,,,And then he proved that black is white and promptly got killed on the next zebra crossing?,1423288817.0
+87,9013235,story,,,2,0,stokedmartin,App for identifying objects,http://camfindapp.com/,,1423288810.0

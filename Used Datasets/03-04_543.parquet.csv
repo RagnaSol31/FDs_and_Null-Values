@@ -1,0 +1,166 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,6325458,comment,6322998.0,6324124.0,1,0,voltagex_,,,The Guruplug and Dreamplug. They&,
+1,6325457,comment,6325341.0,6325341.0,19,0,WestCoastJustin,,,"A few gems in here besides the TrueCrypt statement, mainly that Apple iCloud and Dropbox are named, and the legal framework is touched upon.<p><pre><code>  All cloud stored content are automatically hash-scanned\n  and image-analyzed by their service providers and\n  infringing content reported to NCMEC (p16)\n\n  Mobile content are automatically scanned when they are\n  synced with cloud storage like Apple iCloud or Dropbox.\n  Mobile devices that are not cloud-synced can be accessed\n  by their respective vendors (p16)\n</code></pre>\nIf I am reading this correctly, when you upload something to Apple iCloud or Dropbox, there is a background process which generates a hash of your content, then compares that hash with infringing content? What defense do companies have? What about proof that these claims are true (sources, etc)? Can anyone just leak a document that claims XYZ tech company spies on its users and everyone takes this as fact?<p><pre><code>  Vendors are legally and commercially prevented from\n  acknowledging their backdoors. Defense will not be\n  able to prove their existence (p16)\n</code></pre>\nGreat, <i>blanket denial either way</i>! I hope this is a hoax!",1378267183.0
+2,6325456,comment,6323472.0,6323472.0,1,0,mebreuer,,,If you&,
+3,6325455,comment,6322998.0,6324068.0,1,0,voltagex_,,,I had a FitPC!<p>Do these have the same problem as the other Freescale and Marvel Armada based boards that the GigE is hanging off USB2?,1378267150.0
+4,6325454,comment,6325341.0,6325435.0,10,0,sounds,,,"&quot;Reflections on trusting trust&quot; [1] may be necessary here. When you install Truecrypt, do you download a packaged binary app? Or do you compile it from source? Do you trust your compiler?<p>Until you know what the backdoor actually _is_, please don&",
+5,6325453,comment,6325133.0,6325380.0,2,0,colmvp,,,"> Charges $700 to $800 a month for a desk&quot;<p>Wow. Not even the Hub charges that much and IMO, the Hub has a far better community and workspace.",1378267071.0
+6,6325452,comment,6322468.0,6325407.0,1,0,eevee,,,"As in, Google takes a bigger cut?",1378267033.0
+7,6325451,comment,6321292.0,6322134.0,1,0,toomuchtodo,,,No. First sale doctrine.,1378267008.0
+8,6325450,comment,6322875.0,6322875.0,1,0,joshdotsmith,,,Awesome work on this.<p>Another idea for you: I&,
+9,6325449,comment,6320398.0,6323897.0,15,0,mathgladiator,,,"I wear a shirt that says &quot;Free Hugs&quot;, and I&",
+10,6325448,comment,6325341.0,6325341.0,1,0,azelfrath,,,EDIT:  Ignore that.  I figured a slide show would not skip slides when you use arrow keys for navigation.<p>Can I get a direct quote?  I&,
+11,6325447,story,,,3,2,peterkang,ProjectFlow and the Hard-Learned Lessons from Building a Product,http://www.barrelny.com/blog/projectflow-hard-learned-lessons-from-building-a-product/,,1378266986.0
+12,6325446,comment,6322998.0,6324812.0,1,0,voltagex_,,,I&,
+13,6325445,comment,6324611.0,6325430.0,2,0,smcnally,,,&quot;Bastard child&quot; as IBM is the father to the unwed MSFT?,1378266971.0
+14,6325444,comment,6323472.0,6325025.0,3,0,derekp7,,,This is actually a good thing.  I&,
+15,6325443,comment,6320509.0,6323225.0,2,0,zanny,,,"Ever try playing with plan9? It persuaded me that, yes, the modern tree filesystem sucks, but not because organizing persistent data into heirarchies is bad, but because you don&",
+16,6325442,comment,6325341.0,6325411.0,5,0,D9u,,,"Parallel reconstruction...<p><a href=""http://uk.reuters.com/article/2013/08/07/uk-dea-irs-idUKBRE9761B620130807"" rel=""nofollow"">http://uk.reuters.com/article/2013/08/07/uk-dea-irs-idUKBRE9...</a>",1378266921.0
+17,6325441,comment,6325341.0,6325411.0,4,0,na85,,,Scroll down a bit; all they have to disclose is that the files &quot;were forensically obtained.&quot;,1378266917.0
+18,6325439,comment,6322184.0,6324368.0,2,0,dsuth,,,"It depends on the type of book. For fiction this is definitely true. For textbooks and technical books, there is a massive used market with high resale prices, which is more what I was thinking of. I suspect a lot of these vendors simply won&",
+19,6325438,comment,6324120.0,6325342.0,3,0,MacsHeadroom,,,The US does conduct investigations in accordance with the law without tipping off those investigated.<p>FISA is the law. The PATRIOT Act is the law.<p>The law is corrupt.,1378266873.0
+20,6325437,comment,6322998.0,6323782.0,1,0,voltagex_,,,Don&,
+21,6325436,comment,6324611.0,6324611.0,2,0,smcnally,,,Is it ironic that this GNU/Hurd newsletter is published as PDF? Or is that format now considered sufficiently free?,1378266866.0
+22,6325435,comment,6325341.0,6325341.0,6,0,frenger,,,Truecrypt is open source. Can anyone find the backdoor?,1378266864.0
+23,6325434,comment,6325341.0,6325341.0,19,0,nitrogen,,,Page 16 has some wonderful lines:<p><pre><code>   Fruit of the poisonous tree can be circumvented\n     The use of backdoors cannot be detected or proven\n     Vendors are legally and commercially prevented from\n      acknowledging their backdoors. Defense will not be\n      able to prove their existence\n     The files can be described as forensically obtained</code></pre>,1378266862.0
+24,6325433,comment,6325426.0,6325426.0,2,0,wittedhaddock,,,Apologies for external link. I am limited to 2000 character description.,1378266855.0
+25,6325432,story,,,1,0,jeremynixon,20 Habits that will make you highly successful,http://addicted2success.com/success-advice/20-habits-that-will-make-you-highly-successful/,,1378266844.0
+26,6325431,comment,6309008.0,6313941.0,1,0,EpicEng,,,...fair enough.,1378266834.0
+27,6325430,comment,6324611.0,6325197.0,2,0,abraham_s,,,I wonder what percentage of people will get the VMS reference.,1378266819.0
+28,6325429,comment,6323156.0,6325356.0,0,0,unono,,,The latest moto X has always listening chip inside. That&,
+29,6325428,comment,6321553.0,6325418.0,1,0,vinautomatic,,,"However, I do not agree with letting the general public rate places...this is more something people who&",
+30,6325427,comment,6325341.0,6325417.0,4,0,unimpressive,,,"Mentioning a steganographic technique implies that you use it, negating the point.",1378266789.0
+31,6325426,story,,,33,93,wittedhaddock,17 y/o kicked out of house - seeking devilishly motivated partner,https://docs.google.com/document/d/1ETJKRU16YORFCZ5YRdYEEdgQI9_5fFiaWVyepAp-PJo/edit?usp=sharing,,1378266782.0
+32,6325425,comment,6324215.0,6324769.0,2,0,k4st,,,I&,
+33,6325424,comment,6325241.0,6325241.0,4,0,habosa,,,"Just finished reading, and that was a seriously terrifying article.  I have no idea how anyone could go through all of that work just to have a more muscular body that barely works.  Thank you to the author, writing that is a public service.",1378266744.0
+34,6325423,story,,,1,0,jkirch,"List of web-based code sandboxes, and a few other things.",http://jkirchartz.com/2012/06/sites-to-troubleshoot-code-in-your-browser.html,"If you know of any that I missed, let me know.",1378266726.0
+35,6325422,comment,6325232.0,6325232.0,2,0,shark234,,,"Great experiment, but I wonder how usefull can be a bunch of people playing a game without any knowledge of biomedicine.",1378266723.0
+36,6325421,story,,,1,0,dengutz11,Disadvantages of Hiring Younger Employees,http://www.alleywatch.com/2013/03/disadvantages-of-hiring-younger-employees/,,1378266718.0
+37,6325420,comment,6323472.0,6325331.0,3,0,thezilch,,,I really can&,
+38,6325419,comment,6325241.0,6325241.0,10,0,photorized,,,Bodybuilding with steroids is like launching a startup with VC money.,1378266685.0
+39,6325418,comment,6321553.0,6321553.0,1,0,vinautomatic,,,And really a lot of you are over blowing the issue that there&,
+40,6325417,comment,6325341.0,6325341.0,2,0,peter_l_downs,,,"Worth mentioning that truecrypt volumes can be hidden inside playable video files. Yes, it&",
+41,6325416,comment,6324120.0,6325326.0,2,0,boondocker,,,Rand Paul wants to defund them and was detained by TSA for refusing a pat down. He may very well be the Republican nominee for President in 2016.,1378266647.0
+42,6325415,comment,6318525.0,6323332.0,2,0,likeclockwork,,,I was thinking that &,
+43,6325414,comment,6322998.0,6323491.0,1,0,voltagex_,,,I can get 350mbit-ish out of the Dreamplug - do you know of any small devices with two Ethernet ports that can do better? I&,
+44,6325413,comment,6324215.0,6325381.0,1,0,wololo,,,"Very appreciated, fixing...",1378266570.0
+45,6325412,story,,,3,0,sanketsaurav,Future of confectionery has arrived,http://kitkat.com/,,1378266546.0
+46,6325411,comment,6325341.0,6325341.0,2,0,andrewpi,,,Wouldn&,
+47,6325410,comment,6323603.0,6323603.0,1,0,graeme,,,I have a couple of questions for those who have gone before.<p>I&,
+48,6325409,comment,6325241.0,6325241.0,5,0,sosuke,,,"Bodybuilding with steroids, if we had some drug to make us super smart I imagine the cost would be the same, and I would be tempted by it.<p>Edit: after thinking, I would be afraid of the worst side effect of quitting, just like a steroid user would fear weakness, I would be afraid of my own stupidity",1378266455.0
+49,6325408,story,,,13,0,rb2e,Jonathon Fletcher: forgotten father of the search engine,http://www.bbc.co.uk/news/technology-23945326,,1378266453.0
+50,6325407,comment,6322468.0,6324204.0,1,0,Zaheer,,,Exactly where you just stated yourself... the platform.,1378266442.0
+51,6325406,comment,6323472.0,6325328.0,4,0,human_error,,,Maybe she&,
+52,6325405,comment,6316478.0,6319442.0,1,0,mb_72,,,"In this instance clearly there was no scripting involved; your point addresses a straw man, not the reality of the situation in the original article.",1378266407.0
+53,6325404,comment,6321635.0,6321635.0,1,0,axman6,,,Didn&,
+54,6325403,comment,6323472.0,6325310.0,4,0,jlgreco,,,"Unfortunately you are looking at Classic Maps.  Classic Maps was perfectly usable, I agree.",1378266391.0
+55,6325402,story,,,1,0,dscape,Reset,http://enemygatedown.com/post/59780565568/reset,,1378266383.0
+56,6325401,comment,6324120.0,6325342.0,3,0,lcampbell,,,I&,
+57,6325400,comment,6316478.0,6320270.0,1,0,mb_72,,,"It causes me discomfort, yes, because if a beginner over-estimates what they are doing then they are in for more disappointment when they discover what they are really doing.",1378266335.0
+58,6325399,comment,6323603.0,6323603.0,-1,0,holyjeebis,,,Soon every child will be born with its own &quot;startup&quot;.<p>I&,
+59,6325398,story,,,9,0,ilamont,U.S. documents detail al-Qaedas efforts to fight back against drones,http://www.washingtonpost.com/world/national-security/us-documents-detail-al-qaedas-efforts-to-fight-back-against-drones/2013/09/03/b83e7654-11c0-11e3-b630-36617ca6640f_story.html,,1378266259.0
+60,6325397,comment,6325133.0,6325380.0,13,0,timr,,,"Yes, and it&",
+61,6325396,story,,,1,0,wallflower,Out of Sync: Why eating at the wrong times is tied to negative effects,http://www.the-scientist.com/?articles.view/articleNo/37269/title/Out-of-Sync/,,1378266107.0
+62,6325395,comment,6320398.0,6325046.0,3,0,dredmorbius,,,<i>Solar panels mean a dependence on China</i><p>If you&,
+63,6325394,comment,6324120.0,6324838.0,1,0,nitrogen,,,"For most things, I think 20 years would be too long, as most evil deeds would be irreversible <i>faits accomplis</i> at that point.",1378266097.0
+64,6325393,comment,6325133.0,6325133.0,4,0,cpursley,,,Pure insanity.,1378266074.0
+65,6325392,comment,6320482.0,6321615.0,1,0,packetslave,,,Iterm2 will let you swap option and command.  I also cheat and use Keyboard Maestro to UN-swap Cmd-Tab and Cmd-` so that application switching and window switching still works.,1378266061.0
+66,6325391,story,,,5,3,chadhuber,Tesla 404,http://www.teslamotors.com/404.html,,1378266029.0
+67,6325390,story,,,19,1,t0dd,How a Cabal Keeps Generic Drugs Scarce,http://www.nytimes.com/2013/09/03/opinion/how-a-cabal-keeps-generics-scarce.html?src=me&ref=general,,1378265944.0
+68,6325389,story,,,1,0,Ideorex,Nymi by Bionym,https://www.youtube.com/watch?v=jUO7Qnmc8vE,,1378265913.0
+69,6325388,comment,6322869.0,6323639.0,1,0,anigbrowl,,,"<i>how shortsighted are artists, musicians and producers, who are not thinking of reaching out to fans through interactive digital experiences</i><p>That&",
+70,6325386,comment,6323572.0,6323572.0,1,0,dutchrapley,,,100% awesome.,1378265868.0
+71,6325384,comment,6325233.0,6325233.0,1,0,holyjeebis,,,What does the creepy looking mannequin have to do with the article?,1378265843.0
+72,6325383,comment,6322875.0,6324462.0,2,0,dbarlett,,,"If you have a helicopter and a burning desire to visit all 478 KFC locations in California, give this to your pilot: <a href=""https://dl.dropboxusercontent.com/u/22934979/CA_KFC_LK.jpg"" rel=""nofollow"">https://dl.dropboxusercontent.com/u/22934979/CA_KFC_LK.jpg</a>. I used the 2D Euclidean distance between each location and the Lin-Kernighan heuristic [1], so scaling it out to the entire U.S. wouldn&",
+73,6325382,story,,,2,0,davyjones,Kaprekar_Constant,http://en.wikipedia.org/wiki/Kaprekar_constant,,1378265805.0
+74,6325381,comment,6324215.0,6324215.0,1,0,letney,,,"The console app / bugchecker python script on this page:\n<a href=""http://bugchecker.net/console"" rel=""nofollow"">http://bugchecker.net/console</a><p>needs the BUGCHECKER_API_URL = &",
+75,6325380,comment,6325133.0,6325133.0,24,0,keiferski,,,"<i>Even in the hot San Francisco market, however, RocketSpace appears to be making a 20 percent premium to current office rental prices, based on its 580 desks, leased by some 130 companies. Mr. Logan, who leases space inside two buildings near the old Pacific Stock Exchange, charges $700 to $800 a month for a desk, or table space.</i><p>Yet another example of &quot;sell shovels, don&",
+76,6325379,comment,6324797.0,6324797.0,3,0,snagage,,,I think the only thing &quot;new&quot; here is aws-cli hitting version 1.0.0. It&,
+77,6325378,comment,6322869.0,6322869.0,1,0,j_lane,,,incredible,1378265735.0
+78,6325377,story,,,1,0,frankydp,Syrian group hacks U.S. Marine Corps website,http://www.marinecorpstimes.com/article/20130902/NEWS08/309020019/Pro-Syrian-group-hacks-U-S-Marine-Corps-website,,1378265713.0
+79,6325376,comment,6325318.0,6325318.0,1,0,bigiain,,,"I suspect not.<p>&quot;Secure&quot; email is not zero-cost, and all the obvious monetization opportunities for free email provision inevitably preclude security. If you&",
+80,6325375,comment,6324069.0,6324069.0,1,0,bobfirestone,,,"Companies live and die by sales. The top earners in most companies are commission sales people. The reason for this is really simple, the sales department drives revenue. Every other department from engineering to accounting are expenses.",1378265692.0
+81,6325374,comment,6324526.0,6324526.0,7,0,slurry,,,Coase&,
+82,6325373,comment,6325369.0,6325369.0,1,0,coloneltcb,,,"I usually never post rumors, but this is coming from Om Malik.",1378265622.0
+83,6325372,comment,6324832.0,6325275.0,1,0,yuhong,,,I wonder how does it detect the chipset being used.,1378265615.0
+84,6325371,comment,6315944.0,6316445.0,1,0,gsnedders,,,"On your personal advantage  most high speed train designs are pressure sealed nowadays, so there&",
+85,6325370,comment,6323572.0,6323973.0,1,0,yaddayadda,,,Who exactly are &quot;<i>mormal</i>&quot; people?,1378265547.0
+86,6325369,story,,,2,2,coloneltcb,Apple TV likely on its way for a September 10 launch,http://gigaom.com/2013/09/03/apple-tv-likely-on-its-way-for-a-september-10-launch/,,1378265536.0
+87,6325368,comment,6322475.0,6323350.0,1,0,packetslave,,,I keep mine in a txt file on an IronKey. Something like a secure note in Lastpass would probably work too.,1378265501.0
+88,6325367,comment,6321348.0,6321348.0,1,0,singingfish,,,"I wrote a web programming book three years ago (moderately successful, made back its advance, and got me the career change I was looking for) using a philosophy that has a very similar approach to this.  My approach is:<p>1.  All code examples must lead to a working program, or can be easily integrated into a working program.  Preferably the program has trivial functionality.  Conceptual material must relate back to a working example.<p>2.  Avoid applying excessive cognitive load to the readers.  Human short term memory has a capacity of 72 items.  Your material must be pitched at a level where there is a maximum of five concepts in play at any one time (five being the maximum &quot;guaranteed&quot; short term memory for a healthy adult).  This is much easier to acheive with goal 1 as it the approach guides the writer as to which item needs to be explained next.<p>From that perspective, unix man  pages drive me nuts.  Learning to read man pages is one of the core skills that needs to be developed in order to become an effective user of unix like systems.",1378265471.0
+89,6325366,comment,6325318.0,6325318.0,1,0,unimpressive,,,"As mentioned in the HN guidelines, please don&",
+90,6325365,comment,6322184.0,6322184.0,3,0,Tiktaalik,,,That&,
+91,6325364,comment,6317083.0,6318070.0,1,0,cbhl,,,"If the software you write controls a pacemaker, I would want you to be able to pass the fundamentals of engineering exam. If you&",
+92,6325363,comment,6320398.0,6324853.0,2,0,nitrogen,,,"<i>Though really, all this says is that even under a renewables scheme, we&",
+93,6325362,comment,6325133.0,6325133.0,25,0,swayvil,,,This could be optimized. Catheters. Feeding tubes. Keep everybody naked and shaved. Daily sponge baths.,1378265421.0
+94,6325361,story,,,1,0,mathiashaskell,Explain to me why this is a bad idea,http://pastebin.com/SnBZhgAB,,1378265393.0
+95,6325360,comment,6320398.0,6321006.0,2,0,PebblesRox,,,I&,
+96,6325359,comment,6320398.0,6320952.0,1,0,tedks,,,"The problem with both of those plans is that they involve attacking humans, in crowded places where heavily armed forces will rapidly respond and probably kill you as an attacker.<p>Terrorism now is focused more on systems disruption. Buy a $300 bomb, go to any one of bazillions of miles of pipeline, blow it up, cost the USG/Shell Corporation millions. Buy a cheaper bomb, go to any power substation, blow it up, cost the economy however much it loses and as a bonus, cost the government a bit of legitimacy as its denied the opportunity to provide services to its citizens.<p>If you truly are that confident, I&",
+97,6325358,story,,,1,0,monster007, ,http://www.youthstylejp.com/bottega-venetabr--c-132.html,Bottega Veneta 2-6 ,1378265238.0
+98,6325357,comment,6320482.0,6320482.0,1,0,donniezazen,,,I am not a developer but am learning programming. I picked up vim and have slowly build memory muscle for it for at least basic commands. I have never use Emacs. It seems to be quite popular. Is it worth learning? Is there a decisive answer to Emacs vs vim?,1378265196.0
+99,6325356,comment,6323156.0,6324796.0,1,0,briancaw2,,,"Based on what?  The only example we have of human intelligence is human intelligence, and we&",
+100,6325355,comment,6323572.0,6325262.0,5,0,fnordfnordfnord,,,">A success of honesty and humanity<p>That may be just a bit much.<p>I liked the rest of it though, it is fun.",1378265067.0
+101,6325354,comment,6323472.0,6325120.0,3,0,iopq,,,There&,
+102,6325353,comment,6323472.0,6324990.0,1,0,djt,,,It will be interesting to see how the new design of iOS 7 goes with this in mind.,1378265057.0
+103,6325352,comment,6323472.0,6325265.0,3,0,djt,,,Is your distraction his problem though?,1378265018.0
+104,6325351,comment,6324797.0,6325231.0,2,0,jevinskie,,,Amazon doesn&,
+105,6325350,comment,6319870.0,6321551.0,1,0,pbhjpbhj,,,"A graphical example of a Cartesian join - <a href=""http://web.utk.edu/sas/OnlineTutor/1.2/en/60477/m71/m71_3.htm"" rel=""nofollow"">http://web.utk.edu/sas/OnlineTutor/1.2/en/60477/m71/m71_3.ht...</a>.",1378264977.0
+106,6325349,story,,,1,0,giis,Semicolon at end of python's statements,http://code.activestate.com/lists/python-list/649858/,,1378264970.0
+107,6325348,comment,6318634.0,6324716.0,1,0,xtracto,,,>/root/languagegame/languagegame/db.py<p>Running the web-page under root sounds dangerous.,1378264953.0
+108,6325347,comment,6322869.0,6323830.0,3,0,impressive,,,Bit.Trip Runner was not this difficult. And it&,
+109,6325346,comment,6320482.0,6322840.0,1,0,nonrecursive,,,Thank you!,1378264938.0
+110,6325345,story,,,6,0,silvio,Scientists show how antibiotics enable pathogenic gut infections,http://med.stanford.edu/ism/2013/september/sonnenburg.html,,1378264896.0
+111,6325344,comment,6324215.0,6325054.0,2,0,wololo,,,Done.,1378264891.0
+112,6325343,comment,6318522.0,6320023.0,2,0,pmelendez,,,"1) Somebody already told you this, only iDevices hold the value, everything else would value peanuts after a couple of months.\n2) This happens with Apple too.\n3) I don&",
+113,6325342,comment,6324120.0,6325192.0,2,0,mpyne,,,I wasn&,
+114,6325341,story,,,129,58,jhickner,"""Forensics for Prosecutors"" mentions backdoor in TrueCrypt (page 15) [pdf]",http://cryptome.org/2013/09/computer-forensics-2013.pdf,,1378264873.0
+115,6325340,comment,6320398.0,6324293.0,-1,0,tedks,,,Almost none of those are good ideas. Walking alone is an exception; it&,
+116,6325339,comment,6322869.0,6324948.0,2,0,braco_alva,,,AFAIK it only does NaCl besides their Web Player.,1378264790.0
+117,6325338,comment,6324797.0,6324988.0,1,0,jevinskie,,,Thank you for this no-nonsense layout of the situation. =) Can you elaborate more on how this FOSS Github-er was picked up by Amazon? It sounds like a story that many here would like to replicate!,1378264777.0
+118,6325337,comment,6323297.0,6323297.0,2,0,ioddly,,,Props for using Redis. I&,
+119,6325336,comment,6323472.0,6325323.0,5,0,graeme,,,I&,
+120,6325335,comment,6322352.0,6324522.0,2,0,sk5t,,,Prisoners beget _revenue_ for the prison system.  It is of no consequence that prisoners&,
+121,6325334,comment,6323472.0,6325310.0,6,0,ihnorton,,,"No, it is not. The new maps does not have a print button:<p><a href=""http://productforums.google.com/forum/",
+122,6325333,comment,6321940.0,6322833.0,2,0,twiceaday,,,kettle corn,1378264661.0
+123,6325332,comment,6320482.0,6321769.0,1,0,chromejs10,,,I&,
+124,6325331,comment,6323472.0,6325021.0,10,0,graeme,,,I think you misread pg&,
+125,6325330,comment,6322869.0,6325258.0,2,0,Poiesis,,,I had similar problems with WebGL on Firefox (Ubuntu) that went away when I upgraded to 23.,1378264634.0
+126,6325329,comment,6322869.0,6323830.0,6,0,jerf,,,"Yes, but look how they do it. The music never skips a beat and certainly never cuts to straight silence, and Runner taps his feet for an appropriate number of beats so he launches himself at the right time. It&",
+127,6325328,comment,6323472.0,6323472.0,1,0,tghw,,,"I find it very hard to have sympathy for someone who says <i>&quot;For better or worse, email takes up a large part of my work life.&quot;</i> and then chooses to use a free, ad-supported email service.<p>If this is such a crucial tool for you, then you should be willing to pay a reasonable price for something you&",
+128,6325327,comment,6325133.0,6325133.0,4,0,mathattack,,,"Yearn for privacy? Headphones are the new cubicle, he said.",1378264486.0
+129,6325326,comment,6324120.0,6324661.0,3,0,Amadou,,,<i>Politicians won&,
+130,6325325,comment,6322184.0,6324167.0,1,0,eric_the_read,,,"&quot;Kindle X&quot; has meant both hardware and service for quite a while now. I own a few Kindle books, and have rented dozens from my library, but do not yet own a Kindle device.",1378264421.0
+131,6325324,comment,6322184.0,6324167.0,1,0,eric_the_read,,,"&quot;Kindle X&quot; has meant both hardware and service for quite a while now. I own a few Kindle books, and have rented dozens from my library, but do not yet own a Kindle device.",1378264420.0
+132,6325323,comment,6323472.0,6324644.0,1,0,tene,,,It works just fine for me in chrome on my six-year-old laptop.  What browser are you using?,1378264389.0
+133,6325322,comment,6322998.0,6325247.0,2,0,rwg,,,Looks like there&,
+134,6325321,comment,6322869.0,6322869.0,2,0,jpalioto,,,Here&,
+135,6325320,comment,6320398.0,6324271.0,2,0,anigbrowl,,,"I disagree. There have been lots of low-level safety violations, and it&",
+136,6325319,comment,6320398.0,6324808.0,3,0,tedks,,,"If the only way humans could learn was through directly physical stimuli, we&",
+137,6325318,story,,,2,4,bndt,"Nerds,  Are there any free ""secure"" email services left out there?  -Aidan Black",,"Nerds, \nAre there any free &quot;secure&quot; email-services left out there?<p>-Aidan Black\n blackandtroy\n black@blackandtroy.com",1378264268.0
+138,6325317,comment,6323572.0,6324693.0,8,0,xtracto,,,Oh come on... leave this kind of stupid things for reddit or slashdot.,1378264255.0
+139,6325316,comment,6318522.0,6321070.0,3,0,pmelendez,,,I think your definition of nobody is very narrow. Wp8 is the second best seller platform in Latinamerica.,1378264245.0
+140,6325315,comment,6322184.0,6324880.0,2,0,clarky07,,,"I have no idea who downvoted this comment, but it is very true. The cost of a book is the cost of making and marketing it. Paper is really cheap. Obviously it is more expensive than bits, but not significantly.",1378264238.0
+141,6325314,comment,6323572.0,6324310.0,9,0,larsbot,,,"But there are so many more apple apps!<p>apple pie, apple fritters, apple juice, apple cider, apple jacks, apple crisp, apple cake, apple butter, apple muffins, apple brown betty, apple turnovers, apple strudel, apple tart, baked apples, apple sauce, caramel apples, apple dumplings, apple chutney, apple crumble, ...<p>also with KitKat, thanks to fragmentation if you aren&",
+142,6325313,comment,6324965.0,6324965.0,1,0,bobfirestone,,,If you want to teach professionally in a formal school setting you are going to need a degree and the appropriate teaching credentials.<p>There is a lot you can do to start spreading knowledge today. Start with presenting at your local user group. There is always a need for high quality screencasts.,1378264211.0
+143,6325312,comment,6324651.0,6324891.0,7,0,Killah911,,,Figuring out how to deal with the 750ms ping latency was a pain at first.  Held our breath when the ViaSat Satellite launched.  The rockets that were launched right before that mission didn&,
+144,6325311,comment,6320482.0,6321927.0,1,0,creese,,,Having two control keys is really useful because then you can alternate hands. My layout looks like this:<p>[super] - [left meta] - [left control] - [space] - [right control] - [right meta]<p>Having control and meta right next to each other also makes C-M-* combinations easier to reach.,1378264173.0
+145,6325310,comment,6323472.0,6325211.0,1,0,tene,,,It&,
+146,6325309,comment,6325232.0,6325297.0,3,0,robotgal,,,"Great feedback, will do!",1378264085.0
+147,6325308,story,,,1,0,amasad,Building Web Apps: Using the right tool for the job,https://medium.com/tech-talk/7e0831bc19bc,,1378264080.0
+148,6325307,comment,6322475.0,6324241.0,1,0,jevinskie,,,Yup. I was not aware that some phone numbers were more equal than others when it comes to SMS service.,1378264064.0
+149,6325306,comment,6322008.0,6325036.0,2,0,eevee,,,"> Actually, as a matter of fact, <i>it isn&",
+150,6325305,comment,6324651.0,6324651.0,19,0,Killah911,,,Cool to see this on HN.  I was a software architect on the project and helped design a good chunk of the system :-),1378264003.0
+151,6325304,comment,6321940.0,6322833.0,2,0,eru,,,Krapfen!,1378263979.0
+152,6325303,comment,6323472.0,6325204.0,3,0,thezilch,,,Here&,
+153,6325302,story,,,3,0,simantel,Of Irreverence and Irrelevance: A Yahoo Redesign,https://medium.com/impossible-shapes/cba88884743c,,1378263952.0
+154,6325301,comment,6324797.0,6324797.0,1,0,djrobstep,,,"If anybody is after similar s3 functionality within python, I wrote a small python wrapper around boto a while back that does similar parallel/multipart upload to s3, and a bunch of other AWS stuff: <a href=""https://github.com/djrobstep/motorboto"" rel=""nofollow"">https://github.com/djrobstep/motorboto</a>",1378263950.0
+155,6325300,comment,6323472.0,6323472.0,4,0,dmourati,,,You know what I like about the new Gmail compose?  Nothing.,1378263934.0
+156,6325299,comment,6305671.0,6306524.0,1,0,rlanday,,,"I think there are a lot of people who claim to not be influenced by advertising but actually are. Just because youre not clicking on ads doesnt mean theyre not succeeding at influencing your behavior:<p><a href=""http://www.nielsen.com/us/en/newswire/2009/is-the-ad-biz-through-with-click-through.html"" rel=""nofollow"">http://www.nielsen.com/us/en/newswire/2009/is-the-ad-biz-thr...</a>",1378263921.0
+157,6325298,comment,6321940.0,6323642.0,1,0,eru,,,"Actually, Google might not need permission for the trademark, if the trademark only covers candy.",1378263869.0
+158,6325297,comment,6325232.0,6325232.0,15,0,NotHereNotThere,,,"Sorry, but requiring a social network account to play this is simply ridiculous.  Provide alternative options if you want this to catch on.",1378263856.0
+159,6325296,comment,6322875.0,6322875.0,2,0,smokestack,,,"maps.google.com does this exactly with a few extra clicks:<p>Click &quot;Get directions&quot; button, click the &quot;Add Destination&quot; link, fill in A, B, and C then click the &quot;Did you mean a different...&quot;",1378263757.0
+160,6325295,comment,6320482.0,6322123.0,4,0,barbs,,,I don&,
+161,6325294,comment,6323064.0,6324865.0,1,0,matheusbn,,,Hehe that was funny! Thanks.,1378263701.0
+162,6325293,story,,,2,0,cdvonstinkpot,"Syrian Electronic Army hacks US Marines, asks 'bros' to fight on its side",http://www.theregister.co.uk/2013/09/03/sea_hits_marines/,,1378263666.0
+163,6325292,comment,6322352.0,6324522.0,1,0,beedogs,,,"> <i>Most slaves turn a profit, while most prisons require funding.</i><p>Not even relevant in private prisons, many of which put their prisoners to work and provide third-world wages to their inmates.  And the funding comes from the government.",1378263636.0
+164,6325291,comment,6322352.0,6324387.0,1,0,anigbrowl,,,<i>I don&,

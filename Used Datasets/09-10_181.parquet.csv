@@ -1,0 +1,134 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,9413053,comment,9409815.0,9412674.0,0,0,cygx,,,"The C standard does not specify the representation of null pointers, nor does it allow arithmetics with invalid pointers.<p>Eg the conversion (void *)0 might result in a value with all bits set and member access will overflow.<p>Another example would be hardware that raises a signal when encountering an invalid value during address calculations.<p>In practice, the address calculation will work as expected (ie I&",
+1,9413052,story,,,1,0,simas,Take It from Snapchat – Messaging Is the Medium,http://www.wired.com/2015/04/imran-khan/,,1429610364.0
+2,9413051,comment,9407511.0,9409007.0,0,0,loopbit,,,And that is the country (and the law) I was referring to.,1429610362.0
+3,9413049,comment,9407511.0,9409272.0,0,0,loopbit,,,India? Wow you&,
+4,9413048,comment,9412872.0,9412872.0,0,0,SunShiranui,,,It is paywalled.,1429610275.0
+5,9413047,comment,9399394.0,9399899.0,0,0,lazylizard,,,um. i&,
+6,9413046,comment,9408626.0,9409218.0,0,0,CrLf,,,"It already supports it: <a href=""http://nginx.org/en/docs/http/ngx_http_upstream_module.html",
+7,9413045,comment,9412157.0,9412157.0,0,0,mahmud,,,tl;dr?,1429610205.0
+8,9413044,story,,,2,0,ntippman,How to run effective medtech design reviews,http://medcitynews.com/2015/04/effective-medical-device-design-reviews/,,1429610185.0
+9,9413043,comment,9412733.0,9412733.0,0,0,deepGem,,,Or... just drink Soylent. Don&,
+10,9413041,comment,9412733.0,9413025.0,0,0,icebraining,,,"<a href=""https://www.youtube.com/watch?v=YIp_zhBIZ7s"" rel=""nofollow"">https://www.youtube.com/watch?v=YIp_zhBIZ7s</a>",1429610061.0
+11,9413040,story,,,1,0,didntlogin,Ask HN: Soon-to-be-graduate looking for some career advice,,"I live in India, and am about to complete a Bachelor&",
+12,9413039,story,,,1,0,helppier,Promote news and show new features using Helppier,http://www.helppier.com/,,1429610035.0
+13,9413038,story,,,1,0,eriklarsson,11 Email Templates for Collecting Late Payments from Clients Faster,http://blog.juntoo.co/email-templates-for-collecting-late-payments-from-clients/,,1429609999.0
+14,9413037,comment,9412733.0,9412946.0,0,0,onion2k,,,<i>For example frozen vegetables from the supermarket have higher nutrient contents then from the farmers market because they get deep frozen so shortly after harvest.</i><p>To a statistically significant degree?,1429609994.0
+15,9413036,comment,9412600.0,9412715.0,0,0,Gounemond,,,"Sickness comes from two places: how the &quot;game&quot; is made, and how much are you resilient against sickness.<p>For instance, when I tried DK1 for the first time, I was able to test many demos for like 45 minutes, and I didn&",
+16,9413035,comment,9407721.0,9408993.0,0,0,tempodox,,,You speak of <i>...compressing down to CD quality</i>.  That&,
+17,9413034,comment,9412733.0,9413025.0,0,0,MrDosu,,,Doritotrees?,1429609958.0
+18,9413033,comment,9408881.0,9411478.0,0,0,cushychicken,,,Thanks for all these great answers you&,
+19,9413032,comment,9412733.0,9412733.0,0,0,Kiro,,,I have an issue with ,
+20,9413031,comment,9412733.0,9412733.0,0,0,csallen,,,I&,
+21,9413030,comment,9412045.0,9412045.0,0,0,1971genocide,,,"This is really good news. Unlike the US it seems these companies need to proof that they can turn a profit.<p>Economists have been crying out &quot;bubble bubble !&quot; on china for 10 years. The science of capital as applied to western countries do not apply to a system like china where there are so many SOE. Imagine if economists applied the same type of thinking during WW2 and the space race.<p>China seems to be in a similar &quot;war&quot; mode, with there economy. This is a good thing since their goal seem to be allow billions of asians to have the same level of living standard as western countries.<p>The growth of tech outside of silicon valley is good news for everyone. It creates an alternate market for competition, rather than the current monoculture.",1429609872.0
+22,9413029,story,,,1,0,GarethX,A “Fast Code” Culture,http://lifeimitatescode.com/writing/a-fast-code-culture/,,1429609842.0
+23,9413028,comment,9412927.0,9412927.0,0,0,pinzlert,,,Reading the headline I automatically thought that BackBerry was finally acquired. My brain is waiting for that news :),1429609781.0
+24,9413027,comment,9410092.0,9410092.0,0,0,nemexy,,,"The Night Watch by Sir Terry Pratchett. \nI have always liked his Discworld series, though two books had a bigger place in my heart : The Small Gods and The Night Watch. The first book was given to me as a young teenager, looking through his way to live and I am pretty sure that it took a huge part of my religious beliefs later(not exactly atheism, but agnosticism mostly).<p>But The Night Watch... It&",
+25,9413025,comment,9412733.0,9412948.0,0,0,qnaal,,,where do we get doritos,1429609750.0
+26,9413024,comment,9407202.0,9407321.0,0,0,elmar,,,"You are right on, on your argument, we simply can&",
+27,9413023,comment,9410592.0,9410592.0,0,0,alexiaodesk,,,"I work at oDesk and am very sorry to hear you had this experience. Clients should never request any type payment from a freelancer, including payment to start a contract or buy software. For your protection, all financial transactions should take place on oDesk. The best thing to do in these situations is exactly what you did: contact the oDesk support team so they can investigate and advise you on the best course of action. Please note that the team does need some time to do a full investigation, however I&",
+28,9413022,comment,9412733.0,9412922.0,0,0,dschiptsov,,,"There is a so much of nonsense about food that it is worth it to look back at some traditional or tribal eating habits.<p>For example, traditionally, majority of the Nepalese population is eating white rice with some kind of lentil curry and seasonal vegetables two times a day basically  <i>whole year</i> and remain healthy and not overweight due to their active, working lifestyle. Modern memes are telling us  that white rice is almost poisonous, despite the fact that more than half of the world population (almost whole Asia) feed on it.<p>Tibetans, Sherpas and other Himalayan tribes are still rely heavily on cow/nak butter (the main commodity and the source of nutrition) and Tsampa (rusted barley flour) which they consume on a daily basis in the form of so-called Sherpa tea (butter, Tsampa, hot watter, sugar or salt) or in a form of bread-like mass (same ingredients). According to modern memes this is a disastrous diet, but, you see, these people are healthy and happy.<p>I could go on, about various tribes of India or Sri Lanka (mostly rise and veges). The picture will be almost the same. Simple, homemade food and not being a couch potato makes it.<p>There is no problem with traditional foods. The problems are with the food industry and its commercial products which, being aggressively marketed, altered the traditional eating habits.<p>As for myself, I could confirm that especially in high altitudes (in Himalayas) the tribal eating habits, which I follow happily, are the evolved balance for energy storage and intake, according with the harsh conditions, seasons and available food sources. There is no alternative in calories efficiency to the a half-kilo lump of nak butter (just cream, no additions) and a small bag of Tsampa for weeks-long crossing of the ridges in Himalayas.",1429609698.0
+29,9413020,comment,9410700.0,9412647.0,0,0,onion2k,,,<i>You could probably make some interesting demographic observations on the basis of this data.</i><p>That HN readers are unusually interested in millinery.,1429609635.0
+30,9413019,comment,9409934.0,9412029.0,0,0,spinningarrow,,,"Try Singlish (<a href=""http://en.wikipedia.org/wiki/Singlish_vocabulary"" rel=""nofollow"">http://en.wikipedia.org/wiki/Singlish_vocabulary</a>). Combined with their accent, it&",
+31,9413018,story,,,1,0,sudheendrach,Who's your competitor?,http://sudheendra.com/post/116816516090/whos-your-competitor,,1429609572.0
+32,9413017,comment,9412600.0,9412600.0,0,0,wobbleblob,,,Now I&,
+33,9413016,comment,9410700.0,9412982.0,0,0,onion2k,,,If you&,
+34,9413014,comment,9412398.0,9412931.0,0,0,crdoconnor,,,>I&,
+35,9413013,comment,9409017.0,9412241.0,0,0,hrnnnnnn,,,"<a href=""http://en.wikipedia.org/wiki/Hindustani_classical_music",
+36,9413012,comment,9409423.0,9411746.0,0,0,ghodss,,,But it&,
+37,9413011,comment,9407439.0,9408340.0,0,0,tripzilch,,,"I wonder in what way the web would look different today, if Google had been acquired and became a mere footnote in Yahoo&",
+38,9413010,comment,9372303.0,9375358.0,0,0,72deluxe,,,"Stops the entire process dying though, so you can keep on serving?",1429609489.0
+39,9413009,comment,9408942.0,9412803.0,0,0,benev,,,"I ran a Tor exit node for about nine months and only ever had two complaints sent to me. Both were for people performing some form of hacking through my exit node. I responded to both with a form letter, and that was that. Granted it was a low bandwidth exit node.<p>I hear US-based nodes get more legal attention because of the DMCA, but I can&",
+40,9413008,comment,9412968.0,9412981.0,0,0,djug,,,Not a single post in 2 years :D<p>I  hope this will change after the release of PHP7,1429609481.0
+41,9413007,comment,9410592.0,9412245.0,0,0,scottydelta,,,"I am not sure, I knew he was a scammer and wanted to see how this plays out :P",1429609456.0
+42,9413005,comment,9409934.0,9409934.0,0,0,72deluxe,,,He should change his taste in modern music instead of listening to old old old music. Just because it is modern does not mean that it is agitated and aggressive.,1429609448.0
+43,9413003,comment,9410700.0,9411872.0,0,0,onion2k,,,Likewise. Maybe a financial incentive to stay in your current role rather than accepting a promotion.,1429609370.0
+44,9413002,comment,9412733.0,9412860.0,0,0,holri,,,"Because you do not have an industrial process at home.<p>Industrialization does not fit well with food production. Because price optimization through division of fixed costs leads to standardized high volume products. But it is diversity that is healthy, tastes good and is natural.",1429609327.0
+45,9413001,comment,9412934.0,9412934.0,0,0,dang,,,Please don&,
+46,9413000,story,,,7,0,virmundi,Show HN: Waller – Clojure's Ragtime Migrator for ArangoDB,https://github.com/deusdat/waller,,1429609284.0
+47,9412999,story,,,1,0,SudeepSirur,7 Project Management Tools that will change the way you work,http://blog.venturepact.com/7-project-management-tools-having-a-mammoth-user-base-of-70114000?utm_campaign=Content%20Curation%20Networks&utm_medium=social&utm_source=hackernews,,1429609279.0
+48,9412998,comment,9412600.0,9412914.0,0,0,thewarrior,,,"I too read it as noise. This happens to me very often these days , don&",
+49,9412997,comment,9409934.0,9410990.0,0,0,octatoan,,,Burritos!,1429609164.0
+50,9412996,comment,9408009.0,9409846.0,0,0,madaxe_again,,,"A century is imminent as it is, unless you think only in single-life timescales, and a two foot rise will be enough to make Miami economically unviable - as above, sewerage - and fresh water - will be severely impinged by a moderate rise.<p>That&",
+51,9412995,comment,9408881.0,9410287.0,0,0,lmm,,,aninhumer was (and may still be) doing something similar-sounding with bluespec; you may like to talk to him.,1429609123.0
+52,9412994,comment,9409854.0,9411776.0,0,0,dagw,,,"Daredevil is fine, but it certainly isn&",
+53,9412993,comment,9412600.0,9412641.0,0,0,taloft,,,I haven&,
+54,9412992,comment,9412733.0,9412733.0,0,0,richardwigley,,,Avoiding processed food should be what Cartman would call &,
+55,9412991,comment,9412442.0,9412442.0,0,0,DanBC,,,"People who complain about downvote for disagreement all say the same thing: &quot;downvotes turn comments grey and thus hide the conversation&quot;.<p>No.<p>Downvoting will only turn a comment grey if none of the ten thousand logged in users thinks your post is good enough to upvote, and if someone downvotes it.<p>Greyed comments are not the result of one or two down-vote abusing people but the result of very many people thinking your comment doesn&",
+56,9412990,story,,,1,0,ripitrust,CLion 1.0 Out,https://www.jetbrains.com/clion/,,1429608960.0
+57,9412989,story,,,1,0,Sami_Lehtinen,Tableau 9.0 Query Performance Improvements,https://www.tableau.com/about/blog/2015/1/90-preview-query-performance-improvements-36406,,1429608947.0
+58,9412988,comment,9389606.0,9389606.0,0,0,gurushackers,,,We are the real deal in all degree of hacking.\nSuperb Hackers have proofs with confirmation\nfrom our numerous clients around the world.\nOur job is done without any trace. We render\nthe following services at an affordable price.\n+University grades changing\n+Facebook hack\n+email interception hack\n+email accounts hack\n+Grade Changes hack\n+Website crashed hack\n+Word Press Blogs hack\n+Retrieval of lost file/documents\n+Erase criminal records hack\n+Databases hack\n+Sales of Dumps cards of all kinds\n+Untraceable Ip\n+Bank accounts hack\n+Individual computers hack\n+Websites hack\n+Control devices remotely hack\n+Burner Numbers hack\n+Verified Paypal Accounts hack\n+Any social media account hack\n+Android & iPhone Hack\n+server crashed hack\n+Text message interception hack\n+Twitters hack\n+Skype hack\n+Credit cards hacker\n+We can drop money into bank accounts.\nWe can also teach you how to do the following\nwith our e-book and online tutorials\n* Hack and use Credit Card to shop online\n* Monitor any phone and email address\n* Tap into anybody&,
+59,9412987,comment,9412923.0,9412923.0,0,0,mhax,,,"This is actually really well done. Nothing new technically, but presented really well.<p>(I thought this was going to be another posing of <a href=""https://mosh.mit.edu/"" rel=""nofollow"">https://mosh.mit.edu/</a>)",1429608854.0
+60,9412986,comment,9409854.0,9411776.0,0,0,personlurking,,,Daredevil is no doubt good but I wouldn&,
+61,9412984,comment,9411688.0,9411688.0,0,0,vipulg,,,I know - startupstash.com and Getapp.com,1429608707.0
+62,9412983,comment,9409934.0,9409934.0,0,0,nemoniac,,,Nice article but are you sure you want to end the article with a &quot;Contact me&quot; link?,1429608691.0
+63,9412982,comment,9410700.0,9411731.0,0,0,Already__Taken,,,I wouldn&,
+64,9412981,comment,9412968.0,9412968.0,0,0,kluck,,,Before I clicked the link I thought: That is going to be a short read ... and it was ;),1429608609.0
+65,9412980,comment,9412600.0,9412641.0,0,0,merrua,,,Apparently that indicates you are more than likely male. VR sickness affects women at a higher rate than men. It&,
+66,9412979,comment,9412398.0,9412782.0,0,0,shele,,,"A tale: <a href=""http://alistair.cockburn.us/Thinking+before+programming"" rel=""nofollow"">http://alistair.cockburn.us/Thinking+before+programming</a>",1429608558.0
+67,9412978,story,,,3,1,octatoan,"Underwater Street View, now at a Loch Ness near you",https://www.google.com/maps/views/streetview/loch-ness-scottish-highlands?gl=us,,1429608547.0
+68,9412977,comment,9412733.0,9412860.0,0,0,rwmj,,,"One reason is it takes time and resources to process food at home, limiting what you can eat.  I don&",
+69,9412976,comment,9412398.0,9412904.0,0,0,noonespecial,,,We rather enjoy the &quot;Conch in Lord of the Flies&quot; vibe the current setup imparts.,1429608480.0
+70,9412975,comment,9412192.0,9412544.0,0,0,DanBC,,,"For an example of this not working: <a href=""https://news.ycombinator.com/item?id=9402506"" rel=""nofollow"">https://news.ycombinator.com/item?id=9402506</a>",1429608459.0
+71,9412974,comment,9410968.0,9412768.0,0,0,BSousa,,,Don&,
+72,9412973,comment,9409681.0,9412809.0,0,0,jospoortvliet,,,I recognized the feeling/fear of going insane. One of my mushroom trips I had the same thing - not exactly fun. I&,
+73,9412972,comment,9408750.0,9411952.0,0,0,whoopdedo,,,It is unclear whether sexual selection impedes or facilitates natural selection [1]. Sexual selection can happen just because. A female who prefers chins will give birth to sons with chins and daughters who like chins. It&,
+74,9412971,comment,9406704.0,9410660.0,0,0,ido,,,"<p><pre><code>    I wonder if the equipment to farm to feed those people\n    would actually weigh less than the people\n</code></pre>\nI would certainly think so, considering how advanced modern farming tech is (or even 50 years old farming tech). 4.3m people plus food/water/other stuff they need to survive a couple weeks on a ship (plus then transporting them overland to wherever) weighs A LOT, fuel & vessels to transport them are also not trivial.<p>The farm equipment also doesn&",
+75,9412970,story,,,1,0,enra,"As a Leader, Take Longer Vacations",http://boz.com/articles/take-longer-vacations.html,,1429608292.0
+76,9412969,comment,9412025.0,9412025.0,0,0,Daviey,,,"Skyfaring, the book referenced in the article is the current narrated book of the week on BBC Radio 4.<p><a href=""http://www.bbc.co.uk/programmes/b05q0tw0/episodes/guide"" rel=""nofollow"">http://www.bbc.co.uk/programmes/b05q0tw0/episodes/guide</a>",1429608272.0
+77,9412968,story,,,5,3,djug,PHP: The Good Parts,http://phpthegoodparts.tumblr.com/,,1429608264.0
+78,9412967,comment,9412442.0,9412495.0,0,0,mg1982,,,Don&,
+79,9412966,comment,9409744.0,9412368.0,0,0,draven,,,It never occurred to me to consider the performance per watt of CUDA vs C/C++/Fortan on the CPU (instead of only raw performance.) So one should consider CUDA only if they want to favor raw performance over cost? (and only if their algorithms yield a significant improvement when implemented to run on a GPU.),1429608239.0
+80,9412965,comment,9409854.0,9412439.0,0,0,lostfocus,,,Same here in Germany.,1429608169.0
+81,9412964,comment,9410429.0,9412799.0,0,0,noir_lord,,,"Why?<p>Sequence data is series of huge strings, perl is famed for its string handling.<p>I don&",
+82,9412963,comment,9412192.0,9412192.0,0,0,DanBC,,,I have high karma. Very few articles I submit make it to the front page.,1429608141.0
+83,9412962,story,,,1,0,topprospect777,Fellow (Beta) – Save and Share articles with your friends,http://www.joinfellow.com/,,1429608141.0
+84,9412961,comment,9410429.0,9410429.0,0,0,yoanizer,,,tl;dr,1429608118.0
+85,9412960,comment,9409854.0,9412167.0,0,0,sschueller,,,Netflix is making the same mistakes. They sold the rights of &quot;House of Cards&quot; to Sky Television preventing anyone from watching season 3 in most of Europe.,1429608090.0
+86,9412959,comment,9412600.0,9412866.0,0,0,darkmighty,,,"Both lack accomodation (i.e. focus). This is the ultimate display [type]:<p><a href=""http://web.media.mit.edu/~gordonw/Focus3D/"" rel=""nofollow"">http://web.media.mit.edu/~gordonw/Focus3D/</a>",1429608059.0
+87,9412958,story,,,2,0,datsun,India’s fight for net neutrality,http://www.bbc.com/news/world-asia-india-32313704,,1429608024.0
+88,9412957,comment,9410429.0,9412799.0,0,0,supercoder,,,What would you recommend should be the alternative,1429607960.0
+89,9412956,story,,,42,67,yitchelle,"Live small, be happy? The next new big thing",http://www.bbc.com/capital/story/20150420-why-small-is-the-new-big-thing,,1429607940.0
+90,9412954,comment,9412192.0,9412544.0,0,0,dang,,,The opposite is true. That is a likely way to get your posts penalized.,1429607898.0
+91,9412953,comment,9409815.0,9411527.0,0,0,lmm,,,"People would compile &quot;paranoid C&quot; with a normal C compiler (perhaps there is no paranoid C compiler for their platform). If your code is silently broken on some compilers, that&",
+92,9412951,comment,9409794.0,9411581.0,0,0,jacalata,,,It&,
+93,9412950,comment,9412943.0,9412943.0,0,0,jospoortvliet,,,He&,
+94,9412949,comment,9412600.0,9412600.0,0,0,awestroke,,,"Does that mean that path tracing engines like Brigade[1] fit well with VR?<p>[1]: <a href=""https://www.youtube.com/watch?v=BpT6MkCeP7Y"" rel=""nofollow"">https://www.youtube.com/watch?v=BpT6MkCeP7Y</a>",1429607794.0
+95,9412948,comment,9412733.0,9412882.0,0,0,MrDosu,,,"This is science fiction, we can&",
+96,9412947,comment,9409815.0,9411602.0,0,0,lmm,,,"> The C standard was apparently written in order to allow compilers to introduce subtle security holes into previously-working code, all in the name of a fraction of a percent of performance increase.<p>Yes it was. Or at least, that&",
+97,9412946,comment,9412733.0,9412860.0,0,0,MrDosu,,,This is a common misconception. For example frozen vegetables from the supermarket have higher nutrient contents then from the farmers market because they get deep frozen so shortly after harvest.<p>Personally I don&,
+98,9412945,comment,9412494.0,9412569.0,0,0,alanfranzoni,,,You&,
+99,9412944,story,,,1,0,emkt,Evolving Infrastructure Landscape for Data Intensive Computing,https://in.uninett.no/evolving-infrastructure-for-data-intensive-computing/,,1429607628.0
+100,9412943,story,,,2,1,comice,Don't tell your audience you're ill-prepared,http://johnleach.co.uk/words/2376/dont-tell-your-audience-youre-ill-prepared,,1429607574.0
+101,9412942,comment,9412927.0,9412927.0,0,0,ilhackernews,,,This makes a lot of sense on Blackberry&,
+102,9412941,comment,9409934.0,9409934.0,0,0,evjan,,,"I did something similar in 2013, see my blog: <a href=""http://peterevjan.com/posts/a-week-of-no-media-consumption/"" rel=""nofollow"">http://peterevjan.com/posts/a-week-of-no-media-consumption/</a><p>In the end, it forced me to be more creative and social, but didn&",
+103,9412940,story,,,3,0,aeno,The µ PHP Microframework,https://github.com/jeremeamia/mu,,1429607544.0
+104,9412939,comment,9408626.0,9412258.0,0,0,jospoortvliet,,,"I agree with you, but knowing a little how hard it is to stay smart about this as an open source company, I understand why it went wrong. The Open Source Way is surprisingly hard to understand and the pressure from Sales turns the focus on short term gains.",1429607522.0
+105,9412937,comment,9411408.0,9411697.0,0,0,lmm,,,I never recommend a book I haven&,
+106,9412936,comment,9411408.0,9412598.0,0,0,lmm,,,Are you sure you&,
+107,9412933,comment,9412733.0,9412805.0,0,0,vlasev,,,"Yeah, but the implementation of this is rather difficult to do in practice!",1429607391.0
+108,9412932,comment,9410968.0,9412735.0,0,0,lmm,,,I wish I&,
+109,9412931,comment,9412398.0,9412875.0,0,0,sz4kerto,,,Nothing is farther from me than not automating a highly repetitive process. :) Please don&,
+110,9412930,story,,,1,0,Xylemon,Codeweavers' Crossover for Android Intel Tablets Announcement,https://www.codeweavers.com/about/blogs/jramey/2015/04/14/hope-on-the-horizon-for-android-games-as-codeweavers-reveals-a-technology-preview-for-crossover-android,,1429607327.0
+111,9412929,comment,9406467.0,9407096.0,0,0,raverbashing,,,"Yes, the second most common source of investiment is government.<p>But while VCs look at (potential) earnings, governments usually look at utility (if they&",
+112,9412928,comment,9409854.0,9412167.0,0,0,bjrnjs,,,HBO <i>is</i> global (to some degree). I live in Sweden and (if I didn&,
+113,9412927,story,,,7,2,krinat,"BlackBerry acquires Israel’s WatchDox, to open R&D center in Israel",http://www.geektime.com/2015/04/21/exclusive-blackberry-acquires-israels-watchdox-to-open-rd-center-in-israel/,,1429607293.0
+114,9412926,comment,9406583.0,9408565.0,0,0,fulafel,,,To drastically change the picture you need to cut into the demand for fossil fuels. Subsidies for nuclear power and individuals opting for renewable electricity only make incremental increases in electricity supply and indirectly crowding out fossil energy this way is very expensive compared to going at the culprits directly (eg heavily taxing/cap-and-trading co2 and investing the proceeds cleverly to combat climate change).,1429607284.0
+115,9412925,comment,9407511.0,9407894.0,0,0,madaxe_again,,,There&,
+116,9412924,story,,,2,0,itemz,Release the Kraken of your productivity – trailer,https://www.youtube.com/watch?v=saoh9SCbqjU,,1429607274.0
+117,9412923,story,,,22,4,cjr,MOSH,http://getmosh.io/,,1429607215.0
+118,9412922,comment,9412733.0,9412856.0,0,0,vlasev,,,The biggest problem here is being accurate and truthful to yourself. These rules are great theoretically but they are rather difficult to apply in practice. I&,
+119,9412921,comment,9409854.0,9412186.0,0,0,lmm,,,You mean you don&,
+120,9412920,comment,9408881.0,9411690.0,0,0,gedrap,,,>>> which they wouldn&,
+121,9412919,comment,9412643.0,9412836.0,0,0,srnd,,,"I specifically checked that. I was told that I can go for interview and do job - test on the premises. But if I get an offer, I have leave the country and come in the work visa to work. I can only &quot;LOOK&quot; for a job. Not &quot;DO&quot; a job.",1429607068.0
+122,9412918,comment,9412600.0,9412641.0,0,0,dcw303,,,"I got a DK2 when it first came out. When I tried a rollercoaster, I felt a little off but ok. Over the next few weeks I noticed slight nausea with the Zelda demo, Tuscany, and the Tiki boat.  But that was nothing until I tried Quake 2. After fifteen minutes of playing, I couldn&",
+123,9412916,comment,9412717.0,9412717.0,0,0,galapago,,,"I believe you can. I know at least one work [1] using a machine learning approach (not really a deep neural work) to unconver vulnerabilities in C code.\nBtw, maybe a submition to /r/MachineLearning could be better to start such specific discussion.<p>[1] <a href=""https://www.usenix.org/conference/woot11/vulnerability-extrapolation-assisted-discovery-vulnerabilities-using-machine"" rel=""nofollow"">https://www.usenix.org/conference/woot11/vulnerability-extra...</a>",1429607007.0
+124,9412915,comment,9412733.0,9412871.0,0,0,venomsnake,,,It is safe to assume that anything that has passed USDA and FDA approval is not outright poisonous ...,1429606983.0
+125,9412914,comment,9412600.0,9412600.0,0,0,runj__,,,"I feel like such an idiot. I read it like noise, as in added digital noise.<p>The first image&",
+126,9412913,story,,,1,0,paganinip,The hacker Stefan Esser shows the jailbreak for iOS 8.4 beta 1,http://securityaffairs.co/wordpress/36154/hacking/ios-8-4-beta-1-jailbreak.html,,1429606954.0
+127,9412912,comment,9411935.0,9412289.0,0,0,dang,,,> You&,
+128,9412911,comment,9412733.0,9412885.0,0,0,venomsnake,,,"Eat clen, tren hard ...",1429606948.0
+129,9412910,comment,9412600.0,9412776.0,0,0,jsprogrammer,,,If one doesn&,
+130,9412909,comment,9412707.0,9412707.0,0,0,ColinWright,,,"Extensive discussion: <a href=""https://news.ycombinator.com/item?id=9402744"" rel=""nofollow"">https://news.ycombinator.com/item?id=9402744</a>",1429606862.0
+131,9412908,comment,9412686.0,9412686.0,0,0,ColinWright,,,"Lengthy discussion: <a href=""https://news.ycombinator.com/item?id=9402744"" rel=""nofollow"">https://news.ycombinator.com/item?id=9402744</a>",1429606851.0
+132,9412907,story,,,1,0,maus80,Open source privacy tools µBlock and µMatrix,http://www.leaseweblabs.com/2015/04/open-source-privacy-tools-%C2%B5block-%C2%B5matrix/,,1429606823.0

@@ -1,0 +1,125 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10316802,comment,10316060.0,10316573.0,0,0,tempestn,,,Why do you figure overhead would be anywhere near 90%?  It sounds like he&,
+1,10316801,comment,10314442.0,10315484.0,0,0,awalGarg,,,"I think you you (he?) needs RejectionEvent[0]. If that is so, it is a solved problem :)<p>Basically, implementations log the error to the console and raise the PotentiallyUnhandledRejection event if an error occurs inside a promise and no .catch handler was attached. If a .catch handler is attached _after_ the error is already logged, then a RejectionHandled event is raised. You can listen to those global events (the context is process in node, and window in browser, I think).<p>0: <a href=""https://github.com/domenic/unhandled-rejections-browser-spec",
+2,10316800,story,,,3,1,digital55,China May Build World's Biggest Machine,https://www.quantamagazine.org/20150922-nima-arkani-hamed-collider-physics/,,1443761917.0
+3,10316799,comment,10314726.0,10315457.0,0,0,neovintage,,,That&,
+4,10316798,comment,10315807.0,10316311.0,0,0,tmalsburg2,,,There are actually two problems keeping us from writing on such devices: lag and temporal resolution.  Many touch sensitive input devices have a too low temporal resolution such that movements at the speed typical for handwriting cannot be captured in sufficient detail.  I agree that the lag of this noteslate thing is a problem but at least the temporal resolution seems pretty decent.,1443761838.0
+5,10316797,comment,10313489.0,10315869.0,0,0,aetherson,,,"I started my career in 1999 at $55,000/yr.  Not at a particularly prestigious company or in an important position.",1443761813.0
+6,10316795,story,,,3,0,ericdykstra,“Propositions as Types” by Philip Wadler,https://www.youtube.com/watch?v=IOiZatlZtGU,,1443761677.0
+7,10316794,comment,10312137.0,10314435.0,0,0,shivawu,,,"I think this is all about trade off.<p>I do agree with your point 1,2,3, rule-based is better in some cases, but it&",
+8,10316793,comment,10310230.0,10310544.0,0,0,hiram112,,,Come back and tell us what you think in 10 years if/when you&,
+9,10316792,comment,10315645.0,10316559.0,0,0,lemonberry,,,I use them for learning a library or framework. I&,
+10,10316791,comment,10316060.0,10316542.0,0,0,sandstrom,,,"Even better, there an option &quot;this email is spam and should be reported&quot;.",1443761568.0
+11,10316789,comment,10313489.0,10315684.0,0,0,hliyan,,,"We recently scrapped Redmine (yes, the UI is horrendous) and started using Gitlab issues with our own labeling system. Working out fine so far.",1443761520.0
+12,10316788,comment,10311580.0,10311580.0,0,0,apinstein,,,"Tourbuzz - Atlanta; Full Time; Onsite<p>- Technical Product Manager<p>- Sr Front End Developer<p>- Lead PHP Developer<p><a href=""http://about.tourbuzz.net/careers/"" rel=""nofollow"">http://about.tourbuzz.net/careers/</a><p>Tourbuzz is a leader in the real estate photography and listing marketing space, now serving 2M+ unique visitors a month.<p>We&",
+13,10316787,comment,10315645.0,10316103.0,0,0,function_seven,,,"Same here. I did both jk and kj. When I want to leave insert mode, I just mash those keys.",1443761498.0
+14,10316786,comment,10315645.0,10315645.0,0,0,zappo2938,,,"Vim Adventures is so much fun. <a href=""http://vim-adventures.com/"" rel=""nofollow"">http://vim-adventures.com/</a>",1443761479.0
+15,10316785,story,,,14,7,walterbell,RIAA CEO: Piracy Notices Are Costly and Increasingly Pointless,http://infojustice.org/archives/29685,,1443761387.0
+16,10316784,comment,10310846.0,10314018.0,0,0,capisce,,,> how many people are stuck in a jobs they hate just because they have to pay the bills? If you give them basic income that covers all their basic needs then first thing they will do is they will quit their jobs.<p>Sounds like slavery. Is it humane to have a system designed so that people are stuck doing work they hate just to avoid starvation and homelessness? When we could greatly improve overall wellbeing through increased automation and redistribution?,1443761361.0
+17,10316783,story,,,29,5,jsnathan,Is there an Internet-of-Things vigilante out there?,http://www.symantec.com/connect/blogs/there-internet-things-vigilante-out-there,,1443761348.0
+18,10316782,comment,10316302.0,10316766.0,0,0,agumonkey,,,"The previous formatting got me so confused, I thought `>` was a prefix swap operator ...<p>Anyways, I&",
+19,10316781,comment,10312938.0,10313453.0,0,0,ocdtrekkie,,,"Yeah, but Google&",
+20,10316779,comment,10315645.0,10316737.0,0,0,mangamadaiyan,,,Thanks :) I&,
+21,10316778,comment,10316060.0,10316639.0,0,0,mfjordvald,,,I don&,
+22,10316777,comment,10316060.0,10316624.0,0,0,leesalminen,,,I&,
+23,10316776,comment,10312938.0,10313652.0,0,0,ocdtrekkie,,,"If Amazon is the aggressor, why isn&",
+24,10316775,comment,10314824.0,10316757.0,0,0,0xcde4c3db,,,That&,
+25,10316774,comment,10314824.0,10316649.0,0,0,Animats,,,<i>&quot;With all of the changes mentioned above the overall processing time per packet for small packet routing is reduced by over 100ns per packet.&quot;</i><p>Right. This is for the case where the machine isn&,
+26,10316773,comment,10314306.0,10316292.0,0,0,nodesocket,,,"Indeed, our GitHub integration (<a href=""https://commando.io"" rel=""nofollow"">https://commando.io</a>) is not listed. :-(",1443761091.0
+27,10316772,comment,10312938.0,10313120.0,0,0,ocdtrekkie,,,Google didn&,
+28,10316771,comment,10314275.0,10316176.0,0,0,toomuchtodo,,,Get a battery case.,1443761058.0
+29,10316770,comment,10316105.0,10316105.0,0,0,_nato_,,,"Keynes also drew some similar conclusions.<p>Link to a PDF of his essay from 1930 on the matter is here:<p><a href=""http://www.aspeninstitute.org/sites/default/files/content/upload/Intro_Session1.pdf"" rel=""nofollow"">http://www.aspeninstitute.org/sites/default/files/content/up...</a>",1443760956.0
+30,10316769,comment,10309441.0,10313060.0,0,0,bootload,,,"thankyou @zschuessler, reading thru this now, long time since I&",
+31,10316768,comment,10315441.0,10315441.0,0,0,tlack,,,"Maybe React-native? It can be used for Android apps now (in addition to iOS, and soon Blackberry and Windows). Being able to deploy apps to iOS would be a big boost on your resume.<p>Plus the development cycle is much faster due to auto reload and a host of other things (like loading code from the remote server), so you&",
+32,10316767,comment,10315482.0,10316390.0,0,0,b6,,,"Are you criticizing a person/organization who provides opportunity to hundreds of thousands of workers because he/it did not tweak the knobs exactly as you would have, if it had been you?<p>Many people have decided that working at Foxconn, etc., is better than the alternatives they perceive as being available to them. Do you not feel somewhat strange judging their arrangement as exploitative? At what hourly rate would it stop being exploitative? How much is it permissible for Tim Cook to earn in a year? Do you really feel able to decide these things?<p>Are you being exploited? Why not? Aren&",
+33,10316766,comment,10316302.0,10316302.0,0,0,hendzen,,,"Christos Papadimitriou was asked about this paper in a recent interview[0] - his response is below:<p>------------------------------------<p>When I was an assistant professor at Harvard, Bill was a junior. My girlfriend back then said that I had told her: &quot;There&",
+34,10316765,comment,10313489.0,10316165.0,0,0,Chipchipperson,,,"A compelling theory, but the Inc article he wrote in 2009 pretty clearly states that he considers them direct competition and laid out a plan to beat them.<p>This did not happen.",1443760780.0
+35,10316764,comment,10313489.0,10316664.0,0,0,philliphaydon,,,Maybe I&,
+36,10316763,comment,10313409.0,10316221.0,0,0,jfarmer,,,The pattern in the Ulam spiral is independent of the base we choose.  They&,
+37,10316762,story,,,6,0,Jerry2,"Google Sees Long, Expensive Road Ahead for Quantum Computing",http://www.theplatform.net/2015/07/22/google-sees-long-expensive-road-ahead-for-quantum-computing/,,1443760759.0
+38,10316761,comment,10309576.0,10311184.0,0,0,JadeNB,,,> There&,
+39,10316760,comment,10315807.0,10316456.0,0,0,Tinyyy,,,That&,
+40,10316757,comment,10314824.0,10316650.0,0,0,wmf,,,That depends what &quot;it&quot; is. Routing and switching are good candidates for ASICs and simple end-host networking has good NIC offload. But Linux can be configured to perform arbitrarily complex network stuff that specialized hardware does not support.,1443760655.0
+41,10316756,comment,10312938.0,10315783.0,0,0,qubex,,,‘Search’ isn&,
+42,10316755,comment,10309576.0,10311232.0,0,0,JadeNB,,,"> cd /; sudo find -cmin -5<p>Sorry, but I can&",
+43,10316754,comment,10315645.0,10316483.0,0,0,markmontymark,,,"Ag support and ctrl-p<p><a href=""https://github.com/rking/ag.vim"" rel=""nofollow"">https://github.com/rking/ag.vim</a>\n<a href=""https://github.com/kien/ctrlp.vim"" rel=""nofollow"">https://github.com/kien/ctrlp.vim</a><p>Save me so much time opening files and finding matches+open-at-match",1443760576.0
+44,10316753,comment,10315645.0,10316709.0,0,0,uxcn,,,"Capital letters and numbers are global, lowercase is buffer local.  There are also dynamic marks that vim sets which you can use instead of manually navigating or setting marks.  For example, <i>g&",
+45,10316752,comment,10310307.0,10314589.0,0,0,eloff,,,I would say it&,
+46,10316751,story,,,2,0,shas3,Incorrect count on visas disrupts lives of highly skilled immigrants,http://mobile.nytimes.com/2015/10/02/us/incorrect-count-on-visas-disrupts-lives-of-highly-skilled-immigrants.html?_r=0&referer=,,1443760494.0
+47,10316750,comment,10312137.0,10314133.0,0,0,shivawu,,,That&,
+48,10316749,comment,10314857.0,10314857.0,0,0,shawnps,,,If you liked this you might also find Rick Hudson&,
+49,10316748,comment,10311167.0,10315069.0,0,0,SamReidHughes,,,That would be horribly slow.,1443760340.0
+50,10316747,comment,10314895.0,10314895.0,0,0,Tinyyy,,,I don&,
+51,10316746,comment,10315634.0,10315634.0,0,0,pcunite,,,"Amazon, Newegg, and Wal-Mart .... you can&",
+52,10316745,comment,10310594.0,10311278.0,0,0,madeofpalk,,,Yes. Images work cross domain and they still fire onLoad correctly.,1443760270.0
+53,10316744,comment,10315634.0,10315634.0,0,0,baus,,,Zulily&,
+54,10316743,comment,10314442.0,10316541.0,0,0,bluepnume,,,"That said, it isn&",
+55,10316742,story,,,1,0,anigbrowl,'Moonspike' Kickstarter project aims to crowd fund rocket to Moon,http://www.space.com/30712-moonspike-private-moon-rocket-kickstarter-campaign.html,,1443760156.0
+56,10316741,story,,,5,0,cinquemb,Russia Forces US to Acknowledge CIAs “Covert” Regime Change Forces,https://www.emptywheel.net/2015/10/01/with-one-bombing-run-russia-gets-the-us-to-identify-cias-covert-forces/,,1443760155.0
+57,10316740,comment,10311580.0,10311580.0,0,0,sytse,,,"Remote GitLab is hiring developers and service engineers\n<a href=""https://about.gitlab.com/jobs"" rel=""nofollow"">https://about.gitlab.com/jobs</a>",1443760148.0
+58,10316739,comment,10311580.0,10311580.0,0,0,constexpr,,,San Francisco; Full Time; Onsite<p>I&,
+59,10316738,comment,10315645.0,10316356.0,0,0,ThatGeoGuy,,,"Better yet, ^[ is actually ESC in vi/vim, and works without a config change. I started using this last year and haven&",
+60,10316737,comment,10315645.0,10316710.0,0,0,snorge,,,:enew,1443760083.0
+61,10316736,comment,10314442.0,10316541.0,0,0,jlongster,,,You can do this today with generators.,1443760080.0
+62,10316735,comment,10313489.0,10314053.0,0,0,julianz,,,Huh? We&,
+63,10316734,comment,10315807.0,10315807.0,0,0,hlfcoding,,,I&,
+64,10316733,story,,,73,10,luu,Dolphin Progress Report,https://dolphin-emu.org/blog/2015/10/01/dolphin-progress-report-september-2015/,,1443760056.0
+65,10316732,story,,,7,1,dedalus,Luigi – Python based ETL,http://luigi.readthedocs.org/en/stable/,,1443760031.0
+66,10316731,comment,10315645.0,10316710.0,0,0,mangamadaiyan,,,If you don&,
+67,10316730,comment,10315645.0,10316241.0,0,0,kiyoto,,,I actually began using Acme a couple of months ago: it&,
+68,10316729,comment,10316400.0,10316651.0,0,0,SteveLAnderson,,,&quot;Mass shootings are too statistically infrequent to be addressed without potentially worse side effects&quot; - really?  How do you know that?  It&,
+69,10316728,comment,10315959.0,10315961.0,0,0,jcr,,,"Without data, usefulness is limited, so increasing your record count\nshould be your first priority. Entering data manually is slow, boring,\nand error prone. It would be wise to try automating data entry using\nexisting data sources such as wikipedia, imdb, project gutenberg, and\npossibly fan sites. Metadata from Google books may also be helpful. Good\nluck with it!",1443759956.0
+70,10316727,comment,10313489.0,10316514.0,0,0,julianz,,,Possibly your most important mistake is not reading the name correctly. It&,
+71,10316726,comment,10312938.0,10312938.0,0,0,lisianne,,,Didn&,
+72,10316725,comment,10316418.0,10316583.0,0,0,Sanddancer,,,"Using &quot;rough relationship&quot; to refer to abuse is already trivializing it. Regarding phones, blocking a number is trivial, and finding a number is as well. I&",
+73,10316724,story,,,1,0,bparanj,Lessons Learned from Releasing My First iPhone App,http://bparanj.blogspot.com/2015/10/ioxalate-iphone-app.html,,1443759824.0
+74,10316723,comment,10314805.0,10314805.0,0,0,lostgame,,,"In Toronto, we have a series of massively successful tabletop game cafés - which is a perfect, non-offensive place to go on a date, heh.",1443759796.0
+75,10316722,comment,10313489.0,10316586.0,0,0,radmuzom,,,"He is not talking about software development methodologies, he is talking about the role of people (mostly developers) in the software development process.",1443759756.0
+76,10316721,comment,10312938.0,10316592.0,0,0,westernmostcoy,,,"Well, a notable difference is that the only party preventing Amazon from streaming to Chromecasts is Amazon.",1443759752.0
+77,10316720,comment,10314695.0,10315978.0,0,0,hackerperson,,,Free/cheap online options often won&,
+78,10316719,comment,10311580.0,10311580.0,0,0,timeisapear,,,"Near-Miss Management | Web/Software Developer | Center City Philadelphia | Full-Time, ONSITE | info@nearmissmgmt.com<p>Near-Miss Management seeks a creative, driven, independent-minded web developer to join our early-stage start-up to help support our existing product and implement new features. Near-Miss provides an analytics and visualization software solution to corporate clients in the chemical refining industry. Within our small team, your voice will be a valuable asset to product development.<p>Hone your already strong Javascript skills on our leading-edge visualization tools written using frameworks such as D3.js. Create beautiful interactive interfaces by translating our talented designers’ static digital drawings into code using HTML, CSS (LESS), jQuery and vanilla Javascript. Create services and consume them in our full-stack Node.JS web app.<p><a href=""https://careers.stackoverflow.com/jobs/98537/web-software-developer-near-miss-management-llc"" rel=""nofollow"">https://careers.stackoverflow.com/jobs/98537/web-software-de...</a>",1443759743.0
+79,10316718,comment,10315645.0,10316298.0,0,0,mangamadaiyan,,,"Being able to move about is the first step. The second is to see that you can combine actions with motions. There are many more, of course - but IMHO, crossing these two steps takes you past the tipping point.<p>For example - &",
+80,10316717,comment,10316060.0,10316060.0,0,0,Drdrdrq,,,So what happens if the sole author / maintainer gets hit by a bus? I don&,
+81,10316716,story,,,5,0,sparshgupta,SmartStats – Bayesian-powered statistics engine for A/B testing,https://vwo.com/bayesian-ab-testing/,,1443759654.0
+82,10316715,comment,10316060.0,10316301.0,0,0,fizx,,,The dream depends on your pager schedule ;),1443759640.0
+83,10316713,comment,10314636.0,10314636.0,0,0,ojanik,,,Can someone shed some light on the architecture. Is this cordova based with dart2js compilation?,1443759604.0
+84,10316712,comment,10314275.0,10316275.0,0,0,wingerlang,,,> It lasted between 1-2 hours on a full charge<p>That sounds like a huge exaggeration or a broken phone. What model was it? There is no way a phone like this would be sold.,1443759603.0
+85,10316710,comment,10315645.0,10316483.0,0,0,DoggettCK,,,Opening a new buffer. Figured I&,
+86,10316709,comment,10315645.0,10316644.0,0,0,thesteamboat,,,Oh neat! I didn&,
+87,10316708,comment,10311580.0,10312546.0,0,0,pbnjay,,,I am no longer accepting applications. Thanks everyone!,1443759555.0
+88,10316707,comment,10313425.0,10313425.0,0,0,eevilspock,,,Spark Mail already does what SlideMail aims to do really well.<p>Important emails are consistently shown at the top. It does that so well that I don&,
+89,10316706,comment,10315645.0,10316103.0,0,0,DoggettCK,,,One of the best things I&,
+90,10316705,comment,10311580.0,10311580.0,0,0,trez,,,"Relink - <a href=""http://www.relinkdevice.com"" rel=""nofollow"">http://www.relinkdevice.com</a> | Nancy, France | REMOTE or ONSITE<p>Relink is a hardware start-up building a connected frame which helps people with dementia and their caregiver in their daily lives. We are going to be the Apple for dependant people.<p>---- Android dev ----<p>What we are looking for :<p>- android skills. We are building a platform so you will have to know your android stuffs. Bonus for RTP, computer vision skills or Objecfive-C/Swift.<p>- social interest. We are here to help these people.<p>Technology: Android, MeteorJs, PubNub, RTP<p>---- Growth Hacker ----<p>What we are looking for :<p>- facts. You know how to sell and you can prove it.<p>- social interest. We are here to help these people.<p>You can be either on site or remote.<p>Interested? Send me a short email to anthony (dot) tresontani (at) relinkdevice (dot) com",1443759471.0
+91,10316704,comment,10309104.0,10309148.0,0,0,floating_cloud,,,Thank you for the suggestions!,1443759470.0
+92,10316702,comment,10301984.0,10305107.0,0,0,code_sterling,,,"Perhaps, but this was the first blatant statement without any supporting evidence.",1443759456.0
+93,10316701,comment,10316005.0,10316005.0,0,0,jcr,,,"previous discussion 1564 days ago<p><a href=""https://news.ycombinator.com/item?id=2674052"" rel=""nofollow"">https://news.ycombinator.com/item?id=2674052</a>",1443759420.0
+94,10316700,comment,10315249.0,10315249.0,0,0,mojoe,,,The last sentence of the article is probably the most useful: &quot;The safest bet for now is to keep an eye on the National Hurricane Center’s forecasts.&quot;,1443759415.0
+95,10316699,comment,10316629.0,10316629.0,0,0,samtimalsina,,,This looks nothing like the space station.,1443759296.0
+96,10316697,comment,10315482.0,10316635.0,0,0,muddi900,,,Siri&,
+97,10316696,story,,,1,0,hariharan_uno,Hacking Gopher extension,http://codeignition.co/blog/2015/09/30/gopherhack/,,1443759281.0
+98,10316695,story,,,3,0,doppp,"Allie Madison: How She Made $100,000 on Fiverr",http://nextshark.com/allie-madison/,,1443759256.0
+99,10316694,comment,10315733.0,10315733.0,0,0,louthy,,,Nice write-up.  I&,
+100,10316693,comment,10315645.0,10316672.0,0,0,jagger27,,,Oh man I had no idea Karabiner could do that. Thanks!,1443759143.0
+101,10316692,comment,10316418.0,10316583.0,0,0,edent,,,It&,
+102,10316691,comment,10315412.0,10315455.0,0,0,xcxcxcxc,,,I am trying to make it consumer focus. Great points you&,
+103,10316689,comment,10314442.0,10316110.0,0,0,jlongster,,,"> About the points you make on your post, once async/await is implemented in browsers, you will be able to await run() directly, causing the exception to be thrown in the console.<p>I don&",
+104,10316688,story,,,1,0,aytekin,Bad User Experiences: How Analytics Can Improve App Testing,http://www.informationweek.com/strategic-cio/digital-business/bad-user-experiences-how-analytics-can-improve-app-testing/a/d-id/1322373,,1443758848.0
+105,10316687,comment,10315482.0,10315815.0,0,0,muddi900,,,The device is wiped of profile data and logins. You files are intact and accessible through a file explorer.<p>It is a very restricted and time consuming method to access a device.,1443758848.0
+106,10316686,comment,10316096.0,10316096.0,0,0,jcr,,,"<a href=""https://news.ycombinator.com/newsguidelines.html"" rel=""nofollow"">https://news.ycombinator.com/newsguidelines.html</a><p>>  <i>In Submissions</i><p>> <i>Please don&",
+107,10316685,comment,10316418.0,10316418.0,0,0,greenyoda,,,"<i>&quot;If the Internet at large is allowed to send hatred and bile to my cellphone via text notification without my consent, I will never feel safe again as long as I own a cellphone.&quot;</i><p>Isn&",
+108,10316684,story,,,7,0,mooreds,Mongeez: MongoDB Easy Change Management,http://secondmarket.github.io/mongeez/,,1443758659.0
+109,10316683,comment,10316060.0,10316640.0,0,0,codexon,,,They could but they probably don&,
+110,10316682,comment,10315645.0,10316559.0,0,0,dnr,,,"I use folds for one specific thing: I have a general &quot;notes&quot; file for home and for work, which is a big outline where I put anything I&",
+111,10316681,comment,10302879.0,10302879.0,0,0,Mikera,,,Clojure on the back end and ClojureScript on the front end.<p>Some reasons:<p>1. It&,
+112,10316680,comment,10315807.0,10316311.0,0,0,tcfunk,,,Yeah..at first I was like &quot;This is exactly what I want in a tablet!!&quot;. But I don&,
+113,10316679,comment,10314275.0,10315704.0,0,0,matthew-wegner,,,"FYI, the battery replacement on the 4s is really, really easy (back plate just slides off, versus removing the screen via suction on the later models).  It&",
+114,10316678,comment,10314761.0,10314761.0,0,0,Animats,,,This makes it easier to spin off the new business units if they get big enough to thrive as independent businesses. Or the old ones.  Spinning off Google&,
+115,10316677,comment,10316302.0,10316302.0,0,0,pvg,,,"...and Christos Papadimitriou (also not some random unknown slouch) - <a href=""https://en.wikipedia.org/wiki/Christos_Papadimitriou"" rel=""nofollow"">https://en.wikipedia.org/wiki/Christos_Papadimitriou</a>",1443758532.0
+116,10316676,comment,10315645.0,10316216.0,0,0,nitrogen,,,The &quot;ci&quot; and &quot;ca&quot; commands are part of a Vim-only feature called Text Objects (type <i>:help objects</i> in Vim&,
+117,10316675,comment,10316060.0,10316605.0,0,0,macNchz,,,My email is in plain text all over the internet and I get next to no spam. The worst spam I&,
+118,10316674,comment,10315881.0,10316088.0,0,0,electrum,,,"<a href=""http://blogs.msdn.com/b/oldnewthing/archive/2006/05/08/592350.aspx"" rel=""nofollow"">http://blogs.msdn.com/b/oldnewthing/archive/2006/05/08/59235...</a>",1443758510.0
+119,10316673,story,,,1,0,bparanj,How to Write an Application Statement for SaaS App,http://bparanj.blogspot.com/2015/10/application-statement-for-saas-app.html,,1443758494.0
+120,10316672,comment,10315645.0,10316167.0,0,0,bonquesha99,,,"I have a similar remapping of Caps:<p><pre><code>  * When I tap Caps, it&",
+121,10316671,comment,10315645.0,10316295.0,0,0,RevRal,,,"I almost feel like everything else is dated, like the only true improvement would be a brain-machine interface.",1443758443.0
+122,10316670,comment,10309441.0,10310196.0,0,0,e12e,,,Don&,
+123,10316669,comment,10314457.0,10315382.0,0,0,plonh,,,US Army&,

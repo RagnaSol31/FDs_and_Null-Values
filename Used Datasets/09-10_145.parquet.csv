@@ -1,0 +1,110 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,8073545,comment,8072924.0,8072924.0,1,0,TorKlingberg,,,"It may be a problem for Amazon that they lack the global presence that their competitors in the phone market have. Amazon is big in the US, UK, Germany and Japan, but not in rest of the world.",1406109589.0
+1,8073544,comment,8069893.0,8071911.0,1,0,Flimm,,,I don&,
+2,8073543,comment,8069585.0,8070356.0,1,0,mperd,,,"Not everything in life can be apprehended through stats, and sometimes we should be able to simply acknowledge the fact that others are having a hard time because of the way we&",
+3,8073541,comment,8073230.0,8073230.0,1,0,daemonk,,,Write comments that explain why a certain line is there.<p>Let&,
+4,8073540,comment,8073230.0,8073230.0,2,0,nrzuk,,,Personally I have no problems with comments in code for complex functions etc.\nBut pointless comments like this below drives me insane.<p>// get the user\n$user = $this->getUser();<p>Times that by the thousands of lines in a project and you have one big headache!,1406109501.0
+5,8073539,comment,8073511.0,8073511.0,1,0,TobbenTM,,,I would think a tablet along with a wireless keyboard would be the best option if you are looking for something small. A tablet with a data-connection even better. The biggest problem would be a good enough screen to use in the sunlight.,1406109385.0
+6,8073538,comment,8071330.0,8071330.0,2,0,gumballhead,,,"Greedy? Not only are you the first engineering hire, but you&",
+7,8073536,comment,8072340.0,8072758.0,1,0,gojomo,,,Ha ha! But serious:<p>There&,
+8,8073535,comment,8072340.0,8072444.0,3,0,Keyframe,,,YACS - yet another coin scam,1406109190.0
+9,8073534,comment,8073230.0,8073230.0,1,0,riquito,,,It&,
+10,8073533,comment,8073502.0,8073502.0,1,0,easytiger,,,Well i doubt nginx use is as low as they say. Never did trust netcraft stats,1406109059.0
+11,8073532,comment,8060812.0,8063578.0,1,0,lsc,,,">Why not both. If your in tech and enjoy it you can do it.<p>Let us go in to this further.   Yes, most of the technical people I know have pretty good working conditions.<p>However.  Most of the technical people I know work for companies that either make weapons or sell advertising.<p>The vast majority of the available high-paying technical jobs actively contribute to making the world a worse place.<p>Now, I am not claiming to have clean hands either;  I&",
+12,8073531,comment,8073221.0,8073450.0,1,0,ejr,,,I took this as a quick intro to snippets of Bootstrap features. Ex: Logins and stuff. It does say &quot;pre&quot; bootstrap so I&,
+13,8073530,comment,8073230.0,8073454.0,1,0,bnegreve,,,"I realize this, but the article doesn&",
+14,8073529,comment,8073230.0,8073230.0,3,0,nodesocket,,,I&,
+15,8073528,comment,8073442.0,8073517.0,1,0,toni,,,The button does not work with plain Adblock Plus too.,1406108953.0
+16,8073527,comment,8072738.0,8073218.0,7,0,epsylon,,,"The true killer feature of Sublime Text is the fact that it runs <i>flawlessly</i> on the 3 major platforms (Windows, OS X, Linux).<p>I know people will scream that Emacs (and vim) have windows ports, but they are utter crap compared to running them under a Unix. I can tell that from experience. Emacs on Windows is unbearably slow: it took 10 times as much to start as on the same host, same SSD, when it is run under a Linux VM! It also relies heavily on standard Unix tools (wget, grep, ...), whose ports for Windows are extremely outdated to the point that they are unusable (Emacs 24&",
+17,8073526,comment,8068424.0,8068424.0,1,0,dopplesoldner,,,"I was in a similar situation last year - but after visiting the apple store and trying the different variations I ended up going for the 15&quot; pro, i7 quad-core, 16GB RAM, 512SSD and the retina display with 2880 x 1800 resolution.<p>It does cost more than the other 2 options but if you are a developer, it might be worth it.",1406108848.0
+18,8073525,comment,8071438.0,8071700.0,2,0,simonh,,,"The problem is that iPads keep on going, and going, and going. They&",
+19,8073524,comment,8073230.0,8073230.0,1,0,warrenmiller,,,Good code should be self documenting.,1406108809.0
+20,8073522,comment,8050144.0,8051170.0,1,0,Pephers,,,What I&,
+21,8073521,comment,8073221.0,8073448.0,1,0,Kiro,,,What do you mean?,1406108762.0
+22,8073520,comment,8072387.0,8072695.0,1,0,Udo,,,I didn&,
+23,8073519,comment,8069585.0,8072871.0,1,0,mperd,,,I think we should treat someone that&,
+24,8073518,comment,8072387.0,8073316.0,8,0,easytiger,,,Saw him on stage about a year ago and he was the most lucid and sensible person there (of the 5 other captains). Avery Brooks certainly was not with it at all.,1406108686.0
+25,8073517,comment,8073442.0,8073466.0,2,0,modernerd,,,Stamplay looks great.<p>A heads up: I&,
+26,8073516,comment,8072409.0,8073085.0,1,0,justincormack,,,Xen has a balloon driver too. I think KVM does now as well.,1406108657.0
+27,8073514,story,,,2,0,lemonyapps,Promishare is motivational mobile app for positive goals and habits,http://www.promishare.com/,,1406108616.0
+28,8073513,comment,8068447.0,8071930.0,1,0,jamespo,,,If it was beneficial for a company&,
+29,8073512,comment,8071438.0,8072880.0,2,0,TheAnimus,,,"The branding there is incredibly strong.<p>Some friends of mine in Vietnam run a shop, in Hoi An.  They make a comfortable for local standards income, but after tax rates and costs they will have about $10k a year, not to be sniffed at, but still, not amazing income.  A younger sister wanted an iPhone, it was a running joke that if she bought one, she would be sleeping out in the pig sty, the &",
+30,8073511,story,,,45,54,innsmouth_rain,Ask HN: Coding outdoors,,"Hi<p>Being outdoors in the sun makes you high. It gives you energy and vitamin D, relieves headaches and is just generally great (within limits, of course - no skin cancer, please). Most of us here use the computer to make a living and some of us work from home or have flexible work place and hours - could we be doing this outside  and improve our health and productivity?<p>I&",
+31,8073510,comment,8072162.0,8073296.0,2,0,rakoo,,,I don&,
+32,8073509,comment,8051034.0,8051034.0,1,0,Sami_Lehtinen,,,"Dupe, see: \n<a href=""https://news.ycombinator.com/item?id=8052233"" rel=""nofollow"">https://news.ycombinator.com/item?id=8052233</a>",1406108513.0
+33,8073508,comment,8071070.0,8071616.0,1,0,InclinedPlane,,,"Right now there is a bit of a slight impedance mismatch between attempted reusability and the commercial launch offering of the full expendable Falcon 9 capability. On the plus side the dual role nature of the Falcon 9 v1.1 means they can take advantage of expendable launches with sufficient margin to test the reusability features, on the minus side it means that when there isn&",
+34,8073507,comment,8073442.0,8073466.0,0,0,capex,,,What have you built this in?<p>EDIT: Why was I downvoted?,1406108441.0
+35,8073506,comment,8073230.0,8073411.0,2,0,collyw,,,"I disagree with that sentiment.<p>Using Python or Perl it is easy to go from a for loop to a map or list comprehension. For many less experienced programmers it will make it less readable and more difficult to comprehend. Using a more functional approach will usually lead to less side effects and silly bugs, so I prefer to code this way, and add a comment to explain what the line is doing if it is not obvious.",1406108433.0
+36,8073505,comment,8060812.0,8063578.0,1,0,lsc,,,">Why not both. If your in tech and enjoy it you can do it.<p>Clearly, that is the goal.<p>If you are claiming that having a safety net to fall back on doesn&",
+37,8073504,comment,8052233.0,8052233.0,1,0,Sami_Lehtinen,,,They say that you can take it anywhere. But is it legal to use anywhere? It&,
+38,8073502,story,,,2,2,philliphaydon,IIS is 0.15% away from beating Apache as most popular web server,http://news.netcraft.com/archives/category/web-server-survey/,,1406108341.0
+39,8073501,comment,8071070.0,8071712.0,6,0,ghshephard,,,It would be a lot more intuitive.  Even knowing <i>exactly</i> what was being described and how - It still is difficult for me to understand a graph in which Time is on the Y-axis.  I considered for a few moment that I was actually being trolled with that graph.,1406108340.0
+40,8073500,comment,8073230.0,8073230.0,11,0,krzrak,,,It&,
+41,8073499,story,,,2,0,petitecloud,New Startup CTO Tutorials (work in progress),http://www.petitecloud.com/petitecloudcom/,,1406108226.0
+42,8073497,comment,8072955.0,8073390.0,4,0,Kliment,,,"Yeah, that might happen, in 20 years when the patents expire. Before that, this will be much higher cost than tube lasers which anyone can make and repair.",1406108138.0
+43,8073496,comment,8068135.0,8068389.0,1,0,andrewmu,,,And Canvas 2D.,1406108060.0
+44,8073495,comment,8073230.0,8073456.0,6,0,icebraining,,,"But the thing is, in C a geocoding function would probably receive two ints and return a string, while in Haskell you&",
+45,8073493,comment,8072730.0,8073346.0,11,0,interpol_p,,,I didn&,
+46,8073492,story,,,2,0,adambird,Show HN: Use ,,,
+47,8073491,comment,8072690.0,8073163.0,6,0,e_proxus,,,"In the same way an unencrypted telephone call is also like a postcard (or posting a tape), but we still have laws protecting that information flow, like the client attorney privilege.<p>What we are seeing now is just a power grab from governments and organizations to have &quot;novel&quot; forms of communication classed as less protected so they can reap the benefits of being able to intercept it. This is exactly how a legally protected and democratic society breaks down.<p>There are only two ways to solve it. Either protect all forms of communication without discrimination, or use or invent technology to prevent it being possible in the first place (and not outlaw that technology). There are no other ways.",1406107971.0
+48,8073490,comment,8071070.0,8072322.0,1,0,jpgvm,,,"Ahh good catch, thanks for the additional insight.",1406107939.0
+49,8073489,comment,8071564.0,8072241.0,0,0,higherpurpose,,,"But lost profits, which means Microsoft is most likely cannibalizing its traditional Office business with the 365 one, so the &quot;growth&quot; for 365 is pretty misleading, if it&",
+50,8073488,comment,8073230.0,8073230.0,39,0,blowski,,,"Avoiding comments that do what your code should be doing is common practice, and I think that&",
+51,8073487,comment,8073230.0,8073459.0,5,0,AlisdairO,,,It&,
+52,8073486,comment,8072387.0,8072624.0,8,0,MasterScrat,,,Exactly.<p>If there&,
+53,8073485,comment,8073230.0,8073449.0,7,0,icebraining,,,"Well, this is Haskell we&",
+54,8073484,comment,8061502.0,8061502.0,1,0,attilagyongyosi,,,"I was about 13 years old when I started to code just for fun, on an old 100MHz 386, using QBasic. Before that I watched my friend hack away in BASIC on a C64.<p>I was in CS-specialized class in middle school, but that was kind of a joke.<p>I am still doing my BSc in CS at the university.\nThe first &quot;dollar&quot; (forint) I earned was back in 2011 when I worked as a non-registered PHP developer for a startup here in town then in Budapest during the summer.<p>After that, I got employed as a full-time Junior Software Engineer at an international company last August. So I&",
+55,8073483,comment,8073230.0,8073456.0,1,0,kabouseng,,,"I also like to add doxygen headers to functions, but have stopped adding the inputs and outputs. Refactorings causes the doxygen to go out of sync with the code.<p>Currently I only do the following:<p><pre><code>  /**@fn    foobar\n   * @brief Does foo\n   */\n</code></pre>\n-edit formatting",1406107671.0
+56,8073481,comment,8073230.0,8073230.0,5,0,yxhuvud,,,"Comments are lousy for describing <i>what</i> you are doing, but there are no alternative to comments for describing <i>why</i> something is done.",1406107650.0
+57,8073480,comment,8072924.0,8073097.0,3,0,simonh,,,One reason may be the same reason Apple don&,
+58,8073479,comment,8070737.0,8071983.0,1,0,Robadob,,,At a low enough LOD it&,
+59,8073475,comment,8073221.0,8073221.0,4,0,MasterScrat,,,Don&,
+60,8073474,comment,8073230.0,8073415.0,3,0,AlisdairO,,,I generally sympathise with your sentiment - I think this jives fairly well with comments talking about &,
+61,8073473,story,,,2,0,huskyseo,"Google Faces Potential Fines, Criminal Charges In Italy",http://www.huskyseo.co.uk/blog/google-faces-potential-fines-criminal-charges-italy/,,1406107484.0
+62,8073472,comment,8072364.0,8072541.0,1,0,omnibrain,,,I recently discovered Computer Chronicles on archive.org and driven by nostalgia watched a few episodes and can only second this.,1406107464.0
+63,8073471,story,,,1,0,bcambel,Mark Twain on Masturbation,http://www.brainpickings.org/index.php/2014/02/26/mark-twain-on-masturbation/,,1406107440.0
+64,8073470,comment,8073230.0,8073241.0,4,0,krfsm,,,"One case of unexpected behavior which is best described in comments is when the simple and obvious solution to the problem is wrong, and has already been discarded.<p>(Preferably the reasons for discarding the simple solution should be provided as well, as circumstances may change.)",1406107428.0
+65,8073469,story,,,1,0,passfree,"Websecurify Suite: Escapemode, Screenshot and Auto-formatting Improvements",http://blog.websecurify.com/2014/07/escapemode-screenshot-and-auto-formatting-improvements.html,,1406107426.0
+66,8073468,comment,8073221.0,8073221.0,1,0,lumpypua,,,Looks like the folks behind this are doing real estate tech. Can I ask y&,
+67,8073467,comment,8073221.0,8073221.0,1,0,johantinglof,,,Not sure about this. It seems kind of wierd for the &,
+68,8073466,comment,8073442.0,8073442.0,1,0,giuliano84,,,the frontend implementation is intentionally super simple but for any question feel free to drop me line :),1406107336.0
+69,8073465,comment,8073221.0,8073221.0,8,0,yoanizer,,,I don&,
+70,8073464,comment,8072600.0,8073065.0,1,0,makomk,,,"Yeah, and I think the version of the keys on your laptop and desktop can be copied and used to access your iOS device at a later date if someone gains brief access to any computer paired to it. GCHQ and the NSA apparently have tools to take advantage of this.",1406107255.0
+71,8073463,story,,,22,0,freyfogle,Digital Science invests in writeLaTeX,https://www.writelatex.com/blog/171,,
+72,8073462,story,,,1,0,oxama,Microsoft XP SP3 MQAC.sys Arbitrary Write Privilege Escalation,https://www.korelogic.com/Resources/Advisories/KL-001-2014-003.txt,,1406107198.0
+73,8073461,comment,8072340.0,8073447.0,2,0,viach,,,This comment strikes me as emotional :)<p>I didn&,
+74,8073460,comment,8069998.0,8070439.0,1,0,zhte415,,,"I agree. The amount of flexibity is huge, especially if you deliberately want a different look on various pages.<p>And yeah, it feels good.",1406107115.0
+75,8073459,comment,8073230.0,8073230.0,2,0,bozhidar,,,There&,
+76,8073458,story,,,1,0,tbananarvnge,Dota 2 caster reveals viewing figures for TI4 'n00b' stream,http://www.redbull.com/en/esports/stories/1331666011688/the-international-4-interview-purge-on-the-n00b-stream,,1406107068.0
+77,8073457,comment,8073230.0,8073230.0,4,0,tibbe,,,Note that this isn&,
+78,8073456,comment,8073230.0,8073230.0,3,0,Nursie,,,I&,
+79,8073455,comment,8073230.0,8073230.0,3,0,josch,,,"Leo Brodie says in &quot;Thinking Forth&quot; in the style section: &quot;The most-accurate, least-expensive documentation is self-documenting code&quot;. I am sure there are other prior examples.",1406107029.0
+80,8073454,comment,8073230.0,8073435.0,7,0,lawn,,,"The argument is not to never use comments, but rather to avoid bad comments.",1406107019.0
+81,8073453,story,,,2,5,doubt_me,Ask HN: Need to interview a hacker for my paper about hacking,,Its just a general pro vs con paper and I also need an interview with a hacker if anyone is willing to give me one!<p>Since I am not a hacker by any means whatsoever I have no clue as to what the pros and cons are except for the obvious ones<p>pros\n- Hacktivism\n- hackers = innovators\n- Vulnerability/ Security research\n- Hacking is an essential aspect of the tech industry\n- ?<p>cons\n- How the US gov is so loose with the hacking laws and sentencing\n- Blackhat hackers or rather just plain criminals with knowledge of hacking\n- Nothing is 100% bullet proof and anyone can get their info hijacked/ stolen/ possibility&,
+82,8073452,comment,8064786.0,8073368.0,1,0,sida,,,Does it mean that even if it goes through the VISA network. Actual settlements still have to hop through layers of peering banks?<p>Do you see an advantage for bitcoin then by removing the need of peering banks?,1406106972.0
+83,8073451,comment,8064534.0,8071521.0,2,0,noelwelsh,,,The reduced variance of the /queries benchmark suggests to me that the database is the bottleneck in this setup. This would be the first thing you&,
+84,8073450,comment,8073221.0,8073221.0,15,0,sida,,,At the risk of sounding like an asshole. The themes on prebootstrap is pretty average at best. Alternatives like bootswatch.com offers far better themes.,1406106873.0
+85,8073449,comment,8073230.0,8073230.0,7,0,koonsolo,,,"Comments say <i>what</i> your code does, your code says <i>how</i> you do it. The swap example is trivial, but for most functions it is good to add an API comment, because how you use the function shouldn&",
+86,8073448,comment,8073221.0,8073221.0,1,0,hendry,,,None of these Bootstrap 3 themes seem to just replace /bootstrap/css/bootstrap-theme.css which makes them pretty daft.,1406106848.0
+87,8073447,comment,8072340.0,8073407.0,2,0,woah,,,"They have clients in 3 different languages, something like 3 different scripting languages that compile to the assembler, a working testnet, an ecosystem of working contracts, and a bunch of 3rd party apps already. It&",
+88,8073446,comment,8073073.0,8073073.0,1,0,syshen,,,"I am trying answers from Crashlytics since couple days ago. It is easy to use, since it is automatically setup for me, no configuration needed. But from analytics point of view, I cannot get it how it is useful compared to Google Analytics.",1406106781.0
+89,8073445,comment,8029664.0,8033441.0,1,0,wongwf82,,,Thanks alixander. Appreciate it :),1406106756.0
+90,8073444,comment,8072690.0,8073275.0,4,0,Fuxy,,,Encryption should be mandatory for all sensitive data if it&,
+91,8073443,comment,8072690.0,8072818.0,3,0,spacemanmatt,,,That&,
+92,8073442,story,,,18,7,tuxone,How to build an Hacker News clone in 30 minutes with Stamplay,http://blog.stamplay.com/how-to-build-an-hacker-news-clone-in-30-minutes-with-stamplay/,,1406106675.0
+93,8073441,comment,8072924.0,8073176.0,2,0,gambiting,,,>>Even facial detection is in most modern digital cameras. Tying these things together doesn&,
+94,8073440,comment,8072690.0,8073163.0,1,0,spacemanmatt,,,you&,
+95,8073438,comment,8073230.0,8073230.0,1,0,viach,,,To rephrase - code makes comments understandable?,1406106501.0
+96,8073437,comment,8073414.0,8073414.0,1,0,droid_w,,,Glad to hear! Don&,
+97,8073436,comment,8072364.0,8073207.0,4,0,weland,,,So was Kildall. It&,
+98,8073435,comment,8073230.0,8073230.0,2,0,bnegreve,,,"This is not convincing to me because the examples are trivial:<p><pre><code>    -- swap the elements of a pair\n    swap :: (a,b) -> (b,a)</code></pre>\nYes this is redundant.<p><pre><code>    let b=a+1   -- add one to &",
+99,8073434,comment,8069893.0,8072486.0,2,0,chmike,,,Isn&,
+100,8073433,comment,8062864.0,8066729.0,1,0,jedc,,,"because it strikes me as an inside term, possibly only used inside the military.  Maybe I&",
+101,8073432,comment,8073301.0,8073301.0,1,0,dozzie,,,Somebody can&,
+102,8073431,story,,,3,0,lgmspb,Ever wish your Android device had more buttons? Check out Dimple,http://www.arcticstartup.com/2014/07/23/ever-wish-your-android-device-had-more-buttons-check-out-dimple,,1406106235.0
+103,8073430,story,,,2,0,avsaro,The bottomless money pit that is Windows Phone,http://www.osnews.com/story/27857/The_bottomless_money_pit_that_is_Windows_Phone,,1406106216.0
+104,8073429,comment,8072340.0,8072545.0,3,0,patrickk,,,"You can &quot;snap together&quot; pieces and build an ethereum script for various things here: <a href=""http://etherscripter.com/0-4-0/"" rel=""nofollow"">http://etherscripter.com/0-4-0/</a><p>See the code sample link. You can even check out the output in a Lisp-like language.",1406106144.0
+105,8073428,comment,8072387.0,8073210.0,2,0,retroencabulato,,,Even Facebook events now seem tacky for anything other than massive events in my social circles.,1406106127.0
+106,8073427,comment,8068424.0,8069352.0,1,0,ghuntley,,,Definitely agree with T440 (I have the T440s) w/ 9 cell battery especially if your commute to and from work is large. Macbook Pro + VMFusion + VS results in < 2 hours battery life. It&,
+107,8073426,comment,8073414.0,8073414.0,1,0,kerkero,,,Already installed it 2 weeks ago.\nGreat tool for every Android developer!,1406106026.0
+108,8073425,story,,,2,0,ghosh,The Promises of DevOps,http://markburgess.org/blog_devops.html,,1406106003.0

@@ -1,0 +1,83 @@
+,ID,Type,Story,Parent,Points,Comments,Author,Title,URL,Content,Created
+0,10870493,comment,10864370.0,10864370.0,0,0,djaychela,,,I&,
+1,10870492,comment,10869745.0,10870354.0,0,0,hkmurakami,,,"The perception of scarcity of wealth (for lack of a better term) and things being zero sum between nationals and immigrants is truly regrettable. And SV is not immune to it, considering engineers&",
+2,10870490,comment,10869419.0,10870357.0,0,0,frik,,,"As I mentioned I just found the link in the  venturebeat article, ask their CEO for more data.<p>About half of the numbers are redacted, but you can see if it&",
+3,10870489,comment,10869745.0,10870224.0,0,0,acabal,,,"Good on both of you.  What a pleasant, enlightened, and refreshing exchange to read in today&",
+4,10870488,story,,,278,297,ingve,Why I Write Games in C,http://jonathanwhiting.com/writing/blog/games_in_c/,,1452326091.0
+5,10870487,comment,10870294.0,10870294.0,0,0,kogepathic,,,"I am not an OpenWrt developer, but I develop software for OpenWrt based platforms.<p>In short: on a lot of these devices it would be difficult or impossible to have a stable auto update mechanism. This could be due to flash size (16MB is considered large for consumer devices), or due to the state of the kernel modules responsible for hardware (e.g. wireless drivers).<p>Also there isn&",
+6,10870485,comment,10870093.0,10870290.0,0,0,hkmurakami,,,No tax at conversion. Only possibility is upon exercise and then eventually at sale.,1452325982.0
+7,10870483,comment,10866444.0,10867833.0,0,0,elaineo,,,"Okay, I added a field to manually paste in the HTML! Thanks for the suggestion :)",1452325947.0
+8,10870482,comment,10870093.0,10870093.0,0,0,hkmurakami,,,I have an unpublished blog post on this very subject so I&,
+9,10870481,comment,10864370.0,10868041.0,0,0,djaychela,,,"They already do in the UK, lots of young drivers can only afford to drive if they have a &quot;black box&quot; fitted to their car by the insurer to track their driving behaviour.",1452325923.0
+10,10870480,comment,10869694.0,10869694.0,0,0,tankfeeder,,,"<a href=""http://nim-lang.org/"" rel=""nofollow"">http://nim-lang.org/</a>",1452325913.0
+11,10870479,comment,10864510.0,10864510.0,0,0,AKifer,,,"Aside from the free nature of the app, I think what&",
+12,10870478,comment,10870093.0,10870290.0,0,0,chrdlu,,,"The difference is when you exercise NSOs, you also have to pay withholding tax (ordinary income tax rate) to the company who then pays it to the IRS.<p>For ISOs, you don&",
+13,10870477,comment,10867202.0,10869354.0,0,0,derefr,,,"X.Org.info, the perfect place to find info about a project called X.Org.",1452325731.0
+14,10870476,comment,10868911.0,10869540.0,0,0,IndianAstronaut,,,These are a part of a huge category of algorithms called metaheuristic algorithms. Really interesting area of research.,1452325717.0
+15,10870475,comment,10868717.0,10869687.0,0,0,shubhamjain,,,"Not sure why you got downvoted. I think many makers balk at getting customers with an unpolished / unfinished product - &quot;No one will pay for this. We need more features.&quot; is the sentiment I have heard often. While I am sure that a product like Stripe might take long to get to stage where people can start using it, in many cases, it is not so hard to create the MVP in 3 - 4 months that solves atleast one pain point for lots of users.<p>VWO, a bootstrapped A/B testing product, started getting paying customers with a very basic interface and reports[1], and today it is a ~$10M business.<p>[1]: <a href=""https://www.youtube.com/watch?v=0YYNebfuvLc"" rel=""nofollow"">https://www.youtube.com/watch?v=0YYNebfuvLc</a>",1452325672.0
+16,10870474,comment,10857312.0,10868030.0,0,0,IndianAstronaut,,,I&,
+17,10870472,comment,10869745.0,10870356.0,0,0,jtolmar,,,That&,
+18,10870471,story,,,2,0,msvan,Warbler.js: A simple parser combinator library with emphasis on ease of use,https://github.com/msvbg/warbler,,1452325559.0
+19,10870470,story,,,74,53,stakent,Long range forecast,http://www.antipope.org/charlie/blog-static/2016/01/long-range-forecast.html,,1452325559.0
+20,10870468,story,,,2,0,bootload,Ryan Dahl: My Favorite Proofs [pdf],http://tinyclouds.org/math/favorite-proofs.pdf,,1452325544.0
+21,10870467,comment,10869311.0,10869922.0,0,0,brendangregg,,,"essentially, yes, but:<p>flame graphs: x-axis is sample population (or event time), alphabetical sort on function names to maximize merging<p>flame charts: x-axis is the passage of time",1452325487.0
+22,10870466,story,,,8,5,thewarrior,Are Instacart layoffs a sign of things to come?,http://www.cnbc.com/2015/12/31/are-instacart-layoffs-a-sign-of-things-to-come.html,,1452325470.0
+23,10870465,story,,,3,0,smackay,"For the Motorola Brand, a Dignified Retirement Isn't Such a Bad Option",http://www.fastcompany.com/3055278/saying-goodbye-to-motorola,,1452325447.0
+24,10870464,story,,,2,0,bootload,Getting Started with Progressive Web Apps (2015),https://addyosmani.com/blog/getting-started-with-progressive-web-apps/,,1452325423.0
+25,10870463,comment,10864709.0,10865542.0,0,0,r00fus,,,As another commenter said above - these are the ripest targets for such bogus boss scams.,1452325414.0
+26,10870462,story,,,5,1,patmcguire,Nobody has to be vile,http://www.lrb.co.uk/v28/n07/slavoj-zizek/nobody-has-to-be-vile,,1452325408.0
+27,10870461,comment,10869419.0,10869637.0,0,0,staunch,,,Isn&,
+28,10870460,story,,,1,2,whiskers,Twitter’s Stock Dips Below $20 to All-Time Low,http://www.wired.com/2016/01/twitters-stock-dips-below-20-to-all-time-low/,,1452325290.0
+29,10870459,comment,10869745.0,10870201.0,0,0,msie,,,I don&,
+30,10870458,comment,10857312.0,10864238.0,0,0,IndianAstronaut,,,"Good video. One thing I am looking to do is call Python from an R notebook, but that doesn&",
+31,10870457,comment,10864185.0,10868756.0,0,0,tbabb,,,"Yes, see the bit in my original post and the one that follows about instantaneous communication.",1452325181.0
+32,10870456,comment,10870444.0,10870444.0,0,0,droidist2,,,"I already realized this and it consistently haunts me, but thanks for the reminder.",1452325164.0
+33,10870455,comment,10866149.0,10867224.0,0,0,kaonashi,,,"> Back before 2008, I used to teach my students that during a disturbance in the business cycle, we&",
+34,10870454,comment,10869694.0,10870270.0,0,0,vardump,,,"You can often use any language for esoteric microcontrollers, as long as it&",
+35,10870453,story,,,2,1,neya,WURFL and Database Copyright (2012),https://shkspr.mobi/blog/2012/01/wurfl-and-database-copyright/,,1452324951.0
+36,10870451,comment,10869099.0,10870197.0,0,0,mpweiher,,,That&,
+37,10870450,comment,10869099.0,10869099.0,0,0,notthemessiah,,,"Dual numbers are just a means of formalizing the properties of an epsilon (a tiny change in calculus), and are the means of preserving enough information to think of the function and its derivative at the same time. EG: (x + ε)² = x² + 2ε + ε², but ε² = 0, so we get x² + 2ε, (a tiny change squared becomes an insignificantly tiny change)",1452324808.0
+38,10870449,comment,10869311.0,10870246.0,0,0,derefr,,,"There are few other things in the world that work like source code, where &quot;understanding&quot; isn&",
+39,10870448,comment,10867504.0,10869641.0,0,0,sangnoir,,,"I suspect the VC ecosystem encourages/condones the lumping of mature, money-earners with the money-burners as  &quot;Silicone Valley&quot;. It serves them (and founders) well/if in people&",
+40,10870447,comment,10869694.0,10870270.0,0,0,jarcane,,,Depending on the C standard you&,
+41,10870446,story,,,1,0,nitin_flanker,Is China Sliding into a Deflationary Cycle?,http://profit.ndtv.com/news/economy/article-is-china-sliding-into-a-deflationary-cycle-1263827,,1452324672.0
+42,10870445,comment,10869419.0,10869419.0,0,0,thewarrior,,,"Yahoo,Mixpanel,Instacart,Jawbone,Tango,Hotels tonight,Maker media ..<p>And so it begins ... ?<p><a href=""http://techcrunch.com/2016/01/08/burn-slower-or-vaporize/"" rel=""nofollow"">http://techcrunch.com/2016/01/08/burn-slower-or-vaporize/</a>",1452324617.0
+43,10870444,story,,,1,2,adil_b,11 powerful graphics will make you realize how incredibly short life is,http://www.businessinsider.com/these-graphics-will-make-you-rethink-your-life-2016-1?IR=T&r=US&IR=T,,1452324589.0
+44,10870443,comment,10870239.0,10870239.0,0,0,droidist2,,,"Webpack is getting very popular, especially in the React community.",1452324488.0
+45,10870442,story,,,2,0,shmageggy,OpenAI Research Team AMA on Reddit (r/MachineLearning),https://www.reddit.com/r/MachineLearning/comments/404r9m/ama_the_openai_research_team/,,1452324472.0
+46,10870440,comment,10869694.0,10870387.0,0,0,chipsy,,,I&,
+47,10870439,comment,10864176.0,10864885.0,0,0,vardump,,,"Well, at least division isn&",
+48,10870437,story,,,2,0,baristaGeek,Platzi Raises $2.1M to Deliver Professional Skills Courses,http://blogs.wsj.com/venturecapital/2016/01/08/platzi-raises-2-1-million-to-deliver-professional-skills-courses/,,1452324322.0
+49,10870436,comment,10867727.0,10869063.0,0,0,r00fus,,,"Fine, then opt-out of BingeOn. Just the same as before. Of course that means no free video streaming from a number of other sites (480p max).",1452324281.0
+50,10870435,comment,10867504.0,10870310.0,0,0,lambdasquirrel,,,I&,
+51,10870434,comment,10868717.0,10868717.0,0,0,kevindeasis,,,This is exciting. I&,
+52,10870433,comment,10863620.0,10870200.0,0,0,innocentoldguy,,,I&,
+53,10870432,comment,10868717.0,10869030.0,0,0,cookiecaper,,,"Can you explain, step by step, the cheap, easy way to gain traction as a technical entrepreneur with a few months of savings? This sounds like an infomercial. I&",
+54,10870431,comment,10869694.0,10870270.0,0,0,ziotom78,,,"As camgunz said, emitting C code makes your compiler far more portable, as you can find C compilers for virtually every target (e.g., AFAIK, the current version of LLVM does not support SPARC architectures).<p>Another theoretical advantage of generating C code is that it should be easy to try adding bits of code written in these new languages to existing C/C++ projects. In this way you can test the new language on real life projects without the need of rewriting everything from scratch. (I have never followed this approach, although I have heard of people having done this [1].)<p>[1] <a href=""http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-retrospective/"" rel=""nofollow"">http://roscidus.com/blog/blog/2014/06/06/python-to-ocaml-ret...</a> The languages here were quite different, though (Python/OCaml): but the author followed the idea of slowly converting a project to a new language by first rewriting parts of it. Had the OCaml compiler emitted Python code, I bet the task would have been easier.",1452324186.0
+55,10870430,story,,,5,1,magda_wang,Vermeer as Scientist,http://www.the-tls.co.uk/tls/public/article1653131.ece,,1452324170.0
+56,10870429,comment,10867504.0,10870188.0,0,0,phamilton,,,I&,
+57,10870428,comment,10866416.0,10866416.0,0,0,goalieca,,,Why not pascal strings? This worked for android.<p>{ uint Len; char str[0];},1452324103.0
+58,10870427,comment,10867504.0,10869797.0,0,0,im2w1l,,,For the sake of argument I will state the efficient market interpretation: What we call the business cycle is actually just good and bad runs in a series of independent random events. I don&,
+59,10870425,comment,10867202.0,10869744.0,0,0,duskwuff,,,> Wouldn&,
+60,10870423,comment,10870093.0,10870352.0,0,0,potatolicious,,,Dare I say there are non-monetary benefits to being paid at top of market.<p>I&,
+61,10870422,story,,,2,0,exolymph,“needing consensus is civilization’s defining problem”,https://medium.com/@Exolymph/we-can-all-agree-right-d947d35f89eb,,
+62,10870421,comment,10869745.0,10870395.0,0,0,verst,,,"A similar thing happened to me when I took the Tokyo metro by myself my sophomore year of college (in early 2007).\nEverybody had exited the train, but I thought I had another stop or two to go - I absolutely couldn&",
+63,10870420,comment,10864176.0,10864429.0,0,0,vardump,,,"> If 16 bits is enough, use an explicitly 16-bit integer.<p>This will often generate more code. So don&",
+64,10870418,comment,10867202.0,10870249.0,0,0,x13,,,"luckily domain prices have changed over time; .org domains are priced annually between $9 - $12, purchased by registrars for ~$7.70 (&",
+65,10870417,comment,10866805.0,10866805.0,0,0,netheril96,,,"Every time I see some one touts AES as the reason that their encryption is secure, I want to ask, in what mode? CBC, CFB, CTR or (the best) GCM? How is the IV generated? Are there any potential padding oracles? If they don&",
+66,10870416,comment,10869694.0,10870387.0,0,0,jrapdx3,,,"Not a new idea at all, many compilers for different languages output C as one option anyway[0].<p>Among languages I&",
+67,10870415,comment,10869745.0,10870400.0,0,0,mrob,,,"Being a high school student, presumably she didn&",
+68,10870414,comment,10869965.0,10869965.0,0,0,whatnotests,,,> It’s old news by now that taxis are struggling to compete...<p>Er...not competing at all.,1452323651.0
+69,10870413,comment,10864176.0,10866769.0,0,0,hyc_symas,,,<i>&quot;Don&,
+70,10870412,comment,10869419.0,10870404.0,0,0,w1ntermute,,,There&,
+71,10870410,comment,10868813.0,10870006.0,0,0,forgotpwtomain,,,"There used to be a pretty good website which had most Russian poets (in the original): <a href=""https://web.archive.org/web/20110310062154/http://litera.ru/stixiya/"" rel=""nofollow"">https://web.archive.org/web/20110310062154/http://litera.ru/...</a><p>Not sure what happened to it though.",1452323550.0
+72,10870409,comment,10869694.0,10870387.0,0,0,ziotom78,,,"It is indeed an interesting idea. However, it is hardly the first to do this. The first C++ compiler (cfront) did so [1], and there are other languages that follow this idea still today [2][3].<p>[1] <a href=""https://en.wikipedia.org/wiki/Cfront"" rel=""nofollow"">https://en.wikipedia.org/wiki/Cfront</a>\n[2] <a href=""http://chapel.cray.com/"" rel=""nofollow"">http://chapel.cray.com/</a>\n[3] <a href=""http://nim-lang.org/"" rel=""nofollow"">http://nim-lang.org/</a>",1452323505.0
+73,10870408,comment,10869745.0,10869745.0,0,0,elcapitan,,,"This is similar in some parts of the Eastern German countryside, where population is going down and the pragmatic solution for transport is to have buttons in regional trains (like in busses in cities) that you can use to stop at old stations where basically nobody lives anymore.",1452323488.0
+74,10870407,comment,10869311.0,10870246.0,0,0,melted,,,"To properly grok the word &quot;grok&quot;, you need to read &quot;Stranger in a Strange Land&quot; by Robert Heinlein. Quite possibly the best sci-fi book ever written.",1452323423.0
+75,10870406,story,,,28,8,ingve,Memory management in various languages (2014),https://www.ravenbrook.com/project/mps/master/manual/html/mmref/lang.html,,1452323405.0
+76,10870405,comment,10869419.0,10869419.0,0,0,swingbridge,,,Mixpanel has a great product but suffers quite a bit from the curse of having a product everyone loves but nobody wants to pay for.<p>The layoffs are a likely a further materialization of their struggles to get people to pay for the product at the rate they were hoping.<p>There&,
+77,10870404,comment,10869419.0,10870393.0,0,0,boomzilla,,,Shhtttt don&,
+78,10870403,comment,10867056.0,10870313.0,0,0,ehnto,,,"Just realise that the friends who care about you can come in and out of your life quite freely, without holding any grudges.<p>Imagine leaving to travel one day, for a year, no contact with anyone. Then imagine who will be excited to see you versus who will be bitter and distant because you left. You don&",
+79,10870402,comment,10853721.0,10859552.0,0,0,hackinthebochs,,,"Not nefarious, but rather misguided. Those speaking out against freebasics are judging it based on their own value system, which is going to be entirely different than the people such a program is targeting. And so the conclusions they draw are not valid for the people they are project them on to.<p>I don&",
+80,10870401,comment,10869355.0,10870022.0,0,0,pmorici,,,Things like py2exe have been around for ages.  I was more wondering if this was better or same thing for Linux.,1452322904.0
+81,10870400,comment,10869745.0,10870303.0,0,0,canthonytucci,,,I&,

@@ -1,0 +1,170 @@
+,16step-seq,done/help almost,Abstraction,rhythmical sequencer
+0,@,help,Abstraction,Scales a standard slider (ranging from 0 to 127) between min and max.
+1,add%,help,Abstraction,"Adds a certain percentage <int, float> to values <int, float> in left inlet."
+2,alea,done,Abstraction,random based object
+3,alea-rhythm,help,Abstraction,rhythm generator
+4,anti-bis,done,Abstraction,Filters out immediate repetitions of integers. Right output sends a bang whenever this occurs.
+5,anti-bis&osc,done/help,Abstraction,Filters out direct repetitions and when a number has occured the penultimate time
+6,anti-interval,done,Abstraction,Filters out a certain interval
+7,anti-octave,done,Abstraction,Filters out octaves between two consecutive notes
+8,anti-octave&prime,done,Abstraction,Filters out octaves and primes
+9,anti-osc,done,Abstraction,Filters out an integer which has occured the penultimate time.
+10,banger,banger16 done,External,An object to bang outlets sequentially.
+11,between,done,Abstraction,random based object
+12,between-lin,done,Abstraction,random based object
+13,between-lin-urn,done,Abstraction,random based object
+14,between-log,done,Abstraction,random based object
+15,between-log-urn,done,Abstraction,random based object
+16,block-bang,help,Abstraction,"Filters out bangs that arrive before a certain time span (""blocking time"") is over."
+17,BPM2ms,done,Abstraction,Converts beats per minute (BPM) into milliseconds.
+18,brown-melody,done,Abstraction,Generates a brownian-mouvement-like melody
+19,brown-rhythm,done,Abstraction,Generates a brownian-movement-like rhythm
+20,brownian,done,Abstraction,random based object
+21,butfirst,done,Abstraction,Outputs the input list without its first element.
+22,butlast,done,Abstraction,Outputs the input list without its last element.
+23,check-octaves,done,Abstraction,Checks whether an interval list sums up to an octave
+24,check-row,,Abstraction,dodecaphonic based object
+25,choice-rhythm,done,Abstraction,rhythm generator
+26,choose-intervals,done,Abstraction,Chooses a supply between one to five different intervals.
+27,collect,done,Abstraction,Collects numbers
+28,contrario,help,Abstraction,"A number <int, float> in left inlet outputs a complimentary number."
+29,cos-slider,done,Abstraction,Transforms a linear slider into a cosine function.
+30,count-bang,done,Abstraction,Counts the number of received bangs.
+31,countdown,help?,Abstraction,countdown object
+32,cresc-decresc,done,Abstraction,crescendo / decescendo generator
+33,crossfade~,done,Abstraction,Crossfades two input signals according to a sine function which guarantees that loudness of the result is constant.
+34,dB2lin,help,Abstraction,Converts dB into linear values.
+35,DblBang,,Patch,Detects single or double bang
+36,del-fb~,,Abstraction,Delay line with feedback.
+37,divmod,almost-builtin,External,divmod is the same as / and % for positive left operands.
+38,dur-from-ED,help,Abstraction,Calculcats note durations from entry delays (ED) and a duration factor.
+39,ED-rhythm,done,Abstraction,rhythm generator
+40,ED-trans,done,Abstraction,produces a ritardando or an accelerando
+41,ED2EP,done,Abstraction,Converts ED (= entry delays) into EP (= entry points)
+42,first,done,Abstraction,Outputs the first element of a list.
+43,first-bang,done,Abstraction,Outputs only the first bang of a stream of bangs
+44,first-shot,done,Abstraction,"Outputs only the first message of a stream of messages (bangs, ints, floats, symbols, lists) until the right inlet receives a (reset) bang."
+45,frq2note,done (ftom),Abstraction,Converts frequency into a note
+46,geom,"done, description wrong?",Abstraction,Int in right inlet outputs the nth member of a geometrical row.
+47,grid-rhythm,done,Abstraction,rhythm generator
+48,group,,External,groups numbers received in succession into a list.
+49,group-rhythm,done,Abstraction,rhythm generator
+50,group-rhythm2,done,Abstraction,rhythm generator
+51,groups,done,Abstraction,random based object
+52,inc-dec,help,Abstraction,Functional implementation of the graphical user interface object Inc-Dec.
+53,infinity-row,partially done,Abstraction,pitch generator
+54,insert,,Abstraction,Inserts an element after a position (= index) in the list
+55,integ,help,Abstraction,"Accumulates input values <int, float> until a bang (or any input) is sent to the right inlet."
+56,intv2ratio,done,Abstraction,Converts an interval into a ratio.
+57,inv,done,Abstraction,Calculates the inversion of a number.
+58,join,list,External,Joins two lists together.
+59,key-bang,done (also key-bang2),Abstraction,Sends out a bang whenever a certain key is pressed.
+60,Ladd,list-abs,External,"An object to add two lists, member by member."
+61,last,done,Abstraction,Outputs the last element of a list.
+62,Ldiv,,External,"An object to divide one list by another, member by member."
+63,lin2dB,help,Abstraction,Converts linear values into dB.
+64,listreg,done,External,this is for lists what the int object is for integers.
+65,listlen,list-len,External,listlen - outputs the length of a list or anything arriving at its inlet.
+66,Lmult,list-mult,External,"An object to multiply two lists, member by member."
+67,loop-sf~,,Abstraction,Loops a selected mono sndfile.
+68,Lpow,,External,An object to raise the members of a list to the powers set in another list.
+69,Lrem,,External,"An object to divide one list by another, member by member and output a list of the remainders."
+70,Lround,list-apply round,External,Rounds off members of a list to desired precision.
+71,Lsub,list-sub,External,"An object to subtract two lists, member by member."
+72,make-choice-list,done,Abstraction,random based object
+73,make-ED-scale,done,Abstraction,list generator
+74,make-scale,done,Abstraction,list generator
+75,make-trans-scale,almost - trans-exp!,Abstraction,list generator
+76,markov,done,Abstraction,probability based object
+77,markov-harmony,done,Abstraction,pitch generator
+78,markov-rhythm,done,Abstraction,rhythm generator
+79,max-menubar,ignore,Abstraction,1 or 0 send to the inlet (or given as the argument) switches MAX's menubar on or off.
+80,max-overdrive,ignore,Abstraction,1 or 0 send to the inlet
+81,max-quit,ignore,Abstraction,Quits MAX immediately - BEWARE!
+82,member,,Abstraction,list based object
+83,metro-dev%,done,Abstraction,rhythm generator
+84,minus,nameclash with maxlib!,External,Simply makes the negative of an int sent to the input.
+85,ms2sec,done,Abstraction,Converts milliseconds into seconds.
+86,MSP-iovs~,ignore,Abstraction,select I/O vector size
+87,MSP-sigvs~,ignore,Abstraction,select signal vector size
+88,MSP-sr~,ignore,Abstraction,Sets the sampling rate of MSP.
+89,MSP-takeover~,ignore,Abstraction,MSP takeover
+90,multiple,done,Abstraction,list based object
+91,neutral-harmony,done,Abstraction,pitch generator
+92,normalize-row,done,Abstraction,Normalization of a twelve-tone row
+93,note2cents,done,Abstraction,Shows how many cents a microtonal note <float> is deviating from a tempered one.
+94,note2frq,done (mtof),Abstraction,Converts a note into frequency.
+95,note2pitch,done,Abstraction,Outputs the pitch class of a note
+96,note2st,done,Abstraction,Outputs the intervals of an incoming stream of notes
+97,nth,done,External,outputs the nths element of a list
+98,panning,,Abstraction,"Equal power panning based on John Chowning's paper ""Simulation of Moving Sound Sources""."
+99,pass,done,Abstraction,Let a certain percentage of bangs pass.
+100,pass-bang,help,Abstraction,Let every nth bang pass.
+101,per2pass,done,Abstraction,Converts a periodicity factor <float between 0 and 1> into a percentage value <int between 0 and 100> for the pass-object.
+102,periodic,done,Abstraction,random based object
+103,permutate,done,Abstraction,random based object
+104,permutate-row,ask kHz,Abstraction,dodecaphonic based object
+105,permute,"help done, object difficult",External,returns the nth permutation of a list
+106,piece,,Abstraction,list based object
+107,pitch-from-intervals,done,Abstraction,pitch generator
+108,pitch-from-row,,Abstraction,pitch generator
+109,pitch-from-row,,Abstraction,pitch generator
+110,pitch-from-row-mod,,Abstraction,pitch generator
+111,pitch-from-row-mod,,Abstraction,pitch generator
+112,pitch2note,done,Abstraction,Combines pitch class and register into a note
+113,play,help,Abstraction,Plays a note whenever a key number is sent to the left inlet.
+114,play-samp~,done,Abstraction,Plays one sample.
+115,play2,done,Abstraction,Plays a note whenever a key number is sent to the left inlet.
+116,position,,External,position - sorts a list in the left inlet using the index numbers in the right inlet.
+117,QT-PercPlayer,,Abstraction,Plays the General MIDI percussion instruments directly from Quicktime
+118,random-norep,done,Abstraction,random based object
+119,random-pan~,,Abstraction,random pan
+120,random-ramp,done,Abstraction,Generates randomly fluctuating envelope shapes of a given dynamic scale
+121,random-row,done,Abstraction,random and dodecaphonic based object
+122,RandomSeeder,imported,Abstraction,random based object
+123,ratio,done - nameclash with creb!,Abstraction,"Chooses elements from a supply <int list> which are repeated according to a multiple list <int list> by using the ""series"" selection principle."
+124,ratio2intv,done,Abstraction,Converts a ratio into an interval
+125,reanimate,help,Abstraction,Sends out a bang on right outlet after x miliseconds if there has been no input bang in left inlet during x miliseconds.
+126,remove,,Abstraction,Removes the nth element of a list.
+127,remove-dc~,,Abstraction,Removes the DC offset of an audio signal.
+128,repchord-rhythm,done,Abstraction,rhythm generator
+129,repeat-ED,done,Abstraction,sends out a certain number of rhythm bangs
+130,replace,similar to list-replace,Abstraction,Replaces an element of a list
+131,reverse,list-rev,External,reverses a list of numbers.
+132,rit-acc,done,Abstraction,Generates a ritardando or an accelerando
+133,rota,done,Abstraction,random based object
+134,rotate,list-rot?,External,cyclically rotate a list
+135,round,help,External,round to next higher integer
+136,roundto,help,Abstraction,"A number sent to right inlet is rounded onto a certain ""grid"" <int, float> sent to right inlet."
+137,row-modus,,Abstraction,dodecaphonic based object
+138,samp10~,done,Abstraction,Allows a polyphony of up to 10 samples at the same time.
+139,scale-changer,done,Abstraction,scale changer
+140,schweller,done,Abstraction,decrescendo-crescendo envelopes generator
+141,scramble,done,External,scrambles the order of a list of numbers.
+142,sect,,External,outputs a list which contains only atoms that appear in both input lists.
+143,sel-princ,done,Abstraction,random based object
+144,sequence,done,External,outputs the next element of a list
+145,serial-rhythm,done,Abstraction,rhythm generator
+146,series,done,Abstraction,random based object
+147,show,done,Abstraction,Displays a list in a message box.
+148,showchord,,Abstraction,Shows the pitch of a chord of MIDI note numbers.
+149,shownote,,Abstraction,Shows the pitch of a MIDI note number.
+150,slice,list split x,External,divides a list in two.
+151,smooth-line,done,Abstraction,Interpolates smoothly between successive input values.
+152,sneak,done,Abstraction,random based object
+153,sneak-random,done,Abstraction,random based object
+154,sneak-rhythm,done,Abstraction,rhythm generator
+155,sort,zexy,External,sorts a list.
+156,st2pitch,done,Abstraction,Accumulates incoming intervals and outputs pitch classes
+157,sum,list-accum,External,Sums up a numerical list containing integers and/or floats.
+158,super-rhythm,needs work,Abstraction,rhythm generator
+159,trans,done,Abstraction,transition
+160,trans-exp,ask kHz for screenshot,External,exponential transition
+161,trans-lin,done,External,linear transition
+162,trans-log,done,External,logarithmical transition
+163,transp-pitch,done,Abstraction,Transposes pitch classes by a certain interval.
+164,transpose-row,done,Abstraction,dodecaphonic based object
+165,union,zl union,External,union - outputs a list which contains all atoms that appear in either or both input lists.
+166,unique,,External,unique puts out a list comprised of those items in the left input list that are not contained in the right input list.
+167,VolAmb,uses Table,Abstraction,Controls the ambitus between minimum and maximum dynamic by a single controller.
+168,xrandom,done,Abstraction,random based object
